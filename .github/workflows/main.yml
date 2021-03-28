@@ -37,8 +37,7 @@ jobs:
         EMAIL: ${{ secrets.EMAIL }}
         USERNAME: ${{ secrets.USERNAME }}
       run: |
-        jupyter nbconvert --to notebook --execute replication_code.ipynb
-        mv replication_code.nbconvert.ipynb replication_code.ipynb
+        python src/replication_code.py
     - name: Commit changes
       env:
         USER_EMAIL: ${{ secrets.USER_EMAIL }}
