@@ -6,7 +6,7 @@ In late March 2021, a friend of mine sent me a paper titled [The influence of hi
 Is making replication code more of a norm or an exception to (micro/empirical)economists?
 ```
 
-It may be true that there are public resources out there, but they may be scattered and not centralized in a place where communities can easily look up to, such as GitHub, where for other programming languages we can see topic such as [Awesome X](https://github.com/topics/awesome). It's not surprising that economists are not used to sharing stuffs on this place, but fortunately it looks like the numbers are growing recently.
+It may be true that there are public resources out there, but they may be scattered and not centralized in a place where communities can easily look up to, such as GitHub, where for other programming languages we can see on GitHub [topics](https://github.com/topics) such as [Awesome X](https://github.com/topics/awesome). It's not surprising that economists are not used to sharing stuffs on this place, but fortunately it looks like the numbers are growing recently.
 
 So here's my attempt to nowcast total repositories using Stata that describe "replication code" in the keywords. From the figure below I am optimistic that open-sourcing research is becoming more increasing. In addition, it still doesn't count publicly available codes on elsewhere, such as GitLab, Bitbucket, journal websites, or the authors' academic/personal websites.
 
