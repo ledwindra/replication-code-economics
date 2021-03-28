@@ -57,7 +57,7 @@ class ReplicationCode:
         plt.xticks(rotation=-45)
         plt.xlabel('Year created')
         plt.ylabel('Total repositories')
-        plt.savefig('img/replication-code-stata.png')
+        plt.savefig('img/replication-code-stata.png', bbox_inches = 'tight')
         
 if __name__ == '__main__':
     rc = ReplicationCode()
