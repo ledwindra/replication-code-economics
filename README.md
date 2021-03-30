@@ -10,7 +10,7 @@ It may be true that there are public resources out there, but they may be scatte
 
 So here's my attempt to nowcast total repositories using Stata that describe "replication code" in the keywords. From the figure below I am optimistic that open-sourcing research is becoming more popular. However, it still doesn't count publicly available codes on elsewhere, such as GitLab, Bitbucket, journal websites, or the authors' academic/personal websites.
 
-This repository is automatically updated on 12.00 AM UTC every day to nowcast this trend. The only metric that I use is numbers of public repositories that use Stata and have "replication code" in the keywords (not case sensitive). Also, it doesn't take into account the field of study in the replication codes. It is possible that people who use Stata also come from fields of study other than economics. Lastly, economists may increasingly use Python or R (order doesn't matter), which are not covered here yet since my assumption is that economists still mainly use Stata. I can be wrong here, though.
+This repository is automatically updated at 12.00 AM UTC every day to nowcast this trend. The only metric that I use is numbers of public repositories that use Stata and have "replication code" in the keywords (not case sensitive). Also, it doesn't take into account the field of study in the replication codes. It is possible that people who use Stata also come from fields of study other than economics. Lastly, economists may increasingly use Python or R (order doesn't matter), which are not covered here yet since my assumption is that economists still mainly use Stata. I can be wrong here, though.
 
 # Result
 ![replication-code-stata](./img/replication-code-stata.png)
