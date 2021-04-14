@@ -51,17 +51,20 @@ def parse_metadata(metadata):
 
     res = requests.get(metadata)
     content = BeautifulSoup(res.content, features='xml')
-    file_name = content.find('identifier').text
-    metadata = {
-        'datestamp': content.find('datestamp').text,
-        'title': content.find('title').text,
-        'creator': content.find('creator').text,
-        'identifier': [x.text for x in content.find_all('identifier')],
-        'description': content.find('description').text,
-        'subject': [x.text for x in content.find_all('subject')]
-    }
-    with open(f'data/aea-metadata/{file_name}.json', 'w') as f:
-        json.dump(metadata, f, indent=4)
+    try:
+        file_name = content.find('identifier').text
+            metadata = {
+                'datestamp': content.find('datestamp').text,
+                'title': content.find('title').text,
+                'creator': content.find('creator').text,
+                'identifier': [x.text for x in content.find_all('identifier')],
+                'description': content.find('description').text,
+                'subject': [x.text for x in content.find_all('subject')]
+            }
+            with open(f'data/aea-metadata/{file_name}.json', 'w') as f:
+                json.dump(metadata, f, indent=4)
+    except AttributeError:
+        pass
 
 if __name__ == '__main__':
     aea = os.listdir('data/aea/')
