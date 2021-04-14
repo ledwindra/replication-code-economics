@@ -1,6 +1,5 @@
 import json
 import os
-import re
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -31,7 +30,6 @@ def get_metadata(url):
     '''
 
     res = requests.get(url)
-    file_name = replace(url)
     content = BeautifulSoup(res.content, features='html.parser')
     well = content.find_all('div', {'class': 'well'})
     for i in range(len(well)):
@@ -53,7 +51,7 @@ def parse_metadata(metadata):
 
     res = requests.get(metadata)
     content = BeautifulSoup(res.content, features='xml')
-    file_name = [x.text for x in content.find_all('identifier') if 'https' not in x.text][0]
+    file_name = content.find('identifier').text
     metadata = {
         'datestamp': content.find('datestamp').text,
         'title': content.find('title').text,
@@ -73,7 +71,6 @@ if __name__ == '__main__':
         for j in i:
             if j != '':
                 urls.append(j)
-    replace = lambda x: re.sub('[:/.]', '', x)
     for u in urls:
         print(f'{current_timestamp()}: {u}')
         parse_metadata(get_metadata(u))
