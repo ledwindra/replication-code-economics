@@ -6,15 +6,19 @@ In late March 2021, a friend of mine sent me a paper titled [The influence of hi
 Is making replication code more of a norm or an exception to (micro/empirical)economists?
 ```
 
-It may be true that there are public resources out there, but they may be scattered and not centralized in a place where communities can easily look up to, such as GitHub, where for other programming languages we can see on GitHub [topics](https://github.com/topics) such as [Awesome X](https://github.com/topics/awesome). It's not surprising that economists are not used to sharing stuffs on this place, but fortunately it looks like the numbers are growing recently.
+It may be true that there are public resources out there, but they may be scattered and not centralized in a place where communities can easily look up to, such as GitHub, where for other programming languages we can see on GitHub [topics](https://github.com/topics) such as [Awesome List](https://github.com/topics/awesome). It's not surprising that economists are not used to sharing stuffs on this place, but fortunately it looks like the numbers are growing recently.
 
-So here's my attempt to nowcast total repositories using Stata that describe "replication code" in the keywords. From the figure below I am optimistic that open-sourcing research is becoming more popular. However, it still doesn't count publicly available codes on elsewhere, such as GitLab, Bitbucket, journal websites, or the authors' academic/personal websites.
-
-This repository is automatically updated at 12.00 AM UTC every day to nowcast this trend. The only metric that I use is numbers of public repositories that use Stata and have "replication code" in the keywords (not case sensitive). Also, it doesn't take into account the field of study in the replication codes. It is possible that people who use Stata also come from fields of study other than economics. Lastly, economists may increasingly use Python or R (order doesn't matter), which are not covered here yet since my assumption is that economists still mainly use Stata. I can be wrong here, though.
-
+This repository is automatically updated at 12.00 AM UTC every day to nowcast this trend. Currently there are two data sources that I'm using:
 
 ## GitHub API
+The only metric that I use is total numbers of public repositories that use Stata and have "replication code" in the keywords (not case sensitive). Also, it doesn't take into account the field of study in the replication codes. It is possible that people who use Stata also come from fields of study other than economics. Plot example as follows:
+
 ![replication-code-stata](./img/replication-code-stata.png)
 
 ## AEA Deposit on ICPSR
+American Economic Association deposits, where I scrape all of DOIs of each journal (nine in total). Then I compare the proportions of papers that have deposits on [Open Inter-university Consortium for Political and Social Research (ICPSR)](https://www.openicpsr.org/) to total papers published in AEA. The idea is to see the trends of replication over time so I don't have to hard-code the search process which I may overlook. Plot example as follows:
+
 ![replication-code-stata](./img/aea-deposit-icpsr.png)
+
+# PS
+Don't hesitate to reach me out or submit issues [here](https://github.com/ledwindra/replication-code-economics/issues).
