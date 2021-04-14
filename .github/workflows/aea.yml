@@ -34,6 +34,7 @@ jobs:
     - name: Run script
       env:
       run: |
+        # scrape AEA deposit
         python src/aea.py -j aer
         python src/aea.py -j aeri
         python src/aea.py -j app
@@ -43,6 +44,10 @@ jobs:
         python src/aea.py -j jel
         python src/aea.py -j jep
         python src/aea.py -j pandp
+
+        # download metadata from ICPSR
+        python src/aea_metadata.py
+        
     - name: Commit changes
       env:
         USER_EMAIL: ${{ secrets.USER_EMAIL }}

@@ -43,7 +43,27 @@ def get_metadata(url):
 
     well = well[i]
     metadata = [x['href'] for x in well.find_all('a')]
-    os.system(f'wget -O data/aea-metadata/{file_name}.xml "{metadata[0]}"')
+
+    return metadata[0]
+
+def parse_metadata(metadata):
+    '''
+    Parses metadata and returns into a JSON file
+    '''
+
+    res = requests.get(metadata)
+    content = BeautifulSoup(res.content, features='xml')
+    file_name = [x.text for x in content.find_all('identifier') if 'https' not in x.text][0]
+    metadata = {
+        'datestamp': content.find('datestamp').text,
+        'title': content.find('title').text,
+        'creator': content.find('creator').text,
+        'identifier': [x.text for x in content.find_all('identifier')],
+        'description': content.find('description').text,
+        'subject': [x.text for x in content.find_all('subject')]
+    }
+    with open(f'data/aea-metadata/{file_name}.json', 'w') as f:
+        json.dump(metadata, f, indent=4)
 
 if __name__ == '__main__':
     aea = os.listdir('data/aea/')
@@ -56,4 +76,4 @@ if __name__ == '__main__':
     replace = lambda x: re.sub('[:/.]', '', x)
     for u in urls:
         print(f'{current_timestamp()}: {u}')
-        get_metadata(u)
+        parse_metadata(get_metadata(u))

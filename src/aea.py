@@ -43,7 +43,7 @@ def article(issue):
 
     # we don't need to re-download existing files
     file_name = issue.replace('/issues/', '')
-    if not os.path.exists(f'data/tmp/{file_name}.json'):
+    if not os.path.exists(f'data/aea-tmp/{file_name}.json'):
         url = f'https://www.aeaweb.org{issue}'
         print(f'{current_timestamp()}: {url}')
         status_code = None
@@ -64,7 +64,7 @@ def article(issue):
                     'publication_date': content.find('meta', {'name': 'citation_publication_date'})['content'],
                     'article': articles
                 }
-                with open(f'data/tmp/{file_name}.json', 'w') as f:
+                with open(f'data/aea-tmp/{file_name}.json', 'w') as f:
                     json.dump(article, f, indent=4)
             except Exception as e:
                 print(f'{current_timestamp()}: {e}')
@@ -78,7 +78,7 @@ def paper(issue):
     # we don't need to re-download existing files
     file_name = issue.replace('/issues/', '')
     if not os.path.exists(f'data/aea/{file_name}'):
-        with open(f'data/tmp/{file_name}', 'r') as f:
+        with open(f'data/aea-tmp/{file_name}', 'r') as f:
             data = json.load(f)
         
         articles = []
