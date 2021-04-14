@@ -133,4 +133,3 @@ if __name__ == '__main__':
     articles = [article(x) for x in issues]
     issues = sorted(os.listdir('data/tmp'))
     [paper(x) for x in issues]
-    os.rmdir('data/tmp')
