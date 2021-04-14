@@ -11,12 +11,14 @@ def current_timestamp():
     '''
     Returns current timestamp for logging purposes
     '''
+    
     return datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 def issue(journal):
     '''
     Returns all of issues for any journal in AEA
     '''
+    
     url = f'https://www.aeaweb.org/journals/{journal}/issues'
     print(f'{current_timestamp()}: {url}')
     status_code = None
