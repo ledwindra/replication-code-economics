@@ -76,7 +76,7 @@ def paper(issue):
 
     # we don't need to re-download existing files
     file_name = issue.replace('/issues/', '')
-    if not os.path.exists(f'data/aea/{file_name}.json'):
+    if not os.path.exists(f'data/aea/{file_name}'):
         with open(f'data/tmp/{issue}', 'r') as f:
             data = json.load(f)
         
