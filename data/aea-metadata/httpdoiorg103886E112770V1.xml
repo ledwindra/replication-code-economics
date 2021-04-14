@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:09:04</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112770</identifier>
+                <datestamp>Wed Apr 14 10:09:04 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility</dc:title>
+                    <dc:creator>Raj Chetty</dc:creator>
+                    <dc:creator>Nathaniel Hendren</dc:creator>
+                    <dc:creator>Patrick Kline</dc:creator>
+                    <dc:creator>Emmanuel Saez</dc:creator>
+                    <dc:creator>Nicholas Turner</dc:creator>
+                    <dc:identifier>112770</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112770V1</dc:identifier>
+                    <dc:description>We present new evidence on trends in intergenerational mobility in the United States using administrative earnings records. We find that percentile rank-based measures of intergenerational mobility have remained extremely stable for the 1971–1993 birth cohorts. For children born between 1971 and 1986, we measure intergenerational mobility based on the correlation between parent and child income percentile ranks. For more recent cohorts, we measure mobility as the correlation between a child's probability of attending college and her parents' income rank. We also calculate transition probabilities, such as a child's chances of reaching the top quintile of the income distribution starting from the bottom quintile. Based on all of these measures, we find that children entering the labor market today have the same chances of moving up in the income distribution (relative to their parents) as children born in the 1970s. However, because inequality has risen, the consequences of the “birth lottery”–the parents to whom a child is born–are larger today than in the past.</dc:description>
+                    <dc:subject>D31 Personal Income, Wealth, and Their Distributions</dc:subject>
+                    <dc:subject>J31 Wage Level and Structure; Wage Differentials</dc:subject>
+                    <dc:subject>J62 Job, Occupational, and Intergenerational Mobility; Promotion</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

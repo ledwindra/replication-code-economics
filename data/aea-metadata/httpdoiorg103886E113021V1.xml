@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:02:52</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113021</identifier>
+                <datestamp>Wed Apr 14 10:02:52 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Patents and the Global Diffusion of New Drugs</dc:title>
+                    <dc:creator>Iain M. Cockburn</dc:creator>
+                    <dc:creator>Jean O. Lanjouw</dc:creator>
+                    <dc:creator>Mark Schankerman</dc:creator>
+                    <dc:identifier>113021</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113021V1</dc:identifier>
+                    <dc:description>Analysis of the timing of launches of 642 new drugs in 76 countries during 1983-2002 shows that patent and price regulation regimes strongly affect how quickly new drugs become commercially available in different countries. Price regulation delays launch, while longer and more extensive patent rights accelerate it. Health policy institutions and economic and demographic factors that make markets more profitable also speed up diffusion. The estimated effects are generally robust to controlling for endogeneity of policy regimes with country fixed effects and instrumental variables. The results highlight the important role of policy choices in driving the diffusion of new innovations. (JEL I18, L11, L51, L65, O31, O33, O34)</dc:description>
+                    <dc:subject>I18 Health: Government Policy; Regulation; Public Health</dc:subject>
+                    <dc:subject>L11 Production, Pricing, and Market Structure; Size Distribution of Firms</dc:subject>
+                    <dc:subject>L51 Economics of Regulation</dc:subject>
+                    <dc:subject>L65 Chemicals; Rubber; Drugs; Biotechnology; Plastics</dc:subject>
+                    <dc:subject>O31 Innovation and Invention: Processes and Incentives</dc:subject>
+                    <dc:subject>O33 Technological Change: Choices and Consequences; Diffusion Processes</dc:subject>
+                    <dc:subject>O34 Intellectual Property and Intellectual Capital</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

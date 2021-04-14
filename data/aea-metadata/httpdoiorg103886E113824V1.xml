@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:15:39</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113824</identifier>
+                <datestamp>Wed Apr 14 10:15:40 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Drug Innovations and Welfare Measures Computed from Market Demand: The Case of Anti-cholesterol Drugs</dc:title>
+                    <dc:creator>Abe Dunn</dc:creator>
+                    <dc:identifier>113824</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113824V1</dc:identifier>
+                    <dc:description>The pharmaceutical industry is characterized as having substantial
+investment in R&amp;D and a large number of new product introductions, which poses special problems for price measurement caused by the quality of drug products changing over time. This paper applies recent demand estimation techniques to individual-level data to construct a constant-quality price index for anti-cholesterol drugs. Although the average price for anti-cholesterol drugs does not change over the sample period, I find that the constant-quality price index drops by 27 percent, a pace more in line with our expectations in such a dynamic segment of the industry. (JEL C43, L11, L65, O31)</dc:description>
+                    <dc:subject>C43 Index Numbers and Aggregation; Leading indicators</dc:subject>
+                    <dc:subject>L11 Production, Pricing, and Market Structure; Size Distribution of Firms</dc:subject>
+                    <dc:subject>L65 Chemicals; Rubber; Drugs; Biotechnology; Plastics</dc:subject>
+                    <dc:subject>O31 Innovation and Invention: Processes and Incentives</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

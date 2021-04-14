@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:08:54</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112768</identifier>
+                <datestamp>Wed Apr 14 10:08:55 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Estimates of Annual Consumption Expenditures and Its Major Components in the PSID in Comparison to the CE</dc:title>
+                    <dc:creator>Patricia Andreski</dc:creator>
+                    <dc:creator>Geng Li</dc:creator>
+                    <dc:creator>Mehmet Zahid Samancioglu</dc:creator>
+                    <dc:creator>Robert Schoeni</dc:creator>
+                    <dc:identifier>112768</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112768V1</dc:identifier>
+                    <dc:description>Comprehensive data on consumption expenditures have historically not been collected in US longitudinal household surveys. The Panel Study of Income Dynamics (PSID) expanded its expenditure data collection in 1999 and 2005.  We examine these new expenditure data, highlighting several unique features of the PSID data. We then compare the PSID expenditure data with those in the Consumer Expenditure Survey (CE). We document that the PSID data cover nearly the entire scope of the CE data, and the mean statistics of total expenditures compare favorably between the two surveys. However, significant differences remain for certain expenditure categories.</dc:description>
+                    <dc:subject>C82 Methodology for Collecting, Estimating, and Organizing Macroeconomic Data; Data Access</dc:subject>
+                    <dc:subject>C83 Survey Methods; Sampling Methods</dc:subject>
+                    <dc:subject>E21 Macroeconomics: Consumption; Saving; Wealth</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:13:14</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>116159</identifier>
+                <datestamp>Wed Apr 14 10:13:15 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Tax Policy and Heterogeneous Investment Behavior</dc:title>
+                    <dc:creator>Eric Zwick</dc:creator>
+                    <dc:creator>James Mahon</dc:creator>
+                    <dc:identifier>116159</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E116159V1</dc:identifier>
+                    <dc:description>We estimate the effect of temporary tax incentives on equipment investment using shifts in accelerated depreciation. Analyzing data for over 120,000 firms, we present three findings. First, bonus depreciation raised investment in eligible capital relative to ineligible capital by 10.4 percent between 2001 and 2004 and 16.9 percent between 2008 and 2010. Second, small firms respond 95 percent more than big firms. Third, firms respond strongly when the policy generates immediate cash flows, but not when cash flows only come in the future. This heterogeneity materially affects investment-weighted estimates and supports models in which financial frictions or fixed costs amplify investment responses.</dc:description>
+                    <dc:subject>D21 Firm Behavior: Theory</dc:subject>
+                    <dc:subject>D22 Firm Behavior: Empirical Analysis</dc:subject>
+                    <dc:subject>D25 Intertemporal Firm Choice: Investment, Capacity, and Financing</dc:subject>
+                    <dc:subject>G31 Capital Budgeting; Fixed Investment and Inventory Studies; Capacity</dc:subject>
+                    <dc:subject>H25 Business Taxes and Subsidies including sales and value-added (VAT)</dc:subject>
+                    <dc:subject>H32 Fiscal Policies and Behavior of Economic Agents: Firm</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

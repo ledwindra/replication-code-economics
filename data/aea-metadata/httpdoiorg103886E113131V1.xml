@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:13:23</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113131</identifier>
+                <datestamp>Wed Apr 14 10:13:23 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Are Online and Offline Prices Similar? Evidence from Large Multi-channel Retailers</dc:title>
+                    <dc:creator>Alberto Cavallo</dc:creator>
+                    <dc:identifier>113131</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113131V1</dc:identifier>
+                    <dc:description>Online prices are increasingly used for measurement and research applications, yet little is known about their relation to prices collected offline, where most retail transactions take place. I conduct the first large-scale comparison of prices simultaneously collected from the websites and physical stores of 56 large multi-channel retailers in 10 countries. I find that price levels are identical about 72 percent of the time. Price changes are not synchronized but have similar frequencies and average sizes. These results have implications for national statistical offices, researchers using online data, and anyone interested in the effect of the Internet on retail prices.</dc:description>
+                    <dc:subject>D22 Firm Behavior: Empirical Analysis</dc:subject>
+                    <dc:subject>L11 Production, Pricing, and Market Structure; Size Distribution of Firms</dc:subject>
+                    <dc:subject>L81 Retail and Wholesale Trade; e-Commerce</dc:subject>
+                    <dc:subject>O14 Industrialization; Manufacturing and Service Industries; Choice of Technology</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

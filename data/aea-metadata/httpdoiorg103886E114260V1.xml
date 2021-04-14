@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:07:44</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>114260</identifier>
+                <datestamp>Wed Apr 14 10:07:45 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: On the Real Effects of Bank Bailouts: Micro Evidence from Japan</dc:title>
+                    <dc:creator>Mariassunta Giannetti</dc:creator>
+                    <dc:creator>Andrei Simonov</dc:creator>
+                    <dc:identifier>114260</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E114260V1</dc:identifier>
+                    <dc:description>Exploiting the Japanese banking crisis of the 1990s as a laboratory,
+we investigate the effects of bank bailouts on the supply of credit and
+the performance of banksâ€™ clients. Our findings indicate that the size
+of capital injections relative to the initial financial condition of banks
+is crucial for the success of bank bailouts. Capital injections that are
+large enough to reestablish bank capital requirements increase the
+supply of credit and spur investment. In contrast, not only do capital
+injections that are too small fail to increase the supply of credit,
+but they also encourage the evergreening of nonperforming loans.
+(JEL E44, G21, G28, G32, G34)</dc:description>
+                    <dc:subject>E44 Financial Markets and the Macroeconomy</dc:subject>
+                    <dc:subject>G21 Banks; Depository Institutions; Micro Finance Institutions; Mortgages</dc:subject>
+                    <dc:subject>G28 Financial Institutions and Services: Government Policy and Regulation</dc:subject>
+                    <dc:subject>G32 Financing Policy; Financial Risk and Risk Management; Capital and Ownership Structure; Value of Firms; Goodwill</dc:subject>
+                    <dc:subject>G34 Mergers; Acquisitions; Restructuring; Voting; Proxy Contests; Corporate Governance</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

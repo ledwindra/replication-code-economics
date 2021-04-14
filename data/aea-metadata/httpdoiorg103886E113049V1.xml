@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:13:10</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113049</identifier>
+                <datestamp>Wed Apr 14 10:13:10 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Clicking on Heaven's Door: The Effect of Immigrant Legalization on Crime</dc:title>
+                    <dc:creator>Paolo Pinotti</dc:creator>
+                    <dc:identifier>113049</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113049V1</dc:identifier>
+                    <dc:description>We estimate the effect of immigrant legalization on the crime rate of immigrants in Italy by exploiting an ideal regression discontinuity design: fixed quotas of residence permits are available each year, applications must be submitted electronically on specific "click days," and are processed on a first come, first served basis until the available quotas are exhausted. Matching data on applications with individual-level criminal records, we show that legalization reduces the crime rate of legalized immigrants by 0.6 percentage points on average, on a baseline crime rate of 1.1 percent.</dc:description>
+                    <dc:subject>J15 Economics of Minorities, Races, Indigenous Peoples, and Immigrants; Non-labor Discrimination</dc:subject>
+                    <dc:subject>J61 Geographic Labor Mobility; Immigrant Workers</dc:subject>
+                    <dc:subject>K37 Immigration Law</dc:subject>
+                    <dc:subject>K42 Illegal Behavior and the Enforcement of Law</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

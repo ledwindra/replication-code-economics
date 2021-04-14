@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:11:21</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112796</identifier>
+                <datestamp>Wed Apr 14 10:11:21 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Labor Supply and Household Dynamics</dc:title>
+                    <dc:creator>Maurizio Mazzocco</dc:creator>
+                    <dc:creator>Claudia Ruiz</dc:creator>
+                    <dc:creator>Shintaro Yamaguchi</dc:creator>
+                    <dc:identifier>112796</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112796V1</dc:identifier>
+                    <dc:description>Using the Panel Study of Income Dynamics, we provide evidence that to understand household decisions and evaluate policies designed to affect individual welfare, it is important to add an intertemporal dimension to the by-now standard static collective models of the household. Specifically, we document that the observed differences in labor supply by gender and marital status do not arise suddenly at the time of marriage, but rather emerge gradually over time. We then propose an intertemporal collective model that has the potential of explaining the observed patterns.</dc:description>
+                    <dc:subject>D13 Household Production and Intrahousehold Allocation</dc:subject>
+                    <dc:subject>J12 Marriage; Marital Dissolution; Family Structure; Domestic Abuse</dc:subject>
+                    <dc:subject>J16 Economics of Gender; Non-labor Discrimination</dc:subject>
+                    <dc:subject>J22 Time Allocation and Labor Supply</dc:subject>
+                    <dc:subject>J31 Wage Level and Structure; Wage Differentials</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

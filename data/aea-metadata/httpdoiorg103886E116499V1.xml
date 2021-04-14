@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:13:27</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>116499</identifier>
+                <datestamp>Wed Apr 14 10:13:28 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Complex Tax Incentives</dc:title>
+                    <dc:creator>Johannes Abeler</dc:creator>
+                    <dc:creator>Simon Jäger</dc:creator>
+                    <dc:identifier>116499</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E116499V1</dc:identifier>
+                    <dc:description>How does complexity affect people's reaction to tax changes? To answer this question, we conduct an experiment in which subjects work for a piece rate and face taxes. One treatment features a simple tax system, the other a complex one. Subjects' economic incentives are identical across treatments. We introduce the same sequence of additional taxes in both treatments. Subjects in the complex treatment underreact to new taxes; some ignore new taxes entirely. The underreaction is stronger for subjects with lower cognitive ability. Contrary to predictions from models of rational inattention, subjects are equally likely to ignore large or small incentive changes (JEL D14, H24, H31)</dc:description>
+                    <dc:subject>D14 Household Saving; Personal Finance</dc:subject>
+                    <dc:subject>H24 Personal Income and Other Nonbusiness Taxes and Subsidies; includes inheritance and gift taxes</dc:subject>
+                    <dc:subject>H31 Fiscal Policies and Behavior of Economic Agents: Household</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

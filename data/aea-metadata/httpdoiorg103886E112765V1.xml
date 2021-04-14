@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:08:41</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112765</identifier>
+                <datestamp>Wed Apr 14 10:08:41 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Measuring How Fiscal Shocks Affect Durable Spending in Recessions and Expansions</dc:title>
+                    <dc:creator>David Berger</dc:creator>
+                    <dc:creator>Joseph Vavra</dc:creator>
+                    <dc:identifier>112765</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112765V1</dc:identifier>
+                    <dc:description>We estimate how durable expenditures respond to government spending shocks at different points in the business cycle using a nonlinear VAR approach that allows for the durable multiplier to vary smoothly with the state of the economy. We find strong evidence that the aggregate durable spending response to fiscal shocks is substantially larger during expansions than during recessions, in contrast to what has been has been observed for the aggregate multiplier. We argue that these results are consistent with the theoretical predictions of the fixed cost model of durable demand in Berger and Vavra (2012).</dc:description>
+                    <dc:subject>E21 Macroeconomics: Consumption; Saving; Wealth</dc:subject>
+                    <dc:subject>E22 Investment; Capital; Intangible Capital; Capacity</dc:subject>
+                    <dc:subject>E32 Business Fluctuations; Cycles</dc:subject>
+                    <dc:subject>E62 Fiscal Policy</dc:subject>
+                    <dc:subject>G01 Financial Crises</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

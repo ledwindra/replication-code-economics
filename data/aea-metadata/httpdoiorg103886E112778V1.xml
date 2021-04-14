@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:09:51</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112778</identifier>
+                <datestamp>Wed Apr 14 10:09:51 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Estimation of an Education Production Function under Random Assignment with Selection</dc:title>
+                    <dc:creator>Eleanor Jawon Choi</dc:creator>
+                    <dc:creator>Hyungsik Roger Moon</dc:creator>
+                    <dc:creator>Geert Ridder</dc:creator>
+                    <dc:identifier>112778</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112778V1</dc:identifier>
+                    <dc:description>This paper estimates an education production function using data on the College Scholastic Ability Test score and high school characteristics from Seoul, Korea, where, on entering high school, students are randomly assigned to schools within each school district. We derive a school production function by aggregating the individuals' potential outcomes under the random assignment and no cohort effect assumption. We find that the school production function coefficients differ between districts and that the single-sex school effect estimate is much larger than that found in previous studies.</dc:description>
+                    <dc:subject>D24 Production; Cost; Capital; Capital, Total Factor, and Multifactor Productivity; Capacity</dc:subject>
+                    <dc:subject>I21 Analysis of Education</dc:subject>
+                    <dc:subject>I23 Higher Education; Research Institutions</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

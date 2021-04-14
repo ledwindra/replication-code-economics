@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:02:38</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113013</identifier>
+                <datestamp>Wed Apr 14 10:02:39 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Generalized Social Marginal Welfare Weights for Optimal Tax Theory</dc:title>
+                    <dc:creator>Emmanuel Saez</dc:creator>
+                    <dc:creator>Stefanie Stantcheva</dc:creator>
+                    <dc:identifier>113013</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113013V1</dc:identifier>
+                    <dc:description>This paper proposes to evaluate tax reforms by aggregating money metric losses and gains of different individuals using "generalized social marginal welfare weights." Optimum tax formulas take the same form as standard welfarist tax formulas by simply substituting standard marginal social welfare weights with those generalized weights. Weights directly capture society's concerns for fairness without being necessarily tied to individual utilities. Suitable weights can help reconcile discrepancies between the welfarist approach and actual tax practice, as well as unify in an operational way the most prominent alternatives to utilitarianism such as Libertarianism, equality of opportunity, or poverty alleviation. (JEL D60, D63, H21, H23, I38)</dc:description>
+                    <dc:subject>D60 Welfare Economics: General</dc:subject>
+                    <dc:subject>D63 Equity, Justice, Inequality, and Other Normative Criteria and Measurement</dc:subject>
+                    <dc:subject>H21 Taxation and Subsidies: Efficiency; Optimal Taxation</dc:subject>
+                    <dc:subject>H23 Taxation and Subsidies: Externalities; Redistributive Effects; Environmental Taxes and Subsidies</dc:subject>
+                    <dc:subject>I38 Welfare, Well-Being, and Poverty: Government Programs; Provision and Effects of Welfare Programs</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

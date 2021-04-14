@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:13:01</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113084</identifier>
+                <datestamp>Wed Apr 14 10:13:01 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Microeconomic Origins of Macroeconomic Tail Risks</dc:title>
+                    <dc:creator>Daron Acemoglu</dc:creator>
+                    <dc:creator>Asuman Ozdaglar</dc:creator>
+                    <dc:creator>Alireza Tahbaz-Salehi</dc:creator>
+                    <dc:identifier>113084</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113084V1</dc:identifier>
+                    <dc:description>Using a multisector general equilibrium model, we show that the interplay of idiosyncratic microeconomic shocks and sectoral heterogeneity results in systematic departures in the likelihood of large economic downturns relative to what is implied by the normal distribution. Such departures can emerge even though GDP fluctuations are approximately normally distributed away from the tails, highlighting the different nature of large economic downturns from regular business-cycle fluctuations. We further demonstrate the special role of input-output linkages in generating tail comovements, whereby large recessions involve not only significant GDP contractions, but also large simultaneous declines across a wide range of industries.</dc:description>
+                    <dc:subject>D57 General Equilibrium and Disequilibrium: Input-Output Tables and Analysis</dc:subject>
+                    <dc:subject>E16 General Aggregative Models: Social Accounting Matrix</dc:subject>
+                    <dc:subject>E23 Macroeconomics: Production</dc:subject>
+                    <dc:subject>E32 Business Fluctuations; Cycles</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

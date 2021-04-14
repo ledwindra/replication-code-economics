@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:08:59</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112769</identifier>
+                <datestamp>Wed Apr 14 10:08:59 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: The Intergenerational Correlation of Consumption Expenditures</dc:title>
+                    <dc:creator>Kerwin Kofi Charles</dc:creator>
+                    <dc:creator>Sheldon Danziger</dc:creator>
+                    <dc:creator>Geng Li</dc:creator>
+                    <dc:creator>Robert Schoeni</dc:creator>
+                    <dc:identifier>112769</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112769V1</dc:identifier>
+                    <dc:description>Using data recently collected by the Panel Study of Income Dynamics, we find that the intergenerational correlation in expenditures is no larger than that in income, suggesting limited intra-family risk-sharing. On the other hand, even after controlling for the intergenerational correlation in income, the expenditures correlation remains significant. This suggests that other factors such as preferences, access to credit, and non-pecuniary inter vivos transfers potentially played a role in consumption smoothing across generations within a family. We also find that the correlation coefficients estimated using food and imputed total expenditures are smaller than that estimated using the measured total expenditures.</dc:description>
+                    <dc:subject>D12 Consumer Economics: Empirical Analysis</dc:subject>
+                    <dc:subject>E21 Macroeconomics: Consumption; Saving; Wealth</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

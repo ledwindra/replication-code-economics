@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:09:22</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112774</identifier>
+                <datestamp>Wed Apr 14 10:09:23 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Agricultural Productivity Differences across Countries</dc:title>
+                    <dc:creator>Douglas Gollin</dc:creator>
+                    <dc:creator>David Lagakos</dc:creator>
+                    <dc:creator>Michael E. Waugh</dc:creator>
+                    <dc:identifier>112774</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112774V1</dc:identifier>
+                    <dc:description>Recent studies argue that cross-country labor productivity differences are much larger in agriculture than in the aggregate. We reexamine the agricultural productivity data underlying this conclusion using new evidence from disaggregate sources. We find that for the world's staple grains—maize, rice, and wheat—cross-country differences in the quantity of grain produced per worker are enormous according to both micro- and macrosources. Our findings validate the idea that understanding agricultural productivity is at the heart of understanding world income inequality.</dc:description>
+                    <dc:subject>D31 Personal Income, Wealth, and Their Distributions</dc:subject>
+                    <dc:subject>J24 Human Capital; Skills; Occupational Choice; Labor Productivity</dc:subject>
+                    <dc:subject>O13 Economic Development: Agriculture; Natural Resources; Energy; Environment; Other Primary Products</dc:subject>
+                    <dc:subject>O15 Economic Development: Human Resources; Human Development; Income Distribution; Migration</dc:subject>
+                    <dc:subject>Q11 Agriculture: Aggregate Supply and Demand Analysis; Prices</dc:subject>
+                    <dc:subject>Q12 Micro Analysis of Farm Firms, Farm Households, and Farm Input Markets</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

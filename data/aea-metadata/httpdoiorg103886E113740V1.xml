@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:03:43</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113740</identifier>
+                <datestamp>Wed Apr 14 10:03:44 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Externalities in the Classroom: How Children Exposed to Domestic Violence Affect Everyone's Kids</dc:title>
+                    <dc:creator>Scott E. Carrell</dc:creator>
+                    <dc:creator>Mark L. Hoekstra</dc:creator>
+                    <dc:identifier>113740</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113740V1</dc:identifier>
+                    <dc:description>There is a widespread perception that externalities from troubled
+children are significant, though measuring them is difficult due
+to data and methodological limitations. We estimate the negative
+spillovers caused by children from troubled families by exploiting
+a unique dataset in which children's school records are matched to
+domestic violence cases. We find that children from troubled families
+significantly decrease the reading and math test scores of their peers
+and increase misbehavior in the classroom. The achievement spillovers
+are robust to within-family differences and when controlling
+for school-by-year effects, providing strong evidence that neither
+selection nor common shocks are driving the results. (JEL D62, I21,
+J12, J13, K42)</dc:description>
+                    <dc:subject>D62 Externalities</dc:subject>
+                    <dc:subject>I21 Analysis of Education</dc:subject>
+                    <dc:subject>J12 Marriage; Marital Dissolution; Family Structure; Domestic Abuse</dc:subject>
+                    <dc:subject>J13 Fertility; Family Planning; Child Care; Children; Youth</dc:subject>
+                    <dc:subject>K42 Illegal Behavior and the Enforcement of Law</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

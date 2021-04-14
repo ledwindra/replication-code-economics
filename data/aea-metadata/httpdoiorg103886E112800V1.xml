@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:08:07</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112800</identifier>
+                <datestamp>Wed Apr 14 10:08:08 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: The Natural Rate of Interest and Its Usefulness for Monetary Policy</dc:title>
+                    <dc:creator>Robert Barsky</dc:creator>
+                    <dc:creator>Alejandro Justiniano</dc:creator>
+                    <dc:creator>Leonardo Melosi</dc:creator>
+                    <dc:identifier>112800</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112800V1</dc:identifier>
+                    <dc:description>We estimate a state-of-the-art DSGE model to study the natural rate of interest in the United States over the last 20 years. The natural rate is highly procyclical, and fell substantially below zero in each of the last three recessions. Although the drop was of comparable magnitude across the three recessions, the decline was considerably more persistent in the Great Recession. We discuss the usefulness and limitations, particularly due to the zero lower bound, of the natural rate for the conduct of monetary policy.</dc:description>
+                    <dc:subject>E12 General Aggregative Models: Keynes; Keynesian; Post-Keynesian; Modern Monetary Theory</dc:subject>
+                    <dc:subject>E21 Macroeconomics: Consumption; Saving; Wealth</dc:subject>
+                    <dc:subject>E22 Investment; Capital; Intangible Capital; Capacity</dc:subject>
+                    <dc:subject>E31 Price Level; Inflation; Deflation</dc:subject>
+                    <dc:subject>E32 Business Fluctuations; Cycles</dc:subject>
+                    <dc:subject>E43 Interest Rates: Determination, Term Structure, and Effects</dc:subject>
+                    <dc:subject>E52 Monetary Policy</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

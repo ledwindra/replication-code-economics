@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:02:24</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>114320</identifier>
+                <datestamp>Wed Apr 14 10:02:24 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Cyber-Shilling in Automobile Auctions: Evidence from a Field Experiment</dc:title>
+                    <dc:creator>David Grether</dc:creator>
+                    <dc:creator>David Porter</dc:creator>
+                    <dc:creator>Matthew Shum</dc:creator>
+                    <dc:identifier>114320</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E114320V1</dc:identifier>
+                    <dc:description>We run a large field experiment with an online company specializing in selling used automobiles via ascending auctions. We manipulate experimentally the "price grid," or the possible amounts that bidders can bid above the current standing price. Using two diverse auction sites, one in New York and one in Texas, we find that buyer and seller behavior differs strikingly across the two sites. Specifically, in Texas we find peculiar patterns of bidding among a small but prominent group of buyers suggesting that they are "cyber-shills" working on behalf of sellers. These patterns do not appear in the New York auctions. (JEL C93, D12, D44, L62, L81)</dc:description>
+                    <dc:subject>C93 Field Experiments</dc:subject>
+                    <dc:subject>D12 Consumer Economics: Empirical Analysis</dc:subject>
+                    <dc:subject>D44 Auctions</dc:subject>
+                    <dc:subject>L62 Automobiles; Other Transportation Equipment; Related Parts and Equipment</dc:subject>
+                    <dc:subject>L81 Retail and Wholesale Trade; e-Commerce</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

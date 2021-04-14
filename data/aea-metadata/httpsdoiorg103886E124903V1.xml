@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T09:51:26</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>124903</identifier>
+                <datestamp>Wed Apr 14 09:51:28 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Data and Code for: Myopia and Anchoring</dc:title>
+                    <dc:creator>George-Marios Angeletos</dc:creator>
+                    <dc:creator>Zhen Huo</dc:creator>
+                    <dc:identifier>124903</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E124903V1</dc:identifier>
+                    <dc:description>We develop an equivalence between the equilibrium effects of incomplete information and those of two behavioral distortions:&amp;nbsp; myopia, or extra discounting of the future; and anchoring of current behavior to past behavior, as in models with habit persistence or adjustment costs. We show how these distortions depend on higher-order beliefs and GE mechanisms, and how they can be disciplined by evidence on expectations. We finally illustrate the use of our toolbox with a quantitative application in the context of inflation, a bridge to the HANK literature, and an extension to networks.</dc:description>
+                    <dc:subject>Informational frictions</dc:subject>
+                    <dc:subject>dynamics beauty contests</dc:subject>
+                    <dc:subject>DSGE</dc:subject>
+                    <dc:subject>C72 Noncooperative Games</dc:subject>
+                    <dc:subject>D80 Information, Knowledge, and Uncertainty: General</dc:subject>
+                    <dc:subject>E30 Prices, Business Fluctuations, and Cycles: General (includes Measurement and Data)</dc:subject>
+                    <dc:subject>E70 Macro-Based Behavioral Economics: General</dc:subject>
+                    <dc:coverage>United States</dc:coverage>
+                    <dc:coverage>1968 – 2018</dc:coverage>
+                    <dc:type>aggregate data</dc:type>
+                    <dc:type>program source code</dc:type>
+                    <dc:type>survey data</dc:type>
+                    <dc:source>Individual Forecasts for the Survey of Professional Forecasters, 1968-2018&lt;br&gt;&lt;div&gt;&lt;br&gt;Historical Data Files for the Real-Time Data Set, Price Index for GNP/GDP (P), Quarterly Vintages, 1968-2018&lt;/div&gt;</dc:source>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

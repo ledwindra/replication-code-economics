@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:12:34</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112814</identifier>
+                <datestamp>Wed Apr 14 10:12:34 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: (Dis)organization and Success in an Economics MOOC</dc:title>
+                    <dc:creator>Abhijit V. Banerjee</dc:creator>
+                    <dc:creator>Esther Duflo</dc:creator>
+                    <dc:identifier>112814</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112814V1</dc:identifier>
+                    <dc:description>Massive Online Open Courses (MOOCs) present the potential to deliver high quality education to a large number of students. But they suffer from low completion rates. This paper identifies disorganization as a factor behind failure to complete a MOOC. Students who enroll one day late are 17 percentage points less likely to earn a certificate than students who enroll exactly on time. This reflects selection, but it does seem to be related to demographic characteristics, motivation to complete the course, or ability. This suggests that building in even more structure in the MOOC could be a factor in improving performance.</dc:description>
+                    <dc:subject>I21 Analysis of Education</dc:subject>
+                    <dc:subject>I23 Higher Education; Research Institutions</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

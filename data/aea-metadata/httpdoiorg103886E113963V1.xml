@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:04:40</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113963</identifier>
+                <datestamp>Wed Apr 14 10:04:41 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Will We Ever Stop Using Fossil Fuels?</dc:title>
+                    <dc:creator>Thomas Covert</dc:creator>
+                    <dc:creator>Michael Greenstone</dc:creator>
+                    <dc:creator>Christopher R. Knittel</dc:creator>
+                    <dc:identifier>113963</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113963V1</dc:identifier>
+                    <dc:description>Scientists believe significant climate change is unavoidable without a drastic reduction in the emissions of greenhouse gases from the combustion of fossil fuels. However, few countries have implemented comprehensive policies that price this externality or devote serious resources to developing low-carbon energy sources. In many respects, the world is betting that we will greatly reduce the use of fossil fuels because we will run out of inexpensive fossil fuels (there will be decreases in supply) and/or technological advances will lead to the discovery of less-expensive low-carbon technologies (there will be decreases in demand). The historical record indicates that the supply of fossil fuels has consistently increased over time and that their relative price advantage over low-carbon energy sources has not declined substantially over time. Without robust efforts to correct the market failures around greenhouse gases, relying on supply and/or demand forces to limit greenhouse gas emissions is relying heavily on hope.</dc:description>
+                    <dc:subject>Q35 Hydrocarbon Resources</dc:subject>
+                    <dc:subject>Q42 Alternative Energy Sources</dc:subject>
+                    <dc:subject>Q53 Air Pollution; Water Pollution; Noise; Hazardous Waste; Solid Waste; Recycling</dc:subject>
+                    <dc:subject>Q58 Environmental Economics: Government Policy</dc:subject>
+                    <dc:subject>Q48 Energy: Government Policy</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

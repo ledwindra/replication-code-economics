@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:12:11</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112808</identifier>
+                <datestamp>Wed Apr 14 10:12:12 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: The Continuous Combinatorial Auction Architecture</dc:title>
+                    <dc:creator>Charles R. Plott</dc:creator>
+                    <dc:creator>Hsing-Yang Lee</dc:creator>
+                    <dc:creator>Travis Maron</dc:creator>
+                    <dc:identifier>112808</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112808V1</dc:identifier>
+                    <dc:description>The paper reports the architecture of a continuous combinatorial auction. Preferences are based on sets of items and feasibility requires the nonintersection of sets. Countdown clocks replace eligibility and activity requirements typical of rounds-based auctions. Bids remain in the system to be combined with new bids to form winning collections. Increment requirements dictate improvements over appropriate collections of existing bids. The auction evolved from experimental methods and operates at high levels of efficiency. Field applications are reported and result in natural equilibration in a few hours as opposed to days or weeks required by round-based architectures.</dc:description>
+                    <dc:subject>D44 Auctions</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

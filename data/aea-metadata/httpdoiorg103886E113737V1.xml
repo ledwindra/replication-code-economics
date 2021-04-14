@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:03:28</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113737</identifier>
+                <datestamp>Wed Apr 14 10:03:29 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Prize Structure and Information in Tournaments: Experimental Evidence</dc:title>
+                    <dc:creator>Richard B. Freeman</dc:creator>
+                    <dc:creator>Alexander M. Gelber</dc:creator>
+                    <dc:identifier>113737</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113737V1</dc:identifier>
+                    <dc:description>This paper examines behavior in a tournament in which we vary
+the tournament prize structure and the available information about
+participants' skill at the task of solving mazes. The number of solved
+mazes is lowest when payments are independent of performance;
+higher when a single, large prize is given; and highest when multiple,
+differentiated prizes are given. This result is strongest when
+we inform participants about the number of mazes they and others
+solved in a pre-tournament round. Some participants reported that
+they solved more mazes than they actually solved, and this misreporting
+also peaked with multiple differentiated prizes. (JEL D82)</dc:description>
+                    <dc:subject>D82 Asymmetric and Private Information; Mechanism Design</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

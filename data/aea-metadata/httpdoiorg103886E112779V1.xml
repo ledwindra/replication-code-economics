@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:09:55</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112779</identifier>
+                <datestamp>Wed Apr 14 10:09:56 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Treatment Effects and Informative Missingness with an Application to Bank Recapitalization Programs</dc:title>
+                    <dc:creator>Angela Vossmeyer</dc:creator>
+                    <dc:identifier>112779</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112779V1</dc:identifier>
+                    <dc:description>This article develops a Bayesian framework for estimating multivariate treatment effect models in the presence of sample selection. The methodology is applied to a banking study that evaluates the effectiveness of lender of last resort (LOLR) policies and their ability to resuscitate the financial system. This paper employs a novel bank-level dataset from the Reconstruction Finance Corporation, and jointly models a bank's decision to apply for a loan, the LOLR's decision to approve the loan, and the bank's performance a few years after the disbursements. This framework offers practical estimation tools to unveil new answers to important regulatory questions.</dc:description>
+                    <dc:subject>C21 Single Equation Models; Single Variables: Cross-Sectional Models; Spatial Models; Treatment Effect Models; Quantile Regressions</dc:subject>
+                    <dc:subject>G21 Banks; Depository Institutions; Micro Finance Institutions; Mortgages</dc:subject>
+                    <dc:subject>G28 Financial Institutions and Services: Government Policy and Regulation</dc:subject>
+                    <dc:subject>N22 Economic History: Financial Markets and Institutions: U.S.; Canada: 1913-</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

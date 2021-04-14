@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:10:56</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112791</identifier>
+                <datestamp>Wed Apr 14 10:10:57 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: The Impact of Medicaid on Labor Market Activity and Program Participation: Evidence from the Oregon Health Insurance Experiment</dc:title>
+                    <dc:creator>Katherine Baicker</dc:creator>
+                    <dc:creator>Amy Finkelstein</dc:creator>
+                    <dc:creator>Jae Song</dc:creator>
+                    <dc:creator>Sarah Taubman</dc:creator>
+                    <dc:identifier>112791</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112791V1</dc:identifier>
+                    <dc:description>In 2008, a group of uninsured low-income adults in Oregon was selected by lottery for the chance to apply for Medicaid. Using this randomized design and 2009 administrative data, we find no significant effect of Medicaid on employment or earnings. Our 95 percent confidence intervals allow us to reject that Medicaid causes a decline in employment of more than 4.4 percentage points, or an increase of more than 1.2 percentage points. Medicaid increases food stamps receipt, but has little, if any, impact on receipt of other measured government benefits, including SSDI.</dc:description>
+                    <dc:subject>H75 State and Local Government: Health; Education; Welfare; Public Pensions</dc:subject>
+                    <dc:subject>I13 Health Insurance, Public and Private</dc:subject>
+                    <dc:subject>I18 Health: Government Policy; Regulation; Public Health</dc:subject>
+                    <dc:subject>I38 Welfare, Well-Being, and Poverty: Government Programs; Provision and Effects of Welfare Programs</dc:subject>
+                    <dc:subject>J22 Time Allocation and Labor Supply</dc:subject>
+                    <dc:subject>J31 Wage Level and Structure; Wage Differentials</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

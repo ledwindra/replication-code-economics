@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T09:51:58</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>127541</identifier>
+                <datestamp>Wed Apr 14 09:51:59 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Data and Code for: Risk-based Selection in Unemployment Insurance: Evidence and Implications</dc:title>
+                    <dc:creator>Camille Landais</dc:creator>
+                    <dc:creator>Arash  Nekoei</dc:creator>
+                    <dc:creator>Peter Nilsson</dc:creator>
+                    <dc:creator>David Seim</dc:creator>
+                    <dc:creator>Johannes Spinnewijn</dc:creator>
+                    <dc:identifier>127541</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E127541V1</dc:identifier>
+                    <dc:description>
+			
+				
+					This paper studies whether adverse selection can rationalize a universal mandate for unemployment insurance (UI). Building on a unique feature of the unemployment policy in Sweden,
+where workers can opt for supplemental UI coverage above a minimum mandate, we provide the
+first direct evidence for adverse selection in UI and derive its implications for UI design. We
+find that the unemployment risk is more than twice as high for workers who buy supplemental
+coverage. Exploiting variation in risk and prices, we show how 25-30% of this correlation is
+driven by risk-based selection, with the remainder driven by moral hazard. Due to the moral
+hazard and despite the adverse selection we find that mandating the supplemental coverage to
+individuals with low willingness-to-pay would be sub-optimal. We show under which conditions
+a design leaving choice to workers would dominate a UI system with a single mandate. In this
+design, using a subsidy for supplemental coverage is optimal and complementary to the use of
+a minimum mandate.
+
+				
+			
+		</dc:description>
+                    <dc:subject>Adverve Selection</dc:subject>
+                    <dc:subject>unemployment insurance</dc:subject>
+                    <dc:subject>Mandate</dc:subject>
+                    <dc:subject>Subsidy</dc:subject>
+                    <dc:subject>D82 Asymmetric and Private Information; Mechanism Design</dc:subject>
+                    <dc:subject>E24 Employment; Unemployment; Wages; Intergenerational Income Distribution; Aggregate Human Capital; Aggregate Labor Productivity</dc:subject>
+                    <dc:subject>J64 Unemployment: Models, Duration, Incidence, and Job Search</dc:subject>
+                    <dc:coverage>Sweden</dc:coverage>
+                    <dc:coverage>2002 – 2009</dc:coverage>
+                    <dc:coverage>1990 – 2015</dc:coverage>
+                    <dc:coverage>2002 – 2012</dc:coverage>
+                    <dc:coverage>1985 – 2015</dc:coverage>
+                    <dc:type>program source code</dc:type>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

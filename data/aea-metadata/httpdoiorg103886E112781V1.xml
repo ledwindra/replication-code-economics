@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:10:10</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112781</identifier>
+                <datestamp>Wed Apr 14 10:10:11 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Gender and Business Outcomes of Black and Hispanic New Entrepreneurs in the United States</dc:title>
+                    <dc:creator>Marie T. Mora</dc:creator>
+                    <dc:creator>Alberto Dávila</dc:creator>
+                    <dc:identifier>112781</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112781V1</dc:identifier>
+                    <dc:description>In light of the growing numbers of women of color in the entrepreneurial sector in the United States, employing public-use microdata from the 2007 Survey of Business Owners, this study finds that new firms owned by black and Hispanic women were more likely to cease operations than those owned by their male counterparts or by non-Hispanic whites, even when controlling for other owner- and firm-level characteristics and labor market conditions. These differences occurred despite the existence of public programs designed to help female and minority entrepreneurs, raising the question of efficiency of the current policy infrastructure in the United States.</dc:description>
+                    <dc:subject>J15 Economics of Minorities, Races, Indigenous Peoples, and Immigrants; Non-labor Discrimination</dc:subject>
+                    <dc:subject>J16 Economics of Gender; Non-labor Discrimination</dc:subject>
+                    <dc:subject>G32 Financing Policy; Financial Risk and Risk Management; Capital and Ownership Structure; Value of Firms; Goodwill</dc:subject>
+                    <dc:subject>L26 Entrepreneurship</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

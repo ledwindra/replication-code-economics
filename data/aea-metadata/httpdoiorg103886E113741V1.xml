@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:03:08</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113741</identifier>
+                <datestamp>Wed Apr 14 10:03:08 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Parental Education and Child Health: Evidence from a Natural Experiment in Taiwan</dc:title>
+                    <dc:creator>Shin-Yi Chou</dc:creator>
+                    <dc:creator>Jin-Tan Liu</dc:creator>
+                    <dc:creator>Michael Grossman</dc:creator>
+                    <dc:creator>Ted Joyce</dc:creator>
+                    <dc:identifier>113741</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113741V1</dc:identifier>
+                    <dc:description>In 1968, the Taiwanese government extended compulsory education
+from 6 to 9 years and opened over 150 new junior high schools at
+a differential rate among regions. Within each region, we exploit
+variations across cohorts in new junior high school openings to construct
+an instrument for schooling, and employ it to estimate the
+causal effects of mother's or father's schooling on infant birth outcomes
+in the years 1978-1999. Parents' schooling does cause favorable
+infant health outcomes. The increase in schooling associated
+with the reform saved almost 1 infant life in 1,000 live births. (JEL
+I12, I21, J12, J13, R23)</dc:description>
+                    <dc:subject>I12 Health Behavior</dc:subject>
+                    <dc:subject>I21 Analysis of Education</dc:subject>
+                    <dc:subject>J12 Marriage; Marital Dissolution; Family Structure; Domestic Abuse</dc:subject>
+                    <dc:subject>J13 Fertility; Family Planning; Child Care; Children; Youth</dc:subject>
+                    <dc:subject>R23 Urban, Rural, Regional, Real Estate, and Transportation Economics: Regional Migration; Regional Labor Markets; Population; Neighborhood Characteristics</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

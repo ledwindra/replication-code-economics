@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:07:30</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>114264</identifier>
+                <datestamp>Wed Apr 14 10:07:31 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Oil and Conflict: What Does the Cross Country Evidence Really Show?</dc:title>
+                    <dc:creator>Anca M. Cotet</dc:creator>
+                    <dc:creator>Kevin K. Tsui</dc:creator>
+                    <dc:identifier>114264</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E114264V1</dc:identifier>
+                    <dc:description>This paper re-examines the effect of oil wealth on political violence.
+Using a unique historical panel dataset of oil discoveries, we show
+that simply controlling for country fixed effects removes the statistical
+association between the value of oil reserves and civil war onset.
+Other macro-political violence measures, such as coup attempts, are
+also uncorrelated with oil wealth. To further address endogeneity
+concerns, we exploit changes in oil reserves due to randomness in
+the success of oil explorations. We find little robust evidence that oil
+discoveries increase the likelihood of political violence. Rather, oil
+discoveries increase military spending in nondemocratic countries.
+(JEL D74, H56, O17, Q34, Q41)</dc:description>
+                    <dc:subject>D74 Conflict; Conflict Resolution; Alliances; Revolutions</dc:subject>
+                    <dc:subject>H56 National Security and War</dc:subject>
+                    <dc:subject>O17 Formal and Informal Sectors; Shadow Economy; Institutional Arrangements</dc:subject>
+                    <dc:subject>Q34 Natural Resources and Domestic and International Conflicts</dc:subject>
+                    <dc:subject>Q41 Energy: Demand and Supply; Prices</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

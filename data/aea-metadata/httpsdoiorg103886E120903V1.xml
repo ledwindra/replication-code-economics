@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T09:51:18</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>120903</identifier>
+                <datestamp>Wed Apr 14 09:51:19 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Data and Code for "Reference Points for Retirement Behavior: Evidence from German Pension Discontinuities"</dc:title>
+                    <dc:creator>Arthur Seibold</dc:creator>
+                    <dc:identifier>120903</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E120903V1</dc:identifier>
+                    <dc:description>This paper studies the large concentration of retirement behavior around statutory retirement ages, a puzzling stylized fact. To investigate this fact, I estimate bunching responses to 644 pension benefit discontinuities, using administrative data on the universe of German retirees. Financial incentives alone cannot explain retirement patterns, but there is a large direct effect of statutory retirement ages. I argue that the framing of statutory ages as reference points for retirement provides a plausible explanation. Simulations based on a model with reference dependence highlight that shifting statutory ages via pension reforms is an effective policy to influence retirement behavior. </dc:description>
+                    <dc:subject>Reference Dependence</dc:subject>
+                    <dc:subject>pensions</dc:subject>
+                    <dc:subject>retirement</dc:subject>
+                    <dc:subject>D91 Micro-Based Behavioral Economics: Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making</dc:subject>
+                    <dc:subject>H55 Social Security and Public Pensions</dc:subject>
+                    <dc:subject>J26 Retirement; Retirement Policies</dc:subject>
+                    <dc:coverage>Germany</dc:coverage>
+                    <dc:coverage>1992 – 2014</dc:coverage>
+                    <dc:type>program source code</dc:type>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

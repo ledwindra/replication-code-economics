@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:13:05</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>113007</identifier>
+                <datestamp>Wed Apr 14 10:13:06 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Coarse Competitive Equilibrium and Extreme Prices</dc:title>
+                    <dc:creator>Faruk Gul</dc:creator>
+                    <dc:creator>Wolfgang Pesendorfer</dc:creator>
+                    <dc:creator>Tomasz Strzalecki</dc:creator>
+                    <dc:identifier>113007</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E113007V1</dc:identifier>
+                    <dc:description>We introduce a notion of coarse competitive equilibrium, to study agents' inability to tailor their consumption to prices. Our goal is to incorporate limited cognitive ability (in particular limited attention, memory, and complexity) into the analysis of competitive equilibrium. Compared to standard competitive equilibrium, our concept yields more extreme prices and, when all agents have the same endowment, riskier allocations. We provide a tractable model suitable for general equilibrium analysis as well as asset pricing.</dc:description>
+                    <dc:subject>D11 Consumer Economics: Theory</dc:subject>
+                    <dc:subject>D51 Exchange and Production Economies</dc:subject>
+                    <dc:subject>D91 Micro-Based Behavioral Economics: Role and Effects of Psychological, Emotional, Social, and Cognitive Factors on Decision Making</dc:subject>
+                    <dc:subject>G10 General Financial Markets: General (includes Measurement and Data)</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

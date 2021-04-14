@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:10:00</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112780</identifier>
+                <datestamp>Wed Apr 14 10:10:00 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: The Determinants of the Macroeconomic Implications of Aging</dc:title>
+                    <dc:creator>Louise Sheiner</dc:creator>
+                    <dc:identifier>112780</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112780V1</dc:identifier>
+                    <dc:description>The aging of the US population undoubtedly will be associated with macroeconomic changes. In particular, some combination of lower consumption growth and increased labor input will ultimately be required. But, the timing of these changes can have important effects on variables like the rate of return to capital and wages. If the adjustment to consumption is slow, which would be the case if budget deficits were allowed to rise significantly as the population ages, then aging is likely to be associated with an increase in the return to capital and a reduction in wages.</dc:description>
+                    <dc:subject>E24 Employment; Unemployment; Wages; Intergenerational Income Distribution; Aggregate Human Capital; Aggregate Labor Productivity</dc:subject>
+                    <dc:subject>E21 Macroeconomics: Consumption; Saving; Wealth</dc:subject>
+                    <dc:subject>H55 Social Security and Public Pensions</dc:subject>
+                    <dc:subject>H62 National Deficit; Surplus</dc:subject>
+                    <dc:subject>J13 Fertility; Family Planning; Child Care; Children; Youth</dc:subject>
+                    <dc:subject>J14 Economics of the Elderly; Economics of the Handicapped; Non-labor Market Discrimination</dc:subject>
+                    <dc:subject>J31 Wage Level and Structure; Wage Differentials</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

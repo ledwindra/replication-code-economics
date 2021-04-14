@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:04:00</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>114708</identifier>
+                <datestamp>Wed Apr 14 10:04:00 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Screening in Contract Design: Evidence from the ACA Health Insurance Exchanges</dc:title>
+                    <dc:creator>Michael Geruso</dc:creator>
+                    <dc:creator>Timothy Layton</dc:creator>
+                    <dc:creator>Daniel Prinz</dc:creator>
+                    <dc:identifier>114708</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E114708V1</dc:identifier>
+                    <dc:description>We study insurers' use of prescription drug formularies to screen consumers in the ACA Health Insurance exchanges. We begin by showing that exchange risk adjustment and reinsurance succeed in neutralizing selection incentives for most, but not all, consumer types. A minority of consumers, identifiable by demand for particular classes of prescription drugs, are predictably unprofitable. We then show that contract features relating to these drugs are distorted in a manner consistent with multidimensional screening. The empirical findings support a long theoretical literature examining how insurance contracts offered in equilibrium can fail to optimally trade off risk protection and moral hazard.</dc:description>
+                    <dc:subject>D82 Asymmetric and Private Information; Mechanism Design</dc:subject>
+                    <dc:subject>G22 Insurance; Insurance Companies; Actuarial Studies</dc:subject>
+                    <dc:subject>H51 National Government Expenditures and Health</dc:subject>
+                    <dc:subject>I13 Health Insurance, Public and Private</dc:subject>
+                    <dc:subject>I18 Health: Government Policy; Regulation; Public Health</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

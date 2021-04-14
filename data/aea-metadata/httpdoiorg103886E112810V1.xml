@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:12:20</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112810</identifier>
+                <datestamp>Wed Apr 14 10:12:21 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Growth, Adoption, and Use of Mobile E-Commerce</dc:title>
+                    <dc:creator>Liran Einav</dc:creator>
+                    <dc:creator>Jonathan Levin</dc:creator>
+                    <dc:creator>Igor Popov</dc:creator>
+                    <dc:creator>Neel Sundaresan</dc:creator>
+                    <dc:identifier>112810</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112810V1</dc:identifier>
+                    <dc:description>We document some early effects of how mobile devices might change Internet and retail commerce. We present three main findings based on an analysis of eBay's mobile shopping application and core Internet platform. First, early adopters of mobile e-commerce applications appear to be people who already were relatively heavy Internet commerce users. Second, adoption of the mobile shopping application is associated with both an immediate and sustained increase in total platform purchasing, with little evidence of substitution from the core platform. Third, differences in user behavior across the mobile applications and the regular Internet site are not yet so dramatic.</dc:description>
+                    <dc:subject>L81 Retail and Wholesale Trade; e-Commerce</dc:subject>
+                    <dc:subject>L86 Information and Internet Services; Computer Software</dc:subject>
+                    <dc:subject>M31 Marketing</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

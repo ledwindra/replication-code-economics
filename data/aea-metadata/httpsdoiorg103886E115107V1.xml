@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:16:33</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>115107</identifier>
+                <datestamp>Wed Apr 14 10:16:34 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Data and Code for: Criminal Deterrence when there are Offsetting Risks: Traffic Cameras, Vehicular Accidents, and Public Safety</dc:title>
+                    <dc:creator>Justin Gallagher</dc:creator>
+                    <dc:creator>Paul Fisher</dc:creator>
+                    <dc:identifier>115107</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E115107V1</dc:identifier>
+                    <dc:description>Numerous cities have enacted electronic monitoring programs at traffic
+intersections in an effort to reduce the high number of vehicle accidents.
+The rationale is that the higher expected fines for running a red light will
+induce drivers to stop and lead to fewer cross-road collisions. However,
+the cameras also incentivize drivers to accept a greater accident risk
+from stopping. We evaluate the termination of a monitoring program
+via a voter referendum using 12 years of geocoded police accident data.
+We find that the cameras changed the composition of accidents, but no
+evidence of a reduction in total accidents or injuries.&amp;nbsp;</dc:description>
+                    <dc:subject>Traffic accidents</dc:subject>
+                    <dc:subject>red light cameras</dc:subject>
+                    <dc:subject>H27 Taxation, Subsidies, and Revenues: Other Sources of Revenue</dc:subject>
+                    <dc:subject>H71 State and Local Taxation, Subsidies, and Revenue</dc:subject>
+                    <dc:subject>K32 Energy, Environmental, Health, and Safety Law</dc:subject>
+                    <dc:subject>R28 Urban, Rural, Regional, Real Estate, and Transportation Economics: Government Policy</dc:subject>
+                    <dc:subject>R41 Transportation: Demand, Supply, and Congestion; Travel Time; Safety and Accidents; Transportation Noise</dc:subject>
+                    <dc:coverage>Texas, USA</dc:coverage>
+                    <dc:coverage>2003 – 2014</dc:coverage>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

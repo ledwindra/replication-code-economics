@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:03:38</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>116371</identifier>
+                <datestamp>Wed Apr 14 10:03:39 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Present-Biased Preferences and Credit Card Borrowing</dc:title>
+                    <dc:creator>Stephan Meier</dc:creator>
+                    <dc:creator>Charles Sprenger</dc:creator>
+                    <dc:identifier>116371</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E116371V1</dc:identifier>
+                    <dc:description>Some individuals borrow extensively on their credit cards. This
+paper tests whether present-biased time preferences correlate with
+credit card borrowing. In a field study, we elicit individual time preferences
+with incentivized choice experiments, and match resulting
+time preference measures to individual credit reports and annual
+tax returns. The results indicate that present-biased individuals are
+more likely to have credit card debt, and to have significantly higher
+amounts of credit card debt, controlling for disposable income, other
+socio-demographics, and credit constraints. (JEL D12, D14, D91)</dc:description>
+                    <dc:subject>D12 Consumer Economics: Empirical Analysis</dc:subject>
+                    <dc:subject>D14 Household Saving; Personal Finance</dc:subject>
+                    <dc:subject>D15 Intertemporal Household Choice; Life Cycle Models and Saving</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

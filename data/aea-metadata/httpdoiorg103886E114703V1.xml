@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:04:27</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>114703</identifier>
+                <datestamp>Wed Apr 14 10:04:28 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Good Cop, Bad Cop: Using Civilian Allegations to Predict Police Misconduct</dc:title>
+                    <dc:creator>Kyle Rozema</dc:creator>
+                    <dc:creator>Max Schanzenbach</dc:creator>
+                    <dc:identifier>114703</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E114703V1</dc:identifier>
+                    <dc:description>In response to high-profile cases of police misconduct, reformers are calling for greater use of civilian allegations in identifying potential problem officers. This paper applies an Empirical Bayes framework to data on civilian allegations and civil rights litigation in Chicago to assess the predictive value of civilian allegations for serious future misconduct. We find a strong relationship between allegations and future civil rights litigation, especially for the very worst officers. The worst 1 percent of officers, as measured by civilian allegations, generate almost 5 times the number of payouts and over 4 times the total damage payouts in civil rights litigation. These findings suggest that intervention efforts could be fruitfully concentrated among a relatively small group.</dc:description>
+                    <dc:subject>H76 State and Local Government: Other Expenditure Categories</dc:subject>
+                    <dc:subject>K38 Human Rights Law; Gender Law</dc:subject>
+                    <dc:subject>K42 Illegal Behavior and the Enforcement of Law</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>

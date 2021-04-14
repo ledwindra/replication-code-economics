@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<oaipmHtype xmlns="http://www.openarchives.org/OAI/2.0/" xmlnsterms="http://purl.org/dc/terms/" xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns="http://purl.org/dc/elements/1.1/">
+    <responseDate>2021-04-14T10:08:45</responseDate>
+    <request verb="GetRecord" set="https://www.icpsr.umich.edu/icpsrweb/ICPSR/oai/studies"/>
+    <GetRecord>
+        <record>
+            <header>
+                <identifier>112766</identifier>
+                <datestamp>Wed Apr 14 10:08:46 EDT 2021</datestamp>
+            </header>
+            <metadata>
+                <dc:oaiDcType>
+                    <dc:title>Replication data for: Consumption Inequality over the Last Half Century: Some Evidence Using the New PSID Consumption Measure</dc:title>
+                    <dc:creator>Orazio Attanasio</dc:creator>
+                    <dc:creator>Luigi Pistaferri</dc:creator>
+                    <dc:identifier>112766</dc:identifier>
+                    <dc:identifier>https://doi.org/10.3886/E112766V1</dc:identifier>
+                    <dc:description>This paper contributes to the debate regarding trends in consumption inequality in the United States. We present a new measure of consumption inequality based on the redesigned 1999–2011 PSID. We impute consumption to the families observed before 1999 using the more comprehensive consumption data available from 1999 onward. One advantage of this procedure is in sample verification of the quality of the imputation procedure; another is that it yields a long time series (1967–2010). Consumption inequality was stable in the 1970s, as was income inequality. It increased significantly after 1980. The Great Recession was associated with a decline in consumption inequality.</dc:description>
+                    <dc:subject>D31 Personal Income, Wealth, and Their Distributions</dc:subject>
+                    <dc:subject>D63 Equity, Justice, Inequality, and Other Normative Criteria and Measurement</dc:subject>
+                    <dc:subject>E21 Macroeconomics: Consumption; Saving; Wealth</dc:subject>
+                    <dc:subject>E32 Business Fluctuations; Cycles</dc:subject>
+                    <dc:subject>G01 Financial Crises</dc:subject>
+                </dc:oaiDcType>
+            </metadata>
+        </record>
+    </GetRecord>
+</oaipmHtype>
