@@ -1,7 +1,6 @@
 import argparse
 import json
 import os
-from typing import Type
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
@@ -76,14 +75,14 @@ def paper(issue):
 
     # we don't need to re-download existing files
     file_name = issue.replace('/issues/', '')
-    if not os.path.exists(f'data/aea/{file_name}.json'):
-        with open(f'data/tmp/{issue}', 'r') as f:
+    if not os.path.exists(f'data/aea/{file_name}'):
+        with open(f'data/tmp/{file_name}', 'r') as f:
             data = json.load(f)
         
         articles = []
         for article in data['article']:
             url = f'https://www.aeaweb.org{article}'
-            print(f'{current_timestamp()}: {url}')
+            print(f'{current_timestamp()}: Issue {issue.replace(".json", "")} -> {url}')
             status_code = None
             while status_code != 200:
                 try:
@@ -131,5 +130,5 @@ if __name__ == '__main__':
     JOURNAL = ARGS.journal
     issues = sorted(issue(journal=JOURNAL))
     articles = [article(x) for x in issues]
-    issues = sorted(os.listdir('data/tmp'))
+    issues = [f'{x}.json' for x in issues]
     [paper(x) for x in issues]
