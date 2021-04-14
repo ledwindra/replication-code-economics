@@ -33,9 +33,16 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     - name: Run script
       env:
-        JOURNAL: ${{ secrets.JOURNAL }}
       run: |
-        python src/aea.py -j ${JOURNAL}
+        python src/aea.py -j aer
+        python src/aea.py -j aeri
+        python src/aea.py -j app
+        python src/aea.py -j pol
+        python src/aea.py -j mac
+        python src/aea.py -j mic
+        python src/aea.py -j jel
+        python src/aea.py -j jep
+        python src/aea.py -j pandp
     - name: Commit changes
       env:
         USER_EMAIL: ${{ secrets.USER_EMAIL }}
