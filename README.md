@@ -12,5 +12,9 @@ So here's my attempt to nowcast total repositories using Stata that describe "re
 
 This repository is automatically updated at 12.00 AM UTC every day to nowcast this trend. The only metric that I use is numbers of public repositories that use Stata and have "replication code" in the keywords (not case sensitive). Also, it doesn't take into account the field of study in the replication codes. It is possible that people who use Stata also come from fields of study other than economics. Lastly, economists may increasingly use Python or R (order doesn't matter), which are not covered here yet since my assumption is that economists still mainly use Stata. I can be wrong here, though.
 
-# Result
+
+## GitHub API
 ![replication-code-stata](./img/replication-code-stata.png)
+
+## AEA Deposit on ICPSR
+![replication-code-stata](./img/aea-deposit-icpsr.png)
