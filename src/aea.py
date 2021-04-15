@@ -22,7 +22,7 @@ def issue(journal):
     url = f'https://www.aeaweb.org/journals/{journal}/issues'
     print(f'{current_timestamp()}: {url}')
     status_code = None
-    while status_code != 200:
+    while status_code not in [200, 404]:
         try:
             res = requests.get(url, timeout=5)
             status_code = res.status_code
@@ -48,7 +48,7 @@ def article(issue):
         url = f'https://www.aeaweb.org{issue}'
         print(f'{current_timestamp()}: {url}')
         status_code = None
-        while status_code != 200:
+        while status_code not in [200, 404]:
             try:
                 res = requests.get(url, timeout=5)
                 status_code = res.status_code
@@ -88,7 +88,7 @@ def paper(issue):
             url = f'https://www.aeaweb.org{article}'
             print(f'{current_timestamp()}: Issue {issue.replace(".json", "")} -> {url}')
             status_code = None
-            while status_code != 200:
+            while status_code not in [200, 404]:
                 try:
                     res = requests.get(url, timeout=5)
                     status_code = res.status_code

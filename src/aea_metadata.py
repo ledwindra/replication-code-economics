@@ -31,7 +31,7 @@ def get_metadata(url):
     '''
 
     status_code = []
-    while status_code != 200:
+    while status_code not in [200, 404]:
         try:
             res = requests.get(url, timeout=5)
             status_code = res.status_code
@@ -56,7 +56,7 @@ def parse_metadata(metadata):
     '''
 
     status_code = []
-    while status_code != 200:
+    while status_code not in [200, 404]:
         try:
             res = requests.get(metadata, timeout=5)
             status_code = res.status_code

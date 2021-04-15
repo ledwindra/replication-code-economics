@@ -22,7 +22,7 @@ def repec_page(base, journal):
     repec = f'{base}/{journal}.html'
     print(f'{current_timestamp()}: {repec}')
     status_code = []
-    while status_code != 200:
+    while status_code not in [200, 404]:
         try:
             res = requests.get(repec, timeout=5)
             status_code = res.status_code
@@ -37,8 +37,8 @@ def repec_page(base, journal):
                     pass
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
-            sleep(3)
-            continue
+            # sleep(3)
+            pass
         urls = set(urls)
         return len(urls)
 
@@ -55,7 +55,7 @@ def repec_paper(base, page, journal):
         url = f'{base}/{journal}{page}.html'
     print(f'{current_timestamp()}: {url}')
     status_code = []
-    while status_code != 200:
+    while status_code not in [200, 404]:
         try:
             res = requests.get(url, timeout=5)
             status_code = res.status_code
@@ -70,8 +70,8 @@ def repec_paper(base, page, journal):
                     pass
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
-            sleep(3)
-            continue
+            # sleep(3)
+            pass
     
     return urls
 
@@ -86,7 +86,7 @@ def download(base, paper):
     url = f'{base}/{paper}'
     print(f'{current_timestamp()}: {url}')
     status_code = []
-    while status_code != 200:
+    while status_code not in [200, 404]:
         try:
             res = requests.get(url, timeout=5)
             status_code = res.status_code
@@ -94,8 +94,8 @@ def download(base, paper):
             download = content.find('div', {'id': 'download'})
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
-            sleep(3)
-            continue
+            # sleep(3)
+            pass
 
     return download
 
