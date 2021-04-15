@@ -1,0 +1,61 @@
+name: Crossref
+
+on:
+  schedule:
+    # run every 1 AM UTC
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: false
+      tags:
+        description: 'Manual trigger'
+        
+jobs:
+  printInputs:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo "Log level: ${{ github.event.inputs.logLevel }}"
+        echo "Tags: ${{ github.event.inputs.tags }}"
+  job_id:
+    name: Crossref
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run script
+      run: |
+        # scrape AEA deposit
+        python src/crossref.py -j s/aea/aecrev
+        python src/crossref.py -j s/aea/jeclit
+        python src/crossref.py -j s/aea/jecper
+        python src/crossref.py -j s/eee/jfinec
+        python src/crossref.py -j s/kap/jecgro
+        python src/crossref.py -j s/oup/qjecon
+        python src/crossref.py -j s/oup/restud
+        python src/crossref.py -j s/oup/rfinst
+        python src/crossref.py -j s/ucp/jpolec
+        python src/crossref.py -j s/wly/emetrp
+        
+    - name: Commit changes
+      env:
+        USER_EMAIL: ${{ secrets.USER_EMAIL }}
+        USER_NAME: ${{ secrets.USER_NAME }}
+        ACCESS_TOKEN: ${{ secrets.TOKEN }}
+      run: |
+        git config --global user.email ${USER_EMAIL}
+        git config --global user.name ${USER_NAME}
+        git remote set-url origin https://${USER_NAME}:${ACCESS_TOKEN}@github.com/${USER_NAME}/replication-code-economics.git
+        git add data/crossref/*
+        git diff-index --quiet HEAD || git commit -m "Added Crossref data"
+        git pull --rebase origin main
+        git push -u origin main
