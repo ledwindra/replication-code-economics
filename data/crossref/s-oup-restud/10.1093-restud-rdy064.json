@@ -1,0 +1,560 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                24
+            ]
+        ],
+        "date-time": "2020-03-24T09:16:41Z",
+        "timestamp": 1585041401468
+    },
+    "reference-count": 39,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        10,
+                        29
+                    ]
+                ],
+                "date-time": "2018-10-29T00:00:00Z",
+                "timestamp": 1540771200000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                10,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In markets where sellers are able to price discriminate, individuals pay different prices that may be unobserved by the econometrician. This article considers the structural estimation of a demand and supply model of differentiated products with such price discrimination and limited information on prices taking the form of, e.g., observing list prices from catalogues or average prices. Within this framework, identification is achieved not only with usual moment conditions on the demand side, but also through supply-side restrictions. The model can be estimated by GMM using a nested fixed point algorithm that extends the usual contraction mapping algorithm to our setting. We apply our methodology to estimate the demand and supply in the French new automobile market. Our results suggest that discounting arising from price discrimination is important. The average discount is estimated to be 9.6%, with large variation depending on buyers\u2019 characteristics and cars\u2019 specifications. Our results are consistent with other evidence on transaction prices in France.</jats:p>",
+    "DOI": "10.1093/restud/rdy064",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                10,
+                26
+            ]
+        ],
+        "date-time": "2018-10-26T19:51:08Z",
+        "timestamp": 1540583468000
+    },
+    "page": "1973-1998",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Automobile Prices in Market Equilibrium with Unobserved Price Discrimination"
+    ],
+    "prefix": "10.1093",
+    "volume": "86",
+    "author": [
+        {
+            "given": "Xavier",
+            "family": "D\u2019Haultf\u0153uille",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "CREST"
+                }
+            ]
+        },
+        {
+            "given": "Isis",
+            "family": "Durrmeyer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 Toulouse Capitole"
+                }
+            ]
+        },
+        {
+            "given": "Philippe",
+            "family": "F\u00e9vrier",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CREST"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                10,
+                29
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019091011555106800_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "779",
+            "DOI": "10.1162/REST_a_00419",
+            "article-title": "Gasoline Prices, Fuel Economy, and the Energy Paradox\u201d",
+            "volume": "96",
+            "author": "ALLCOTT,",
+            "year": "2014",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2019091011555106800_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1961",
+            "DOI": "10.3982/ECTA10600",
+            "article-title": "Large Market Asymptotics for Differentiated Product Demand Estimators with Economic Models of Supply\u201d",
+            "volume": "84",
+            "author": "ARMSTRONG,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011555106800_B3",
+            "first-page": "304",
+            "article-title": "Race and Gender Discrimination in Bargaining for a New Car\u201d",
+            "volume": "85",
+            "author": "AYRES,",
+            "year": "1995",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "242",
+            "DOI": "10.2307/2555829",
+            "article-title": "Estimating discrete-choice models of product differentiation\u201d",
+            "volume": "25",
+            "author": "BERRY,",
+            "year": "1994",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "2019091011555106800_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1749",
+            "DOI": "10.3982/ECTA9027",
+            "article-title": "Identification in Differentiated Products Markets Using Market Level Data\u201d",
+            "volume": "82",
+            "author": "BERRY,",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011555106800_B6",
+            "first-page": "1",
+            "article-title": "Tracing the Woes: An Empirical Analysis of the Airline Industry\u201d",
+            "volume": "2",
+            "author": "BERRY,",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2019091011555106800_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "article-title": "Automobile Prices in Market Equilibrium\u201d",
+            "volume": "63",
+            "author": "BERRY,",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011555106800_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1111/j.1756-2171.2009.00093.x",
+            "article-title": "Inference on Vertical Contracts between Manufacturers and Retailers Allowing for Nonlinear Pricing and Resale Price Maintenance\u201d",
+            "volume": "41",
+            "author": "BONNET,",
+            "year": "2010",
+            "journal-title": "The Rand Journal of Economics"
+        },
+        {
+            "key": "2019091011555106800_B9",
+            "author": "CARTER,",
+            "year": "2001",
+            "volume-title": "Foundations of Mathematical Economics"
+        },
+        {
+            "key": "2019091011555106800_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1111/joie.12125",
+            "article-title": "Who Loses When Prices Are Negotiated? An Analysis of the New Car Market\u201d",
+            "volume": "65",
+            "author": "CHANDRA,",
+            "year": "2017",
+            "journal-title": "The Journal of Industrial Economics"
+        },
+        {
+            "key": "2019091011555106800_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "643",
+            "DOI": "10.1257/aer.102.2.643",
+            "article-title": "The Welfare Effects of Bundling in Multichannel Television Markets\u201d",
+            "volume": "102",
+            "author": "CRAWFORD,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B12",
+            "author": "D\u2019HAULTF\u0152UILLE,",
+            "year": "2018",
+            "article-title": "Supplement to Automobile Prices in Market Equilibrium with Unobserved Price Discrimination.\u201d"
+        },
+        {
+            "key": "2019091011555106800_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "2231",
+            "DOI": "10.3982/ECTA8585",
+            "article-title": "Improving the Numerical Performance of Static and Dynamic Aggregate Discrete Choice Random Coefficients Demand Estimation\u201d",
+            "volume": "80",
+            "author": "DUB\u00c9,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011555106800_B14",
+            "author": "DUBOIS,",
+            "year": "2018",
+            "article-title": "Identifying Industry Margins with Unobserved Price Constraints: Structural Estimation on Pharmaceuticals\u201d",
+            "journal-title": "American Economic Review",
+            "DOI": "10.1257/aer.20140202",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011555106800_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "26",
+            "DOI": "10.1111/j.1756-2171.2011.00156.x",
+            "article-title": "Vertical Control of a Distribution Network: An Empirical Analysis of Magazines\u201d",
+            "volume": "43",
+            "author": "FERRARI,",
+            "year": "2012",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "2019091011555106800_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "658",
+            "DOI": "10.1016/j.euroecorev.2008.10.004",
+            "article-title": "The Impact of Bargaining on Markets with Price Takers: Too Many Bargainers Spoil the Broth\u201d",
+            "volume": "53",
+            "author": "GILL,",
+            "year": "2009",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1528",
+            "DOI": "10.1111/ecoj.12294",
+            "article-title": "Competition in Posted Prices with Stochastic Discounts\u201d",
+            "volume": "126",
+            "author": "GILL,",
+            "year": "2016",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "key": "2019091011555106800_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "622",
+            "DOI": "10.1086/262035",
+            "article-title": "Dealer Price Discrimination in New Car Purchases: Evidence from the Consumer Expenditure Survey\u201d",
+            "volume": "104",
+            "author": "GOLDBERG,",
+            "year": "1996",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019091011555106800_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "172",
+            "DOI": "10.1257/aer.20130223",
+            "article-title": "Mergers When Prices Are Negotiated: Evidence from the Hospital Industry\u201d",
+            "volume": "105",
+            "author": "GOWRISANKARAN,",
+            "year": "2015",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1257/aer.103.1.145",
+            "article-title": "Price Discrimination and Bargaining: Empirical Evidence from Medical Devices\u201d",
+            "volume": "103",
+            "author": "GRENNAN,",
+            "year": "2013",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1257/aer.20120283",
+            "article-title": "Cellular Service Demand: Biased Beliefs, Learning, and Bill Shock\u201d",
+            "volume": "105",
+            "author": "GRUBB,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "270",
+            "DOI": "10.1257/000282802760015711",
+            "article-title": "Do Women Pay More for New Vehicles? Evidence from Transaction Price Data\u201d",
+            "volume": "92",
+            "author": "HARLESS,",
+            "year": "2002",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2019091011555106800_B23",
+            "author": "HUANG,",
+            "year": "2016",
+            "article-title": "When to Haggle, When to Hold Firm? Lessons from the Used Car Retail Market\u201d"
+        },
+        {
+            "key": "2019091011555106800_B24",
+            "author": "JAUMANDREU,",
+            "year": "2006",
+            "article-title": "Identifying Behaviour in a Multiproduct Oligopoly: Incumbents Reaction to Tariffs Dismantling\u201d"
+        },
+        {
+            "key": "2019091011555106800_B25",
+            "author": "JINDAL,",
+            "year": "2018",
+            "article-title": "To Bargain or Not to Bargain: The Role of Fixed Costs in Price Negotiations\u201d",
+            "journal-title": "Journal of Marketing Research",
+            "DOI": "10.1177/0022243718818451",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011555106800_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.1002/jae.1187",
+            "article-title": "From Market Shares to Consumer Types: Duality in Differentiated Product Demand Estimation\u201d",
+            "volume": "27",
+            "author": "KALOUPTSIDI,",
+            "year": "2012",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2019091011555106800_B27",
+            "author": "LANGER,",
+            "year": "2016",
+            "article-title": "(dis)incentives for Demographic Price Discrimination in the New Vehicle Market\u201d"
+        },
+        {
+            "key": "2019091011555106800_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/j.econlet.2016.10.019",
+            "article-title": "Revisiting the Nested Fixed-Point Algorithm in blp Random Coefficients Demand Estimation\u201d",
+            "volume": "149",
+            "author": "LEE,",
+            "year": "2016",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2019091011555106800_B29",
+            "unstructured": "L\u2019OBSERVATOIRE CETELEM (2013), L\u2019automobile en europe: 5 leviers pour rebondir, Technical report, http://observatoirecetelem.com/wp-content/uploads/2013/08/observatoire-cetelem-automobile-2013.pdf."
+        },
+        {
+            "key": "2019091011555106800_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1111/1756-2171.12049",
+            "article-title": "Spatial Differentiation and Price Discrimination in the Cement Industry: Evidence from a Structural Model\u201d",
+            "volume": "45",
+            "author": "MILLER,",
+            "year": "2014",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "2019091011555106800_B31",
+            "author": "MURRY,",
+            "year": "2017",
+            "article-title": "Advertising in Vertical Relationships: An Equilibrium Model of the Automobile Industry\u201d",
+            "DOI": "10.2139/ssrn.2549247",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011555106800_B32",
+            "author": "NEWEY,",
+            "first-page": "2111",
+            "year": "1994",
+            "article-title": "Large Sample Estimation and Hypothesis Testing,\u201d",
+            "volume-title": "Handbook of econometrics"
+        },
+        {
+            "key": "2019091011555106800_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/1368-423X.t01-1-00071",
+            "article-title": "Model Selection Tests for Nonlinear Dynamic Models\u201d",
+            "volume": "5",
+            "author": "RIVERS,",
+            "year": "2002",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "2019091011555106800_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1023/A:1023529910567",
+            "article-title": "Consumer Information and Discrimination: Does the Internet Affect the Pricing of New Cars to Women and Minorities?\u201d",
+            "volume": "1",
+            "author": "SCOTT MORTON,",
+            "year": "2003",
+            "journal-title": "Quantitative Marketing and Economics"
+        },
+        {
+            "key": "2019091011555106800_B35",
+            "author": "SHELEGIA,",
+            "year": "2015",
+            "article-title": "When the Price You See Is Not the Price You Get: A Field Study\u201d"
+        },
+        {
+            "key": "2019091011555106800_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.2307/2171753",
+            "article-title": "Instrumental Variables Regression with Weak Instruments\u201d",
+            "volume": "65",
+            "author": "STAIGER,",
+            "year": "1997",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011555106800_B37",
+            "first-page": "908",
+            "article-title": "The Effect of Ownership Structure on Prices in Geographically Differentiated Industries\u201d",
+            "volume": "36",
+            "author": "THOMADSEN,",
+            "year": "2005",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2019091011555106800_B38",
+            "unstructured": "UK COMPETITION COMMISSION (2000), \u201cNew cars: A report on the supply of new motor cars within the uk\u201d (Technical report), http://webarchive.nationalarchives.gov.uk/20111202193730tf_/http://www.competition-commission.org.uk/rep_pub/reports/2000/439cars.htm."
+        },
+        {
+            "key": "2019091011555106800_B39",
+            "first-page": "669",
+            "article-title": "Nonparametric Regression Techniques in Economics\u201d",
+            "volume": "36",
+            "author": "YATCHEW,",
+            "year": "1998",
+            "journal-title": "Journal of Economic Literature"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/86/5/1973/29581430/rdy064.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                10
+            ]
+        ],
+        "date-time": "2019-09-10T16:34:50Z",
+        "timestamp": 1568133290000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                10,
+                29
+            ]
+        ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2018,
+                    10,
+                    29
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdy064",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

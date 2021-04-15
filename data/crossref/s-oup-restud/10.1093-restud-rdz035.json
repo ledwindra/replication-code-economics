@@ -1,0 +1,439 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                6
+            ]
+        ],
+        "date-time": "2021-03-06T01:28:28Z",
+        "timestamp": 1614994108874
+    },
+    "reference-count": 24,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        4
+                    ]
+                ],
+                "date-time": "2019-07-04T00:00:00Z",
+                "timestamp": 1562198400000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "name": "Center for Science of Information",
+            "award": []
+        },
+        {
+            "name": "NSF Science and Technology Center",
+            "award": [
+                "CCF-0939370"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                1,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article studies a security design problem featuring flexible information acquisition. To raise liquidity, a seller issues a security backed by her asset in place at the price she proposes to a buyer. Before deciding whether to accept the offer, the buyer can acquire costly information about the underlying asset. This case differs from the existing literature on security design, in that the buyer has the full flexibility of choosing not only the amount of resources to spend in information acquisition, but also how to allocate them, depending on the shape of the security. Debt is shown to be the unique optimal security for the seller, as its payoff is the least sensitive to the value of its underlying asset. This minimizes the buyer\u2019s incentive to acquire information and mitigates the resulting adverse selection. I do not assume monotonicity of the feasible securities nor impose various distributional assumptions on information structures. Instead, I identify conditions for general information costs that support the results.</jats:p>",
+    "DOI": "10.1093/restud/rdz035",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                3
+            ]
+        ],
+        "date-time": "2019-07-03T11:11:03Z",
+        "timestamp": 1562152263000
+    },
+    "page": "487-536",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+        "Optimality of Debt under Flexible Information Acquisition"
+    ],
+    "prefix": "10.1093",
+    "volume": "87",
+    "author": [
+        {
+            "given": "Ming",
+            "family": "Yang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Duke University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020010306175976700_B1",
+            "author": "ANTIC",
+            "year": "2019",
+            "article-title": "\u201cContracting with Unknown Technologies\u201d",
+            "volume-title": "Working Paper"
+        },
+        {
+            "key": "2020010306175976700_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2587",
+            "DOI": "10.1111/j.1540-6261.2007.01287.x",
+            "article-title": "\u201cSecurity Design with Investor Private Information\u201d",
+            "volume": "62",
+            "author": "AXELSON",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020010306175976700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1111/j.1467-937X.2005.00345.x",
+            "article-title": "\u201cStrategic Liquidity Supply and Security Design\u201d",
+            "volume": "72",
+            "author": "BIAIS",
+            "year": "2005",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2020010306175976700_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1214/aoms/1177729032",
+            "article-title": "\u201cEquivalent Comparisons of Experiments\u201d",
+            "volume": "24",
+            "author": "BLACKWELL",
+            "year": "1953",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2020010306175976700_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1349",
+            "DOI": "10.1111/j.1540-6261.1993.tb04757.x",
+            "article-title": "\u201cSecurity Design\u201d",
+            "volume": "48",
+            "author": "BOOT",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020010306175976700_B6",
+            "author": "DANG",
+            "year": "2015",
+            "article-title": "\u201cIgnorance, Debt and Financial Crises\u201d",
+            "volume-title": "Unpublished Working Paper"
+        },
+        {
+            "key": "2020010306175976700_B7",
+            "author": "DANG",
+            "year": "2015",
+            "article-title": "\u201cInformation Sensitivity of a Security\u201d",
+            "volume-title": "Unpublished Working Paper"
+        },
+        {
+            "key": "2020010306175976700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhi008",
+            "article-title": "\u201cThe Pooling and Tranching of Securities: A Model of Informed Intermediation\u201d",
+            "volume": "18",
+            "author": "DEMARZO",
+            "year": "2005",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020010306175976700_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1111/1468-0262.00004",
+            "article-title": "\u201cA Liquidity-Based Model of Security Design\u201d",
+            "volume": "67",
+            "author": "DEMARZO",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020010306175976700_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "634",
+            "DOI": "10.1016/j.jet.2014.09.002",
+            "article-title": "\u201cLiquid Bundles\u201d",
+            "volume": "158",
+            "author": "FARHI",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2020010306175976700_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1823",
+            "DOI": "10.1016/S0014-2921(99)00026-4",
+            "article-title": "\u201cProduct Market Competition and Optimal Debt Contracts: The Limited Liability Effect Revisited\u201d",
+            "volume": "44",
+            "author": "FAURE-GRIMAUD",
+            "year": "2000",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2020010306175976700_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/S0304-405X(01)00054-X",
+            "article-title": "\u201cInformation Production, Dilution Costs, and Optimal Security Design\u201d",
+            "volume": "61",
+            "author": "FULGHIERI",
+            "year": "2001",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020010306175976700_B13",
+            "author": "HENNESSY",
+            "year": "2013",
+            "article-title": "\u201cA Theory of ABS Design Based on Rational Noise-Traders\u201d",
+            "volume-title": "Working Paper"
+        },
+        {
+            "key": "2020010306175976700_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.2307/1913238",
+            "article-title": "\u201cAggregation and Linearity in the Provision of Intertemporal Incentives\u201d",
+            "volume": "55",
+            "author": "HOLMSTROM",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020010306175976700_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2214",
+            "DOI": "10.1093/restud/rdx080",
+            "article-title": "\u201cMoral Hazard and the Optimality of Debt\u201d",
+            "volume": "85",
+            "author": "H\u00e9bert",
+            "year": "2017",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2020010306175976700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2137",
+            "DOI": "10.1111/j.1540-6261.2006.01053.x",
+            "article-title": "\u201cInformed Lending and Security Design\u201d",
+            "volume": "61",
+            "author": "INDERST",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020010306175976700_B17",
+            "author": "JUNG",
+            "year": "2019",
+            "article-title": "\u201cDiscrete Actions in Information-Constrained Decision Problems\u201d",
+            "journal-title": "The Review of Economic Studies",
+            "DOI": "10.1093/restud/rdz011",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "2020010306175976700_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.2307/2326770",
+            "article-title": "Informational Asymmetries, Financial Structure, and Financial Intermediation",
+            "volume": "32",
+            "author": "LELAND",
+            "year": "1977",
+            "journal-title": "Journal of Finance,"
+        },
+        {
+            "key": "2020010306175976700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1089",
+            "DOI": "10.2307/1911865",
+            "article-title": "A Theory of Auctions and Competitive Bidding",
+            "volume": "50",
+            "author": "MILGROM",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020010306175976700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/7.1.1",
+            "article-title": "Optimal Design of Securities under Asymmetric Information",
+            "volume": "7",
+            "author": "NACHMAN",
+            "year": "1994",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020010306175976700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.1016/S0167-2231(99)00013-5",
+            "article-title": "\u201cStickiness\u201d",
+            "volume": "49",
+            "author": "SIMS",
+            "year": "1998",
+            "journal-title": "Carnegie-Rochester Conference Series on Public Policy"
+        },
+        {
+            "key": "2020010306175976700_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1016/0022-0531(79)90031-0",
+            "article-title": "\u201cOptimal Contracts and Competitive Markets with Costly State Verification\u201d",
+            "volume": "21",
+            "author": "TOWNSEND",
+            "year": "1979",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2020010306175976700_B23",
+            "author": "WOODFORD",
+            "year": "2008",
+            "article-title": "\u201cInattention as a Source of Randomized Discrete Adjustment\u201d",
+            "volume-title": "Working Paper"
+        },
+        {
+            "key": "2020010306175976700_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "819",
+            "DOI": "10.1093/rfs/hhy084",
+            "article-title": "\u201cFinancing Entrepreneurial Production: Security Design with Flexible Information Acquisition\u201d",
+            "volume": "32",
+            "author": "YANG",
+            "year": "2018",
+            "journal-title": "The Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdz035/29099598/rdz035.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/87/1/487/31699666/rdz035.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/87/1/487/31699666/rdz035.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                1,
+                3
+            ]
+        ],
+        "date-time": "2020-01-03T11:18:28Z",
+        "timestamp": 1578050308000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                4
+            ]
+        ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    1
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdz035",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

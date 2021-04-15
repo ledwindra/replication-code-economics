@@ -1,0 +1,1207 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                11
+            ]
+        ],
+        "date-time": "2021-04-11T04:01:46Z",
+        "timestamp": 1618113706277
+    },
+    "reference-count": 99,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2019-05-17T00:00:00Z",
+                "timestamp": 1558051200000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "name": "ACPR",
+            "award": []
+        },
+        {
+            "name": "Risk Foundation: Regulation and Systemic Risks",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The basic assumption of a structural vector autoregressive moving average (SVARMA) model is that it is driven by a white noise whose components are uncorrelated or independent and can be interpreted as economic shocks, called \u201cstructural\u201d shocks. When the errors are Gaussian, independence is equivalent to non-correlation and these models face two identification issues. The first identification problem is \u201cstatic\u201d and is due to the fact that there is an infinite number of linear transformations of a given random vector making its components uncorrelated. The second identification problem is \u201cdynamic\u201d and is a consequence of the fact that, even if a SVARMA admits a non-invertible moving average (MA) matrix polynomial, it may feature the same second-order dynamic properties as a VARMA process in which the MA matrix polynomials are invertible (the fundamental representation). The aim of this article is to explain that these difficulties are mainly due to the Gaussian assumption, and that both identification challenges are solved in a non-Gaussian framework if the structural shocks are assumed to be instantaneously and serially independent. We develop new parametric and semi-parametric estimation methods that accommodate non-fundamentalness in the MA dynamics. The functioning and performances of these methods are illustrated by applications conducted on both simulated and real data.</jats:p>",
+    "DOI": "10.1093/restud/rdz028",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                8
+            ]
+        ],
+        "date-time": "2019-05-08T03:33:07Z",
+        "timestamp": 1557286387000
+    },
+    "page": "1915-1953",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Identification and Estimation in Non-Fundamental Structural VARMA Models"
+    ],
+    "prefix": "10.1093",
+    "volume": "87",
+    "author": [
+        {
+            "given": "Christian",
+            "family": "Gouri\u00e9roux",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Toronto, Toulouse School of Economics, CREST"
+                }
+            ]
+        },
+        {
+            "given": "Alain",
+            "family": "Monfort",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CREST, Banque de France"
+                }
+            ]
+        },
+        {
+            "given": "Jean-Paul",
+            "family": "Renne",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Faculty of Business and Economics, University of Lausanne"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021041020420848700_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "716",
+            "DOI": "10.1109/TAC.1974.1100705",
+            "article-title": "A New Look at the Statistical Model Identification",
+            "volume": "19",
+            "author": "AKAIKE,",
+            "year": "1974",
+            "journal-title": "IEEE Transactions on Automatic Control"
+        },
+        {
+            "key": "2021041020420848700_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1111/j.1751-5823.2011.00131.x",
+            "article-title": "Non-Fundamentalness in Structural Econometric Models: A Review",
+            "volume": "79",
+            "author": "ALESSI,",
+            "year": "2011",
+            "journal-title": "International Statistical Review"
+        },
+        {
+            "key": "2021041020420848700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1198/073500104000000271",
+            "article-title": "Tests for Skewness, Kurtosis, and Normality for Time Series Data",
+            "volume": "23",
+            "author": "BAI,",
+            "year": "2005",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021041020420848700_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1343",
+            "DOI": "10.1257/aer.102.4.1343",
+            "article-title": "Information, Animal Spirits, and the Meaning of Innovations in Consumer Confidence",
+            "volume": "102",
+            "author": "BARSKY,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1017/S0266466600011117",
+            "article-title": "A Unified Theory of Consistent Estimation for Parametric Models",
+            "volume": "1",
+            "author": "BATES,",
+            "year": "1985",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2021041020420848700_B6",
+            "author": "BEAUDRY,",
+            "year": "2015",
+            "article-title": "When is Nonfundamentalness in VARs a Real Problem? An Application to News Shocks",
+            "DOI": "10.3386/w21466",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1016/0167-2231(86)90037-0",
+            "article-title": "Alternative Explanations of the Money-Income Correlation",
+            "volume": "25",
+            "author": "BERNANKE,",
+            "year": "1986",
+            "journal-title": "Carnegie-Rochester Conference Series on Public Policy"
+        },
+        {
+            "key": "2021041020420848700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "3045",
+            "DOI": "10.1257/aer.103.7.3045",
+            "article-title": "News, Noise, and Fluctuations: An Empirical Exploration",
+            "volume": "103",
+            "author": "BLANCHARD,",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B9",
+            "first-page": "655",
+            "article-title": "The Dynamic Effects of Aggregate Demand and Supply Disturbances",
+            "volume": "79",
+            "author": "BLANCHARD,",
+            "year": "1989",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "12",
+            "DOI": "10.1016/j.jeconom.2008.12.019",
+            "article-title": "Consistent Noisy Independent Component Analysis",
+            "volume": "149",
+            "author": "BONHOMME,",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B11",
+            "author": "BOUDT,",
+            "year": "2018",
+            "article-title": "Nearest Comoment Estimation with Unobserved Factors"
+        },
+        {
+            "key": "2021041020420848700_B12",
+            "author": "BOX,",
+            "year": "1970",
+            "volume-title": "Time Series Analysis, Forecasting and Control"
+        },
+        {
+            "key": "2021041020420848700_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1509",
+            "DOI": "10.1080/01621459.1970.10481180",
+            "article-title": "Distribution of Residual Autocorrelations in Autoregressive-Integrated Moving Average Time Series Models",
+            "volume": "65",
+            "author": "BOX,",
+            "year": "1970",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021041020420848700_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "377",
+            "DOI": "10.1111/j.1467-9892.1992.tb00114.x",
+            "article-title": "Time-Reversibility, Identifiability and Independence of Innovations for Stationary Time Series",
+            "volume": "13",
+            "author": "BREIDT,",
+            "year": "1992",
+            "journal-title": "Journal of Time Series Analysis"
+        },
+        {
+            "key": "2021041020420848700_B15",
+            "author": "BROCKWELL,",
+            "year": "1991",
+            "edition": "2nd",
+            "volume-title": "Time Series: Theory and Methods",
+            "DOI": "10.1007/978-1-4419-0320-4",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1702",
+            "DOI": "10.1257/aer.20170792",
+            "article-title": "News or Noise? The Missing Link",
+            "volume": "108",
+            "author": "CHAHROUR,",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B17",
+            "author": "CHAN,",
+            "year": "2004",
+            "article-title": "On the Unique Representation of Non-Gaussian Multivariate Linear Processes"
+        },
+        {
+            "key": "2021041020420848700_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1093/biomet/93.1.221",
+            "article-title": "A Note on Time-Reversibility of Multivariate Linear Processes",
+            "volume": "93",
+            "author": "CHAN,",
+            "year": "2006",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021041020420848700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1337",
+            "DOI": "10.1016/j.jmoneco.2008.09.010",
+            "article-title": "Are Structural VARs with Long-Run Restrictions Useful in Developing Business Cycle Theory?",
+            "volume": "55",
+            "author": "CHARI,",
+            "year": "2008",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021041020420848700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.3982/QE393",
+            "article-title": "Testing for Fundamental Vector Moving Average Representations",
+            "volume": "8",
+            "author": "CHEN,",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2021041020420848700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1002/for.1198",
+            "article-title": "Inference for Regression Models with Errors from a Non-invertible MA(1) Process",
+            "volume": "30",
+            "author": "CHEN,",
+            "year": "2011",
+            "journal-title": "Journal of Forecasting"
+        },
+        {
+            "key": "2021041020420848700_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1143",
+            "DOI": "10.1214/aos/1176348677",
+            "article-title": "On The Unique Representation of Non-Gaussian Linear Processes",
+            "volume": "20",
+            "author": "CHENG,",
+            "year": "1992",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2021041020420848700_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.1162/jeea.2006.4.2-3.475",
+            "article-title": "Alternative Procedures for Estimating Vector Autoregressions Identified with Long-Run Restrictions",
+            "volume": "4",
+            "author": "CHRISTIANO,",
+            "year": "2006",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2021041020420848700_B24",
+            "author": "CHRISTIANO,",
+            "first-page": "1",
+            "year": "2007",
+            "article-title": "Assessing Structural VARs",
+            "volume-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2021041020420848700_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1016/0167-2231(94)00024-7",
+            "article-title": "Shocks",
+            "volume": "41",
+            "author": "COCHRANE,",
+            "year": "1994",
+            "journal-title": "Carnegie-Rochester Conference Series on Public Policy"
+        },
+        {
+            "key": "2021041020420848700_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.1016/0165-1684(94)90029-9",
+            "article-title": "Independent Component Analysis, A New Concept?",
+            "volume": "36",
+            "author": "COMON,",
+            "year": "1994",
+            "journal-title": "Signal Processing"
+        },
+        {
+            "key": "2021041020420848700_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.2307/1401511",
+            "article-title": "Analyse G\u00e9n\u00e9rale des Liaisons Stochastiques: Etude Particuli\u00e8re de l\u2019Analyse Factorielle Lin\u00e9aire",
+            "volume": "21",
+            "author": "DARMOIS,",
+            "year": "1953",
+            "journal-title": "Revue de l\u2019Institut International de Statistique"
+        },
+        {
+            "key": "2021041020420848700_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.2307/1914195",
+            "article-title": "Linear Models with Autocorrelated Errors: Identifiability without Minimality Assumptions",
+            "volume": "47",
+            "author": "DEISTLER,",
+            "year": "1979",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021041020420848700_B29",
+            "author": "ECONOMIC SCIENCES PRIZE",
+            "year": "2011",
+            "article-title": "Thomas J. Sargent and Christopher A. Sims: Empirical Macroeconomics"
+        },
+        {
+            "key": "2021041020420848700_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.2307/1913236",
+            "article-title": "Co-integration and Error Correction: Representation, Estimation, and Testing",
+            "volume": "55",
+            "author": "ENGLE,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021041020420848700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1162/154247605775012860",
+            "article-title": "Can Long Run Restriction Identify Technology Shocks?",
+            "volume": "3",
+            "author": "ERCEG,",
+            "year": "2005",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2021041020420848700_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "601",
+            "DOI": "10.1109/LSP.2004.830118",
+            "article-title": "Identifiability, Separability and Uniqueness of Linear ICA Models",
+            "volume": "11",
+            "author": "ERIKSSON,",
+            "year": "2004",
+            "journal-title": "IEEE Signal Processing Letters"
+        },
+        {
+            "key": "2021041020420848700_B33",
+            "author": "EVANS,",
+            "year": "2011",
+            "article-title": "Fundamental Economic Shocks and the Macroeconomy"
+        },
+        {
+            "key": "2021041020420848700_B34",
+            "first-page": "345",
+            "article-title": "When Do Long Run Identifying Restrictions Give Reliable Results?",
+            "volume": "15",
+            "author": "FAUST,",
+            "year": "1997",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2021041020420848700_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1021",
+            "DOI": "10.1257/aer.97.3.1021",
+            "article-title": "A,B,C\u2019s (and D)\u2019s for Understanding VAR\u2019s",
+            "volume": "97",
+            "author": "FERNANDEZ-VILLAVERDE,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "96",
+            "DOI": "10.1016/j.econlet.2008.11.023",
+            "article-title": "On the Dynamic Implications of News Shocks",
+            "volume": "102",
+            "author": "F\u00c8VE,",
+            "year": "2009",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2021041020420848700_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "520",
+            "DOI": "10.1093/biomet/73.2.520",
+            "article-title": "The Uniqueness of Moving Average Representation with Independent and Identically Distributed Random Variables for Non-Gaussian Stationary Time Series",
+            "volume": "73",
+            "author": "FINDLEY,",
+            "year": "1986",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021041020420848700_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "124",
+            "DOI": "10.1016/j.jmoneco.2014.04.005",
+            "article-title": "Sufficient Information in Structural VARs",
+            "volume": "66",
+            "author": "FORNI,",
+            "year": "2014",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021041020420848700_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1940",
+            "DOI": "10.1111/ecoj.12386",
+            "article-title": "Noise Bubbles",
+            "volume": "127",
+            "author": "FORNI,",
+            "year": "2017",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2021041020420848700_B40",
+            "first-page": "122",
+            "article-title": "Noisy News in Business Cycles",
+            "volume": "9",
+            "author": "FORNI,",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021041020420848700_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1379",
+            "DOI": "10.1016/j.jmoneco.2004.08.009",
+            "article-title": "Is Technology-Driven Real Business Cycle Hypothesis Dead? Shocks and Aggregate Fluctuations Revisited",
+            "volume": "52",
+            "author": "FRANCIS,",
+            "year": "2005",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021041020420848700_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "613",
+            "DOI": "10.1016/j.jeconom.2018.01.012",
+            "article-title": "Identification by Laplace Transforms in Nonlinear Panel or Time Series Models with Unobserved Stochastic Dynamic Effects",
+            "volume": "208",
+            "author": "GAGLIARDINI,",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1081/ETC-120014349",
+            "article-title": "Estimation of the Vector Moving Average Model by Vector Autoregression",
+            "volume": "21",
+            "author": "GALBRAITH,",
+            "year": "2002",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "2021041020420848700_B44",
+            "author": "GALI,",
+            "first-page": "225",
+            "year": "2005",
+            "article-title": "Technology Shocks and Aggregate Fluctuations: How Well Does the RBC Model Fit Postwar US Data?",
+            "volume-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2021041020420848700_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "533",
+            "DOI": "10.1214/aoms/1177704579",
+            "article-title": "A Characterization of the Multivariate Normal Distribution",
+            "volume": "33",
+            "author": "GHURYE,",
+            "year": "1961",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2021041020420848700_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "455",
+            "DOI": "10.1162/jeea.2006.4.2-3.455",
+            "article-title": "Does Information Help Recovering Structural Shocks from Past Observations?",
+            "volume": "4",
+            "author": "GIANNONE,",
+            "year": "2006",
+            "journal-title": "Journal of European Economic Association"
+        },
+        {
+            "key": "2021041020420848700_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.1080/07350015.2014.955175",
+            "article-title": "Minimum Distance Estimation of Possibly Noninvertible MA Process",
+            "volume": "33",
+            "author": "GOSPODINOV,",
+            "year": "2015",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2021041020420848700_B48",
+            "first-page": "405",
+            "article-title": "Filtering and Prediction in Noncausal Processes",
+            "volume": "37",
+            "author": "GOURI\u00c9ROUX,",
+            "year": "2016",
+            "journal-title": "Journal of Time Series Analysis"
+        },
+        {
+            "key": "2021041020420848700_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.2307/1912578",
+            "article-title": "Testing for Common Roots",
+            "volume": "57",
+            "author": "GOURI\u00c9ROUX,",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021041020420848700_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1016/j.jeconom.2016.09.007",
+            "article-title": "Statistical Inference for Independent Component Analysis",
+            "volume": "196",
+            "author": "GOURI\u00c9ROUX,",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "876",
+            "DOI": "10.1111/jtsa.12139",
+            "article-title": "On Uniqueness of Moving Average Representation of Heavy Tailed Stationary Processes",
+            "volume": "36",
+            "author": "GOURI\u00c9ROUX,",
+            "year": "2015",
+            "journal-title": "Journal of Time Series Analysis"
+        },
+        {
+            "key": "2021041020420848700_B52",
+            "author": "GRASSI,",
+            "year": "2015",
+            "article-title": "Fundamental Shock Selection in DSGE Models"
+        },
+        {
+            "key": "2021041020420848700_B53",
+            "author": "GUAY,",
+            "year": "2018",
+            "article-title": "Identification of Structural Vector Autoregressions Through Higher Unconditional Moments"
+        },
+        {
+            "key": "2021041020420848700_B54",
+            "author": "HANNAN,",
+            "year": "1996",
+            "volume-title": "The Statistical Theory of Linear Systems"
+        },
+        {
+            "key": "2021041020420848700_B55",
+            "first-page": "190",
+            "article-title": "The Determination of the Order of an Autoregression",
+            "volume": "41",
+            "author": "HANNAN,",
+            "year": "1979",
+            "journal-title": "Journal of the Royal Statistical Society"
+        },
+        {
+            "key": "2021041020420848700_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1086/260910",
+            "article-title": "Forward Exchange Rates as Optimal Predictors of Future Sport Rates: An Econometric Analysis",
+            "volume": "88",
+            "author": "HANSEN,",
+            "year": "1980",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021041020420848700_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "7",
+            "DOI": "10.1016/0165-1889(80)90049-4",
+            "article-title": "Formulating and Estimating Dynamic Linear Rational Expectations Models",
+            "volume": "2",
+            "author": "HANSEN,",
+            "year": "1980",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021041020420848700_B58",
+            "author": "HANSEN,",
+            "first-page": "77",
+            "year": "1991",
+            "article-title": "Two Difficulties in Interpreting Vector Autoregressions",
+            "volume-title": "Rational Expectations Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.jeconom.2014.06.012",
+            "article-title": "Structural Vector Autoregressions with Markov Switching: Combining Conventional with Statistical Identification of Shocks",
+            "volume": "183",
+            "author": "HERWARTZ,",
+            "year": "2014",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B60",
+            "author": "HYV\u00c4RINEN,",
+            "year": "2001",
+            "volume-title": "Independent Component Analysis",
+            "DOI": "10.1002/0471221317",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "633",
+            "DOI": "10.1214/aoms/1177697731",
+            "article-title": "Asymptotic Properties of Nonlinear Least Squares Estimation",
+            "volume": "40",
+            "author": "JENNRICH,",
+            "year": "1969",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2021041020420848700_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1016/0304-4076(95)01753-4",
+            "article-title": "Impulse Response Analysis in Nonlinear Multivariate Models",
+            "volume": "74",
+            "author": "KOOP,",
+            "year": "1996",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1345",
+            "DOI": "10.2307/1913386",
+            "article-title": "Time to Build and Aggregate Fluctuations",
+            "volume": "50",
+            "author": "KYDLAND,",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021041020420848700_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1016/j.jedc.2009.08.002",
+            "article-title": "Structural Vector Autoregressions with Markov Switching",
+            "volume": "34",
+            "author": "LANNE,",
+            "year": "2010",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021041020420848700_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.1016/j.jeconom.2016.06.002",
+            "article-title": "Identification and Estimation of Non-Gaussian Structural Vector Autoregressions",
+            "volume": "196",
+            "author": "LANNE,",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "1115",
+            "DOI": "10.3982/ECTA8337",
+            "article-title": "Fiscal Foresight and Information Flows",
+            "volume": "81",
+            "author": "LEEPER,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021041020420848700_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "272",
+            "DOI": "10.1016/0047-259X(92)90037-G",
+            "article-title": "An Approximate Maximum Likelihood Estimation for Non-Gaussian Non-minimum Phase Moving Average Processes",
+            "volume": "43",
+            "author": "LII,",
+            "year": "1992",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "key": "2021041020420848700_B68",
+            "first-page": "1",
+            "article-title": "Maximum Likelihood Estimation for Non-Gaussian Nonminimum Phase ARMA Sequences",
+            "volume": "6",
+            "author": "LII,",
+            "year": "1996",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "key": "2021041020420848700_B69",
+            "first-page": "644",
+            "article-title": "The Dynamic Effects of Aggregate Demand and Supply Disturbances: Comment",
+            "volume": "83",
+            "author": "LIPPI,",
+            "year": "1993",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1016/0304-4076(93)01570-C",
+            "article-title": "VAR Analysis, Nonfundamental Representations, Blaschke Matrices",
+            "volume": "63",
+            "author": "LIPPI,",
+            "year": "1994",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1093/biomet/65.2.297",
+            "article-title": "On a Measure of Lack of Fit in Time Series Models",
+            "volume": "65",
+            "author": "LJUNG,",
+            "year": "1978",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021041020420848700_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "671",
+            "DOI": "10.1017/S0266466604204030",
+            "article-title": "A Simple Test of Normality for Time Series",
+            "volume": "20",
+            "author": "LOBATO,",
+            "year": "2004",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2021041020420848700_B73",
+            "first-page": "555",
+            "article-title": "Frequency Domain Minimum Distance Inference for Possibly Noninvertible and Noncausal ARMA Models",
+            "volume": "46",
+            "author": "LOBATO,",
+            "year": "2018",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2021041020420848700_B74",
+            "first-page": "211",
+            "article-title": "Noncausality and Asset Pricing",
+            "volume": "17",
+            "author": "LOF,",
+            "year": "2013",
+            "journal-title": "Studies in Nonlinear Dynamics and Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "2050",
+            "DOI": "10.1257/aer.99.5.2050",
+            "article-title": "A Theory of Demand Shocks",
+            "volume": "99",
+            "author": "LORENZONI,",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B76",
+            "author": "L\u00dcTKEPOHL,",
+            "first-page": "169",
+            "year": "2013",
+            "article-title": "Identifying Structural Vector Autoregression via Changes in Volatility",
+            "volume-title": "VAR Models in Macroeconomics, Essays in Honor of Christopher Sims, Advances in Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B77",
+            "author": "L\u00dcTKEPOHL,",
+            "first-page": "1",
+            "year": "2014",
+            "article-title": "Fundamental Problems with Nonfundamental Shocks",
+            "volume-title": "Essays in Nonlinear Time Series Econometrics",
+            "DOI": "10.1093/acprof:oso/9780199679959.003.0008",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1007/BF02925492",
+            "article-title": "Measures of Multivariate Skewness and Kurtosis for Tests of Nonnormality",
+            "volume": "32",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "1991",
+            "journal-title": "Statistical Papers"
+        },
+        {
+            "key": "2021041020420848700_B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.1111/j.1468-0297.2010.02361.x",
+            "article-title": "Measuring the Impact of Fiscal Policy in the Face of Anticipation: A Structural VAR Approach",
+            "volume": "120",
+            "author": "MERTENS,",
+            "year": "2010",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2021041020420848700_B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "960",
+            "DOI": "10.1002/jae.1079",
+            "article-title": "What Are the Effects of Fiscal Policy Shocks?",
+            "volume": "24",
+            "author": "MOUNTFORD,",
+            "year": "2009",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2021041020420848700_B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1016/S0165-1765(97)00214-0",
+            "article-title": "Generalized Impulse Response Analysis in Linear Multivariate Models",
+            "volume": "58",
+            "author": "PESARAN,",
+            "year": "1998",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2021041020420848700_B82",
+            "author": "ROSENBLATT,",
+            "year": "2000",
+            "volume-title": "Gaussian and Non Gaussian Linear Time Series and Random Fields",
+            "DOI": "10.1007/978-1-4612-1262-1",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "362",
+            "DOI": "10.1137/1105037",
+            "article-title": "Spectral Properties of Multivariate Stationary Processes and Boundary Properties of Analytic Matrices",
+            "volume": "5",
+            "author": "ROZANOV,",
+            "year": "1960",
+            "journal-title": "Theory of Probability and its Applications"
+        },
+        {
+            "key": "2021041020420848700_B84",
+            "author": "ROZANOV,",
+            "year": "1967",
+            "volume-title": "Stationary Random Processes"
+        },
+        {
+            "key": "2021041020420848700_B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1111/j.1467-937X.2009.00578.x",
+            "article-title": "Structural Vector Autoregression: Theory of Identification and Algorithms for Inference",
+            "volume": "77",
+            "author": "RUBIO-RAMIREZ,",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021041020420848700_B86",
+            "doi-asserted-by": "crossref",
+            "first-page": "461",
+            "DOI": "10.1214/aos/1176344136",
+            "article-title": "Estimating the Dimension of a Model",
+            "volume": "6",
+            "author": "SCHWARZ,",
+            "year": "1978",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2021041020420848700_B87",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.1093/biomet/52.3-4.591",
+            "article-title": "An Analysis of Variance Test for Normality (Complete Samples)",
+            "volume": "52",
+            "author": "SHAPIRO,",
+            "year": "1965",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021041020420848700_B88",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1912017",
+            "article-title": "Macroeconomics and Reality",
+            "volume": "48",
+            "author": "SIMS,",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021041020420848700_B89",
+            "first-page": "1",
+            "article-title": "Are Forecasting Models Usable for Policy Analysis?",
+            "volume": "10",
+            "author": "SIMS,",
+            "year": "1986",
+            "journal-title": "Federal Reserve Bank of Minneapolis Quarterly Review"
+        },
+        {
+            "key": "2021041020420848700_B90",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.2307/1241619",
+            "article-title": "Models and their Uses",
+            "volume": "71",
+            "author": "SIMS,",
+            "year": "1989",
+            "journal-title": "American Journal of Agricultural Economics"
+        },
+        {
+            "key": "2021041020420848700_B91",
+            "author": "SIMS,",
+            "year": "2012",
+            "article-title": "News, Non-Invertibility, and Structural VARs",
+            "DOI": "10.1108/S0731-9053(2012)0000028006",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B92",
+            "first-page": "217",
+            "article-title": "On a Property of a Normal Distribution",
+            "volume": "89",
+            "author": "SKITOVICH,",
+            "year": "1953",
+            "journal-title": "Doklady Academii nauk SSSR, (in Russian)"
+        },
+        {
+            "key": "2021041020420848700_B93",
+            "doi-asserted-by": "crossref",
+            "first-page": "1123",
+            "DOI": "10.1162/154247603770383415",
+            "article-title": "An Estimated Dynamic Stochastic General Equilibrium Model of the Euro Area",
+            "volume": "1",
+            "author": "SMETS,",
+            "year": "2003",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2021041020420848700_B94",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1016/S0014-2921(98)00096-8",
+            "article-title": "Solution and Estimation of RE Macromodels with Optimal Policy",
+            "volume": "43",
+            "author": "S\u00d6DERLIND,",
+            "year": "1999",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2021041020420848700_B95",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.1016/j.jmoneco.2004.05.007",
+            "article-title": "What Are the Effects of Monetary Policy on Output? Results from an Agnostic Identification Procedure",
+            "volume": "52",
+            "author": "UHLIG,",
+            "year": "2005",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021041020420848700_B96",
+            "author": "VELINOV,",
+            "year": "2014",
+            "article-title": "Are There Bubbles in Stock Prices? Testing for Fundamental Shocks",
+            "DOI": "10.2139/ssrn.2433031",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021041020420848700_B97",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1214/aoms/1177729952",
+            "article-title": "Note on the Consistency of the Maximum Likelihood Estimate",
+            "volume": "20",
+            "author": "WALD,",
+            "year": "1949",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2021041020420848700_B98",
+            "doi-asserted-by": "crossref",
+            "first-page": "831",
+            "DOI": "10.2307/3212735",
+            "article-title": "Time-Reversibility of Linear Stochastic Processes",
+            "volume": "12",
+            "author": "WEISS,",
+            "year": "1975",
+            "journal-title": "Journal of Applied Probability"
+        },
+        {
+            "key": "2021041020420848700_B99",
+            "doi-asserted-by": "crossref",
+            "first-page": "98",
+            "DOI": "10.1111/j.1467-9892.2009.00648.x",
+            "article-title": "Least Absolute Deviation Estimation for General Autoregressive Moving Average Time-Series Models",
+            "volume": "31",
+            "author": "WU,",
+            "year": "2010",
+            "journal-title": "Journal of Time Series Analysis"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdz028/28786818/rdz028.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/87/4/1915/37018157/rdz028.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/87/4/1915/37018157/rdz028.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                10
+            ]
+        ],
+        "date-time": "2021-04-10T20:43:11Z",
+        "timestamp": 1618087391000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                17
+            ]
+        ]
+    },
+    "references-count": 99,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    5,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "issue": "4"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdz028",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}
