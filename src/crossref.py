@@ -37,6 +37,7 @@ def repec_page(base, journal):
                     pass
         except Exception as e:
             sleep(3)
+            continue
         urls = set(urls)
         return len(urls)
 
@@ -68,6 +69,7 @@ def repec_paper(base, page, journal):
                     pass
         except Exception as e:
             sleep(3)
+            continue
     
     return urls
 
