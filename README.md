@@ -21,7 +21,7 @@ American Economic Association deposits, where I scrape all of DOIs of each journ
 ![replication-code-stata](./img/aea-deposit-icpsr.png)
 
 ## Work in Progress: Top 10 Econ Journals According to IDEAS/RePEc
-See my project list [here](https://github.com/ledwindra/replication-code-economics/projects/1). The idea is to parse metadata from Crossref for each paper DOI in top ten economics journals according IDEAS/RePEc (full list [here](https://ideas.repec.org/top/top.journals.all.html)). The data can be checked on `data/crossref/[JOURNAL-CODE]`. For example:
+See my project list [here](https://github.com/ledwindra/replication-code-economics/projects/1). The idea is to parse metadata from [Crossref](https://github.com/CrossRef/rest-api-doc) for each paper DOI in top ten economics journals according IDEAS/RePEc (full list [here](https://ideas.repec.org/top/top.journals.all.html)). The data can be checked on `data/crossref/[JOURNAL-CODE]`. For example:
 - `s-aea-aecrev`: American Economic Review
 - `s-aea-jeclit`: Journal of Economic Literature
 - `s-aea-jecper`: Journal of Economic Perspectives
