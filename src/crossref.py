@@ -100,17 +100,15 @@ def crossref(download, path):
         for key, value in inputval.items():
             paper = paper.replace(key, 'https://doi.org/')
         print(f'{current_timestamp()}: {paper}')
-        file_name = paper.replace('https://doi.org/', '')
-        file_name = file_name.replace('/', '-')
-        # no need to re-download existing file
-        if not os.path.exists(f'{path}/{file_name}.json'):
-            try:
-                paper = crossref_commons.retrieval.get_publication_as_json(paper)
-                sleep(3)
+        try:
+            paper = crossref_commons.retrieval.get_publication_as_json(paper)
+            # no need to re-download existing file
+            file_name = paper['DOI'].replace('/', '-')
+            if not os.path.exists(f'{path}/{file_name}.json'):
                 with open(f'{path}/{file_name}.json', 'w') as f:
                     json.dump(paper, f, indent=4)
-            except ValueError:
-                print(f'DOI {paper} does not exist')
+        except ValueError:
+            print(f'DOI {paper} does not exist')
     except AttributeError:
         pass
 
