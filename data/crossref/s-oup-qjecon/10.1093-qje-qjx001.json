@@ -1,0 +1,677 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T10:04:42Z",
+        "timestamp": 1615802682845
+    },
+    "reference-count": 50,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2017,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Conventional value-added models (VAMs) compare average test scores across schools after regression-adjusting for students\u2019 demographic characteristics and previous scores. This article tests for VAM bias using a procedure that asks whether VAM estimates accurately predict the achievement consequences of random assignment to specific schools. Test results from admissions lotteries in Boston suggest conventional VAM estimates are biased, a finding that motivates the development of a hierarchical model describing the joint distribution of school value-added, bias, and lottery compliance. We use this model to assess the substantive importance of bias in conventional VAM estimates and to construct hybrid value-added estimates that optimally combine ordinary least squares and lottery-based estimates of VAM parameters. The hybrid estimation strategy provides a general recipe for combining nonexperimental and quasi-experimental estimates. While still biased, hybrid school value-added estimates have lower mean squared error than conventional VAM estimates. Simulations calibrated to the Boston data show that, bias notwithstanding, policy decisions based on conventional VAMs that control for lagged achievement are likely to generate substantial achievement gains. Hybrid estimates that incorporate lotteries yield further gains.</jats:p>",
+    "DOI": "10.1093/qje/qjx001",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2017,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2017-01-30T13:26:38Z",
+        "timestamp": 1485782798000
+    },
+    "page": "871-919",
+    "source": "Crossref",
+    "is-referenced-by-count": 26,
+    "title": [
+        "Leveraging Lotteries for School Value-Added: Testing and Estimation*"
+    ],
+    "prefix": "10.1093",
+    "volume": "132",
+    "author": [
+        {
+            "given": "Joshua D.",
+            "family": "Angrist",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Peter D.",
+            "family": "Hull",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Parag A.",
+            "family": "Pathak",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Christopher R.",
+            "family": "Walters",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2017,
+                2,
+                1
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019111117190062600_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "699",
+            "DOI": "10.1093/qje/qjr017",
+            "article-title": "\u201cAccountability and Flexibility in Public Schools: Evidence from Boston's Charters and Pilots,\u201d",
+            "volume": "126",
+            "author": "Abdulkadiro\u011flu",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117190062600_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1878",
+            "DOI": "10.1257/aer.20150479",
+            "article-title": "\u201cCharters without Lotteries: Testing Takeovers in New Orleans and Boston,\u201d",
+            "volume": "106",
+            "author": "Abdulkadiro\u011flu",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib3",
+            "author": "Abdulkadiro\u011flu",
+            "article-title": "\u201cResearch Design Meets Market Design: Using Centralized Assignment for Impact Evaluation,\u201d",
+            "volume-title": "Econometrica",
+            "DOI": "10.3982/ECTA13925",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117190062600_bib4",
+            "author": "Abdulkadiro\u011flu",
+            "year": "2006",
+            "article-title": "\u201cChanging the Boston School Choice Mechanism,\u201d",
+            "DOI": "10.3386/w11965",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117190062600_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.2307/2998558",
+            "article-title": "\u201cEstimating the Labor Market Impact of Voluntary Military Service Using Social Security Data on Military Applicants,\u201d",
+            "volume": "66",
+            "author": "Angrist",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1086/683665",
+            "article-title": "\u201cStand and Deliver: Effects of Boston's Charter High Schools on College Preparation, Entry, and Choice,\u201d",
+            "volume": "34",
+            "author": "Angrist",
+            "year": "2016",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2019111117190062600_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "388",
+            "DOI": "10.1257/aer.p20161080",
+            "article-title": "\u201cInterpreting Tests of School VAM Validity,\u201d",
+            "volume": "106",
+            "author": "Angrist",
+            "year": "2016",
+            "journal-title": "American Economic Review: Papers & Proceedings"
+        },
+        {
+            "key": "2019111117190062600_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "444",
+            "DOI": "10.1080/01621459.1996.10476902",
+            "article-title": "\u201cIdentification of Causal Effects Using Instrumental Variables,\u201d",
+            "volume": "91",
+            "author": "Angrist",
+            "year": "1996",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019111117190062600_bib9",
+            "first-page": "1",
+            "article-title": "\u201cExplaining Charter School Effectiveness,\u201d",
+            "volume": "5",
+            "author": "Angrist",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2019111117190062600_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "290",
+            "DOI": "10.1002/pam.21748",
+            "article-title": "\u201cCan Small High Schools of Choice Improve Educational Prospects for Disadvantaged Students?,\u201d",
+            "volume": "33",
+            "author": "Bloom",
+            "year": "2014",
+            "journal-title": "Journal of Policy Analysis and Management"
+        },
+        {
+            "key": "2019111117190062600_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.1093/qje/qjt006",
+            "article-title": "\u201cWorkplace Heterogeneity and the Rise of West German Wage Inequality,\u201d",
+            "volume": "128",
+            "author": "Card",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117190062600_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1111/j.1468-0262.2004.00485.x",
+            "article-title": "\u201cRandom Effects Estimators with Many Instrumental Variables,\u201d",
+            "volume": "72",
+            "author": "Chamberlain",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "2110",
+            "DOI": "10.1257/aer.20151080",
+            "article-title": "\u201cHealth Care Exceptionalism? Performance and Allocation in the US Health Care Sector,\u201d",
+            "volume": "106",
+            "author": "Chandra",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1593",
+            "DOI": "10.1093/qje/qjr041",
+            "article-title": "\u201cHow Does Your Kindergarten Classroom Affect Your Earnings? Evidence from Project STAR,\u201d",
+            "volume": "126",
+            "author": "Chetty",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117190062600_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2593",
+            "DOI": "10.1257/aer.104.9.2593",
+            "article-title": "\u201cMeasuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates,\u201d",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2633",
+            "DOI": "10.1257/aer.104.9.2633",
+            "article-title": "\u201cMeasuring the Impacts of Teachers II: Teacher Value-Added and Student Outcomes in Adulthood,\u201d",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.1257/aer.p20161081",
+            "article-title": "\u201cUsing Lagged Outcomes to Evaluate Bias in Value-Added Models,\u201d",
+            "volume": "106",
+            "author": "Chetty",
+            "year": "2016",
+            "journal-title": "American Economic Review: Papers & Proceedings"
+        },
+        {
+            "key": "2019111117190062600_bib19a",
+            "author": "Chetty",
+            "article-title": "\u201cMeasuring the Impacts of Teachers: Reply to Rothstein (2016)\u201d",
+            "volume-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib19",
+            "author": "Chetty",
+            "article-title": "\u201cThe Impacts of Neighborhoods on Intergenerational Mobility II: County-Level Estimates,\u201d",
+            "DOI": "10.3386/w23002",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117190062600_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.1111/j.1468-0262.2006.00702.x",
+            "article-title": "\u201cThe Effect of School Choice on Participants: Evidence from Randomized Lotteries,\u201d",
+            "volume": "74",
+            "author": "Cullen",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "406",
+            "DOI": "10.1257/aer.104.5.406",
+            "article-title": "\u201cUsing School Choice Lotteries to Test Measures of School Effectiveness,\u201d",
+            "volume": "104",
+            "author": "Deming",
+            "year": "2014",
+            "journal-title": "American Economic Review: Papers & Proceedings"
+        },
+        {
+            "key": "2019111117190062600_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "991",
+            "DOI": "10.1257/aer.104.3.991",
+            "article-title": "\u201cSchool Choice, School Quality, and Postsecondary Attainment,\u201d",
+            "volume": "104",
+            "author": "Deming",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib23",
+            "author": "Deutsch",
+            "year": "2013",
+            "article-title": "\u201cProposing A Test of the Value-Added Model Using School Lotteries,\u201d"
+        },
+        {
+            "key": "2019111117190062600_bib24",
+            "first-page": "28",
+            "article-title": "\u201cGetting Beneath the Veil of Effective Schools: Evidence from New York City,\u201d",
+            "volume": "5",
+            "author": "Dobbie",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2019111117190062600_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.1086/682718",
+            "article-title": "\u201cThe Medium-Term Impacts of High-Achieving Charter Schools,\u201d",
+            "volume": "123",
+            "author": "Dobbie",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117190062600_bib26",
+            "author": "Fletcher",
+            "year": "2014",
+            "article-title": "\u201cEstimating the Value Added of Attending Physicians on Patient Outcomes,\u201d",
+            "DOI": "10.3386/w20534",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117190062600_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1355",
+            "DOI": "10.1093/qje/qju011",
+            "article-title": "\u201cInjecting Charter School Best Practices into Traditional Public Schools: Evidence from Field Experiments,\u201d",
+            "volume": "129",
+            "author": "Fryer",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117190062600_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1373",
+            "DOI": "10.1162/qjec.2008.123.4.1373",
+            "article-title": "\u201cInformation, School Choice, and Academic Achievement: Evidence from Two Experiments,\u201d",
+            "volume": "123",
+            "author": "Hastings",
+            "year": "2008",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117190062600_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "article-title": "\u201cIdentification and Estimation of Local Average Treatment Effects,\u201d",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1086/522974",
+            "article-title": "\u201cCan Principals Identify Effective Teachers? Evidence on Subjective Performance Evaluation in Education,\u201d",
+            "volume": "26",
+            "author": "Jacob",
+            "year": "2008",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2019111117190062600_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1198/016214504000000430",
+            "article-title": "\u201cA Semiparametric Basis for Combining Estimation Problems under Quadratic Loss,\u201d",
+            "volume": "99",
+            "author": "Judge",
+            "year": "2004",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019111117190062600_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "513",
+            "DOI": "10.1016/j.jeconom.2006.05.007",
+            "article-title": "\u201cEstimation and Inference in the Case of Competing Sets of Estimating Equations,\u201d",
+            "volume": "138",
+            "author": "Judge",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019111117190062600_bib33",
+            "author": "Kane",
+            "year": "2013",
+            "article-title": "\u201cHave We Identified Effective Teachers? Validating Measures of Effective Teaching Using Random Assignment,\u201d"
+        },
+        {
+            "key": "2019111117190062600_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1016/j.econedurev.2007.05.005",
+            "article-title": "\u201cWhat Does Certification Tell Us about Teacher Effectiveness? Evidence from New York City,\u201d",
+            "volume": "27",
+            "author": "Kane",
+            "year": "2008",
+            "journal-title": "Economics of Education Review"
+        },
+        {
+            "key": "2019111117190062600_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1257/089533002320950993",
+            "article-title": "\u201cThe Promise and Pitfalls of Using Imprecise School Accountability Measures,\u201d",
+            "volume": "16",
+            "author": "Kane",
+            "year": "2002",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2019111117190062600_bib36",
+            "author": "Kane",
+            "year": "2008",
+            "article-title": "\u201cEstimating Teacher Impacts on Student Achievement: An Experimental Evaluation,\u201d",
+            "DOI": "10.3386/w14607",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117190062600_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.3982/QE132",
+            "article-title": "\u201cAssessing Rothstein's Critique of Teacher Value-Added Models,\u201d",
+            "volume": "3",
+            "author": "Kinsler",
+            "year": "2012",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2019111117190062600_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "18",
+            "DOI": "10.1162/EDFP_a_00027",
+            "article-title": "\u201cDoes Student Soring Invalidate Value-Added Models of Teacher Effectiveness? An Extended Analysis of the Rothstein Critique,\u201d",
+            "volume": "6",
+            "author": "Koedel",
+            "year": "2011",
+            "journal-title": "Education Finance and Policy"
+        },
+        {
+            "key": "2019111117190062600_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "995",
+            "DOI": "10.2307/1913621",
+            "article-title": "\u201cA Method of Simulated Moments for Estimation of Discrete Response Models without Numerical Integration,\u201d",
+            "volume": "57",
+            "author": "McFadden",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2004.08.006",
+            "article-title": "\u201cCombining Estimators to Improve Structural Model Estimation and Inference under Quadratic Loss,\u201d",
+            "volume": "128",
+            "author": "Mittelhammer",
+            "year": "2005",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019111117190062600_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1080/01621459.1983.10477920",
+            "article-title": "\u201cParametric Empirical Bayes Inference: Theory and Applications,\u201d",
+            "volume": "78",
+            "author": "Morris",
+            "year": "1983",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019111117190062600_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1016/0304-4076(85)90154-X",
+            "article-title": "\u201cGeneralized Method of Moments Specification Testing,\u201d",
+            "volume": "29",
+            "author": "Newey",
+            "year": "1985",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019111117190062600_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "777",
+            "DOI": "10.2307/2526578",
+            "article-title": "\u201cHypothesis Testing with Efficient Method of Moments Estimation,\u201d",
+            "volume": "28",
+            "author": "Newey",
+            "year": "1987",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "537",
+            "DOI": "10.1162/edfp.2009.4.4.537",
+            "article-title": "\u201cStudent Sorting and Bias in Value-Added Estimation: Selection on Observables and Unobservables,\u201d",
+            "volume": "4",
+            "author": "Rothstein",
+            "year": "2009",
+            "journal-title": "Education Finance and Policy"
+        },
+        {
+            "key": "2019111117190062600_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1162/qjec.2010.125.1.175",
+            "article-title": "\u201cTeacher Quality in Educational Production: Tracking, Decay, and Student Achievement,\u201d",
+            "volume": "125",
+            "author": "Rothstein",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117190062600_bib46",
+            "author": "Rothstein",
+            "article-title": "\u201cRevisiting the Impact of Teachers,\u201d",
+            "volume-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117190062600_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.2307/1907619",
+            "article-title": "\u201cThe Estimation of Economic Relationships Using Instrumental Variables,\u201d",
+            "volume": "26",
+            "author": "Sargan",
+            "year": "1958",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib48",
+            "author": "Walters",
+            "first-page": "2014",
+            "article-title": "\u201cThe Demand for Effective Charter Schools,\u201d"
+        },
+        {
+            "key": "2019111117190062600_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/1912934",
+            "article-title": "\u201cA Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity,\u201d",
+            "volume": "48",
+            "author": "White",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117190062600_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.2307/1912639",
+            "article-title": "\u201cInstrumental Variables Regression with Independent Observations,\u201d",
+            "volume": "50",
+            "author": "White",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/132/2/871/30637508/qjx001.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/132/2/871/30637508/qjx001.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                11
+            ]
+        ],
+        "date-time": "2019-11-11T22:24:38Z",
+        "timestamp": 1573511078000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2017,
+                2,
+                1
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2017,
+                    2,
+                    1
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjx001",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ]
+}

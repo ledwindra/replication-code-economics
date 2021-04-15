@@ -1,0 +1,180 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2021-01-12T09:13:34Z",
+        "timestamp": 1610442814129
+    },
+    "reference-count": 18,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2021-01-01T00:00:00Z",
+                "timestamp": 1609459200000
+            },
+            "delay-in-days": 0,
+            "content-version": "unspecified"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100004040",
+            "name": "KU Leuven",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/501100003130",
+            "name": "Fonds Wetenschappelijk Onderzoek",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/501100002661",
+            "name": "Fonds De La Recherche Scientifique - FNRS",
+            "doi-asserted-by": "publisher",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Kitamura and Stoye (2018) recently proposed a nonparametric statistical test for random utility models of consumer behavior. The test is formulated in terms of linear inequality constraints and a quadratic objective function. While the nonparametric test is conceptually appealing, its practical implementation is computationally challenging. In this paper, we develop a column generation approach to operationalize the test. These novel computational tools generate considerable computational gains in practice, which substantially increases the empirical usefulness of Kitamura and Stoye's statistical test.</jats:p>",
+    "DOI": "10.3982/ecta17605",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2021-01-12T08:05:05Z",
+        "timestamp": 1610438705000
+    },
+    "page": "437-455",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Nonparametric Analysis of Random Utility Models: Computational Tools for Statistical Testing"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Bart",
+            "family": "Smeulders",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Mathematics and Computer Science, Eindhoven University of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Laurens",
+            "family": "Cherchye",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Leuven (KU Leuven)"
+                }
+            ]
+        },
+        {
+            "given": "Bram",
+            "family": "De Rock",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ECARES, Universit\u00e9 Libre de Bruxelles"
+                },
+                {
+                    "name": "Department of Economics, University of Leuven (KU Leuven)"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2021-01-12T08:47:23Z",
+        "timestamp": 1610441243000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 18,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "alternative-id": [
+        "10.3982/ECTA17605"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17605",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

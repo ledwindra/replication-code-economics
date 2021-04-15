@@ -1,0 +1,721 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                14
+            ]
+        ],
+        "date-time": "2021-04-14T18:23:51Z",
+        "timestamp": 1618424631265
+    },
+    "reference-count": 53,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "start": {
+                "date-parts": [
+                    [
+                        2016,
+                        12,
+                        19
+                    ]
+                ],
+                "date-time": "2016-12-19T00:00:00Z",
+                "timestamp": 1482105600000
+            },
+            "delay-in-days": 67,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2017,
+                2,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I derive a lower bound on the equity premium in terms of a volatility index, SVIX, that can be calculated from index option prices. The bound implies that the equity premium is extremely volatile and that it rose above 20% at the height of the crisis in 2008. The time-series average of the lower bound is about 5%, suggesting that the bound may be approximately tight. I run predictive regressions and find that this hypothesis is not rejected by the data, so I use the SVIX index as a proxy for the equity premium and argue that the high equity premia available at times of stress largely reflect high expected returns over the very short run. I also provide a measure of the probability of a market crash, and introduce simple variance swaps, tradable contracts based on SVIX that are robust alternatives to variance swaps.</jats:p>",
+    "DOI": "10.1093/qje/qjw034",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2016,
+                10,
+                4
+            ]
+        ],
+        "date-time": "2016-10-04T03:05:32Z",
+        "timestamp": 1475550332000
+    },
+    "page": "367-433",
+    "source": "Crossref",
+    "is-referenced-by-count": 144,
+    "title": [
+        "What is the Expected Return on the Market?*"
+    ],
+    "prefix": "10.1093",
+    "volume": "132",
+    "author": [
+        {
+            "given": "Ian",
+            "family": "Martin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "London School of Economics"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2016,
+                10,
+                13
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019111117143105400_bib1",
+            "author": "A\u00eft-Sahalia",
+            "year": "2015",
+            "article-title": "\u201cThe Term Structure of Variance Swaps and Risk Premia,\u201d"
+        },
+        {
+            "key": "2019111117143105400_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1977",
+            "DOI": "10.1111/j.1468-0262.2005.00643.x",
+            "article-title": "\u201cUsing Asset Prices to Measure the Persistence of the Marginal Utility of Wealth,\u201d",
+            "volume": "73",
+            "author": "Alvarez",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117143105400_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "651",
+            "DOI": "10.1093/rfs/hhl021",
+            "article-title": "\u201cStock Return Predictability: Is it There?,\u201d",
+            "volume": "20",
+            "author": "Ang",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1969",
+            "DOI": "10.1111/j.1540-6261.2011.01697.x",
+            "article-title": "\u201cDisasters Implied by Equity Index Options,\u201d",
+            "volume": "66",
+            "author": "Backus",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1111/jofi.12090",
+            "article-title": "\u201cSources of Entropy in Representative Agent Models,\u201d",
+            "volume": "69",
+            "author": "Backus",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1111/j.1540-6261.2004.00670.x",
+            "article-title": "\u201cRisks for the Long Run: A Potential Resolution of Asset Pricing Puzzles,\u201d",
+            "volume": "59",
+            "author": "Bansal",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "183",
+            "DOI": "10.1561/104.00000005",
+            "article-title": "\u201cAn Empirical Evaluation of the Long-run Risks Model for Asset Prices,\u201d",
+            "volume": "1",
+            "author": "Bansal",
+            "year": "2012",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2019111117143105400_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2471",
+            "DOI": "10.1111/jofi.12110",
+            "article-title": "\u201cVolatility, the Macroeconomy, and Asset Prices,\u201d",
+            "volume": "69",
+            "author": "Bansal",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.08.007",
+            "article-title": "\u201cX-CAPM: An Extrapolative Capital Asset Pricing Model,\u201d",
+            "volume": "115",
+            "author": "Barberis",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117143105400_bib10",
+            "author": "Barro",
+            "year": "2016",
+            "article-title": "\u201cOptions-pricing Formula with Disaster Risk,\u201d",
+            "journal-title": "NBER"
+        },
+        {
+            "key": "2019111117143105400_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "823",
+            "DOI": "10.1162/qjec.121.3.823",
+            "article-title": "\u201cRare Disasters and Asset Markets in the Twentieth Century,\u201d",
+            "volume": "121",
+            "author": "Barro",
+            "year": "2006",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117143105400_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1009",
+            "DOI": "10.1111/j.1540-6261.1991.tb03775.x",
+            "article-title": "\u201cThe Crash of '87: Was it Expected? The Evidence from Options Markets,\u201d",
+            "volume": "46",
+            "author": "Bates",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1547",
+            "DOI": "10.1093/qje/qjt023",
+            "article-title": "\u201cManagerial Miscalibration,\u201d",
+            "volume": "128",
+            "author": "Ben-David",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117143105400_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1086/260062",
+            "article-title": "\u201cThe Pricing of Options and Corporate Liabilities,\u201d",
+            "volume": "81",
+            "author": "Black",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117143105400_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2165",
+            "DOI": "10.1111/j.1540-6261.2011.01695.x",
+            "article-title": "\u201cTails, Fears, and Risk Premia,\u201d",
+            "volume": "66",
+            "author": "Bollerslev",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "4463",
+            "DOI": "10.1093/rfs/hhp008",
+            "article-title": "\u201cExpected Stock Returns and Variance Risk Premia,\u201d",
+            "volume": "22",
+            "author": "Bollerslev",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "621",
+            "DOI": "10.1086/296025",
+            "article-title": "\u201cPrices of State-contingent Claims Implicit in Option Prices,\u201d",
+            "volume": "51",
+            "author": "Breeden",
+            "year": "1978",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2019111117143105400_bib18",
+            "author": "Campbell",
+            "year": "2016",
+            "article-title": "\u201cAn Intertemporal CAPM With Stochastic Volatility,\u201d"
+        },
+        {
+            "key": "2019111117143105400_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1086/250059",
+            "article-title": "\u201cBy Force of Habit: A Consumption-based Explanation of Aggregate Stock Market Behavior,\u201d",
+            "volume": "107",
+            "author": "Campbell",
+            "year": "1999",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117143105400_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1093/rfs/1.3.195",
+            "article-title": "\u201cThe Dividend-Price Ratio and Expectations of Future Dividends and Discount Factors,\u201d",
+            "volume": "1",
+            "author": "Campbell",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1509",
+            "DOI": "10.1093/rfs/hhm055",
+            "article-title": "\u201cPredicting Excess Stock Returns Out of Sample: Can Anything Beat the Historical Average?,\u201d",
+            "volume": "21",
+            "author": "Campbell",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1162/003355399556043",
+            "article-title": "\u201cConsumption and Portfolio Decisions When Expected Returns Are Time-varying,\u201d",
+            "volume": "114",
+            "author": "Campbell",
+            "year": "1999",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117143105400_bib23",
+            "author": "Carr",
+            "year": "1998",
+            "article-title": "\u201cTowards a Theory of Volatility Trading,\u201d",
+            "volume-title": "Volatility: New Estimation Techniques for Pricing Derivatives"
+        },
+        {
+            "key": "2019111117143105400_bib25",
+            "author": "Cochrane",
+            "year": "2005",
+            "volume-title": "Asset Pricing"
+        },
+        {
+            "key": "2019111117143105400_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1533",
+            "DOI": "10.1093/rfs/hhm046",
+            "article-title": "\u201cThe Dog that Did Not Bark: A Defense of Return Predictability,\u201d",
+            "volume": "21",
+            "author": "Cochrane",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1111/j.1540-6261.2011.01671.x",
+            "article-title": "\u201cPresidential Address: Discount Rates,\u201d",
+            "volume": "66",
+            "author": "Cochrane",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhq085",
+            "article-title": "\u201cWhat's Vol Got to Do with It,\u201d",
+            "volume": "24",
+            "author": "Drechsler",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "937",
+            "DOI": "10.2307/1913778",
+            "article-title": "\u201cSubstitution, Risk Aversion, and the Temporal Behavior of Consumption and Asset Returns: A Theoretical Framework,\u201d",
+            "volume": "57",
+            "author": "Epstein",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117143105400_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.1086/261750",
+            "article-title": "\u201cSubstitution, Risk Aversion, and the Temporal Behavior of Consumption and Asset Returns: An Empirical Analysis,\u201d",
+            "volume": "99",
+            "author": "Epstein",
+            "year": "1991",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117143105400_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1466",
+            "DOI": "10.1214/aoms/1177698701",
+            "article-title": "\u201cAssociation of Random Variables, with Applications,\u201d",
+            "volume": "38",
+            "author": "Esary",
+            "year": "1967",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2019111117143105400_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(88)90020-7",
+            "article-title": "\u201cDividend Yields and Expected Stock Returns,\u201d",
+            "volume": "22",
+            "author": "Fama",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117143105400_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1111/1540-6261.00437",
+            "article-title": "\u201cThe Equity Premium,\u201d",
+            "volume": "57",
+            "author": "Fama",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "\u201cA Comprehensive Look at the Empirical Performance of Equity Premium Prediction,\u201d",
+            "volume": "21",
+            "author": "Goyal",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1093/rfs/hht082",
+            "article-title": "\u201cExpectations of Returns and Expected Returns,\u201d",
+            "volume": "27",
+            "author": "Greenwood",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117143105400_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1086/260910",
+            "article-title": "\u201cForward Exchange Rates as Optimal Predictors of Future Spot Rates: An Econometric Analysis,\u201d",
+            "volume": "88",
+            "author": "Hansen",
+            "year": "1980",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117143105400_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1086/261749",
+            "article-title": "\u201cImplications of Security Market Data For Models of Dynamic Economies,\u201d",
+            "volume": "99",
+            "author": "Hansen",
+            "year": "1991",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117143105400_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.1016/0304-405X(86)90070-X",
+            "article-title": "\u201cPredicting Returns in the Stock and Bond Markets,\u201d",
+            "volume": "17",
+            "author": "Keim",
+            "year": "1986",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117143105400_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1721",
+            "DOI": "10.1111/jofi.12060",
+            "article-title": "\u201cMarket Expectations in the Cross-Section of Present Values,\u201d",
+            "volume": "68",
+            "author": "Kelly",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/0022-1082.00347",
+            "article-title": "\u201cConsumption, Aggregate Wealth, and Expected Stock Returns,\u201d",
+            "volume": "56",
+            "author": "Lettau",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1093/qje/qjq004",
+            "article-title": "\u201cDepression Babies: Do Macroeconomic Experiences Affect Risk Taking?,\u201d",
+            "volume": "126",
+            "author": "Malmendier",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117143105400_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "745",
+            "DOI": "10.1093/restud/rds029",
+            "article-title": "\u201cConsumption-based Asset Pricing with Higher Cumulants,\u201d",
+            "volume": "80",
+            "author": "Martin",
+            "year": "2013",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019111117143105400_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.2307/1913811",
+            "article-title": "\u201cAn Intertemporal Capital Asset Pricing Model,\u201d",
+            "volume": "41",
+            "author": "Merton",
+            "year": "1973",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117143105400_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1016/0304-405X(80)90007-0",
+            "article-title": "\u201cOn Estimating the Expected Return on the Market,\u201d",
+            "volume": "8",
+            "author": "Merton",
+            "year": "1980",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117143105400_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "74",
+            "DOI": "10.3905/jpm.1994.409478",
+            "article-title": "\u201cThe Log Contract,\u201d",
+            "volume": "20",
+            "author": "Neuberger",
+            "year": "1994",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2019111117143105400_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "496",
+            "DOI": "10.1214/aop/1176993872",
+            "article-title": "\u201cPositively Correlated Normal Variables Are Associated,\u201d",
+            "volume": "10",
+            "author": "Pitt",
+            "year": "1982",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2019111117143105400_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1016/0304-405X(77)90009-5",
+            "article-title": "\u201cA Critique of the Asset Pricing Theory's Tests I: On Past and Potential Testability of the Theory,\u201d",
+            "volume": "4",
+            "author": "Roll",
+            "year": "1977",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117143105400_bib47",
+            "first-page": "551",
+            "article-title": "\u201cEvidence on the \u2018Growth-Optimum\u2019 Model,\u201d",
+            "volume": "28",
+            "author": "Roll",
+            "year": "1973",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib48",
+            "author": "Ross",
+            "volume-title": "Neoclassical Finance"
+        },
+        {
+            "key": "2019111117143105400_bib49",
+            "author": "Shiller",
+            "year": "1987",
+            "article-title": "\u201cInvestor Behavior in the October 1987 Stock Market Crash: Survey Evidence,\u201d",
+            "volume-title": "NBER",
+            "DOI": "10.3386/w2446",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117143105400_bib50",
+            "author": "Shiller",
+            "year": "2000",
+            "volume-title": "Irrational Exuberance"
+        },
+        {
+            "key": "2019111117143105400_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1016/S0304-405X(99)00041-0",
+            "article-title": "\u201cPredictive Regressions,\u201d",
+            "volume": "54",
+            "author": "Stambaugh",
+            "year": "1999",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117143105400_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1111/jofi.12018",
+            "article-title": "\u201cCan Time-varying Risk of Rare Disasters Explain Aggregate Stock Market Volatility?,\u201d",
+            "volume": "68",
+            "author": "Wachter",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117143105400_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.2307/2937817",
+            "article-title": "\u201cNonexpected Utility in Macroeconomics,\u201d",
+            "volume": "105",
+            "author": "Weil",
+            "year": "1990",
+            "journal-title": "Quarterly Journal of Economics"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/132/1/367/30637109/qjw034.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/132/1/367/30637109/qjw034.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                11
+            ]
+        ],
+        "date-time": "2019-11-11T22:16:39Z",
+        "timestamp": 1573510599000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2016,
+                10,
+                13
+            ]
+        ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2016,
+                    10,
+                    13
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    2,
+                    1
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjw034",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ]
+}

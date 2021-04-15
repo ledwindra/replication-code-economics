@@ -1,0 +1,560 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2021-03-27T11:23:52Z",
+        "timestamp": 1616844232026
+    },
+    "reference-count": 38,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "URL": "http://academic.oup.com/journals/pages/about_us/legal/notices",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        10
+                    ]
+                ],
+                "date-time": "2018-02-10T00:00:00Z",
+                "timestamp": 1518220800000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/10.13039.100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/100009827",
+            "name": "Laura and John Arnold Foundation",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "name": "Lab for Economic Applications and Policy at Harvard, Stanford University",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2018,
+                8,
+                1
+            ]
+        ]
+    },
+    "DOI": "10.1093/qje/qjy007",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                1,
+                29
+            ]
+        ],
+        "date-time": "2018-01-29T20:12:54Z",
+        "timestamp": 1517256774000
+    },
+    "page": "1107-1162",
+    "source": "Crossref",
+    "is-referenced-by-count": 146,
+    "title": [
+        "The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects*"
+    ],
+    "prefix": "10.1093",
+    "volume": "133",
+    "author": [
+        {
+            "given": "Raj",
+            "family": "Chetty",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University and National Bureau of Economic Research"
+                }
+            ]
+        },
+        {
+            "given": "Nathaniel",
+            "family": "Hendren",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard University and National Bureau of Economic Research"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                2,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "915",
+            "DOI": "10.2307/146403",
+            "article-title": "Using Sibling Data to Estimate the Impact of Neighborhoods on Childrens Educational Outcomes",
+            "volume": "33",
+            "author": "Aaronson",
+            "year": "1998",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib2",
+            "author": "Altonji",
+            "year": "2016",
+            "article-title": "Estimating Group Effects Using Averages of Observables to Control for Sorting on Unobservables: School and Neighborhood Effects"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib3",
+            "author": "Basu",
+            "year": "2010",
+            "article-title": "Age of Entry Effects on the Education of Immigrant Children: A Sibling Study",
+            "DOI": "10.2139/ssrn.1720573",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "481",
+            "DOI": "10.1162/003465304323031067",
+            "article-title": "Language Skills and Earnings: Evidence from Childhood Immigrants",
+            "volume": "86",
+            "author": "Bleakley",
+            "year": "2004",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2683",
+            "DOI": "10.1257/aer.103.7.2683",
+            "article-title": "Using Differences in Knowledge across Neighborhoods to Uncover the Impacts of the EITC on Earnings",
+            "volume": "103",
+            "author": "Chetty",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib6",
+            "author": "Chetty",
+            "year": "2017",
+            "article-title": "Mobility Report Cards: The Role of Colleges in Intergenerational Mobility",
+            "DOI": "10.3386/w23618",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1163",
+            "DOI": "10.1093/qje/qjy006",
+            "article-title": "The Impacts of Neighborhoods on Intergenerational Mobility II: County-Level Estimates",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib8",
+            "author": "Chetty",
+            "year": "2018",
+            "article-title": "Replication Code for: \u2018The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects\u2019 and \u2018The Impacts of Neighborhoods on Intergenerational Mobility II: County-Level Estimates\u2019"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "855",
+            "DOI": "10.1257/aer.20150572",
+            "article-title": "The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment",
+            "volume": "106",
+            "author": "Chetty",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qju022",
+            "article-title": "Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States",
+            "volume": "129",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "282",
+            "DOI": "10.1257/aer.p20161073",
+            "article-title": "Childhood Environment and Gender Gaps in Adulthood",
+            "volume": "106",
+            "author": "Chetty",
+            "year": "2016",
+            "journal-title": "American Economic Review Papers and Proceedings"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib12",
+            "author": "Chyn",
+            "article-title": "Moved to Opportunity: The Long-Run Effect of Public Housing Demolition on Labor Market Outcomes of Children",
+            "volume-title": "American Economic Review"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib13",
+            "author": "Cilke",
+            "year": "1998",
+            "article-title": "A Profile of Non-Filers"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1086/588740",
+            "article-title": "Neighborhood Effects on Economic Self Sufficiency: A Reconsideration of the Moving to Opportunity Experiment",
+            "volume": "114",
+            "author": "Clampet-Lundquist",
+            "year": "2008",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1016/j.ssresearch.2010.04.013",
+            "article-title": "Spatial and Temporal Dimensions of Neighborhood Effects on High School Graduation",
+            "volume": "40",
+            "author": "Crowder",
+            "year": "2011",
+            "journal-title": "Social Science Research"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1806",
+            "DOI": "10.1257/aer.104.6.1806",
+            "article-title": "Does Growing Up in a High Crime Neighborhood Affect Youth Criminal Behavior?",
+            "volume": "104",
+            "author": "Damm",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1681",
+            "DOI": "10.1093/qje/qjw023",
+            "article-title": "Sources of Geographic Variation in Health Care: Evidence from Patient Migration",
+            "volume": "131",
+            "author": "Finkelstein",
+            "year": "2016",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1308",
+            "DOI": "10.1257/aer.96.4.1308",
+            "article-title": "Life-Cycle Variation in the Association between Current and Lifetime Earnings",
+            "volume": "96",
+            "author": "Haider",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib19",
+            "author": "Jencks",
+            "year": "1990",
+            "article-title": "The Social Consequences of Growing Up in a Poor Neighborhood"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1162/00335530151144113",
+            "article-title": "Moving to Opportunity in Boston: Early Results of a Randomized Mobility Experiment",
+            "volume": "116",
+            "author": "Katz",
+            "year": "2001",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1111/j.1468-0262.2007.00733.x",
+            "article-title": "Experimental Analysis of Neighborhood Effects",
+            "volume": "75",
+            "author": "Kling",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "DOI": "10.1257/aer.103.3.226",
+            "article-title": "Long-Term Neighborhood Effects on Low-Income Families: Evidence from Moving to Opportunity",
+            "volume": "103",
+            "author": "Ludwig",
+            "year": "2013",
+            "journal-title": "American Economic Review Papers and Proceedings"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "144",
+            "DOI": "10.1086/588741",
+            "article-title": "What Can We Learn about Neighborhood Effects from the Moving to Opportunity Experiment?",
+            "volume": "114",
+            "author": "Ludwig",
+            "year": "2008",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1146/annurev.publhealth.26.021304.144505",
+            "article-title": "A Life Course Approach to Chronic Disease Epidemiology",
+            "volume": "26",
+            "author": "Lynch",
+            "year": "2005",
+            "journal-title": "Annual Review of Public Health"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib25",
+            "author": "Massey",
+            "year": "1993",
+            "volume-title": "American Apartheid: Segregation and the Making of the Underclas"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1533",
+            "DOI": "10.1162/003355303322552865",
+            "article-title": "The Long-Run Consequences of Living in a Poor Neighborhood",
+            "volume": "118",
+            "author": "Oreopoulos",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib27",
+            "author": "Plotnick",
+            "year": "1996",
+            "article-title": "The Effect of Neighborhood Characteristics on Young Adult Outcomes: Alternative Estimates"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "11817",
+            "DOI": "10.1073/pnas.1500176112",
+            "article-title": "Neighborhood effects on use of African-American Vernacular English",
+            "volume": "112",
+            "author": "Rickford",
+            "year": "2015",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib29",
+            "first-page": "109",
+            "article-title": "When the Saints Go Marching Out: Long-Term Outcomes for Student Evacuees from Hurricanes Katrina and Rita",
+            "volume": "4",
+            "author": "Sacerdote",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "443",
+            "DOI": "10.1146/annurev.soc.28.110601.141114",
+            "article-title": "Assessing Neighborhood Effects: Social Processes and New Directions in Research",
+            "volume": "28",
+            "author": "Sampson",
+            "year": "2002",
+            "journal-title": "Annual Review of Sociology"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.1146/annurev-soc-071913-043350",
+            "article-title": "Where, When, Why, and for Whom Do Residential Contexts Matter? Moving Away from the Dichotomous Understanding of Neighborhood Effects",
+            "volume": "40",
+            "author": "Sharkey",
+            "year": "2014",
+            "journal-title": "Annual Review of Sociology"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib32",
+            "author": "Singleton",
+            "year": "2004",
+            "volume-title": "Language Acquisition: The Age Factor",
+            "DOI": "10.21832/9781853597596",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib33",
+            "first-page": "393",
+            "article-title": "Intergenerational Income Mobility in the United States",
+            "volume": "82",
+            "author": "Solon",
+            "year": "1992",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib34",
+            "author": "Tolbert",
+            "year": "1996",
+            "article-title": "U.S. Commuting Zones and Labor Market Areas: A 1990 Update"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1521",
+            "DOI": "10.1111/jeea.12112",
+            "article-title": "Critical Periods during Childhood and Adolescence",
+            "volume": "12",
+            "author": "van den Berg",
+            "year": "2014",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib36",
+            "author": "Wilson",
+            "year": "1987",
+            "volume-title": "The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1765",
+            "DOI": "10.1007/s13524-013-0219-z",
+            "article-title": "Duration and Timing of Exposure to Neighborhood Poverty and the Risk of Adolescent Parenthood",
+            "volume": "50",
+            "author": "Wodtke",
+            "year": "2013",
+            "journal-title": "Demography"
+        },
+        {
+            "key": "key\n\t\t\t\t20180910033313_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.1177/0003122411420816",
+            "article-title": "Neighborhood Effects in Temporal Perspective: The Impact of Long-Term Exposure to Concentrated Disadvantage on High School Graduation",
+            "volume": "76",
+            "author": "Wodtke",
+            "year": "2011",
+            "journal-title": "American Sociological Review"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/133/3/1107/25705047/qjy007.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                10,
+                9
+            ]
+        ],
+        "date-time": "2019-10-09T22:57:57Z",
+        "timestamp": 1570661877000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                2,
+                10
+            ]
+        ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2018,
+                    2,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8,
+                    1
+                ]
+            ]
+        },
+        "issue": "3"
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjy007",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

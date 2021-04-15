@@ -1,0 +1,913 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                13
+            ]
+        ],
+        "date-time": "2021-04-13T08:06:20Z",
+        "timestamp": 1618301180634
+    },
+    "reference-count": 87,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "start": {
+                "date-parts": [
+                    [
+                        2016,
+                        10,
+                        6
+                    ]
+                ],
+                "date-time": "2016-10-06T00:00:00Z",
+                "timestamp": 1475712000000
+            },
+            "delay-in-days": 441,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2015,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The high-frequency trading arms race is a symptom of flawed market design. Instead of the continuous limit order book market design that is currently predominant, we argue that financial exchanges should use frequent batch auctions: uniform price double auctions conducted, for example, every tenth of a second. That is, time should be treated as discrete instead of continuous, and orders should be processed in a batch auction instead of serially. Our argument has three parts. First, we use millisecond-level direct-feed data from exchanges to document a series of stylized facts about how the continuous market works at high-frequency time horizons: (i) correlations completely break down; which (ii) leads to obvious mechanical arbitrage opportunities; and (iii) competition has not affected the size or frequency of the arbitrage opportunities, it has only raised the bar for how fast one has to be to capture them. Second, we introduce a simple theory model which is motivated by and helps explain the empirical facts. The key insight is that obvious mechanical arbitrage opportunities, like those observed in the data, are built into the market design\u2014continuous-time serial-processing implies that even symmetrically observed public information creates arbitrage rents. These rents harm liquidity provision and induce a never-ending socially wasteful arms race for speed. Last, we show that frequent batch auctions directly address the flaws of the continuous limit order book. Discrete time reduces the value of tiny speed advantages, and the auction transforms competition on speed into competition on price. Consequently, frequent batch auctions eliminate the mechanical arbitrage rents, enhance liquidity for investors, and stop the high-frequency trading arms race.</jats:p>",
+    "DOI": "10.1093/qje/qjv027",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2015,
+                7,
+                24
+            ]
+        ],
+        "date-time": "2015-07-24T01:10:15Z",
+        "timestamp": 1437700215000
+    },
+    "page": "1547-1621",
+    "source": "Crossref",
+    "is-referenced-by-count": 291,
+    "title": [
+        "The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response\n*"
+    ],
+    "prefix": "10.1093",
+    "volume": "130",
+    "author": [
+        {
+            "given": "Eric",
+            "family": "Budish",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University Of Chicago University Of Maryland University Of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Cramton",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University Of Chicago University Of Maryland University Of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "John",
+            "family": "Shim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University Of Chicago University Of Maryland University Of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2015,
+                7,
+                23
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019111117145880000_qjv027-B1",
+            "author": "Adler",
+            "article-title": "\u201cRaging Bulls: How Wall Street Got Addicted to Light-Speed Trading,\u201d",
+            "volume-title": "Wired Magazine"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1142/S2010139215500020",
+            "article-title": "\u201cEquity Trading in the 21st Century: An Update,\u201d",
+            "volume": "5",
+            "author": "Angel",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B3",
+            "author": "Baldauf",
+            "article-title": "\u201cHigh-Frequency Trade and Market Performance,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B4",
+            "author": "Baruch",
+            "article-title": "\u201cFleeting Orders,\u201d",
+            "DOI": "10.2139/ssrn.2278457",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B5",
+            "first-page": "5",
+            "article-title": "\u201cHFT and Market Quality,\u201d",
+            "volume": "128",
+            "author": "Biais",
+            "year": "2014",
+            "journal-title": "Bankers, Markets & Investors"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "292",
+            "DOI": "10.1016/j.jfineco.2015.03.004",
+            "article-title": "\u201cEquilibrium Fast Trading,\u201d",
+            "volume": "116",
+            "author": "Biais",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2267",
+            "DOI": "10.1093/rfs/hhu032",
+            "article-title": "\u201cHigh Frequency Trading and Price Discovery,\u201d",
+            "volume": "27",
+            "author": "Brogaard",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B8",
+            "author": "Brogaard",
+            "article-title": "\u201cHigh Frequency Trading and the 2008 Short Sale Ban,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "418",
+            "DOI": "10.1257/aer.104.5.418",
+            "article-title": "\u201cImplementation Details for Frequent Batch Auctions: Slowing Down Markets to the Blink of an Eye,\u201d",
+            "volume": "104",
+            "author": "Budish",
+            "year": "2014",
+            "journal-title": "American Economic Review: Papers and Proceedings"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B10",
+            "author": "Bunge",
+            "article-title": "\u201cCME, Nasdaq Plan High-Speed Network Venture,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B11",
+            "author": "Cinnober",
+            "article-title": "\u201cUsing Adaptive Micro Auctions to Provide Efficient Price Discovery When Access in Terms of Latency Is Differentiated among Market Participants,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B12",
+            "author": "Clark-Joseph",
+            "article-title": "\u201cExploratory Trading,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B13",
+            "author": "Cohen",
+            "year": "1989",
+            "article-title": "\u201cThe Challenge of Information Technology for the Securities Markets: Liquidity, Volatility and Global Trading,\u201d",
+            "volume-title": "An Electronic Call Market: Its Design and Desirability"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B14",
+            "author": "Commodity Futures Trading Commission",
+            "year": "2013",
+            "article-title": "\u201cConcept Release on Risk Controls and System Safeguards for Automated Trading Environments,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B15",
+            "author": "Conway",
+            "article-title": "\u201cWall Street\u2019s Need for Trading Speed: The Nanosecond Age,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1457",
+            "DOI": "10.1111/j.1540-6261.1983.tb03834.x",
+            "article-title": "\u201cInformation Effects on the Bid-Ask Spread,\u201d",
+            "volume": "38",
+            "author": "Copeland",
+            "year": "1983",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B17",
+            "author": "Cormen",
+            "year": "2009",
+            "edition": "3rd ed",
+            "volume-title": "Introduction to Algorithms"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2307/1882244",
+            "article-title": "\u201cThe Cost of Transacting,\u201d",
+            "volume": "82",
+            "author": "Demsetz",
+            "year": "1968",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1111/fire.12037",
+            "article-title": "\u201cHow Slow Is the NBBO? A Comparison with Direct Exchange Feeds,\u201d",
+            "volume": "49",
+            "author": "Ding",
+            "year": "2014",
+            "journal-title": "Financial Review"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1815",
+            "DOI": "10.1111/j.1468-0262.2005.00639.x",
+            "article-title": "\u201cOver-the-Counter Markets,\u201d",
+            "volume": "73",
+            "author": "Duffie",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B21",
+            "author": "Economic Sciences Prize Committee",
+            "year": "2013",
+            "article-title": "\u201cScientific Background on the Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel 2013: Understanding Asset Prices,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.3905/jpm.1995.409518",
+            "article-title": "\u201cElectronic Call Market Trading: Let Competition Increase Efficiency,\u201d",
+            "volume": "21",
+            "author": "Economides",
+            "year": "1995",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "891",
+            "DOI": "10.1002/andp.19053221004",
+            "article-title": "\u201cZur Elektrodynamik bewegter K\u00f6rper (On the Electrodynamics of Moving Bodies),\u201d",
+            "volume": "322",
+            "author": "Einstein",
+            "year": "1905",
+            "journal-title": "Annalen der Physik"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B24",
+            "first-page": "291",
+            "article-title": "\u201cComovements in Stock Prices in the Very Short Run,\u201d",
+            "volume": "74",
+            "author": "Epps",
+            "year": "1979",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B25",
+            "author": "European Commission",
+            "year": "2013",
+            "article-title": "\u201cFTT\u2014Non-technical Answers to Some Questions on Core Features and Potential Effects,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.2307/2325486",
+            "article-title": "\u201cEfficient Capital Markets: A Review of Theory and Empirical Work,\u201d",
+            "volume": "25",
+            "author": "Fama",
+            "year": "1970",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B27",
+            "author": "Farmer",
+            "article-title": "\u201cReview of the Benefits of a Continuous Market vs. Randomised Stop Auctions and of Alternative Priority Rules (Policy Options 7 and 12),\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/S1386-4181(98)00012-3",
+            "article-title": "\u201cOrder Flow Composition and Trading Costs in a Dynamic Limit Order Market,\u201d",
+            "volume": "2",
+            "author": "Foucault",
+            "year": "1999",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B29",
+            "author": "Foucault",
+            "article-title": "\u201cToxic Arbitrage,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1093/rfs/hhg005",
+            "article-title": "\u201cMarket Making with Costly Monitoring: An Analysis of the SOES Controversy,\u201d",
+            "volume": "16",
+            "author": "Foucault",
+            "year": "2003",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B31",
+            "author": "Frazzini",
+            "article-title": "\u201cTrading Costs of Asset Pricing Anomalies,\u201d",
+            "DOI": "10.2139/ssrn.2294498",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.1111/j.1540-6261.1994.tb02450.x",
+            "article-title": "\u201cIs the Electronic Open Limit Order Book Inevitable?,\u201d",
+            "volume": "49",
+            "author": "Glosten",
+            "year": "1994",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-405X(85)90044-3",
+            "article-title": "\u201cBid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders,\u201d",
+            "volume": "14",
+            "author": "Glosten",
+            "year": "1985",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2149",
+            "DOI": "10.1111/j.1540-6261.2005.00795.x",
+            "article-title": "\u201cEquilibrium in a Dynamic Limit Order Market,\u201d",
+            "volume": "60",
+            "author": "Goettler",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B35",
+            "author": "Haldane",
+            "article-title": "\u201cThe Race To Zero,\u201d",
+            "volume-title": "Speech at the International Economic Association Sixteenth World Congress",
+            "DOI": "10.1057/9781137034250_14",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/S0304-405X(98)00031-2",
+            "article-title": "\u201cThe Trading Profits of SOES Bandits,\u201d",
+            "volume": "50",
+            "author": "Harris",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B37",
+            "author": "Harris",
+            "year": "2002",
+            "volume-title": "Trading and Exchanges: Market Microstructure for Practitioners"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B38",
+            "author": "Harris",
+            "article-title": "\u201cStop the High-Frequency Trader Arms Race,\u201d",
+            "journal-title": "Financial Times"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "646",
+            "DOI": "10.1016/j.finmar.2013.05.003",
+            "article-title": "\u201cLow-Latency Trading,\u201d",
+            "volume": "16",
+            "author": "Hasbrouck",
+            "year": "2013",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1540-6261.2010.01624.x",
+            "article-title": "\u201cDoes Algorithmic Trading Improve Liquidity?,\u201d",
+            "volume": "66",
+            "author": "Hendershott",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B41",
+            "first-page": "561",
+            "article-title": "\u201cThe Private and Social Value of Information and the Reward to Inventive Activity,\u201d",
+            "volume": "61",
+            "author": "Hirshleifer",
+            "year": "1971",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B42",
+            "author": "IEX Group",
+            "year": "2014",
+            "article-title": "\u201cForm ATS: Initial Operation Report, Amendment to Initial Operation Report and Cessation of Operations Report for Alternative Trading Systems,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B43",
+            "author": "ISN",
+            "article-title": "\u201cToward a Fairer and More Efficient Market,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B44",
+            "author": "Jones",
+            "article-title": "\u201cWhat Do We Know About High-Frequency Trading?,\u201d",
+            "DOI": "10.2139/ssrn.2236201",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B45",
+            "author": "Klemperer",
+            "year": "2004",
+            "volume-title": "Auctions: Theory and Practice",
+            "DOI": "10.1515/9780691186290",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1315",
+            "DOI": "10.2307/1913210",
+            "article-title": "\u201cContinuous Auctions and Insider Trading,\u201d",
+            "volume": "53",
+            "author": "Kyle",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1111/fire.12036",
+            "article-title": "\u201cInformation Transmission between Financial Markets in Chicago and New York,\u201d",
+            "volume": "49",
+            "author": "Laughlin",
+            "year": "2014",
+            "journal-title": "Financial Review"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B48",
+            "author": "Lewis",
+            "year": "2014",
+            "volume-title": "Flash Boys: A Wall Street Revolt"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B49",
+            "first-page": "27",
+            "article-title": "\u201cBe Grateful for Drizzle,\u201d",
+            "volume": "36",
+            "author": "MacKenzie",
+            "year": "2014",
+            "journal-title": "London Review of Books"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1111/j.1540-6261.1992.tb04403.x",
+            "article-title": "\u201cTrading Mechanisms in Securities Markets,\u201d",
+            "volume": "47",
+            "author": "Madhavan",
+            "year": "1992",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.3905/jot.2015.10.2.081",
+            "article-title": "\u201cRecommendations for Equitable Allocation of Trades in High Frequency Trading Environments,\u201d",
+            "volume": "10",
+            "author": "McPartland",
+            "year": "2015",
+            "journal-title": "Journal of Trading"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B52",
+            "author": "Menkveld",
+            "article-title": "\u201cNeed for Speed? Exchange Latency and Liquidity,\u201d",
+            "DOI": "10.1093/rfs/hhx006",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B53",
+            "author": "Milgrom",
+            "year": "2004",
+            "volume-title": "Putting Auction Theory to Work",
+            "DOI": "10.1017/CBO9780511813825",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1111/j.1465-7295.2010.00357.x",
+            "article-title": "\u201cCritical Issues in the Practice of Market Design,\u201d",
+            "volume": "49",
+            "author": "Milgrom",
+            "year": "2011",
+            "journal-title": "Economic Inquiry"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B55",
+            "author": "Moallemi",
+            "article-title": "\u201cThe Value of Queue Position in a Limit Order Book,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B56",
+            "author": "Najarian",
+            "year": "2010",
+            "article-title": "\u201cThe Ultimate Trading Weapon,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B57",
+            "author": "Nanex",
+            "article-title": "\u201cCQS Was Saturated and Delayed on May 6th, 2010,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B58",
+            "author": "Nanex",
+            "article-title": "\u201cDangerous Order Types,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B59",
+            "author": "Niederauer",
+            "article-title": "\u201cMarket Structure: Ensuring Orderly, Efficient, Innovative and Competitive Markets for Issuers and Investors: Congressional Hearing Before the Subcommittee on Capital Markets and Government Sponsored Enterprises of the Committee on Financial Services US House of Representatives, 112th Congress,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.1016/j.jfineco.2015.01.003",
+            "article-title": "\u201cHigh Frequency Market Microstructure,\u201d",
+            "volume": "116",
+            "author": "O\u2019Hara",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B61",
+            "author": "Patterson",
+            "article-title": "\u201cHow \u2018Hide Not Slide\u2019 Orders Work,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B62",
+            "author": "Patterson",
+            "article-title": "\u201cHigh-Speed Traders Exploit Loophole,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B63",
+            "author": "Rogers",
+            "article-title": "\u201cRun EDGAR Run: SEC Dissemination in a High-Frequency World,\u201d",
+            "DOI": "10.1111/1475-679X.12167",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B64",
+            "author": "Rogow",
+            "article-title": "\u201cColocation: The Root of all High-Frequency Trading Evil?,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "1341",
+            "DOI": "10.1111/1468-0262.00335",
+            "article-title": "\u201cThe Economist as Engineer: Game Theory, Experimentation and Computation as Tools for Design Economics,\u201d",
+            "volume": "70",
+            "author": "Roth",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1111/j.1468-0297.2007.02121.x",
+            "article-title": "\u201cWhat Have We Learned from Market Design?,\u201d",
+            "volume": "118",
+            "author": "Roth",
+            "year": "2008",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.1257/00028280260344632",
+            "article-title": "\u201cLast-Minute Bidding and the Rules for Ending Second-Price Auctions: Evidence from eBay and Amazon Auctions on the Internet,\u201d",
+            "volume": "92",
+            "author": "Roth",
+            "year": "2002",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B68",
+            "first-page": "992",
+            "article-title": "\u201cJumping the Gun: Imperfections and Institutions Related to the Timing of Market Transactions,\u201d",
+            "volume": "84",
+            "author": "Roth",
+            "year": "1994",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "284",
+            "DOI": "10.1086/262074",
+            "article-title": "\u201cTurnaround Time and Bottlenecks in Market Clearing: Decentralized Matching in the Market for Clinical Psychologists,\u201d",
+            "volume": "105",
+            "author": "Roth",
+            "year": "1997",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B70",
+            "author": "Sannikov",
+            "article-title": "\u201cDynamic Trading: Price Inertia, Front-Running and Relationship Banking,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B71",
+            "author": "Schwartz",
+            "year": "2001",
+            "volume-title": "The Electronic Call Auction: Market Mechanism and Trading",
+            "DOI": "10.1007/978-1-4615-1697-2",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.3905/jpm.2013.39.3.003",
+            "article-title": "\u201cEquity Trading in the Fast Lane: The Staccato Alternative,\u201d",
+            "volume": "39",
+            "author": "Schwartz",
+            "year": "2013",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B73",
+            "first-page": "2012",
+            "article-title": "\u201cFindings Regarding the Market Events of May 6, 2010,\u201d",
+            "volume": "10,",
+            "author": "SEC and CFTC",
+            "year": "2010",
+            "journal-title": "Report of the Staffs of the CFTC and SEC to the Joint Advisory Committee on Emerging Regulatory Issues"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B74",
+            "author": "Securities and Exchange Commission",
+            "year": "2010",
+            "article-title": "\u201cConcept Release on Equity Market Structure,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.3905/jot.2012.7.2.044",
+            "article-title": "\u201cThe Failure of Continuous Markets,\u201d",
+            "volume": "7",
+            "author": "Sparrow",
+            "year": "2012",
+            "journal-title": "Journal of Trading"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B76",
+            "author": "Steiner",
+            "article-title": "\u201cWall Street\u2019s Speed War,\u201d",
+            "volume-title": "Forbes Magazine"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B77",
+            "author": "Stiglitz",
+            "article-title": "\u201cTapping the Brakes: Are Less Active Markets Safer and Better for the Economy?,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "1133",
+            "DOI": "10.1111/j.1540-6261.1978.tb02053.x",
+            "article-title": "\u201cThe Supply of Dealer Services in Securities Markets,\u201d",
+            "volume": "33",
+            "author": "Stoll",
+            "year": "1978",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B79",
+            "author": "Strasburg",
+            "article-title": "\u201cLoss Swamps Trading Firm,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B80",
+            "author": "Strasburg",
+            "article-title": "\u201cNasdaq Is Still on Hook as SEC Backs Payout for Facebook IPO,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1007/BF00122806",
+            "article-title": "\u201cWhen Financial Markets Work Too Well: A Cautious Case for a Securities Transactions Tax,\u201d",
+            "volume": "3",
+            "author": "Summers",
+            "year": "1989",
+            "journal-title": "Journal of Financial Services Research"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B82",
+            "first-page": "153",
+            "article-title": "\u201cA Proposal for International Monetary Reform,\u201d",
+            "volume": "4",
+            "author": "Tobin",
+            "year": "1978",
+            "journal-title": "Eastern Economic Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B83",
+            "author": "Troianovski",
+            "article-title": "\u201cNetworks Built on Milliseconds,\u201d",
+            "journal-title": "Wall Street Journal"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "219",
+            "DOI": "10.1111/1467-937X.00086",
+            "article-title": "\u201cStrategic Trading and Welfare in a Dynamic Market,\u201d",
+            "volume": "66",
+            "author": "Vayanos",
+            "year": "1999",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B85",
+            "author": "Virtu",
+            "year": "2014",
+            "article-title": "\u201cForm S-1: Virtu Financial, Inc.,\u201d"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B86",
+            "author": "Wah",
+            "year": "2013",
+            "article-title": "\u201cLatency Arbitrage, Market Fragmentation, and Efficiency: A Two-Market Model,\u201d",
+            "volume-title": "Proceedings of the Fourteenth ACM Conference: Electronic Commerce",
+            "DOI": "10.1145/2492002.2482577",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019111117145880000_qjv027-B87",
+            "author": "Yao",
+            "article-title": "\u201cTick Size Constraints, High-Frequency Trading, and Liquidity,\u201d"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/130/4/1547/30637414/qjv027.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/130/4/1547/30637414/qjv027.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                11
+            ]
+        ],
+        "date-time": "2019-11-11T22:17:36Z",
+        "timestamp": 1573510656000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2015,
+                7,
+                23
+            ]
+        ]
+    },
+    "references-count": 87,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2015,
+                    7,
+                    23
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2015,
+                    11,
+                    1
+                ]
+            ]
+        },
+        "issue": "4"
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjv027",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ]
+}

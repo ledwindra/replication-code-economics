@@ -1,0 +1,156 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                14
+            ]
+        ],
+        "date-time": "2021-04-14T16:04:01Z",
+        "timestamp": 1618416241346
+    },
+    "reference-count": 46,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose a way to formalize the relationship between descriptive analysis and structural estimation. A researcher reports an estimate \n            <jats:italic>\u0109</jats:italic> of a structural quantity of interest \n            <jats:italic>c</jats:italic> that is exactly or asymptotically unbiased under some base model. The researcher also reports descriptive statistics \n            <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n              <mover accent=\"true\">\n                <mi>\u03b3</mi>\n                <mo>\u02c6</mo>\n              </mover>\n            </math> that estimate features \n            <jats:italic>\u03b3</jats:italic> of the distribution of the data that are related to \n            <jats:italic>c</jats:italic> under the base model. A reader entertains a less restrictive model that is local to the base model, under which the estimate \n            <jats:italic>\u0109</jats:italic> may be biased. We study the reduction in worst\u2010case bias from a restriction that requires the reader's model to respect the relationship between \n            <jats:italic>c</jats:italic> and \n            <jats:italic>\u03b3</jats:italic> specified by the base model. Our main result shows that the proportional reduction in worst\u2010case bias depends only on a quantity we call the \n            <jats:italic>informativeness</jats:italic> of \n            <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n              <mover accent=\"true\">\n                <mi>\u03b3</mi>\n                <mo>\u02c6</mo>\n              </mover>\n            </math> for \n            <jats:italic>\u0109</jats:italic>. Informativeness can be easily estimated even for complex models. We recommend that researchers report estimated informativeness alongside their descriptive analyses, and we illustrate with applications to three recent papers.\n          </jats:p>",
+    "DOI": "10.3982/ecta16768",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2020-11-17T13:43:08Z",
+        "timestamp": 1605620588000
+    },
+    "page": "2231-2258",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "On the Informativeness of Descriptive Statistics for Structural Estimates"
+    ],
+    "prefix": "10.3982",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Isaiah",
+            "family": "Andrews",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Harvard University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Matthew",
+            "family": "Gentzkow",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Stanford University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Jesse M.",
+            "family": "Shapiro",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Brown University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2020-11-17T13:44:11Z",
+        "timestamp": 1605620651000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "issue": "6"
+    },
+    "alternative-id": [
+        "10.3982/ECTA16768"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16768",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

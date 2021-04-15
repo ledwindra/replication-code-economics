@@ -1,0 +1,145 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2021-04-08T21:27:03Z",
+        "timestamp": 1617917223091
+    },
+    "reference-count": 56,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose leave\u2010out estimators of quadratic forms designed for the study of linear models with unrestricted heteroscedasticity. Applications include analysis of variance and tests of linear restrictions in models with many regressors. An approximation algorithm is provided that enables accurate computation of the estimator in very large data sets. We study the large sample properties of our estimator allowing the number of regressors to grow in proportion to the number of observations. Consistency is established in a variety of settings where plug\u2010in methods and estimators predicated on homoscedasticity exhibit first\u2010order biases. For quadratic forms of increasing rank, the limiting distribution can be represented by a linear combination of normal and non\u2010central \n            <jats:italic>\u03c7</jats:italic>\n            <jats:sup>2</jats:sup> random variables, with normality ensuing under strong identification. Standard error estimators are proposed that enable tests of linear restrictions and the construction of uniformly valid confidence intervals for quadratic forms of interest. We find in Italian social security records that leave\u2010out estimates of a variance decomposition in a two\u2010way fixed effects model of wage determination yield substantially different conclusions regarding the relative contribution of workers, firms, and worker\u2010firm sorting to wage inequality than conventional methods. Monte Carlo exercises corroborate the accuracy of our asymptotic approximations, with clear evidence of non\u2010normality emerging when worker mobility between blocks of firms is limited.\n          </jats:p>",
+    "DOI": "10.3982/ecta16410",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                21
+            ]
+        ],
+        "date-time": "2020-09-21T12:02:27Z",
+        "timestamp": 1600689747000
+    },
+    "page": "1859-1898",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Leave\u2010Out Estimation of Variance Components"
+    ],
+    "prefix": "10.3982",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Patrick",
+            "family": "Kline",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UC Berkeley"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Raffaele",
+            "family": "Saggio",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of British Columbia"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Mikkel",
+            "family": "S\u00f8lvsten",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Wisconsin-Madison"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                21
+            ]
+        ],
+        "date-time": "2020-09-21T12:04:01Z",
+        "timestamp": 1600689841000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "references-count": 56,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "alternative-id": [
+        "10.3982/ECTA16410"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16410",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}
