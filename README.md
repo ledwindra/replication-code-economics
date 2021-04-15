@@ -31,7 +31,7 @@ See my project list [here](https://github.com/ledwindra/replication-code-economi
 - `s-oup-restud`: Review of Economic Studies
 - `s-oup-rfinst`: Review of Financial Studies
 - `s-ucp-jpolec`: Journal of Political Economy
-- `s-wly-emetrp` Econometrica. Clean data can be checked on [data/econometrica.csv](https://github.com/ledwindra/replication-code-economics/blob/main/data/econometrica.csv) where you can check whether or not the corresponding paper/DOI has any replication file/supplemental material or not
+- `s-wly-emetrp`: Econometrica. A relatively clean data can be checked on [data/econometrica.csv](https://github.com/ledwindra/replication-code-economics/blob/main/data/econometrica.csv) to see whether or not the corresponding paper/DOI has any replication file/supplemental material
 
 To-do: find relevant keywords that link to whether or not any paper has a replication code/supplemental material.
 
