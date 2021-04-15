@@ -28,7 +28,7 @@ See my project list [here](https://github.com/ledwindra/replication-code-economi
 - `s-eee-jfinec`: Journal of Financial Economics
 - `s-kap-jecgro`: Journal of Economic Growth
 - `s-oup-qjecon`: The Quarterly Journal of Economics
-- `s-oup-restud`: Oxford University Press
+- `s-oup-restud`: Review of Economic Studies
 - `s-oup-rfinst`: Review of Financial Studies
 - `s-ucp-jpolec`: Journal of Political Economy
 - `s-wly-emetrp` Econometrica. Clean data can be checked on [data/econometrica.csv](https://github.com/ledwindra/replication-code-economics/blob/main/data/econometrica.csv) where you can check whether or not the corresponding paper/DOI has any replication file/supplemental material or not

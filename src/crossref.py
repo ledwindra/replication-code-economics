@@ -133,7 +133,7 @@ if __name__ == '__main__':
         's/eee/jfinec', # Journal of Financial Economics
         's/kap/jecgro', # Journal of Economic Growth
         's/oup/qjecon', # The Quarterly Journal of Economics
-        's/oup/restud', # Oxford University Press
+        's/oup/restud', # Review of Economic Studies
         's/oup/rfinst', # Review of Financial Studies
         's/ucp/jpolec', # Journal of Political Economy
         's/wly/emetrp' # Econometrica
