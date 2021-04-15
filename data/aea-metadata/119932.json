@@ -1,0 +1,23 @@
+{
+    "datestamp": "Wed Apr 14 22:16:50 EDT 2021",
+    "title": "Code for: How Well Do Automated Linking Methods Perform",
+    "creator": "Martha Bailey",
+    "identifier": [
+        "119932",
+        "119932",
+        "https://doi.org/10.3886/E119932V1"
+    ],
+    "description": "This paper\nreviews the literature in historical record linkage in the U.S. and examines\nthe performance of widely-used record linking algorithms and common variations\nin their assumptions. We use two high-quality, hand-linked datasets and one\nsynthetic ground truth to examine the direct effects of linking algorithms on data\nquality. We find that (1) no algorithm (including hand-linking) consistently\nproduces representative samples; (2) 15 to 37 percent of links chosen by widely-used\nalgorithms are classified as errors by trained human reviewers; and (3) false\nlinks are systematically related to baseline sample characteristics, showing that\nsome algorithms may induce systematic measurement error into analyses. A case\nstudy shows that the combined effects of (1)-(3) attenuate estimates of the\nintergenerational income elasticity by up to 20 percent, and common variations\nin algorithm assumptions result in greater attenuation. As current practice\nmoves to automate linking and increase link rates, these results highlight the important\npotential consequences of linking errors for inferences with linked data. We conclude\nwith constructive suggestions for reducing linking errors and directions for\nfuture research. \n\n",
+    "subject": [
+        "Linking",
+        "Automated Linking Methods",
+        "Machine Learning",
+        "U.S. Historical Data",
+        "Methodology",
+        "intergenerational mobility",
+        "B40 Economic Methodology: General",
+        "B41 Economic Methodology",
+        "C18 Methodological Issues: General",
+        "J62 Job, Occupational, and Intergenerational Mobility; Promotion"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "datestamp": "Wed Apr 14 21:21:04 EDT 2021",
+    "title": "Replication data for: The Continuous Combinatorial Auction Architecture",
+    "creator": "Charles R. Plott",
+    "identifier": [
+        "112808",
+        "112808",
+        "https://doi.org/10.3886/E112808V1"
+    ],
+    "description": "The paper reports the architecture of a continuous combinatorial auction. Preferences are based on sets of items and feasibility requires the nonintersection of sets. Countdown clocks replace eligibility and activity requirements typical of rounds-based auctions. Bids remain in the system to be combined with new bids to form winning collections. Increment requirements dictate improvements over appropriate collections of existing bids. The auction evolved from experimental methods and operates at high levels of efficiency. Field applications are reported and result in natural equilibration in a few hours as opposed to days or weeks required by round-based architectures.",
+    "subject": [
+        "D44 Auctions"
+    ]
+}

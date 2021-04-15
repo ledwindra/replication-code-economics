@@ -1,0 +1,16 @@
+{
+    "datestamp": "Wed Apr 14 22:38:26 EDT 2021",
+    "title": "Replication data for: Post-Selection and Post-Regularization Inference in Linear Models with Many Controls and Instruments",
+    "creator": "Victor Chernozhukov",
+    "identifier": [
+        "113367",
+        "113367",
+        "https://doi.org/10.3886/E113367V1"
+    ],
+    "description": "We consider estimation of and inference about coefficients on endogenous variables in a linear instrumental variables model where the number of instruments and exogenous control variables are each allowed to be larger than the sample size. We work within an approximately sparse framework that maintains that the signal available in the instruments and control variables may be effectively captured by a small number of the available variables. We provide a LASSO-based method for this setting which provides uniformly valid inference about the coefficients on endogenous variables. We illustrate the method through an application to demand estimation.",
+    "subject": [
+        "C26 Single Equation Models: Single Variables: Instrumental Variables (IV) Estimation",
+        "C36 Multiple or Simultaneous Equation Models: Instrumental Variables (IV) Estimation",
+        "D12 Consumer Economics: Empirical Analysis"
+    ]
+}

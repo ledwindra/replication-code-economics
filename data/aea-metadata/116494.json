@@ -1,0 +1,14 @@
+{
+    "datestamp": "Wed Apr 14 22:14:12 EDT 2021",
+    "title": "Replication data for: A Practical Method to Reduce Privacy Loss When Disclosing Statistics Based on Small Samples",
+    "creator": "Raj Chetty",
+    "identifier": [
+        "116494",
+        "116494",
+        "https://doi.org/10.3886/E116494V1"
+    ],
+    "description": "Building on insights from the differential privacy literature, we develop a simple noise-infusion method to reduce privacy loss when disclosing statistics such as OLS regression estimates based on small samples. Although our method does not offer a formal privacy guarantee, it outperforms widely used methods of disclosure limitation such as count-based cell suppression both in terms of privacy loss and statistical bias. We illustrate how the method can be implemented by discussing how it was used to release estimates of social mobility by census tract in the Opportunity Atlas. We provide a step-by-step guide and code to implement our approach.",
+    "subject": [
+        "C81 Methodology for Collecting, Estimating, and Organizing Microeconomic Data; Data Access"
+    ]
+}
