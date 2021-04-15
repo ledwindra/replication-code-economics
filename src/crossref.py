@@ -36,6 +36,7 @@ def repec_page(base, journal):
                 except KeyError:
                     pass
         except Exception as e:
+            print(f'{current_timestamp()}: {e}')
             sleep(3)
             continue
         urls = set(urls)
@@ -68,6 +69,7 @@ def repec_paper(base, page, journal):
                 except KeyError:
                     pass
         except Exception as e:
+            print(f'{current_timestamp()}: {e}')
             sleep(3)
             continue
     
@@ -83,9 +85,17 @@ def download(base, paper):
 
     url = f'{base}/{paper}'
     print(f'{current_timestamp()}: {url}')
-    res = requests.get(url, timeout=5)
-    content = BeautifulSoup(res.content, features='html.parser')
-    download = content.find('div', {'id': 'download'})
+    status_code = []
+    while status_code != 200:
+        try:
+            res = requests.get(url, timeout=5)
+            status_code = res.status_code
+            content = BeautifulSoup(res.content, features='html.parser')
+            download = content.find('div', {'id': 'download'})
+        except Exception as e:
+            print(f'{current_timestamp()}: {e}')
+            sleep(3)
+            continue
 
     return download
 

@@ -33,6 +33,7 @@ def issue(journal):
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
             sleep(3)
+            continue
 
     return issue
 
@@ -69,6 +70,7 @@ def article(issue):
             except Exception as e:
                 print(f'{current_timestamp()}: {e}')
                 sleep(3)
+                continue
 
 def paper(issue):
     '''
@@ -99,6 +101,7 @@ def paper(issue):
                 except Exception as e:
                     print(f'{current_timestamp()}: {e}')
                     sleep(3)
+                    continue
 
             articles.append({
                 'url': url,

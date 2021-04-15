@@ -48,6 +48,7 @@ def get_metadata(url):
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
             sleep(3)
+            continue
 
 def parse_metadata(metadata):
     '''
@@ -78,6 +79,7 @@ def parse_metadata(metadata):
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
             sleep(3)
+            continue
 
 if __name__ == '__main__':
     aea = os.listdir('data/aea/')
