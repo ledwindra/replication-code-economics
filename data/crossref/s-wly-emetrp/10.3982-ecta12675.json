@@ -1,0 +1,158 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                5
+            ]
+        ],
+        "date-time": "2021-04-05T22:45:03Z",
+        "timestamp": 1617662703437
+    },
+    "reference-count": 42,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Consider a researcher estimating the parameters of a regression function based on data for all 50 states in the United States or on data for all visits to a website. What is the interpretation of the estimated parameters and the standard errors? In practice, researchers typically assume that the sample is randomly drawn from a large population of interest and report standard errors that are designed to capture sampling variation. This is common even in applications where it is difficult to articulate what that population of interest is, and how it differs from the sample. In this article, we explore an alternative approach to inference, which is partly design\u2010based. In a design\u2010based setting, the values of some of the regressors can be manipulated, perhaps through a policy intervention. Design\u2010based uncertainty emanates from lack of knowledge about the values that the regression outcome would have taken under alternative interventions. We derive standard errors that account for design\u2010based uncertainty instead of, or in addition to, sampling\u2010based uncertainty. We show that our standard errors in general are smaller than the usual infinite\u2010population sampling\u2010based standard errors and provide conditions under which they coincide.</jats:p>",
+    "DOI": "10.3982/ecta12675",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                3
+            ]
+        ],
+        "date-time": "2020-02-03T12:37:03Z",
+        "timestamp": 1580733423000
+    },
+    "page": "265-296",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+        "Sampling\u2010Based versus Design\u2010Based Uncertainty in Regression Analysis"
+    ],
+    "prefix": "10.3982",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Alberto",
+            "family": "Abadie",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Susan",
+            "family": "Athey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Stanford University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Guido W.",
+            "family": "Imbens",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Department of Economics, Stanford University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Jeffrey M.",
+            "family": "Wooldridge",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Michigan State University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ],
+        "date-time": "2021-02-25T17:23:16Z",
+        "timestamp": 1614273796000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "alternative-id": [
+        "10.3982/ECTA12675"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta12675",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ],
+        "date-time": "2021-02-25T17:44:04Z",
+        "timestamp": 1614275044127
+    },
+    "reference-count": 32,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper considers the problem of forecasting a collection of short time series using cross\u2010sectional information in panel data. We construct point predictors using Tweedie's formula for the posterior mean of heterogeneous coefficients under a correlated random effects distribution. This formula utilizes cross\u2010sectional information to transform the unit\u2010specific (quasi) maximum likelihood estimator into an approximation of the posterior mean under a prior distribution that equals the population distribution of the random coefficients. We show that the risk of a predictor based on a nonparametric kernel estimate of the Tweedie correction is asymptotically equivalent to the risk of a predictor that treats the correlated random effects distribution as known (ratio optimality). Our empirical Bayes predictor performs well compared to various competitors in a Monte Carlo study. In an empirical application, we use the predictor to forecast revenues for a large panel of bank holding companies and compare forecasts that condition on actual and severely adverse macroeconomic conditions.</jats:p>",
+    "DOI": "10.3982/ecta14952",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                3
+            ]
+        ],
+        "date-time": "2020-02-03T12:37:03Z",
+        "timestamp": 1580733423000
+    },
+    "page": "171-201",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+        "Forecasting With Dynamic Panel Data Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Laura",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Indiana University"
+                }
+            ]
+        },
+        {
+            "given": "Hyungsik Roger",
+            "family": "Moon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Southern California"
+                },
+                {
+                    "name": "Yonsei University"
+                }
+            ]
+        },
+        {
+            "given": "Frank",
+            "family": "Schorfheide",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Pennsylvania"
+                },
+                {
+                    "name": "CEPR"
+                },
+                {
+                    "name": "NBER"
+                },
+                {
+                    "name": "PIER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ],
+        "date-time": "2021-02-25T17:23:02Z",
+        "timestamp": 1614273782000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "alternative-id": [
+        "10.3982/ECTA14952"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta14952",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                30
+            ]
+        ],
+        "date-time": "2021-03-30T19:23:51Z",
+        "timestamp": 1617132231080
+    },
+    "reference-count": 53,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Structural econometric methods are often criticized for being sensitive to functional form assumptions. We study parametric estimators of the local average treatment effect (LATE) derived from a widely used class of latent threshold crossing models and show they yield LATE estimates algebraically equivalent to the instrumental variables (IV) estimator. Our leading example is Heckman's (1979) two\u2010step (\u201cHeckit\u201d) control function estimator which, with two\u2010sided non\u2010compliance, can be used to compute estimates of a variety of causal parameters. Equivalence with IV is established for a semiparametric family of control function estimators and shown to hold at interior solutions for a class of maximum likelihood estimators. Our results suggest differences between structural and IV estimates often stem from disagreements about the target parameter rather than from functional form assumptions per se. In cases where equivalence fails, reporting structural estimates of LATE alongside IV provides a simple means of assessing the credibility of structural extrapolation exercises.</jats:p>",
+    "DOI": "10.3982/ecta15444",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                3,
+                26
+            ]
+        ],
+        "date-time": "2019-03-26T08:27:16Z",
+        "timestamp": 1553588836000
+    },
+    "page": "677-696",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+        "On Heckits, LATE, and Numerical Equivalence"
+    ],
+    "prefix": "10.3982",
+    "volume": "87",
+    "author": [
+        {
+            "given": "Patrick",
+            "family": "Kline",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UC Berkeley"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Christopher R.",
+            "family": "Walters",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UC Berkeley"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2019
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.3982/ecta15444",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                1,
+                24
+            ]
+        ],
+        "date-time": "2020-01-24T10:01:01Z",
+        "timestamp": 1579860061000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019
+            ]
+        ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "alternative-id": [
+        "10.3982/ECTA15444"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta15444",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}
