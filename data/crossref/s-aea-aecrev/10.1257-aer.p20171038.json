@@ -1,0 +1,183 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                23
+            ]
+        ],
+        "date-time": "2021-03-23T16:04:07Z",
+        "timestamp": 1616515447577
+    },
+    "reference-count": 7,
+    "publisher": "American Economic Association",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2017,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> Chernozhukov et al. (2016) provide a generic double/de-biased machine learning (ML) approach for obtaining valid inferential statements about focal parameters, using Neyman-orthogonal scores and cross-fitting, in settings where nuisance parameters are estimated using ML methods. In this note, we illustrate the application of this method in the context of estimating average treatment effects and average treatment effects on the treated using observational data. </jats:p>",
+    "DOI": "10.1257/aer.p20171038",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2017,
+                5,
+                15
+            ]
+        ],
+        "date-time": "2017-05-15T12:10:12Z",
+        "timestamp": 1494850212000
+    },
+    "page": "261-265",
+    "source": "Crossref",
+    "is-referenced-by-count": 36,
+    "title": [
+        "Double/Debiased/Neyman Machine Learning of Treatment Effects"
+    ],
+    "prefix": "10.1257",
+    "volume": "107",
+    "author": [
+        {
+            "given": "Victor",
+            "family": "Chernozhukov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology, 50 Memorial Drive, Cambridge, MA 02142 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Denis",
+            "family": "Chetverikov",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California Los Angeles, 315 Portola Plaza, Los Angeles, CA 90095 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Mert",
+            "family": "Demirer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology, 50 Memorial Drive, Cambridge, MA 02142 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Esther",
+            "family": "Duflo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology, 50 Memorial Drive, Cambridge, MA 02142 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Christian",
+            "family": "Hansen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago, 5807 S. Woodlawn Avenue, Chicago, IL 60637 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Whitney",
+            "family": "Newey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology, 50 Memorial Drive, Cambridge, MA 02142 (e-mail: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.p20171038",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2020-06-02T20:15:04Z",
+        "timestamp": 1591128904000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2017,
+                5,
+                1
+            ]
+        ]
+    },
+    "references-count": 7,
+    "journal-issue": {
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "alternative-id": [
+        "10.1257/aer.p20171038"
+    ],
+    "URL": "http://dx.doi.org/10.1257/aer.p20171038",
+    "relation": {},
+    "ISSN": [
+        "0002-8282"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

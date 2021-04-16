@@ -1,0 +1,163 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                23
+            ]
+        ],
+        "date-time": "2021-03-23T05:03:54Z",
+        "timestamp": 1616475834182
+    },
+    "reference-count": 90,
+    "publisher": "American Economic Association",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> This paper reviews the literature in historical record linkage in the United States and examines the performance of widely used record-linking algorithms and common variations in their assumptions. We use two high-quality, hand-linked data sets and one synthetic ground truth to examine the direct effects of linking algorithms on data quality. We find that (i) no algorithm (including hand linking) consistently produces representative samples; (ii) 15 to 37 percent of links chosen by widely used algorithms are classified as errors by trained human reviewers; and (iii) false links are systematically related to baseline sample characteristics, showing that some algorithms may introduce systematic measurement error into analyses. A case study shows that the combined effects of (i)\u2013(iii) attenuate estimates of the intergenerational income elasticity by up to 29 percent, and common variations in algorithm assumptions result in greater attenuation. As current practice moves to automate linking and increase link rates, these results highlight the important potential consequences of linking errors on inferences with linked data. We conclude with constructive suggestions for reducing linking errors and directions for future research. (JEL C45, C81, J62, N31, N32) </jats:p>",
+    "DOI": "10.1257/jel.20191526",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                9
+            ]
+        ],
+        "date-time": "2020-12-09T13:21:36Z",
+        "timestamp": 1607520096000
+    },
+    "page": "997-1044",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "How Well Do Automated Linking Methods Perform? Lessons from US Historical Data"
+    ],
+    "prefix": "10.1257",
+    "volume": "58",
+    "author": [
+        {
+            "given": "Martha J.",
+            "family": "Bailey",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, Los Angeles and NBER."
+                }
+            ]
+        },
+        {
+            "given": "Connor",
+            "family": "Cole",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Michigan."
+                }
+            ]
+        },
+        {
+            "given": "Morgan",
+            "family": "Henderson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Michigan."
+                }
+            ]
+        },
+        {
+            "given": "Catherine",
+            "family": "Massey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Michigan."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20191526",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                9
+            ]
+        ],
+        "date-time": "2020-12-09T13:56:07Z",
+        "timestamp": 1607522167000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                1
+            ]
+        ]
+    },
+    "references-count": 90,
+    "journal-issue": {
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    1
+                ]
+            ]
+        },
+        "issue": "4"
+    },
+    "alternative-id": [
+        "10.1257/jel.20191526"
+    ],
+    "URL": "http://dx.doi.org/10.1257/jel.20191526",
+    "relation": {},
+    "ISSN": [
+        "0022-0515"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}
