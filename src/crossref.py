@@ -35,12 +35,15 @@ def repec_page(base, journal):
                     urls.append(h['href'])
                 except KeyError:
                     pass
+            try:
+                urls = set(urls)
+                return len(urls)
+            except UnboundLocalError:
+                pass
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
             # sleep(3)
             pass
-        urls = set(urls)
-        return len(urls)
 
 def repec_paper(base, page, journal):
     '''
