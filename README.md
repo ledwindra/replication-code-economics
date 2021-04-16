@@ -8,7 +8,10 @@ Is making replication code more of a norm or an exception to (micro/empirical)ec
 
 It may be true that there are public resources out there, but they may be scattered and not centralized in a place where communities can easily look up to, such as GitHub, where for other programming languages we can see on GitHub [topics](https://github.com/topics) such as [Awesome List](https://github.com/topics/awesome). It's not surprising that economists are not used to sharing stuffs on this place, but fortunately it looks like the numbers are growing recently.
 
-This repository is automatically updated at 12.00 AM UTC every day to nowcast this trend. Currently there are two data sources that I'm using:
+This repository is automatically updated at 12.00 AM UTC every day to nowcast this trend.
+
+# Data source
+Currently there are several sources that I'm using.
 
 ## GitHub API
 The only metric that I use is total numbers of public repositories that use Stata and have "replication code" in the keywords (not case sensitive). Also, it doesn't take into account the field of study in the replication codes. It is possible that people who use Stata also come from fields of study other than economics. Plot example as follows:
@@ -33,7 +36,8 @@ See my project list [here](https://github.com/ledwindra/replication-code-economi
 - `s-ucp-jpolec`: Journal of Political Economy
 - `s-wly-emetrp`: Econometrica. A relatively clean data can be checked on [data/econometrica.csv](https://github.com/ledwindra/replication-code-economics/blob/main/data/econometrica.csv) to see whether or not the corresponding paper/DOI has any replication file/supplemental material
 
-To-do: find relevant keywords that link to whether or not any paper has a replication code/supplemental material.
+### Has replication
+After getting raw data from Crossref, I crosscheck every DOI to each of the corresponding journal whether it has any replication code/supplementary material or not. The datasets are under `data/has-replication` directory. They are in `.csv` format. See `has_replication` column, where `True` indicates that the corresponding DOI potentially has replication and `False` otherwise.
 
 # PS
 Don't hesitate to reach me out or submit issues [here](https://github.com/ledwindra/replication-code-economics/issues).
