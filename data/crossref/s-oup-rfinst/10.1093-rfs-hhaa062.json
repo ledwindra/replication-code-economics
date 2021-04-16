@@ -1,0 +1,1178 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                15
+            ]
+        ],
+        "date-time": "2021-04-15T13:23:50Z",
+        "timestamp": 1618493030546
+    },
+    "reference-count": 100,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        25
+                    ]
+                ],
+                "date-time": "2020-05-25T00:00:00Z",
+                "timestamp": 1590364800000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We show that machine learning methods, in particular, extreme trees and neural networks (NNs), provide strong statistical evidence in favor of bond return predictability. NN forecasts based on macroeconomic and yield information translate into economic gains that are larger than those obtained using yields alone. Interestingly, the nature of unspanned factors changes along the yield curve: stock- and labor-market-related variables are more relevant for short-term maturities, whereas output and income variables matter more for longer maturities. Finally, NN forecasts correlate with proxies for time-varying risk aversion and uncertainty, lending support to models featuring both channels.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa062",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                19
+            ]
+        ],
+        "date-time": "2020-05-19T03:17:53Z",
+        "timestamp": 1589858273000
+    },
+    "page": "1046-1089",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+        "Bond Risk Premiums with Machine Learning"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Daniele",
+            "family": "Bianchi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Queen Mary, University of London"
+                }
+            ]
+        },
+        {
+            "given": "Matthias",
+            "family": "B\u00fcchner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Warwick"
+                }
+            ]
+        },
+        {
+            "given": "Andrea",
+            "family": "Tamoni",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Rutgers Business School"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                25
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021031819231407100_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1093/rfs/15.1.243",
+            "article-title": "Quadratic term structure models: Theory and evidence",
+            "volume": "15",
+            "author": "Ahn,",
+            "year": "2002",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1214/09-SS054",
+            "article-title": "A survey of cross-validation procedures for model selection",
+            "volume": "4",
+            "author": "Arlot,",
+            "year": "2010",
+            "journal-title": "Statistics Surveys"
+        },
+        {
+            "key": "2021031819231407100_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1111/1468-0262.00273",
+            "article-title": "Determining the number of factors in approximate factor models",
+            "volume": "70",
+            "author": "Bai,",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021031819231407100_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1133",
+            "DOI": "10.1111/j.1468-0262.2006.00696.x",
+            "article-title": "Confidence intervals for diffusion index forecasts and inference for factor-augmented regressions",
+            "volume": "74",
+            "author": "Bai,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021031819231407100_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "304",
+            "DOI": "10.1016/j.jeconom.2008.08.010",
+            "article-title": "Forecasting economic time series using targeted predictors",
+            "volume": "146",
+            "author": "Bai,",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021031819231407100_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhs108",
+            "article-title": "A long-run risks explanation of predictability puzzles in bond and currency markets",
+            "volume": "26",
+            "author": "Bansal,",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1057/jors.1969.103",
+            "article-title": "The combination of forecasts",
+            "volume": "20",
+            "author": "Bates,",
+            "year": "1969",
+            "journal-title": "Journal of the Operational Research Society"
+        },
+        {
+            "key": "2021031819231407100_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1093/rfs/hhx096",
+            "article-title": "Robust bond risk premia",
+            "volume": "31",
+            "author": "Bauer,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.1093/rof/rfw044",
+            "article-title": "Resolving the spanning puzzle in macro-finance term structure models",
+            "volume": "21",
+            "author": "Bauer,",
+            "year": "2017",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2021031819231407100_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1016/j.jfineco.2008.01.005",
+            "article-title": "Risk, uncertainty, and asset prices",
+            "volume": "91",
+            "author": "Bekaert,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021031819231407100_B11",
+            "author": "Bekaert,",
+            "year": "2019",
+            "volume-title": "The time variation in risk appetite and uncertainty",
+            "DOI": "10.3386/w25673",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1371",
+            "DOI": "10.1111/j.1540-6261.1995.tb05182.x",
+            "article-title": "Interest rates as options",
+            "volume": "50",
+            "author": "Black,",
+            "year": "1995",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B13",
+            "author": "Boivin,",
+            "volume": "132",
+            "first-page": "169",
+            "journal-title": "Journal of Econometrics",
+            "DOI": "10.1016/j.jeconom.2005.01.027",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman,",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2021031819231407100_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3009",
+            "DOI": "10.1111/j.1540-6261.2007.01299.x",
+            "article-title": "Habit formation and macroeconomic models of the term structure of interest rates",
+            "volume": "62",
+            "author": "Buraschi,",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B16",
+            "author": "Buraschi,",
+            "year": "2019",
+            "volume-title": "Subjective bond risk premia and belief aggregation",
+            "DOI": "10.2139/ssrn.3377279",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B17",
+            "author": "Burns,",
+            "year": "1946",
+            "volume-title": "Measuring business cycles"
+        },
+        {
+            "key": "2021031819231407100_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.2307/2298008",
+            "article-title": "Yield spreads and interest rate movements: A bird\u2019s eye view",
+            "volume": "58",
+            "author": "Campbell,",
+            "year": "1991",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021031819231407100_B19",
+            "author": "Campbell,",
+            "volume": "21",
+            "first-page": "1509",
+            "journal-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhm055",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B20",
+            "author": "Chen,",
+            "year": "2017",
+            "volume-title": "Measuring the \u2018dark matter\u2019 in asset pricing models"
+        },
+        {
+            "key": "2021031819231407100_B21",
+            "author": "Chen,",
+            "year": "2019",
+            "volume-title": "Deep learning in asset pricing",
+            "DOI": "10.2139/ssrn.3350138",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "2859",
+            "DOI": "10.1093/rfs/hhv032",
+            "article-title": "Expected returns in Treasury bonds",
+            "volume": "28",
+            "author": "Cieslak,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1016/j.jeconom.2006.05.023",
+            "article-title": "Approximately normal tests for equal predictive accuracy in nested models",
+            "volume": "138",
+            "author": "Clark,",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021031819231407100_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.1016/0169-2070(89)90012-5",
+            "article-title": "Combining forecasts: A review and annotated bibliography",
+            "volume": "5",
+            "author": "Clemen,",
+            "year": "1989",
+            "journal-title": "International journal of forecasting"
+        },
+        {
+            "key": "2021031819231407100_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.1257/0002828053828581",
+            "article-title": "Bond risk premia",
+            "volume": "95",
+            "author": "Cochrane,",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021031819231407100_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2801",
+            "DOI": "10.1093/rfs/hhn087",
+            "article-title": "Time-varying risk premiums and the output gap",
+            "volume": "22",
+            "author": "Cooper,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "472",
+            "DOI": "10.1080/07350015.2015.1052456",
+            "article-title": "Unspanned macroeconomic factors in the yield curve",
+            "volume": "34",
+            "author": "Coroneo,",
+            "year": "2016",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021031819231407100_B28",
+            "author": "Creal,",
+            "year": "2018",
+            "volume-title": "Bond risk premia in consumption-based models"
+        },
+        {
+            "key": "2021031819231407100_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1007/BF02551274",
+            "article-title": "Approximation by superpositions of a sigmoidal function",
+            "volume": "2",
+            "author": "Cybenko,",
+            "year": "1989",
+            "journal-title": "Mathematics of Control, Signals, and Systems"
+        },
+        {
+            "key": "2021031819231407100_B30",
+            "author": "Dai,",
+            "volume": "20",
+            "first-page": "1669",
+            "journal-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhm021",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1016/j.jfineco.2012.04.003",
+            "article-title": "Predictive regressions with time-varying coefficients",
+            "volume": "106",
+            "author": "Dangl,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021031819231407100_B32",
+            "author": "De Mol,",
+            "volume": "146",
+            "first-page": "318",
+            "journal-title": "Journal of Econometrics",
+            "DOI": "10.1016/j.jeconom.2008.08.011",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "158",
+            "DOI": "10.1016/j.jfineco.2007.08.002",
+            "article-title": "The expectation hypothesis of the term structure of very short-term rates: Statistical tests and economic value",
+            "volume": "89",
+            "author": "Della Corte,",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021031819231407100_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1137/0905013",
+            "article-title": "On nonlinear functions of linear combinations",
+            "volume": "5",
+            "author": "Diaconis,",
+            "year": "1984",
+            "journal-title": "SIAM Journal on Scientific and Statistical Computing"
+        },
+        {
+            "key": "2021031819231407100_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "134",
+            "DOI": "10.1198/073500102753410444",
+            "article-title": "Comparing predictive accuracy",
+            "volume": "20",
+            "author": "Diebold,",
+            "year": "1995",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021031819231407100_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/BF02309007",
+            "article-title": "Use of some sensitivity criteria for choosing networks with good generalization ability",
+            "volume": "2",
+            "author": "Dimopoulos,",
+            "year": "1995",
+            "journal-title": "Neural Processing Letters"
+        },
+        {
+            "key": "2021031819231407100_B37",
+            "author": "Duffee,",
+            "year": "2011",
+            "volume-title": "Forecasting with the term structure: The role of no-arbitrage restrictions"
+        },
+        {
+            "key": "2021031819231407100_B38",
+            "author": "Duffee,",
+            "first-page": "385",
+            "year": "2013",
+            "volume-title": "Forecasting Interest Rates, vol. 2 of Handbook of Economic Forecasting"
+        },
+        {
+            "key": "2021031819231407100_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1111/1540-6261.00426",
+            "article-title": "Term premia and interest rate forecasts in affine models",
+            "volume": "57",
+            "author": "Duffee,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2895",
+            "DOI": "10.1093/rfs/hhr033",
+            "article-title": "Information in (and not in) the term structure",
+            "volume": "24",
+            "author": "Duffee,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "579",
+            "DOI": "10.1111/j.1540-6261.2009.01444.x",
+            "article-title": "Equilibrium portfolio strategies in the presence of sentiment risk and excess volatility",
+            "volume": "64",
+            "author": "Dumas,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1016/j.jeconom.2003.10.019",
+            "article-title": "Optimal forecast combinations under general loss functions and forecast error distributions",
+            "volume": "122",
+            "author": "Elliott,",
+            "year": "2004",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021031819231407100_B43",
+            "first-page": "680",
+            "article-title": "The information in long-maturity forward rates",
+            "volume": "77",
+            "author": "Fama,",
+            "year": "1987",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021031819231407100_B44",
+            "first-page": "337",
+            "article-title": "Risk premia and volatilities in a nonlinear term structure model",
+            "volume": "22",
+            "author": "Feldhutter,",
+            "year": "2016",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2021031819231407100_B45",
+            "author": "Feng,",
+            "year": "2020",
+            "article-title": "Taming the factor zoo: A test of new factors",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B46",
+            "author": "Feng,",
+            "year": "2018",
+            "journal-title": "Deep learning for predicting asset returns"
+        },
+        {
+            "key": "2021031819231407100_B47",
+            "author": "Feng,",
+            "year": "2019",
+            "volume-title": "Deep learning alpha"
+        },
+        {
+            "key": "2021031819231407100_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1111/0022-1082.00327",
+            "article-title": "The economic value of volatility timing",
+            "volume": "56",
+            "author": "Fleming,",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1007/BF01205493",
+            "article-title": "Dynamic common factors in large cross-sections",
+            "volume": "21",
+            "author": "Forni,",
+            "year": "1996",
+            "journal-title": "Empirical Economics"
+        },
+        {
+            "key": "2021031819231407100_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.1111/1467-937X.00053",
+            "article-title": "Let\u2019s get real: A factor analytical approach to disaggregated business cycle dynamics",
+            "volume": "65",
+            "author": "Forni,",
+            "year": "1998",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021031819231407100_B51",
+            "author": "Freyberger,",
+            "year": "2017",
+            "volume-title": "Dissecting characteristics nonparametrically",
+            "DOI": "10.3386/w23227",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B52",
+            "author": "Friedman,",
+            "year": "2001",
+            "volume-title": "elements of statistical learning"
+        },
+        {
+            "key": "2021031819231407100_B53",
+            "author": "Fuster,",
+            "year": "2018",
+            "volume-title": "Predictably unequal? The effects of machine learning on credit markets"
+        },
+        {
+            "key": "2021031819231407100_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "508",
+            "DOI": "10.1287/mnsc.2017.2829",
+            "article-title": "Bond return predictability: Economic value and links to the macroeconomy",
+            "volume": "65",
+            "author": "Gargano,",
+            "year": "2019",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2021031819231407100_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1007/s10994-006-6226-1",
+            "article-title": "Extremely randomized trees",
+            "volume": "63",
+            "author": "Geurts,",
+            "year": "2006",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2021031819231407100_B56",
+            "author": "Geweke,",
+            "year": "1977",
+            "volume-title": "The dynamic factor analysis of economic time series"
+        },
+        {
+            "key": "2021031819231407100_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1016/S0165-1765(01)00391-3",
+            "article-title": "A note on some limitations of CRRA utility",
+            "volume": "71",
+            "author": "Geweke,",
+            "year": "2001",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2021031819231407100_B58",
+            "author": "Giacoletti,",
+            "year": "2016",
+            "volume-title": "Learning, dispersion of beliefs, and risk premiums in an arbitrage-free term structure model"
+        },
+        {
+            "key": "2021031819231407100_B59",
+            "author": "Giannone,",
+            "year": "2017",
+            "volume-title": "Economic predictions with big data: The illusion of sparsity"
+        },
+        {
+            "key": "2021031819231407100_B60",
+            "author": "Giglio,",
+            "year": "2017",
+            "volume-title": "Inference on risk premia in the presence of omitted factors",
+            "DOI": "10.3386/w23527",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu,",
+            "year": "2020",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "2291",
+            "DOI": "10.1016/j.jmoneco.2007.06.029",
+            "article-title": "The U.S. Treasury yield curve: 1961 to the present",
+            "volume": "54",
+            "author": "Gurkaynak,",
+            "year": "2007",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021031819231407100_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "281",
+            "DOI": "10.1016/S0169-2070(96)00719-4",
+            "article-title": "Testing the equality of prediction mean squared errors",
+            "volume": "13",
+            "author": "Harvey,",
+            "year": "1997",
+            "journal-title": "International Journal of forecasting"
+        },
+        {
+            "key": "2021031819231407100_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1002/asmb.2209",
+            "article-title": "Deep learning for finance: deep portfolios",
+            "volume": "33",
+            "author": "Heaton,",
+            "year": "2017",
+            "journal-title": "Applied Stochastic Models in Business and Industry"
+        },
+        {
+            "key": "2021031819231407100_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.1016/0893-6080(89)90020-8",
+            "article-title": "Multilayer feedforward networks are universal approximators",
+            "volume": "2",
+            "author": "Hornik,",
+            "year": "1989",
+            "journal-title": "Neural Networks"
+        },
+        {
+            "key": "2021031819231407100_B66",
+            "author": "Huang,",
+            "year": "2019",
+            "volume-title": "Determinants of bond risk premia: A machine-learning-based resolution of the spanning controversy"
+        },
+        {
+            "key": "2021031819231407100_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "611",
+            "DOI": "10.1111/jofi.12121",
+            "article-title": "Sequential learning, predictability, and optimal portfolio returns",
+            "volume": "69",
+            "author": "Johannes,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "1197",
+            "DOI": "10.1111/jofi.12131",
+            "article-title": "Risk premiums in dynamic term structure models with unspanned macro risks",
+            "volume": "69",
+            "author": "Joslin,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1111/j.1540-6261.1996.tb02689.x",
+            "article-title": "On the predictability of stock returns: An asset-allocation perspective",
+            "volume": "51",
+            "author": "Kandel,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "1721",
+            "DOI": "10.1111/jofi.12060",
+            "article-title": "Market expectations in the cross-section of present values",
+            "volume": "68",
+            "author": "Kelly,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "294",
+            "DOI": "10.1016/j.jeconom.2015.02.011",
+            "article-title": "The three-pass regression filter: A new approach to forecasting using many predictors",
+            "volume": "186",
+            "author": "Kelly,",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021031819231407100_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "volume": "134",
+            "author": "Kelly,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021031819231407100_B73",
+            "first-page": "369",
+            "article-title": "On the representation of continuous functions of several variables by superposition of continuous functions of one variable and addition",
+            "volume": "114",
+            "author": "Kolmogorov,",
+            "year": "1957",
+            "journal-title": "Doklady Akademii Nauk SSSR"
+        },
+        {
+            "key": "2021031819231407100_B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1016/j.jfineco.2019.06.008",
+            "article-title": "Shrinking the cross-section",
+            "volume": "135",
+            "author": "Kozak,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021031819231407100_B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.1080/07350015.2018.1506926",
+            "article-title": "HAR inference recommendations for practice",
+            "volume": "36",
+            "author": "Lazarus,",
+            "year": "2018",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021031819231407100_B76",
+            "author": "Le,",
+            "year": "2013",
+            "volume-title": "The structure of risks in equilibrium affine models of bond yields"
+        },
+        {
+            "key": "2021031819231407100_B77",
+            "author": "Liu,",
+            "year": "2019",
+            "volume-title": "Reconstructing the yield curve"
+        },
+        {
+            "key": "2021031819231407100_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "5027",
+            "DOI": "10.1093/rfs/hhp081",
+            "article-title": "Macro factors in bond risk premia",
+            "volume": "22",
+            "author": "Ludvigson,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B79",
+            "author": "McCracken,",
+            "year": "2015",
+            "volume-title": "FRED-MD: A Monthly Database for Macroeconomic Research",
+            "DOI": "10.20955/wp.2015.012",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "574",
+            "DOI": "10.1080/07350015.2015.1086655",
+            "article-title": "FRED-MD: A monthly database for macroeconomic research",
+            "volume": "34",
+            "author": "McCracken,",
+            "year": "2016",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021031819231407100_B81",
+            "author": "Messmer,",
+            "year": "2017",
+            "volume-title": "Deep learning and the cross-section of expected returns",
+            "DOI": "10.2139/ssrn.3081555",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1257/jep.31.2.87",
+            "article-title": "Machine learning: An applied econometric approach",
+            "volume": "31",
+            "author": "Mullainathan,",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2021031819231407100_B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "131",
+            "DOI": "10.2307/2344546",
+            "article-title": "Experience with forecasting univariate time series and the combination of forecasts",
+            "volume": "137",
+            "author": "Newbold,",
+            "year": "1974",
+            "journal-title": "Journal of the Royal Statistical Society: Series A (General)"
+        },
+        {
+            "key": "2021031819231407100_B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+            "volume": "55",
+            "author": "Newey,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021031819231407100_B85",
+            "author": "Piazzesi,",
+            "year": "2015",
+            "volume-title": "Trend and cycle in bond premia"
+        },
+        {
+            "key": "2021031819231407100_B86",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.1093/rfs/hhp063",
+            "article-title": "Out-of-sample equity premium prediction: Combination forecasts and links to the real economy",
+            "volume": "23",
+            "author": "Rapach,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B87",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.1111/jofi.12041",
+            "article-title": "International stock return predictability: What is the role of the United States?",
+            "volume": "68",
+            "author": "Rapach,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021031819231407100_B88",
+            "author": "Rossi,",
+            "year": "2019",
+            "volume-title": "Predicting stock market returns with machine learning"
+        },
+        {
+            "key": "2021031819231407100_B89",
+            "author": "Sargent,",
+            "year": "1977",
+            "volume-title": "Business cycle modeling without pretending to have too much a priori economic theory"
+        },
+        {
+            "key": "2021031819231407100_B90",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1016/j.jempfin.2016.02.001",
+            "article-title": "The economic value of predicting bond risk premia",
+            "volume": "37",
+            "author": "Sarno,",
+            "year": "2016",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2021031819231407100_B91",
+            "doi-asserted-by": "crossref",
+            "first-page": "1299",
+            "DOI": "10.1162/089976698300017467",
+            "article-title": "Nonlinear component analysis as a kernel eigenvalue problem",
+            "volume": "10",
+            "author": "Sch\u00f6lkopf,",
+            "year": "1998",
+            "journal-title": "Neural computation"
+        },
+        {
+            "key": "2021031819231407100_B92",
+            "author": "Sirignano,",
+            "year": "2018",
+            "volume-title": "Deep learning for mortgage risk",
+            "DOI": "10.2139/ssrn.2799443",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B93",
+            "author": "Stock,",
+            "first-page": "515",
+            "year": "2006",
+            "edition": "1st ed.",
+            "volume-title": "Forecasting with many predictors"
+        },
+        {
+            "key": "2021031819231407100_B94",
+            "author": "Stock,",
+            "year": "1998",
+            "volume-title": "A comparison of linear and nonlinear univariate models for forecasting macroeconomic time series",
+            "DOI": "10.3386/w6607",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2021031819231407100_B95",
+            "doi-asserted-by": "crossref",
+            "first-page": "1167",
+            "DOI": "10.1198/016214502388618960",
+            "article-title": "Forecasting using principal components from a large number of predictors",
+            "volume": "97",
+            "author": "Stock,",
+            "year": "2002",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021031819231407100_B96",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1198/073500102317351921",
+            "article-title": "Macroeconomic forecasting using diffusion indexes",
+            "volume": "20",
+            "author": "Stock,",
+            "year": "2002",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021031819231407100_B97",
+            "doi-asserted-by": "crossref",
+            "first-page": "3141",
+            "DOI": "10.1093/rfs/hhs069",
+            "article-title": "Out-of-sample predictions of bond excess returns and forward rates: An asset allocation perspective",
+            "volume": "25",
+            "author": "Thornton,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021031819231407100_B98",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1016/j.jfineco.2005.02.004",
+            "article-title": "A consumption-based model of the term structure of interest rates",
+            "volume": "79",
+            "author": "Wachter,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021031819231407100_B99",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1111/jmcb.12300",
+            "article-title": "Measuring the macroeconomic impact of monetary policy at the zero lower bound",
+            "volume": "48",
+            "author": "Wu,",
+            "year": "2016",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2021031819231407100_B100",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1016/j.jfineco.2011.03.023",
+            "article-title": "Long-run risk in durable consumption",
+            "volume": "102",
+            "author": "Yang,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa062/33476478/hhaa062.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/2/1046/36641877/hhaa062.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/2/1046/36641877/hhaa062.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                18
+            ]
+        ],
+        "date-time": "2021-03-18T19:24:50Z",
+        "timestamp": 1616095490000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                25
+            ]
+        ]
+    },
+    "references-count": 100,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    25
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    1,
+                    24
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa062",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

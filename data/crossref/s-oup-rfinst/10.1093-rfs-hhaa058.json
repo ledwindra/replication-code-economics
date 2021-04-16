@@ -1,0 +1,932 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                11
+            ]
+        ],
+        "date-time": "2021-03-11T06:23:52Z",
+        "timestamp": 1615443832503
+    },
+    "reference-count": 71,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T00:00:00Z",
+                "timestamp": 1589932800000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We use proprietary brokerage data to study trading patterns within a well-known financial market bubble: the Chinese warrants bubble. Persistently successful investors trade very actively and exhibit characteristics of de facto market makers. Unskilled investors unprofitably trend-chase and increase holdings in out-of-the-money warrants near expiration, whereas sophisticated investors do the reverse. We find that regulators did not properly forecast trading frenzies, as the prespecified price limits often exclude the fundamental values of warrants.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa058",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                15
+            ]
+        ],
+        "date-time": "2020-05-15T20:18:59Z",
+        "timestamp": 1589573939000
+    },
+    "page": "313-350",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Winners, Losers, and Regulators in a Derivatives Market Bubble"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Xindan",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "School of Management and Engineering, Nanjing University; and Institute of Financial Innovation, Nanjing University"
+                }
+            ]
+        },
+        {
+            "given": "Avanidhar",
+            "family": "Subrahmanyam",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The Anderson School, University of California at Los Angeles"
+                }
+            ]
+        },
+        {
+            "given": "Xuewei",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Management and Engineering, Nanjing University; and Institute of Financial Innovation, Nanjing University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020121814292733000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1111/1468-0262.00393",
+            "article-title": "Bubbles and crashes",
+            "volume": "71",
+            "author": "Abreu,",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020121814292733000_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1145",
+            "DOI": "10.1017/S0022109013000410",
+            "article-title": "Does risk-neutral skewness predict the cross-section of equity option portfolio returns?",
+            "volume": "48",
+            "author": "Bali,",
+            "year": "2013",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020121814292733000_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1016/j.jfineco.2010.08.014",
+            "article-title": "Maxing out: Stocks as lotteries and the cross-section of expected returns",
+            "volume": "99",
+            "author": "Bali,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "773",
+            "DOI": "10.1111/0022-1082.00226",
+            "article-title": "Trading is hazardous to your wealth: The common stock investment performance of individual investors",
+            "volume": "55",
+            "author": "Barber,",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1162/003355301556400",
+            "article-title": "Boys will be boys: Gender, overconfidence, and common stock investment",
+            "volume": "116",
+            "author": "Barber,",
+            "year": "2001",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2020121814292733000_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1093/rfs/hhn046",
+            "article-title": "Just how much do individual investors lose by trading?",
+            "volume": "22",
+            "author": "Barber,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1093/rapstu/raz006",
+            "article-title": "Learning fast or slow?",
+            "volume": "10",
+            "author": "Barber,",
+            "year": "2020",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2020121814292733000_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1016/j.jfineco.2018.04.007",
+            "article-title": "Extrapolation and bubbles",
+            "volume": "129",
+            "author": "Barberis,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2066",
+            "DOI": "10.1257/aer.98.5.2066",
+            "article-title": "Stocks as lotteries: The implications of probability weighting for security prices",
+            "volume": "98",
+            "author": "Barberis,",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020121814292733000_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "3068",
+            "DOI": "10.1093/rfs/hhw049",
+            "article-title": "Prospect theory and stock returns: An empirical test",
+            "volume": "29",
+            "author": "Barberis,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1423",
+            "DOI": "10.1111/j.1540-6261.2012.01752.x",
+            "article-title": "Early exercise of put options on stocks",
+            "volume": "67",
+            "author": "Barraclough,",
+            "year": "2012",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "731",
+            "DOI": "10.1016/j.jbankfin.2008.11.005",
+            "article-title": "Option trading and individual investor performance",
+            "volume": "33",
+            "author": "Bauer,",
+            "year": "2009",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2020121814292733000_B13",
+            "first-page": "143",
+            "article-title": "The \u201cT+1\u201d trading rule and Chinese warrant overpricing [in Chinese]",
+            "volume": "2010",
+            "author": "Bian,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Research"
+        },
+        {
+            "key": "2020121814292733000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.2307/2978484",
+            "article-title": "The valuation of option contracts and a test of market efficiency,",
+            "volume": "27",
+            "author": "Black,",
+            "year": "1972",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1086/260062",
+            "article-title": "The pricing of options and corporate liabilities",
+            "volume": "81",
+            "author": "Black,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020121814292733000_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "515",
+            "DOI": "10.1017/S002210901600020X",
+            "article-title": "Gambling preferences, options markets, and volatility",
+            "volume": "51",
+            "author": "Blau,",
+            "year": "2016",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020121814292733000_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1485",
+            "DOI": "10.1111/jofi.12152",
+            "article-title": "Stock options as lotteries",
+            "volume": "69",
+            "author": "Boyer,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1093/rfs/hhp041",
+            "article-title": "Expected idiosyncratic skewness",
+            "volume": "23",
+            "author": "Boyer,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2013",
+            "DOI": "10.1111/j.1540-6261.2004.00690.x",
+            "article-title": "Hedge funds and the technology bubble",
+            "volume": "59",
+            "author": "Brunnermeier,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1016/j.jfineco.2016.06.004",
+            "article-title": "Gambling preference and individual equity option returns",
+            "volume": "122",
+            "author": "Byun,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B21",
+            "author": "Cai,",
+            "year": "2018",
+            "volume-title": "The whack-a-mole game: Tobin tax and trading frenzy"
+        },
+        {
+            "key": "2020121814292733000_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "238",
+            "DOI": "10.1198/jbes.2010.07136",
+            "article-title": "Robust inference with multiway clustering",
+            "volume": "29",
+            "author": "Cameron,",
+            "year": "2011",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2020121814292733000_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1257/jep.25.1.91",
+            "article-title": "Consumer financial protection",
+            "volume": "25",
+            "author": "Campbell,",
+            "year": "2011",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2020121814292733000_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "754",
+            "DOI": "10.1093/rfs/hhq070",
+            "article-title": "Obfuscation, learning, and the evolution of investor sophistication",
+            "volume": "24",
+            "author": "Carlin,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B26",
+            "author": "Chung,",
+            "year": "2007",
+            "article-title": "Warrants win over the China bulls",
+            "volume-title": "Financial Times"
+        },
+        {
+            "key": "2020121814292733000_B27",
+            "author": "Cole,",
+            "year": "2017",
+            "volume-title": "Can gambling increase savings? Empirical evidence on prize-linked savings accounts"
+        },
+        {
+            "key": "2020121814292733000_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.1016/j.jfineco.2018.04.001",
+            "article-title": "When saving is gambling",
+            "volume": "129",
+            "author": "Cookson,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1540-6261.2005.00723.x",
+            "article-title": "Do behavioral biases affect prices?",
+            "volume": "60",
+            "author": "Coval,",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jempfin.2018.02.004",
+            "article-title": "A robust and powerful test of abnormal stock returns in long-horizon event studies",
+            "volume": "47",
+            "author": "Dutta,",
+            "year": "2018",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2020121814292733000_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1915",
+            "DOI": "10.1111/j.1540-6261.2010.01598.x",
+            "article-title": "Luck versus skill in the cross-section of mutual fund returns",
+            "volume": "65",
+            "author": "Fama,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "2128",
+            "DOI": "10.1093/rfs/hhu075",
+            "article-title": "Do individual investors treat trading as a fun and exciting gambling activity? Evidence from repeated natural experiments",
+            "volume": "28",
+            "author": "Gao,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1257/jep.4.2.35",
+            "article-title": "Famous first bubbles",
+            "volume": "4",
+            "author": "Garber,",
+            "year": "1990",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2020121814292733000_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "4259",
+            "DOI": "10.1093/rfs/hhp005",
+            "article-title": "Demand-based option pricing",
+            "volume": "22",
+            "author": "Garleanu,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1111/jofi.12231",
+            "article-title": "How does household portfolio diversification vary with financial literacy and financial advice?",
+            "volume": "70",
+            "author": "Gaudecker,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2493",
+            "DOI": "10.1287/mnsc.2016.2427",
+            "article-title": "New investors and bubbles: An analysis of the Baosteel call warrant bubble",
+            "volume": "63",
+            "author": "Gong,",
+            "year": "2017",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2020121814292733000_B38",
+            "author": "Graham,",
+            "year": "2003",
+            "volume-title": "The intelligent investor"
+        },
+        {
+            "key": "2020121814292733000_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "432",
+            "DOI": "10.1287/mnsc.1110.1431",
+            "article-title": "Initial public offerings as lotteries: Skewness preference and first-day returns",
+            "volume": "58",
+            "author": "Green,",
+            "year": "2012",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2020121814292733000_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.1016/j.jfineco.2008.08.004",
+            "article-title": "Inexperienced investors and bubbles",
+            "volume": "93",
+            "author": "Greenwood,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.1111/j.1540-6261.2011.01663.x",
+            "article-title": "Who drove and burst the tech bubble?",
+            "volume": "66",
+            "author": "Griffin,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "278",
+            "DOI": "10.1016/j.jfineco.2016.05.008",
+            "article-title": "Early option exercise: Never say never",
+            "volume": "121",
+            "author": "Jensen,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1016/j.jfineco.2004.06.014",
+            "article-title": "Unchecked intermediaries: Price manipulation in an emerging stock market",
+            "volume": "78",
+            "author": "Khwaja,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "3996",
+            "DOI": "10.1093/rfs/hhq072",
+            "article-title": "Event study testing with cross-sectional correlation of abnormal returns",
+            "volume": "23",
+            "author": "Kolari,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1889",
+            "DOI": "10.1111/j.1540-6261.2009.01483.x",
+            "article-title": "Who gambles in the stock market?",
+            "volume": "64",
+            "author": "Kumar,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1093/rfs/hhl025",
+            "article-title": "Option market activity",
+            "volume": "20",
+            "author": "Lakonishok,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "38",
+            "DOI": "10.1016/j.jfineco.2018.01.010",
+            "article-title": "Can financial innovation succeed by catering to behavioral preferences? Evidence from a callable options market",
+            "volume": "128",
+            "author": "Li,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B48",
+            "author": "Liao,",
+            "year": "2010",
+            "volume-title": "Security supply and bubbles: A natural experiment from the Chinese warrants market"
+        },
+        {
+            "key": "2020121814292733000_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1002/fut.21608",
+            "article-title": "Exercise to lose money? Irrational exercise behavior from the Chinese warrants market",
+            "volume": "34",
+            "author": "Liao,",
+            "year": "2014",
+            "journal-title": "Journal of Futures Markets"
+        },
+        {
+            "key": "2020121814292733000_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1630",
+            "DOI": "10.1093/rfs/hhr009",
+            "article-title": "Why do (some) households trade so much?",
+            "volume": "24",
+            "author": "Linnainmaa,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "649",
+            "DOI": "10.1287/mnsc.2014.1914",
+            "article-title": "Speculation spillovers",
+            "volume": "61",
+            "author": "Liu,",
+            "year": "2014",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2020121814292733000_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.2307/3003143",
+            "article-title": "Theory of rational option pricing",
+            "volume": "4",
+            "author": "Merton,",
+            "year": "1973",
+            "journal-title": "Bell Journal of Economics and Management Science"
+        },
+        {
+            "key": "2020121814292733000_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "3069",
+            "DOI": "10.1111/j.1540-6261.2006.01012.x",
+            "article-title": "Derivative pricing 60 years before Black\u2013Scholes: evidence from the Johannesburg Stock Exchange",
+            "volume": "61",
+            "author": "Moore,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B54",
+            "author": "Ou-Yang,",
+            "year": "2017",
+            "article-title": "Stay away from these financial myths [in Chinese]",
+            "volume-title": "People\u2019s Daily"
+        },
+        {
+            "key": "2020121814292733000_B55",
+            "first-page": "15",
+            "article-title": "The generative mechanism of the foam of securities markets: A case study based on the \u201cNatural Experiment\u201d of the Baosteel warrant [in Chinese]",
+            "volume": "2008",
+            "author": "Pan,",
+            "year": "2008",
+            "journal-title": "Management World"
+        },
+        {
+            "key": "2020121814292733000_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1016/j.jfineco.2005.05.009",
+            "article-title": "Was there a Nasdaq bubble in the late 1990s?",
+            "volume": "81",
+            "author": "P\u00e1stor,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B57",
+            "author": "Pearson,",
+            "year": "2020",
+            "article-title": "The Chinese warrants bubble: Evidence from brokerage account records",
+            "volume-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhaa037",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "2020121814292733000_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1111/1540-6261.00518",
+            "article-title": "Clearly irrational financial market behavior: Evidence from the early exercise of exchange traded stock options",
+            "volume": "58",
+            "author": "Poteshman,",
+            "year": "2003",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020121814292733000_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1086/378531",
+            "article-title": "Overconfidence and speculative bubbles",
+            "volume": "111",
+            "author": "Scheinkman,",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020121814292733000_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "705",
+            "DOI": "10.1093/rfs/hhp060",
+            "article-title": "Learning by trading",
+            "volume": "23",
+            "author": "Seru,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020121814292733000_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1257/089533003321164967",
+            "article-title": "From efficient markets theory to behavioral finance",
+            "volume": "17",
+            "author": "Shiller,",
+            "year": "2003",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2020121814292733000_B62",
+            "year": "2017",
+            "volume-title": "The law of the jungle does not apply to the stock market [in Chinese]"
+        },
+        {
+            "key": "2020121814292733000_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1016/j.jfineco.2011.03.006",
+            "article-title": "Financial literacy and stock market participation",
+            "volume": "101",
+            "author": "Van Rooij,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020121814292733000_B64",
+            "author": "Wang,",
+            "year": "2009",
+            "article-title": "Warrants investors lost 20 billion yuan [in Chinese]",
+            "volume-title": "NetEase Finance"
+        },
+        {
+            "key": "2020121814292733000_B65",
+            "first-page": "194",
+            "article-title": "Are investors irrational? A study of the Chinese warrant bubble under the short-sale constraint [in Chinese]",
+            "volume": "2012",
+            "author": "Wang,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Research"
+        },
+        {
+            "key": "2020121814292733000_B66",
+            "author": "Wu,",
+            "year": "2009",
+            "article-title": "Investors in the case of the creation of warrants of China southern airlines lost the first trial [in Chinese]",
+            "volume-title": "Legal Daily"
+        },
+        {
+            "key": "2020121814292733000_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "2723",
+            "DOI": "10.1257/aer.101.6.2723",
+            "article-title": "The Chinese warrants bubble",
+            "volume": "101",
+            "author": "Xiong,",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020121814292733000_B68",
+            "author": "Xiong,",
+            "year": "2018",
+            "article-title": "China\u2019s financial ecology has entered a period of remodeling [in Chinese]",
+            "volume-title": "Securities Times"
+        },
+        {
+            "key": "2020121814292733000_B69",
+            "first-page": "112",
+            "article-title": "The disposition effect in Chinese individual investors\u2019 warrant trading [in Chinese]",
+            "volume": "26",
+            "author": "Zhang,",
+            "year": "2011",
+            "journal-title": "Journal of Tsinghua University (Philosophy and Social Sciences)"
+        },
+        {
+            "key": "2020121814292733000_B70",
+            "author": "Zhong,",
+            "year": "2008",
+            "article-title": "Twenty-six brokerages created 16.6 billion warrants and earned 26.3 billion yuan [in Chinese]",
+            "volume-title": "Sina Finance"
+        },
+        {
+            "key": "2020121814292733000_B71",
+            "author": "Zuo,",
+            "year": "2017",
+            "article-title": "Listed companies paying \u201croutine dividend\u201d regardless of operating losses [in Chinese]",
+            "volume-title": "Securities Daily"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa058/33463290/hhaa058.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/1/313/34998871/hhaa058.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/1/313/34998871/hhaa058.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                19
+            ]
+        ],
+        "date-time": "2020-12-19T06:05:55Z",
+        "timestamp": 1608357955000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Wei",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "references-count": 71,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    20
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    1,
+                    1
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa058",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}
