@@ -40,4 +40,6 @@ See my project list [here](https://github.com/ledwindra/replication-code-economi
 After getting raw data from Crossref, I crosscheck every DOI to each of the corresponding journal whether it has any replication code/supplementary material or not. The datasets are under `data/has-replication` directory. They are in `.csv` format. See `has_replication` column, where `True` indicates that the corresponding DOI potentially has replication and `False` otherwise.
 
 # PS
-Don't hesitate to reach me out or submit issues [here](https://github.com/ledwindra/replication-code-economics/issues).
+There's a potential irony here when I'm creating a repository about reproducibility but my progams won't work in either your machine or on GitHub Actions. It's because the scripts depend on public APIs (e.g. GitHub and Crossref). In addition, some journal websites may undergo a redesign, which makes the functionality of the scripts won't work as intended. Hence I save the raw data too.
+
+In any case, don't hesitate to reach me out or submit issues [here](https://github.com/ledwindra/replication-code-economics/issues).
