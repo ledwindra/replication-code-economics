@@ -34,7 +34,7 @@ See my project list [here](https://github.com/ledwindra/replication-code-economi
 - `s-oup-restud`: Review of Economic Studies
 - `s-oup-rfinst`: Review of Financial Studies
 - `s-ucp-jpolec`: Journal of Political Economy
-- `s-wly-emetrp`: Econometrica. A relatively clean data can be checked on [data/econometrica.csv](https://github.com/ledwindra/replication-code-economics/blob/main/data/econometrica.csv) to see whether or not the corresponding paper/DOI has any replication file/supplemental material
+- `s-wly-emetrp`: Econometrica
 
 ### Has replication
 After getting raw data from Crossref, I crosscheck every DOI to each of the corresponding journal whether it has any replication code/supplementary material or not. The datasets are under `data/has-replication` directory. They are in `.csv` format. See `has_replication` column, where `True` indicates that the corresponding DOI potentially has replication and `False` otherwise.
