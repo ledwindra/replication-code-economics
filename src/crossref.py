@@ -5,7 +5,6 @@ import os
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-from time import sleep
 
 def current_timestamp():
     '''
@@ -42,7 +41,6 @@ def repec_page(base, journal):
                 pass
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
-            # sleep(3)
             pass
 
 def repec_paper(base, page, journal):
@@ -73,7 +71,6 @@ def repec_paper(base, page, journal):
                     pass
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
-            # sleep(3)
             pass
     
     return urls
@@ -97,7 +94,6 @@ def download(base, paper):
             download = content.find('div', {'id': 'download'})
         except Exception as e:
             print(f'{current_timestamp()}: {e}')
-            # sleep(3)
             pass
 
     return download
@@ -127,7 +123,8 @@ def crossref(download, path):
                 pass
         except ValueError:
             print(f'DOI {paper} does not exist')
-    except AttributeError:
+    except Exception as e:
+        print(f'{current_timestamp()}: {e}')
         pass
 
 if __name__ == '__main__':
