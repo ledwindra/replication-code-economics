@@ -1,9 +1,8 @@
-name: Crossref
+name: "AEA: Microeconomics"
 
 on:
   schedule:
-    # run every 1 AM UTC
-    - cron: "0 1 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
     inputs:
       logLevel:
@@ -20,7 +19,7 @@ jobs:
         echo "Log level: ${{ github.event.inputs.logLevel }}"
         echo "Tags: ${{ github.event.inputs.tags }}"
   job_id:
-    name: Crossref
+    name: "AEA: Microeconomics"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -35,16 +34,7 @@ jobs:
     - name: Run script
       run: |
         # scrape AEA deposit
-        python src/crossref.py -j s/aea/aecrev
-        python src/crossref.py -j s/aea/jeclit
-        python src/crossref.py -j s/aea/jecper
-        python src/crossref.py -j s/eee/jfinec
-        python src/crossref.py -j s/kap/jecgro
-        python src/crossref.py -j s/oup/qjecon
-        python src/crossref.py -j s/oup/restud
-        python src/crossref.py -j s/oup/rfinst
-        python src/crossref.py -j s/ucp/jpolec
-        python src/crossref.py -j s/wly/emetrp
+        python src/aea.py -j mic
         
     - name: Commit changes
       env:
@@ -55,7 +45,7 @@ jobs:
         git config --global user.email ${USER_EMAIL}
         git config --global user.name ${USER_NAME}
         git remote set-url origin https://${USER_NAME}:${ACCESS_TOKEN}@github.com/${USER_NAME}/replication-code-economics.git
-        git add data/crossref/*
-        git diff-index --quiet HEAD || git commit -m "Added Crossref data"
+        git add data/aea/*
+        git diff-index --quiet HEAD || git commit -m "Added AEA deposit data"
         git pull --no-rebase origin main
         git push -u origin main

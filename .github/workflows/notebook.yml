@@ -44,7 +44,7 @@ jobs:
         git config --global user.email ${USER_EMAIL}
         git config --global user.name ${USER_NAME}
         git remote set-url origin https://${USER_NAME}:${ACCESS_TOKEN}@github.com/${USER_NAME}/replication-code-economics.git
-        #git add replication.ipynb img/*
-        #git diff-index --quiet HEAD || git commit -m "Updated total replication codes"
-        #git push -u origin main
-        git status
+        git add replication.ipynb img/*
+        git diff-index --quiet HEAD || git commit -m "Updated total replication codes"
+        git pull --no-rebase origin main
+        git push -u origin main
