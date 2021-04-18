@@ -19,7 +19,7 @@ The only metric that I use is total numbers of public repositories that use Stat
 ![replication-code-stata](./img/replication-code-stata.png)
 
 ## AEA Deposit on ICPSR
-American Economic Association deposits, where I scrape all of DOIs of each journal (nine in total). Then I compare the proportions of papers that have deposits in [Open Inter-university Consortium for Political and Social Research (ICPSR)](https://www.openicpsr.org/) to total papers published in AEA. The idea is to see the trends of replication over time so I don't have to hard-code the search process which I may overlook. Plot example as follows:
+American Economic Association deposits, where I scrape all of DOIs of each journal ([nine in total](https://www.aeaweb.org/journals)). Then I compare the proportions of papers that have deposits in [Open Inter-university Consortium for Political and Social Research (ICPSR)](https://www.openicpsr.org/) to total papers published in AEA. The idea is to see the trends of replication over time so I don't have to hard-code the search process which I may overlook. Plot example as follows:
 
 ![replication-code-stata](./img/aea-deposit-icpsr.png)
 
