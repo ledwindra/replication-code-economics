@@ -1,0 +1,586 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                8
+            ]
+        ],
+        "date-time": "2021-03-08T11:45:14Z",
+        "timestamp": 1615203914880
+    },
+    "reference-count": 35,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "7",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        16
+                    ]
+                ],
+                "date-time": "2019-09-16T00:00:00Z",
+                "timestamp": 1568592000000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>We provide a new framework for using text as data in empirical models. The framework identifies salient information in unstructured text that can control for multidimensional heterogeneity among assets. We demonstrate the efficacy of the framework by reexamining principal-agent problems in residential real estate markets. We show that the agent-owned premiums reported in the extant literature dissipate when the salient textual information is included. The results suggest the previously reported agent-owned premiums suffer from an omitted variable bias, which prior studies incorrectly ascribed to market distortions associated with asymmetric information. (JEL D82, G14, R00)</jats:p><jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhz096",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                8,
+                17
+            ]
+        ],
+        "date-time": "2019-08-17T05:12:31Z",
+        "timestamp": 1566018751000
+    },
+    "page": "2898-2936",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+        "Asymmetric or Incomplete Information about Asset Values?"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Crocker H",
+            "family": "Liu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Adam D",
+            "family": "Nowak",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "West Virginia University"
+                }
+            ]
+        },
+        {
+            "given": "Patrick S",
+            "family": "Smith",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "San Diego State University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                16
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020061508032693400_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.1016/j.jfineco.2011.07.005",
+            "article-title": "The role of securitization in mortgage renegotiation.",
+            "volume": "102",
+            "author": "Agarwal,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020061508032693400_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2369",
+            "DOI": "10.3982/ECTA9626",
+            "article-title": "Sparse models and methods for optimal instruments with an application to eminent domain.",
+            "volume": "80",
+            "author": "Belloni,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020061508032693400_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.3150/11-BEJ410",
+            "article-title": "Least squares after model selection in high-dimensional sparse models.",
+            "volume": "19",
+            "author": "Belloni,",
+            "year": "2013",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "2020061508032693400_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1093/restud/rdt044",
+            "article-title": "Inference on treatment effects after selection among high-dimensional controls.",
+            "volume": "81",
+            "author": "Belloni,",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2020061508032693400_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "623",
+            "DOI": "10.1017/S0022109015000411",
+            "article-title": "Using 10-k text to gauge financial constraints.",
+            "volume": "50",
+            "author": "Bodnaruk,",
+            "year": "2015",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020061508032693400_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2693",
+            "DOI": "10.1093/rfs/hhy007",
+            "article-title": "Are financial constraints priced? Evidence from textual analysis",
+            "volume": "31",
+            "author": "Buehlmaier,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020061508032693400_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2108",
+            "DOI": "10.1257/aer.101.5.2108",
+            "article-title": "Forced sales and house prices.",
+            "volume": "101",
+            "author": "Campbell,",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020061508032693400_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.1257/0002828041464489",
+            "article-title": "What\u2019s in a grade? school report cards and the housing market.",
+            "volume": "94",
+            "author": "Figlio,",
+            "year": "2004",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020061508032693400_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1093/rfs/hhg037",
+            "article-title": "Confronting information asymmetries: Evidence from real estate markets.",
+            "volume": "17",
+            "author": "Garmaise,",
+            "year": "2003",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020061508032693400_B10",
+            "author": "Gentzkow,",
+            "year": "2017",
+            "article-title": "Text as data",
+            "DOI": "10.3386/w23276",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020061508032693400_B11",
+            "first-page": "1370",
+            "article-title": "Accounting for taste: Art and the financial markets over three centuries.",
+            "volume": "83",
+            "author": "Goetzmann,",
+            "year": "1993",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020061508032693400_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1080/10835547.2014.12092089",
+            "article-title": "The impact of broker vernacular in residential real estate.",
+            "volume": "23",
+            "author": "Goodwin,",
+            "year": "2014",
+            "journal-title": "Journal of Housing Research"
+        },
+        {
+            "key": "2020061508032693400_B13",
+            "author": "Hastie,",
+            "year": "2015",
+            "journal-title": "Statistical learning with sparsity: the lasso and generalizations",
+            "DOI": "10.1201/b18401",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020061508032693400_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1312",
+            "DOI": "10.1093/rfs/hhu089",
+            "article-title": "Redefining financial constraints: A text-based analysis.",
+            "volume": "28",
+            "author": "Hoberg,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020061508032693400_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "712",
+            "DOI": "10.1016/j.jfineco.2013.08.018",
+            "article-title": "Word power: A new approach for content analysis.",
+            "volume": "110",
+            "author": "Jegadeesh,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020061508032693400_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1366",
+            "DOI": "10.1093/rfs/hhr134",
+            "article-title": "Testing asymmetric-information asset pricing models.",
+            "volume": "25",
+            "author": "Kelly,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020061508032693400_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "971",
+            "DOI": "10.1111/ajps.12291",
+            "article-title": "Computer-assisted keyword and document set discovery from unstructured text.",
+            "volume": "61",
+            "author": "King,",
+            "year": "2017",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2020061508032693400_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1007",
+            "DOI": "10.1093/rfs/hhv062",
+            "article-title": "Does it pay to invest in art? A selection-corrected returns perspective.",
+            "volume": "29",
+            "author": "Korteweg,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020061508032693400_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2429",
+            "DOI": "10.1093/rfs/hhv028",
+            "article-title": "Testing for information asymmetries in real estate markets.",
+            "volume": "28",
+            "author": "Kurlat,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020061508032693400_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "599",
+            "DOI": "10.1162/rest.90.4.599",
+            "article-title": "Market distortions when agents are better informed: The value of information in real estate transactions.",
+            "volume": "90",
+            "author": "Levitt,",
+            "year": "2008",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020061508032693400_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1111/j.1540-6261.2010.01625.x",
+            "article-title": "When is a liability not a liability? Textual analysis, dictionaries, and 10-Ks.",
+            "volume": "66",
+            "author": "Loughran,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020061508032693400_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1111/1475-679X.12123",
+            "article-title": "Textual analysis in accounting and finance: A survey.",
+            "volume": "54",
+            "author": "Loughran,",
+            "year": "2016",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2020061508032693400_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1111/1540-6229.00737",
+            "article-title": "Assessing the performance of real estate auctions.",
+            "volume": "26",
+            "author": "Mayer,",
+            "year": "1998",
+            "journal-title": "Real Estate Economics"
+        },
+        {
+            "key": "2020061508032693400_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1257/jep.31.2.87",
+            "article-title": "Machine learning: An applied econometric approach.",
+            "volume": "31",
+            "author": "Mullainathan,",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2020061508032693400_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "896",
+            "DOI": "10.1002/jae.2550",
+            "article-title": "Textual analysis in real estate.",
+            "volume": "32",
+            "author": "Nowak,",
+            "year": "2017",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2020061508032693400_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "928",
+            "DOI": "10.1162/REST_a_00038",
+            "article-title": "School quality and residential property values: Evidence from Vancouver rezoning.",
+            "volume": "92",
+            "author": "Ries,",
+            "year": "2010",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020061508032693400_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "627",
+            "DOI": "10.1016/j.jfineco.2004.06.006",
+            "article-title": "Conflicts between principals and agents: Evidence from residential brokerage.",
+            "volume": "76",
+            "author": "Rutherford,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020061508032693400_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1071",
+            "DOI": "10.1111/jofi.12288",
+            "article-title": "Asymmetric information about collateral values.",
+            "volume": "71",
+            "author": "Stroebel,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020061508032693400_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "755",
+            "DOI": "10.1080/01621459.2012.734168",
+            "article-title": "Multinomial inverse regression for text analysis.",
+            "volume": "108",
+            "author": "Taddy,",
+            "year": "2013",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020061508032693400_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.1111/j.1540-6261.2007.01232.x",
+            "article-title": "Giving content to investor sentiment: The role of media in the stock market.",
+            "volume": "62",
+            "author": "Tetlock,",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020061508032693400_B31",
+            "first-page": "267",
+            "article-title": "Regression shrinkage and selection via the lasso.",
+            "volume": "58",
+            "author": "Tibshirani,",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "key": "2020061508032693400_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1111/j.1540-6229.2010.00285.x",
+            "article-title": "Why do vacant houses sell for less: holding costs, bargaining power or stigma?",
+            "volume": "39",
+            "author": "Turnbull,",
+            "year": "2011",
+            "journal-title": "Real Estate Economics"
+        },
+        {
+            "key": "2020061508032693400_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "152",
+            "DOI": "10.1016/0094-1190(91)90033-4",
+            "article-title": "The impact of rental properties on the value of single-family residences.",
+            "volume": "30",
+            "author": "Wang,",
+            "year": "1991",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2020061508032693400_B34",
+            "author": "Young,",
+            "year": "2012",
+            "article-title": "Property condition.",
+            "journal-title": "Southern Nevada Realtor Magazine"
+        },
+        {
+            "key": "2020061508032693400_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1111/j.1467-9868.2005.00503.x",
+            "article-title": "Regularization and variable selection via the elastic net.",
+            "volume": "67",
+            "author": "Zou,",
+            "year": "2005",
+            "journal-title": "Journal of the Royal Statistical Society: Series B"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhz096/29190389/hhz096.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/7/2898/33389551/hhz096.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/7/2898/33389551/hhz096.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                16
+            ]
+        ],
+        "date-time": "2021-01-16T23:07:08Z",
+        "timestamp": 1610838428000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                16
+            ]
+        ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    16
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "issue": "7"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz096",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

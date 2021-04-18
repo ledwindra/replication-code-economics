@@ -1,0 +1,736 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                26
+            ]
+        ],
+        "date-time": "2021-03-26T08:23:52Z",
+        "timestamp": 1616747032120
+    },
+    "reference-count": 52,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        17
+                    ]
+                ],
+                "date-time": "2020-02-17T00:00:00Z",
+                "timestamp": 1581897600000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We use information from over 2 million trading strategies randomly generated using real data and from strategies that survive the publication process to infer the statistical properties of the set of strategies that could have been studied by researchers. Using this set, we compute $t$-statistic thresholds that control for multiple hypothesis testing, when searching for anomalies, at 3.8 and 3.4 for time-series and cross-sectional regressions, respectively. We estimate the expected proportion of false rejections that researchers would produce if they failed to account for multiple hypothesis testing to be about 45%.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa018",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                10
+            ]
+        ],
+        "date-time": "2020-02-10T20:11:01Z",
+        "timestamp": 1581365461000
+    },
+    "page": "2134-2179",
+    "source": "Crossref",
+    "is-referenced-by-count": 23,
+    "title": [
+        "Anomalies and False Rejections"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Tarun",
+            "family": "Chordia",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Goizueta Business School, Emory University"
+                }
+            ]
+        },
+        {
+            "given": "Amit",
+            "family": "Goyal",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Swiss Finance Institute, University of Lausanne"
+                }
+            ]
+        },
+        {
+            "given": "Alessio",
+            "family": "Saretto",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Jindal School of Management, University of Texas at Dallas"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020051311575782500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2667",
+            "DOI": "10.1111/jofi.12784",
+            "article-title": "Reassessing false discoveries in mutual fund performance: Skill, luck, or lack of power?",
+            "volume": "74",
+            "author": "Andrikogiannopoulou,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1111/jofi.12607",
+            "article-title": "Comparing asset pricing models",
+            "volume": "73",
+            "author": "Barillas,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1111/j.1540-6261.2009.01527.x",
+            "article-title": "False discoveries in mutual fund performance: Measuring luck in estimated alphas",
+            "volume": "65",
+            "author": "Barras,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.2517-6161.1995.tb02031.x",
+            "article-title": "Controlling the false discovery rate: A practical and powerful approach to multiple testing",
+            "volume": "57",
+            "author": "Benjamini,",
+            "year": "1995",
+            "journal-title": "Journal of the Royal Statistical Society, Series B (Methodological)"
+        },
+        {
+            "key": "2020051311575782500_B5",
+            "first-page": "1165",
+            "article-title": "The control of the false discovery rate in multiple testing under dependency",
+            "volume": "29",
+            "author": "Benjamini,",
+            "year": "2001",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311575782500_B6",
+            "author": "Bonferroni,",
+            "year": "1936",
+            "volume-title": "Teoria statistica delle classi e calcolo delle probabilit\u00e0"
+        },
+        {
+            "key": "2020051311575782500_B7",
+            "first-page": "345",
+            "article-title": "Alternative factor specifications, security characteristics, and the cross-section of expected stock returns",
+            "volume": "49",
+            "author": "Brennan,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575782500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.1111/j.1540-6261.2009.01550.x",
+            "article-title": "Performance and persistence in institutional investment management",
+            "volume": "65",
+            "author": "Busse,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B10",
+            "author": "Chang,",
+            "year": "2018",
+            "article-title": "Is economics research replicable? Sixty published papers from thirteen journals say \u201cOften Not.\u201d",
+            "volume-title": "Critical Finance Review",
+            "DOI": "10.1561/104.00000053",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "2020051311575782500_B11",
+            "author": "Chen,",
+            "year": "2019",
+            "volume-title": "Do t-stat hurdles need to be raised? Identification of publication bias in the cross-section of stock returns"
+        },
+        {
+            "key": "2020051311575782500_B12",
+            "author": "Chen,",
+            "year": "2019",
+            "article-title": "Publication bias and the cross-section of stock returns",
+            "volume-title": "Review of Asset Pricing Studies",
+            "DOI": "10.1093/rapstu/raz011",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "2020051311575782500_B13",
+            "author": "Chen,",
+            "year": "2019",
+            "article-title": "How many good and bad funds are there, really?",
+            "volume-title": "Handbook of financial economics, mathematics, statistics, and technology"
+        },
+        {
+            "key": "2020051311575782500_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1016/j.jacceco.2014.06.001",
+            "article-title": "Have capital market anomalies attenuated in the recent era of high liquidity and trading activity?",
+            "volume": "58",
+            "author": "Chordia,",
+            "year": "2014",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2020051311575782500_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1969",
+            "DOI": "10.1111/1540-6261.00594",
+            "article-title": "Value versus glamour",
+            "volume": "58",
+            "author": "Conrad,",
+            "year": "2003",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/j.jfineco.2015.12.002",
+            "article-title": "Momentum crashes",
+            "volume": "122",
+            "author": "Daniel,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575782500_B17",
+            "first-page": "587",
+            "article-title": "Replication in empirical economics: The Journal of Money, Credit, and Banking project",
+            "volume": "76",
+            "author": "Dewald,",
+            "year": "1986",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020051311575782500_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575782500_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1653",
+            "DOI": "10.1111/j.1540-6261.2008.01371.x",
+            "article-title": "Dissecting anomalies",
+            "volume": "63",
+            "author": "Fama,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1915",
+            "DOI": "10.1111/j.1540-6261.2010.01598.x",
+            "article-title": "Luck versus skill in the cross-section of mutual fund returns",
+            "volume": "65",
+            "author": "Fama,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575782500_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311575782500_B23",
+            "first-page": "591",
+            "article-title": "Assessing goodness-of-fit of asset pricing models: The distribution of the maximal R2",
+            "volume": "52",
+            "author": "Foster,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "4389",
+            "DOI": "10.1093/rfs/hhx019",
+            "article-title": "The characteristics that provide independent information about average U.S. monthly stock returns",
+            "volume": "30",
+            "author": "Green,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1408",
+            "DOI": "10.1198/016214506000000339",
+            "article-title": "Exceedance control of the false discovery proportion",
+            "volume": "101",
+            "author": "Genovese,",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020051311575782500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1399",
+            "DOI": "10.1111/jofi.12530",
+            "article-title": "The scientific outlook in financial economics",
+            "volume": "72",
+            "author": "Harvey,",
+            "year": "2017",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B27",
+            "author": "Harvey,",
+            "year": "2019",
+            "article-title": "False (and missed) discoveries in financial economics",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B28",
+            "author": "Harvey,",
+            "year": "2019",
+            "volume-title": "An evaluation of alternative multiple testing methods for finance application",
+            "DOI": "10.2139/ssrn.3480087",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575782500_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B30",
+            "first-page": "65",
+            "article-title": "A simple sequentially rejective multiple test procedure",
+            "volume": "6",
+            "author": "Holm,",
+            "year": "1979",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "key": "2020051311575782500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B32",
+            "author": "Hou,",
+            "first-page": "2019",
+            "year": "2020",
+            "article-title": "Replicating anomalies",
+            "volume-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "696",
+            "DOI": "10.1371/journal.pmed.0020124",
+            "article-title": "Why most published research findings are false",
+            "volume": "2",
+            "author": "Ioannidis,",
+            "year": "2005",
+            "journal-title": "PLoS Medicine"
+        },
+        {
+            "key": "2020051311575782500_B34",
+            "author": "Johnson,",
+            "year": "1994",
+            "edition": "2nd",
+            "volume-title": "Continuous univariate distributions 1"
+        },
+        {
+            "key": "2020051311575782500_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1016/j.jempfin.2004.02.004",
+            "article-title": "Momentum strategies: Some bootstrap tests",
+            "volume": "11",
+            "author": "Karolyi,",
+            "year": "2004",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2020051311575782500_B36",
+            "author": "Kennedy,",
+            "first-page": "1942",
+            "year": "1995",
+            "article-title": "Particle swarm optimization",
+            "volume-title": "Proceedings of the IEEE International Conference on Neural Networks",
+            "DOI": "10.1109/ICNN.1995.488968",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575782500_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2551",
+            "DOI": "10.1111/j.1540-6261.2006.01015.x",
+            "article-title": "Can mutual fund \u201cstars\u201d really pick stocks? New evidence from a bootstrap analysis",
+            "volume": "61",
+            "author": "Kosowski,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B38",
+            "first-page": "31",
+            "article-title": "Let\u2019s take the con out of econometrics",
+            "volume": "73",
+            "author": "Leamer,",
+            "year": "1983",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020051311575782500_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "2606",
+            "DOI": "10.1093/rfs/hhy030",
+            "article-title": "The history of the cross-section of stock returns",
+            "volume": "31",
+            "author": "Linnainmaa,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1093/rfs/3.3.431",
+            "article-title": "Data-snooping biases in tests of financial asset pricing models",
+            "volume": "3",
+            "author": "Lo,",
+            "year": "1990",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B41",
+            "author": "Martin,",
+            "year": "2019",
+            "volume-title": "Market efficiency in the age of big data",
+            "DOI": "10.3386/w26586",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575782500_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "873",
+            "DOI": "10.1257/000282803322157133",
+            "article-title": "Verifying the solution from a nonlinear solver: A case study",
+            "volume": "93",
+            "author": "McCullough,",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020051311575782500_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.12365",
+            "article-title": "Does academic research destroy stock return predictability?",
+            "volume": "71",
+            "author": "McLean,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "104",
+            "DOI": "10.1093/rfs/hhv063",
+            "article-title": "A taxonomy of anomalies and their trading costs",
+            "volume": "29",
+            "author": "Novy-Marx,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.1080/01621459.1994.10476870",
+            "article-title": "The stationary bootstrap",
+            "volume": "89",
+            "author": "Politis,",
+            "year": "1994",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020051311575782500_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "404",
+            "DOI": "10.1017/S0266466608080171",
+            "article-title": "Formalized data snooping based on generalized error rates",
+            "volume": "24",
+            "author": "Romano,",
+            "year": "2008",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2020051311575782500_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1468-0262.2005.00615.x",
+            "article-title": "Stepwise multiple testing as formalized data snooping",
+            "volume": "73",
+            "author": "Romano,",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311575782500_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1378",
+            "DOI": "10.1214/009053606000001622",
+            "article-title": "Control of generalized error rates in multiple testing",
+            "volume": "35",
+            "author": "Romano,",
+            "year": "2007",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311575782500_B49",
+            "author": "Schwert,",
+            "first-page": "939",
+            "year": "2003",
+            "article-title": "Anomalies and market efficiency",
+            "volume-title": "Handbook of the economics of finance, vol. 1B"
+        },
+        {
+            "key": "2020051311575782500_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1647",
+            "DOI": "10.1111/0022-1082.00163",
+            "article-title": "Data-snooping, technical trading rule performance, and the bootstrap",
+            "volume": "54",
+            "author": "Sullivan,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575782500_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1382",
+            "DOI": "10.1093/rfs/hhx001",
+            "article-title": "Fundamental analysis and the cross-section of stock returns: A data-mining approach",
+            "volume": "30",
+            "author": "Yan,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575782500_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1097",
+            "DOI": "10.1111/1468-0262.00152",
+            "article-title": "A reality check for data snooping",
+            "volume": "68",
+            "author": "White,",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa018/32784464/hhaa018.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2134/33209805/hhaa018.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2134/33209805/hhaa018.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                14
+            ]
+        ],
+        "date-time": "2020-05-14T02:41:07Z",
+        "timestamp": 1589424067000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                17
+            ]
+        ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa018",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

@@ -1,0 +1,932 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                9
+            ]
+        ],
+        "date-time": "2021-03-09T20:45:32Z",
+        "timestamp": 1615322732860
+    },
+    "reference-count": 67,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "9",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        12,
+                        20
+                    ]
+                ],
+                "date-time": "2019-12-20T00:00:00Z",
+                "timestamp": 1576800000000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a conditional capital asset pricing model in continuous time that allows for stochastic beta exposure. When beta comoves with market variance and the stochastic discount factor (SDF), beta risk is priced, and the expected return on a stock deviates from the security market line. The model predicts that low-beta stocks earn high returns, because their beta positively comoves with market variance and the SDF. The opposite is true for high-beta stocks. Estimating the model on equity and option data, we find that beta risk explains expected returns on low- and high-beta stocks, resolving the \u201cbetting against beta\u201d anomaly.</jats:p>\n               <jats:p>Authors have furnished code and an Internet Appendix, which are available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhz139",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                22
+            ]
+        ],
+        "date-time": "2019-11-22T20:09:39Z",
+        "timestamp": 1574453379000
+    },
+    "page": "4318-4366",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Beta Risk in the Cross-Section of Equities"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Ali",
+            "family": "Boloorforoosh",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "TDAM and Concordia University"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Christoffersen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto and Copenhagen Business School"
+                }
+            ]
+        },
+        {
+            "given": "Mathieu",
+            "family": "Fournier",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "HEC Montr\u00e9al"
+                }
+            ]
+        },
+        {
+            "given": "Christian",
+            "family": "Gouri\u00e9roux",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto and CREST"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                12,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020082411270777900_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2279",
+            "DOI": "10.1111/jofi.12181",
+            "article-title": "The joint cross section of stocks and options",
+            "volume": "69",
+            "author": "An,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1081",
+            "DOI": "10.3982/ECTA10719",
+            "article-title": "Parametric inference and dynamic state recovery from option panels",
+            "volume": "83",
+            "author": "Andersen,",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270777900_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.1093/rfs/hhj035",
+            "article-title": "Downside risk",
+            "volume": "19",
+            "author": "Ang,",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1093/rfs/16.1.0101",
+            "article-title": "Stock return characteristics, skew laws, and the differential pricing of individual equity options",
+            "volume": "16",
+            "author": "Bakshi,",
+            "year": "2003",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1016/j.jfineco.2007.03.002",
+            "article-title": "The intertemporal relation between expected returns and risk",
+            "volume": "87",
+            "author": "Bali,",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "3760",
+            "DOI": "10.1287/mnsc.2016.2536",
+            "article-title": "Dynamic conditional beta is alive and well in the cross-section of daily stock returns",
+            "volume": "63",
+            "author": "Bali,",
+            "year": "2017",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2020082411270777900_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "707",
+            "DOI": "10.1017/S0022109016000417",
+            "article-title": "Risk, uncertainty, and expected returns",
+            "volume": "51",
+            "author": "Bali,",
+            "year": "2016",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020082411270777900_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1111/j.1540-6261.2004.00670.x",
+            "article-title": "Risk for the long run: A potential resolution of asset pricing puzzles",
+            "volume": "59",
+            "author": "Bansal,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2291",
+            "DOI": "10.1016/j.jedc.2007.09.020",
+            "article-title": "The market for crash risk",
+            "volume": "32",
+            "author": "Bates,",
+            "year": "2008",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2020082411270777900_B10",
+            "author": "B\u00e9gin,",
+            "year": "2019",
+            "article-title": "Idiosyncratic jump risk matters: Evidence from equity returns and options",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1016/0304-405X(76)90024-6",
+            "article-title": "The pricing of commodity contracts",
+            "volume": "3",
+            "author": "Black,",
+            "year": "1976",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B12",
+            "author": "Black,",
+            "first-page": "79",
+            "year": "1972",
+            "volume-title": "Studies in the theory of capital markets"
+        },
+        {
+            "key": "2020082411270777900_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "464",
+            "DOI": "10.1016/j.jfineco.2016.02.001",
+            "article-title": "Roughing up beta: Continuous versus discontinuous betas and the cross section of expected stock returns",
+            "volume": "120",
+            "author": "Bollerslev,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "4463",
+            "DOI": "10.1093/rfs/hhp008",
+            "article-title": "Expected stock returns and variance risk premia",
+            "volume": "22",
+            "author": "Bollerslev,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2165",
+            "DOI": "10.1111/j.1540-6261.2011.01695.x",
+            "article-title": "Tails, fears, and risk premia",
+            "volume": "66",
+            "author": "Bollerslev,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/j.jfineco.2015.02.010",
+            "article-title": "Tail risk premia and return predictability",
+            "volume": "118",
+            "author": "Bollerslev,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "725",
+            "DOI": "10.1007/BF01259552",
+            "article-title": "Wishart processes",
+            "volume": "4",
+            "author": "Bru,",
+            "year": "1991",
+            "journal-title": "Journal of Theoretical Probability"
+        },
+        {
+            "key": "2020082411270777900_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.1111/j.1540-6261.2009.01533.x",
+            "article-title": "Correlation risk and optimal portfolio choice",
+            "volume": "65",
+            "author": "Buraschi,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B19",
+            "author": "Buss,"
+        },
+        {
+            "key": "2020082411270777900_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "3113",
+            "DOI": "10.1093/rfs/hhs087",
+            "article-title": "Measuring equity risk with option-implied correlations",
+            "volume": "25",
+            "author": "Buss,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1016/j.jfineco.2018.02.011",
+            "article-title": "An intertemporal CAPM with stochastic volatility",
+            "volume": "128",
+            "author": "Campbell,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1311",
+            "DOI": "10.1093/rfs/hhn038",
+            "article-title": "Variance risk premiums",
+            "volume": "22",
+            "author": "Carr,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "737",
+            "DOI": "10.1111/jofi.12383",
+            "article-title": "Does it pay to bet against beta? On the conditional performance of the beta anomaly",
+            "volume": "71",
+            "author": "Cederburg,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1093/rof/rfq029",
+            "article-title": "Option-implied measures of equity risk",
+            "volume": "16",
+            "author": "Chang,",
+            "year": "2012",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2020082411270777900_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "407",
+            "DOI": "10.1016/0304-405X(82)90018-6",
+            "article-title": "The stochastic behavior of common stock variances: Value, leverage and interest rate effects",
+            "volume": "10",
+            "author": "Christie,",
+            "year": "1982",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1093/rfs/hhx089",
+            "article-title": "The factor structure in equity options",
+            "volume": "31",
+            "author": "Christoffersen,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "3141",
+            "DOI": "10.1093/rfs/hhq032",
+            "article-title": "Volatility dynamics for the S&P 500: Evidence from realized volatility, daily returns, and option prices",
+            "volume": "23",
+            "author": "Christoffersen,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1609",
+            "DOI": "10.1080/14697688.2011.615218",
+            "article-title": "Riding on the smiles",
+            "volume": "11",
+            "author": "Da Fonseca,",
+            "year": "2011",
+            "journal-title": "Quantitative Finance"
+        },
+        {
+            "key": "2020082411270777900_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1007/s11147-008-9018-x",
+            "article-title": "Option pricing when correlations are stochastic: An analytical framework",
+            "volume": "10",
+            "author": "Da Fonseca,",
+            "year": "2007",
+            "journal-title": "Review of Derivatives Research"
+        },
+        {
+            "key": "2020082411270777900_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.1111/j.1540-6261.1987.tb04569.x",
+            "article-title": "Further evidence on investor overreaction and stock market seasonality",
+            "volume": "42",
+            "author": "De Bondt,",
+            "year": "1987",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1377",
+            "DOI": "10.1111/j.1540-6261.2009.01467.x",
+            "article-title": "The price of correlation risk: Evidence from equity options",
+            "volume": "64",
+            "author": "Driessen,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1198/073500102288618487",
+            "article-title": "Dynamic conditional correlation: A simple class of multivariate generalized autoregressive conditional heteroskedasticity models",
+            "volume": "20",
+            "author": "Engle,",
+            "year": "2002",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2020082411270777900_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/jjfinec/nbw006",
+            "article-title": "Dynamic conditional beta",
+            "volume": "14",
+            "author": "Engle,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2020082411270777900_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "DOI": "10.1080/07350015.2011.652048",
+            "article-title": "Dynamic equicorrelation",
+            "volume": "30",
+            "author": "Engle,",
+            "year": "2012",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2020082411270777900_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1367",
+            "DOI": "10.1111/j.1540-6261.2004.00666.x",
+            "article-title": "Do stock prices and volatility jump? Reconciling evidence from spot and option prices",
+            "volume": "59",
+            "author": "Eraker,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1257/0895330042162430",
+            "article-title": "The capital asset pricing model: Theory and evidence",
+            "volume": "18",
+            "author": "Fama,",
+            "year": "1992",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2020082411270777900_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.10.005",
+            "article-title": "Betting against beta",
+            "volume": "111",
+            "author": "Frazzini,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1181",
+            "DOI": "10.3982/ECTA7192",
+            "article-title": "Efficient derivative pricing by the extended method of moments",
+            "volume": "79",
+            "author": "Gagliardini,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270777900_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1111/0022-1082.224803",
+            "article-title": "On stable factor structures in the pricing of risk: do time-varying betas help or hurt?",
+            "volume": "53",
+            "author": "Ghysels,",
+            "year": "1998",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1093/rapstu/rau001",
+            "article-title": "Daily data is bad for beta: Opacity and frequency dependent betas",
+            "volume": "4",
+            "author": "Gilbert,",
+            "year": "2014",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2020082411270777900_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "177",
+            "DOI": "10.1080/07474930600713234",
+            "article-title": "Continuous time Wishart process for stochastic risk",
+            "volume": "25",
+            "author": "Gouri\u00e9roux,",
+            "year": "2006",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "2020082411270777900_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1002/jae.3950080507",
+            "article-title": "Indirect inference",
+            "volume": "8",
+            "author": "Gouri\u00e9roux,",
+            "year": "1993",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2020082411270777900_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1093/jjfinec/nbj003",
+            "article-title": "A classification of two-factor affine diffusion term structure models",
+            "volume": "4",
+            "author": "Gouri\u00e9roux,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2020082411270777900_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1007/s11408-011-0177-7",
+            "article-title": "Empirical cross-sectional asset pricing: A survey",
+            "volume": "26",
+            "author": "Goyal,",
+            "year": "2012",
+            "journal-title": "Financial Markets and Portfolio Management"
+        },
+        {
+            "key": "2020082411270777900_B45",
+            "author": "Gruber,",
+            "year": "2015",
+            "volume-title": "The price of the smile and variance risk premia",
+            "DOI": "10.2139/ssrn.2648288",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020082411270777900_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.1093/rfs/6.2.327",
+            "article-title": "A closed-form solution for options with stochastic volatility with applications to bond and currency options",
+            "volume": "6",
+            "author": "Heston,",
+            "year": "1993",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/j.1540-6261.1996.tb05201.x",
+            "article-title": "The conditional CAPM and the cross-section of expected returns",
+            "volume": "51",
+            "author": "Jagannathan,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1278",
+            "DOI": "10.1257/aer.20120389",
+            "article-title": "Too-systemic-to-fail: What option markets imply about sector-wide government guarantees",
+            "volume": "106",
+            "author": "Kelly,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020082411270777900_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1257/aer.100.2.552",
+            "article-title": "Long run risk, the wealth-consumption ratio, and the temporal pricing of risk",
+            "volume": "100",
+            "author": "Koijen,",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020082411270777900_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1238",
+            "DOI": "10.1086/323282",
+            "article-title": "Resurrecting the (C)CAPM: A cross-sectional test when risk premia are time-varying",
+            "volume": "109",
+            "author": "Lettau,",
+            "year": "2001",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020082411270777900_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1016/j.jfineco.2005.05.012",
+            "article-title": "The conditional CAPM does not explain asset-pricing anomalies",
+            "volume": "82",
+            "author": "Lewellen,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.2307/1924119",
+            "article-title": "The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets",
+            "volume": "47",
+            "author": "Lintner,",
+            "year": "1965",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020082411270777900_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2018.01.003",
+            "article-title": "Absolving beta of volatility\u2019s effects",
+            "volume": "128",
+            "author": "Liu,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1167",
+            "DOI": "10.1111/j.1540-6261.2005.00759.x",
+            "article-title": "Housing collateral, consumption insurance, and risk premia: An empirical perspective",
+            "volume": "60",
+            "author": "Lustig,",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B55",
+            "author": "Mayerhofer,",
+            "year": "2012",
+            "journal-title": "Wishart processes and Wishart distributions: An affine processes point of view"
+        },
+        {
+            "key": "2020082411270777900_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "768",
+            "DOI": "10.2307/1910098",
+            "article-title": "Equilibrium in a capital asset market",
+            "volume": "34",
+            "author": "Mossin,",
+            "year": "1966",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270777900_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1146/annurev-financial-110112-121009",
+            "article-title": "Empirical cross-sectional asset pricing",
+            "volume": "5",
+            "author": "Nagel,",
+            "year": "2013",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "873",
+            "DOI": "10.1111/j.1540-6261.2011.01654.x",
+            "article-title": "Estimation and evaluation of conditional asset pricing models",
+            "volume": "66",
+            "author": "Nagel,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/S0304-405X(01)00088-5",
+            "article-title": "The jump-risk premia implicit in options: Evidence from an integrated time-series study",
+            "volume": "63",
+            "author": "Pan,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "2789",
+            "DOI": "10.1093/rfs/hhs073",
+            "article-title": "Does beta move with news? Firm-specific information flows and learning about profitability",
+            "volume": "25",
+            "author": "Patton,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1016/j.jfineco.2004.12.001",
+            "article-title": "Is value riskier than growth?",
+            "volume": "78",
+            "author": "Petkova,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270777900_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.1111/j.1467-9965.1996.tb00117.x",
+            "article-title": "Option hedging and applied volatilities in a stochastic volatility model",
+            "volume": "6",
+            "author": "Renault,",
+            "year": "1996",
+            "journal-title": "Mathematical Finance"
+        },
+        {
+            "key": "2020082411270777900_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhj006",
+            "article-title": "Labor income and predictable stock returns",
+            "volume": "19",
+            "author": "Santos,",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270777900_B64",
+            "author": "Serban,",
+            "year": "2008",
+            "journal-title": "Cross-sectional stock option pricing and factor models of returns"
+        },
+        {
+            "key": "2020082411270777900_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/0304-4076(90)90095-B",
+            "article-title": "Intertemporal asset pricing: An empirical investigation",
+            "volume": "45",
+            "author": "Shanken,",
+            "year": "1990",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270777900_B66",
+            "first-page": "425",
+            "article-title": "Capital asset prices: A theory of market equilibrium under conditions of risk",
+            "volume": "19",
+            "author": "Sharpe,",
+            "year": "1964",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270777900_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1093/rfs/hhp035",
+            "article-title": "Variance risk-premium dynamics: The role of jumps",
+            "volume": "23",
+            "author": "Todorov,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhz139/31627239/hhz139.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/9/4318/33678043/hhz139.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/9/4318/33678043/hhz139.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                24
+            ]
+        ],
+        "date-time": "2020-08-24T15:27:50Z",
+        "timestamp": 1598282870000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                12,
+                20
+            ]
+        ]
+    },
+    "references-count": 67,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    12,
+                    20
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    1
+                ]
+            ]
+        },
+        "issue": "9"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz139",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

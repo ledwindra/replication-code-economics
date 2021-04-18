@@ -1,0 +1,133 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                23
+            ]
+        ],
+        "date-time": "2020-09-23T08:01:09Z",
+        "timestamp": 1600848069484
+    },
+    "reference-count": 52,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "funder": [
+        {
+            "DOI": "10.13039/501100006447",
+            "name": "Universit\u00e4t Z\u00fcrich",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/501100003006",
+            "name": "Eidgen\u00f6ssische Technische Hochschule Z\u00fcrich",
+            "doi-asserted-by": "publisher",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper analyzes a procedure called Testing\u2010Based Forward Model Selection (TBFMS) in linear regression problems. This procedure inductively selects covariates that add predictive power into a working statistical model before estimating a final regression. The criterion for deciding which covariate to include next and when to stop including covariates is derived from a profile of traditional statistical hypothesis tests. This paper proves probabilistic bounds, which depend on the quality of the tests, for prediction error and the number of selected covariates. As an example, the bounds are then specialized to a case with heteroscedastic data, with tests constructed with the help of Huber\u2013Eicker\u2013White standard errors. Under the assumed regularity conditions, these tests lead to estimation convergence rates matching other common high\u2010dimensional estimators including Lasso.</jats:p>",
+    "DOI": "10.3982/ecta16273",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                21
+            ]
+        ],
+        "date-time": "2020-09-21T12:02:27Z",
+        "timestamp": 1600689747000
+    },
+    "page": "2147-2173",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Analysis of Testing\u2010Based Forward Model Selection"
+    ],
+    "prefix": "10.3982",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Damian",
+            "family": "Kozbur",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Z\u00fcrich"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                21
+            ]
+        ],
+        "date-time": "2020-09-21T12:08:20Z",
+        "timestamp": 1600690100000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "alternative-id": [
+        "10.3982/ECTA16273"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16273",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

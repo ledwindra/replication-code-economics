@@ -1,0 +1,137 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T10:14:35Z",
+        "timestamp": 1615803275098
+    },
+    "reference-count": 22,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "URL": "https://creativecommons.org/licenses/by/4.0/",
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2021-01-01T00:00:00Z",
+                "timestamp": 1609459200000
+            },
+            "delay-in-days": 0,
+            "content-version": "unspecified"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We provide general formulation of weak identification in semiparametric models and an efficiency concept. Weak identification occurs when a parameter is weakly regular, that is, when it is locally homogeneous of degree zero. When this happens, consistent or equivariant estimation is shown to be impossible. We then show that there exists an underlying regular parameter that fully characterizes the weakly regular parameter. While this parameter is not unique, concepts of sufficiency and minimality help pin down a desirable one. If estimation of minimal sufficient underlying parameters is inefficient, it introduces noise in the corresponding estimation of weakly regular parameters, whence we can improve the estimators by local asymptotic Rao\u2013Blackwellization. We call an estimator weakly efficient if it does not admit such improvement. New weakly efficient estimators are presented in linear IV and nonlinear regression models. Simulation of a linear IV model demonstrates how 2SLS and optimal IV estimators are improved.</jats:p>",
+    "DOI": "10.3982/ecta16413",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T09:42:01Z",
+        "timestamp": 1615801321000
+    },
+    "page": "733-763",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Theory of Weak Identification in Semiparametric Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Tetsuya",
+            "family": "Kaji",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Booth School of Business"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T09:49:15Z",
+        "timestamp": 1615801755000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 22,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "alternative-id": [
+        "10.3982/ECTA16413"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16413",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

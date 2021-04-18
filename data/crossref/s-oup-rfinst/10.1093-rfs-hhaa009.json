@@ -1,0 +1,845 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                9
+            ]
+        ],
+        "date-time": "2021-04-09T15:04:45Z",
+        "timestamp": 1617980685400
+    },
+    "reference-count": 66,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        26
+                    ]
+                ],
+                "date-time": "2020-02-26T00:00:00Z",
+                "timestamp": 1582675200000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We perform a comparative analysis of machine learning methods for the canonical problem of empirical asset pricing: measuring asset risk premiums. We demonstrate large economic gains to investors using machine learning forecasts, in some cases doubling the performance of leading regression-based strategies from the literature. We identify the best-performing methods (trees and neural networks) and trace their predictive gains to allowing nonlinear predictor interactions missed by other methods. All methods agree on the same set of dominant predictive signals, a set that includes variations on momentum, liquidity, and volatility.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa009",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                20
+            ]
+        ],
+        "date-time": "2020-02-20T20:13:42Z",
+        "timestamp": 1582229622000
+    },
+    "page": "2223-2273",
+    "source": "Crossref",
+    "is-referenced-by-count": 89,
+    "title": [
+        "Empirical Asset Pricing via Machine Learning"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Shihao",
+            "family": "Gu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Bryan",
+            "family": "Kelly",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale University, AQR Capital Management, and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Dacheng",
+            "family": "Xiu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                26
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020051311580351900_B1",
+            "author": "Bishop,",
+            "year": "1995",
+            "volume-title": "Neural networks for pattern recognition"
+        },
+        {
+            "key": "2020051311580351900_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "318",
+            "DOI": "10.1093/biomet/40.3-4.318",
+            "article-title": "Non-normality and tests on variances",
+            "volume": "40",
+            "author": "Box,",
+            "year": "1953",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2020051311580351900_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman,",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2020051311580351900_B4",
+            "author": "Breiman,",
+            "year": "1984",
+            "volume-title": "Classification and regression trees"
+        },
+        {
+            "key": "2020051311580351900_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.1016/j.jbankfin.2016.07.015",
+            "article-title": "Risk and risk management in the credit card industry",
+            "volume": "72",
+            "author": "Butaru,",
+            "year": "2016",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2020051311580351900_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1509",
+            "DOI": "10.1093/rfs/hhm055",
+            "article-title": "Predicting excess stock returns out of sample: Can anything beat the historical average?",
+            "volume": "21",
+            "author": "Campbell,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1533",
+            "DOI": "10.1093/rfs/hhm046",
+            "article-title": "The dog that did not bark: A defense of return predictability",
+            "volume": "21",
+            "author": "Cochrane,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1007/BF02551274",
+            "article-title": "Approximation by superpositions of a sigmoidal function",
+            "volume": "2",
+            "author": "Cybenko,",
+            "year": "1989",
+            "journal-title": "Mathematics of Control, Signals and Systems"
+        },
+        {
+            "key": "2020051311580351900_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/0169-7439(93)85002-X",
+            "article-title": "SIMPLS: An alternative approach to partial least squares regression",
+            "volume": "18",
+            "author": "de Jong,",
+            "year": "1993",
+            "journal-title": "Chemometrics and Intelligent Laboratory Systems"
+        },
+        {
+            "key": "2020051311580351900_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/07350015.2014.983236",
+            "article-title": "Comparing Predictive Accuracy, Twenty Years Later: A Personal Perspective on the Use and Abuse of Diebold-Mariano Tests",
+            "volume": "33",
+            "author": "Diebold,",
+            "year": "2015",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2020051311580351900_B11",
+            "first-page": "134",
+            "article-title": "Comparing Predictive Accuracy",
+            "volume": "13",
+            "author": "Diebold,",
+            "year": "1995",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2020051311580351900_B12",
+            "author": "Dietterich,",
+            "first-page": "1",
+            "year": "2000",
+            "article-title": "Ensemble methods in machine learning",
+            "volume-title": "International workshop on multiple classier systems",
+            "DOI": "10.1007/3-540-45014-9_1",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580351900_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/BF02309007",
+            "article-title": "Use of some sensitivity criteria for choosing networks with good generalization ability",
+            "volume": "2",
+            "author": "Dimopoulos,",
+            "year": "1995",
+            "journal-title": "Neural Processing Letters"
+        },
+        {
+            "key": "2020051311580351900_B14",
+            "author": "Eldan,",
+            "first-page": "907",
+            "year": "2016",
+            "article-title": "The power of depth for feedforward neural networks",
+            "volume-title": "29th Annual Conference on Learning Theory"
+        },
+        {
+            "key": "2020051311580351900_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580351900_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1653",
+            "DOI": "10.1111/j.1540-6261.2008.01371.x",
+            "article-title": "Dissecting anomalies",
+            "volume": "63",
+            "author": "Fama,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580351900_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580351900_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1111/rssb.12166",
+            "article-title": "Estimation of high dimensional mean regression in the absence of symmetry and light tail assumptions",
+            "volume": "79",
+            "author": "Fan,",
+            "year": "2017",
+            "journal-title": "Journal of the Royal Statistical Society, Series B"
+        },
+        {
+            "key": "2020051311580351900_B19",
+            "author": "Feng,",
+            "year": "",
+            "article-title": "Taming the factor zoo: A test of new factors",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580351900_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "256",
+            "DOI": "10.1006/inco.1995.1136",
+            "article-title": "Boosting a Weak Learning Algorithm by Majority",
+            "volume": "121",
+            "author": "Freund,",
+            "year": "1995",
+            "journal-title": "Information and Computation"
+        },
+        {
+            "key": "2020051311580351900_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/rfs/hhz123",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "volume": "33",
+            "author": "Freyberger,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B22",
+            "first-page": "1189",
+            "article-title": "Greedy function approximation: A gradient boosting machine",
+            "volume": "5",
+            "author": "Friedman,",
+            "year": "2001",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580351900_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "337",
+            "DOI": "10.1214/aos/1016218223",
+            "article-title": "Additive logistic regression: A statistical view of boosting",
+            "volume": "28",
+            "author": "Friedman,",
+            "year": "2000",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580351900_B24",
+            "author": "Giglio,",
+            "year": "2016",
+            "volume-title": "Asset Pricing with Omitted Factors"
+        },
+        {
+            "key": "2020051311580351900_B25",
+            "author": "Glorot,",
+            "first-page": "315",
+            "year": "2011",
+            "article-title": "Deep Sparse Rectifier Neural Networks",
+            "volume-title": "Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics"
+        },
+        {
+            "key": "2020051311580351900_B26",
+            "author": "Goodfellow,",
+            "year": "2016",
+            "volume-title": "Deep learning"
+        },
+        {
+            "key": "2020051311580351900_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "692",
+            "DOI": "10.1007/s11142-013-9231-1",
+            "article-title": "The supraview of return predictive signals",
+            "volume": "18",
+            "author": "Green,",
+            "year": "2013",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2020051311580351900_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "4389",
+            "DOI": "10.1093/rfs/hhx019",
+            "article-title": "The characteristics that provide independent information about average us monthly stock returns",
+            "volume": "30",
+            "author": "Green,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B29",
+            "author": "Gu,",
+            "year": "2019",
+            "volume-title": "Autoencoder asset pricing models"
+        },
+        {
+            "key": "2020051311580351900_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "993",
+            "DOI": "10.1109/34.58871",
+            "article-title": "Neural network ensembles",
+            "volume": "12",
+            "author": "Hansen,",
+            "year": "1990",
+            "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        },
+        {
+            "key": "2020051311580351900_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1325",
+            "DOI": "10.1111/0022-1082.00148",
+            "article-title": "Conditioning variables and the cross-section of stock returns",
+            "volume": "54",
+            "author": "Harvey,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580351900_B32",
+            "author": "Harvey,",
+            "year": "2016",
+            "volume-title": "Lucky factors"
+        },
+        {
+            "key": "2020051311580351900_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... And the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B34",
+            "author": "Hastie,",
+            "year": "2009",
+            "volume-title": "The elements of statistical learning",
+            "DOI": "10.1007/978-0-387-84858-7",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580351900_B35",
+            "author": "He,",
+            "first-page": "770",
+            "year": "2016",
+            "article-title": "Deep Residual Learning for Image Recognition",
+            "volume-title": "2016 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2016",
+            "DOI": "10.1109/CVPR.2016.90",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580351900_B36",
+            "author": "Heaton,",
+            "year": "2016",
+            "journal-title": "Deep learning in finance"
+        },
+        {
+            "key": "2020051311580351900_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1527",
+            "DOI": "10.1162/neco.2006.18.7.1527",
+            "article-title": "A fast learning algorithm for deep belief nets",
+            "volume": "18",
+            "author": "Hinton,",
+            "year": "2006",
+            "journal-title": "Neural Computation"
+        },
+        {
+            "key": "2020051311580351900_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.1016/0893-6080(89)90020-8",
+            "article-title": "Multilayer feedforward networks are universal approximators",
+            "volume": "2",
+            "author": "Hornik,",
+            "year": "1989",
+            "journal-title": "Neural Networks"
+        },
+        {
+            "key": "2020051311580351900_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1214/aoms/1177703732",
+            "article-title": "Robust estimation of a location parameter",
+            "volume": "35",
+            "author": "Huber,",
+            "year": "1964",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2020051311580351900_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "851",
+            "DOI": "10.1111/j.1540-6261.1994.tb00081.x",
+            "article-title": "A nonparametric approach to pricing and hedging derivative securities via learning networks",
+            "volume": "49",
+            "author": "Hutchinson,",
+            "year": "1994",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580351900_B41",
+            "author": "Ioffe,",
+            "first-page": "448",
+            "year": "2015",
+            "article-title": "Batch normalization: Accelerating deep network training by reducing internal covariate shift",
+            "volume-title": "Proceedings of the 32nd International Conference on International Conference on Machine Learning"
+        },
+        {
+            "key": "2020051311580351900_B42",
+            "author": "Jaggi,",
+            "first-page": "1",
+            "year": "2013",
+            "article-title": "An equivalence between the lasso and support vector machines",
+            "volume-title": "Regularization, optimization, kernels, and support vector machines"
+        },
+        {
+            "key": "2020051311580351900_B43",
+            "author": "Jarrett,",
+            "first-page": "2146",
+            "year": "2009",
+            "article-title": "What is the best multi-stage architecture for object recognition?",
+            "volume-title": "2009 IEEE 12th International Conference on Computer Vision",
+            "DOI": "10.1109/ICCV.2009.5459469",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580351900_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1721",
+            "DOI": "10.1111/jofi.12060",
+            "article-title": "Market expectations in the cross-section of present values",
+            "volume": "68",
+            "author": "Kelly,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580351900_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "294",
+            "DOI": "10.1016/j.jeconom.2015.02.011",
+            "article-title": "The three-pass regression filter: A new approach to forecasting using many predictors",
+            "volume": "186",
+            "author": "Kelly,",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020051311580351900_B46",
+            "author": "Kelly,",
+            "year": "2019",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "journal-title": "Journal of Financial Economics",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580351900_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "2767",
+            "DOI": "10.1016/j.jbankfin.2010.06.001",
+            "article-title": "Consumer credit-risk models via machine-learning algorithms",
+            "volume": "34",
+            "author": "Khandani,",
+            "year": "2010",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2020051311580351900_B48",
+            "author": "Kingma,",
+            "year": "2014",
+            "journal-title": "Adam: A method for stochastic optimization"
+        },
+        {
+            "key": "2020051311580351900_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1146/annurev-financial-102710-144905",
+            "article-title": "Predictability of Returns and Cash Flows",
+            "volume": "3",
+            "author": "Koijen,",
+            "year": "2011",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2020051311580351900_B50",
+            "author": "Kozak,",
+            "year": "2019",
+            "volume-title": "Kernel trick for the cross section",
+            "DOI": "10.2139/ssrn.3307895",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580351900_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1016/j.jfineco.2019.06.008",
+            "article-title": "Shrinking the cross section",
+            "volume": "135",
+            "author": "Kozak,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580351900_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/104.00000024",
+            "article-title": "The Cross-section of Expected Stock Returns",
+            "volume": "4",
+            "author": "Lewellen,",
+            "year": "2015",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2020051311580351900_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1093/rfs/3.3.431",
+            "article-title": "Data-snooping biases in tests of financial asset pricing models",
+            "volume": "3",
+            "author": "Lo,",
+            "year": "1990",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B54",
+            "author": "Masters,",
+            "year": "1993",
+            "volume-title": "Practical neural network recipes in C++"
+        },
+        {
+            "key": "2020051311580351900_B55",
+            "author": "Moritz,",
+            "year": "2016",
+            "volume-title": "Tree-based conditional portfolio sorts: The relation between past and future stock returns"
+        },
+        {
+            "key": "2020051311580351900_B56",
+            "author": "Nair,",
+            "first-page": "807",
+            "year": "2010",
+            "article-title": "Rectified linear units improve restricted boltzmann machines",
+            "volume-title": "Proceedings of the 27th International Conference on Machine Learning (ICML-10)"
+        },
+        {
+            "key": "2020051311580351900_B57",
+            "author": "Rapach,",
+            "first-page": "328",
+            "year": "2013",
+            "article-title": "Forecasting stock returns",
+            "volume-title": "Handbook of economic forecasting"
+        },
+        {
+            "key": "2020051311580351900_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.1111/jofi.12041",
+            "article-title": "International stock return predictability: What is the role of the United States?",
+            "volume": "68",
+            "author": "Rapach,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580351900_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.2307/2330104",
+            "article-title": "Extra-Market Components of Covariance in Security Returns",
+            "volume": "9",
+            "author": "Rosenberg,",
+            "year": "1974",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020051311580351900_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1007/BF00116037",
+            "article-title": "The Strength of Weak Learnability",
+            "volume": "5",
+            "author": "Schapire,",
+            "year": "1990",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2020051311580351900_B61",
+            "author": "Sirignano,",
+            "year": "2016",
+            "volume-title": "Deep Learning for Mortgage Risk"
+        },
+        {
+            "key": "2020051311580351900_B62",
+            "author": "Tukey,",
+            "year": "1960",
+            "article-title": "A survey of sampling from contaminated distributions",
+            "volume-title": "Contributions to probability and statistics"
+        },
+        {
+            "key": "2020051311580351900_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "A comprehensive look at the empirical performance of equity premium prediction",
+            "volume": "21",
+            "author": "Welch,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580351900_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.2307/2526245",
+            "article-title": "Using least squares to approximate unknown regression functions",
+            "volume": "21",
+            "author": "White,",
+            "year": "1980",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2020051311580351900_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "1429",
+            "DOI": "10.1016/S0893-6080(03)00138-2",
+            "article-title": "The General Inefficiency of Batch Training for Gradient Descent Learning",
+            "volume": "16",
+            "author": "Wilson,",
+            "year": "2003",
+            "journal-title": "Neural Networks"
+        },
+        {
+            "key": "2020051311580351900_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "455",
+            "DOI": "10.1016/S0305-0483(99)00066-3",
+            "article-title": "Option price forecasting using neural networks",
+            "volume": "28",
+            "author": "Yao,",
+            "year": "2000",
+            "journal-title": "Omega"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa009/32892601/hhaa009.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2223/33209812/hhaa009.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2223/33209812/hhaa009.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                14
+            ]
+        ],
+        "date-time": "2020-05-14T02:41:26Z",
+        "timestamp": 1589424086000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                26
+            ]
+        ]
+    },
+    "references-count": 66,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    26
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa009",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

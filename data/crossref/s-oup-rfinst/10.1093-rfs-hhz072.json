@@ -1,0 +1,471 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                9
+            ]
+        ],
+        "date-time": "2021-04-09T01:05:46Z",
+        "timestamp": 1617930346956
+    },
+    "reference-count": 27,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        14
+                    ]
+                ],
+                "date-time": "2020-02-14T00:00:00Z",
+                "timestamp": 1581638400000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose and implement a procedure to dynamically hedge climate change risk. We extract innovations from climate news series that we construct through textual analysis of newspapers. We then use a mimicking portfolio approach to build climate change hedge portfolios. We discipline the exercise by using third-party ESG scores of firms to model their climate risk exposures. We show that this approach yields parsimonious and industry-balanced portfolios that perform well in hedging innovations in climate news both in sample and out of sample. We discuss multiple directions for future research on financial approaches to managing climate risk.</jats:p>",
+    "DOI": "10.1093/rfs/hhz072",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                8
+            ]
+        ],
+        "date-time": "2019-07-08T19:09:12Z",
+        "timestamp": 1562612952000
+    },
+    "page": "1184-1216",
+    "source": "Crossref",
+    "is-referenced-by-count": 30,
+    "title": [
+        "Hedging Climate Change News"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Robert F",
+            "family": "Engle",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "NYU Stern and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Stefano",
+            "family": "Giglio",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University, NBER, and CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Bryan",
+            "family": "Kelly",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University, AQR Capital Management, and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Heebum",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NYU Stern"
+                }
+            ]
+        },
+        {
+            "given": "Johannes",
+            "family": "Stroebel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "NYU Stern, NBER, and CEPR"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                14
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020021413091703000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/S1386-4181(01)00024-6",
+            "article-title": "Illiquidity and stock returns: Cross-section and time-series effects",
+            "volume": "5",
+            "author": "Amihud,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2020021413091703000_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.2469/faj.v72.n3.4",
+            "article-title": "Hedging climate risk",
+            "volume": "72",
+            "author": "Andersson,",
+            "year": "2016",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2020021413091703000_B3",
+            "author": "Bakkensen,",
+            "year": "2018",
+            "volume-title": "Flood risk belief heterogeneity and coastal home price dynamics: Going under water?"
+        },
+        {
+            "key": "2020021413091703000_B4",
+            "author": "Baldauf,",
+            "year": "2018",
+            "volume-title": "Does climate change affect real estate prices? only if you believe in it",
+            "DOI": "10.2139/ssrn.3240200",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020021413091703000_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1198/073500108000000042",
+            "article-title": "Mimicking portfolios, economic risk premia, and tests of multi-beta models",
+            "volume": "26",
+            "author": "Balduzzi,",
+            "year": "2008",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2020021413091703000_B6",
+            "author": "Bernstein,",
+            "year": "2019",
+            "article-title": "Disaster on the horizon: The price effect of sea level rise",
+            "journal-title": "Journal of Financial Economics",
+            "DOI": "10.1016/j.jfineco.2019.03.013",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020021413091703000_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1086/260062",
+            "article-title": "The pricing of options and corporate liabilities",
+            "volume": "81",
+            "author": "Black,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020021413091703000_B8",
+            "first-page": "231",
+            "article-title": "Empirical tests of the consumption-oriented capm",
+            "volume": "44",
+            "author": "Breeden,",
+            "year": "1989",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020021413091703000_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1086/296344",
+            "article-title": "Economic forces and the stock market",
+            "volume": "59",
+            "author": "Chen,",
+            "year": "1986",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2020021413091703000_B10",
+            "author": "Choi,",
+            "year": "2018",
+            "volume-title": "Attention to global warming",
+            "DOI": "10.2139/ssrn.3180045",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020021413091703000_B11",
+            "author": "Daniel,",
+            "year": "2015",
+            "volume-title": "Applying asset pricing theory to calibrate the price of climate risk"
+        },
+        {
+            "key": "2020021413091703000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1653",
+            "DOI": "10.1111/j.1540-6261.2008.01371.x",
+            "article-title": "Dissecting anomalies",
+            "volume": "63",
+            "author": "Fama,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020021413091703000_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020021413091703000_B14",
+            "author": "Gentzkow,",
+            "year": "2018",
+            "volume-title": "Text as data"
+        },
+        {
+            "key": "2020021413091703000_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/qje/qju036",
+            "article-title": "Very long-run discount rates",
+            "volume": "130",
+            "author": "Giglio,",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2020021413091703000_B16",
+            "author": "Giglio,",
+            "year": "2018",
+            "volume-title": "Climate change and long-run discount rates: Evidence from real estate"
+        },
+        {
+            "key": "2020021413091703000_B17",
+            "author": "Giglio,",
+            "year": "2018",
+            "volume-title": "Asset pricing with omitted factors"
+        },
+        {
+            "key": "2020021413091703000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2011.01.006",
+            "article-title": "Red and blue investing: Values and finance",
+            "volume": "103",
+            "author": "Hong,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020021413091703000_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1016/j.jeconom.2018.09.015",
+            "article-title": "Climate risks and market efficiency",
+            "volume": "208",
+            "author": "Hong,",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020021413091703000_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Dissecting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020021413091703000_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1540-6261.1987.tb02546.x",
+            "article-title": "Mimicking portfolios and exact arbitrage pricing",
+            "volume": "42",
+            "author": "Huberman,",
+            "year": "1987",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020021413091703000_B22",
+            "author": "Kumar,",
+            "year": "2018",
+            "volume-title": "Do fund managers misestimate climatic disaster risk?"
+        },
+        {
+            "key": "2020021413091703000_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1016/S0304-4076(01)00074-4",
+            "article-title": "Economic tracking portfolio",
+            "volume": "105",
+            "author": "Lamont,",
+            "year": "2001",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020021413091703000_B24",
+            "author": "L\u00f6nn,",
+            "year": "2017",
+            "volume-title": "Empirical asset pricing with many assets and short time series"
+        },
+        {
+            "key": "2020021413091703000_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.2307/1913811",
+            "article-title": "An intertemporal capital asset pricing model",
+            "volume": "41",
+            "author": "Merton,",
+            "year": "1973",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020021413091703000_B26",
+            "author": "Murfin,",
+            "year": "2018",
+            "volume-title": "Is the risk of sea level rise capitalized in residential real estate"
+        },
+        {
+            "key": "2020021413091703000_B27",
+            "author": "Roll,",
+            "year": "2018",
+            "volume-title": "Mimicking portfolios"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/3/1184/32449246/hhz072.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/3/1184/32449246/hhz072.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                14
+            ]
+        ],
+        "date-time": "2020-02-14T18:09:35Z",
+        "timestamp": 1581703775000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                14
+            ]
+        ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    14
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    1
+                ]
+            ]
+        },
+        "issue": "3"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz072",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

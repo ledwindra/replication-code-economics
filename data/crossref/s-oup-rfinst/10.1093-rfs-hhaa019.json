@@ -1,0 +1,649 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2021-03-27T17:23:52Z",
+        "timestamp": 1616865832235
+    },
+    "reference-count": 42,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        2,
+                        26
+                    ]
+                ],
+                "date-time": "2020-02-26T00:00:00Z",
+                "timestamp": 1582675200000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The cross-section and time series of stock returns contains a wealth of information about the stochastic discount factor (SDF), the object that links cash flows to prices. A large empirical literature has uncovered many candidate factors\u2014many more than seem plausible\u2014to summarize the SDF. This special volume of the Review of Financial Studies presents recent advances in extracting information from both the cross-section and the time series, in dealing with issues of replication and false discoveries, and in applying innovative machine-learning techniques to identify the most relevant asset pricing factors. Our editorial summarizes what we learn and offers a few suggestions to guide future work in this exciting new era of big data and empirical asset pricing.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa019",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                20
+            ]
+        ],
+        "date-time": "2020-02-20T20:13:42Z",
+        "timestamp": 1582229622000
+    },
+    "page": "1879-1890",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+        "New Methods for the Cross-Section of Returns"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "G Andrew",
+            "family": "Karolyi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cornell University SC Johnson College of Business"
+                }
+            ]
+        },
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Columbia University Graduate School of Business"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                26
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020051311580046500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(81)90018-0",
+            "article-title": "The relation between return and market value of common stocks",
+            "volume": "9",
+            "author": "Banz,",
+            "year": "1981",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2600",
+            "DOI": "10.1093/rfs/hhw054",
+            "article-title": "Which factors matter to investors? Evidence from mutual fund flows",
+            "volume": "29",
+            "author": "Barber,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1016/0304-405X(83)90031-4",
+            "article-title": "The relationship between earnings\u2019 yield, market value and return for nyse common stocks: Further evidence",
+            "volume": "12",
+            "author": "Basu,",
+            "year": "1983",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "issue": "1",
+            "key": "2020051311580046500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2015.08.010",
+            "article-title": "Assessing asset pricing models using revealed preference",
+            "volume": "119",
+            "author": "Berk,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1093/rfs/1.3.195",
+            "article-title": "The dividend-price ratio and expectations of future dividends and discount factors",
+            "volume": "1",
+            "author": "Campbell,",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On the persistence of mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580046500_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2134",
+            "DOI": "10.1093/rfs/hhaa018",
+            "article-title": "Anomalies and false rejections",
+            "volume": "33",
+            "author": "Chordia,",
+            "year": "2020",
+            "journal-title": "Reviewof Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1111/j.1540-6261.2011.01671.x",
+            "article-title": "Discount rates",
+            "volume": "64",
+            "author": "Cochrane,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580046500_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1927",
+            "DOI": "10.1093/rfs/hhaa021",
+            "article-title": "The cross-section of risk and return",
+            "volume": "33",
+            "author": "Daniel,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2180",
+            "DOI": "10.1093/rfs/hhz085",
+            "article-title": "A transaction-cost perspective on the multitude of firm characteristics",
+            "volume": "33",
+            "author": "DeMiguel,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(88)90020-7",
+            "article-title": "Dividend yields and expected stock returns",
+            "volume": "22",
+            "author": "Fama,",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1111/j.1540-6261.1992.tb04398.x",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "47",
+            "author": "Fama,",
+            "year": "1992",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2020051311580046500_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1891",
+            "DOI": "10.1093/rfs/hhz089",
+            "article-title": "Comparing cross-section and time-series factor models",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311580046500_B16",
+            "author": "Feng,",
+            "year": "2019",
+            "journal-title": "Taming the factor zoo: A test of new factors",
+            "DOI": "10.3386/w25481",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580046500_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1086/261755",
+            "article-title": "The variation of economic risk premiums",
+            "volume": "99",
+            "author": "Ferson,",
+            "year": "1991",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311580046500_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(87)90026-2",
+            "article-title": "Expected stock returns and volatility",
+            "volume": "19",
+            "author": "French,",
+            "year": "1987",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/rfs/hhz123",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "volume": "33",
+            "author": "Freyberger,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1980",
+            "DOI": "10.1093/rfs/hhaa017",
+            "article-title": "Factor timing",
+            "volume": "33",
+            "author": "Haddad,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B22",
+            "first-page": "225",
+            "article-title": "Restrictions on intertemporal marginal rates of substitution implied by asset returns",
+            "volume": "99",
+            "author": "Hansen,",
+            "year": "1991",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311580046500_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1086/261141",
+            "article-title": "Stochastic consumption, risk aversion, and the temporal behavior of asset returns",
+            "volume": "91",
+            "author": "Hansen,",
+            "year": "1983",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311580046500_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1399",
+            "DOI": "10.1111/jofi.12530",
+            "article-title": "The scientific outlook in financial economics",
+            "volume": "72",
+            "author": "Harvey,",
+            "year": "2017",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580046500_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2527",
+            "DOI": "10.1093/rfs/hhr013",
+            "article-title": "What factors drive global stock returns?",
+            "volume": "24",
+            "author": "Hou,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "2019",
+            "DOI": "10.1093/rfs/hhy131",
+            "article-title": "Replicating anomalies",
+            "volume": "33",
+            "author": "Hou,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "2282",
+            "DOI": "10.1214/09-AOS781",
+            "article-title": "Variable selection in nonparametric additive models",
+            "volume": "38",
+            "author": "Huang,",
+            "year": "2010",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580046500_B30",
+            "author": "Jegadeesh,",
+            "year": "",
+            "article-title": "What do fund flows reveal about asset pricing models and investor sophistication?",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "volume": "134",
+            "author": "Kelly,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1146/annurev-financial-102710-144905",
+            "article-title": "Predictability of stock returns and cash flows",
+            "volume": "3",
+            "author": "Koijen,",
+            "year": "2011",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.1086/701683",
+            "article-title": "A demand system approach to asset pricing",
+            "volume": "127",
+            "author": "Koijen,",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311580046500_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1016/j.jfineco.2019.06.008",
+            "article-title": "Shrinking the cross section",
+            "volume": "135",
+            "author": "Kozak,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "2274",
+            "DOI": "10.1093/rfs/hhaa020",
+            "article-title": "Factors that fit the time series and cross-section of stock returns",
+            "volume": "33",
+            "author": "Lettau,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.12365",
+            "article-title": "Does academic research destroy stock return predictability?",
+            "volume": "71",
+            "author": "McLean,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580046500_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1016/0304-3932(85)90061-3",
+            "article-title": "The equity premium: A puzzle",
+            "volume": "15",
+            "author": "",
+            "year": "1985",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2020051311580046500_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.01.003",
+            "article-title": "The other side of value: The gross profitability premium",
+            "volume": "108",
+            "author": "Novy-Marx,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580046500_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "104",
+            "DOI": "10.1093/rfs/hhv063",
+            "article-title": "A taxonomy of anomalies and their trading costs",
+            "volume": "29",
+            "author": "Novy-Marx,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580046500_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.3905/jpm.1985.409007",
+            "article-title": "Persuasive evidence of market inefficiency",
+            "volume": "Spring",
+            "author": "Rosenberg,",
+            "year": "1985",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2020051311580046500_B41",
+            "first-page": "291",
+            "article-title": "The use of volatility measures in assessing market efficiency",
+            "volume": "36",
+            "author": "Shiller,",
+            "year": "1981",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580046500_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1453",
+            "DOI": "10.1093/rfs/hhn069",
+            "article-title": "Forecasting the equity premium: Where we stand today",
+            "volume": "21",
+            "author": "Spiegel,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa019/32906422/hhaa019.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/1879/33209827/hhaa019.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/1879/33209827/hhaa019.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                14
+            ]
+        ],
+        "date-time": "2020-05-14T02:41:26Z",
+        "timestamp": 1589424086000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                26
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    2,
+                    26
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa019",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

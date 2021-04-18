@@ -1,0 +1,167 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                5
+            ]
+        ],
+        "date-time": "2021-03-05T23:23:53Z",
+        "timestamp": 1614986633360
+    },
+    "reference-count": 42,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2020-01-01T00:00:00Z",
+                "timestamp": 1577836800000
+            },
+            "delay-in-days": 0,
+            "content-version": "unspecified"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100005969",
+            "name": "Universit\u00e0 di Bologna",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/501100004836",
+            "name": "Det Frie Forskningsr\u00e5d",
+            "doi-asserted-by": "publisher",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Asymptotic bootstrap validity is usually understood as consistency of the distribution of a bootstrap statistic, conditional on the data, for the unconditional limit distribution of a statistic of interest. From this perspective, randomness of the limit bootstrap measure is regarded as a failure of the bootstrap. We show that such limiting randomness does not necessarily invalidate bootstrap inference if validity is understood as control over the frequency of correct inferences in large samples. We first establish sufficient conditions for asymptotic bootstrap validity in cases where the unconditional limit distribution of a statistic can be obtained by averaging a (random) limiting bootstrap distribution. Further, we provide results ensuring the asymptotic validity of the bootstrap as a tool for conditional inference, the leading case being that where a bootstrap distribution estimates consistently a conditional (and thus, random) limit distribution of a statistic. We apply our framework to several inference problems in econometrics, including linear models with possibly nonstationary regressors, CUSUM statistics, conditional Kolmogorov\u2013Smirnov specification tests and tests for constancy of parameters in dynamic econometric models.</jats:p>",
+    "DOI": "10.3982/ecta16557",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2020-11-17T13:43:08Z",
+        "timestamp": 1605620588000
+    },
+    "page": "2547-2574",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Inference Under Random Limit Bootstrap Measures"
+    ],
+    "prefix": "10.3982",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Giuseppe",
+            "family": "Cavaliere",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Bologna"
+                },
+                {
+                    "name": "Department of Economics, University of Exeter"
+                }
+            ]
+        },
+        {
+            "given": "Iliyan",
+            "family": "Georgiev",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Bologna"
+                },
+                {
+                    "name": "Institut d'An\u00e0lisi Econ\u00f2mica\u2014CSIC"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2020-11-17T13:51:51Z",
+        "timestamp": 1605621111000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020
+                ]
+            ]
+        },
+        "issue": "6"
+    },
+    "alternative-id": [
+        "10.3982/ECTA16557"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16557",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

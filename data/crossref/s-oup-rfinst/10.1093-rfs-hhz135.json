@@ -1,0 +1,919 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                7
+            ]
+        ],
+        "date-time": "2021-04-07T13:26:59Z",
+        "timestamp": 1617802019356
+    },
+    "reference-count": 71,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "9",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        11,
+                        11
+                    ]
+                ],
+                "date-time": "2019-11-11T00:00:00Z",
+                "timestamp": 1573430400000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Research in finance and macroeconomics has routinely employed multiple horizons to test asset return predictability. In a simple predictive regression model, we find the popular scaled test can have zero power when the predictor is not sufficiently persistent. A new test based on implication of the short-run model is suggested and is shown to be uniformly more powerful than the scaled test. The new test can accommodate multiple predictors. Compared with various other widely used tests, simulation experiments demonstrate remarkable finite-sample performance. We reexamine the predictive ability of various popular predictors for aggregate equity premium.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhz135",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                7
+            ]
+        ],
+        "date-time": "2019-11-07T20:10:04Z",
+        "timestamp": 1573157404000
+    },
+    "page": "4403-4443",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+        "Testing for Multiple-Horizon Predictability: Direct Regression Based versus Implication Based"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Ke-Li",
+            "family": "Xu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Indiana University Bloomington"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                11
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020082411270313100_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1017/S0022109000003227",
+            "article-title": "Predictive regression: A reduced-bias estimation method",
+            "volume": "39",
+            "author": "Amihud,",
+            "year": "2004",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020082411270313100_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "DOI": "10.1093/rfs/hhn056",
+            "article-title": "Multiple-predictor regressions: Hypothesis testing",
+            "volume": "22",
+            "author": "Amihud,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B3",
+            "author": "Andersen,",
+            "year": "2018",
+            "volume-title": "Consistent inference for predictive regressions in persistent VAR economies"
+        },
+        {
+            "key": "2020082411270313100_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "376",
+            "DOI": "10.1162/REST_a_00369",
+            "article-title": "A conditional-heteroskedasticity-robust confidence interval for the autoregressive parameter",
+            "volume": "96",
+            "author": "Andrews,",
+            "year": "2014",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020082411270313100_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "651",
+            "DOI": "10.1093/rfs/hhl021",
+            "article-title": "Stock return predictability: Is it there?",
+            "volume": "20",
+            "author": "Ang,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.1016/j.jfineco.2011.01.002",
+            "article-title": "Improving the predictability of real economic activity and asset returns with forward variances inferred from option portfolios",
+            "volume": "100",
+            "author": "Bakshi,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1016/j.jeconom.2007.11.003",
+            "article-title": "Long-run risk-return trade-offs",
+            "volume": "143",
+            "author": "Bandi,",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "120",
+            "DOI": "10.1016/j.jeconom.2018.09.008",
+            "article-title": "The scale of predictability",
+            "volume": "208",
+            "author": "Bandi,",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhs108",
+            "article-title": "A long-run risks explanation of predictability puzzles in bond and currency markets",
+            "volume": "26",
+            "author": "Bansal,",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1577",
+            "DOI": "10.1093/rfs/hhl042",
+            "article-title": "The myth of long-horizon predictability",
+            "volume": "21",
+            "author": "Boudoukh,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "459",
+            "DOI": "10.1016/S0927-5398(01)00037-8",
+            "article-title": "Why long horizons? A study of power against persistent alternatives",
+            "volume": "9",
+            "author": "Campbell,",
+            "year": "2001",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2020082411270313100_B12",
+            "author": "Campbell,",
+            "year": "1997",
+            "volume-title": "The econometrics of financial markets",
+            "DOI": "10.1515/9781400830213",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020082411270313100_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1093/rfs/1.3.195",
+            "article-title": "The dividend-price ratio and expectations of future dividends and discount factors",
+            "volume": "1",
+            "author": "Campbell,",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/j.jfineco.2005.05.008",
+            "article-title": "Efficient tests of stock return predictability",
+            "volume": "81",
+            "author": "Campbell,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1131",
+            "DOI": "10.1017/S0266466600009981",
+            "article-title": "Inference in models with nearly integrated regressors",
+            "volume": "11",
+            "author": "Cavanagh,",
+            "year": "1995",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2020082411270313100_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1145",
+            "DOI": "10.1162/qjec.2010.125.3.1145",
+            "article-title": "Can exchange rates forecast commodity prices",
+            "volume": "125",
+            "author": "Chen,",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2020082411270313100_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1162/REST_a_00231",
+            "article-title": "What does the yield curve tell us about exchange rate predictability?",
+            "volume": "95",
+            "author": "Chen,",
+            "year": "2013",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020082411270313100_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "168",
+            "DOI": "10.1016/j.jeconom.2015.02.048",
+            "article-title": "A reexamination of stock return predictability.",
+            "volume": "192",
+            "author": "Choi,",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B19",
+            "author": "Cochrane,",
+            "year": "2005",
+            "volume-title": "Asset pricing"
+        },
+        {
+            "key": "2020082411270313100_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1533",
+            "DOI": "10.1093/rfs/hhm046",
+            "article-title": "The dog that did not bark: A defense of return predictability",
+            "volume": "21",
+            "author": "Cochrane,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.1086/659238",
+            "article-title": "Risks for the long run and the real exchange rate",
+            "volume": "119",
+            "author": "Colacito,",
+            "year": "2011",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020082411270313100_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1016/j.jfineco.2012.04.003",
+            "article-title": "Predictive regressions with time-varying coefficients",
+            "volume": "106",
+            "author": "Dangl,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "771",
+            "DOI": "10.3982/ECTA10535",
+            "article-title": "Nearly optimal tests when a nuisance parameter is present under the null hypothesis",
+            "volume": "83",
+            "author": "Elliott,",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270313100_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(88)90020-7",
+            "article-title": "Dividend yields and expected stock returns",
+            "volume": "22",
+            "author": "Fama,",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1086/521966",
+            "article-title": "International financial adjustment",
+            "volume": "115",
+            "author": "Gourinchas,",
+            "year": "2007",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020082411270313100_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1086/260910",
+            "article-title": "Forward exchange rates as optimal predictors of future spot rates",
+            "volume": "88",
+            "author": "Hansen,",
+            "year": "1980",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020082411270313100_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "560",
+            "DOI": "10.1016/j.jfineco.2010.09.008",
+            "article-title": "Time-varying short-horizon predictability",
+            "volume": "99",
+            "author": "Henkel,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1017/S0022109011000135",
+            "article-title": "New methods for inference in long-horizon regressions",
+            "volume": "46",
+            "author": "Hjalmarsson,",
+            "year": "2011",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020082411270313100_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.1093/rfs/5.3.351",
+            "article-title": "Dividend yields and expected stock returns: Alternative procedures for inference and measurement",
+            "volume": "5",
+            "author": "Hodrick,",
+            "year": "1992",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "681",
+            "DOI": "10.1111/j.1468-0262.2006.00679.x",
+            "article-title": "Optimal inference in regression models with nearly integrated regressors",
+            "volume": "74",
+            "author": "Jansson,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270313100_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "491",
+            "DOI": "10.1002/(SICI)1099-1255(199909/10)14:5<491::AID-JAE527>3.0.CO;2-D",
+            "article-title": "Exchange rates and monetary fundamentals: What do we learn from long-horizon regressions?",
+            "volume": "14",
+            "author": "Kilian,",
+            "year": "1999",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1506",
+            "DOI": "10.1093/rfs/hhu139",
+            "article-title": "Robust econometric inference for stock return predictability",
+            "volume": "28",
+            "author": "Kostakis,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "407",
+            "DOI": "10.1162/003465302320259439",
+            "article-title": "Testing the predictability of stock returns",
+            "volume": "84",
+            "author": "Lanne,",
+            "year": "2002",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020082411270313100_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1016/j.jeconom.2015.04.003",
+            "article-title": "Predictive quantile regression with persistent covariates: IVX-QR approach",
+            "volume": "192",
+            "author": "Lee,",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B35",
+            "author": "Lee,",
+            "year": "2018",
+            "volume-title": "On LASSO for predictive regression"
+        },
+        {
+            "key": "2020082411270313100_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/0022-1082.00347",
+            "article-title": "Consumption, aggregate wealth, and expected stock returns",
+            "volume": "56",
+            "author": "Lettau,",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270313100_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1607",
+            "DOI": "10.1093/rfs/hhm074",
+            "article-title": "Reconciling the return predictability evidence",
+            "volume": "21",
+            "author": "Lettau,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1696",
+            "DOI": "10.1214/aos/1176351062",
+            "article-title": "Bootstrap procedures under some non-I.I.D. models",
+            "volume": "16",
+            "author": "Liu,",
+            "year": "1988",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020082411270313100_B39",
+            "author": "Lutkepohl,",
+            "year": "2005",
+            "volume-title": "New introduction to multiple time series analysis",
+            "DOI": "10.1007/978-3-540-27752-1",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020082411270313100_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "482",
+            "DOI": "10.1017/S0266466608090154",
+            "article-title": "Limit theory for cointegrated systems with moderately integrated and moderately explosive regressors",
+            "volume": "25",
+            "author": "Magdalinos,",
+            "year": "2009",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2020082411270313100_B41",
+            "first-page": "201",
+            "article-title": "Exchange rates and fundamentals: Evidence on long-horizon predictability",
+            "volume": "85",
+            "author": "Mark,",
+            "year": "1995",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020082411270313100_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1411",
+            "DOI": "10.1111/j.1468-0262.2007.00798.x",
+            "article-title": "Uniform inference in autoregressive models.",
+            "volume": "75",
+            "author": "Mikusheva,",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270313100_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A simple positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+            "volume": "55",
+            "author": "Newey,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270313100_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "296",
+            "DOI": "10.1111/j.1467-842X.1988.tb00484.x",
+            "article-title": "Bias in the estimation of multiple autoregressions",
+            "volume": "30A",
+            "author": "Nicholls,",
+            "year": "1988",
+            "journal-title": "Australian Journal of Statistics"
+        },
+        {
+            "key": "2020082411270313100_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1845",
+            "DOI": "10.1111/1468-0262.00471",
+            "article-title": "Bootstrap unit root tests.",
+            "volume": "71",
+            "author": "Park,",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270313100_B46",
+            "author": "Park,",
+            "year": "2003",
+            "volume-title": "Weak unit roots"
+        },
+        {
+            "key": "2020082411270313100_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1583",
+            "DOI": "10.1111/j.1540-6261.2009.01474.x",
+            "article-title": "Predictive systems: Living with imperfect predictors",
+            "volume": "64",
+            "author": "Pastor,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270313100_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1016/0304-4076(86)90001-1",
+            "article-title": "Understanding spurious regressions in econometrics",
+            "volume": "33",
+            "author": "Phillips,",
+            "year": "1986",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1093/biomet/74.3.535",
+            "article-title": "Towards a unified asymptotic theory for autoregression",
+            "volume": "74",
+            "author": "Phillips,",
+            "year": "1987",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2020082411270313100_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.3982/ECTA11094",
+            "article-title": "On confidence intervals for autoregressive roots and predictive regression",
+            "volume": "82",
+            "author": "Phillips,",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020082411270313100_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "250",
+            "DOI": "10.1016/j.jeconom.2013.04.011",
+            "article-title": "Predictive regression under various degrees of persistence and robust long-horizon regression.",
+            "volume": "177",
+            "author": "Phillips,",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1016/j.jeconom.2005.08.002",
+            "article-title": "Limit theory for moderate deviations from a unit root",
+            "volume": "136",
+            "author": "Phillips,",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B53",
+            "author": "Pressmeddelande",
+            "year": "2013",
+            "article-title": "Trendspotting in asset markets"
+        },
+        {
+            "key": "2020082411270313100_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.1111/jofi.12041",
+            "article-title": "International stock return predictability: What is the role of the United States?",
+            "volume": "68",
+            "author": "Rapach,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020082411270313100_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1016/j.jfineco.2016.03.004",
+            "article-title": "Short interest and aggregate stock returns.",
+            "volume": "121",
+            "author": "Rapach,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1016/0304-405X(89)90086-X",
+            "article-title": "Drawing inferences from statistics based on multi-year asset returns",
+            "volume": "25",
+            "author": "Richardson,",
+            "year": "1989",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1368-423X.2007.00222.x",
+            "article-title": "Expectations hypotheses tests at long horizons",
+            "volume": "10",
+            "author": "Rossi,",
+            "year": "2007",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "2020082411270313100_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhj006",
+            "article-title": "Labor income and predictable stock returns",
+            "volume": "19",
+            "author": "Santos,",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "546",
+            "DOI": "10.1080/07350015.2013.827985",
+            "article-title": "Long-horizon return regressions with historical volatility and other long-memory variables",
+            "volume": "31",
+            "author": "Sizova,",
+            "year": "2013",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2020082411270313100_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1016/S0304-405X(99)00041-0",
+            "article-title": "Predictive regressions",
+            "volume": "54",
+            "author": "Stambaugh,",
+            "year": "1999",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1016/0304-3932(91)90034-L",
+            "article-title": "Confidence intervals for the largest autoregressive root in US macroeconomic time series.",
+            "volume": "28",
+            "author": "Stock,",
+            "year": "1991",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2020082411270313100_B62",
+            "author": "Stock,",
+            "year": "2011",
+            "edition": "3rd edition",
+            "volume-title": "Introduction to econometrics"
+        },
+        {
+            "key": "2020082411270313100_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "937",
+            "DOI": "10.1086/422634",
+            "article-title": "On predicting stock returns with nearly integrated explanatory variables",
+            "volume": "77",
+            "author": "Torous",
+            "year": "2004",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2020082411270313100_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1016/S0304-405X(03)00065-5",
+            "article-title": "Long-horizon regressions: Theoretical results and applications",
+            "volume": "68",
+            "author": "Valkanov,",
+            "year": "2003",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020082411270313100_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "353",
+            "DOI": "10.1002/jae.1274",
+            "article-title": "Reverse regressions and long-horizon forecasting",
+            "volume": "28",
+            "author": "Wei,",
+            "year": "2013",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2020082411270313100_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "A comprehensive look at the empirical performance of equity premium prediction",
+            "volume": "21",
+            "author": "Welch,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020082411270313100_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1261",
+            "DOI": "10.1214/aos/1176350142",
+            "article-title": "Jackknife bootstrap and other resampling methods in regression analysis",
+            "volume": "14",
+            "author": "Wu,",
+            "year": "1986",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020082411270313100_B68",
+            "author": "Xu,",
+            "year": "2017",
+            "volume-title": "Testing for return predictability with co-moving predictors of unknown form"
+        },
+        {
+            "key": "2020082411270313100_B69",
+            "author": "Xu,",
+            "year": "2018",
+            "volume-title": "Testing for multiple-horizon predictability: Direct regression based versus implication based"
+        },
+        {
+            "key": "2020082411270313100_B70",
+            "author": "Xu,",
+            "year": "2019",
+            "volume-title": "On Hodrick standard error in multiple predictive regression"
+        },
+        {
+            "key": "2020082411270313100_B71",
+            "author": "Xu,",
+            "year": "2019",
+            "volume-title": "A dimensionality-robust test in multiple predictive regression"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhz135/30642917/hhz135.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/9/4403/33678014/hhz135.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/9/4403/33678014/hhz135.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                24
+            ]
+        ],
+        "date-time": "2020-08-24T15:27:41Z",
+        "timestamp": 1598282861000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Lauren",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                11
+            ]
+        ]
+    },
+    "references-count": 71,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    11
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    1
+                ]
+            ]
+        },
+        "issue": "9"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz135",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

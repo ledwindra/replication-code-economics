@@ -1,0 +1,165 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                29
+            ]
+        ],
+        "date-time": "2021-03-29T14:24:45Z",
+        "timestamp": 1617027885451
+    },
+    "reference-count": 49,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "funder": [
+        {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/100000919",
+            "name": "Open Society Foundations",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/501100004211",
+            "name": "Oxford Martin School, University of Oxford",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "DOI": "10.13039/501100003329",
+            "name": "Ministerio de Econom\u00eda y Competitividad",
+            "doi-asserted-by": "publisher",
+            "award": []
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Quantile factor models (QFM) represent a new class of factor models for high\u2010dimensional panel data. Unlike approximate factor models (AFM), which only extract mean factors, QFM also allow unobserved factors to shift other relevant parts of the distributions of observables. We propose a quantile regression approach, labeled Quantile Factor Analysis (QFA), to consistently estimate all the quantile\u2010dependent factors and loadings. Their asymptotic distributions are established using a kernel\u2010smoothed version of the QFA estimators. Two consistent model selection criteria, based on information criteria and rank minimization, are developed to determine the number of factors at each quantile. QFA estimation remains valid even when the idiosyncratic errors exhibit heavy\u2010tailed distributions. An empirical application illustrates the usefulness of QFA by highlighting the role of extra factors in the forecasts of U.S. GDP growth and inflation rates using a large set of predictors.</jats:p>",
+    "DOI": "10.3982/ecta15746",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T09:42:01Z",
+        "timestamp": 1615801321000
+    },
+    "page": "875-910",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Quantile Factor Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Liang",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "HSBC Business School, Peking University"
+                }
+            ]
+        },
+        {
+            "given": "Juan J.",
+            "family": "Dolado",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Universidad Carlos III de Madrid"
+                }
+            ]
+        },
+        {
+            "given": "Jes\u00fas",
+            "family": "Gonzalo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Universidad Carlos III de Madrid"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T09:54:53Z",
+        "timestamp": 1615802093000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "alternative-id": [
+        "10.3982/ECTA15746"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta15746",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

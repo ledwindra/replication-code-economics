@@ -1,0 +1,481 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                11
+            ]
+        ],
+        "date-time": "2021-04-11T00:34:55Z",
+        "timestamp": 1618101295436
+    },
+    "reference-count": 28,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        17
+                    ]
+                ],
+                "date-time": "2020-03-17T00:00:00Z",
+                "timestamp": 1584403200000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose a new method for estimating latent asset pricing factors that fit the time series and cross-section of expected returns. Our estimator generalizes principal component analysis (PCA) by including a penalty on the pricing error in expected returns. Our approach finds weak factors with high Sharpe ratios that PCA cannot detect. We discover five factors with economic meaning that explain well the cross-section and time series of characteristic-sorted portfolio returns. The out-of-sample maximum Sharpe ratio of our factors is twice as large as with PCA with substantially smaller pricing errors. Our factors imply that a significant amount of characteristic information is redundant.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa020",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                13
+            ]
+        ],
+        "date-time": "2020-02-13T20:10:23Z",
+        "timestamp": 1581624623000
+    },
+    "page": "2274-2325",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+        "Factors That Fit the Time Series and Cross-Section of Stock Returns"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Martin",
+            "family": "Lettau",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Haas School of Business, University of California at Berkeley, NBER and CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Markus",
+            "family": "Pelger",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Management Science & Engineering, Stanford University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020051311575846500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1111/1468-0262.00392",
+            "article-title": "Inferential theory for factor models of large dimensions",
+            "volume": "71",
+            "author": "Bai,",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311575846500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1111/1468-0262.00273",
+            "article-title": "Determining the number of factors in approximate factor models",
+            "volume": "70",
+            "author": "Bai,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311575846500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1016/j.jeconom.2005.01.015",
+            "article-title": "Evaluating latent and observed factors in macroeconomics and finance",
+            "volume": "131",
+            "author": "Bai,",
+            "year": "2006",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020051311575846500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1016/j.jeconom.2019.04.021",
+            "article-title": "Rank regularized estimation of approximate factor models",
+            "volume": "212",
+            "author": "Bai,",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020051311575846500_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "494",
+            "DOI": "10.1016/j.aim.2011.02.007",
+            "article-title": "The eigenvalues and eigenvectors of finite, low rank perturbations of large random matrices",
+            "volume": "227",
+            "author": "Benaych-Georges,",
+            "year": "2011",
+            "journal-title": "Advances in Mathematics"
+        },
+        {
+            "key": "2020051311575846500_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1111/j.1540-6261.2011.01671.x",
+            "article-title": "Presidential address: Discount rates",
+            "volume": "66",
+            "author": "Cochrane,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575846500_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "255",
+            "DOI": "10.1016/0304-405X(88)90062-1",
+            "article-title": "Risk and return in an equilibrium APT: Application to a new test methodology",
+            "volume": "21",
+            "author": "Connor,",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575846500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1263",
+            "DOI": "10.1111/j.1540-6261.1993.tb04754.x",
+            "article-title": "A test for the number of factors in an approximate factor model",
+            "volume": "58",
+            "author": "Connor,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575846500_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/0304-405X(86)90027-9",
+            "article-title": "Performance measurement with the arbitrage pricing theory: A new framework for analysis",
+            "volume": "15",
+            "author": "Connor,",
+            "year": "1986",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575846500_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1927",
+            "DOI": "10.1093/rfs/hhaa021",
+            "article-title": "The cross-section of risk and return",
+            "volume": "33",
+            "author": "Daniel,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575846500_B11",
+            "author": "DeMiguel,",
+            "year": "2017",
+            "volume-title": "A portfolio perspective on the multitude of firm characteristics",
+            "DOI": "10.2139/ssrn.2912819",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575846500_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1891",
+            "DOI": "10.1093/rfs/hhz089",
+            "article-title": "Comparing cross-section and time-series factor models",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575846500_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "219",
+            "DOI": "10.1214/15-AOS1364",
+            "article-title": "Projected principal component analysis in factor models",
+            "volume": "44",
+            "author": "Fan,",
+            "year": "2016",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2020051311575846500_B14",
+            "author": "Feng,",
+            "year": "",
+            "article-title": "Taming the factor zoo",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575846500_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/rfs/hhz123",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "volume": "33",
+            "author": "Freyberger,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575846500_B16",
+            "author": "Giglio,",
+            "year": "2019",
+            "volume-title": "Asset pricing with omitted factors"
+        },
+        {
+            "key": "2020051311575846500_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311575846500_B18",
+            "author": "Hou,",
+            "first-page": "650",
+            "year": "2015",
+            "article-title": "Digesting anomalies: An investment approach",
+            "journal-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhu068",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575846500_B19",
+            "author": "Kelly,",
+            "year": "2017",
+            "volume-title": "Instrumented principal component analysis",
+            "DOI": "10.2139/ssrn.2983919",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575846500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1016/j.jmoneco.2017.05.006",
+            "article-title": "The cross-section and time series of stock and bond returns",
+            "volume": "88",
+            "author": "Koijen,",
+            "year": "2017",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2020051311575846500_B21",
+            "author": "Kozak,",
+            "year": "",
+            "article-title": "Shrinking the cross section",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311575846500_B22",
+            "author": "Lettau,",
+            "year": "",
+            "article-title": "Estimating latent asset pricing factors",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020051311575846500_B23",
+            "author": "Onatski,",
+            "first-page": "244",
+            "year": "2012",
+            "article-title": "Asymptotics of the principal components estimator of large factor models with weakly influential factors",
+            "journal-title": "Journal of Econometrics",
+            "DOI": "10.1016/j.jeconom.2012.01.034",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575846500_B24",
+            "author": "Pelger,",
+            "year": "",
+            "article-title": "Understanding systematic risk: A high-frequency approach",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311575846500_B25",
+            "author": "Pelger,",
+            "year": "2018",
+            "volume-title": "Interpretable proximate factors for large dimensions",
+            "DOI": "10.2139/ssrn.3175006",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311575846500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1016/0022-0531(76)90046-6",
+            "article-title": "The arbitrage theory of capital asset pricing",
+            "volume": "13",
+            "author": "Ross,",
+            "year": "1976",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2020051311575846500_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1167",
+            "DOI": "10.1198/016214502388618960",
+            "article-title": "Forecasting using principal components from a large number of predictors",
+            "volume": "97",
+            "author": "Stock,",
+            "year": "2002",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020051311575846500_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1111/j.1467-9868.2005.00503.x",
+            "article-title": "Regularization and variable selection via the elastic net",
+            "volume": "67",
+            "author": "Zou,",
+            "year": "2005",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Statistical Methodology)"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa020/32926570/hhaa020.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2274/33209853/hhaa020.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2274/33209853/hhaa020.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                14
+            ]
+        ],
+        "date-time": "2020-05-14T02:41:07Z",
+        "timestamp": 1589424067000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                3,
+                17
+            ]
+        ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    3,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa020",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

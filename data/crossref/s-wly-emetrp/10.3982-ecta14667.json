@@ -1,0 +1,155 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T10:15:16Z",
+        "timestamp": 1615803316082
+    },
+    "reference-count": 32,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We study the consequences of measurement error in the dependent variable of random\u2010coefficients models, focusing on the particular case of quantile regression. The popular quantile regression estimator of Koenker and Bassett (1978) is biased if there is an additive error term. Approaching this problem as an errors\u2010in\u2010variables problem where the dependent variable suffers from classical measurement error, we present a sieve maximum likelihood approach that is robust to left\u2010hand\u2010side measurement error. After providing sufficient conditions for identification, we demonstrate that when the number of knots in the quantile grid is chosen to grow at an adequate speed, the sieve\u2010maximum\u2010likelihood estimator is consistent and asymptotically normal, permitting inference via bootstrapping. Monte Carlo evidence verifies our method outperforms quantile regression in mean bias and MSE. Finally, we illustrate our estimator with an application to the returns to education highlighting changes over time in the returns to education that have previously been masked by measurement\u2010error bias.</jats:p>",
+    "DOI": "10.3982/ecta14667",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T09:42:01Z",
+        "timestamp": 1615801321000
+    },
+    "page": "849-873",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Errors in the Dependent Variable of Quantile Regression Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Jerry",
+            "family": "Hausman",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Haoyang",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Research and Statistics Group, Federal Reserve Bank of New York"
+                }
+            ]
+        },
+        {
+            "given": "Ye",
+            "family": "Luo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "HKU Business School, The University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Christopher",
+            "family": "Palmer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Sloan School of Management, MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2021-03-15T09:54:11Z",
+        "timestamp": 1615802051000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "alternative-id": [
+        "10.3982/ECTA14667"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta14667",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

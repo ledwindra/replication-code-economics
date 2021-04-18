@@ -1,0 +1,1183 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                11
+            ]
+        ],
+        "date-time": "2021-04-11T00:34:55Z",
+        "timestamp": 1618101295815
+    },
+    "reference-count": 94,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        17
+                    ]
+                ],
+                "date-time": "2020-04-17T00:00:00Z",
+                "timestamp": 1587081600000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose a nonparametric method to study which characteristics provide incremental information for the cross-section of expected returns. We use the adaptive group LASSO to select characteristics and to estimate how selected characteristics affect expected returns nonparametrically. Our method can handle a large number of characteristics and allows for a flexible functional form. Our implementation is insensitive to outliers. Many of the previously identified return predictors don\u2019t provide incremental information for expected returns, and nonlinearities are important. We study our method\u2019s properties in simulations and find large improvements in both model selection and prediction compared to alternative selection methods.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhz123",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                10,
+                8
+            ]
+        ],
+        "date-time": "2019-10-08T19:32:37Z",
+        "timestamp": 1570563157000
+    },
+    "page": "2326-2377",
+    "source": "Crossref",
+    "is-referenced-by-count": 58,
+    "title": [
+        "Dissecting Characteristics Nonparametrically"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Joachim",
+            "family": "Freyberger",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Wisconsin-Madison"
+                }
+            ]
+        },
+        {
+            "given": "Andreas",
+            "family": "Neuhierl",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Olin Business School"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Weber",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                4,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020051311580370600_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2491464",
+            "article-title": "Fundamental analysis, future earnings, and stock prices",
+            "volume": "35",
+            "author": "Abarbanell,",
+            "year": "1997",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2020051311580370600_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1111/j.1475-6803.2005.00117.x",
+            "article-title": "Market structure and trading volume",
+            "volume": "28",
+            "author": "Anderson,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Research"
+        },
+        {
+            "key": "2020051311580370600_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1111/j.1540-6261.2006.00836.x",
+            "article-title": "The cross-section of volatility and expected returns",
+            "volume": "61",
+            "author": "Ang,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1016/j.jfineco.2018.05.006",
+            "article-title": "Size matters, if you control your junk",
+            "volume": "129",
+            "author": "Asness,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B5",
+            "author": "Asness,",
+            "year": "2000",
+            "volume-title": "Predicting stock returns using industry-relative firm characteristics",
+            "DOI": "10.2139/ssrn.213872",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "DOI": "10.1016/j.jacceco.2009.12.002",
+            "article-title": "Post loss/profit announcement drift",
+            "volume": "50",
+            "author": "Balakrishnan,",
+            "year": "2010",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2020051311580370600_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1016/j.jfineco.2010.08.014",
+            "article-title": "Maxing out: Stocks as lotteries and the cross-section of expected returns",
+            "volume": "99",
+            "author": "Bali,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1016/j.jfineco.2015.02.004",
+            "article-title": "Deflating profitability",
+            "volume": "117",
+            "author": "Ball,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B9",
+            "author": "Bandyopadhyay,",
+            "year": "2010",
+            "volume-title": "The accrual volatility anomaly"
+        },
+        {
+            "key": "2020051311580370600_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "663",
+            "DOI": "10.1111/j.1540-6261.1977.tb01979.x",
+            "article-title": "Investment performance of common stocks in relation to their price-earnings ratios: A test of the efficient market hypothesis",
+            "volume": "32",
+            "author": "Basu,",
+            "year": "1977",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1016/0304-405X(83)90031-4",
+            "article-title": "The relationship between earnings\u2019 yield, market value and return for NYSE common stocks: Further evidence",
+            "volume": "12",
+            "author": "Basu,",
+            "year": "1983",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/j.jeconom.2015.02.014",
+            "article-title": "Some new asymptotic theory for least squares series: Pointwise and uniform results",
+            "volume": "186",
+            "author": "Belloni,",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020051311580370600_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1111/j.1540-6261.1988.tb03952.x",
+            "article-title": "Debt/equity ratio and expected common stock returns: Empirical evidence",
+            "volume": "43",
+            "author": "Bhandari,",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1111/j.1540-6261.2007.01226.x",
+            "article-title": "On the importance of measuring payout yield: Implications for empirical asset pricing",
+            "volume": "62",
+            "author": "Boudoukh,",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3411",
+            "DOI": "10.1093/rfs/hhp003",
+            "article-title": "Parametric portfolio policies: Exploiting characteristics in the cross-section of equity returns",
+            "volume": "22",
+            "author": "Brandt,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580370600_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1016/0304-405X(79)90016-3",
+            "article-title": "An intertemporal asset pricing model with stochastic consumption and investment opportunities",
+            "volume": "7",
+            "author": "Breeden,",
+            "year": "1979",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B17",
+            "author": "Brown,",
+            "year": "2007",
+            "volume-title": "The productivity premium in equity returns",
+            "DOI": "10.2139/ssrn.993467",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B18",
+            "author": "Cattaneo,",
+            "year": "2016",
+            "volume-title": "Characteristic-sorted portfolios: Estimation and inference"
+        },
+        {
+            "key": "2020051311580370600_B19",
+            "author": "Chandrashekar,",
+            "year": "2009",
+            "volume-title": "The productivity of corporate cash holdings and the cross-section of expected stock returns",
+            "DOI": "10.2139/ssrn.1334162",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1111/jofi.12733",
+            "article-title": "Sparse signals in the cross-section of returns",
+            "volume": "74",
+            "author": "Chinco,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B21",
+            "author": "Chinco,",
+            "year": "2019",
+            "journal-title": "Estimating the anomaly baserate",
+            "DOI": "10.3386/w26493",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/S0304-405X(00)00080-5",
+            "article-title": "Trading activity and expected stock returns",
+            "volume": "59",
+            "author": "Chordia,",
+            "year": "2001",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "94",
+            "DOI": "10.1016/j.finmar.2013.02.004",
+            "article-title": "A simple approximation of intraday spreads using daily data",
+            "volume": "17",
+            "author": "Chung,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2020051311580370600_B24",
+            "author": "Cochrane,",
+            "year": "2007",
+            "volume-title": "Handbook of the equity risk premium"
+        },
+        {
+            "key": "2020051311580370600_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1111/j.1540-6261.2011.01671.x",
+            "article-title": "Presidential address: Discount rates",
+            "volume": "66",
+            "author": "Cochrane,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1609",
+            "DOI": "10.1111/j.1540-6261.2008.01370.x",
+            "article-title": "Asset growth and the cross-section of stock returns",
+            "volume": "63",
+            "author": "Cooper,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1016/j.jfineco.2018.03.009",
+            "article-title": "Flexible prices and leverage",
+            "volume": "129",
+            "author": "D\u2019Acunto,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/j.jfineco.2015.12.002",
+            "article-title": "Momentum crashes",
+            "volume": "122",
+            "author": "Daniel,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1016/S1386-4181(97)00004-9",
+            "article-title": "Liquidity and stock returns: An alternative test",
+            "volume": "1",
+            "author": "Datar,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2020051311580370600_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1111/0022-1082.00209",
+            "article-title": "Characteristics, covariances, and average returns: 1929 to 1997",
+            "volume": "55",
+            "author": "Davis,",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "793",
+            "DOI": "10.1111/j.1540-6261.1985.tb05004.x",
+            "article-title": "Does the stock market overreact?",
+            "volume": "40",
+            "author": "De Bondt,",
+            "year": "1985",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B32",
+            "author": "DeMiguel,"
+        },
+        {
+            "key": "2020051311580370600_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1111/j.1540-6261.1992.tb04398.x",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "47",
+            "author": "Fama,",
+            "year": "1992",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1111/j.1540-6261.1996.tb05202.x",
+            "article-title": "Multifactor explanations of asset pricing anomalies",
+            "volume": "51",
+            "author": "Fama,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1653",
+            "DOI": "10.1111/j.1540-6261.2008.01371.x",
+            "article-title": "Dissecting anomalies",
+            "volume": "63",
+            "author": "Fama,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020051311580370600_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.10.005",
+            "article-title": "Betting against beta",
+            "volume": "111",
+            "author": "Frazzini,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.3982/ECTA11069",
+            "article-title": "Time-varying risk premium in large cross-sectional equity data sets",
+            "volume": "84",
+            "author": "Gagliardini,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311580370600_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "733",
+            "DOI": "10.1111/jofi.12235",
+            "article-title": "Size anomalies in US bank stock returns",
+            "volume": "70",
+            "author": "Gandhi,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1317",
+            "DOI": "10.1111/j.1475-679X.2009.00344.x",
+            "article-title": "Measuring investors\u2019 opinion divergence",
+            "volume": "47",
+            "author": "Garfinkel,",
+            "year": "2009",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2020051311580370600_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "2145",
+            "DOI": "10.1111/j.1540-6261.2004.00695.x",
+            "article-title": "The 52-week high and momentum investing",
+            "volume": "59",
+            "author": "George,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.2307/1913625",
+            "article-title": "A test of the efficiency of a given portfolio",
+            "volume": "57",
+            "author": "Gibbons,",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311580370600_B45",
+            "author": "Giglio,",
+            "year": "2016",
+            "volume-title": "Inference on risk premia in the presence of omitted factors"
+        },
+        {
+            "key": "2020051311580370600_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1257/aer.20131513",
+            "article-title": "Are sticky prices costly? Evidence from the stock market",
+            "volume": "106",
+            "author": "Gorodnichenko,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020051311580370600_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1415",
+            "DOI": "10.1017/S0022109015000526",
+            "article-title": "Improving mean variance optimization through sparse hedging restrictions",
+            "volume": "50",
+            "author": "Goto,",
+            "year": "2015",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020051311580370600_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "4389",
+            "DOI": "10.1093/rfs/hhx019",
+            "article-title": "The characteristics that provide independent information about average us monthly stock returns",
+            "volume": "30",
+            "author": "Green,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580370600_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "891",
+            "DOI": "10.1111/j.1540-6261.2009.01452.x",
+            "article-title": "Financial constraints, debt capacity, and the cross-section of stock returns",
+            "volume": "64",
+            "author": "Hahn,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580370600_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1016/0304-405X(95)00868-F",
+            "article-title": "Commonality in determinants of expected stock returns",
+            "volume": "41",
+            "author": "Haugen,",
+            "year": "1996",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1016/j.jacceco.2004.10.002",
+            "article-title": "Do investors overvalue firms with bloated balance sheets?",
+            "volume": "38",
+            "author": "Hirshleifer,",
+            "year": "2004",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2020051311580370600_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1111/caje.12130",
+            "article-title": "Variable selection and estimation in high-dimensional models",
+            "volume": "48",
+            "author": "Horowitz,",
+            "year": "2016",
+            "journal-title": "Canadian Journal of Economics"
+        },
+        {
+            "key": "2020051311580370600_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.3150/bj/1145993975",
+            "article-title": "Optimal estimation in additive regression models",
+            "volume": "12",
+            "author": "Horowitz,",
+            "year": "2006",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "2020051311580370600_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "2527",
+            "DOI": "10.1093/rfs/hhr013",
+            "article-title": "What factors drive global stock returns?",
+            "volume": "24",
+            "author": "Hou,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580370600_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "660",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580370600_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "2282",
+            "DOI": "10.1214/09-AOS781",
+            "article-title": "Variable selection in nonparametric additive models",
+            "volume": "38",
+            "author": "Huang,",
+            "year": "2010",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580370600_B58",
+            "author": "Huang,",
+            "year": "2016",
+            "volume-title": "Determinants of bond risk premia"
+        },
+        {
+            "key": "2020051311580370600_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "881",
+            "DOI": "10.1111/j.1540-6261.1990.tb05110.x",
+            "article-title": "Evidence of predictable behavior of security returns",
+            "volume": "45",
+            "author": "Jegadeesh,",
+            "year": "1990",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1111/j.1540-6261.1993.tb04702.x",
+            "article-title": "Returns to buying winners and selling losers: Implications for stock market efficiency",
+            "volume": "48",
+            "author": "Jegadeesh,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B61",
+            "author": "Kelly,",
+            "year": "2017",
+            "volume-title": "Some characteristics are risk exposures, and the rest are irrelevant",
+            "DOI": "10.2139/ssrn.3032013",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B62",
+            "author": "Kim,",
+            "year": "2018",
+            "volume-title": "Arbitrage portfolios in large panels",
+            "DOI": "10.2139/ssrn.3263001",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1016/j.jfineco.2017.11.002",
+            "article-title": "Carry",
+            "volume": "127",
+            "author": "Koijen,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B64",
+            "author": "Kozak,",
+            "year": "2017",
+            "volume-title": "Shrinking the cross section",
+            "DOI": "10.3386/w24070",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "1541",
+            "DOI": "10.1111/j.1540-6261.1994.tb04772.x",
+            "article-title": "Contrarian investment, extrapolation, and risk",
+            "volume": "49",
+            "author": "Lakonishok,",
+            "year": "1994",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B66",
+            "author": "Lettau,",
+            "year": "2018",
+            "volume-title": "Factors that fit the time series and cross-section of stock returns",
+            "DOI": "10.3386/w24858",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020051311580370600_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/104.00000024",
+            "article-title": "The cross section of expected stock returns",
+            "volume": "4",
+            "author": "Lewellen,",
+            "year": "2015",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2020051311580370600_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1016/j.jfineco.2005.05.012",
+            "article-title": "The conditional CAPM does not explain asset-pricing anomalies",
+            "volume": "82",
+            "author": "Lewellen,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.2307/1924119",
+            "article-title": "The valuation of risky assets and the selection of risky investments in stock portfolios and capital budgets",
+            "volume": "47",
+            "author": "Lintner,",
+            "year": "1965",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2020051311580370600_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/0304-405X(79)90012-6",
+            "article-title": "The effect of personal taxes and dividends on capital asset prices: Theory and empirical evidence",
+            "volume": "7",
+            "author": "Litzenberger,",
+            "year": "1979",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "1429",
+            "DOI": "10.2307/1913837",
+            "article-title": "Asset prices in an exchange economy",
+            "volume": "46",
+            "author": "Lucas,",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311580370600_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "2825",
+            "DOI": "10.1093/rfs/hhm058",
+            "article-title": "The new issues puzzle: Testing the investment-based explanation",
+            "volume": "21",
+            "author": "Lyandres,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020051311580370600_B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.12365",
+            "article-title": "Does academic research destroy return predictability",
+            "volume": "71",
+            "author": "McLean,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "1436",
+            "DOI": "10.1214/009053606000000281",
+            "article-title": "High-dimensional graphs and variable selection with the Lasso",
+            "volume": "34",
+            "author": "Meinshausen,",
+            "year": "2006",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580370600_B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.2307/1913811",
+            "article-title": "An intertemporal capital asset pricing model",
+            "volume": "41",
+            "author": "Merton,",
+            "year": "1973",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311580370600_B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "768",
+            "DOI": "10.2307/1910098",
+            "article-title": "Equilibrium in a capital asset market",
+            "volume": "34",
+            "author": "Mossin,",
+            "year": "1966",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020051311580370600_B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1093/rof/rfq019",
+            "article-title": "Operating leverage",
+            "volume": "15",
+            "author": "Novy-Marx,",
+            "year": "2011",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2020051311580370600_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1016/j.jfineco.2011.05.003",
+            "article-title": "Is momentum really momentum?",
+            "volume": "103",
+            "author": "Novy-Marx,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1016/0165-4101(89)90017-7",
+            "article-title": "Financial statement analysis and the prediction of stock returns",
+            "volume": "11",
+            "author": "Ou,",
+            "year": "1989",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2020051311580370600_B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "162",
+            "DOI": "10.1016/j.jfineco.2011.12.009",
+            "article-title": "Cash holdings, risk, and expected returns",
+            "volume": "104",
+            "author": "Palazzo,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020051311580370600_B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1111/j.1540-6261.2008.01335.x",
+            "article-title": "Share issuance and cross-sectional returns",
+            "volume": "63",
+            "author": "Pontiff,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.1111/jofi.12041",
+            "article-title": "International stock return predictability: what is the role of the united states?",
+            "volume": "68",
+            "author": "Rapach,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.1016/j.jacceco.2005.04.005",
+            "article-title": "Accrual reliability, earnings persistence and stock prices",
+            "volume": "39",
+            "author": "Richardson,",
+            "year": "2005",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2020051311580370600_B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.3905/jpm.1985.409007",
+            "article-title": "Persuasive evidence of market inefficiency",
+            "volume": "11",
+            "author": "Rosenberg,",
+            "year": "1985",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2020051311580370600_B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "407",
+            "DOI": "10.2307/3003264",
+            "article-title": "The valuation of uncertain income streams and the pricing of options",
+            "volume": "7",
+            "author": "Rubinstein,",
+            "year": "1976",
+            "journal-title": "Bell Journal of Economics"
+        },
+        {
+            "key": "2020051311580370600_B86",
+            "first-page": "425",
+            "article-title": "Capital asset prices: A theory of market equilibrium under conditions of risk",
+            "volume": "19",
+            "author": "Sharpe,",
+            "year": "1964",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020051311580370600_B87",
+            "first-page": "289",
+            "article-title": "Do stock prices fully reflect information in accruals and cash flows about future earnings?",
+            "volume": "71",
+            "author": "Sloan,",
+            "year": "1996",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2020051311580370600_B88",
+            "doi-asserted-by": "crossref",
+            "first-page": "823",
+            "DOI": "10.2308/accr.2008.83.3.823",
+            "article-title": "The use of DuPont analysis by market participants",
+            "volume": "83",
+            "author": "Soliman,",
+            "year": "2008",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2020051311580370600_B89",
+            "doi-asserted-by": "crossref",
+            "first-page": "1040",
+            "DOI": "10.1214/aos/1176345969",
+            "article-title": "Optimal global rates of convergence for nonparametric regression",
+            "volume": "10",
+            "author": "Stone,",
+            "year": "1982",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580370600_B90",
+            "doi-asserted-by": "crossref",
+            "first-page": "689",
+            "DOI": "10.1214/aos/1176349548",
+            "article-title": "Additive regression and other nonparametric models",
+            "volume": "13",
+            "author": "Stone,",
+            "year": "1985",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580370600_B91",
+            "doi-asserted-by": "crossref",
+            "first-page": "590",
+            "DOI": "10.1214/aos/1176349940",
+            "article-title": "The dimensionality reduction principle for generalized additive models",
+            "volume": "14",
+            "author": "Stone,",
+            "year": "1986",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020051311580370600_B92",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1023/A:1020221918065",
+            "article-title": "Inventory changes and future returns",
+            "volume": "7",
+            "author": "Thomas,",
+            "year": "2002",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2020051311580370600_B93",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1111/j.1467-9868.2005.00532.x",
+            "article-title": "Model selection and estimation in regression with grouped variables",
+            "volume": "68",
+            "author": "Yuan,",
+            "year": "2006",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2020051311580370600_B94",
+            "doi-asserted-by": "crossref",
+            "first-page": "1418",
+            "DOI": "10.1198/016214506000000735",
+            "article-title": "The adaptive Lasso and its oracle properties",
+            "volume": "101",
+            "author": "Zou,",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2326/33209882/hhz123.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/5/2326/33209882/hhz123.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                14
+            ]
+        ],
+        "date-time": "2020-05-14T02:41:44Z",
+        "timestamp": 1589424104000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                4,
+                17
+            ]
+        ]
+    },
+    "references-count": 94,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    4,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz123",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}
