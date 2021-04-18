@@ -1,0 +1,791 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                5
+            ]
+        ],
+        "date-time": "2021-04-05T23:23:50Z",
+        "timestamp": 1617665030589
+    },
+    "reference-count": 73,
+    "publisher": "Wiley",
+    "issue": "4",
+    "license": [
+        {
+            "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        18
+                    ]
+                ],
+                "date-time": "2018-07-18T00:00:00Z",
+                "timestamp": 1531872000000
+            },
+            "delay-in-days": 0,
+            "content-version": "tdm"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        18
+                    ]
+                ],
+                "date-time": "2018-07-18T00:00:00Z",
+                "timestamp": 1531872000000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "The Journal of Finance"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2018,
+                8
+            ]
+        ]
+    },
+    "DOI": "10.1111/jofi.12684",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                4,
+                16
+            ]
+        ],
+        "date-time": "2018-04-16T16:15:27Z",
+        "timestamp": 1523895327000
+    },
+    "page": "1785-1818",
+    "source": "Crossref",
+    "is-referenced-by-count": 38,
+    "title": [
+        "Networks in Production: Asset Pricing Implications"
+    ],
+    "prefix": "10.1111",
+    "volume": "73",
+    "author": [
+        {
+            "given": "BERNARD",
+            "family": "HERSKOVIC",
+            "sequence": "first",
+            "affiliation": []
+        }
+    ],
+    "member": "311",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                18
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "10.1111/jofi.12684-BIB0001|jofi12684-cit-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1977",
+            "DOI": "10.3982/ECTA9623",
+            "article-title": "The network origins of aggregate fluctuations",
+            "volume": "80",
+            "author": "Acemoglu",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0002|jofi12684-cit-0002",
+            "doi-asserted-by": "publisher",
+            "first-page": "564",
+            "DOI": "10.1257/aer.20130456",
+            "article-title": "Systemic risk and stability in financial networks",
+            "volume": "105",
+            "author": "Acemoglu",
+            "year": "2015a",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0003|jofi12684-cit-0003",
+            "unstructured": "Acemoglu , Daron Asuman Ozdaglar Alireza Tahbaz-Salehi 2015b Systemic risk in endogenous financial networks",
+            "DOI": "10.2139/ssrn.2553900",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0004|jofi12684-cit-0004",
+            "unstructured": "Ahern , Kenneth 2013 Network centrality and the cross section of stock returns",
+            "DOI": "10.2139/ssrn.2197370",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0005|jofi12684-cit-0005",
+            "doi-asserted-by": "publisher",
+            "first-page": "527",
+            "DOI": "10.1111/jofi.12122",
+            "article-title": "The importance of industry links in merger waves",
+            "volume": "69",
+            "author": "Ahern",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0006|jofi12684-cit-0006",
+            "author": "Allen",
+            "year": "2009",
+            "volume-title": "The Network Challenge"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0007|jofi12684-cit-0007",
+            "doi-asserted-by": "publisher",
+            "first-page": "1191",
+            "DOI": "10.1007/s11142-014-9286-7",
+            "article-title": "Inter-industry network structure, information transfers, and the cross-predictability of earnings and stock returns",
+            "volume": "19",
+            "author": "Aobdia",
+            "year": "2014",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0008|jofi12684-cit-0008",
+            "doi-asserted-by": "publisher",
+            "first-page": "254",
+            "DOI": "10.1257/mac.20160353",
+            "article-title": "How important are sectoral shocks",
+            "volume": "9",
+            "author": "Atalay",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0009|jofi12684-cit-0009",
+            "unstructured": "Attanasio , Orazio Erich Battistin Andrew Leicester 2004 Inequality, poverty, and their evolution in the US: Consumption and income information in the Consumer Expenditure Survey"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0010|jofi12684-cit-0010",
+            "doi-asserted-by": "publisher",
+            "first-page": "239",
+            "DOI": "10.1111/1756-2171.12126",
+            "article-title": "The formation of financial networks",
+            "volume": "47",
+            "author": "Babus",
+            "year": "2016",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0011|jofi12684-cit-0011",
+            "doi-asserted-by": "publisher",
+            "first-page": "200",
+            "DOI": "10.1016/j.jfineco.2017.04.009",
+            "article-title": "Endogenous intermediation in over-the-counter markets",
+            "volume": "125",
+            "author": "Babus",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0012|jofi12684-cit-0012",
+            "unstructured": "Babus , Ana P\u00e9ter Kondor 2016 Trading and information diffusion in over-the-counter markets Econometricia"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0013|jofi12684-cit-0013",
+            "unstructured": "Babus , Ana Cecilia Parlatore 2016 Strategic fragmented markets",
+            "DOI": "10.2139/ssrn.2856629",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0014|jofi12684-cit-0014",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1016/0035-5054(93)90023-V",
+            "article-title": "Aggregate fluctuations from independent sectoral shocks: Self-organized criticality in a model of production and inventory dynamics",
+            "volume": "47",
+            "author": "Bak",
+            "year": "1993",
+            "journal-title": "Ricerche Economiche"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0015|jofi12684-cit-0015",
+            "doi-asserted-by": "publisher",
+            "first-page": "1181",
+            "DOI": "10.1111/1468-0262.00155",
+            "article-title": "A noncooperative model of network formation",
+            "volume": "68",
+            "author": "Bala",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0016|jofi12684-cit-0016",
+            "doi-asserted-by": "publisher",
+            "first-page": "1418",
+            "DOI": "10.1257/aer.96.5.1418",
+            "article-title": "Are technology improvements contractionary",
+            "volume": "96",
+            "author": "Basu",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0017|jofi12684-cit-0017",
+            "doi-asserted-by": "publisher",
+            "first-page": "146",
+            "DOI": "10.1016/j.jmoneco.2009.12.001",
+            "article-title": "Production-based measures of risk for asset pricing",
+            "volume": "57",
+            "author": "Belo",
+            "year": "2010",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0018|jofi12684-cit-0018",
+            "unstructured": "Biggio , Saki Jennifer La'O 2016 Financial frictions in production networks"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0019|jofi12684-cit-0019",
+            "doi-asserted-by": "publisher",
+            "first-page": "1699",
+            "DOI": "10.1111/jofi.12397",
+            "article-title": "Good-specific habit formation and the cross-section of expected returns",
+            "volume": "71",
+            "author": "Binsbergen",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0020|jofi12684-cit-0020",
+            "author": "Carroll",
+            "year": "2015",
+            "volume-title": "Improving the Measurement of Consumer Expenditures",
+            "DOI": "10.7208/chicago/9780226194714.001.0001",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0021|jofi12684-cit-0021",
+            "unstructured": "Carvalho , Vasco M. 2010 Aggregate fluctuations and the network structure of intersectoral trade"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0022|jofi12684-cit-0022",
+            "doi-asserted-by": "publisher",
+            "first-page": "23",
+            "DOI": "10.1257/jep.28.4.23",
+            "article-title": "From micro to macro via production networks",
+            "volume": "28",
+            "author": "Carvalho",
+            "year": "2014",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0023|jofi12684-cit-0023",
+            "doi-asserted-by": "publisher",
+            "first-page": "1697",
+            "DOI": "10.1257/aer.103.5.1697",
+            "article-title": "The great diversification and its undoing",
+            "volume": "103",
+            "author": "Carvalho",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0024|jofi12684-cit-0024",
+            "unstructured": "Carvalho , Vasco M. Basile Grassi 2015 Large firm dynamics and the business cycle"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0025|jofi12684-cit-0025",
+            "unstructured": "Carvalho , Vasco M. Makoto Nirei Yukiko Saito Alireza Tahbaz-Salehi 2016 Supply chain disruptions: Evidence from the Great East Japan Earthquake",
+            "DOI": "10.2139/ssrn.2893221",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0026|jofi12684-cit-0026",
+            "unstructured": "Carvalho , Vasco M. Nico Voigtlander 2014 Input diffusion and the evolution of production networks",
+            "DOI": "10.3386/w20025",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0027|jofi12684-cit-0027",
+            "doi-asserted-by": "publisher",
+            "first-page": "1977",
+            "DOI": "10.1111/j.1540-6261.2008.01379.x",
+            "article-title": "Economic links and predictable returns",
+            "volume": "63",
+            "author": "Cohen",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0028|jofi12684-cit-0028",
+            "doi-asserted-by": "publisher",
+            "first-page": "951",
+            "DOI": "10.1086/592415",
+            "article-title": "The small world of investing: Board connections and mutual fund returns",
+            "volume": "116",
+            "author": "Cohen",
+            "year": "2008",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0029|jofi12684-cit-0029",
+            "unstructured": "Corhay , Alexandre Howard Kung Lukas Schmid 2017 Competition, markups and predictable returns https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2550981"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0030|jofi12684-cit-0030",
+            "unstructured": "Denbee , Edward Christian Julliard Ye Li Kathy Yuan 2017 Network risk and key players: A structural analysis of interbank liquidity",
+            "DOI": "10.2139/ssrn.2884461",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0031|jofi12684-cit-0031",
+            "unstructured": "Eisfeldt , Andrea L. Bernard Herskovic Emil Siriwardane Sriram Rajan 2018 OTC intermediaries",
+            "DOI": "10.2139/ssrn.3245966",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0032|jofi12684-cit-0032",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0033|jofi12684-cit-0033",
+            "doi-asserted-by": "publisher",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0034|jofi12684-cit-0034",
+            "unstructured": "Farboodi , Maryam 2014 Intermediation and voluntary exposure to counterparty risk https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2535900",
+            "DOI": "10.2139/ssrn.2535900",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0035|jofi12684-cit-0035",
+            "unstructured": "Fernald , John 2012 A quarterly, utilization-adjusted series on total factor productivity",
+            "DOI": "10.24148/wp2012-19",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0036|jofi12684-cit-0036",
+            "unstructured": "Fernald , John Kyle Matoba 2009 Growth accounting, potential output, and the current recession https://pdfs.semanticscholar.org/b098/2a8b94e25c70fa4dd57035c120302c8cc112.pdf"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0037|jofi12684-cit-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "733",
+            "DOI": "10.3982/ECTA8769",
+            "article-title": "The granular origins of aggregate fluctuations",
+            "volume": "79",
+            "author": "Gabaix",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0038|jofi12684-cit-0038",
+            "doi-asserted-by": "publisher",
+            "first-page": "1468",
+            "DOI": "10.1257/aer.100.4.1468",
+            "article-title": "The law of the few",
+            "volume": "100",
+            "author": "Galeotti",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0039|jofi12684-cit-0039",
+            "unstructured": "Gofman , Michael 2011 A network-based analysis of over-the-counter markets",
+            "DOI": "10.2139/ssrn.1681151",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0040|jofi12684-cit-0040",
+            "doi-asserted-by": "publisher",
+            "first-page": "113",
+            "DOI": "10.1016/j.jfineco.2016.12.009",
+            "article-title": "Efficiency and stability of a financial architecture with too-interconnected-to-fail institutions",
+            "volume": "124",
+            "author": "Gofman",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0041|jofi12684-cit-0041",
+            "doi-asserted-by": "publisher",
+            "first-page": "941",
+            "DOI": "10.1086/648882",
+            "article-title": "Durability of output and expected stock returns",
+            "volume": "117",
+            "author": "Gomes",
+            "year": "2009",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0042|jofi12684-cit-0042",
+            "unstructured": "Gomes , Joao Lukas Schmid 2012 Equilibrium credit spreads and the macroeconomy"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0043|jofi12684-cit-0043",
+            "doi-asserted-by": "publisher",
+            "first-page": "249",
+            "DOI": "10.1016/j.jfineco.2015.09.010",
+            "article-title": "The common factor in idiosyncratic volatility: Quantitative asset pricing implications",
+            "volume": "119",
+            "author": "Herskovic",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0044|jofi12684-cit-0044",
+            "unstructured": "Herskovic , Bernard Bryan Kelly Hanno Lustig Stijn Van Nieuwerburgh 2017 Firm volatility in granular networks"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0045|jofi12684-cit-0045",
+            "unstructured": "Herskovic , Bernard Joao Ramos 2017 Information through peers https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2613202"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0046|jofi12684-cit-0046",
+            "doi-asserted-by": "publisher",
+            "first-page": "3048",
+            "DOI": "10.1093/rfs/hhx027",
+            "article-title": "Bid-ask spreads, trading networks, and the pricing of securitizations",
+            "volume": "30",
+            "author": "Hollifield",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0047|jofi12684-cit-0047",
+            "doi-asserted-by": "publisher",
+            "first-page": "1927",
+            "DOI": "10.1111/j.1540-6261.2006.00893.x",
+            "article-title": "Industry concentration and average stock returns",
+            "volume": "61",
+            "author": "Hou",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0048|jofi12684-cit-0048",
+            "doi-asserted-by": "publisher",
+            "first-page": "257",
+            "DOI": "10.1016/S0304-3932(97)00078-0",
+            "article-title": "Asset pricing in production economies",
+            "volume": "41",
+            "author": "Jermann",
+            "year": "1998",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0049|jofi12684-cit-0049",
+            "doi-asserted-by": "publisher",
+            "first-page": "279",
+            "DOI": "10.1016/j.jfineco.2010.04.007",
+            "article-title": "The equity premium implied by production",
+            "volume": "98",
+            "author": "Jermann",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0050|jofi12684-cit-0050",
+            "doi-asserted-by": "publisher",
+            "first-page": "293",
+            "DOI": "10.1016/j.jfineco.2013.03.001",
+            "article-title": "A production-based model for the term structure",
+            "volume": "109",
+            "author": "Jermann",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0051|jofi12684-cit-0051",
+            "doi-asserted-by": "publisher",
+            "first-page": "395",
+            "DOI": "10.2307/1885069",
+            "article-title": "Micro shocks and aggregate risk",
+            "volume": "102",
+            "author": "Jovanovic",
+            "year": "1987",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0052|jofi12684-cit-0052",
+            "doi-asserted-by": "publisher",
+            "first-page": "39",
+            "DOI": "10.1007/BF02289026",
+            "article-title": "A new status index derived from sociometric analysis",
+            "volume": "18",
+            "author": "Katz",
+            "year": "1953",
+            "journal-title": "Psychometrika"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0053|jofi12684-cit-0053",
+            "unstructured": "Kogan , Leonid Dimitris Papanikolaou Noah Stoffman 2015 Winners and losers: Creative destruction and the stock market"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0054|jofi12684-cit-0054",
+            "author": "Koijen",
+            "year": "2013",
+            "volume-title": "Improving the Measurement of Consumption Expenditures"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0055|jofi12684-cit-0055",
+            "unstructured": "Kuehn , Lars-Alexander 2009 Disentangling investment returns and stock returns: The importance of time-to-build",
+            "DOI": "10.2139/ssrn.968333",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0056|jofi12684-cit-0056",
+            "doi-asserted-by": "publisher",
+            "first-page": "2741",
+            "DOI": "10.1111/jofi.12204",
+            "article-title": "Investment-based corporate bond pricing",
+            "volume": "69",
+            "author": "Kuehn",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0057|jofi12684-cit-0057",
+            "doi-asserted-by": "publisher",
+            "first-page": "1001",
+            "DOI": "10.1111/jofi.12241",
+            "article-title": "Innovation, growth and asset prices",
+            "volume": "70",
+            "author": "Kung",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0058|jofi12684-cit-0058",
+            "doi-asserted-by": "publisher",
+            "first-page": "175",
+            "DOI": "10.1016/j.jfineco.2009.09.001",
+            "article-title": "A skeptical appraisal of asset pricing tests",
+            "volume": "96",
+            "author": "Lewellen",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0059|jofi12684-cit-0059",
+            "unstructured": "Li , Dan Norman Sch\u00fcrhoff 2013 Dealer networks: Market quality in over-the-counter markets https://finance.uni-mannheim.de/fileadmin/files/areafinance/files/HWS_2013/Schuerhoff_2013_DealerNetworks.pdf"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0060|jofi12684-cit-0060",
+            "doi-asserted-by": "publisher",
+            "first-page": "5251",
+            "DOI": "10.1093/rfs/hhp045",
+            "article-title": "Expected returns and the business cycle: Heterogeneous goods and time-varying risk aversion",
+            "volume": "22",
+            "author": "Lochstoer",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0061|jofi12684-cit-0061",
+            "doi-asserted-by": "publisher",
+            "first-page": "39",
+            "DOI": "10.1086/261128",
+            "article-title": "Real business cycles",
+            "volume": "91",
+            "author": "Long",
+            "year": "1983",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0062|jofi12684-cit-0062",
+            "unstructured": "Loualiche , Erik 2012 Asset pricing with entry and imperfect competition https://loualiche.gitlab.io/www/docs/AP_entry.pdf"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0063|jofi12684-cit-0063",
+            "doi-asserted-by": "publisher",
+            "first-page": "3320",
+            "DOI": "10.1257/aer.20140759",
+            "article-title": "Decentralized exchange",
+            "volume": "107",
+            "author": "Malamud",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0064|jofi12684-cit-0064",
+            "doi-asserted-by": "publisher",
+            "first-page": "2427",
+            "DOI": "10.1111/j.1540-6261.2009.01507.x",
+            "article-title": "Long-run stockholder consumption risk and asset returns",
+            "volume": "64",
+            "author": "Malloy",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0065|jofi12684-cit-0065",
+            "unstructured": "Neklyudov , Artem Batchimeg Sambalaibat 2015 Endogenous specialization and dealer networks https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2676116"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0066|jofi12684-cit-0066",
+            "doi-asserted-by": "publisher",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+            "volume": "55",
+            "author": "Newey",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0067|jofi12684-cit-0067",
+            "unstructured": "Oberfield , Ezra 2012 Business networks, production chains, and productivity: A theory of input-output architecture",
+            "DOI": "10.2139/ssrn.1967148",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0068|jofi12684-cit-0068",
+            "unstructured": "Ozdagli , Ali K. Michael Weber 2017 Monetary policy through production networks: Evidence from the stock market",
+            "DOI": "10.3386/w23424",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0069|jofi12684-cit-0069",
+            "doi-asserted-by": "publisher",
+            "first-page": "639",
+            "DOI": "10.1086/662221",
+            "article-title": "Investment shocks and asset prices",
+            "volume": "119",
+            "author": "Papanikolaou",
+            "year": "2011",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0070|jofi12684-cit-0070",
+            "unstructured": "Pasten , Ernesto Raphael Schoenle Michael Weber 2016 The propagation of monetary policy shocks in a heterogeneous production economy http://faculty.chicagobooth.edu/michael.weber/research/pdf/monetaryPolicyShocks.pdf"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0071|jofi12684-cit-0071",
+            "unstructured": "Richmond , Robert J. 2016 Trade network centrality and currency risk premia https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2607735",
+            "DOI": "10.2139/ssrn.2607735",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0072|jofi12684-cit-0072",
+            "unstructured": "Wu , Di 2016 Shock spillover and financial response in supply chain networks: Evidence from firm-level data http://fbe.usc.edu/seminars/papers/RECR_1-29-16_F_WUjmp.pdf"
+        },
+        {
+            "key": "10.1111/jofi.12684-BIB0073|jofi12684-cit-0073",
+            "doi-asserted-by": "publisher",
+            "first-page": "539",
+            "DOI": "10.1111/j.1540-6261.2006.00848.x",
+            "article-title": "A consumption-based explanation of expected stock returns",
+            "volume": "61",
+            "author": "Yogo",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        }
+    ],
+    "container-title": [
+        "The Journal of Finance"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjofi.12684",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/jofi.12684/fullpdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                10,
+                15
+            ]
+        ],
+        "date-time": "2019-10-15T23:17:20Z",
+        "timestamp": 1571181440000
+    },
+    "score": 1.0,
+    "subtitle": [
+        "Networks in Production: Asset Pricing Implications"
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                18
+            ]
+        ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    8
+                ]
+            ]
+        },
+        "issue": "4"
+    },
+    "URL": "http://dx.doi.org/10.1111/jofi.12684",
+    "archive": [
+        "Portico"
+    ],
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0022-1082"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-1082",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

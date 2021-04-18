@@ -1,0 +1,714 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                29
+            ]
+        ],
+        "date-time": "2021-03-29T07:03:55Z",
+        "timestamp": 1617001435860
+    },
+    "reference-count": 51,
+    "publisher": "Wiley",
+    "issue": "2",
+    "license": [
+        {
+            "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+            "start": {
+                "date-parts": [
+                    [
+                        2013,
+                        3,
+                        7
+                    ]
+                ],
+                "date-time": "2013-03-07T00:00:00Z",
+                "timestamp": 1362614400000
+            },
+            "delay-in-days": 0,
+            "content-version": "tdm"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+            "start": {
+                "date-parts": [
+                    [
+                        2013,
+                        3,
+                        7
+                    ]
+                ],
+                "date-time": "2013-03-07T00:00:00Z",
+                "timestamp": 1362614400000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2013,
+                4
+            ]
+        ]
+    },
+    "DOI": "10.1111/jofi.12010",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2012,
+                11,
+                26
+            ]
+        ],
+        "date-time": "2012-11-26T19:08:05Z",
+        "timestamp": 1353956885000
+    },
+    "page": "665-714",
+    "source": "Crossref",
+    "is-referenced-by-count": 132,
+    "title": [
+        "Noisy Prices and Inference Regarding Returns"
+    ],
+    "prefix": "10.1111",
+    "volume": "68",
+    "author": [
+        {
+            "given": "ELENA",
+            "family": "ASPAROUHOVA",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "HENDRIK",
+            "family": "BESSEMBINDER",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "IVALINA",
+            "family": "KALCHEVA",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "311",
+    "published-online": {
+        "date-parts": [
+            [
+                2013,
+                3,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "10.1111/jofi.12010-BIB1|cit1",
+            "doi-asserted-by": "crossref",
+            "first-page": "443",
+            "DOI": "10.1093/rfs/4.3.443",
+            "article-title": "Sunshine trading and financial market equilibrium",
+            "volume": "4",
+            "author": "Admati",
+            "year": "1991",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB2|cit2",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1093/rfs/hhi016",
+            "article-title": "How often to sample a continuous-time process in the presence of market microstructure noise",
+            "volume": "18",
+            "author": "Yacine",
+            "year": "2005",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB3|cit3",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/S1386-4181(01)00024-6",
+            "article-title": "Illiquidity and stock returns: Cross-section and time-series effects",
+            "volume": "5",
+            "author": "Yakov",
+            "year": "2002",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB4|cit4",
+            "doi-asserted-by": "crossref",
+            "first-page": "220",
+            "DOI": "10.1016/j.jeconom.2010.03.032",
+            "article-title": "Realized volatility forecasting and market microstructure noise",
+            "volume": "160",
+            "author": "Bollerslev",
+            "year": "2011",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB5|cit5",
+            "doi-asserted-by": "crossref",
+            "first-page": "406",
+            "DOI": "10.1016/j.jfineco.2007.04.005",
+            "article-title": "Trading imbalances, predictable reversals, and cross-stock price pressure",
+            "volume": "88",
+            "author": "Chang",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB6|cit6",
+            "unstructured": "Ang , Andrew Jun Liu Krista Schwarz 2010 Using stock or portfolios in tests of factor models Columbia University"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB7|cit7",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/j.jfineco.2009.12.011",
+            "article-title": "Liquidity biases in asset pricing tests",
+            "volume": "96",
+            "author": "Bessembinder",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB8|cit8",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1016/j.jfineco.2005.01.001",
+            "article-title": "Short interest, institutional ownership, and stock returns",
+            "volume": "78",
+            "author": "Paul",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB9|cit9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2503",
+            "DOI": "10.1111/j.1540-6261.2007.01282.x",
+            "article-title": "Momentum and credit rating",
+            "volume": "62",
+            "author": "Doron",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB10|cit10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1801",
+            "DOI": "10.1111/0022-1082.00390",
+            "article-title": "True spreads and equilibrium prices",
+            "volume": "56",
+            "author": "Ball",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB11|cit11",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.1016/j.jfineco.2005.01.005",
+            "article-title": "Separating microstructure noise from volatility",
+            "volume": "79",
+            "author": "Federico",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB12|cit12",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1016/S0304-405X(96)00890-2",
+            "article-title": "Detecting long-run abnormal stock returns: The empirical power and specifications of test statistics",
+            "volume": "43",
+            "author": "Brad",
+            "year": "1997",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB13|cit13",
+            "author": "Nicholas",
+            "year": "2003",
+            "article-title": "A survey of behavioral finance",
+            "journal-title": "Handbook of the Economics of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB14|cit14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S1386-4181(97)00012-8",
+            "article-title": "Optimal control of execution costs",
+            "volume": "1",
+            "author": "Dimitris",
+            "year": "1998",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB15|cit15",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.1111/j.1540-6261.1986.tb04513.x",
+            "article-title": "Noise",
+            "volume": "41",
+            "author": "Fisher",
+            "year": "1986",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB16|cit16",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.1016/0304-405X(83)90056-9",
+            "article-title": "Biases in computed returns: An application to the size effect",
+            "volume": "12",
+            "author": "Blume",
+            "year": "1983",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB17|cit17",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/S0304-405X(98)00028-2",
+            "article-title": "Alternative factor specifications, security characteristics, and the cross-section of expected stock returns",
+            "volume": "49",
+            "author": "Brennan",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB18|cit18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3437",
+            "DOI": "10.1093/rfs/hhq064",
+            "article-title": "The mispricing return premium",
+            "volume": "23",
+            "author": "Brennan",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB19|cit19",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Mark",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB20|cit20",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1111/1540-6261.00438",
+            "article-title": "Leaning for the tape: Evidence of gaming behavior in equity mutual funds",
+            "volume": "57",
+            "author": "Mark",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB21|cit21",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1111/0022-1082.00335",
+            "article-title": "Market liquidity and trading activity",
+            "volume": "56",
+            "author": "Tarun",
+            "year": "2001",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB22|cit22",
+            "doi-asserted-by": "crossref",
+            "first-page": "485",
+            "DOI": "10.1016/S0304-405X(03)00175-2",
+            "article-title": "Order imbalance and individual stock returns: Theory and evidence",
+            "volume": "72",
+            "author": "Tarun",
+            "year": "2004",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB23|cit23",
+            "first-page": "1977",
+            "article-title": "Economic links and predictable returns",
+            "volume": "42",
+            "author": "Lauren",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB24|cit24",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1111/j.1540-6261.1993.tb04701.x",
+            "article-title": "Long-term market overreaction or biases in computed returns",
+            "volume": "48",
+            "author": "Conrad",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB25|cit25",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1093/rfs/11.3.489",
+            "article-title": "An anatomy of trading strategies",
+            "volume": "11",
+            "author": "Jennifer",
+            "year": "1998",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB26|cit26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1609",
+            "DOI": "10.1111/j.1540-6261.2008.01370.x",
+            "article-title": "Asset growth and the cross-section of stock returns",
+            "volume": "63",
+            "author": "Micheal",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB27|cit27",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1016/0304-405X(79)90013-8",
+            "article-title": "Risk measurement when shares are subject to infrequent trading",
+            "volume": "7",
+            "author": "Elroy",
+            "year": "1979",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB28|cit28",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/0304-405X(93)90032-7",
+            "article-title": "The seasonal behavior of the liquidity premium in asset pricing",
+            "volume": "34",
+            "author": "Eleswarapu",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB29|cit29",
+            "unstructured": "Engle , Robert F. Zheng Sun 2007 When is noise not noise-A microstructure estimate of realized volatility"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB30|cit30",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1111/j.1540-6261.1992.tb04398.x",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "47",
+            "author": "Fama",
+            "year": "1992",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB31|cit31",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "71",
+            "author": "Fama",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB32|cit32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2023",
+            "DOI": "10.1111/j.1540-6261.2009.01493.x",
+            "article-title": "Media coverage and the cross-section of stock returns",
+            "volume": "64",
+            "author": "Lily",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB33|cit33",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1086/296667",
+            "article-title": "Do arbitrage pricing models explain the predictability of stock returns?",
+            "volume": "68",
+            "author": "Ferson",
+            "year": "1995",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB34|cit34",
+            "unstructured": "Fisher , Lawrence Daniel Weaver 1992 Dealing with short-term anomalies in the relative prices of securities Rutgers University"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB35|cit35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.2307/1913625",
+            "article-title": "A test of the efficiency of a given portfolio",
+            "volume": "57",
+            "author": "Ross",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB36|cit36",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1162/00335530360535162",
+            "article-title": "Corporate governance and equity prices",
+            "volume": "118",
+            "author": "Paul",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB37|cit37",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1111/j.1540-6261.1988.tb04594.x",
+            "article-title": "Liquidity and market structure",
+            "volume": "43",
+            "author": "Grossman",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB38|cit38",
+            "author": "Lawrence",
+            "year": "2003",
+            "journal-title": "Trading and Exchanges"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB39|cit39",
+            "author": "Joel",
+            "year": "2007",
+            "journal-title": "Empirical Market Microstructure"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB40|cit40",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1016/S0304-405X(00)00091-X",
+            "article-title": "Common factors in prices, order flows, and liquidity",
+            "volume": "59",
+            "author": "Joel",
+            "year": "2001",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB41|cit41",
+            "unstructured": "Hendershott , Terrence Sunny Li Albert J. Menkveld Mark S. Seasholes 2011 Risk sharing, costly participation, and monthly returns UC Berkeley",
+            "DOI": "10.2139/ssrn.1651098",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB42|cit42",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1006/reec.1999.0207",
+            "article-title": "The disappearing size effect",
+            "volume": "54",
+            "author": "Joel",
+            "year": "2000",
+            "journal-title": "Research in Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB43|cit43",
+            "first-page": "1",
+            "article-title": "Cap-weighted portfolios are sub-optimal portfolios",
+            "volume": "4",
+            "author": "Hsu",
+            "year": "2006",
+            "journal-title": "Journal of Investment Management"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB44|cit44",
+            "doi-asserted-by": "crossref",
+            "first-page": "881",
+            "DOI": "10.1111/j.1540-6261.1990.tb05110.x",
+            "article-title": "Evidence of predictable behavior of security returns",
+            "volume": "45",
+            "author": "Narasimhan",
+            "year": "1990",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB45|cit45",
+            "doi-asserted-by": "crossref",
+            "first-page": "699",
+            "DOI": "10.1111/0022-1082.00342",
+            "article-title": "Profitability of momentum strategies: An evaluation of alternative explanations",
+            "volume": "56",
+            "author": "Narasimhan",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB46|cit46",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1016/0304-405X(83)90025-9",
+            "article-title": "Size-related anomalies and stock return seasonality: Further empirical evidence",
+            "volume": "12",
+            "author": "Keim",
+            "year": "1983",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB47|cit47",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "DOI": "10.1093/rfs/14.1.79",
+            "article-title": "Are insider trades informative?",
+            "volume": "14",
+            "author": "Lakonishok",
+            "year": "2001",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB48|cit48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2937816",
+            "article-title": "Fads, martingales, and market efficiency",
+            "volume": "105",
+            "author": "Lehmann",
+            "year": "1990",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB49|cit49",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/374184",
+            "article-title": "Liquidity risk and expected stock returns",
+            "volume": "111",
+            "author": "L\u0306ubos\u0306",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB50|cit50",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/0304-405X(88)90021-9",
+            "article-title": "Mean reversion in stock prices: Evidence and implications",
+            "volume": "22",
+            "author": "Poterba",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "10.1111/jofi.12010-BIB51|cit51",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1016/0304-405X(77)90041-1",
+            "article-title": "Estimating betas from nonsynchronous data",
+            "volume": "5",
+            "author": "Myron",
+            "year": "1977",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Journal of Finance"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjofi.12010",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjofi.12010",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/jofi.12010/fullpdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                30
+            ]
+        ],
+        "date-time": "2020-12-30T09:16:54Z",
+        "timestamp": 1609319814000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2013,
+                3,
+                7
+            ]
+        ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+        "published-print": {
+            "date-parts": [
+                [
+                    2013,
+                    4
+                ]
+            ]
+        },
+        "issue": "2"
+    },
+    "URL": "http://dx.doi.org/10.1111/jofi.12010",
+    "archive": [
+        "Portico"
+    ],
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0022-1082"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-1082",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

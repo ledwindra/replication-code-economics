@@ -1,0 +1,500 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                4
+            ]
+        ],
+        "date-time": "2021-01-04T08:41:39Z",
+        "timestamp": 1609749699035
+    },
+    "reference-count": 50,
+    "publisher": "Wiley",
+    "issue": "1",
+    "license": [
+        {
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        10
+                    ]
+                ],
+                "date-time": "2020-10-10T00:00:00Z",
+                "timestamp": 1602288000000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        },
+        {
+            "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        10
+                    ]
+                ],
+                "date-time": "2020-10-10T00:00:00Z",
+                "timestamp": 1602288000000
+            },
+            "delay-in-days": 0,
+            "content-version": "tdm"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "The Journal of Finance"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                2
+            ]
+        ]
+    },
+    "DOI": "10.1111/jofi.12977",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                24
+            ]
+        ],
+        "date-time": "2020-09-24T18:40:09Z",
+        "timestamp": 1600972809000
+    },
+    "page": "169-210",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Capitalization of Consumer Financing into Durable Goods Prices"
+    ],
+    "prefix": "10.1111",
+    "volume": "76",
+    "author": [
+        {
+            "given": "BRONSON",
+            "family": "ARGYLE",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "TAYLOR",
+            "family": "NADAULD",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "CHRISTOPHER",
+            "family": "PALMER",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "RYAN",
+            "family": "PRATT",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "311",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "e_1_2_7_2_1",
+            "DOI": "10.1257/aer.99.1.49",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_3_1",
+            "unstructured": "Adelino Manuel AntoinetteSchoar andFelipeSeverino 2012 Credit supply and house prices: Evidence from mortgage market segmentation NBER Working Paper 17832.",
+            "DOI": "10.3386/w17832",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_4_1",
+            "DOI": "10.1093/rfs/hhaa004",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_5_1",
+            "unstructured": "Argyle Bronson TaylorNadauld andChristopherPalmer 2020b Real effects of search frictions in consumer credit markets MIT Sloan NBER Working Paper 26645.",
+            "DOI": "10.3386/w26645",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_6_1",
+            "DOI": "10.1093/qje/qjw031",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_7_1",
+            "unstructured": "Bhutta Neil andDaniel R.Ringo 2017 The effect of interest rates on home buying: Evidence from a discontinuity in mortgage insurance premiums SSRN Working Paper No. 3085008.",
+            "DOI": "10.2139/ssrn.3085008",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_8_1",
+            "unstructured": "Borio Claudio E. V. andPhilipLowe 2002 Asset prices financial and monetary stability: Exploring the nexus BIS Working Papers Series 114.",
+            "DOI": "10.2139/ssrn.846305",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_9_1",
+            "unstructured": "Busse Meghan R. Christopher R.Knittel andFlorianZettelmeyer 2012 Stranded vehicles: How gasoline taxes change the value of households' vehicle assets Working paper Northwestern University."
+        },
+        {
+            "key": "e_1_2_7_10_1",
+            "DOI": "10.1257/aer.96.4.1253",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_11_1",
+            "DOI": "10.1111/j.1467-6451.2012.00488.x",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_12_1",
+            "author": "Correia Sergio",
+            "year": "2017",
+            "article-title": "reghdfe: Stata module for linear and instrumental\u2010variable/gmm regression absorbing multiple levels of fixed effects",
+            "journal-title": "Statistical Software Components"
+        },
+        {
+            "key": "e_1_2_7_13_1",
+            "first-page": "1",
+            "article-title": "The impact of federal housing policy on housing demand and homeownership: Evidence from a quasi\u2010experiment",
+            "volume": "48",
+            "author": "Davis Morris A.",
+            "year": "2020",
+            "journal-title": "Journal of Housing Economics"
+        },
+        {
+            "key": "e_1_2_7_14_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "999",
+            "DOI": "10.1093/restud/rdx049",
+            "article-title": "Fuzzy differences\u2010in\u2010differences",
+            "volume": "85",
+            "author": "Chaisemartin Cl\u00e9ment",
+            "year": "2017",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "e_1_2_7_15_1",
+            "DOI": "10.1093/rfs/hhx056",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_16_1",
+            "DOI": "10.2307/2937924",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_17_1",
+            "DOI": "10.3982/ECTA7677",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_18_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2754",
+            "DOI": "10.1287/mnsc.2016.2714",
+            "article-title": "Price discontinuities in an online market for used cars",
+            "volume": "64",
+            "author": "Englmaier Florian",
+            "year": "2018",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "e_1_2_7_19_1",
+            "DOI": "10.1257/aer.20121416",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_20_1",
+            "DOI": "10.1257/aer.104.11.3668",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_21_1",
+            "author": "Glaeser Edward L.",
+            "year": "2012",
+            "volume-title": "Housing and the Financial Crisis"
+        },
+        {
+            "key": "e_1_2_7_22_1",
+            "DOI": "10.1162/003355398555540",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_23_1",
+            "unstructured": "Hansman Christopher HarrisonHong WenxiJiang Yu\u2010JaneLiu andJuan\u2010JuanMeng 2018 Riding the credit boom NBER Working Paper 24586.",
+            "DOI": "10.3386/w24586",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_24_1",
+            "DOI": "10.1016/j.jfineco.2008.05.006",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_25_1",
+            "DOI": "10.1093/rfs/hhy024",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_26_1",
+            "DOI": "10.1093/rfs/hht006",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_27_1",
+            "first-page": "5556",
+            "article-title": "Invest in information or wing it? a model of dynamic pricing with seller learning",
+            "volume": "65",
+            "author": "Huang Guofang",
+            "year": "2019",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "e_1_2_7_28_1",
+            "unstructured": "Hudson Sally PeterHull andJackLiebersohn 2017 Interpreting instrumented difference\u2010in\u2010differences MIT Working Paper."
+        },
+        {
+            "key": "e_1_2_7_29_1",
+            "DOI": "10.1111/j.1540-6261.1991.tb04622.x",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_30_1",
+            "DOI": "10.1016/j.jinteco.2014.12.011",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_31_1",
+            "unstructured": "Krishnamurthy Arvind andTylerMuir 2017 How credit cycles across a financial crisis NBER Working Paper 23850.",
+            "DOI": "10.3386/w23850",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_32_1",
+            "DOI": "10.1257/aer.20111662",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_33_1",
+            "author": "Larsen Bradley J.",
+            "year": "2020",
+            "article-title": "The efficiency of real\u2010world bargaining: evidence from wholesale used\u2010auto auctions",
+            "journal-title": "Review of Economic Studies",
+            "DOI": "10.1093/restud/rdaa007",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_34_1",
+            "DOI": "10.1016/j.obhdp.2017.05.002",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_35_1",
+            "first-page": "423",
+            "article-title": "Credit supply and the rise in college tuition: Evidence from the expansion in federal student aid programs",
+            "volume": "32",
+            "author": "Lucca David O.",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "e_1_2_7_36_1",
+            "DOI": "10.1086/679626",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_37_1",
+            "DOI": "10.1111/j.1540-6261.2010.01565.x",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_38_1",
+            "DOI": "10.1162/qjec.2009.124.4.1449",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_39_1",
+            "DOI": "10.1257/aer.101.5.2132",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_40_1",
+            "unstructured": "Mian Atif andAmirSufi 2018 Finance and business cycles: The credit\u2010driven household demand channel NBER Working Paper 24322.",
+            "DOI": "10.3386/w24322",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "e_1_2_7_41_1",
+            "DOI": "10.1093/qje/qjx017",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_42_1",
+            "DOI": "10.1162/0033553042476198",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_43_1",
+            "DOI": "10.1111/jofi.12745",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_44_1",
+            "DOI": "10.1016/j.jfineco.2012.09.002",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_45_1",
+            "DOI": "10.1080/07350015.2016.1227711",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_46_1",
+            "DOI": "10.1111/j.1540-6261.2010.01555.x",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_47_1",
+            "DOI": "10.1257/pol.3.2.189",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_48_1",
+            "DOI": "10.2307/2555770",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_49_1",
+            "DOI": "10.1086/258464",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_50_1",
+            "DOI": "10.1257/aer.20181585",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "e_1_2_7_51_1",
+            "unstructured": "Zevelev Albert 2020 Does collateral value affect asset prices? Evidence from a natural experiment in Texas SSRN Working Paper No. 2815609.",
+            "DOI": "10.1093/rfs/hhaa117",
+            "doi-asserted-by": "crossref"
+        }
+    ],
+    "container-title": [
+        "The Journal of Finance"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.12977",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1111/jofi.12977",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jofi.12977",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                4
+            ]
+        ],
+        "date-time": "2021-01-04T08:15:36Z",
+        "timestamp": 1609748136000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                10
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    2
+                ]
+            ]
+        },
+        "issue": "1"
+    },
+    "alternative-id": [
+        "10.1111/jofi.12977"
+    ],
+    "URL": "http://dx.doi.org/10.1111/jofi.12977",
+    "archive": [
+        "Portico"
+    ],
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0022-1082",
+        "1540-6261"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-1082",
+            "type": "print"
+        },
+        {
+            "value": "1540-6261",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

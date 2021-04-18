@@ -1,0 +1,204 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                30
+            ]
+        ],
+        "date-time": "2020-12-30T10:40:59Z",
+        "timestamp": 1609324859046
+    },
+    "reference-count": 1,
+    "publisher": "Wiley",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1",
+            "start": {
+                "date-parts": [
+                    [
+                        2015,
+                        9,
+                        3
+                    ]
+                ],
+                "date-time": "2015-09-03T00:00:00Z",
+                "timestamp": 1441238400000
+            },
+            "delay-in-days": 0,
+            "content-version": "tdm"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor",
+            "start": {
+                "date-parts": [
+                    [
+                        2015,
+                        9,
+                        3
+                    ]
+                ],
+                "date-time": "2015-09-03T00:00:00Z",
+                "timestamp": 1441238400000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "The Journal of Finance"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2015,
+                10
+            ]
+        ]
+    },
+    "DOI": "10.1111/jofi.12307",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2015,
+                9,
+                4
+            ]
+        ],
+        "date-time": "2015-09-04T17:06:35Z",
+        "timestamp": 1441386395000
+    },
+    "page": "2347-2348",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Agency Conflicts, Investment, and Asset Pricing: Erratum"
+    ],
+    "prefix": "10.1111",
+    "volume": "70",
+    "author": [
+        {
+            "given": "RUI",
+            "family": "ALBUQUERUE",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "NENG",
+            "family": "WANG",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "311",
+    "published-online": {
+        "date-parts": [
+            [
+                2015,
+                9,
+                3
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "10.1111/jofi.12307-BIB0001|jofi12307-cit-0001",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1111/j.1540-6261.2008.01309.x",
+            "article-title": "Agency Conflicts, Investment, and Asset Pricing",
+            "volume": "63",
+            "author": "Albuquerue",
+            "year": "2008",
+            "journal-title": "The Journal of Finance"
+        }
+    ],
+    "container-title": [
+        "The Journal of Finance"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjofi.12307",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Fjofi.12307",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/jofi.12307/fullpdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                30
+            ]
+        ],
+        "date-time": "2020-12-30T10:05:03Z",
+        "timestamp": 1609322703000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2015,
+                9,
+                3
+            ]
+        ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+        "published-print": {
+            "date-parts": [
+                [
+                    2015,
+                    10
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1111/jofi.12307",
+    "archive": [
+        "Portico"
+    ],
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0022-1082"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-1082",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Accounting",
+        "Finance"
+    ]
+}

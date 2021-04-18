@@ -28,10 +28,10 @@ See my project list [here](https://github.com/ledwindra/replication-code-economi
 - `s-aea-aecrev`: American Economic Review
 - `s-aea-jeclit`: Journal of Economic Literature
 - `s-aea-jecper`: Journal of Economic Perspectives
+- `s-bla-jfinan`: Journal of Finance
 - `s-eee-jfinec`: Journal of Financial Economics
 - `s-kap-jecgro`: Journal of Economic Growth
 - `s-oup-qjecon`: The Quarterly Journal of Economics
-- `s-oup-restud`: Review of Economic Studies
 - `s-oup-rfinst`: Review of Financial Studies
 - `s-ucp-jpolec`: Journal of Political Economy
 - `s-wly-emetrp`: Econometrica

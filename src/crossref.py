@@ -133,6 +133,7 @@ if __name__ == '__main__':
         's/aea/aecrev', # American Economic Review
         's/aea/jeclit', # Journal of Economic Literature
         's/aea/jecper', # Journal of Economic Perspectives
+        's/bla/jfinan', # Journal of Finance
         's/eee/jfinec', # Journal of Financial Economics
         's/kap/jecgro', # Journal of Economic Growth
         's/oup/qjecon', # The Quarterly Journal of Economics
