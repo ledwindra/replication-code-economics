@@ -1,4 +1,4 @@
-name: Applied Economics
+name: "AEA: Applied Economics"
 
 on:
   schedule:
@@ -19,7 +19,7 @@ jobs:
         echo "Log level: ${{ github.event.inputs.logLevel }}"
         echo "Tags: ${{ github.event.inputs.tags }}"
   job_id:
-    name: Applied Economics
+    name: "AEA: Applied Economics"
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
