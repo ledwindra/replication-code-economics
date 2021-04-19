@@ -1,0 +1,539 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ],
+        "date-time": "2021-02-25T03:48:01Z",
+        "timestamp": 1614224881853
+    },
+    "reference-count": 37,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        7,
+                        30
+                    ]
+                ],
+                "date-time": "2018-07-30T00:00:00Z",
+                "timestamp": 1532908800000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The standard revenue-maximizing auction discriminates against a priori stronger bidders so as to reduce their information rents. We show that such discrimination is no longer optimal when the auction\u2019s winner may resell to another bidder, and the auctioneer has non-Bayesian uncertainty about such resale opportunities. We identify a \u201cworst-case\u201d resale scenario, in which bidders\u2019 values become publicly known after the auction and losing bidders compete Bertrand-style to buy the object from the winner. With this form of resale, misallocation no longer reduces the information rents of the high-value bidder, as he could still secure the same rents by buying the object in resale. Under regularity assumptions, we show that revenue is maximized by a version of the Vickrey auction with bidder-specific reserve prices, first proposed by Ausubel and Cramton (2004). The proof of optimality involves constructing Lagrange multipliers on a double continuum of binding non-local incentive constraints.</jats:p>",
+    "DOI": "10.1093/restud/rdy041",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2018-07-27T11:09:29Z",
+        "timestamp": 1532689769000
+    },
+    "page": "1527-1555",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": [
+        "Robustly Optimal Auctions with Unknown Resale Opportunities"
+    ],
+    "prefix": "10.1093",
+    "volume": "86",
+    "author": [
+        {
+            "given": "Gabriel",
+            "family": "Carroll",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Ilya",
+            "family": "Segal",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019062814023815400_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "340",
+            "DOI": "10.1016/j.geb.2014.01.004",
+            "article-title": "Truthful Germs are Contagious: A Local-to-Global Characterization of Truthfulness",
+            "volume": "86",
+            "author": "ARCHER,",
+            "year": "2014",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2019062814023815400_B2",
+            "author": "AUSUBEL,",
+            "year": "1999",
+            "volume-title": "The Optimality of Being Efficient"
+        },
+        {
+            "key": "2019062814023815400_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1007/s00199-003-0398-8",
+            "article-title": "Vickrey Auctions with Reserve Pricing",
+            "volume": "23",
+            "author": "AUSUBEL,",
+            "year": "2004",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2019062814023815400_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1007/s00199-004-0514-4",
+            "article-title": "Log-Concave Probability and Its Applications",
+            "volume": "26",
+            "author": "BAGNOLI,",
+            "year": "2005",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2019062814023815400_B5",
+            "author": "BERGEMANN,",
+            "year": "2017",
+            "volume-title": "Selling to Intermediaries: Optimal Auction Design in a Common Value Model"
+        },
+        {
+            "key": "2019062814023815400_B6",
+            "author": "BERGEMANN,",
+            "year": "2017",
+            "volume-title": "Informationally Robust Optimal Auction Design"
+        },
+        {
+            "key": "2019062814023815400_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1007/s10058-017-0201-0",
+            "article-title": "(No) Foundations of Dominant-Strategy Mechanisms: A Comment on Chung and Ely (2007)",
+            "volume": "21",
+            "author": "B\u00d6RGERS,",
+            "year": "2017",
+            "journal-title": "Review of Economic Design"
+        },
+        {
+            "key": "2019062814023815400_B8",
+            "first-page": "180",
+            "article-title": "Auctions Versus Negotiations",
+            "volume": "86",
+            "author": "BULOW,",
+            "year": "1996",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019062814023815400_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2696372",
+            "article-title": "Prices and the Winner\u2019s Curse",
+            "volume": "33",
+            "author": "BULOW,",
+            "year": "2002",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2019062814023815400_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "362",
+            "DOI": "10.1111/j.1756-2171.2006.tb00020.x",
+            "article-title": "Monopoly with Resale",
+            "volume": "37",
+            "author": "CALZOLARI,",
+            "year": "2006",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2019062814023815400_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.3982/ECTA9454",
+            "article-title": "When are Local Incentive Constraints Sufficient?",
+            "volume": "80",
+            "author": "CARROLL,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "536",
+            "DOI": "10.1257/aer.20131159",
+            "article-title": "Robustness and Linear Contracts",
+            "volume": "105",
+            "author": "CARROLL,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019062814023815400_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1063",
+            "DOI": "10.1111/j.1468-0262.2006.00694.x",
+            "article-title": "Robustly Collusion-Proof Implementation",
+            "volume": "74",
+            "author": "CHE,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B14",
+            "author": "CHUNG,",
+            "year": "2006",
+            "volume-title": "Ex-Post Incentive Compatible Mechanism Design"
+        },
+        {
+            "key": "2019062814023815400_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1111/j.1467-937X.2007.00427.x",
+            "article-title": "Foundations of Dominant Strategy Mechanisms",
+            "volume": "74",
+            "author": "CHUNG,",
+            "year": "2007",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019062814023815400_B16",
+            "author": "DASKALAKIS,",
+            "first-page": "269",
+            "year": "2013",
+            "article-title": "Mechanism Design via Optimal Transport",
+            "volume-title": "Proceedings of the 14th Annual ACM Conference on Economics and Computation (EC \u201913)"
+        },
+        {
+            "key": "2019062814023815400_B17",
+            "author": "DHANGWATNOTAI,",
+            "first-page": "129",
+            "year": "2010",
+            "article-title": "Revenue Maximization with a Single Sample",
+            "volume-title": "Proceedings of the 11th Annual ACM Conference on Economics and Computation (EC \u201910)"
+        },
+        {
+            "key": "2019062814023815400_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1257/aer.104.1.66",
+            "article-title": "Aligned Delegation",
+            "volume": "104",
+            "author": "FRANKEL,",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019062814023815400_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "753",
+            "DOI": "10.1111/j.1468-0262.2006.00681.x",
+            "article-title": "Speculation in Standard Auctions with Resale",
+            "volume": "74",
+            "author": "GARRATT,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1095",
+            "DOI": "10.3982/ECTA7504",
+            "article-title": "Collusion via Resale",
+            "volume": "77",
+            "author": "GARRATT,",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "72",
+            "DOI": "10.1016/S0022-0531(02)00010-8",
+            "article-title": "Auctions with Private Uncertainty and Resale Opportunities",
+            "volume": "108",
+            "author": "HAILE,",
+            "year": "2003",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2019062814023815400_B22",
+            "author": "HARTLINE,",
+            "first-page": "225",
+            "year": "2009",
+            "article-title": "Simple versus Optimal Mechanisms",
+            "volume-title": "Proceedings of the 10th ACM Conference on Electronic Commerce (EC \u201909)"
+        },
+        {
+            "key": "2019062814023815400_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "768",
+            "DOI": "10.2307/2696358",
+            "article-title": "Auctions with Downstream Interaction Among Buyers",
+            "volume": "31",
+            "author": "JEHIEL,",
+            "year": "2000",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2019062814023815400_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "875",
+            "DOI": "10.2307/2171943",
+            "article-title": "Collusion under Asymmetric Information",
+            "volume": "65",
+            "author": "LAFFONT,",
+            "year": "1997",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "3257",
+            "DOI": "10.1257/aer.20160425",
+            "article-title": "Obviously Strategy-Proof Mechanisms",
+            "volume": "107",
+            "author": "LI,",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019062814023815400_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1016/0022-1996(89)90005-6",
+            "article-title": "Government Procurement and International Trade",
+            "volume": "26",
+            "author": "MCAFEE,",
+            "year": "1989",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "2019062814023815400_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/1468-0262.00296",
+            "article-title": "Envelope Theorems for Arbitrary Choice Sets",
+            "volume": "70",
+            "author": "MILGROM,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B28",
+            "author": "MILGROM,",
+            "year": "2017",
+            "volume-title": "Deferred-Acceptance Auctions and Radio Spectrum Reallocation"
+        },
+        {
+            "key": "2019062814023815400_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1287/moor.10.4.619",
+            "article-title": "Distributional Strategies for Games with Incomplete Information",
+            "volume": "10",
+            "author": "MILGROM,",
+            "year": "1985",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2019062814023815400_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1287/moor.6.1.58",
+            "article-title": "Optimal Auction Design",
+            "volume": "6",
+            "author": "MYERSON,",
+            "year": "1981",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2019062814023815400_B31",
+            "author": "MYERSON,",
+            "year": "2015",
+            "article-title": "Open Sequential Equilibria of Multi-Stage Games with Infinite Sets of Types and Actions"
+        },
+        {
+            "key": "2019062814023815400_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1016/0022-0531(83)90048-0",
+            "article-title": "Efficient Mechanisms for Bilateral Trading",
+            "volume": "29",
+            "author": "MYERSON,",
+            "year": "1983",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2019062814023815400_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.1111/1468-0262.00322",
+            "article-title": "An Efficient Auction",
+            "volume": "70",
+            "author": "PERRY,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019062814023815400_B34",
+            "author": "TIROLE,",
+            "year": "1988",
+            "volume-title": "The Theory of Industrial Organization"
+        },
+        {
+            "key": "2019062814023815400_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1223",
+            "DOI": "10.1093/restud/rdv018",
+            "article-title": "Implementation in Weakly Undominated Strategies: Optimality of Second-Price Auction and Posted-Price Mechanism",
+            "volume": "82",
+            "author": "YAMASHITA,",
+            "year": "2015",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019062814023815400_B36",
+            "author": "YAMASHITA,",
+            "year": "2017",
+            "volume-title": "On the Foundations of Ex Post Incentive Compatible Mechanisms"
+        },
+        {
+            "key": "2019062814023815400_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2197",
+            "DOI": "10.1111/j.1468-0262.2002.00438.x",
+            "article-title": "Optimal Auctions with Resale",
+            "volume": "70",
+            "author": "ZHENG,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/86/4/1527/28883067/rdy041.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                28
+            ]
+        ],
+        "date-time": "2019-06-28T18:02:50Z",
+        "timestamp": 1561744970000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                30
+            ]
+        ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    30
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "issue": "4"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdy041",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

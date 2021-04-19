@@ -1,0 +1,762 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                5
+            ]
+        ],
+        "date-time": "2021-02-05T09:44:49Z",
+        "timestamp": 1612518289994
+    },
+    "reference-count": 59,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        24
+                    ]
+                ],
+                "date-time": "2018-09-24T00:00:00Z",
+                "timestamp": 1537747200000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                10,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We introduce a dynamic noisy rational expectations model in which information diffuses through a general network of agents. In equilibrium, agents who are more closely connected have more similar period-by-period trades, and an agent\u2019s profitability is determined by a centrality measure that is related to Katz centrality. Volatility after an information shock is more persistent in less central networks, and volatility and trading volume are also influenced by the network\u2019s asymmetry and irregularity. Using account-level data of all portfolio holdings and trades on the Helsinki Stock Exchange between 1997 and 2003, we find support for the aggregate predictions, altogether suggesting that the market\u2019s network structure is important for these dynamics.</jats:p>",
+    "DOI": "10.1093/restud/rdy058",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                9,
+                22
+            ]
+        ],
+        "date-time": "2018-09-22T06:45:23Z",
+        "timestamp": 1537598723000
+    },
+    "page": "2248-2283",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+        "Trading, Profits, and Volatility in a Dynamic Information Network Model"
+    ],
+    "prefix": "10.1093",
+    "volume": "86",
+    "author": [
+        {
+            "given": "Johan",
+            "family": "Walden",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Haas School of Business, University of California at Berkeley"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                9,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019091011583401200_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "S126",
+            "DOI": "10.1111/ectj.12090",
+            "article-title": "\u201cTrading networks\u201d",
+            "volume": "20",
+            "author": "ADAMIC",
+            "year": "2017",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "2019091011583401200_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1093/rfs/1.1.3",
+            "article-title": "\u201cA Theory of Intraday Patterns: Volume and Price Volatility\u201d",
+            "volume": "1",
+            "author": "ADMATI",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B3",
+            "author": "AMADOR",
+            "year": "2006",
+            "article-title": "\u201cLearning by Matching\u201d"
+        },
+        {
+            "key": "2019091011583401200_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1111/j.1540-6261.1996.tb05206.x",
+            "article-title": "\u201cReturn Volatility and Trading Volume: An Information Flow Interpretation of Stochastic Volatility\u201d",
+            "volume": "51",
+            "author": "ANDERSEN",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B5",
+            "author": "ANDREI",
+            "year": "2013",
+            "article-title": "\u201cInformation Percolation Driving Volatility\u201d"
+        },
+        {
+            "key": "2019091011583401200_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1016/j.jfineco.2016.05.012",
+            "article-title": "\u201cInformation Percolation, Momentum and Reversal\u201d",
+            "volume": "123",
+            "author": "ANDREI",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019091011583401200_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1727",
+            "DOI": "10.3982/ECTA12043",
+            "article-title": "\u201cTrading and Information Diffusion in Over-the-Counter Markets\u201d",
+            "volume": "86",
+            "author": "BABUS",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011583401200_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.1111/j.1540-6261.1994.tb04424.x",
+            "article-title": "\u201cA Theory of Intraday Patterns: Volume and Price Volatility\u201d",
+            "volume": "49",
+            "author": "BLUME",
+            "year": "1994",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B9",
+            "first-page": "9",
+            "article-title": "\u201cEquity Trading Volume and Volatility: Latent Information Arrivals and Common Long-run Dependencies\u201d",
+            "volume": "17",
+            "author": "BOLLERSLEV",
+            "year": "1999",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2019091011583401200_B10",
+            "author": "BREON-DRISH",
+            "year": "2010",
+            "volume-title": "\u201cAsymmetric Information in Financial Markets: Anything Goes\u201d"
+        },
+        {
+            "key": "2019091011583401200_B11",
+            "author": "BRIGGS",
+            "year": "1993",
+            "volume-title": "Algebraic Graph Theory"
+        },
+        {
+            "key": "2019091011583401200_B12",
+            "author": "BROUWER",
+            "year": "1989",
+            "volume-title": "Distance-Regular Graphs",
+            "DOI": "10.1007/978-3-642-74341-2",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011583401200_B13",
+            "author": "BURASCHI",
+            "year": "2012",
+            "article-title": "\u201cDynamic Networks and Asset Pricing\u201d",
+            "DOI": "10.2139/ssrn.2024483",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011583401200_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "707",
+            "DOI": "10.1086/524204",
+            "article-title": "\u201cDown or Out: Assessing the Welfare Costs of Household Investment Mistakes\u201d",
+            "volume": "115",
+            "author": "CALVET",
+            "year": "2007",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2019091011583401200_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1162/qjec.2009.124.1.301",
+            "article-title": "\u201cFight or Flight? Portfolio Rebalancing by Individual Investors\u201d",
+            "volume": "124",
+            "author": "CALVET",
+            "year": "2009",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019091011583401200_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.2307/1913889",
+            "article-title": "\u201cA Subordinated Stochastic Process Model with Finite Variance for Speculative Prices\u201d",
+            "volume": "41",
+            "author": "CLARK",
+            "year": "1973",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011583401200_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1093/rfs/hhp021",
+            "article-title": "\u201cInformation Linkages and Correlated Trading\u201d",
+            "volume": "23",
+            "author": "COLLA",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B18",
+            "first-page": "104",
+            "article-title": "\u201cThe Volume of Transactions and Price Changes on the New York Stock Exchange\u201d",
+            "volume": "65",
+            "author": "CROUCH",
+            "year": "1975",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2019091011583401200_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.3905/jpm.1989.409212",
+            "article-title": "\u201cWhat Moves Stock Prices\u201d",
+            "volume": "15",
+            "author": "CUTLER",
+            "year": "1989",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2019091011583401200_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.3905/jpm.2005.592103",
+            "article-title": "\u201cFinancial Communities\u201d",
+            "volume": "31",
+            "author": "DAS",
+            "year": "2005",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2019091011583401200_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.2307/2525306",
+            "article-title": "\u201cA Limit Theorem on the Core of an Economy\u201d",
+            "volume": "4",
+            "author": "DEBREU",
+            "year": "1964",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2019091011583401200_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1513",
+            "DOI": "10.3982/ECTA8160",
+            "article-title": "\u201cInformation Percolation with Equilibrium Search Dynamics\u201d",
+            "volume": "77",
+            "author": "DUFFIE",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011583401200_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1257/aer.97.2.203",
+            "article-title": "\u201cInformation Percolation in Large Markets\u201d",
+            "volume": "97",
+            "author": "DUFFIE",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019091011583401200_B24",
+            "author": "EDGEWORTH",
+            "year": "1881",
+            "volume-title": "Mathematical Psychics: An essay on the mathematics to the moral sciences"
+        },
+        {
+            "key": "2019091011583401200_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.2307/1912726",
+            "article-title": "\u201cThe Stochastic Dependence of Security Price Changes and Transaction Volumes: Implications for the Mixture-of-Distributions Hypothesis\u201d",
+            "volume": "44",
+            "author": "EPPS",
+            "year": "1976",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011583401200_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.1086/341640",
+            "article-title": "\u201cEvents That Shook the Market\u201d",
+            "volume": "75",
+            "author": "FAIR",
+            "year": "2002",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2019091011583401200_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2117",
+            "DOI": "10.1111/j.1540-6261.2004.00694.x",
+            "article-title": "\u201cCorrelated Trading and Location\u201d",
+            "volume": "59",
+            "author": "FENG",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B28",
+            "first-page": "1103",
+            "article-title": "\u201cNature or Nurture? Learning and the Geography of Female Labor Force Participation\u201d",
+            "volume": "79",
+            "author": "FOGLI",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B29",
+            "first-page": "379",
+            "article-title": "\u201cCan Speculative Trading Explain the Volume-Volatility Relation",
+            "volume": "13",
+            "author": "FOSTER",
+            "year": "1995",
+            "journal-title": "Journal of Business and Economics Statistics"
+        },
+        {
+            "key": "2019091011583401200_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1093/rfs/5.2.199",
+            "article-title": "\u201cA Subordinated Stochastic Process Model with Finite Variance for Speculative Prices\u201d",
+            "volume": "5",
+            "author": "GALLANT",
+            "year": "1992",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-405X(85)90044-3",
+            "article-title": "\u201cBid, Ask and Transaction Prices in A Specialist market with Heterogeneously Informed Traders\u201d",
+            "volume": "14",
+            "author": "GLOSTEN",
+            "year": "1985",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019091011583401200_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1016/S0304-405X(99)00044-6",
+            "article-title": "\u201cThe Investment Behavior and Performance of Various Investor Types: A Study of Finland\u2019s Unique Data Set\u201d",
+            "volume": "55",
+            "author": "GRINBLATT",
+            "year": "2000",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019091011583401200_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1111/0022-1082.00355",
+            "article-title": "\u201cHow Distance, Language, and Culture Influence Stockholdings and Trades\u201d",
+            "volume": "56",
+            "author": "GRINBLATT",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "573",
+            "DOI": "10.1111/j.1540-6261.1976.tb01907.x",
+            "article-title": "\u201cOn the Efficiency of Competitive Stock Markets Where Traders have Diverse Information\u201d",
+            "volume": "31",
+            "author": "GROSSMAN",
+            "year": "1976",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1093/jjfinec/nbh020",
+            "article-title": "\u201cA New Approach to Markov-Switching Garch Models\u201d",
+            "volume": "2",
+            "author": "HAAS",
+            "year": "2004",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2019091011583401200_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1444",
+            "DOI": "10.1287/mnsc.1120.1678",
+            "article-title": "\u201cSocial Networks, Information Acquisition, and Asset Prices\u201d",
+            "volume": "59",
+            "author": "HAN",
+            "year": "2013",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2019091011583401200_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "919",
+            "DOI": "10.1093/rfs/8.4.919",
+            "article-title": "\u201cDifferential Information and Dynamic Behavior of Stock Trading Volume\u201d",
+            "volume": "8",
+            "author": "HE",
+            "year": "1995",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B38",
+            "author": "HEIMER",
+            "year": "2012",
+            "article-title": "\u201cFacebook Finance: How Social Interaction Propagates Active Investing\u201d"
+        },
+        {
+            "key": "2019091011583401200_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.1016/0022-0531(80)90056-3",
+            "article-title": "\u201cOn the Aggregation of Information in Competitive Markets\u201d",
+            "volume": "22",
+            "author": "HELLWIG",
+            "year": "1980",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2019091011583401200_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2801",
+            "DOI": "10.1111/j.1540-6261.2005.00817.x",
+            "article-title": "\u201cThy Neighbor\u2019s Portfolio: Word-of-Mouth Effects in the Holdings and Trades of Money Managers\u201d",
+            "volume": "60",
+            "author": "HONG",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1327",
+            "DOI": "10.1093/revfin/hhm009",
+            "article-title": "\u201cInformation Diffusion Effects in Individual Investors\u2019 Common Stock Purchases: Covet thy Neighbors\u2019 Investment Choices\u201d",
+            "volume": "20",
+            "author": "IVKOVI\u0106",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B42",
+            "author": "JACKSON",
+            "first-page": "95",
+            "year": "2012",
+            "article-title": "\u201cGames on networks\u201d",
+            "volume-title": "Handbook of Game Theory with Economic Applications"
+        },
+        {
+            "key": "2019091011583401200_B43",
+            "author": "JACKSON",
+            "year": "2005",
+            "article-title": "\u201cA Survey of Models of Network Formation: Stability and Efficiency\u201d",
+            "volume-title": "Group Formation in Economics: Networks, Clubs, and Coalitions",
+            "DOI": "10.1017/CBO9780511614385.002",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011583401200_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.2307/2330874",
+            "article-title": "\u201cThe Relation between Price Changes and Trading Volume: A Survey\u201d",
+            "volume": "22",
+            "author": "KARPOFF",
+            "year": "1987",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2019091011583401200_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1315",
+            "DOI": "10.2307/1913210",
+            "article-title": "\u201cContinuous Auctions and Insider Trading\u201d",
+            "volume": "53",
+            "author": "KYLE",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019091011583401200_B46",
+            "author": "LI",
+            "year": "2014",
+            "article-title": "\u201cDealer Networks\u201d",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B47",
+            "first-page": "410",
+            "article-title": "\u201cLong Memory in Stock-Market Trading Volume\u201d",
+            "volume": "18",
+            "author": "LOBATO",
+            "year": "2000",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2019091011583401200_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1016/j.jfineco.2013.10.007",
+            "article-title": "\u201cThe Value of Diffusing Information\u201d",
+            "volume": "111",
+            "author": "MANELA",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019091011583401200_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "633",
+            "DOI": "10.1093/rfs/hhj013",
+            "article-title": "\u201cHedging, Familiarity, and Portfolio Choice\u201d",
+            "volume": "19",
+            "author": "MASSA",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "2252",
+            "DOI": "10.1016/j.jet.2011.10.003",
+            "article-title": "\u201cAsset Pricing in Large Information Networks\u201d",
+            "volume": "146",
+            "author": "OZSOYLEV",
+            "year": "2011",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2019091011583401200_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1323",
+            "DOI": "10.1093/rfs/hht065",
+            "article-title": "\u201cInvestor Networks in the Stock Market\u201d",
+            "volume": "27",
+            "author": "OZSOYLEV",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2019091011583401200_B52",
+            "author": "PAREEK",
+            "year": "2012",
+            "article-title": "\u201cInformation Networks: Implications for Mutual Fund Trading Behavior and Stock Returns\u201d",
+            "DOI": "10.2139/ssrn.1361779",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011583401200_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "268",
+            "DOI": "10.2307/1924980",
+            "article-title": "\u201cThe Dependence of Prices and Volume\u201d",
+            "volume": "60",
+            "author": "ROGALSKI",
+            "year": "1978",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2019091011583401200_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "183",
+            "DOI": "10.1016/j.jfineco.2018.02.003",
+            "article-title": "\u201cNetwork Centrality and Delegated Investment Performance\u201d",
+            "volume": "128",
+            "author": "ROSSI",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2019091011583401200_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/S0169-2070(98)00028-4",
+            "article-title": "\u201cThe Stock Price-Volume Relationship in Emerging Stock Markets: The Case of Latin America\u201d",
+            "volume": "14",
+            "author": "SAATCIOGLU",
+            "year": "1998",
+            "journal-title": "International Journal of Forecasting"
+        },
+        {
+            "key": "2019091011583401200_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "2783",
+            "DOI": "10.1111/j.1540-6261.2009.01517.x",
+            "article-title": "\u201cA Rational Expectations Equilibrium with Informative Trading Volume\u201d",
+            "volume": "64",
+            "author": "SCHNEIDER",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2019091011583401200_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1016/0167-2681(89)90076-0",
+            "article-title": "\u201cSurvey Evidence on the Diffusion of Interest and Information Among Investors\u201d",
+            "volume": "12",
+            "author": "SHILLER",
+            "year": "1989",
+            "journal-title": "Journal of Economic Behavior"
+        },
+        {
+            "key": "2019091011583401200_B58",
+            "author": "TAYLOR",
+            "year": "1978",
+            "article-title": "\u201cDistance-Regular Graphs\u201d",
+            "volume-title": "Combinatorial Mathematics",
+            "DOI": "10.1007/BFb0062547",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019091011583401200_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1093/rfs/8.1.125",
+            "article-title": "\u201cShort Term Investment and the Informational Efficiency of the Market\u201d",
+            "volume": "8",
+            "author": "VIVES",
+            "year": "1995",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/86/5/2248/29581490/rdy058.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                10
+            ]
+        ],
+        "date-time": "2019-09-10T16:40:13Z",
+        "timestamp": 1568133613000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                9,
+                24
+            ]
+        ]
+    },
+    "references-count": 59,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2018,
+                    9,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    10,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdy058",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}
