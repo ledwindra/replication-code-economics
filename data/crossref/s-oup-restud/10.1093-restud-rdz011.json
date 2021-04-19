@@ -1,0 +1,601 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                23
+            ]
+        ],
+        "date-time": "2021-01-23T09:44:55Z",
+        "timestamp": 1611395095374
+    },
+    "reference-count": 36,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        3,
+                        4
+                    ]
+                ],
+                "date-time": "2019-03-04T00:00:00Z",
+                "timestamp": 1551657600000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100008982",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SES-0719055"
+            ]
+        },
+        {
+            "DOI": "10.13039/100010663",
+            "name": "H2020 European Research Council",
+            "doi-asserted-by": "publisher",
+            "award": []
+        },
+        {
+            "name": "Center for Science of Information",
+            "award": []
+        },
+        {
+            "name": "CSoI",
+            "award": []
+        },
+        {
+            "name": "NSF Science and Technology Center",
+            "award": [
+                "CCF-0939370"
+            ]
+        },
+        {
+            "name": "Agency of the Czech Republic",
+            "award": [
+                "P402/12/G097"
+            ]
+        },
+        {
+            "name": "EU\u2019s Horizon 2020",
+            "award": [
+                "67801"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Individuals are constantly processing external information and translating it into actions. This draws on limited resources of attention and requires economizing on attention devoted to signals related to economic behaviour. A natural measure of such costs is based on Shannon\u2019s \u201cchannel capacity\u201d. Modelling economic agents as constrained by Shannon capacity as they process freely available information turns out to imply that discretely distributed actions, and thus actions that persist across repetitions of the same decision problem, are very likely to emerge in settings that without information costs would imply continuously distributed behaviour. We show how these results apply to the behaviour of an investor choosing portfolio allocations, as well as to some mathematically simpler \u201ctracking\u201d problems that illustrate the mechanism. Trying to use costs of adjustment to explain \u201cstickiness\u201d of actions when interpreting the behaviour in our economic examples would lead to mistaken conclusions.</jats:p>",
+    "DOI": "10.1093/restud/rdz011",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                2,
+                28
+            ]
+        ],
+        "date-time": "2019-02-28T20:35:15Z",
+        "timestamp": 1551386115000
+    },
+    "page": "2643-2667",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Discrete Actions in Information-Constrained Decision Problems"
+    ],
+    "prefix": "10.1093",
+    "volume": "86",
+    "author": [
+        {
+            "given": "Junehyuk",
+            "family": "Jung",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Mathematics, Texas A&M University"
+                }
+            ]
+        },
+        {
+            "given": "Jeong Ho (John)",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics Emory University"
+                }
+            ]
+        },
+        {
+            "given": "Filip",
+            "family": "Mat\u011bjka",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CERGE-EI, A joint workplace of the Center for Economic Research and Graduate Education, Charles University, and the Economics Institute of the Academy of Sciences of the Czech Republic. Politickych veznu 7 Prague 11121, Czech Republic"
+                }
+            ]
+        },
+        {
+            "given": "Christopher A",
+            "family": "Sims",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics Princeton University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                3,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019102510192757200_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2272",
+            "DOI": "10.1257/aer.102.5.2272",
+            "article-title": "Durable Consumption and Asset Management with Transaction and Observation Costs",
+            "volume": "102",
+            "author": "ALVAREZ,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019102510192757200_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1909",
+            "DOI": "10.1093/qje/qjr043",
+            "article-title": "Optimal Price Setting with Observation and Menu Costs",
+            "volume": "126",
+            "author": "ALVAREZ,",
+            "year": "2011",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019102510192757200_B3",
+            "author": "BERGER,",
+            "year": "1971",
+            "journal-title": "Rate Distortion Theory: Mathematical Basis for Data Compression"
+        },
+        {
+            "key": "2019102510192757200_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "460",
+            "DOI": "10.1109/TIT.1972.1054855",
+            "article-title": "Computation of Channel Capacity and Rate Distortion Functions",
+            "volume": "18",
+            "author": "BLAHUT,",
+            "year": "1972",
+            "journal-title": "IEEE Transctions in Information Theory"
+        },
+        {
+            "key": "2019102510192757200_B5",
+            "author": "BONAPARTE,",
+            "year": "2009",
+            "article-title": "Costly Portfolio Adjustment",
+            "DOI": "10.3386/w15227",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019102510192757200_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2183",
+            "DOI": "10.1257/aer.20140117",
+            "article-title": "Revealed Preference, Rational Inattention, and Costly Information Acquisition",
+            "volume": "105",
+            "author": "CAPLIN,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019102510192757200_B7",
+            "author": "CAPLIN,",
+            "year": "2018",
+            "article-title": "Rational Inattention, Optimal Consideration Sets, and Stochastic Choice",
+            "journal-title": "The Review of Economic Studies",
+            "DOI": "10.1093/restud/rdz037",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "key": "2019102510192757200_B8",
+            "author": "COVER,",
+            "year": "2006",
+            "journal-title": "Elements of Information Theory"
+        },
+        {
+            "key": "2019102510192757200_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.3390/e10030261",
+            "article-title": "Axiomatic Characterizations of Information Measures",
+            "volume": "10",
+            "author": "CSISZ\u00c1R,",
+            "year": "2008",
+            "journal-title": "Entropy"
+        },
+        {
+            "key": "2019102510192757200_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1257/aer.101.1.234",
+            "article-title": "Reference Prices, Costs, and Nominal Rigidities",
+            "volume": "101",
+            "author": "EICHENBAUM,",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019102510192757200_B11",
+            "author": "FIX,",
+            "first-page": "704",
+            "year": "1978",
+            "article-title": "Rate Distortion Functions for Squared Error Distortion Measures",
+            "journal-title": "Allerton Conference on Communication, Control, and Computing"
+        },
+        {
+            "key": "2019102510192757200_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1111/j.1467-937X.2008.00515.x",
+            "article-title": "Knowing What Others Know: Coordination Motives in Information Acquisition",
+            "volume": "76",
+            "author": "HELLWIG,",
+            "year": "2009",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2019102510192757200_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.3982/ECTA11412",
+            "article-title": "A Rational Theory of Mutual funds\u2019 Attention Allocation",
+            "volume": "84",
+            "author": "KACPERCZYK,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019102510192757200_B14",
+            "author": "KRANTZ,",
+            "year": "1992",
+            "journal-title": "Function Theory of Several Complex Variables"
+        },
+        {
+            "key": "2019102510192757200_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "366",
+            "DOI": "10.1016/j.red.2007.07.003",
+            "article-title": "Consumption Dynamics Under Information Processing Constraints",
+            "volume": "11",
+            "author": "LUO,",
+            "year": "2008",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2019102510192757200_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.1257/aer.99.3.769",
+            "article-title": "Optimal sticky prices under rational inattention",
+            "volume": "99",
+            "author": "MACKOWIAK,",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019102510192757200_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1502",
+            "DOI": "10.1093/restud/rdv027",
+            "article-title": "Business Cycle Dynamics Under Rational Inattention",
+            "volume": "82",
+            "author": "MA\u0106KOWIAK,",
+            "year": "2015",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2019102510192757200_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1295",
+            "DOI": "10.1162/003355302320935034",
+            "article-title": "Sticky Information Versus Sticky Prices: A Proposal to Replace the New Keynesian Phillips Curve",
+            "volume": "117",
+            "author": "MANKIW,",
+            "year": "2002",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2019102510192757200_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "656",
+            "DOI": "10.1016/j.jet.2015.01.021",
+            "article-title": "Rigid Pricing and Rationally Inattentive Consumer",
+            "volume": "158",
+            "author": "MAT\u011aJKA,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2019102510192757200_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1125",
+            "DOI": "10.1093/restud/rdv049",
+            "article-title": "Rationally Inattentive Seller: Sales and Discrete Pricing",
+            "volume": "83",
+            "author": "MAT\u011aJKA,",
+            "year": "2016",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2019102510192757200_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "272",
+            "DOI": "10.1257/aer.20130047",
+            "article-title": "Rational Inattention to Discrete Choices: A New Foundation for the Multinomial Logit Model",
+            "volume": "105",
+            "author": "MAT\u011aJKA,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019102510192757200_B22",
+            "author": "MONDRIA,",
+            "volume": "145",
+            "year": "2010",
+            "article-title": "Portfolio Choice, Attention Allocation, and Price Comovement",
+            "journal-title": "Journal of Economic Theory",
+            "DOI": "10.1016/j.jet.2010.03.001",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019102510192757200_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2003",
+            "DOI": "10.1016/j.jedc.2003.08.002",
+            "article-title": "Limited Information Capacity as a Source of Inertia",
+            "volume": "28",
+            "author": "MOSCARINI,",
+            "year": "2004",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2019102510192757200_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "340",
+            "DOI": "10.1093/restud/rdr018",
+            "article-title": "Endogenous Information Acquisition in Coordination Games",
+            "volume": "79",
+            "author": "MYATT,",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2019102510192757200_B25",
+            "author": "POMATTO,",
+            "year": "2018",
+            "article-title": "The Cost of Information"
+        },
+        {
+            "key": "2019102510192757200_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1939",
+            "DOI": "10.1109/18.340468",
+            "article-title": "A Mapping Approach to Rate\u2013Distortion Computation and Analysis",
+            "volume": "40",
+            "author": "ROSE,",
+            "year": "1994",
+            "journal-title": "IEEE Transactions on Information Theory"
+        },
+        {
+            "key": "2019102510192757200_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1016/S0304-3932(03)00029-1",
+            "article-title": "Implications of Rational Inattention",
+            "volume": "50",
+            "author": "SIMS,",
+            "year": "2003",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2019102510192757200_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "158",
+            "DOI": "10.1257/000282806777212431",
+            "article-title": "Rational Inattention: Beyond the Linear-Quadratic Case",
+            "volume": "96",
+            "author": "SIMS,",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019102510192757200_B29",
+            "author": "SIMS,",
+            "year": "2010",
+            "article-title": "Rational Inattention and Monetary Economics",
+            "journal-title": "Handbook of Monetary Economics",
+            "DOI": "10.1016/B978-0-444-53238-1.00004-1",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019102510192757200_B30",
+            "author": "STEVENS,",
+            "year": "2015",
+            "article-title": "Coarse Pricing Policies",
+            "DOI": "10.21034/sr.520",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019102510192757200_B31",
+            "unstructured": "TUTINO, A. (2009), \u201cThe Rigidity of Choice: Lifetime Savings under Information-Processing Constraints\u201d (Ph.D. thesis, Princeton University)."
+        },
+        {
+            "key": "2019102510192757200_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "421",
+            "DOI": "10.1016/j.red.2012.03.003",
+            "article-title": "Rationally Inattentive Consumption Choices",
+            "volume": "16",
+            "author": "TUTINO,",
+            "year": "2013",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2019102510192757200_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "779",
+            "DOI": "10.1111/j.1467-937X.2009.00583.x",
+            "article-title": "Information Acquisition and Under-Diversification",
+            "volume": "77",
+            "author": "VAN NIEUWERBURGH,",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019102510192757200_B34",
+            "author": "VELDKAMP,",
+            "year": "2011",
+            "journal-title": "Information choice in macroeconomics and finance",
+            "DOI": "10.2307/j.ctvcm4j91",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019102510192757200_B35",
+            "author": "WOODFORD,",
+            "year": "2009",
+            "article-title": "Information-Constrained State-Dependent Pricing",
+            "journal-title": "Journal of Monetary Economics",
+            "DOI": "10.1016/j.jmoneco.2009.06.014",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019102510192757200_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "721",
+            "DOI": "10.1016/j.jet.2014.11.017",
+            "article-title": "Coordination with Flexible Information Acquisition",
+            "volume": "158",
+            "author": "YANG,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/86/6/2643/30302441/rdz011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/86/6/2643/30302441/rdz011.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2019-11-19T18:49:22Z",
+        "timestamp": 1574189362000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                3,
+                4
+            ]
+        ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    3,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    11,
+                    1
+                ]
+            ]
+        },
+        "issue": "6"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdz011",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

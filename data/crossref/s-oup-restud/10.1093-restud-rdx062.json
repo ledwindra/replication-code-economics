@@ -1,0 +1,435 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                9
+            ]
+        ],
+        "date-time": "2021-04-09T01:04:10Z",
+        "timestamp": 1617930250139
+    },
+    "reference-count": 28,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/about_us/legal/notices",
+            "start": {
+                "date-parts": [
+                    [
+                        2017,
+                        10,
+                        31
+                    ]
+                ],
+                "date-time": "2017-10-31T00:00:00Z",
+                "timestamp": 1509408000000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SES-1530534"
+            ]
+        },
+        {
+            "name": "CeMMAP",
+            "award": [
+                "CWP27/15"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                1
+            ]
+        ]
+    },
+    "DOI": "10.1093/restud/rdx062",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2017,
+                10,
+                30
+            ]
+        ],
+        "date-time": "2017-10-30T20:13:13Z",
+        "timestamp": 1509394393000
+    },
+    "page": "1577-1608",
+    "source": "Crossref",
+    "is-referenced-by-count": 13,
+    "title": [
+        "Approximate Permutation Tests and Induced Order Statistics in the Regression Discontinuity Design"
+    ],
+    "prefix": "10.1093",
+    "volume": "85",
+    "author": [
+        {
+            "given": "Ivan A",
+            "family": "Canay",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics Northwestern University"
+                }
+            ]
+        },
+        {
+            "given": "Vishal",
+            "family": "Kamat",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics Northwestern University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2017,
+                10,
+                31
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "key\n\t\t\t\t20180622102725_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.1162/qjec.2010.125.2.591",
+            "article-title": "\u201cEstimating Marginal Returns to Medical Care: Evidence from At-risk Newborns\u201d,",
+            "volume": "125",
+            "author": "ALMOND",
+            "year": "2010",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B2",
+            "author": "BHATTACHARYA",
+            "first-page": "1034",
+            "year": "1974",
+            "article-title": "\u201cConvergence of Sample Paths of Normalized Sums of Induced Order Statistics\u201d,",
+            "journal-title": "The Annals of Statistics",
+            "DOI": "10.1214/aos/1176342823",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B3",
+            "author": "BRUHN",
+            "year": "2008",
+            "article-title": "\u201cIn Pursuit of Balance: Randomization in Practice in Development Field Experiments\u201d",
+            "DOI": "10.1596/1813-9450-4752",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B4",
+            "author": "BUGNI",
+            "year": "2017",
+            "article-title": "\u201cInference under Covariate-adaptive Randomization\u201d,",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2295",
+            "DOI": "10.3982/ECTA11757",
+            "article-title": "\u201cRobust Nonparametric Confidence Intervals for Regression-discontinuity Designs\u201d,",
+            "volume": "82",
+            "author": "CALONICO",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.3982/ECTA13081",
+            "article-title": "\u201cRandomization Tests under an Approximate Symmetry Assumption\u201d,",
+            "volume": "85",
+            "author": "CANAY",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1515/jci-2013-0010",
+            "article-title": "\u201cRandomization Inference in the Regression Discontinuity Design: An Application to Party Advantages in the US Senate\u201d,",
+            "volume": "3",
+            "author": "CATTANEO",
+            "year": "2015",
+            "journal-title": "Journal of Causal Inference"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "484",
+            "DOI": "10.1214/13-AOS1090",
+            "article-title": "\u201cExact and Asymptotically Robust Permutation Tests\u201d,",
+            "volume": "41",
+            "author": "CHUNG",
+            "year": "2013",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B9",
+            "author": "DAVID",
+            "first-page": "762",
+            "year": "1974",
+            "article-title": "\u201cThe Asymptotic Theory of Concomitants of Order Statistics\u201d,",
+            "journal-title": "Journal of Applied Probability",
+            "DOI": "10.2307/3212559",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B10",
+            "author": "Ganong",
+            "year": "2015",
+            "article-title": "\u201cA Permutation Test for the Regression Kink Design\u201d"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B11",
+            "author": "GERARD",
+            "year": "2016",
+            "article-title": "\u201cBounds on Treatment Effects in Regression Discontinuity Designs with a Manipulated Running Variable, with an Application to Unemployment Insurance in Brazil\u201d"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B12",
+            "author": "HAHN",
+            "first-page": "201",
+            "year": "2001",
+            "article-title": "\u201cIdentification and Estimation of Treatment Effects with a Regression-discontinuity Design\u201d,",
+            "volume-title": "Econometrica"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B13",
+            "author": "HAJEK",
+            "year": "1999",
+            "edition": "2nd edn",
+            "volume-title": "Theory of Rank Tests"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B14",
+            "author": "HOEFFDING",
+            "first-page": "169",
+            "year": "1952",
+            "article-title": "\u201cThe Large-sample Power of Tests Based on Permutations of Observations\u201d,",
+            "volume-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "933",
+            "DOI": "10.1093/restud/rdr043",
+            "article-title": "\u201cOptimal Bandwidth Choice for the Regression Discontinuity Estimator\u201d,",
+            "volume": "79",
+            "author": "IMBENS",
+            "year": "2012",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1016/j.jeconom.2007.05.001",
+            "article-title": "\u201cRegression Discontinuity Designs: A Guide to Practice\u201d,",
+            "volume": "142",
+            "author": "IMBENS",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B17",
+            "author": "KAMAT",
+            "first-page": "1",
+            "year": "2017",
+            "article-title": "\u201cOn Nonparametric Inference in the Regression Discontinuity Design\u201d,",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B18",
+            "author": "LEE",
+            "first-page": "675",
+            "year": "2008",
+            "article-title": "\u201cRandomized Experiments from Non-random Selection in U.S. House Elections\u201d,",
+            "volume-title": "Journal of Econometrics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "281",
+            "DOI": "10.1257/jel.48.2.281",
+            "article-title": "\u201cRegression Discontinuity Designs in Economics\u201d,",
+            "volume": "48",
+            "author": "LEE",
+            "year": "2010",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B20",
+            "author": "LEHMANN",
+            "year": "2005",
+            "edition": "3rd edn",
+            "volume-title": "Testing Statistical Hypotheses"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B21",
+            "author": "McCRARY",
+            "first-page": "698",
+            "year": "2008",
+            "article-title": "\u201cManipulation of the Running Variable in the Regression Discontinuity Design: A Density Test\u201d,",
+            "volume-title": "Journal of Econometrics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B22",
+            "author": "OLIVARES-GONZ\u00c1LEZ",
+            "year": "2017",
+            "article-title": "\u201cRATest: An R Package for Randomization Tests with an Application to Testing the Continuity of the Baseline Covariates in RDD using Approximate Permutation Tests\u201d"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B23",
+            "author": "ROMANO",
+            "first-page": "141",
+            "year": "1989",
+            "article-title": "\u201cBootstrap and Randomization Tests of Some Nonparametric Hypotheses\u201d,",
+            "volume-title": "The Annals of Statistics"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B24",
+            "author": "ROMANO",
+            "first-page": "686",
+            "year": "1990",
+            "article-title": "\u201cOn the Behavior of Randomization Tests without a Group Invariance Assumption\u201d,",
+            "volume-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B25",
+            "author": "SALES",
+            "year": "2015",
+            "article-title": "\u201cLimitless Regression Discontinuity\u201d,"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B26",
+            "author": "SEKHON",
+            "year": "2016",
+            "article-title": "\u201cOn Interpreting the Regression Discontinuity Design as a Local Experiment\u201d,"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B27",
+            "author": "SHEN",
+            "year": "2016",
+            "article-title": "\u201cDistributional Tests for Regression Discontinuity: Theory and Empirical Examples\u201d,",
+            "journal-title": "Review of Economics and Statistics",
+            "DOI": "10.1162/REST_a_00595",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "key\n\t\t\t\t20180622102725_B28",
+            "author": "VAN DER VAART",
+            "year": "1998",
+            "volume-title": "Asymptotic Statistics",
+            "DOI": "10.1017/CBO9780511802256",
+            "doi-asserted-by": "crossref"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/85/3/1577/25077990/rdx062.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                10,
+                5
+            ]
+        ],
+        "date-time": "2019-10-05T10:12:56Z",
+        "timestamp": 1570270376000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2017,
+                10,
+                31
+            ]
+        ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2017,
+                    10,
+                    31
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "issue": "3"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdx062",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ]
+}

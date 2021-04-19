@@ -1,0 +1,591 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                1
+            ]
+        ],
+        "date-time": "2020-09-01T05:10:14Z",
+        "timestamp": 1598937014893
+    },
+    "reference-count": 41,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        1,
+                        10
+                    ]
+                ],
+                "date-time": "2020-01-10T00:00:00Z",
+                "timestamp": 1578614400000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100008982",
+            "name": "National Science Foundation of Sri Lanka",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SES-1357401",
+                "1659334"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The traditional approach to obtain valid confidence intervals for non-parametric quantities is to select a smoothing parameter such that the bias of the estimator is negligible relative to its standard deviation. While this approach is apparently simple, it has two drawbacks: first, the question of optimal bandwidth selection is no longer well-defined, as it is not clear what ratio of bias to standard deviation should be considered negligible. Second, since the bandwidth choice necessarily deviates from the optimal (mean squares-minimizing) bandwidth, such a confidence interval is very inefficient. To address these issues, we construct valid confidence intervals that account for the presence of a non-negligible bias and thus make it possible to perform inference with optimal mean squared error minimizing bandwidths. The key difficulty in achieving this involves finding a strict, yet feasible, bound on the bias of a non-parametric estimator. It is well-known that it is not possible to consistently estimate the pointwise bias of an optimal non-parametric estimator (for otherwise, one could subtract it and obtain a faster convergence rate violating Stone\u2019s bounds on the optimal convergence rates). Nevertheless, we find that, under minimal primitive assumptions, it is possible to consistently estimate an upper bound on the magnitude of the bias, which is sufficient to deliver a valid confidence interval whose length decreases at the optimal rate and which does not contradict Stone\u2019s results.</jats:p>",
+    "DOI": "10.1093/restud/rdz065",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                1,
+                7
+            ]
+        ],
+        "date-time": "2020-01-07T04:47:36Z",
+        "timestamp": 1578372456000
+    },
+    "page": "2439-2472",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "A Bias Bound Approach to Non-parametric Inference"
+    ],
+    "prefix": "10.1093",
+    "volume": "87",
+    "author": [
+        {
+            "given": "Susanne M",
+            "family": "Schennach",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Brown University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                1,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020090100522577600_B1",
+            "author": "ANDREWS,",
+            "year": "2011",
+            "article-title": "Generic Results for Establishing the Asymptotic Size of Confidence Sets and Tests",
+            "DOI": "10.2139/ssrn.1899619",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020090100522577600_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2086",
+            "DOI": "10.1214/15-AOS1342",
+            "article-title": "Adaptive Testing on a Regression Function at a Point",
+            "volume": "43",
+            "author": "ARMSTRONG,",
+            "year": "2015",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.3982/ECTA14434",
+            "article-title": "Optimal Inference in a Class of Regression Models",
+            "volume": "86",
+            "author": "ARMSTRONG,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020090100522577600_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "732",
+            "DOI": "10.1093/restud/rdx051",
+            "article-title": "A Simple Adjustment for Bandwidth Snooping",
+            "volume": "85",
+            "author": "ARMSTRONG,",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2020090100522577600_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1073/pnas.17.12.650",
+            "article-title": "Proof of a Recurrence Theorem for Strongly Transitive Systems",
+            "volume": "17",
+            "author": "BIRKHOFF,",
+            "year": "1931",
+            "journal-title": "Proceedings of National Academy of Sciences United States of America"
+        },
+        {
+            "key": "2020090100522577600_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "656",
+            "DOI": "10.1073/pnas.17.2.656",
+            "article-title": "Proof of the Ergodic Theorem",
+            "volume": "17",
+            "author": "BIRKHOFF,",
+            "year": "1931",
+            "journal-title": "Proceedings of National Academy of Sciences United States of America"
+        },
+        {
+            "key": "2020090100522577600_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1490",
+            "DOI": "10.1214/12-EJS720",
+            "article-title": "Honest Adaptive Confidence Bands and Self-similar Functions",
+            "volume": "6",
+            "author": "BULL,",
+            "year": "2012",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1054",
+            "DOI": "10.1080/01621459.2013.879260",
+            "article-title": "Adaptive confidence bands for nonparametric regression functions",
+            "volume": "109",
+            "author": "CAI,",
+            "year": "2014",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020090100522577600_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "722",
+            "DOI": "10.1214/12-AOS1068",
+            "article-title": "Adaptive Confidence Intervals for Regression Functions under Shape Constraints",
+            "volume": "41",
+            "author": "CAI,",
+            "year": "2013",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "767",
+            "DOI": "10.1080/01621459.2017.1285776",
+            "article-title": "On the Effect of Bias Estimation on Coverage Accuracy in Nonparametric Estimation",
+            "volume": "113",
+            "author": "CALONICO,",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020090100522577600_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2295",
+            "DOI": "10.3982/ECTA11757",
+            "article-title": "Robust Nonparametric Confidence Intervals for Regression-Discontinuity Designs",
+            "volume": "82",
+            "author": "CALONICO,",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020090100522577600_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1753",
+            "DOI": "10.1080/01621459.2015.1017578",
+            "article-title": "Optimal Data-Driven Regression Discontinuity Plots",
+            "volume": "110",
+            "author": "CALONICO,",
+            "year": "2015",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020090100522577600_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1787",
+            "DOI": "10.1214/14-AOS1235",
+            "article-title": "Anti-concentration and Honest, Adaptive Confidence Bands",
+            "volume": "42",
+            "author": "CHERNOZHUKOV,",
+            "year": "2014",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B14",
+            "author": "DOORNIK,",
+            "year": "2007",
+            "edition": "3rd edn",
+            "volume-title": "Object-Oriented Matrix Programming Using Ox"
+        },
+        {
+            "key": "2020090100522577600_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.1016/S0167-9473(02)00212-8",
+            "article-title": "Computational Aspects of Maximum Likelihood Estimation of Autoregressive Fractionally Integrated Moving Average Models",
+            "volume": "41",
+            "author": "DOORNIK,",
+            "year": "2003",
+            "journal-title": "Computational Statistics and Data Analysis"
+        },
+        {
+            "key": "2020090100522577600_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1122",
+            "DOI": "10.1214/09-AOS738",
+            "article-title": "Confidence Bands in Density Estimation",
+            "volume": "38",
+            "author": "GIN\u00c9,",
+            "year": "2010",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1892",
+            "DOI": "10.1214/13-AOS1137",
+            "article-title": "A Simple Bootstrap Method for Constructing Nonparametric Confidence Bands for Functions",
+            "volume": "41",
+            "author": "HALL,",
+            "year": "2013",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1031",
+            "DOI": "10.1017/S0266466605050528",
+            "article-title": "Exact Mean Integrated Squared Error of Higher Order Kernel Estimators",
+            "volume": "21",
+            "author": "HANSEN,",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2020090100522577600_B19",
+            "author": "HANSEN,",
+            "year": "2014",
+            "article-title": "Robust Inference"
+        },
+        {
+            "key": "2020090100522577600_B20",
+            "author": "H\u00c4RDLE,",
+            "year": "1994",
+            "article-title": "Applied Nonparametric Methods",
+            "volume-title": "Handbook of Econometrics"
+        },
+        {
+            "key": "2020090100522577600_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2383",
+            "DOI": "10.1214/11-AOS903",
+            "article-title": "On Adaptive Inference and Confidence Bands",
+            "volume": "39",
+            "author": "HOFFMANN,",
+            "year": "2011",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B22",
+            "author": "HOROWITZ,",
+            "year": "2009",
+            "volume-title": "Semiparametric and Nonparametric Methods in Econometrics",
+            "DOI": "10.1007/978-0-387-92870-8",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020090100522577600_B23",
+            "author": "ICHIMURA,",
+            "year": "2007",
+            "article-title": "Implementing Nonparametric and Semiparametric Estimators",
+            "volume-title": "Handbook of Econometrics",
+            "DOI": "10.1016/S1573-4412(07)06074-6",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020090100522577600_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.1111/1468-0262.00304",
+            "article-title": "Nonparametric Censored and Truncated Regression",
+            "volume": "70",
+            "author": "LEWBEL,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020090100522577600_B25",
+            "author": "LI,",
+            "year": "2007",
+            "volume-title": "Nonparametric Econometrics"
+        },
+        {
+            "key": "2020090100522577600_B26",
+            "author": "LIGHTHILL,",
+            "year": "1962",
+            "volume-title": "Introduction to Fourier Analysis and Generalized Function"
+        },
+        {
+            "key": "2020090100522577600_B27",
+            "author": "LO\u00c8VE,",
+            "year": "1977",
+            "volume-title": "Probability Theory I"
+        },
+        {
+            "key": "2020090100522577600_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "2547",
+            "DOI": "10.1214/aos/1030741084",
+            "article-title": "On Nonparametric Confidence Intervals",
+            "volume": "25",
+            "author": "LOW,",
+            "year": "1997",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B29",
+            "author": "MANDELBROT,",
+            "year": "1982",
+            "volume-title": "The Fractal Geometry of Nature"
+        },
+        {
+            "key": "2020090100522577600_B30",
+            "author": "PAGAN,",
+            "year": "1999",
+            "volume-title": "Nonparametric Econometrics",
+            "DOI": "10.1017/CBO9780511612503",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020090100522577600_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1065",
+            "DOI": "10.1214/aoms/1177704472",
+            "article-title": "On Estimation of a Probability Density Function and Mode",
+            "volume": "33",
+            "author": "PARZEN,",
+            "year": "1962",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2020090100522577600_B32",
+            "author": "PETERSEN,",
+            "year": "1983",
+            "volume-title": "Ergodic Theory",
+            "DOI": "10.1017/CBO9780511608728",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2020090100522577600_B33",
+            "author": "PINKSE,",
+            "year": "2001",
+            "article-title": "Nonparametric Regression Estimation using Weak Separability"
+        },
+        {
+            "key": "2020090100522577600_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "517",
+            "DOI": "10.1080/10485250310001604659",
+            "article-title": "Adaptive Bandwidth Choice",
+            "volume": "15",
+            "author": "POLITIS,",
+            "year": "2003",
+            "journal-title": "Journal of Nonparametric Statistics"
+        },
+        {
+            "key": "2020090100522577600_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1006/jmva.1998.1774",
+            "article-title": "Multivariate Density Estimation with General Flat-top Kernels of Infinite Order",
+            "volume": "68",
+            "author": "POLITIS,",
+            "year": "1999",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "key": "2020090100522577600_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1046",
+            "DOI": "10.1017/S0266466604206028",
+            "article-title": "Nonparametric Estimation in the Presence of Measurement Error",
+            "volume": "20",
+            "author": "SCHENNACH,",
+            "year": "2004",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2020090100522577600_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "855",
+            "DOI": "10.1080/01621459.1993.10476350",
+            "article-title": "Smoothing Bias in Density Derivative Estimation",
+            "volume": "88",
+            "author": "STOKER,",
+            "year": "1993",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2020090100522577600_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1348",
+            "DOI": "10.1214/aos/1176345206",
+            "article-title": "Optimal Rates of Convergence for Nonparametric Estimators",
+            "volume": "8",
+            "author": "STONE,",
+            "year": "1980",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1040",
+            "DOI": "10.1214/aos/1176345969",
+            "article-title": "Optimal Global Rates of Convergence for Nonparametric Regression",
+            "volume": "10",
+            "author": "STONE,",
+            "year": "1982",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2020090100522577600_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "193",
+            "DOI": "10.1016/j.jeconom.2008.01.002",
+            "article-title": "Local Polynomial Estimation of Nonparametric Simultaneous Equations Models",
+            "volume": "144",
+            "author": "SU,",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020090100522577600_B41",
+            "year": "2009",
+            "article-title": "Current Population Survey (CPS)/Social Security Summary Earnings (SER) Exact Match File, March 1978",
+            "DOI": "10.3886/ICPSR09039.v3",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdz065/31956380/rdz065.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/87/5/2439/33702212/rdz065.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/87/5/2439/33702212/rdz065.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                1
+            ]
+        ],
+        "date-time": "2020-09-01T04:52:55Z",
+        "timestamp": 1598935975000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                1,
+                10
+            ]
+        ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    1,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    10,
+                    1
+                ]
+            ]
+        },
+        "issue": "5"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdz065",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}

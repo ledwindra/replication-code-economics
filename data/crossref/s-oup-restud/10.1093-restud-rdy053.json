@@ -1,0 +1,684 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                17
+            ]
+        ],
+        "date-time": "2021-04-17T04:23:47Z",
+        "timestamp": 1618633427979
+    },
+    "reference-count": 46,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model",
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        9,
+                        18
+                    ]
+                ],
+                "date-time": "2018-09-18T00:00:00Z",
+                "timestamp": 1537228800000
+            },
+            "delay-in-days": 0,
+            "content-version": "vor"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001732",
+            "name": "Danmarks Grundforskningsfond",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "DNRF78"
+            ]
+        },
+        {
+            "name": "National Science Foundation",
+            "award": [
+                "SES 1459967",
+                "SES 1459931"
+            ]
+        },
+        {
+            "name": "National Science Foundation",
+            "award": [
+                "SES 1459967",
+                "SES 1459931"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                1
+            ]
+        ]
+    },
+    "DOI": "10.1093/restud/rdy053",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                9,
+                17
+            ]
+        ],
+        "date-time": "2018-09-17T11:15:19Z",
+        "timestamp": 1537182919000
+    },
+    "page": "1095-1122",
+    "source": "Crossref",
+    "is-referenced-by-count": 16,
+    "title": [
+        "Two-Step Estimation and Inference with Possibly Many Included Covariates"
+    ],
+    "prefix": "10.1093",
+    "volume": "86",
+    "author": [
+        {
+            "given": "Matias D",
+            "family": "Cattaneo",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Michigan"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Jansson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UC Berkeley and CREATES"
+                }
+            ]
+        },
+        {
+            "given": "Xinwei",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Michigan"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                11,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2019042511432447300_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/S0304-4076(02)00201-4",
+            "article-title": "Semiparametric Instrumental Variable Estimation of treatment Response Models",
+            "volume": "113",
+            "author": "ABADIE",
+            "year": "2003",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019042511432447300_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/0034-6527.00321",
+            "article-title": "Semiparametric Difference-in-Differences Estimators",
+            "volume": "72",
+            "author": "ABADIE",
+            "year": "2005",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019042511432447300_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "465",
+            "DOI": "10.1146/annurev-economics-080217-053402",
+            "article-title": "Econometric Methods for Program Evaluation",
+            "volume": "10",
+            "author": "ABADIE",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2019042511432447300_B4",
+            "author": "ACKERBERG",
+            "first-page": "4171",
+            "year": "2007",
+            "article-title": "Econometric Tools for Analyzing Market Outcomes,",
+            "volume-title": "Handbook of Econometrics, Volume VI",
+            "DOI": "10.1016/S1573-4412(07)06063-1",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019042511432447300_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "499",
+            "DOI": "10.1111/1467-937X.00141",
+            "article-title": "The Interpretation of Instrumental Variables Estimators in Simultaneous Equations Models with an Application to the Demand for Fish",
+            "volume": "67",
+            "author": "ANGRIST",
+            "year": "2000",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019042511432447300_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "962",
+            "DOI": "10.1111/j.1541-0420.2005.00377.x",
+            "article-title": "Doubly Robust Estimation in Missing Data and Causal Inference Models",
+            "volume": "61",
+            "author": "BANG",
+            "year": "2005",
+            "journal-title": "Biometrics"
+        },
+        {
+            "key": "2019042511432447300_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1093/restud/rdt044",
+            "article-title": "Inference on Treatment Effects after Selection Among High-Dimensional Controls",
+            "volume": "81",
+            "author": "BELLONI",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2019042511432447300_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/j.jeconom.2015.02.014",
+            "article-title": "Some New Asymptotic Theory for Least Squares Series: Pointwise and Uniform Results",
+            "volume": "186",
+            "author": "BELLONI",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019042511432447300_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.3982/ECTA12723",
+            "article-title": "Program Evaluation and Causal Inference with High-Dimensional Data",
+            "volume": "85",
+            "author": "BELLONI",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "42",
+            "DOI": "10.2307/1937899",
+            "article-title": "The Estimation of Wage Gains and Welfare Gains in Self-Selection Models",
+            "volume": "69",
+            "author": "BJ\u00d6RKLUND",
+            "year": "1987",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2019042511432447300_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "767",
+            "DOI": "10.1080/01621459.2017.1285776",
+            "article-title": "On the Effect of Bias Estimation on Coverage Accuracy in Nonparametric Inference",
+            "volume": "113",
+            "author": "CALONICO",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019042511432447300_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2754",
+            "DOI": "10.1257/aer.101.6.2754",
+            "article-title": "Estimating Marginal Returns to Education",
+            "volume": "101",
+            "author": "CARNEIRO",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2019042511432447300_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.1016/j.jeconom.2009.09.023",
+            "article-title": "Efficient Semiparametric Estimation of Multi-Valued Treatment Effects under Ignorability",
+            "volume": "155",
+            "author": "CATTANEO",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019042511432447300_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1070",
+            "DOI": "10.1198/jasa.2010.tm09590",
+            "article-title": "Robust Data-Driven Inference for Density-Weighted Average Derivatives",
+            "volume": "105",
+            "author": "CATTANEO",
+            "year": "2010",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019042511432447300_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1080/01621459.2012.745810",
+            "article-title": "Generalized Jackknife Estimators of Weighted Average Derivatives (with Comments and Rejoinder)",
+            "volume": "108",
+            "author": "CATTANEO",
+            "year": "2013",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2019042511432447300_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1135",
+            "DOI": "10.1017/S0266466614000127",
+            "article-title": "Bootstrapping Density-Weighted Average Derivatives",
+            "volume": "30",
+            "author": "CATTANEO",
+            "year": "2014",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2019042511432447300_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "176",
+            "DOI": "10.1017/S0266466613000169",
+            "article-title": "Small Bandwidth Asymptotics for Density-Weighted Average Derivatives",
+            "volume": "30",
+            "author": "CATTANEO",
+            "year": "2014",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2019042511432447300_B18",
+            "author": "CATTANEO",
+            "year": "2018",
+            "article-title": "Large Sample Properties of Partitioning-Based Estimators",
+            "journal-title": "arXiv:1804.04916"
+        },
+        {
+            "key": "2019042511432447300_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "955",
+            "DOI": "10.3982/ECTA12701",
+            "article-title": "Kernel-Based Semiparametric Estimators: Small Bandwidth Asymptotics and Bootstrap Consistency",
+            "volume": "86",
+            "author": "CATTANEO",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1017/S026646661600013X",
+            "article-title": "Alternative Asymptotics and the Partially Linear Model with Many Regressors",
+            "volume": "34",
+            "author": "CATTANEO",
+            "year": "2018",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2019042511432447300_B21",
+            "author": "CATTANEO",
+            "year": "2018",
+            "article-title": "Inference in Linear Regression Models with Many Covariates and Heteroskedasticity",
+            "journal-title": "Journal of the American Statistical Association",
+            "DOI": "10.1080/01621459.2017.1328360",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019042511432447300_B22",
+            "author": "CHATTERJEE",
+            "year": "1988",
+            "volume-title": "Sensitivity Analysis in Linear Regression",
+            "DOI": "10.1002/9780470316764",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019042511432447300_B23",
+            "author": "CHEN",
+            "first-page": "5549",
+            "year": "2007",
+            "article-title": "Large Sample Sieve Estimation of Semi-Nonparametric Models,",
+            "volume-title": "Handbook of Econometrics, Volume VI",
+            "DOI": "10.1016/S1573-4412(07)06076-X",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019042511432447300_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "article-title": "Double/Debiased Machine Learning for Treatment and Structural Parameters",
+            "volume": "21",
+            "author": "CHERNOZHUKOV",
+            "year": "2018",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "2019042511432447300_B25",
+            "author": "CHERNOZHUKOV",
+            "year": "2018",
+            "article-title": "Locally Robust Semiparametric Estimation"
+        },
+        {
+            "key": "2019042511432447300_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "14557",
+            "DOI": "10.1073/pnas.1307842110",
+            "article-title": "On Robust Regression with High-Dimensional Predictors",
+            "volume": "110",
+            "author": "EL KAROUI",
+            "year": "2013",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2019042511432447300_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1146/annurev-economics-061109-080451",
+            "article-title": "Sparse High-Dimensional Models in Economics",
+            "volume": "3",
+            "author": "FAN",
+            "year": "2011",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2019042511432447300_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.06.017",
+            "article-title": "Robust Inference on Average Treatment Effects with Possibly More Covariates than Observations",
+            "volume": "189",
+            "author": "FARRELL",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019042511432447300_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1146/annurev-economics-080217-053542",
+            "article-title": "Fixed Effects Estimation of Large-$t$ Panel Data Models",
+            "volume": "10",
+            "author": "FERNANDEZ-Val",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2019042511432447300_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA9609",
+            "article-title": "Asymptotic Variance of Semiparametric Estimators with Generated Regressors",
+            "volume": "81",
+            "author": "HAHN",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1162/rest.88.3.389",
+            "article-title": "Understanding Instrumental Variables in Models with Essential Heterogeneity",
+            "volume": "88",
+            "author": "HECKMAN",
+            "year": "2006",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2019042511432447300_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1111/j.1468-0262.2005.00594.x",
+            "article-title": "Structural Equations, Treatment Effects and Econometric Policy Evaluation",
+            "volume": "73",
+            "author": "HECKMAN",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B33",
+            "author": "ICHIMURA",
+            "first-page": "5370",
+            "year": "2007",
+            "article-title": "Implementing Nonparametric and Semiparametric Estimators,",
+            "volume-title": "Handbook of Econometrics, Volume VIB",
+            "DOI": "10.1016/S1573-4412(07)06074-6",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019042511432447300_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "article-title": "Identification and Estimation of Local Average Treatment Effects",
+            "volume": "62",
+            "author": "IMBENS",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "54",
+            "DOI": "10.1016/j.jeconom.2012.06.001",
+            "article-title": "Higher Order Properties of the Wild Bootstrap Under Misspecification",
+            "volume": "171",
+            "author": "KLINE",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2019042511432447300_B36",
+            "author": "LI",
+            "year": "2017",
+            "article-title": "Linear Regression with Many Controls of Limited Explanatory Power"
+        },
+        {
+            "key": "2019042511432447300_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "382",
+            "DOI": "10.1214/aos/1176347023",
+            "article-title": "Asymptotics with Increasing Dimension for Robust Regression with Applications to the Bootstrap",
+            "volume": "17",
+            "author": "MAMMEN",
+            "year": "1989",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2019042511432447300_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "255",
+            "DOI": "10.1214/aos/1176349025",
+            "article-title": "Bootstrap and Wild Bootstrap for High Dimensional Linear Models",
+            "volume": "21",
+            "author": "MAMMEN",
+            "year": "1993",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2019042511432447300_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1349",
+            "DOI": "10.2307/2951752",
+            "article-title": "The Asymptotic Variance of Semiparametric Estimators",
+            "volume": "62",
+            "author": "NEWEY",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B40",
+            "author": "NEWEY",
+            "first-page": "2111",
+            "year": "1994",
+            "article-title": "Large Sample Estimation and Hypothesis Testing,",
+            "volume-title": "Handbook of Econometrics, Volume IV",
+            "DOI": "10.1016/S1573-4412(05)80005-4",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "key": "2019042511432447300_B41",
+            "author": "NEWEY",
+            "year": "2018",
+            "article-title": "Cross-Fitting and Fast Remainder Rates for Semiparametric Estimation"
+        },
+        {
+            "key": "2019042511432447300_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1263",
+            "DOI": "10.2307/2171831",
+            "article-title": "The Dynamics of Productivity in the Telecommunications Equipment Industry",
+            "volume": "64",
+            "author": "OLLEY",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.1111/1468-0262.00277",
+            "article-title": "Independence, Monotonicity, and Latent Index Models: An Equivalence Result",
+            "volume": "70",
+            "author": "VYTLACIL",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2019042511432447300_B44",
+            "author": "WEBB",
+            "year": "2014",
+            "article-title": "Reworking Wild Bootstrap Based Inference for Clustered Errors"
+        },
+        {
+            "key": "2019042511432447300_B45",
+            "author": "WOOLDRIDGE",
+            "year": "2010",
+            "volume-title": "Econometric Analysis of Cross Section and Panel Data"
+        },
+        {
+            "key": "2019042511432447300_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "420",
+            "DOI": "10.3368/jhr.50.2.420",
+            "article-title": "Control Function Methods in Applied Econometrics",
+            "volume": "50",
+            "author": "WOOLDRIDGE",
+            "year": "2015",
+            "journal-title": "Journal of Human Resources"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/86/3/1095/28529345/rdy053.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ],
+        "date-time": "2020-05-20T03:35:00Z",
+        "timestamp": 1589945700000
+    },
+    "score": 1.0,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                11,
+                9
+            ]
+        ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+        "published-online": {
+            "date-parts": [
+                [
+                    2018,
+                    11,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    5,
+                    1
+                ]
+            ]
+        },
+        "issue": "3"
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdy053",
+    "relation": {
+        "cites": []
+    },
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ]
+}
