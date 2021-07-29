@@ -1,0 +1,136 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                28
+            ]
+        ],
+        "date-time": "2021-07-28T22:29:14Z",
+        "timestamp": 1627511354334
+    },
+    "reference-count": 31,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We introduce a novel parametrization of the correlation matrix. The reparametrization facilitates modeling of correlation and covariance matrices by an unrestricted vector, where positive definiteness is an innate property. This parametrization can be viewed as a generalization of Fisher's \n            <jats:italic>Z</jats:italic>\u2010transformation to higher dimensions and has a wide range of potential applications. An algorithm for reconstructing the unique \n            <jats:italic>n</jats:italic>\u2009\u00d7\u2009\n            <jats:italic>n</jats:italic> correlation matrix from any vector in \n            <math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n              <msup>\n                <mrow>\n                  <mi mathvariant=\"double-struck\">R</mi>\n                </mrow>\n                <mrow>\n                  <mi>n</mi>\n                  <mo stretchy=\"false\">(</mo>\n                  <mi>n</mi>\n                  <mo>\u2212</mo>\n                  <mn>1</mn>\n                  <mo stretchy=\"false\">)</mo>\n                  <mo stretchy=\"false\">/</mo>\n                  <mn>2</mn>\n                </mrow>\n              </msup>\n            </math> is provided, and we derive its numerical complexity.\n          </jats:p>",
+    "DOI": "10.3982/ecta16910",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2021-07-16T11:50:20Z",
+        "timestamp": 1626436220000
+    },
+    "page": "1699-1715",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "A New Parametrization of Correlation Matrices"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Ilya",
+            "family": "Archakov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics and Operations Research, University of Vienna"
+                }
+            ]
+        },
+        {
+            "given": "Peter Reinhard",
+            "family": "Hansen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of North Carolina"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2021-07-16T11:55:31Z",
+        "timestamp": 1626436531000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA16910"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16910",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    }
+}

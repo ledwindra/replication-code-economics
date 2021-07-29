@@ -1,0 +1,166 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                28
+            ]
+        ],
+        "date-time": "2021-07-28T22:29:01Z",
+        "timestamp": 1627511341704
+    },
+    "reference-count": 56,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2021-01-01T00:00:00Z",
+                "timestamp": 1609459200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/501100000269",
+            "name": "Economic and Social Research Council",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper reconciles the asymptotic disagreement between Bayesian and frequentist inference in set\u2010identified models by adopting a multiple\u2010prior (robust) Bayesian approach. We propose new tools for Bayesian inference in set\u2010identified models and show that they have a well\u2010defined posterior interpretation in finite samples and are asymptotically valid from the frequentist perspective. The main idea is to construct a prior class that removes the source of the disagreement: the need to specify an unrevisable prior for the structural parameter given the reduced\u2010form parameter. The corresponding class of posteriors can be summarized by reporting the \u2018posterior lower and upper probabilities\u2019 of a given event and/or the \u2018set of posterior means\u2019 and the associated \u2018robust credible region\u2019. We show that the set of posterior means is a consistent estimator of the true identified set and the robust credible region has the correct frequentist asymptotic coverage for the true identified set if it is convex. Otherwise, the method provides posterior inference about the convex hull of the identified set. For impulse\u2010response analysis in set\u2010identified Structural Vector Autoregressions, the new tools can be used to overcome or quantify the sensitivity of standard Bayesian inference to the choice of an unrevisable prior.</jats:p>",
+    "DOI": "10.3982/ecta16773",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2021-07-16T11:50:20Z",
+        "timestamp": 1626436220000
+    },
+    "page": "1519-1556",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Robust Bayesian Inference for Set\u2010Identified Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Raffaella",
+            "family": "Giacomini",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London"
+                }
+            ]
+        },
+        {
+            "given": "Toru",
+            "family": "Kitagawa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2021-07-16T11:51:26Z",
+        "timestamp": 1626436286000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 56,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA16773"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16773",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    }
+}
