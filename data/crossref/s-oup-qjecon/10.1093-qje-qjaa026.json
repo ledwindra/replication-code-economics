@@ -1,0 +1,697 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                10
+            ]
+        ],
+        "date-time": "2021-07-10T07:10:44Z",
+        "timestamp": 1625901044451
+    },
+    "reference-count": 45,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        8
+                    ]
+                ],
+                "date-time": "2020-07-08T00:00:00Z",
+                "timestamp": 1594166400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000006",
+            "name": "ONR",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "N00014-16-1-2227"
+            ]
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "NSF",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "CCF 1320105"
+            ]
+        },
+        {
+            "DOI": "10.13039/100000893",
+            "name": "Simons Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "419427"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                22
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study how long-lived rational agents learn from repeatedly observing a private signal and each others\u2019 actions. With normal signals, a group of any size learns more slowly than just four agents who directly observe each others\u2019 private signals in each period. Similar results apply to general signal structures. We identify rational groupthink\u2014in which agents ignore their private signals and choose the same action for long periods of time\u2014as the cause of this failure of information aggregation.</jats:p>",
+    "DOI": "10.1093/qje/qjaa026",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                1
+            ]
+        ],
+        "date-time": "2020-07-01T03:20:24Z",
+        "timestamp": 1593573624000
+    },
+    "page": "621-668",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Rational Groupthink"
+    ],
+    "prefix": "10.1093",
+    "volume": "136",
+    "author": [
+        {
+            "given": "Matan",
+            "family": "Harel",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Tel Aviv University"
+                }
+            ]
+        },
+        {
+            "given": "Elchanan",
+            "family": "Mossel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Philipp",
+            "family": "Strack",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Omer",
+            "family": "Tamuz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "California Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                8
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021071002171570800_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1201",
+            "DOI": "10.1093/restud/rdr004",
+            "article-title": "\u201cBayesian Learning in Social Networks,\u201d",
+            "volume": "78",
+            "author": "Acemoglu",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071002171570800_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1103",
+            "DOI": "10.1111/j.1468-0262.2007.00783.x",
+            "article-title": "\u201cEfficient Use of Information and Social Value of Information,\u201d",
+            "volume": "75",
+            "author": "Angeletos",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1111/1467-937X.00059",
+            "article-title": "\u201cLearning from Neighbours,\u201d",
+            "volume": "65",
+            "author": "Bala",
+            "year": "1998",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071002171570800_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.2307/2118364",
+            "article-title": "\u201cA Simple Model of Herd Behavior,\u201d",
+            "volume": "107",
+            "author": "Banerjee",
+            "year": "1992",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071002171570800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1236498",
+            "DOI": "10.1126/science.1236498",
+            "article-title": "\u201cThe Diffusion of Microfinance,\u201d",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2021071002171570800_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1093/restud/rds030",
+            "article-title": "\u201cGroupthink: Collective Delusions in Organizations and Markets,\u201d",
+            "volume": "80",
+            "author": "B\u00e9nabou",
+            "year": "2012",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071002171570800_bib7",
+            "first-page": "369",
+            "article-title": "\u201cSolution D\u2019un Probl\u00e9me,\u201d",
+            "volume": "105",
+            "author": "Bertrand",
+            "year": "1887",
+            "journal-title": "Comptes Rendus de l\u2019Acad\u00e8mie des Sciences, Paris"
+        },
+        {
+            "key": "2021071002171570800_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "992",
+            "DOI": "10.1086/261849",
+            "article-title": "\u201cA Theory of Fads, Fashion, Custom, and Cultural Change As Informational Cascades,\u201d",
+            "volume": "100",
+            "author": "Bikhchandani",
+            "year": "1992",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071002171570800_bib9",
+            "volume-title": "Rational Herds: Economic Models of Social Learning",
+            "author": "Chamley",
+            "year": "2004"
+        },
+        {
+            "key": "2021071002171570800_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1257/aer.100.1.35",
+            "article-title": "\u201cLearning about a New Technology: Pineapple in Ghana,\u201d",
+            "volume": "100",
+            "author": "Conley",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071002171570800_bib11",
+            "volume-title": "Elements of Information Theory",
+            "author": "Cover Thomas",
+            "year": "2006"
+        },
+        {
+            "key": "2021071002171570800_bib12",
+            "first-page": "166",
+            "article-title": "\u201cOn a New Limit Theorem of the Theory of Probability,\u201d",
+            "volume": "10",
+            "author": "Cram\u00e9r",
+            "year": "1994",
+            "journal-title": "Uspekhi Matematicheskikh Nauk"
+        },
+        {
+            "key": "2021071002171570800_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "909",
+            "DOI": "10.1111/j.1468-0262.2008.00862.x",
+            "article-title": "\u201cCommon Learning,\u201d",
+            "volume": "76",
+            "author": "Cripps",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1847",
+            "DOI": "10.1287/mnsc.2019.3294",
+            "article-title": "\u201cHarnessing the Wisdom of Crowds,\u201d",
+            "volume": "66",
+            "author": "Da",
+            "year": "2020",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2021071002171570800_bib16",
+            "article-title": "\u201cSocial Learning in a Dynamic Environment,\u201d",
+            "author": "Dasaratha",
+            "year": "2018"
+        },
+        {
+            "key": "2021071002171570800_bib15",
+            "article-title": "\u201cSpeed of Rational Social Learning in Networks with Gaussian Information,\u201d",
+            "author": "Dasaratha",
+            "year": "2019"
+        },
+        {
+            "key": "2021071002171570800_bib17",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Large Deviations Techniques and Applications",
+            "author": "Dembo",
+            "year": "1998",
+            "DOI": "10.1007/978-1-4612-5320-4"
+        },
+        {
+            "key": "2021071002171570800_bib20",
+            "first-page": "100",
+            "article-title": "\u201cInformation Percolation,\u201d",
+            "volume": "2",
+            "author": "Duffie",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2021071002171570800_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1513",
+            "DOI": "10.3982/ECTA8160",
+            "article-title": "\u201cInformation Percolation with Equilibrium Search Dynamics,\u201d",
+            "volume": "77",
+            "author": "Duffie",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1257/aer.97.2.203",
+            "article-title": "\u201cInformation Percolation in Large Markets,\u201d",
+            "author": "Duffie",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071002171570800_bib21",
+            "volume-title": "Probability: Theory and Examples",
+            "author": "Durrett",
+            "year": "1996"
+        },
+        {
+            "key": "2021071002171570800_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "146",
+            "DOI": "10.1007/978-3-642-25510-6_13",
+            "article-title": "\u201cSocial Learning in a Changing World,\u201d",
+            "volume-title": "International Workshop on Internet and Network Economics",
+            "author": "Frongillo",
+            "year": "2011"
+        },
+        {
+            "key": "2021071002171570800_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1016/S0899-8256(03)00144-1",
+            "article-title": "\u201cBayesian Learning in Social Networks,\u201d",
+            "volume": "45",
+            "author": "Gale",
+            "year": "2003",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071002171570800_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "192",
+            "DOI": "10.1016/0022-0531(82)90099-0",
+            "article-title": "\u201cWe Can\u2019t Disagree Forever,\u201d",
+            "volume": "28",
+            "author": "Geanakoplos",
+            "year": "1982",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071002171570800_bib25",
+            "first-page": "112",
+            "article-title": "\u201cNaive Learning in Social Networks and the Wisdom of Crowds,\u201d",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2021071002171570800_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1093/bjps/49.1.49",
+            "article-title": "\u201cHume on Miracles: Bayesian Interpretation, Multiple Testimony, and the Existence of God,\u201d",
+            "volume": "49",
+            "author": "Holder",
+            "year": "1998",
+            "journal-title": "British Journal for the Philosophy of Science"
+        },
+        {
+            "key": "2021071002171570800_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0022-0531(03)00224-2",
+            "article-title": "\u201cRates of Information Aggregation in Common Value Auctions,\u201d",
+            "volume": "116",
+            "author": "Hong",
+            "year": "2004",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071002171570800_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "332",
+            "DOI": "10.1016/j.jet.2016.05.001",
+            "article-title": "\u201cHow Fast Do Equilibrium Payoff Sets Converge in Repeated Games?,\u201d",
+            "volume": "165",
+            "author": "H\u00f6rner",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071002171570800_bib30",
+            "article-title": "\u201cSection X: of Miracles,\u201d",
+            "volume-title": "An Enquiry Concerning Human Understanding",
+            "author": "Hume",
+            "year": "1748"
+        },
+        {
+            "key": "2021071002171570800_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1111/j.1467-937X.2008.00493.x",
+            "article-title": "\u201cOptimal Electoral Timing: Exercise Wisely and You May Live Longer,\u201d",
+            "volume": "75",
+            "author": "Keppo",
+            "year": "2008",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021071002171570800_bib32",
+            "volume-title": "The Guide for the Perplexed",
+            "author": "Maimonides",
+            "year": "1904"
+        },
+        {
+            "key": "2021071002171570800_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.3982/ECTA14613",
+            "article-title": "\u201cA Theory of Non-Bayesian Social Learning,\u201d",
+            "volume": "86",
+            "author": "Molavi",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1002/9781118468333.ch6",
+            "article-title": "\u201cOverprecision in Judgment,\u201d",
+            "author": "Moore",
+            "year": "2015",
+            "journal-title": "Wiley Blackwell Handbook of Judgment and Decision Making"
+        },
+        {
+            "key": "2021071002171570800_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "657",
+            "DOI": "10.1007/s001990050207",
+            "article-title": "\u201cSocial Learning in a Changing World,\u201d",
+            "volume": "11",
+            "author": "Moscarini",
+            "year": "1998",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2021071002171570800_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1755",
+            "DOI": "10.3982/ECTA12058",
+            "article-title": "\u201cStrategic Learning and the Topology of Social Networks,\u201d",
+            "volume": "83",
+            "author": "Mossel",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "913",
+            "DOI": "10.1093/restud/rdy029",
+            "article-title": "\u201cMulti-Dimensional Social Learning,\u201d",
+            "volume": "86",
+            "author": "Mueller-Frank",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071002171570800_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.1016/S0047-2727(00)00119-5",
+            "article-title": "\u201cInformation Aggregation in Debate: Who Should Speak First?,\u201d",
+            "volume": "81",
+            "author": "Ottaviani",
+            "year": "2001",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2021071002171570800_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "178",
+            "DOI": "10.1016/0022-0531(90)90073-S",
+            "article-title": "\u201cCommunication, Consensus, and Knowledge,\u201d",
+            "volume": "52",
+            "author": "Parikh",
+            "year": "1990",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071002171570800_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2141",
+            "DOI": "10.3982/ECTA15845",
+            "article-title": "\u201cOn the Efficiency of Social Learning,\u201d",
+            "volume": "87",
+            "author": "Rosenberg",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "979",
+            "DOI": "10.1016/j.geb.2008.09.027",
+            "article-title": "\u201cInformational Externalities and Emergence of Consensus,\u201d",
+            "volume": "66",
+            "author": "Rosenberg",
+            "year": "2009",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071002171570800_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "424",
+            "DOI": "10.1080/01621459.1983.10477988",
+            "article-title": "\u201cDon\u2019t Bet on It: Contingent Agreements with Asymmetric Information,\u201d",
+            "volume": "78",
+            "author": "Sebenius",
+            "year": "1983",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021071002171570800_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1111/1468-0262.00113",
+            "article-title": "\u201cPathological Outcomes of Observational Learning,\u201d",
+            "volume": "68",
+            "author": "Smith",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071002171570800_bib44",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Mathematics of Probability",
+            "author": "Stroock",
+            "year": "2013",
+            "DOI": "10.1090/gsm/149"
+        },
+        {
+            "key": "2021071002171570800_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.2307/2298060",
+            "article-title": "\u201cHow Fast Do Rational Agents Learn?,\u201d",
+            "volume": "60",
+            "author": "Vives",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071002171570800_bib46",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Information and Learning in Markets: The Impact of Market Microstructure",
+            "author": "Vives",
+            "year": "2010",
+            "DOI": "10.2307/j.ctt7tc3b"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjaa026/33564596/qjaa026.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/1/621/35073191/qjaa026.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/1/621/35073191/qjaa026.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                10
+            ]
+        ],
+        "date-time": "2021-07-10T06:45:22Z",
+        "timestamp": 1625899522000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                8
+            ]
+        ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    8
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    22
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjaa026",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,769 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                8,
+                13
+            ]
+        ],
+        "date-time": "2021-08-13T07:12:03Z",
+        "timestamp": 1628838723372
+    },
+    "reference-count": 61,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        16
+                    ]
+                ],
+                "date-time": "2020-12-16T00:00:00Z",
+                "timestamp": 1608076800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Most convicted offenders serve their sentences under \u201ccommunity supervision\u201d at home instead of in prison. Under supervision, however, a technical rule violation, such as not paying fees, can result in incarceration. Rule violations account for 25% of prison admissions nationally and are significantly more common among black offenders. I test whether technical rules are effective tools for identifying likely reoffenders and deterring crime and examine their disparate racial impacts using administrative data from North Carolina. Analysis of a 2011 reform reducing prison punishments for technical violations on probation reveals that 40% of rule breakers would go on to commit crimes if spared harsh punishment. The same reform also closed a 33% black-white gap in incarceration rates without substantially increasing the black-white reoffending gap. These effects combined imply that technical rules target riskier probationers overall but disproportionately affect low-risk black offenders. To justify black probationers\u2019 higher violation rate on efficiency grounds, their crimes must be roughly twice as socially costly as that of white probationers. Exploiting the repeat spell nature of the North Carolina data, I estimate a semiparametric competing risks model that allows me to distinguish the effects of particular types of technical rules from unobserved probationer heterogeneity. Rules related to the payment of fees and fines, which are common in many states, are ineffective in tagging likely reoffenders and drive differential effects by race. These findings illustrate the potentially large influence of ostensibly race-neutral policies on racial disparities in the justice system.</jats:p>",
+    "DOI": "10.1093/qje/qjaa046",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                12
+            ]
+        ],
+        "date-time": "2020-12-12T06:14:37Z",
+        "timestamp": 1607753677000
+    },
+    "page": "1199-1253",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders*"
+    ],
+    "prefix": "10.1093",
+    "volume": "136",
+    "author": [
+        {
+            "given": "Evan K",
+            "family": "Rose",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                16
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021032515370897000_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "284",
+            "DOI": "10.1198/016214502753479419",
+            "article-title": "Bootstrap Tests for Distributional Treatment Effects in Instrumental Variable Models",
+            "volume": "97",
+            "author": "Abadie",
+            "year": "2002",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021032515370897000_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1491",
+            "DOI": "10.1111/1468-0262.00456",
+            "article-title": "The Nonparametric Identification of Treatment Effects in Duration Models",
+            "volume": "71",
+            "author": "Abbring",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370897000_bib3",
+            "first-page": "1239",
+            "article-title": "Do Judges Vary in Their Treatment of Race?",
+            "volume": "41",
+            "author": "Abrams",
+            "year": "2012",
+            "journal-title": "Journal of Legal Studies"
+        },
+        {
+            "key": "2021032515370897000_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1093/qje/qjx028",
+            "article-title": "Ban the Box, Criminal Records, and Racial Discrimination: A Field Experiment",
+            "volume": "133",
+            "author": "Agan",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/262063",
+            "article-title": "Formal and Real Authority in Organizations",
+            "volume": "105",
+            "author": "Aghion",
+            "year": "1997",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370897000_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "444",
+            "DOI": "10.1080/01621459.1996.10476902",
+            "article-title": "Identification of Causal Effects Using Instrumental Variables",
+            "volume": "91",
+            "author": "Angrist",
+            "year": "1996",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021032515370897000_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1017",
+            "DOI": "10.1093/qje/qjs014",
+            "article-title": "Impact of Jury Race in Criminal Trials",
+            "volume": "127",
+            "author": "Anwar",
+            "year": "2012",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1885",
+            "DOI": "10.1093/qje/qjy012",
+            "article-title": "Racial Bias in Bail Decisions",
+            "volume": "133",
+            "author": "Arnold",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "193",
+            "DOI": "10.1016/0047-2727(73)90013-3",
+            "article-title": "Higher Education as a Filter",
+            "volume": "2",
+            "author": "Arrow",
+            "year": "1973",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2021032515370897000_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "200",
+            "DOI": "10.1080/0735648X.2012.679874",
+            "article-title": "The Effects of Low-Intensity Supervision for Lower-Risk Probationers: Updated Results from a Randomized Controlled Trial",
+            "volume": "35",
+            "author": "Barnes",
+            "year": "2012",
+            "journal-title": "Journal of Crime and Justice"
+        },
+        {
+            "key": "2021032515370897000_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1459",
+            "DOI": "10.1093/qje/qjy003",
+            "article-title": "Divergent Paths: A New Perspective on Earnings Differences between Black and White Men since 1940",
+            "volume": "133",
+            "author": "Bayer",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib12",
+            "volume-title": "The Economics of Discrimination",
+            "author": "Becker",
+            "year": "1957"
+        },
+        {
+            "key": "2021032515370897000_bib13",
+            "first-page": "0049124118782533",
+            "article-title": "Fairness in Criminal Justice Risk Assessments: The State of the Art",
+            "author": "Berk",
+            "year": "2018",
+            "journal-title": "Sociological Methods & Research"
+        },
+        {
+            "key": "2021032515370897000_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1269",
+            "DOI": "10.1086/705330",
+            "article-title": "Incarceration, Recidivism, and Employment",
+            "volume": "128",
+            "author": "Bhuller",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370897000_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1111/1745-9133.12010",
+            "article-title": "An Evaluation of Day Reporting Centers for Parolees",
+            "volume": "12",
+            "author": "Boyle",
+            "year": "2013",
+            "journal-title": "Criminology & Public Policy"
+        },
+        {
+            "key": "2021032515370897000_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1080/07418825.2012.682604",
+            "article-title": "Studying Discretion in the Processes that Generate Criminal Justice Sanctions",
+            "volume": "30",
+            "author": "Bushway",
+            "year": "2013",
+            "journal-title": "Justice Quarterly"
+        },
+        {
+            "key": "2021032515370897000_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "711",
+            "DOI": "10.1093/qje/qjz042",
+            "article-title": "Race and Economic Opportunity in the United States: An Intergenerational Perspective",
+            "volume": "135",
+            "author": "Chetty",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1111/j.1745-9125.2004.tb00514.x",
+            "article-title": "Willingness-to-pay for Crime Control Programs",
+            "volume": "42",
+            "author": "Cohen",
+            "year": "2011",
+            "journal-title": "Criminology"
+        },
+        {
+            "key": "2021032515370897000_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "260",
+            "DOI": "10.1162/REST_a_00139",
+            "article-title": "Plausibly Exogenous",
+            "volume": "94",
+            "author": "Conley",
+            "year": "2012",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2021032515370897000_bib20",
+            "first-page": "797",
+            "article-title": "Algorithmic Decision Making and the Cost of Fairness",
+            "volume-title": "Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD \u201917",
+            "author": "Corbett-Davies"
+        },
+        {
+            "key": "2021032515370897000_bib57",
+            "article-title": "Confined and Costly: How Supervision Violations Are Filling Prisons and Burdening Budgets",
+            "author": "\u2014\u2014\u2014",
+            "year": "2019",
+            "journal-title": "CSG Technical Report"
+        },
+        {
+            "key": "2021032515370897000_bib56",
+            "article-title": "Justice Reinvestment in North Carolina",
+            "author": "Council of State Governments Justice Center",
+            "year": "2011",
+            "journal-title": "CSG Technical Report"
+        },
+        {
+            "key": "2021032515370897000_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1111/j.2517-6161.1972.tb00899.x",
+            "article-title": "Regression Models and Life-Tables",
+            "volume": "34",
+            "author": "Cox",
+            "year": "1972",
+            "journal-title": "Journal of the Royal Statistical Society Series B (Methodological)"
+        },
+        {
+            "key": "2021032515370897000_bib22",
+            "volume-title": "Renewal Theory",
+            "author": "Cox",
+            "year": "1962"
+        },
+        {
+            "key": "2021032515370897000_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1257/aer.20161503",
+            "article-title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+            "volume": "108",
+            "author": "Dobbie",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370897000_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "2123",
+            "DOI": "10.3982/ECTA12876",
+            "article-title": "The Value of Regulatory Discretion: Estimates from Environmental Inspections in India",
+            "volume": "86",
+            "author": "Duflo",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370897000_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "414",
+            "DOI": "10.1080/01621459.1988.10478612",
+            "article-title": "Logistic Regression, Survival Analysis, and the Kaplan-Meier Curve",
+            "volume": "83",
+            "author": "Efron",
+            "year": "1988",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021032515370897000_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1210",
+            "DOI": "10.1086/701423",
+            "article-title": "An Empirical Analysis of Racial Differences in Police Use of Force",
+            "volume": "127",
+            "author": "Fryer",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370897000_bib27",
+            "article-title": "Justice Reinvestment Act Implementation Evaluation Report",
+            "author": "Hall",
+            "year": "2015"
+        },
+        {
+            "key": "2021032515370897000_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1086/697507",
+            "article-title": "Imprisonment and Labor Market Outcomes: Evidence from a Natural Experiment",
+            "volume": "124",
+            "author": "Harding",
+            "year": "2018",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2021032515370897000_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.2307/1911491",
+            "article-title": "A Method for Minimizing the Impact of Distributional Assumptions in Econometric Models for Duration Data",
+            "volume": "52",
+            "author": "Heckman",
+            "year": "1984",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370897000_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1093/biomet/76.2.325",
+            "article-title": "The Identifiability of the Competing Risks Model",
+            "volume": "76",
+            "author": "Heckman",
+            "year": "1989",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021032515370897000_bib31",
+            "article-title": "Five Year Outcomes in a Randomized Trial of a Community-Based MultiAgency Intensive Supervision Juvenile Probation Program",
+            "author": "Hennigan",
+            "year": "2010",
+            "journal-title": "National Criminal Justice Reference Service Technical Report 232621"
+        },
+        {
+            "key": "2021032515370897000_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "241",
+            "DOI": "10.2307/2297821",
+            "article-title": "Identification Results for Duration Models with Multiple Spells",
+            "volume": "60",
+            "author": "Honor\u00e9",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021032515370897000_bib33",
+            "article-title": "Court Fines and Fees: Criminalizing Poverty in North Carolina",
+            "author": "Hunt",
+            "year": "2017",
+            "journal-title": "North Carolina Poverty Research Fund Technical report"
+        },
+        {
+            "key": "2021032515370897000_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1177/0011128714555757",
+            "article-title": "An Experimental Evaluation of the Impact of Intensive Supervision on the Recidivism of High-Risk Probationers",
+            "volume": "63",
+            "author": "Hyatt",
+            "year": "2017",
+            "journal-title": "Crime & Delinquency"
+        },
+        {
+            "key": "2021032515370897000_bib35",
+            "article-title": "Examing Racial and Ethnic Disparities in Probation Revocation",
+            "author": "Jannetta",
+            "year": "2014"
+        },
+        {
+            "key": "2021032515370897000_bib35a",
+            "article-title": "Jay-Z: The Criminal Justice System Stalks Black People Like Meek Mill",
+            "author": "Jay-Z",
+            "year": "2017",
+            "journal-title": "The New York Times"
+        },
+        {
+            "key": "2021032515370897000_bib36",
+            "article-title": "Probation and Parole in the United States, 2017\u20132018",
+            "author": "Kaeble",
+            "year": "2020",
+            "journal-title": "BJC Bulletin NCJ 252072"
+        },
+        {
+            "key": "2021032515370897000_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "457",
+            "DOI": "10.1080/01621459.1958.10501452",
+            "article-title": "Nonparametric Estimation from Incomplete Observations",
+            "volume": "53",
+            "author": "Kaplan",
+            "year": "1958",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021032515370897000_bib38",
+            "first-page": "237",
+            "article-title": "Human Decisions and Machine Predictions",
+            "volume": "133",
+            "author": "Kleinberg",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib39",
+            "first-page": "43:1",
+            "article-title": "Inherent Trade-Offs in the Fair Determination of Risk Scores",
+            "volume-title": "The 8th Innovations in Theoretical Computer Science Conference,",
+            "author": "Kleinberg",
+            "year": "2017"
+        },
+        {
+            "key": "2021032515370897000_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1093/qje/qjs052",
+            "article-title": "How Should Inmates Be Released from Prison? An Assessment of Parole versus Fixed Sentence Regimes",
+            "volume": "128",
+            "author": "Kuziemko",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370897000_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.1525/sp.2011.58.2.257",
+            "article-title": "Compounded Disadvantage: Race, Incarceration, and Wage Growth",
+            "volume": "58",
+            "author": "Lyons",
+            "year": "2011",
+            "journal-title": "Social Problems"
+        },
+        {
+            "key": "2021032515370897000_bib42",
+            "article-title": "Monetary Obligations in North Carolina Criminal Cases",
+            "author": "Markham",
+            "year": "2018",
+            "journal-title": "University of North Carolina School of Government Technical report"
+        },
+        {
+            "key": "2021032515370897000_bib43",
+            "article-title": "Diversion in the Criminal Justice System",
+            "author": "Mueller-Smith",
+            "year": "",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021032515370897000_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/684310",
+            "article-title": "The Prison Boom and Sentencing Policy",
+            "volume": "45",
+            "author": "Neal",
+            "year": "2016",
+            "journal-title": "Journal of Legal Studies"
+        },
+        {
+            "key": "2021032515370897000_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1162/003465399767923908",
+            "article-title": "Identification in Detailed Wage Decompositions",
+            "volume": "81",
+            "author": "Oaxaca",
+            "year": "1999",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2021032515370897000_bib46",
+            "article-title": "The End of Debtors\u2019 Prisons: Effective Court Policies for Successful Compliance with Legal Financial Obligations",
+            "author": "Pepin",
+            "year": "2016",
+            "journal-title": "Conference of State Court Administrators Policy paper"
+        },
+        {
+            "key": "2021032515370897000_bib47",
+            "first-page": "659",
+            "article-title": "The Statistical Theory of Racism and Sexism",
+            "volume": "62",
+            "author": "Phelps",
+            "year": "1972",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370897000_bib48",
+            "doi-asserted-by": "crossref",
+            "article-title": "Does Supervision Matter",
+            "volume-title": "Prisoner Reentry and Crime in America",
+            "author": "Piehl",
+            "year": "2005",
+            "DOI": "10.1017/CBO9780511813580.005"
+        },
+        {
+            "key": "2021032515370897000_bib49",
+            "article-title": "An Honest Approach to Parallel Trends",
+            "author": "Rambachan",
+            "year": "2020",
+            "journal-title": "Harvard University Working Paper"
+        },
+        {
+            "key": "2021032515370897000_bib50",
+            "article-title": "Felony Defendants in Large Urban Counties, 2009\u2014Statistical Tables",
+            "author": "Reaves",
+            "year": "2013",
+            "journal-title": "State Court Processing Statistics NCJ 243777"
+        },
+        {
+            "key": "2021032515370897000_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1320",
+            "DOI": "10.1086/677255",
+            "article-title": "Racial Disparity in Federal Criminal Sentences",
+            "volume": "122",
+            "author": "Marit Rehavi",
+            "year": "2014",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370897000_bib52",
+            "article-title": "Probation Revocation and Its Causes: Profiles of State and Local Jurisdictions",
+            "author": "Robina Insitute",
+            "year": "2016",
+            "journal-title": "University of Minnesota Policy paper"
+        },
+        {
+            "key": "2021032515370897000_bib53",
+            "article-title": "Replication Data for: \u2018Who Gets a Second Chance? Effectiveness and Equity in Supervision of Criminal Offenders\u2019",
+            "author": "Rose",
+            "year": "2021",
+            "journal-title": "Harvard Dataverse"
+        },
+        {
+            "key": "2021032515370897000_bib54",
+            "article-title": "The Effects of Teacher Quality on Criminal Behavior",
+            "author": "Rose",
+            "year": "2019",
+            "journal-title": "UCLA Working Paper"
+        },
+        {
+            "key": "2021032515370897000_bib55",
+            "article-title": "Efficient Sentencing? The Effect of Post-Release Supervision on Low-Level Offenders",
+            "author": "Sakoda",
+            "year": "2019",
+            "journal-title": "Unpublished manuscript"
+        },
+        {
+            "key": "2021032515370897000_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "DOI": "10.1073/pnas.72.1.20",
+            "article-title": "A Non-Identifiability Aspect of the Problem of Competing Risks",
+            "volume": "72",
+            "author": "Tsiatis",
+            "year": "1975",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2021032515370897000_bib59",
+            "article-title": "Racial Bias in Police Investigations",
+            "author": "West",
+            "year": "2018",
+            "journal-title": "UCSC Working Paper"
+        },
+        {
+            "key": "2021032515370897000_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "553",
+            "DOI": "10.1086/432780",
+            "article-title": "Black-White Wage Inequality, Employment Rates, and Incarceration",
+            "volume": "111",
+            "author": "Western",
+            "year": "2005",
+            "journal-title": "American Journal of Sociology"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjaa046/36216972/qjaa046.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/2/1199/36725297/qjaa046.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/2/1199/36725297/qjaa046.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                25
+            ]
+        ],
+        "date-time": "2021-03-25T19:35:01Z",
+        "timestamp": 1616700901000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                16
+            ]
+        ]
+    },
+    "references-count": 61,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    16
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjaa046",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                16
+            ]
+        ]
+    }
+}

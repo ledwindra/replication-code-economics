@@ -1,0 +1,908 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                10
+            ]
+        ],
+        "date-time": "2021-07-10T07:41:18Z",
+        "timestamp": 1625902878441
+    },
+    "reference-count": 69,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        9
+                    ]
+                ],
+                "date-time": "2021-04-09T00:00:00Z",
+                "timestamp": 1617926400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                30
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Long-term nominal interest rates are surprisingly sensitive to high-frequency (daily or monthly) movements in short-term rates. Since 2000, this high-frequency sensitivity has grown even stronger in U.S. data. By contrast, the association between low-frequency changes (at 6- or 12-month horizons) in long- and short-term rates, which was also strong before 2000, has weakened substantially. This puzzling post-2000 pattern arises because increases in short rates temporarily raise the term premium component of long-term yields, leading long rates to temporarily overreact to changes in short rates. The frequency-dependent excess sensitivity of long-term rates that we observe in recent years is best understood using a model in which (i) declines in short rates trigger \u201crate-amplifying\u201d shifts in investor demand for long-term bonds, and (ii) the arbitrage response to these demand shifts is both limited and slow. We study, theoretically and empirically, how such rate-amplifying demand can be traced to mortgage-refinancing activity, investors who extrapolate recent changes in short rates, and investors who \u201creach for yield\u201d when short rates fall. We discuss the implications of our findings for the validity of event study methodologies and the transmission of monetary policy.</jats:p>",
+    "DOI": "10.1093/qje/qjab011",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                7
+            ]
+        ],
+        "date-time": "2021-04-07T19:55:26Z",
+        "timestamp": 1617825326000
+    },
+    "page": "1719-1781",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Rate-Amplifying Demand and the Excess Sensitivity of Long-Term Rates"
+    ],
+    "prefix": "10.1093",
+    "volume": "136",
+    "author": [
+        {
+            "given": "Samuel G",
+            "family": "Hanson",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard Business School, United States"
+                }
+            ]
+        },
+        {
+            "given": "David O",
+            "family": "Lucca",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Federal Reserve Bank of New York, United States"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan H",
+            "family": "Wright",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Johns Hopkins University, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021071004410781600_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.2307/2951764",
+            "article-title": "Tests for Parameter Instability and Structural Change with Unknown Change Point",
+            "volume": "61",
+            "author": "Andrews",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410781600_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1016/S0304-405X(98)00027-0",
+            "article-title": "A Model of Investor Sentiment",
+            "volume": "49",
+            "author": "Barberis",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021071004410781600_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1863",
+            "DOI": "10.1111/jofi.12199",
+            "article-title": "Reaching for Yield in the Bond Market",
+            "volume": "70",
+            "author": "Becker",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1016/j.jmoneco.2009.03.011",
+            "article-title": "The High-Frequency Impact of News on Long-Term Yields and Forward Rates: Is it Real?",
+            "volume": "56",
+            "author": "Beechey Meredith",
+            "year": "2009",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021071004410781600_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "955",
+            "DOI": "10.2307/2673930",
+            "article-title": "Structural Change in the Mortgage Market and the Propensity to Refinance",
+            "volume": "33",
+            "author": "Bennett",
+            "year": "2001",
+            "journal-title": "Journal of Money, Credit, and Banking"
+        },
+        {
+            "key": "2021071004410781600_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1093/qje/qjy021",
+            "article-title": "Regional Heterogeneity and the Refinancing Channel of Monetary Policy",
+            "volume": "134",
+            "author": "Beraja",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410781600_bib7",
+            "doi-asserted-by": "crossref",
+            "article-title": "Mortgage Prepayment and Path Dependent Effects of Monetary Policy",
+            "author": "Berger",
+            "year": "2018",
+            "DOI": "10.3386/w25157"
+        },
+        {
+            "key": "2021071004410781600_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1111/jofi.12586",
+            "article-title": "Diagnostic Expectations and Credit Cycles",
+            "volume": "73",
+            "author": "Bordalo",
+            "year": "2017",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "3799",
+            "DOI": "10.1093/rfs/hhz004",
+            "article-title": "Understanding Mortgage Spreads",
+            "volume": "32",
+            "author": "Boyarchenko",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib10",
+            "article-title": "Post-FOMC Announcement Drift in U.S. Bond Markets",
+            "author": "Brooks",
+            "year": "2019"
+        },
+        {
+            "key": "2021071004410781600_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1111/j.1540-6261.1988.tb04598.x",
+            "article-title": "Stock Prices, Earnings, and Expected Dividends",
+            "volume": "43",
+            "author": "Campbell",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.2307/2298008",
+            "article-title": "Yield Spreads and Interest Rate Movements: A Bird\u2019s Eye View",
+            "volume": "58",
+            "author": "Campbell",
+            "year": "1991",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071004410781600_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.3390/econometrics5010002",
+            "article-title": "Fixed-b Inference for Testing Structural Change in a Time Series Regression",
+            "volume": "5",
+            "author": "Cho",
+            "year": "2017",
+            "journal-title": "Econometrics"
+        },
+        {
+            "key": "2021071004410781600_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.2307/1910133",
+            "article-title": "Tests of Equality Between Sets of Coefficients in Two Linear Regressions",
+            "volume": "28",
+            "author": "Chow",
+            "year": "1960",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410781600_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3265",
+            "DOI": "10.1093/rfs/hhy051",
+            "article-title": "Short-Rate Expectations and Unexpected Returns in Treasury Bonds",
+            "volume": "31",
+            "author": "Cieslak",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1257/000282802320189069",
+            "article-title": "The Fed and Interest Rates\u2014A High-Frequency Identification",
+            "volume": "92",
+            "author": "Cochrane",
+            "year": "2002",
+            "journal-title": "American Economic Review: Papers and Proceedings"
+        },
+        {
+            "key": "2021071004410781600_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.1257/0002828053828581",
+            "article-title": "Bond Risk Premia",
+            "volume": "95",
+            "author": "Cochrane",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410781600_bib18",
+            "article-title": "Maturity Increasing Over-Reaction and Bond Market Puzzles",
+            "author": "D\u2019Arienzo",
+            "year": "2020"
+        },
+        {
+            "key": "2021071004410781600_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.1086/261703",
+            "article-title": "Noise Trader Risk in Financial Markets",
+            "volume": "98",
+            "author": "De Long",
+            "year": "1990",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410781600_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "386",
+            "DOI": "10.1257/aer.97.1.386",
+            "article-title": "What Are Stock Investors\u2019 Actual Historical Returns? Evidence from Dollar-Weighted Returns",
+            "volume": "97",
+            "author": "Dichev",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410781600_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1057/s41308-016-0026-9",
+            "article-title": "The Hunt for Duration: Not Waving but Drowning?",
+            "volume": "65",
+            "author": "Domanski",
+            "year": "2017",
+            "journal-title": "IMF Economic Review"
+        },
+        {
+            "key": "2021071004410781600_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1111/1540-6261.00426",
+            "article-title": "Term Premia and Interest Rate Forecasts in Affine Models",
+            "volume": "57",
+            "author": "Duffee",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib23",
+            "first-page": "385",
+            "article-title": "Forecasting Interest Rates",
+            "volume-title": "Handbook of Economic Forecasting, Volume 2",
+            "author": "Duffee",
+            "year": "2013"
+        },
+        {
+            "key": "2021071004410781600_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1238",
+            "DOI": "10.1111/j.1540-6261.2010.01569.x",
+            "article-title": "Asset Price Dynamics with Slow-Moving Capital",
+            "volume": "65",
+            "author": "Duffie",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.1111/j.1467-9965.1996.tb00123.x",
+            "article-title": "Yield Factor Models of Interest Rates",
+            "volume": "64",
+            "author": "Duffie",
+            "year": "1996",
+            "journal-title": "Mathematical Finance"
+        },
+        {
+            "key": "2021071004410781600_bib26",
+            "first-page": "5",
+            "article-title": "The Federal Reserve\u2019s Current Framework for Monetary Policy: A Review and Assessment",
+            "volume": "16",
+            "author": "Eberly",
+            "year": "2020",
+            "journal-title": "International Journal of Central Banking"
+        },
+        {
+            "key": "2021071004410781600_bib27",
+            "first-page": "680",
+            "article-title": "The Information on Long-Maturity Forward Rates",
+            "volume": "77",
+            "author": "Fama",
+            "year": "1987",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410781600_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1016/j.jfineco.2007.07.001",
+            "article-title": "Dumb Money: Mutual Fund Flows and the Cross-Section of Stock Returns",
+            "volume": "88",
+            "author": "Frazzini",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021071004410781600_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1854",
+            "DOI": "10.1093/rfs/hhz018",
+            "article-title": "The Role of Technology in Mortgage Lending",
+            "volume": "32",
+            "author": "Fuster",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib30",
+            "volume-title": "Monetary Policy, Inflation, and the Business Cycle",
+            "author": "Gal\u00ed",
+            "year": "2008"
+        },
+        {
+            "key": "2021071004410781600_bib31",
+            "first-page": "44",
+            "article-title": "Monetary Policy Surprises, Credit Costs, and Economic Activity",
+            "volume": "7",
+            "author": "Gertler",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021071004410781600_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1093/qje/qjx034",
+            "article-title": "Excess Volatility: Beyond Discount Rates",
+            "volume": "133",
+            "author": "Giglio",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410781600_bib33",
+            "first-page": "77",
+            "article-title": "Monetary Policy and Real Borrowing Costs at the Zero Lower Bound",
+            "volume": "7",
+            "author": "Gilchrist",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021071004410781600_bib34",
+            "article-title": "Federal Reserve Board\u2019s Semiannual Monetary Policy Report to the Congress",
+            "author": "Greenspan",
+            "year": "2005"
+        },
+        {
+            "key": "2021071004410781600_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "3307",
+            "DOI": "10.1093/rfs/hhy048",
+            "article-title": "Asset Price Dynamics in Partially Segmented Markets",
+            "volume": "31",
+            "author": "Greenwood",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "663",
+            "DOI": "10.1093/rfs/hht133",
+            "article-title": "Bond Supply and Excess Bond Returns",
+            "volume": "27",
+            "author": "Greenwood",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "425",
+            "DOI": "10.1257/0002828053828446",
+            "article-title": "The Sensitivity of Long-Term Interest Rates to Economic News: Evidence and Implications for Macroeconomic Models",
+            "volume": "95",
+            "author": "G\u00fcrkaynak",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410781600_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "2291",
+            "DOI": "10.1016/j.jmoneco.2007.06.029",
+            "article-title": "The U.S. Treasury Yield Curve: 1961 to the Present",
+            "volume": "54",
+            "author": "G\u00fcrkaynak",
+            "year": "2007",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021071004410781600_bib39",
+            "first-page": "70",
+            "article-title": "The TIPS Yield Curve and Inflation Compensation",
+            "volume": "2",
+            "author": "G\u00fcrkaynak",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021071004410781600_bib40",
+            "first-page": "55",
+            "article-title": "Do Actions Speak Louder than Words? The Response of Asset Prices to Monetary Policy Actions and Statements",
+            "volume": "1",
+            "author": "G\u00fcrkaynak",
+            "year": "2005",
+            "journal-title": "International Journal of Central Banking"
+        },
+        {
+            "key": "2021071004410781600_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1086/260910",
+            "article-title": "Forward Exchange Rates as Optimal Predictors of Future Spot Rates: An Econometric Analysis",
+            "volume": "88",
+            "author": "Hansen",
+            "year": "1980",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410781600_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "270",
+            "DOI": "10.1016/j.jfineco.2014.05.002",
+            "article-title": "Mortgage Convexity",
+            "volume": "113",
+            "author": "Hanson",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021071004410781600_bib43",
+            "article-title": "Replication Data for: \u2018Rate-Amplifying Demand and the Excess Sensitivity of Long-Term Rates\u2019",
+            "author": "Hanson",
+            "year": "2021"
+        },
+        {
+            "key": "2021071004410781600_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1016/j.jfineco.2014.11.001",
+            "article-title": "Monetary Policy and Long-Term Real Rates",
+            "volume": "115",
+            "author": "Hanson",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021071004410781600_bib45",
+            "doi-asserted-by": "crossref",
+            "article-title": "Expectations and Risk Premia at 8:30AM: Macroeconomic Announcements and the Yield Curve",
+            "author": "H\u00f6rdahl",
+            "year": "2015",
+            "DOI": "10.2139/ssrn.2726013"
+        },
+        {
+            "key": "2021071004410781600_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1257/0002828053828518",
+            "article-title": "Estimation and Inference of Impulse Responses by Local Projections",
+            "volume": "95",
+            "author": "Jord\u00e0",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410781600_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.2307/1914185",
+            "article-title": "Prospect Theory: An Analysis of Decision under Risk",
+            "volume": "47",
+            "author": "Kahneman",
+            "year": "1979",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410781600_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1130",
+            "DOI": "10.1017/S0266466605050565",
+            "article-title": "A New Asymptotic Theory for Heteroskedasticity-Autocorrelation Robust Tests",
+            "volume": "21",
+            "author": "Kiefer",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2021071004410781600_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "2107",
+            "DOI": "10.1093/rfs/hhy111",
+            "article-title": "Low Interest Rates and Risk Taking: Evidence from Individual Investment Decisions",
+            "volume": "32",
+            "author": "Lian",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "54",
+            "DOI": "10.3905/jfi.1991.692347",
+            "article-title": "Common Factors Affecting Bond Returns",
+            "volume": "1",
+            "author": "Litterman",
+            "year": "1991",
+            "journal-title": "Journal of Fixed Income"
+        },
+        {
+            "key": "2021071004410781600_bib51",
+            "doi-asserted-by": "crossref",
+            "article-title": "Reach for Yield by U.S. Public Pension Funds",
+            "author": "Lu",
+            "year": "2019",
+            "DOI": "10.17016/FEDS.2019.048"
+        },
+        {
+            "key": "2021071004410781600_bib52",
+            "first-page": "13",
+            "article-title": "Event Studies in Economics and Finance",
+            "volume": "35",
+            "author": "MacKinlay",
+            "year": "1997",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2021071004410781600_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "2121",
+            "DOI": "10.1093/rfs/hhr015",
+            "article-title": "Bank Risk-Taking, Securitization, Supervision, and Low Interest Rates: Evidence from the Euro-Area and the US Lending Standards",
+            "volume": "24",
+            "author": "Maddaloni",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1220",
+            "DOI": "10.1093/rfs/hhw003",
+            "article-title": "Mortgage Risk and the Yield Curve",
+            "volume": "29",
+            "author": "Malkhozov",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071004410781600_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.2307/2534279",
+            "article-title": "Do Long Term Interest Rates Overreact to Short-Term Interest Rates?",
+            "volume": "1",
+            "author": "Mankiw",
+            "year": "1984",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2021071004410781600_bib56",
+            "article-title": "A Macro-Finance Model with Sentiment",
+            "author": "Maxted",
+            "year": "2020"
+        },
+        {
+            "key": "2021071004410781600_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1283",
+            "DOI": "10.1093/qje/qjy004",
+            "article-title": "High-Frequency Identification of Monetary Non-Neutrality: The Information Effect",
+            "volume": "133",
+            "author": "Nakamura",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410781600_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix",
+            "volume": "55",
+            "author": "Newey",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410781600_bib59",
+            "volume-title": "Foundations of Economic Analysis",
+            "author": "Samuelson",
+            "year": "1947"
+        },
+        {
+            "key": "2021071004410781600_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "1190",
+            "DOI": "10.1086/260832",
+            "article-title": "The Volatility of Long-Term Interest Rates and Expectations Models of the Term Structure",
+            "volume": "87",
+            "author": "Shiller",
+            "year": "1979",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410781600_bib61",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.2307/2534355",
+            "article-title": "Forward Rates and Future Policy: Interpreting the Term Structure of Interest Rates",
+            "volume": "1",
+            "author": "Shiller",
+            "year": "1983",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2021071004410781600_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1111/j.1540-6261.1997.tb03807.x",
+            "article-title": "The Limits of Arbitrage",
+            "volume": "52",
+            "author": "Shleifer",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1589",
+            "DOI": "10.1111/0022-1082.00066",
+            "article-title": "Costly Search and Mutual Fund Flows",
+            "volume": "53",
+            "author": "Sirri",
+            "year": "1998",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib64",
+            "article-title": "Yield-Oriented Investors and the Monetary Transmission Mechanism",
+            "author": "Stein",
+            "year": "2013"
+        },
+        {
+            "key": "2021071004410781600_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "1015",
+            "DOI": "10.1111/jofi.12614",
+            "article-title": "The Fed, the Bond Market, and Gradualism in Monetary Policy",
+            "volume": "73",
+            "author": "Stein",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071004410781600_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/j.1538-4616.2007.00014.x",
+            "article-title": "Why Has U.S. Inflation Become Harder to Forecast?",
+            "volume": "39",
+            "author": "Stock",
+            "year": "2007",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2021071004410781600_bib67",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/ECTA17440",
+            "article-title": "A Preferred-Habitat Model of the term Structure of Interest Rates",
+            "volume": "89",
+            "author": "Vayanos",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410781600_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1016/0304-405X(95)00827-2",
+            "article-title": "Aggregate Mutual Fund Flows and Security Returns",
+            "volume": "39",
+            "author": "Warther",
+            "year": "1995",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021071004410781600_bib69",
+            "article-title": "Refinancing and the Transmission of Monetary Policy to Consumption",
+            "author": "Wong",
+            "year": "2019"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjab011/38107820/qjab011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/3/1719/38840322/qjab011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/3/1719/38840322/qjab011.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                10
+            ]
+        ],
+        "date-time": "2021-07-10T07:20:47Z",
+        "timestamp": 1625901647000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                9
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    6,
+                    30
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjab011",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                8
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                9
+            ]
+        ]
+    }
+}

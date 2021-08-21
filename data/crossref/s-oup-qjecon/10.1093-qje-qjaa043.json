@@ -1,0 +1,627 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                29
+            ]
+        ],
+        "date-time": "2021-07-29T14:47:59Z",
+        "timestamp": 1627570079059
+    },
+    "reference-count": 41,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        3
+                    ]
+                ],
+                "date-time": "2021-02-03T00:00:00Z",
+                "timestamp": 1612310400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>When a Bayesian learns new information and changes her beliefs, she must on average become concomitantly more certain about the state of the world. Consequently, it is rare for a Bayesian to frequently shift beliefs substantially while remaining relatively uncertain, or, conversely, become very confident with relatively little belief movement. We formalize this intuition by developing specific measures of movement and uncertainty reduction given a Bayesian\u2019s changing beliefs over time, showing that these measures are equal in expectation and creating consequent statistical tests for Bayesianess. We then show connections between these two core concepts and four common psychological biases, suggesting that the test might be particularly good at detecting these biases. We provide support for this conclusion by simulating the performance of our test and other martingale tests. Finally, we apply our test to data sets of individual, algorithmic, and market beliefs.</jats:p>",
+    "DOI": "10.1093/qje/qjaa043",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                1,
+                29
+            ]
+        ],
+        "date-time": "2021-01-29T04:37:46Z",
+        "timestamp": 1611895066000
+    },
+    "page": "933-985",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Belief Movement, Uncertainty Reduction, and Rational Updating*"
+    ],
+    "prefix": "10.1093",
+    "volume": "136",
+    "author": [
+        {
+            "given": "Ned",
+            "family": "Augenblick",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, Berkeley, United States"
+                }
+            ]
+        },
+        {
+            "given": "Matthew",
+            "family": "Rabin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard University, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                3
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021032515203186200_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "422",
+            "DOI": "10.1214/08-AOAS200",
+            "article-title": "\u201cHigh Frequency Market Microstructure Noise Estimates and Liquidity Measures,\u201d",
+            "volume": "3",
+            "author": "Ait-Sahalia",
+            "year": "2009",
+            "journal-title": "Annals of Applied Statistics"
+        },
+        {
+            "key": "2021032515203186200_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/B978-0-444-50897-3.50005-5",
+            "article-title": "\u201cParametric and Nonparametric Volatility Measurement,\u201d",
+            "author": "Andersen",
+            "year": "2010",
+            "journal-title": "Handbook of Financial Econometrics: Tools and Techniques"
+        },
+        {
+            "key": "2021032515203186200_bib3",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cRestrictions on Asset-Price Movements under Rational Expectations: Theory and Evidence,\u201d",
+            "author": "Augenblick",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3436384"
+        },
+        {
+            "key": "2021032515203186200_bib4",
+            "article-title": "\u201cReplication Data for \u2018Belief Movement, Uncertainty Reduction, and Rational Updating\u2019,\u201d",
+            "author": "Augenblick",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515203186200_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1016/0001-6918(80)90046-3",
+            "article-title": "\u201cThe Base-Rate Fallacy in Probability Judgments\u201d",
+            "volume": "44",
+            "author": "Bar-Hillel",
+            "year": "1980",
+            "journal-title": "Acta Psychologica"
+        },
+        {
+            "key": "2021032515203186200_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1111/1467-9868.00282",
+            "article-title": "\u201cNon-Gaussian Ornstein\u2013Uhlenbeck-Based Models and Some of Their Uses in Financial Economics,\u201d",
+            "volume": "63",
+            "author": "Barndorff-Nielsen",
+            "year": "2001",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2021032515203186200_bib7",
+            "article-title": "\u201cThe Dynamics of Base-Rate Neglect,\u201d",
+            "author": "Benjamin",
+            "year": "2017"
+        },
+        {
+            "key": "2021032515203186200_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "515",
+            "DOI": "10.1111/jeea.12139",
+            "article-title": "\u201cA Model of Nonbelief in the Law of Large Numbers\u201d",
+            "volume": "14",
+            "author": "Benjamin",
+            "year": "2016",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2021032515203186200_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "793",
+            "DOI": "10.1111/j.1540-6261.1985.tb05004.x",
+            "article-title": "\u201cDoes the Stock Market Overreact?\u201d",
+            "volume": "40",
+            "author": "Bondt",
+            "year": "1985",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032515203186200_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1214/aop/1176997023",
+            "article-title": "\u201cDistribution Function Inequalities for Martingales,\u201d",
+            "volume": "1",
+            "author": "Burkholder",
+            "year": "1973",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2021032515203186200_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1062",
+            "DOI": "10.1086/261502",
+            "article-title": "\u201cCointegration and Tests of Present Value Models\u201d",
+            "volume": "95",
+            "author": "Campbell",
+            "year": "1987",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515203186200_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.1111/j.1467-6419.2008.00570.x",
+            "article-title": "\u201cVariance Ratio Tests of Random Walk: An Overview\u201d",
+            "volume": "23",
+            "author": "Charles",
+            "year": "2009",
+            "journal-title": "Journal of Economic Surveys"
+        },
+        {
+            "key": "2021032515203186200_bib15",
+            "first-page": "427",
+            "article-title": "\u201cThe Best Constant in Burkholder\u2019s Weak-L1 Inequality for the Martingale Square Function,\u201d",
+            "volume": "85",
+            "author": "Cox",
+            "year": "1982",
+            "journal-title": "Proceedings of the American Mathematical Society"
+        },
+        {
+            "key": "2021032515203186200_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1086/677350",
+            "article-title": "\u201cSuspense and Surprise\u201d",
+            "volume": "123",
+            "author": "Ely",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515203186200_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "972",
+            "DOI": "10.1057/9780230244405_20",
+            "article-title": "\u201cTesting the Martingale Hypothesis,\u201d",
+            "volume-title": "Palgrave Handbook of Econometrics",
+            "author": "Escanciano",
+            "year": "2009"
+        },
+        {
+            "key": "2021032515203186200_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3650",
+            "DOI": "10.1257/aer.20181897",
+            "article-title": "\u201cQuantifying Information and Uncertainty,\u201d",
+            "volume": "109",
+            "author": "Frankel",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515203186200_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "537",
+            "DOI": "10.2307/1885092",
+            "article-title": "\u201cBayes Rule as a Descriptive Model: The Representativeness Heuristic\u201d",
+            "volume": "95",
+            "author": "Grether",
+            "year": "1980",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515203186200_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/0167-2681(92)90078-P",
+            "article-title": "\u201cTesting Bayes Rule and the Representativeness Heuristic: Some Experimental Evidence\u201d",
+            "volume": "17",
+            "author": "Grether",
+            "year": "1992",
+            "journal-title": "Journal of Economic Behavior and Organization"
+        },
+        {
+            "key": "2021032515203186200_bib21",
+            "volume-title": "Martingale Limit theory and its Application",
+            "author": "Hall",
+            "year": "1980"
+        },
+        {
+            "key": "2021032515203186200_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1080/01621459.1963.10500830",
+            "article-title": "\u201cProbability Inequalities for Sums of Bounded Random Variables,\u201d",
+            "volume": "58",
+            "author": "Hoeffding",
+            "year": "1963",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021032515203186200_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "430",
+            "DOI": "10.1016/0010-0285(72)90016-3",
+            "article-title": "\u201cSubjective Probability: A Judgment of Representativeness\u201d",
+            "volume": "3",
+            "author": "Kahneman",
+            "year": "1972",
+            "journal-title": "Cognitive Psychology"
+        },
+        {
+            "key": "2021032515203186200_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "237",
+            "DOI": "10.1037/h0034747",
+            "article-title": "\u201cOn the Psychology of Prediction\u201d",
+            "volume": "80",
+            "author": "Kahneman",
+            "year": "1973",
+            "journal-title": "Psychological Review"
+        },
+        {
+            "key": "2021032515203186200_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.2307/1911512",
+            "article-title": "\u201cThe Present-Value Relation: Tests Based on Implied Variance Bounds\u201d",
+            "volume": "49",
+            "author": "LeRoy",
+            "year": "1981",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515203186200_bib26",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cCalibration of Probabilities: The State of the Art,\u201d",
+            "author": "Lichtenstein",
+            "year": "1977",
+            "journal-title": "Decision Making and Change in Human Affairs",
+            "DOI": "10.1007/978-94-010-1276-8_19"
+        },
+        {
+            "key": "2021032515203186200_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/rfs/1.1.41",
+            "article-title": "\u201cStock Market Prices Do Not Follow Random Walks: Evidence from a Simple Specification test\u201d",
+            "volume": "1",
+            "author": "Lo",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032515203186200_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "425",
+            "DOI": "10.1016/j.econlet.2006.01.004",
+            "article-title": "\u201cInterpreting the Predictions of Prediction Markets,\u201d",
+            "volume": "91",
+            "author": "Manski",
+            "year": "2006",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2021032515203186200_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1106",
+            "DOI": "10.1177/0956797614524255",
+            "article-title": "\u201cPsychological Strategies for Winning a Geopolitical Forecasting Tournament,\u201d",
+            "volume": "25",
+            "author": "Mellers",
+            "year": "2014",
+            "journal-title": "Psychological Science"
+        },
+        {
+            "key": "2021032515203186200_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1007/BF02756487",
+            "article-title": "\u201cThe Maximal Variation of a Bounded Martingale,\u201d",
+            "volume": "27",
+            "author": "Mertens",
+            "year": "1977",
+            "journal-title": "Israel Journal of Mathematics"
+        },
+        {
+            "key": "2021032515203186200_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "3552",
+            "DOI": "10.1287/mnsc.2016.2525",
+            "article-title": "\u201cConfidence Calibration in a Multiyear Geopolitical Forecasting Competition,\u201d",
+            "volume": "63",
+            "author": "Moore",
+            "year": "2017",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2021032515203186200_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "775",
+            "DOI": "10.1162/003355302760193896",
+            "article-title": "\u201cInference by Believers in the Law of Small Numbers,\u201d",
+            "volume": "117",
+            "author": "Rabin",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515203186200_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1162/003355399555945",
+            "article-title": "\u201cFirst Impressions Matter: A Model of Confirmatory Bias,\u201d",
+            "volume": "114",
+            "author": "Rabin",
+            "year": "1999",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515203186200_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "730",
+            "DOI": "10.1111/j.1467-937X.2009.00582.x",
+            "article-title": "\u201cThe Gambler\u2019s and Hot-Hand Fallacies: Theory and Applications,\u201d",
+            "volume": "77",
+            "author": "Rabin",
+            "year": "2010",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032515203186200_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1145/584091.584093",
+            "article-title": "\u201cA Mathematical theory of Communication,\u201d",
+            "volume": "5",
+            "author": "Shannon",
+            "year": "2001",
+            "journal-title": "ACM SIGMOBILE Mobile Computing and Communications Review"
+        },
+        {
+            "key": "2021032515203186200_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1190",
+            "DOI": "10.1086/260832",
+            "article-title": "\u201cThe Volatility of Long-Term Interest Rates and Expectations Models of the Term Structure,\u201d",
+            "volume": "87",
+            "author": "Shiller",
+            "year": "1979",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515203186200_bib37",
+            "first-page": "421",
+            "article-title": "\u201cDo Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends?,\u201d",
+            "volume": "71",
+            "author": "Shiller",
+            "year": "1981",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515203186200_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1011",
+            "DOI": "10.1111/j.1540-6261.1989.tb02635.x",
+            "article-title": "\u201cOverreactions in the Options Market,\u201d",
+            "volume": "44",
+            "author": "Stein",
+            "year": "1989",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032515203186200_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1016/0010-0285(73)90033-9",
+            "article-title": "\u201cAvailability: A Heuristic for Judging Frequency and Probability,\u201d",
+            "volume": "5",
+            "author": "Tversky",
+            "year": "1973",
+            "journal-title": "Cognitive Psychology"
+        },
+        {
+            "key": "2021032515203186200_bib40",
+            "article-title": "Asymptotic Statistics, vol. 3",
+            "author": "Van der Vaart",
+            "year": "2000"
+        },
+        {
+            "key": "2021032515203186200_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/1912934",
+            "article-title": "\u201cA Heteroskedasticity-Consistent Covariance Matrix Estimator and A Direct Test for Heteroskedasticity,\u201d",
+            "volume": "48",
+            "author": "White",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515203186200_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1257/0895330041371321",
+            "article-title": "\u201cPrediction Markets,\u201d",
+            "volume": "18",
+            "author": "Wolfers",
+            "year": "2004",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2021032515203186200_bib44",
+            "doi-asserted-by": "crossref",
+            "author": "Wolfers",
+            "year": "2006",
+            "journal-title": "\u201cInterpreting Prediction Market Prices as Probabilities,\u201d",
+            "DOI": "10.3386/w12200"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjaa043/36318689/qjaa043.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/2/933/36725385/qjaa043.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/2/933/36725385/qjaa043.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                25
+            ]
+        ],
+        "date-time": "2021-03-25T16:28:32Z",
+        "timestamp": 1616689712000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                3
+            ]
+        ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    2,
+                    3
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjaa043",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                3
+            ]
+        ]
+    }
+}

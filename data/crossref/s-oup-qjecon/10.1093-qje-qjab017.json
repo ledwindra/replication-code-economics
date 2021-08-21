@@ -1,0 +1,895 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                10
+            ]
+        ],
+        "date-time": "2021-07-10T07:41:41Z",
+        "timestamp": 1625902901486
+    },
+    "reference-count": 69,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        6
+                    ]
+                ],
+                "date-time": "2021-05-06T00:00:00Z",
+                "timestamp": 1620259200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                30
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Competition in health insurance markets may fail to improve health outcomes if consumers are not able to identify high-quality plans. We develop and apply a novel instrumental variables framework to quantify the variation in causal mortality effects across plans and measure how much consumers attend to this variation. We first document large differences in the observed mortality rates of Medicare Advantage plans in local markets. We then show that when plans with high mortality rates exit these markets, enrollees tend to switch to more typical plans and subsequently experience lower mortality. We derive and validate a novel \u201cfallback condition\u201d governing the subsequent choices of those affected by plan exits. When the fallback condition is satisfied, plan terminations can be used to estimate the relationship between observed plan mortality rates and causal mortality effects. Applying the framework, we find that mortality rates unbiasedly predict causal mortality effects. We then extend our framework to study other predictors of plan mortality effects and estimate consumer willingness to pay. Higher-spending plans tend to reduce enrollee mortality, but existing quality ratings are uncorrelated with plan mortality effects. Consumers place little weight on mortality effects when choosing plans. Good insurance plans dramatically reduce mortality, and redirecting consumers to such plans could improve beneficiary health.</jats:p>",
+    "DOI": "10.1093/qje/qjab017",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                30
+            ]
+        ],
+        "date-time": "2021-04-30T12:08:07Z",
+        "timestamp": 1619784487000
+    },
+    "page": "1557-1610",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Mortality Effects and Choice Across Private Health Insurance Plans"
+    ],
+    "prefix": "10.1093",
+    "volume": "136",
+    "author": [
+        {
+            "given": "Jason",
+            "family": "Abaluck",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale University School of Management and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "Mauricio",
+            "family": "Caceres Bravo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Brown University, United States"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Hull",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Brown University and National Bureau of Economic Research, United States, E-mail: peter.hull@brown.edu"
+                }
+            ]
+        },
+        {
+            "given": "Amanda",
+            "family": "Starc",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kellogg School of Management, Northwestern University, and National Bureau of Economic Research, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                6
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021071004410959800_bib1",
+            "article-title": "\u201cReplication Data for: \u2018Mortality Effects and Choice across Private Health Insurance Plans,\u201d",
+            "author": "Abaluck",
+            "year": "2021"
+        },
+        {
+            "key": "2021071004410959800_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1180",
+            "DOI": "10.1257/aer.101.4.1180",
+            "article-title": "\u201cChoice Inconsistencies among the Elderly: Evidence from Plan Choice in the Medicare Part D Program",
+            "volume": "101",
+            "author": "Abaluck",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2145",
+            "DOI": "10.1257/aer.20130778",
+            "article-title": "\u201cEvolving Choice Inconsistencies in Choice of Prescription Drug Insurance",
+            "volume": "106",
+            "author": "Abaluck",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1111/1468-0262.00020",
+            "article-title": "\u201cHigh Wage Workers and High Wage Firms",
+            "volume": "67",
+            "author": "Abowd",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410959800_bib5",
+            "article-title": "\u201cCompetition under Social Interactions and the Design of Education Policies,\u201d",
+            "author": "Allende",
+            "year": "2019"
+        },
+        {
+            "key": "2021071004410959800_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1086/426036",
+            "article-title": "\u201cSelection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools",
+            "volume": "113",
+            "author": "Altonji",
+            "year": "2005",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410959800_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "388",
+            "DOI": "10.1257/aer.p20161080",
+            "article-title": "\u201cInterpreting Tests of School VAM Validity",
+            "volume": "106",
+            "author": "Angrist",
+            "year": "2016",
+            "journal-title": "American Economic Review: Papers & Proceedings"
+        },
+        {
+            "key": "2021071004410959800_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1093/qje/qjx001",
+            "article-title": "\u201cLeveraging Lotteries for School Value-Added: Testing and Estimation",
+            "volume": "132",
+            "author": "Angrist",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "242",
+            "DOI": "10.2307/2555829",
+            "article-title": "\u201cEstimating Discrete-Choice Models of Product Differentiation",
+            "volume": "25",
+            "author": "Berry",
+            "year": "1994",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "article-title": "\u201cAutomobile Prices in Market Equilibrium",
+            "volume": "63",
+            "author": "Berry",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410959800_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "3335",
+            "DOI": "10.1257/aer.104.10.3335",
+            "article-title": "\u201cHow Does Risk-Selection Respond to Risk-Adjustment: Evidence from the Medicare Advantage Program",
+            "volume": "104",
+            "author": "Brown",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2048",
+            "DOI": "10.1257/aer.20151362",
+            "article-title": "\u201cDo Larger Health Insurance Subsidies Benefit Patients or Producers? Evidence from Medicare Advantage",
+            "volume": "108",
+            "author": "Cabral",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "2242",
+            "DOI": "10.1257/aer.98.5.2242",
+            "article-title": "\u201cThe Impact of Nearly Universal Insurance Coverage on Health Care Utilization: Evidence from Medicare",
+            "volume": "98",
+            "author": "Card",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "S13",
+            "DOI": "10.1086/694153",
+            "article-title": "\u201cFirms and Labor Market Inequality: Evidence and Some Theory",
+            "volume": "36",
+            "author": "Card",
+            "year": "2018",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2021071004410959800_bib15",
+            "article-title": "\u201cImpeding Access or Promoting Efficiency? Effects of Rural Hospital Closure on the Cost and Quality of Care,\u201d",
+            "author": "Carroll",
+            "year": "2019"
+        },
+        {
+            "key": "2021071004410959800_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2110",
+            "DOI": "10.1257/aer.20151080",
+            "article-title": "\u201cHealthcare Exceptionalism? Performance and Allocation in the U.S. Healthcare Sector",
+            "volume": "106",
+            "author": "Chandra",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1377/hlthaff.23.2.91",
+            "article-title": "\u201cOverlap in HMO Physician Networks",
+            "volume": "23",
+            "author": "Chernew",
+            "year": "2004",
+            "journal-title": "Health Affairs"
+        },
+        {
+            "key": "2021071004410959800_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2593",
+            "DOI": "10.1257/aer.104.9.2593",
+            "article-title": "\u201cMeasuring the Impacts of Teachers I: Evaluating Bias in Teacher Value-Added Estimates",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1107",
+            "DOI": "10.1093/qje/qjy007",
+            "article-title": "\u201cThe Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "3028",
+            "DOI": "10.1257/aer.20161352",
+            "article-title": "\u201cMoved to Opportunity: The Long-Run Effects of Public Housing Demolition on Children",
+            "volume": "108",
+            "author": "Chyn",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "570",
+            "DOI": "10.1086/711951",
+            "article-title": "\u201cCan Health Insurance Competition Work? Evidence from Medicare Advantage",
+            "volume": "129",
+            "author": "Curto",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410959800_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "790",
+            "DOI": "10.1111/j.1756-2171.2008.00039.x",
+            "article-title": "\u201cDo Report Cards Tell Consumers Anything They Don\u2019t Already Know? The Case of Medicare HMOs",
+            "volume": "39",
+            "author": "Dafny",
+            "year": "2008",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "980",
+            "DOI": "10.3368/jhr.50.4.980",
+            "article-title": "\u201cThe Star Treatment: Estimating the Impact of Star Ratings on Medicare Advantage Enrollments",
+            "volume": "50",
+            "author": "Darden",
+            "year": "2015",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "key": "2021071004410959800_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1016/j.jhealeco.2017.02.007",
+            "article-title": "\u201cInsurers\u2019 Response to Selection Risk: Evidence from Medicare Enrollment Reforms",
+            "volume": "56",
+            "author": "Decarolis",
+            "year": "2017",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "2021071004410959800_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "3602",
+            "DOI": "10.1257/aer.20181026",
+            "article-title": "\u201cDoes When You Die Depend on Where You Live? Evidence from Hurricane Katrina",
+            "volume": "110",
+            "author": "Deryugina",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "170",
+            "DOI": "10.1016/j.jpubeco.2018.07.006",
+            "article-title": "\u201cWhat Happens When the Insurer Can Say No? Assessing Prior Authorization as a Tool to Prevent High-Risk Prescriptions and to Lower Costs",
+            "volume": "165",
+            "author": "Dillender",
+            "year": "2018",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2021071004410959800_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.1162/rest_a_00804",
+            "article-title": "\u201cEvaluating Measures of Hospital Quality: Evidence from Ambulance Referral Patterns",
+            "volume": "101",
+            "author": "Doyle",
+            "year": "2019",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2021071004410959800_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "170",
+            "DOI": "10.1086/677756",
+            "article-title": "\u201cMeasuring Returns to Hospital Care: Evidence from Ambulance Referral Patterns",
+            "volume": "123",
+            "author": "Doyle",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410959800_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1016/j.jpubeco.2016.07.003",
+            "article-title": "\u201cWho Benefits When Government Pays More? Pass-through in the Medicare Advantage Program",
+            "volume": "141",
+            "author": "Duggan",
+            "year": "2016",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2021071004410959800_bib31a",
+            "first-page": "153",
+            "article-title": "\u201cThe Consequences of Health Care Privatization: Evidence from Medicare Advantage Exits",
+            "volume": "10",
+            "author": "Duggan",
+            "year": "2018",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2021071004410959800_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/j.jhealeco.2016.09.005",
+            "article-title": "\u201cHow Product Standardization Affects Choice: Evidence from the Massachusetts Health Insurance Exchange",
+            "volume": "50",
+            "author": "Ericson",
+            "year": "2016",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "2021071004410959800_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1056/NEJMp1613238",
+            "article-title": "\u201cAdjusting Risk Adjustment\u2014Accounting for Variation in Diagnostic Intensity",
+            "volume": "376",
+            "author": "Finkelstein",
+            "year": "2017",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2021071004410959800_bib34",
+            "article-title": "\u201cPlace-Based Drivers of Mortality: Evidence from Migration,\u201d",
+            "author": "Finkelstein",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib35",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cEstimating the Value Added of Attending Physicians on Patient Outcomes,\u201d",
+            "author": "Fletcher",
+            "year": "2014",
+            "DOI": "10.3386/w20534"
+        },
+        {
+            "key": "2021071004410959800_bib36",
+            "first-page": "134",
+            "article-title": "\u201cDeath by Market Power: Reform, Competition, and Patient Outcomes in the National Health Service",
+            "volume": "5",
+            "author": "Gaynor",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2021071004410959800_bib37",
+            "article-title": "\u201cAre All Managed Care Plans Created Equal? Evidence from Random Plan Assignment in Medicaid,\u201d",
+            "author": "Geruso",
+            "year": "2020"
+        },
+        {
+            "key": "2021071004410959800_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1215",
+            "DOI": "10.1111/1468-0262.00444",
+            "article-title": "\u201cBayesian Inference for Hospital Quality in a Selection Model",
+            "volume": "71",
+            "author": "Geweke",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410959800_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "515",
+            "DOI": "10.2307/2297862",
+            "article-title": "\u201cDoes Unmeasured Ability Explain Inter-Industry Wage Differentials?,\u201d",
+            "volume": "59",
+            "author": "Gibbons",
+            "year": "1992",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071004410959800_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/qje/qjaa029",
+            "article-title": "\u201cHealth Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
+            "volume": "136",
+            "author": "Goldin",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib41",
+            "article-title": "\u201cGetting the Most from Marketplaces: Smart Policies on Health Insurance Choice,\u201d",
+            "author": "Handel",
+            "year": "2015"
+        },
+        {
+            "key": "2021071004410959800_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "2643",
+            "DOI": "10.1257/aer.103.7.2643",
+            "article-title": "\u201cAdverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts,\u201d",
+            "author": "Handel",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1111/1756-2171.12207",
+            "article-title": "\u201cThe Impact of Consumer Inattention on Insurer Pricing in the Medicare Part D Program",
+            "volume": "48",
+            "author": "Ho",
+            "year": "2017",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib44",
+            "article-title": "\u201cEstimating Treatment Effects in Mover Designs.\u201d",
+            "author": "Hull",
+            "year": "2018"
+        },
+        {
+            "key": "2021071004410959800_bib45",
+            "article-title": "\u201cEstimating Hospital Quality with Quasi-Experimental Data,\u201d",
+            "author": "Hull",
+            "year": "2020"
+        },
+        {
+            "key": "2021071004410959800_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.1257/000282804322970788",
+            "article-title": "\u201cPublic Housing, Housing Vouchers, and Student Achievement: Evidence from Public Housing Demolitions in Chicago",
+            "volume": "94",
+            "author": "Jacob",
+            "year": "2004",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071004410959800_bib47",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cEstimating Teacher Impacts on Student Achievement: An Experimental Evaluation,\u201d",
+            "author": "Kane",
+            "year": "2008",
+            "DOI": "10.3386/w14607"
+        },
+        {
+            "key": "2021071004410959800_bib48",
+            "article-title": "\u201cA Dozen Facts about Medicare Advantage in 2019,\u201d",
+            "author": "KFF"
+        },
+        {
+            "key": "2021071004410959800_bib49",
+            "article-title": "\u201cMedicare Advantage 2021 Spotlight: First Look,\u201d",
+            "author": "KFF"
+        },
+        {
+            "key": "2021071004410959800_bib50",
+            "first-page": "19",
+            "article-title": "\u201cThe Value of A Statistical Life,\u201d",
+            "author": "Kniesner",
+            "year": "2019",
+            "journal-title": "Oxford Research Encyclopedia of Economics and Finance"
+        },
+        {
+            "key": "2021071004410959800_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "913",
+            "DOI": "10.1093/qje/qjz037",
+            "article-title": "\u201cCombining Life and Health Insurance",
+            "volume": "135",
+            "author": "Koijen",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.2307/1911072",
+            "article-title": "\u201cEfficiency Wages and the Inter-Industry Wage Structure",
+            "volume": "56",
+            "author": "Krueger",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410959800_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.1468-0009.2011.00629.x",
+            "article-title": "\u201cAn Economic History of Medicare Part C",
+            "volume": "89",
+            "author": "McGuire",
+            "year": "2011",
+            "journal-title": "Milbank Quarterly"
+        },
+        {
+            "key": "2021071004410959800_bib53a"
+        },
+        {
+            "key": "2021071004410959800_bib54",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cOptimal Managed Competition Subsidies,\u201d",
+            "author": "Miller",
+            "year": "2019",
+            "DOI": "10.3386/w25616"
+        },
+        {
+            "key": "2021071004410959800_bib55",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/qje/qjab004",
+            "article-title": "\u201cMedicaid and Mortality: New Evidence from Linked Survey and Administrative Data,\u201d",
+            "volume": "136",
+            "author": "Miller",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1080/01621459.1983.10477920",
+            "article-title": "\u201cParametric Empirical Bayes Inference: Theory and Applications",
+            "volume": "78",
+            "author": "Morris",
+            "year": "1983",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021071004410959800_bib57",
+            "first-page": "103",
+            "article-title": "\u201cUnemployment, Risk, and Earnings: Testing for Equalizing Wage Differences in the Labor Market,\u201d",
+            "author": "Murphy",
+            "journal-title": "Unemployment and the Structure of Labor Markets"
+        },
+        {
+            "key": "2021071004410959800_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1086/508033",
+            "article-title": "\u201cThe Value of Health and Longevity",
+            "volume": "114",
+            "author": "Murphy",
+            "year": "2006",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071004410959800_bib59",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1080/07350015.2016.1227711",
+            "article-title": "\u201cUnobservable Selection and Coefficient Stability: Theory and Evidence",
+            "volume": "37",
+            "author": "Oster",
+            "year": "2019",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2021071004410959800_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA6865",
+            "article-title": "\u201cMoment Inequalities and Their Application",
+            "volume": "83",
+            "author": "Pakes",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071004410959800_bib61",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.1016/j.jhealeco.2018.07.002",
+            "article-title": "\u201cPaying More for Less? Insurer Competition and Health Plan Generosity in the Medicare Advantage Program",
+            "volume": "61",
+            "author": "Pelech",
+            "year": "2018",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "2021071004410959800_bib62",
+            "first-page": "165",
+            "article-title": "\u201cRegulation of Insurance with Adverse Selection and Switching Costs: Evidence from Medicare Part D",
+            "volume": "8",
+            "author": "Polyakova",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2021071004410959800_bib62a"
+        },
+        {
+            "key": "2021071004410959800_bib63",
+            "doi-asserted-by": "crossref",
+            "first-page": "537",
+            "DOI": "10.1162/edfp.2009.4.4.537",
+            "article-title": "\u201cStudent Sorting and Bias in Value-Added Estimation: Selection on Observables and Unobservables",
+            "volume": "4",
+            "author": "Rothstein",
+            "year": "2009",
+            "journal-title": "Education Finance and Policy"
+        },
+        {
+            "key": "2021071004410959800_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "586",
+            "DOI": "10.1056/NEJMsb1706645",
+            "article-title": "\u201cHealth Insurance Coverage and Health\u2014What the Recent Evidence Tells Us",
+            "volume": "377",
+            "author": "Sommers",
+            "year": "2017",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2021071004410959800_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "198",
+            "DOI": "10.1111/1756-2171.12048",
+            "article-title": "\u201cInsurer Pricing and Consumer Welfare: Evidence from Medigap",
+            "volume": "45",
+            "author": "Starc",
+            "year": "2015",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2021071004410959800_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "2827",
+            "DOI": "10.1093/restud/rdz052",
+            "article-title": "\u201cExternalities and Benefit Design in Health Insurance",
+            "volume": "87",
+            "author": "Starc",
+            "year": "2020",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071004410959800_bib67",
+            "first-page": "1767",
+            "article-title": "\u201cNurse Mortality-Added and Patient Outcomes in Acute Care",
+            "volume": "49",
+            "author": "Yakusheva",
+            "year": "2014",
+            "journal-title": "Health Services Research"
+        },
+        {
+            "key": "2021071004410959800_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1353/jhr.2009.0022",
+            "article-title": "\u201cHealth Insurance, Medical Care, and Health Outcomes a Model of Elderly Health Dynamics",
+            "volume": "44",
+            "author": "Yang",
+            "year": "2009",
+            "journal-title": "Journal of Human Resources"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjab017/38609409/qjab017.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/3/1557/38844996/qjab017.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/3/1557/38844996/qjab017.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                10
+            ]
+        ],
+        "date-time": "2021-07-10T07:21:15Z",
+        "timestamp": 1625901675000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                6
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    5,
+                    6
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    6,
+                    30
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjab017",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                8
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                6
+            ]
+        ]
+    }
+}

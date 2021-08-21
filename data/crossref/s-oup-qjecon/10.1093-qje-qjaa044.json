@@ -1,0 +1,916 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                8,
+                17
+            ]
+        ],
+        "date-time": "2021-08-17T19:34:36Z",
+        "timestamp": 1629228876300
+    },
+    "reference-count": 81,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        10
+                    ]
+                ],
+                "date-time": "2020-12-10T00:00:00Z",
+                "timestamp": 1607558400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Exploiting the exogenous and regional nature of the Great East Japan Earthquake of 2011, this article provides a quantification of the role of input-output linkages as a mechanism for the propagation and amplification of shocks. We document that the disruption caused by the disaster propagated upstream and downstream along supply chains, affecting the direct and indirect suppliers and customers of disaster-stricken firms. Using a general equilibrium model of production networks, we then obtain an estimate for the overall macroeconomic impact of the disaster by taking these propagation effects into account. We find that the earthquake and its aftermaths resulted in a 0.47 percentage point decline in Japan\u2019s real GDP growth in the year following the disaster.</jats:p>",
+    "DOI": "10.1093/qje/qjaa044",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                5
+            ]
+        ],
+        "date-time": "2020-12-05T07:21:27Z",
+        "timestamp": 1607152887000
+    },
+    "page": "1255-1321",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+        "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake*"
+    ],
+    "prefix": "10.1093",
+    "volume": "136",
+    "author": [
+        {
+            "given": "Vasco M",
+            "family": "Carvalho",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Cambridge, Alan Turing Institute, and Centre for Economic Policy Research"
+                }
+            ]
+        },
+        {
+            "given": "Makoto",
+            "family": "Nirei",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Tokyo"
+                }
+            ]
+        },
+        {
+            "given": "Yukiko U",
+            "family": "Saito",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Waseda University and Research Institute of Economy, Trade, and Industry"
+                }
+            ]
+        },
+        {
+            "given": "Alireza",
+            "family": "Tahbaz-Salehi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Northwestern University and Centre for Economic Policy Research"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021032515370824500_bib1",
+            "first-page": "276",
+            "article-title": "Networks and the Macroeconomy: An Empirical Exploration",
+            "volume-title": "National Bureau of Economic Research Macroeconomics Annual",
+            "author": "Acemoglu",
+            "year": "2016"
+        },
+        {
+            "key": "2021032515370824500_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.3982/ECTA15899",
+            "article-title": "Endogenous Production Networks",
+            "volume": "88",
+            "author": "Acemoglu",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1977",
+            "DOI": "10.3982/ECTA9623",
+            "article-title": "The Network Origins of Aggregate Fluctuations",
+            "volume": "80",
+            "author": "Acemoglu",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "54",
+            "DOI": "10.1257/aer.20151086",
+            "article-title": "Microeconomic Origins of Macroeconomic Tail Risks",
+            "volume": "107",
+            "author": "Acemoglu",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370824500_bib5",
+            "article-title": "Firms, Failures, and Fluctuations: The Macroeconomics of Supply Chain Disruptions",
+            "author": "Acemoglu",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515370824500_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.1257/aer.20140389",
+            "article-title": "How Do Electricity Shortages Affect Industry? Evidence from India",
+            "volume": "106",
+            "author": "Allcott",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370824500_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "525",
+            "DOI": "10.1086/696272",
+            "article-title": "How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data",
+            "volume": "126",
+            "author": "Amiti",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370824500_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2514",
+            "DOI": "10.1257/aer.20141685",
+            "article-title": "The Margins of Global Sourcing: Theory and Evidence from U.S. Firms",
+            "volume": "107",
+            "author": "Antr\u00e0s",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370824500_bib9",
+            "first-page": "254",
+            "article-title": "How Important Are Sectoral Shocks?",
+            "volume": "9",
+            "author": "Atalay",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021032515370824500_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "5199",
+            "DOI": "10.1073/pnas.1015564108",
+            "article-title": "Network Structure of Production",
+            "volume": "108",
+            "author": "Atalay",
+            "year": "2011",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2021032515370824500_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1155",
+            "DOI": "10.3982/ECTA15202",
+            "article-title": "The Macroeconomic Impact of Microeconomic Shocks: Beyond Hulten\u2019s Theorem",
+            "volume": "87",
+            "author": "Baqaee",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1093/qje/qjz030",
+            "article-title": "Productivity and Misallocation in General Equilibrium",
+            "volume": "135",
+            "author": "Baqaee",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370824500_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1543",
+            "DOI": "10.1093/qje/qjw018",
+            "article-title": "Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks",
+            "volume": "131",
+            "author": "Barrot",
+            "year": "2016",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370824500_bib14",
+            "article-title": "The Origins of Firm Heterogeneity: A Production Network Approach",
+            "author": "Bernard",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515370824500_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1086/700764",
+            "article-title": "Production Networks, Geography, and Firm Performance",
+            "volume": "127",
+            "author": "Bernard",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370824500_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2187",
+            "DOI": "10.1093/qje/qjaa018",
+            "article-title": "Distortions in Production Networks",
+            "volume": "135",
+            "author": "Bigio",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370824500_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1162/rest_a_00750",
+            "article-title": "Input Linkages and the Transmission of Shocks: Firm-Level Evidence from the 2011 T\u014dhoku Earthquake",
+            "volume": "101",
+            "author": "Boehm",
+            "year": "2019",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2021032515370824500_bib18",
+            "article-title": "Regional Economy 2011\u2014Reconstruction from the Earthquake and Regional Regeneration",
+            "author": "Cabinet Office",
+            "year": "2011"
+        },
+        {
+            "key": "2021032515370824500_bib19",
+            "article-title": "Estimation of the Damage Due to the Tokai Earthquake",
+            "author": "Cabinet Office, Director General for Disaster Management"
+        },
+        {
+            "key": "2021032515370824500_bib20",
+            "article-title": "Estimation of the Total Damage Due to the Great East Japan Earthquake",
+            "author": "Cabinet Office, Director General for Disaster Management"
+        },
+        {
+            "key": "2021032515370824500_bib21",
+            "article-title": "Specialized Study Group on Earthquake and Tsunami Countermeasures based on the Lessons from the Tohoku-Pacific Ocean Earthquake",
+            "author": "Cabinet Office, Director General for Disaster Management",
+            "year": "2011"
+        },
+        {
+            "key": "2021032515370824500_bib22",
+            "article-title": "Tokai Earthquake Countermeasures",
+            "author": "Cabinet Office, Director General for Disaster Management"
+        },
+        {
+            "key": "2021032515370824500_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2042",
+            "DOI": "10.1093/restud/rdx082",
+            "article-title": "The Impact of Regional and Sectoral Productivity Changes on the U.S. Economy",
+            "volume": "85",
+            "author": "Caliendo",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021032515370824500_bib24",
+            "article-title": "Aggregate Fluctuations and the Network Structure of Intersectoral Trade",
+            "author": "Carvalho",
+            "year": "2010"
+        },
+        {
+            "key": "2021032515370824500_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1257/jep.28.4.23",
+            "article-title": "From Micro to Macro via Production Networks",
+            "volume": "28",
+            "author": "Carvalho",
+            "year": "2014",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2021032515370824500_bib26",
+            "article-title": "Network Bottlenecks and Market Power",
+            "author": "Carvalho",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515370824500_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1697",
+            "DOI": "10.1257/aer.103.5.1697",
+            "article-title": "The Great Diversification and its Undoing",
+            "volume": "103",
+            "author": "Carvalho",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370824500_bib28",
+            "article-title": "Supply Chain Disruptions: Evidence from the Great East Japan Earthquake",
+            "author": "Carvalho",
+            "year": "2017"
+        },
+        {
+            "key": "2021032515370824500_bib29",
+            "article-title": "Replication Data for: \u2018Supply Chain Disruptions: Evidence from the Great East Japan Earthquake\u2019",
+            "author": "Carvalho",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515370824500_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "635",
+            "DOI": "10.1146/annurev-economics-080218-030212",
+            "article-title": "Production Networks: A Primer",
+            "volume": "11",
+            "author": "Carvalho",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2021032515370824500_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1111/roiw.12141",
+            "article-title": "Prices and Supply Disruptions during Natural Disasters",
+            "volume": "60",
+            "author": "Cavallo",
+            "year": "2014",
+            "journal-title": "Review of Income and Wealth"
+        },
+        {
+            "key": "2021032515370824500_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "3600",
+            "DOI": "10.1257/aer.104.11.3600",
+            "article-title": "The Network Structure of International Trade",
+            "volume": "104",
+            "author": "Chaney",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032515370824500_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1137/070710111",
+            "article-title": "Power-Law Distributions in Empirical Data",
+            "volume": "51",
+            "author": "Clauset",
+            "year": "2009",
+            "journal-title": "SIAM Review"
+        },
+        {
+            "key": "2021032515370824500_bib34",
+            "first-page": "107",
+            "article-title": "Volatility and Dispersion in Business Growth Rates: Publicly Traded versus Privately Held Firms",
+            "volume-title": "NBER Macroeconomics Annual 2006",
+            "author": "Davis",
+            "year": "2007"
+        },
+        {
+            "key": "2021032515370824500_bib35",
+            "article-title": "Trade and Domestic Production Networks",
+            "author": "Dhyne",
+            "year": "",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021032515370824500_bib36",
+            "article-title": "The Belgian Production Network 2002\u20132012",
+            "author": "Dhyne",
+            "year": "2015"
+        },
+        {
+            "key": "2021032515370824500_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.3982/ECTA11041",
+            "article-title": "Firms, Destinations, and Aggregate Fluctuations",
+            "volume": "82",
+            "author": "di Giovanni",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.2307/2298061",
+            "article-title": "Nonergodic Economic Growth",
+            "volume": "60",
+            "author": "Durlauf",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021032515370824500_bib39",
+            "article-title": "Firm-to-Firm Trade: Imports, Exports, and the Labor Market",
+            "author": "Eaton",
+            "year": "2018"
+        },
+        {
+            "key": "2021032515370824500_bib40",
+            "doi-asserted-by": "crossref",
+            "article-title": "Supply Network Formation and Fragility",
+            "author": "Elliott",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3525459"
+        },
+        {
+            "key": "2021032515370824500_bib41",
+            "article-title": "Customs Risk Management and Security of the Supply Chain",
+            "author": "European Commission"
+        },
+        {
+            "key": "2021032515370824500_bib42",
+            "article-title": "Report \u266f159 for the 2011 Tohoku Region Pacific Ocean Earthquake",
+            "author": "Fire and Disaster Management Agency",
+            "year": "2019"
+        },
+        {
+            "key": "2021032515370824500_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/659311",
+            "article-title": "Sectoral versus Aggregate Shocks: A Structural Factor Analysis of Industrial Production",
+            "volume": "119",
+            "author": "Foerster",
+            "year": "2011",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370824500_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "733",
+            "DOI": "10.3982/ECTA8769",
+            "article-title": "The Granular Origins of Aggregate Fluctuations",
+            "volume": "79",
+            "author": "Gabaix",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib45",
+            "article-title": "IO in I-O: Size, Industrial Organization, and the Input-Output Network Make a Firm Structurally Important",
+            "author": "Grassi",
+            "year": "2017"
+        },
+        {
+            "key": "2021032515370824500_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1111/jere.12088",
+            "article-title": "An Empirical Study of Interaction-Based Aggregate Investment Fluctuations",
+            "volume": "68",
+            "author": "Guiso",
+            "year": "2017",
+            "journal-title": "Japanese Economic Review"
+        },
+        {
+            "key": "2021032515370824500_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "206",
+            "DOI": "10.1006/redy.2001.0149",
+            "article-title": "The 1990s in Japan: A Lost Decade",
+            "volume": "5",
+            "author": "Hayashi",
+            "year": "2002",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2021032515370824500_bib48",
+            "article-title": "Long-Term Evaluation of Seismic Activity in Nankai Trough (Second Version)",
+            "author": "Headquarters for Earthquake Research Promotion"
+        },
+        {
+            "key": "2021032515370824500_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1016/S0304-3932(99)00044-6",
+            "article-title": "Sectoral Shocks and Aggregate Fluctuations",
+            "volume": "45",
+            "author": "Horvath",
+            "year": "2000",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021032515370824500_bib50",
+            "article-title": "Estimation Method of Stock Damage Amount Caused by the Great East Japan Earthquake",
+            "author": "Iwaki"
+        },
+        {
+            "key": "2021032515370824500_bib51",
+            "article-title": "Operating and Financial Data",
+            "author": "Japan Electric Power Information Center"
+        },
+        {
+            "key": "2021032515370824500_bib52",
+            "first-page": "39",
+            "article-title": "Trade in Intermediate Inputs and Business Cycle Comovement",
+            "volume": "6",
+            "author": "Johnson",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021032515370824500_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "419",
+            "DOI": "10.1017/CBO9781139060028.011",
+            "article-title": "Misallocation, Economic Growth, and Input-Output Economics",
+            "volume-title": "Proceedings of Econometric Society World Congress",
+            "author": "Jones",
+            "year": "2013"
+        },
+        {
+            "key": "2021032515370824500_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.2307/1885069",
+            "article-title": "Micro Shocks and Aggregate Risk",
+            "volume": "102",
+            "author": "Jovanovic",
+            "year": "1987",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370824500_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1883",
+            "DOI": "10.1093/qje/qjz024",
+            "article-title": "Industrial Policies in Production Networks",
+            "volume": "134",
+            "author": "Liu",
+            "year": "2019",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032515370824500_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1086/261128",
+            "article-title": "Real Business Cycles",
+            "volume": "91",
+            "author": "Long",
+            "year": "1983",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032515370824500_bib57",
+            "article-title": "Heterogeneous Firms and the Micro Origins of Aggregate Fluctuations",
+            "author": "Magerman",
+            "year": "2016"
+        },
+        {
+            "key": "2021032515370824500_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1016/0024-3795(94)00077-Q",
+            "article-title": "Inverse M-Matrix Inequalities and Generalized Ultrametric Matrices",
+            "volume": "220",
+            "author": "McDonald",
+            "year": "1995",
+            "journal-title": "Linear Algebra and Its Applications"
+        },
+        {
+            "key": "2021032515370824500_bib59",
+            "article-title": "Measures on Electricity Demand and Supply During the Summer",
+            "author": "Ministry of Economy, Trade and Industry",
+            "year": "2011"
+        },
+        {
+            "key": "2021032515370824500_bib60",
+            "article-title": "Overview of Japan\u2019s Economic Structure in 2012",
+            "author": "Ministry of Economy, Trade and Industry",
+            "year": "2012"
+        },
+        {
+            "key": "2021032515370824500_bib61",
+            "article-title": "Indices of Industrial Production",
+            "author": "Ministry of Economy, Trade and Industry",
+            "year": "2016"
+        },
+        {
+            "key": "2021032515370824500_bib62",
+            "article-title": "Annual Report on Prefectural Accounts",
+            "author": "National Accounts of Japan",
+            "year": "2014"
+        },
+        {
+            "key": "2021032515370824500_bib63",
+            "article-title": "Great East Japan Earthquake Damage Information Map",
+            "author": "National Research Institute for Earth Science and Disaster Resilience",
+            "year": "2011"
+        },
+        {
+            "key": "2021032515370824500_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1016/j.jet.2004.08.006",
+            "article-title": "Threshold Behavior and Aggregate Fluctuation",
+            "volume": "127",
+            "author": "Nirei",
+            "year": "2006",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032515370824500_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "953",
+            "DOI": "10.3982/TE1611",
+            "article-title": "An Interaction-Based Foundation of Aggregate Investment Fluctuations",
+            "volume": "10",
+            "author": "Nirei",
+            "year": "2015",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2021032515370824500_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/j.jdeveco.2008.02.005",
+            "article-title": "The Macroeconomic Consequences of Disasters",
+            "volume": "88",
+            "author": "Noy",
+            "year": "2009",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "key": "2021032515370824500_bib67",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.3982/ECTA10731",
+            "article-title": "A Theory of Input\u2013Output Architecture",
+            "volume": "86",
+            "author": "Oberfield",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib68",
+            "article-title": "Micro Data and Macro Technology",
+            "author": "Oberfield",
+            "year": "",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032515370824500_bib69",
+            "article-title": "COVID-19 and Global Value Chains: Policy Options to Build More Resilient Production Networks",
+            "author": "OECD",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515370824500_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1007/s11403-010-0066-6",
+            "article-title": "Network Motifs in an Inter-Firm Network",
+            "volume": "5",
+            "author": "Ohnishi",
+            "year": "2010",
+            "journal-title": "Journal of Economic Interaction and Coordination"
+        },
+        {
+            "key": "2021032515370824500_bib71",
+            "article-title": "The Aggregate Importance of Intermediate Input Substitutability.\u201d",
+            "author": "Peter",
+            "year": "2020"
+        },
+        {
+            "key": "2021032515370824500_bib72",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Wrath of God: Macroeconomic Costs of Natural Disasters",
+            "author": "Raddatz",
+            "year": "2009",
+            "DOI": "10.1596/1813-9450-5039"
+        },
+        {
+            "key": "2021032515370824500_bib73",
+            "article-title": "Supply Chain Disruptions Force More Delays in Japan",
+            "author": "Reuters",
+            "year": "2011"
+        },
+        {
+            "key": "2021032515370824500_bib74",
+            "article-title": "The International Elasticity Puzzle",
+            "author": "Ruhl",
+            "year": "2008"
+        },
+        {
+            "key": "2021032515370824500_bib75",
+            "article-title": "Role of Hub Firms in Geographical Transaction Network",
+            "author": "Saito",
+            "year": "2013"
+        },
+        {
+            "key": "2021032515370824500_bib76",
+            "article-title": "Evaluating the Economic Response to Japan\u2019s Earthquake",
+            "author": "Schnell",
+            "year": "2012"
+        },
+        {
+            "key": "2021032515370824500_bib77",
+            "doi-asserted-by": "crossref",
+            "author": "Stewart",
+            "year": "1998",
+            "journal-title": "Matrix Algorithms: Basic Decompositions",
+            "DOI": "10.1137/1.9781611971408"
+        },
+        {
+            "key": "2021032515370824500_bib78",
+            "doi-asserted-by": "crossref",
+            "first-page": "130",
+            "DOI": "10.1016/j.jdeveco.2010.12.002",
+            "article-title": "The Economic Growth Impact of Natural Disasters in Developing Countries: Evidence from Hurricane Strikes in the Central American and Caribbean Regions",
+            "volume": "97",
+            "author": "Strobl",
+            "year": "2012",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "key": "2021032515370824500_bib80",
+            "article-title": "International Energy Data and Analysis: Japan",
+            "author": "U.S. Energy Information Administration",
+            "year": "2015"
+        },
+        {
+            "key": "2021032515370824500_bib79",
+            "article-title": "National Strategy for Global Supply Chain Security",
+            "author": "White House",
+            "year": "2012"
+        },
+        {
+            "key": "2021032515370824500_bib81",
+            "article-title": "New Models for Addressing Supply Chain and Transport Risk",
+            "author": "World Economic Forum",
+            "year": "2012"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjaa044/36327058/qjaa044.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/2/1255/36725306/qjaa044.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/qje/article-pdf/136/2/1255/36725306/qjaa044.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                25
+            ]
+        ],
+        "date-time": "2021-03-25T15:33:24Z",
+        "timestamp": 1616686404000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                10
+            ]
+        ]
+    },
+    "references-count": 81,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    12,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjaa044",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                12,
+                10
+            ]
+        ]
+    }
+}
