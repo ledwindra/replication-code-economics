@@ -1,0 +1,182 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                10
+            ]
+        ],
+        "date-time": "2021-09-10T10:42:06Z",
+        "timestamp": 1631270526531
+    },
+    "reference-count": 65,
+    "publisher": "American Economic Association",
+    "issue": "3",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> The recent digitization of complete count census data is an extraordinary opportunity for social scientists to create large longitudinal datasets by linking individuals from one census to another or from other sources to the census. We evaluate different automated methods for record linkage, performing a series of comparisons across methods and against hand linking. We have three main findings that lead us to conclude that automated methods perform well. First, a number of automated methods generate very low (less than 5 percent) false positive rates. The automated methods trace out a frontier illustrating the trade-off between the false positive rate and the (true) match rate. Relative to more conservative automated algorithms, humans tend to link more observations but at a cost of higher rates of false positives. Second, when human linkers and algorithms use the same linking variables, there is relatively little disagreement between them. Third, across a number of plausible analyses, coefficient estimates and parameters of interest are very similar when using linked samples based on each of the different automated methods. We provide code and Stata commands to implement the various automated methods. (JEL C81, C83, N01, N31, N32) </jats:p>",
+    "DOI": "10.1257/jel.20201599",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                9
+            ]
+        ],
+        "date-time": "2021-09-09T14:15:46Z",
+        "timestamp": 1631196946000
+    },
+    "page": "865-918",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Automated Linking of Historical Data"
+    ],
+    "prefix": "10.1257",
+    "volume": "59",
+    "author": [
+        {
+            "given": "Ran",
+            "family": "Abramitzky",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Leah",
+            "family": "Boustan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Katherine",
+            "family": "Eriksson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UC Davis and NBER"
+                }
+            ]
+        },
+        {
+            "given": "James",
+            "family": "Feigenbaum",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Boston University and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Santiago",
+            "family": "P\u00e9rez",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UC Davis and NBER."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20201599",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                9
+            ]
+        ],
+        "date-time": "2021-09-09T14:19:53Z",
+        "timestamp": 1631197193000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                1
+            ]
+        ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+        "issue": "3",
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    9,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20201599"
+    ],
+    "URL": "http://dx.doi.org/10.1257/jel.20201599",
+    "relation": {},
+    "ISSN": [
+        "0022-0515"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                1
+            ]
+        ]
+    }
+}
