@@ -1,0 +1,149 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2021-09-16T07:43:47Z",
+        "timestamp": 1631778227830
+    },
+    "reference-count": 39,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Heteroskedasticity\u2010 and autocorrelation\u2010robust (HAR) inference in time series regression typically involves kernel estimation of the long\u2010run variance. Conventional wisdom holds that, for a given kernel, the choice of truncation parameter trades off a test's null rejection rate and power, and that this tradeoff differs across kernels. We formalize this intuition: using higher\u2010order expansions, we provide a unified size\u2010power frontier for both kernel and weighted orthonormal series tests using nonstandard \u201cfixed\u2010\n            <jats:italic>b</jats:italic>\u201d critical values. We also provide a frontier for the subset of these tests for which the fixed\u2010\n            <jats:italic>b</jats:italic> distribution is \n            <jats:italic>t</jats:italic> or \n            <jats:italic>F</jats:italic>. These frontiers are respectively achieved by the QS kernel and equal\u2010weighted periodogram. The frontiers have simple closed\u2010form expressions, which show that the price paid for restricting attention to tests with \n            <jats:italic>t</jats:italic> and \n            <jats:italic>F</jats:italic> critical values is small. The frontiers are derived for the Gaussian multivariate location model, but simulations suggest the qualitative findings extend to stochastic regressors.\n          </jats:p>",
+    "DOI": "10.3982/ecta15404",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2021-09-16T06:55:56Z",
+        "timestamp": 1631775356000
+    },
+    "page": "2497-2516",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Size\u2010Power Tradeoff in HAR Inference"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Eben",
+            "family": "Lazarus",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Sloan School of Management, Massachusetts Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Daniel J.",
+            "family": "Lewis",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Federal Reserve Bank of New York"
+                }
+            ]
+        },
+        {
+            "given": "James H.",
+            "family": "Stock",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Harvard University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2021-09-16T07:05:09Z",
+        "timestamp": 1631775909000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA15404"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta15404",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    }
+}
