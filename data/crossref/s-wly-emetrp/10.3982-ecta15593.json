@@ -1,0 +1,158 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                9
+            ]
+        ],
+        "date-time": "2021-11-09T13:44:48Z",
+        "timestamp": 1636465488320
+    },
+    "reference-count": 50,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "funder": [
+        {
+            "DOI": "10.13039/100017045",
+            "name": "Research Computing Center, University of Chicago",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100004316",
+            "name": "International Business Machines Corporation",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100007618",
+            "name": "Booth School of Business, University of Chicago",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100004318",
+            "name": "Microsoft",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We conduct inference on volatility with noisy high\u2010frequency data. We assume the observed transaction price follows a continuous\u2010time It\u00f4\u2010semimartingale, contaminated by a discrete\u2010time moving\u2010average noise process associated with the arrival of trades. We estimate volatility, defined as the quadratic variation of the semimartingale, by maximizing the likelihood of a misspecified moving\u2010average model, with its order selected based on an information criterion. Our inference is uniformly valid over a large class of noise processes whose magnitude and dependence structure vary with sample size. We show that the convergence rate of our estimator dominates \n            <jats:italic>n</jats:italic>\n            <jats:sup>1/4</jats:sup> as noise vanishes, and is determined by the selected order of noise dependence when noise is sufficiently small. Our implementation guarantees positive estimates in finite samples.\n          </jats:p>",
+    "DOI": "10.3982/ecta15593",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2021-11-08T08:34:12Z",
+        "timestamp": 1636360452000
+    },
+    "page": "2787-2825",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "When Moving\u2010Average Models Meet High\u2010Frequency Data: Uniform Inference on Volatility"
+    ],
+    "prefix": "10.3982",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Rui",
+            "family": "Da",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Dacheng",
+            "family": "Xiu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2021-11-08T08:36:44Z",
+        "timestamp": 1636360604000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA15593"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta15593",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    }
+}
