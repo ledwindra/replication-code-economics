@@ -1,0 +1,845 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                21
+            ]
+        ],
+        "date-time": "2021-07-21T13:45:55Z",
+        "timestamp": 1626875155845
+    },
+    "reference-count": 64,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        17
+                    ]
+                ],
+                "date-time": "2020-08-17T00:00:00Z",
+                "timestamp": 1597622400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                22
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In this article, we provide mechanisms for exchange economies with private information and interdependent values, which are ex post individually rational, incentive compatible, generate budget surplus, and are ex post nearly efficient, with many agents. Our framework is entirely prior-free, and we make no symmetry restrictions. The mechanisms can be implemented using a novel discriminatory conditional double auction, without knowledge of information structure or utility functions. We also show that no other mechanism satisfying the constraints can generate inefficiency of smaller order.</jats:p>",
+    "DOI": "10.1093/restud/rdaa049",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                6
+            ]
+        ],
+        "date-time": "2020-08-06T16:43:34Z",
+        "timestamp": 1596732214000
+    },
+    "page": "521-573",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Robust Mechanism Design of Exchange"
+    ],
+    "prefix": "10.1093",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Pasha",
+            "family": "Andreyanov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Faculty of Economic Sciences, HSE University, Moscow, Russia"
+                }
+            ]
+        },
+        {
+            "given": "Tomasz",
+            "family": "Sadzik",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UCLA, Los Angeles, CA, USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021032311474448800_B1",
+            "article-title": "A Generalized Vickrey Auction",
+            "author": "AUSUBEL,",
+            "year": "1999"
+        },
+        {
+            "key": "2021032311474448800_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1452",
+            "DOI": "10.1257/0002828043052330",
+            "article-title": "An Efficient Ascending-bid Auction for Multiple Objects",
+            "volume": "94",
+            "author": "AUSUBEL,",
+            "year": "2004",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2021032311474448800_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1366",
+            "DOI": "10.1093/restud/rdu023",
+            "article-title": "Demand Reduction and Inefficiency in Multi-unit Auctions",
+            "volume": "81",
+            "author": "AUSUBEL,",
+            "year": "2014",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1059",
+            "DOI": "10.2202/1534-5963.1059",
+            "article-title": "Market Research and Market Design",
+            "volume": "3",
+            "author": "BALIGA,",
+            "year": "2003",
+            "journal-title": "Advances in theoretical Economics"
+        },
+        {
+            "key": "2021032311474448800_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1771",
+            "DOI": "10.1111/j.1468-0262.2005.00638.x",
+            "article-title": "Robust Mechanism Design",
+            "volume": "73",
+            "author": "BERGEMANN,",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1175",
+            "DOI": "10.1111/j.1467-937X.2009.00553.x",
+            "article-title": "Robust Implementation in Direct Mechanisms",
+            "volume": "76",
+            "author": "BERGEMANN,",
+            "year": "2009",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1007",
+            "DOI": "10.1111/1468-0262.00317",
+            "article-title": "Information Acquisition and Efficient Mechanism Design",
+            "volume": "70",
+            "author": "BERGEMANN,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B8",
+            "first-page": "5",
+            "article-title": "HFT and Market Quality",
+            "volume": "128",
+            "author": "BIAIS,",
+            "year": "2014",
+            "journal-title": "Bankers, Markets & Investors"
+        },
+        {
+            "key": "2021032311474448800_B9",
+            "first-page": "369",
+            "article-title": "Ex Post Implementation in Environments with Private Goods",
+            "volume": "1",
+            "author": "BIKHCHANDANI,",
+            "year": "2006",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2021032311474448800_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1109",
+            "DOI": "10.1111/j.1468-0262.2006.00695.x",
+            "article-title": "Weak Monotonicity Characterizes Deterministic Dominant-strategy Implementation",
+            "volume": "74",
+            "author": "BIKHCHANDANI,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1184",
+            "DOI": "10.1287/mnsc.1090.1015",
+            "article-title": "Truthful Bundle/Multiunit Double Auctions",
+            "volume": "55",
+            "author": "CHU,",
+            "year": "2009",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2021032311474448800_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "102",
+            "DOI": "10.1287/opre.1070.0458",
+            "article-title": "Truthful Double Auction Mechanisms",
+            "volume": "56",
+            "author": "CHU,",
+            "year": "2008",
+            "journal-title": "Operations research"
+        },
+        {
+            "key": "2021032311474448800_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1111/j.1467-937X.2007.00427.x",
+            "article-title": "Foundations of Dominant-strategy Mechanisms",
+            "volume": "74",
+            "author": "CHUNG,",
+            "year": "2007",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1016/S0165-4896(98)00038-9",
+            "article-title": "Asymptotically Strategy-proof Walrasian Exchange",
+            "volume": "36",
+            "author": "C\u00d3RDOBA,",
+            "year": "1998",
+            "journal-title": "Mathematical Social Sciences"
+        },
+        {
+            "key": "2021032311474448800_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.2307/1911240",
+            "article-title": "Optimal Selling Strategies under Uncertainty for a Discriminating Monopolist when Demands are Interdependent",
+            "volume": "53",
+            "author": "CREMER,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1247",
+            "DOI": "10.2307/1913096",
+            "article-title": "Full Extraction of the Surplus in Bayesian and Dominant Strategy Auctions",
+            "volume": "56",
+            "author": "CREMER,",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1111/j.1468-0262.2006.00649.x",
+            "volume": "74",
+            "author": "CRIPPS,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1162/003355300554755",
+            "article-title": "Efficient Auctions",
+            "volume": "115",
+            "author": "DASGUPTA,",
+            "year": "2000",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021032311474448800_B19",
+            "first-page": "1606",
+            "article-title": "What is the Optimal Trading Frequency in Financial Markets",
+            "volume": "84",
+            "author": "DU,",
+            "year": "2017",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B20",
+            "article-title": "Multi-good Efficient Auctions with Multidimensional Information",
+            "author": "ESO,",
+            "year": "2002"
+        },
+        {
+            "key": "2021032311474448800_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "550",
+            "DOI": "10.1016/j.jet.2005.07.014",
+            "article-title": "Existence of Equilibrium in Large Double Auctions",
+            "volume": "133",
+            "author": "FUDENBERG,",
+            "year": "2007",
+            "journal-title": "Journal of Economic theory"
+        },
+        {
+            "key": "2021032311474448800_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "304",
+            "DOI": "10.1016/0022-0531(89)90128-2",
+            "article-title": "The Rate at which a Simple Market Converges to Efficiency as the Number of Traders Increases: An Asymptotic Result for Optimal Trading Mechanisms",
+            "volume": "48",
+            "author": "GRESIK,",
+            "year": "1989",
+            "journal-title": "Journal of Economic theory"
+        },
+        {
+            "key": "2021032311474448800_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1273",
+            "DOI": "10.2307/2951522",
+            "article-title": "Asymptotic Efficiency in Large Exchange Economies with Asymmetric Information",
+            "volume": "60",
+            "author": "GUL,",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.1016/0022-0531(80)90056-3",
+            "article-title": "On the Aggregation of Information in Competitive Markets",
+            "volume": "22",
+            "author": "HELLWIG,",
+            "year": "1980",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "596",
+            "DOI": "10.1111/1467-8640.t01-1-00206",
+            "article-title": "Design of a Multi-unit Double Auction e-Market",
+            "volume": "18",
+            "author": "HUANG,",
+            "year": "2002",
+            "journal-title": "Computational Intelligence"
+        },
+        {
+            "key": "2021032311474448800_B26",
+            "doi-asserted-by": "crossref",
+            "article-title": "Multi-unit Open Ascending Price Efficient Auction",
+            "author": "IZMALKOV,",
+            "year": "2004",
+            "DOI": "10.2139/ssrn.556242"
+        },
+        {
+            "key": "2021032311474448800_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1016/0165-1765(92)90008-M",
+            "article-title": "Incentive Compatibility and Competitive Allocations",
+            "volume": "40",
+            "author": "JACKSON,",
+            "year": "1992",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2021032311474448800_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1006/jeth.1997.2327",
+            "article-title": "Approximately Competitive Equilibria in Large Finite Economies",
+            "volume": "77",
+            "author": "JACKSON,",
+            "year": "1997",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "DOI": "10.1007/s00199-007-0300-1",
+            "article-title": "Ex-post Implementation and Preference Aggregation via Potentials",
+            "volume": "37",
+            "author": "JEHIEL,",
+            "year": "2008",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "585",
+            "DOI": "10.1111/j.1468-0262.2006.00675.x",
+            "article-title": "\u2018The Limits of Ex Post Implementation",
+            "volume": "74",
+            "author": "JEHIEL,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B31",
+            "doi-asserted-by": "crossref",
+            "article-title": "What Do We Know about High-frequency Trading?",
+            "author": "JONES,",
+            "year": "2013",
+            "DOI": "10.2139/ssrn.2236201"
+        },
+        {
+            "key": "2021032311474448800_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.2307/1913707",
+            "article-title": "Supply Function Equilibria in Oligopoly under Uncertainty",
+            "volume": "57",
+            "author": "KLEMPERER,",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B33",
+            "article-title": "Double Auction with Interdependent Values: Incentives and Efficiency",
+            "author": "KOJIMA,",
+            "year": "2016"
+        },
+        {
+            "key": "2021032311474448800_B34",
+            "volume-title": "The Implicit Function Theorem: History, Theory, and Applications",
+            "author": "KRANTZ,",
+            "year": "2012"
+        },
+        {
+            "key": "2021032311474448800_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.2307/2297551",
+            "article-title": "Informed Speculation with Imperfect Competition",
+            "volume": "56",
+            "author": "KYLE,",
+            "year": "1989",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B36",
+            "volume-title": "Flash Boys",
+            "author": "LEWIS,",
+            "year": "2014"
+        },
+        {
+            "key": "2021032311474448800_B37",
+            "article-title": "Optimal Clock Auctions",
+            "author": "LOERTSCHER,",
+            "year": "2017"
+        },
+        {
+            "key": "2021032311474448800_B38",
+            "article-title": "Dominant Strategy, Double Clock Auctions with Estimation-based Tatonnement",
+            "author": "LOERTSCHER,",
+            "year": "2016"
+        },
+        {
+            "key": "2021032311474448800_B39",
+            "doi-asserted-by": "crossref",
+            "article-title": "Market Power and Welfare in Asymmetric Divisible Good Auctions",
+            "author": "MANZANO,",
+            "year": "2016",
+            "DOI": "10.2139/ssrn.2969741"
+        },
+        {
+            "key": "2021032311474448800_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "613",
+            "DOI": "10.2307/2298127",
+            "article-title": "Implementation in Economies with a Continuum of Agents",
+            "volume": "60",
+            "author": "MAS-COLELL,",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "434",
+            "DOI": "10.1016/0022-0531(92)90091-U",
+            "article-title": "A Dominant Strategy Double Auction",
+            "volume": "56",
+            "author": "MCAFEE,",
+            "year": "1992",
+            "journal-title": "Journal of economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "2421",
+            "DOI": "10.1111/1468-0262.00380",
+            "article-title": "Informational Size and Incentive Compatibility",
+            "volume": "70",
+            "author": "MCLEAN,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "923",
+            "DOI": "10.3982/TE1440",
+            "article-title": "Implementation with Interdependent Valuations",
+            "volume": "10",
+            "author": "MCLEAN,",
+            "year": "2015",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2021032311474448800_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1016/0022-0531(83)90048-0",
+            "article-title": "Efficient Mechanisms for Bilateral Trading",
+            "volume": "29",
+            "author": "MYERSON,",
+            "year": "1983",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "1",
+            "key": "2021032311474448800_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1016/j.jet.2003.09.001",
+            "article-title": "The Relevance of Private Information in Mechanism Design",
+            "volume": "117",
+            "author": "NEEMAN,",
+            "year": "2004",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1016/0022-0531(86)90019-0",
+            "article-title": "Private Information in Large Economies",
+            "volume": "39",
+            "author": "PALFREY,",
+            "year": "1986",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.1111/1468-0262.00322",
+            "article-title": "An Efficient Auction",
+            "volume": "70",
+            "author": "PERRY,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "567",
+            "DOI": "10.1111/j.1467-937X.2005.00343.x",
+            "article-title": "An Efficient Multi-unit Ascending Auction",
+            "volume": "72",
+            "author": "PERRY,",
+            "year": "2005",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2021032311474448800_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.1016/0022-0531(86)90018-9",
+            "article-title": "Implementation in Differential Information Economies",
+            "volume": "39",
+            "author": "POSTLEWAITE,",
+            "year": "1986",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1231",
+            "DOI": "10.1111/j.1468-0262.2006.00703.x",
+            "article-title": "Toward a Strategic Foundation for Rational Expectations Equilibrium",
+            "volume": "74",
+            "author": "RENY,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.2307/1911385",
+            "article-title": "The Incentives for Price-taking Behavior in Large Exchange Economies",
+            "volume": "44",
+            "author": "ROBERTS,",
+            "year": "1976",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "687",
+            "DOI": "10.3982/ECTA9573",
+            "article-title": "Price Inference in Small Markets",
+            "volume": "80",
+            "author": "ROSTEK,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1041",
+            "DOI": "10.2307/2951506",
+            "article-title": "Convergence to Efficiency in a Simple Market with Incomplete Information",
+            "volume": "62",
+            "author": "RUSTICHINI,",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B54",
+            "doi-asserted-by": "crossref",
+            "article-title": "Dynamic Trading: Price Inertia and Front-running",
+            "author": "SANNIKOV,",
+            "year": "2016",
+            "DOI": "10.2139/ssrn.2882809"
+        },
+        {
+            "key": "2021032311474448800_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/0022-0531(89)90121-X",
+            "article-title": "Bilateral Trade with the Sealed Bid k-Double Auction: Existence and Efficiency",
+            "volume": "48",
+            "author": "SATTERTHWAITE,",
+            "year": "1989",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021032311474448800_B56",
+            "article-title": "Concept Release on Equity Market Structure",
+            "year": "2010"
+        },
+        {
+            "key": "2021032311474448800_B57",
+            "article-title": "Equity Market Structure Literature Review. Part II: High Frequency Trading",
+            "year": "2014"
+        },
+        {
+            "key": "2021032311474448800_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1257/000282803322156963",
+            "article-title": "Optimal Pricing Mechanisms with Unknown Demand",
+            "volume": "93",
+            "author": "SEGAL,",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032311474448800_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "517",
+            "DOI": "10.1111/j.1468-0262.2005.00587.x",
+            "article-title": "On the Trade Off between Deficit and Inefficiency and the Double Auction with a Fixed Transaction Fee",
+            "volume": "73",
+            "author": "TATUR,",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "8",
+            "DOI": "10.1111/j.1540-6261.1961.tb02789.x",
+            "article-title": "Counterspeculation, Auctions, and Competitive Sealed Tenders",
+            "volume": "16",
+            "author": "VICKREY,",
+            "year": "1961",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021032311474448800_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "1919",
+            "DOI": "10.3982/ECTA8126",
+            "article-title": "Strategic Supply Function Competition with Private Information",
+            "volume": "79",
+            "author": "VIVES,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1101",
+            "DOI": "10.2307/1911013",
+            "article-title": "Incentive Efficiency of Double Auctions",
+            "volume": "53",
+            "author": "WILSON,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032311474448800_B63",
+            "volume-title": "Advances in Economic Theory: Fifth World Congress",
+            "author": "WILSON,",
+            "year": "1987"
+        },
+        {
+            "key": "2021032311474448800_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "572",
+            "DOI": "10.1006/jeth.2000.2736",
+            "article-title": "The Modified Vickrey Double Auction",
+            "volume": "101",
+            "author": "YOON,",
+            "year": "2001",
+            "journal-title": "Journal of Economic Theory"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdaa049/33895086/rdaa049.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/88/2/521/36667266/rdaa049.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/88/2/521/36667266/rdaa049.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                23
+            ]
+        ],
+        "date-time": "2021-03-23T11:49:29Z",
+        "timestamp": 1616500169000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                17
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    8,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    22
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdaa049",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                17
+            ]
+        ]
+    }
+}
