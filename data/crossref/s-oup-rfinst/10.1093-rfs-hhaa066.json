@@ -1,0 +1,906 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                16
+            ]
+        ],
+        "date-time": "2021-12-16T13:26:33Z",
+        "timestamp": 1639661193314
+    },
+    "reference-count": 64,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        10
+                    ]
+                ],
+                "date-time": "2020-06-10T00:00:00Z",
+                "timestamp": 1591747200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We introduce a parsimonious framework for choosing among alternative expected-return proxies (ERPs) when estimating treatment effects. By comparing ERPs\u2019 measurement error variances in the cross-section and in the time series, we provide new evidence on the relative performance of firm-level ERPs nominated by recent studies. Generally, \u201cimplied-costs-of-capital\u201d metrics perform best in the time series, whereas \u201ccharacteristic-based\u201d proxies perform best in the cross-section. Factor-based ERPs, even the latest renditions, perform poorly. We revisit four prior studies that use ex ante ERPs and illustrate how this framework can potentially alter either the sign or the magnitude of prior inferences.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa066",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                4
+            ]
+        ],
+        "date-time": "2020-06-04T19:11:34Z",
+        "timestamp": 1591297894000
+    },
+    "page": "1907-1951",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+        "Evaluating Firm-Level Expected-Return Proxies: Implications for Estimating Treatment Effects"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Charles M C",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Eric C",
+            "family": "So",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Sloan School of Management, Massachusetts Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Charles C Y",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard Business School, Harvard University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021032411572045600_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1111/j.1540-6261.2006.00836.x",
+            "article-title": "The cross-section of volatility and expected returns",
+            "volume": "61",
+            "author": "Ang,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B2",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Mostly harmless econometrics: An empiricist\u2019s companion",
+            "author": "Angrist,",
+            "year": "2008",
+            "DOI": "10.2307/j.ctvcm4j72"
+        },
+        {
+            "key": "2021032411572045600_B3",
+            "first-page": "323",
+            "article-title": "Disclosure level and the cost of equity capital",
+            "volume": "72",
+            "author": "Botosan,",
+            "year": "1997",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2021032411572045600_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.2307/2233809",
+            "article-title": "A variance decomposition for stock returns",
+            "volume": "101",
+            "author": "Campbell,",
+            "year": "1991",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2021032411572045600_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1093/rfs/1.3.195",
+            "article-title": "The dividend-price ratio and expectations of future dividends and discount factors",
+            "volume": "1",
+            "author": "Campbell,",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1111/j.1540-6261.1988.tb04598.x",
+            "article-title": "Stock prices, earnings, and expected dividends",
+            "volume": "43",
+            "author": "Campbell,",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2899",
+            "DOI": "10.1111/j.1540-6261.2008.01416.x",
+            "article-title": "In search of distress risk",
+            "volume": "63",
+            "author": "Campbell,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1297",
+            "DOI": "10.1093/rfs/hhn011",
+            "article-title": "Expected returns, yield spreads, and asset pricing tests",
+            "volume": "21",
+            "author": "Campello,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1467",
+            "DOI": "10.1111/j.1540-6261.1991.tb04626.x",
+            "article-title": "Structural and return characteristics of small and large firms",
+            "volume": "46",
+            "author": "Chan,",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B11",
+            "volume-title": "Expected stock returns worldwide: A log-linear present-value approach",
+            "author": "Chattopadhyay,",
+            "year": "2020"
+        },
+        {
+            "key": "2021032411572045600_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2523",
+            "DOI": "10.1093/rfs/hhp107",
+            "article-title": "Is default risk negatively related to stock returns",
+            "volume": "23",
+            "author": "Chava,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "402",
+            "DOI": "10.1016/j.jfineco.2010.12.007",
+            "article-title": "Firm life expectancy and the heterogeneity of the book-to-market effect",
+            "volume": "100",
+            "author": "Chen,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1017",
+            "DOI": "10.1111/1475-679X.12094",
+            "article-title": "A new measure of disclosure quality: The level of disaggregation of accounting data in annual reports",
+            "volume": "53",
+            "author": "Chen,",
+            "year": "2015",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2021032411572045600_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1629",
+            "DOI": "10.1111/0022-1082.00384",
+            "article-title": "Equity premia as low as three percent? Evidence from analysts\u2019 earnings forecasts from domestic and international stock markets",
+            "volume": "56",
+            "author": "Claus,",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1111/j.1540-6261.2011.01671.x",
+            "article-title": "Presidential address: Discount rates",
+            "volume": "66",
+            "author": "Cochrane,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1016/j.jacceco.2007.08.001",
+            "article-title": "Is accruals quality a priced risk factor?",
+            "volume": "46",
+            "author": "Core,",
+            "year": "2008",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2021032411572045600_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/S0304-405X(96)00887-2",
+            "article-title": "Returns to contrarian investment strategies: Tests of naive expectations hypotheses",
+            "volume": "43",
+            "author": "Dechow,",
+            "year": "1997",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1325",
+            "DOI": "10.1111/j.1540-6261.1991.tb04620.x",
+            "article-title": "Disclosure, liquidity, and the cost of capital",
+            "volume": "46",
+            "author": "Diamond,",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1111/j.1540-6261.2004.00672.x",
+            "article-title": "Information and the cost of capital",
+            "volume": "59",
+            "author": "Easley,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.2308/accr.2005.80.2.501",
+            "article-title": "An evaluation of accounting-based measures of expected returns",
+            "volume": "80",
+            "author": "Easton,",
+            "year": "2005",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2021032411572045600_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.2308/accr.2004.79.1.73",
+            "article-title": "PE ratios, PEG ratios, and estimating the implied expected rate of return on equity capital",
+            "volume": "79",
+            "author": "Easton,",
+            "year": "2004",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2021032411572045600_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.1111/0022-1082.00144",
+            "article-title": "Presidential address: expected return, realized return, and asset pricing tests",
+            "volume": "54",
+            "author": "Elton,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1111/j.1540-6261.1996.tb05202.x",
+            "article-title": "Multifactor explanations of asset pricing anomalies",
+            "volume": "51",
+            "author": "Fama,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1111/1540-6261.00437",
+            "article-title": "The equity premium",
+            "volume": "57",
+            "author": "Fama,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1016/j.jfineco.2018.02.012",
+            "article-title": "Choosing factors",
+            "volume": "128",
+            "author": "Fama,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.2308/accr.2004.79.4.967",
+            "article-title": "Costs of equity and earnings attributes",
+            "volume": "79",
+            "author": "Francis,",
+            "year": "2004",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2021032411572045600_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1016/S0165-4101(98)00026-3",
+            "article-title": "Accounting valuation, market expectation, and cross-sectional stock returns",
+            "volume": "25",
+            "author": "Frankel,",
+            "year": "1998",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2021032411572045600_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.1016/j.jfineco.2008.02.003",
+            "article-title": "Idiosyncratic risk and the cross-section of expected stock returns",
+            "volume": "91",
+            "author": "Fu,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1111/1475-679X.00007",
+            "article-title": "Toward an implied cost of capital",
+            "volume": "39",
+            "author": "Gebhardt,",
+            "year": "2001",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2021032411572045600_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1023/A:1027378728141",
+            "article-title": "Inferring the cost of capital using the Ohlson-Juettner model",
+            "volume": "8",
+            "author": "Gode,",
+            "year": "2003",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2021032411572045600_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.2308/accr.2010.85.2.483",
+            "article-title": "Correcting for cross-sectional and time-series dependence in accounting research",
+            "volume": "85",
+            "author": "Gow,",
+            "year": "2010",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2021032411572045600_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1093/rfs/hht082",
+            "article-title": "Expectations of returns and expected returns",
+            "volume": "27",
+            "author": "Greenwood,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1177/0312896211408624",
+            "article-title": "Properties of implied cost of capital using analysts\u2019 forecasts",
+            "volume": "36",
+            "author": "Guay,",
+            "year": "2011",
+            "journal-title": "Australian Journal of Management"
+        },
+        {
+            "key": "2021032411572045600_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1017/S0022109014000027",
+            "article-title": "On the relation between EGARCH idiosyncratic volatility and expected stock returns",
+            "volume": "49",
+            "author": "Guo,",
+            "year": "2014",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2021032411572045600_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "428",
+            "DOI": "10.1016/j.jfineco.2008.09.006",
+            "article-title": "Cost of capital effects and changes in growth expectations around U.S. cross-listings",
+            "volume": "93",
+            "author": "Hail,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B39",
+            "volume-title": "q5",
+            "author": "Hou,",
+            "year": "2019"
+        },
+        {
+            "key": "2021032411572045600_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "504",
+            "DOI": "10.1016/j.jacceco.2011.12.001",
+            "article-title": "The implied cost of capital: A new approach",
+            "volume": "53",
+            "author": "Hou,",
+            "year": "2012",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2021032411572045600_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1016/j.jfineco.2018.11.004",
+            "article-title": "Gold, platinum, and expected stock returns",
+            "volume": "132",
+            "author": "Huang,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1093/rfs/hhp015",
+            "article-title": "Return reversals, idiosyncratic risk, and expected returns",
+            "volume": "23",
+            "author": "Huang,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.1016/j.jfineco.2012.09.001",
+            "article-title": "Inventory investment and the cost of capital",
+            "volume": "107",
+            "author": "Jones,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1366",
+            "DOI": "10.1093/rfs/hhr134",
+            "article-title": "Testing asymmetric-information asset pricing models",
+            "volume": "25",
+            "author": "Kelly,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1715",
+            "DOI": "10.1111/j.1540-6261.1996.tb05223.x",
+            "article-title": "Expectations and the cross-section of stock returns",
+            "volume": "51",
+            "author": "La Porta,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1111/j.1475-679X.2007.00238.x",
+            "article-title": "Accounting information, disclosure, and the cost of capital",
+            "volume": "45",
+            "author": "Lambert,",
+            "year": "2007",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2021032411572045600_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1017/S0022109009090164",
+            "article-title": "Testing international asset pricing models using implied costs of capital",
+            "volume": "44",
+            "author": "Lee,",
+            "year": "2009",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2021032411572045600_B49",
+            "first-page": "643",
+            "article-title": "Equilibrium in an imperfect market: A constraint on the number of securities in the portfolio",
+            "volume": "68",
+            "author": "Levy,",
+            "year": "1978",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021032411572045600_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/104.00000024",
+            "article-title": "The cross section of expected stock returns",
+            "volume": "4",
+            "author": "Lewellen,",
+            "year": "2015",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2021032411572045600_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "419",
+            "DOI": "10.1016/j.jfineco.2013.06.006",
+            "article-title": "Predicting market returns using aggregate implied cost of capital",
+            "volume": "110",
+            "author": "Li,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.2307/1924119",
+            "article-title": "The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets",
+            "volume": "73",
+            "author": "Lintner,",
+            "year": "1965",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2021032411572045600_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1016/j.jfineco.2015.03.001",
+            "article-title": "The cross section of expected holding period returns and their dynamics: A present value approach",
+            "volume": "116",
+            "author": "Lyle,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B54",
+            "volume-title": "Idiosyncratic risk and security returns",
+            "author": "Malkiel,",
+            "year": "2002"
+        },
+        {
+            "key": "2021032411572045600_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1887",
+            "DOI": "10.1111/jofi.12778",
+            "article-title": "What is the expected return on a stock?",
+            "volume": "74",
+            "author": "Martin,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.1111/j.1540-6261.1987.tb04565.x",
+            "article-title": "A simple model of capital market equilibrium with incomplete information",
+            "volume": "42",
+            "author": "Merton,",
+            "year": "1987",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1007/s11142-005-1535-3",
+            "article-title": "Expected EPS and EPS growth as determinants of value",
+            "volume": "10",
+            "author": "Ohlson,",
+            "year": "2005",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2021032411572045600_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "2859",
+            "DOI": "10.1111/j.1540-6261.2008.01415.x",
+            "article-title": "Estimating the intertemporal risk-return tradeoff using the implied cost of capital",
+            "volume": "63",
+            "author": "P\u00e1stor,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B59",
+            "first-page": "425",
+            "article-title": "Capital asset prices: A theory of market equilibrium under conditions of risk",
+            "volume": "19",
+            "author": "Sharpe,",
+            "year": "1964",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.1016/j.jfineco.2013.08.017",
+            "article-title": "Equity yields",
+            "volume": "110",
+            "author": "Van Binsbergen,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572045600_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.1111/1540-6261.00421",
+            "article-title": "What drives firm-level stock returns?",
+            "volume": "57",
+            "author": "Vuolteenaho,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572045600_B62",
+            "volume-title": "Measurement errors of expected return proxies and the implied cost of capital",
+            "author": "Wang,",
+            "year": "2015"
+        },
+        {
+            "key": "2021032411572045600_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1767",
+            "DOI": "10.1093/rfs/hhm051",
+            "article-title": "Interpreting the value effect through the Q-theory: An empirical investigation",
+            "volume": "21",
+            "author": "Xing,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572045600_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "528",
+            "DOI": "10.1016/j.jfineco.2019.06.013",
+            "article-title": "Is information risk priced? Evidence from abnormal idiosyncratic volatility",
+            "volume": "135",
+            "author": "Yang,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa066/33463276/hhaa066.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/4/1907/36683421/hhaa066.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/4/1907/36683421/hhaa066.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ],
+        "date-time": "2021-03-24T11:58:06Z",
+        "timestamp": 1616587086000
+    },
+    "score": 1,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Wei",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                10
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa066",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                10
+            ]
+        ]
+    }
+}

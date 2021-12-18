@@ -1,0 +1,558 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2021-12-07T00:51:13Z",
+        "timestamp": 1638838273716
+    },
+    "reference-count": 47,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        7
+                    ]
+                ],
+                "date-time": "2020-07-07T00:00:00Z",
+                "timestamp": 1594080000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                15
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Permissionless blockchains require a protocol to generate consensus. Many prominent permissionless blockchains employ Proof-of-Work (PoW) for that purpose, but PoW possesses significant shortcomings. Various alternatives have been proposed. This paper provides the first formal economic model of the most famous alternative, Proof-of-Stake (PoS), and establishes conditions under which PoS generates consensus. A sufficiently modest reward schedule not only implies the existence of an equilibrium in which consensus obtains as soon as possible but also precludes a persistent forking equilibrium. The latter result arises because PoS, unlike PoW, requires that validators are also stakeholders.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa075",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                1
+            ]
+        ],
+        "date-time": "2020-07-01T19:09:38Z",
+        "timestamp": 1593630578000
+    },
+    "page": "1156-1190",
+    "source": "Crossref",
+    "is-referenced-by-count": 41,
+    "title": [
+        "Blockchain without Waste: Proof-of-Stake"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Fahad",
+            "family": "Saleh",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Wake Forest University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021021907580087700_B1",
+            "article-title": "Proof of Work vs Proof of Stake",
+            "year": "2018",
+            "journal-title": "Coingeek"
+        },
+        {
+            "key": "2021021907580087700_B2",
+            "year": "2019",
+            "journal-title": "Use cases"
+        },
+        {
+            "key": "2021021907580087700_B3",
+            "article-title": "The borderless economy is here",
+            "year": "2019",
+            "journal-title": "Algorand Blog"
+        },
+        {
+            "key": "2021021907580087700_B4",
+            "volume-title": "Pitfalls of Bitcoin\u2019s Proof-of-Work: R&D arms race and mining centralization",
+            "author": "Alsabah,",
+            "year": "2020"
+        },
+        {
+            "key": "2021021907580087700_B5",
+            "author": "Arnosti,",
+            "year": "2019",
+            "journal-title": "Bitcoin: A natural oligopoly"
+        },
+        {
+            "key": "2021021907580087700_B6",
+            "volume-title": "Hashcash: A denial of service countermeasure",
+            "author": "Back,",
+            "year": "2002"
+        },
+        {
+            "key": "2021021907580087700_B7",
+            "volume-title": "CryptoMining: Local evidence from China and the US",
+            "author": "Benetton,",
+            "year": "2019"
+        },
+        {
+            "key": "2021021907580087700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1662",
+            "DOI": "10.1093/rfs/hhy095",
+            "article-title": "The blockchain folk theorem",
+            "volume": "32",
+            "author": "Biais,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021021907580087700_B9",
+            "author": "Brown-Cohen,",
+            "year": "2019",
+            "journal-title": "Formal barriers to longest-chain Proof-of-Stake protocols"
+        },
+        {
+            "key": "2021021907580087700_B10",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The economic limits of Bitcoin and the blockchain",
+            "author": "Budish,",
+            "year": "2018",
+            "DOI": "10.3386/w24717"
+        },
+        {
+            "key": "2021021907580087700_B11",
+            "author": "Buterin,",
+            "year": "2019",
+            "journal-title": "Casper the friendly finality gadget"
+        },
+        {
+            "key": "2021021907580087700_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1145/2976749.2978408",
+            "article-title": "On the instability of Bitcoin without the block reward",
+            "volume-title": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security",
+            "author": "Carlsten,",
+            "year": "2016"
+        },
+        {
+            "key": "2021021907580087700_B13",
+            "article-title": "ALGORAND: The efficient and democratic ledger",
+            "author": "Chen,",
+            "year": "2017"
+        },
+        {
+            "key": "2021021907580087700_B14",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The economics of cryptocurrencies - Bitcoin and beyond",
+            "author": "Chiu,",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.3048124"
+        },
+        {
+            "key": "2021021907580087700_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1716",
+            "DOI": "10.1093/rfs/hhy122",
+            "article-title": "Blockchain-based settlement for asset trading",
+            "volume": "32",
+            "author": "Chiu,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021021907580087700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1754",
+            "DOI": "10.1093/rfs/hhz007",
+            "article-title": "Blockchain disruption and smart contracts",
+            "volume": "32",
+            "author": "Cong,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021021907580087700_B17",
+            "doi-asserted-by": "publisher",
+            "article-title": "Decentralized mining in centralized pools",
+            "author": "Cong,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhaa075"
+        },
+        {
+            "key": "2021021907580087700_B18",
+            "volume-title": "Tokenomics: Dynamic adoption and valuation",
+            "author": "Cong,",
+            "year": "2019"
+        },
+        {
+            "key": "2021021907580087700_B19",
+            "volume-title": "Snow White: Provably secure proofs of stake",
+            "author": "Daian,",
+            "year": "2017"
+        },
+        {
+            "key": "2021021907580087700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "801",
+            "DOI": "10.1016/j.joule.2018.04.016",
+            "article-title": "Bitcoin\u2019s growing energy problem",
+            "volume": "2",
+            "author": "de Vries,",
+            "year": "2018",
+            "journal-title": "Joule"
+        },
+        {
+            "key": "2021021907580087700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1109/P2P.2013.6688704",
+            "article-title": "Information propagation in the Bitcoin network",
+            "volume-title": "IEEE P2P 2013 Proceedings",
+            "author": "Decker,",
+            "year": "2013"
+        },
+        {
+            "key": "2021021907580087700_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1086/262110",
+            "article-title": "Sequential voting procedures in symmetric binary elections",
+            "volume": "108",
+            "author": "Dekel,",
+            "year": "2000",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021021907580087700_B23",
+            "year": "2019",
+            "journal-title": "Security tip (ST04-018). Understanding digital signatures"
+        },
+        {
+            "key": "2021021907580087700_B24",
+            "first-page": "139",
+            "article-title": "Pricing via processing or combatting junk mail",
+            "volume-title": "Proceedings of the 12th Annual International Cryptology Conference",
+            "author": "Dwork,",
+            "year": "1992"
+        },
+        {
+            "key": "2021021907580087700_B25",
+            "first-page": "436",
+            "article-title": "Majority is not enough: Bitcoin mining is vulnerable",
+            "volume-title": "Eighteenth International Conference on Financial Cryptography and Data Security (FC\u201914)",
+            "author": "Eyal,",
+            "year": "2014"
+        },
+        {
+            "key": "2021021907580087700_B26",
+            "volume-title": "Economics of Proof-of-Stake payment systems",
+            "author": "Fanti,",
+            "year": "2020"
+        },
+        {
+            "key": "2021021907580087700_B27",
+            "volume-title": "Bitcoin\u2019s fatal flaw: Proof-of-Work\u2019s limited adoption problem",
+            "author": "Hinzen,",
+            "year": "2020"
+        },
+        {
+            "key": "2021021907580087700_B28",
+            "volume-title": "The public blockchain ecosystem: An empirical analysis",
+            "author": "Irresberger,",
+            "year": "2020"
+        },
+        {
+            "key": "2021021907580087700_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "258",
+            "DOI": "10.1007/978-0-387-35568-9_18",
+            "article-title": "Proofs of Work and bread pudding protocols",
+            "volume-title": "Secure information networks",
+            "author": "Jakobsson,",
+            "year": "1999"
+        },
+        {
+            "key": "2021021907580087700_B30",
+            "first-page": "357",
+            "article-title": "Ouroboros: A provably secure proof-of-stake blockchain protocol",
+            "volume-title": "Annual International Cryptology Conference",
+            "author": "Kiayias,",
+            "year": "2017"
+        },
+        {
+            "key": "2021021907580087700_B31",
+            "author": "King,",
+            "year": "2012",
+            "journal-title": "PPCoin: Peer-to-peer crypto-currency with Proof-of-Stake"
+        },
+        {
+            "key": "2021021907580087700_B32",
+            "first-page": "382",
+            "article-title": "The byzantine generals problem",
+            "volume-title": "ACM Transactions on Programming Languages and Systems",
+            "author": "Lamport,",
+            "year": "1982"
+        },
+        {
+            "key": "2021021907580087700_B33",
+            "author": "Lee,",
+            "year": "2013",
+            "journal-title": "Major glitch in Bitcoin network sparks sell-off; price temporarily falls 23 arsTECHNICA"
+        },
+        {
+            "key": "2021021907580087700_B34",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Miner collusion and the BitCoin protocol",
+            "author": "Lehar,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3559894"
+        },
+        {
+            "key": "2021021907580087700_B35",
+            "volume-title": "Market structure in Bitcoin mining",
+            "author": "Ma,",
+            "year": "2019"
+        },
+        {
+            "key": "2021021907580087700_B36",
+            "volume-title": "Anonymous byzantine consensus from moderately-hard puzzles: A model for Bitcoin",
+            "author": "Miller,",
+            "year": "2014"
+        },
+        {
+            "key": "2021021907580087700_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.1038/s41558-018-0321-8",
+            "article-title": "Bitcoin emissions alone could push global warming above 2 C",
+            "volume": "8",
+            "author": "Mora,",
+            "year": "2018",
+            "journal-title": "Nature Climate Change"
+        },
+        {
+            "key": "2021021907580087700_B38",
+            "volume-title": "Bitcoin: A peer-to-peer electronic cash system",
+            "author": "Nakamoto,",
+            "year": "2008"
+        },
+        {
+            "key": "2021021907580087700_B39",
+            "volume-title": "Bitcoin and cryptocurrency technologies",
+            "author": "Narayanan,",
+            "year": "2016"
+        },
+        {
+            "key": "2021021907580087700_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1109/EuroSP.2016.32",
+            "article-title": "Stubborn mining: Generalizing selfish mining and combining with an eclipse attack",
+            "volume-title": "2016 IEEE European Symposium on Security and Privacy (EuroS&P)",
+            "author": "Nayak,",
+            "year": "2016"
+        },
+        {
+            "key": "2021021907580087700_B41",
+            "year": "2018",
+            "journal-title": "Whitepaper: Nxt"
+        },
+        {
+            "key": "2021021907580087700_B42",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The FinTech opportunity",
+            "author": "Philippon,",
+            "year": "2016",
+            "DOI": "10.3386/w22476"
+        },
+        {
+            "key": "2021021907580087700_B43",
+            "volume-title": "Evolution of shares in a Proof-of-Stake cryptocurrency",
+            "author": "Rosu,",
+            "year": "2020"
+        },
+        {
+            "key": "2021021907580087700_B44",
+            "volume-title": "Volatility and welfare in a crypto economy",
+            "author": "Saleh,",
+            "year": "2019"
+        },
+        {
+            "key": "2021021907580087700_B45",
+            "author": "Vasin,",
+            "year": "2013",
+            "journal-title": "BlackCoin\u2019s Proof-of-Stake protocol v2"
+        },
+        {
+            "key": "2021021907580087700_B46",
+            "doi-asserted-by": "publisher",
+            "article-title": "A survey of distributed consensus protocols for blockchain networks",
+            "author": "Xiao,",
+            "year": "2020",
+            "journal-title": "IEEE Communications Surveys & Tutorials",
+            "DOI": "10.1109/COMST.2020.2969706"
+        },
+        {
+            "key": "2021021907580087700_B47",
+            "volume-title": "Casper the Friendly Ghost: A correct-by-construction blockchain consensus protocol",
+            "author": "Zamfir,",
+            "year": "2017"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa075/33645969/hhaa075.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/3/1156/36264598/hhaa075.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/3/1156/36264598/hhaa075.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                21
+            ]
+        ],
+        "date-time": "2021-02-21T00:25:38Z",
+        "timestamp": 1613867138000
+    },
+    "score": 1,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Wei",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                7
+            ]
+        ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    7
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    2,
+                    15
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa075",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                7
+            ]
+        ]
+    }
+}

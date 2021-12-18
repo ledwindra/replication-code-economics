@@ -1,0 +1,750 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                1
+            ]
+        ],
+        "date-time": "2021-12-01T08:31:24Z",
+        "timestamp": 1638347484926
+    },
+    "reference-count": 52,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        9
+                    ]
+                ],
+                "date-time": "2020-07-09T00:00:00Z",
+                "timestamp": 1594252800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Lou and Shu decompose Amihud\u2019s illiquidity measure (ILLIQ) proposing that its component, the average of inverse dollar trading volume (IDVOL), is sufficient to explain the pricing of illiquidity. Their decomposition misses a component of ILLIQ that is related to illiquidity. We find that this component affects stock returns significantly, both in the cross-section and in time-series. We show that the ILLIQ premium is significantly positive after controlling for mispricing, sentiment, and seasonality. In addition, the aggregate market ILLIQ outperforms market IDVOL in estimating the effect of market illiquidity shocks on realized stock returns.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa080",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                3
+            ]
+        ],
+        "date-time": "2020-07-03T03:19:30Z",
+        "timestamp": 1593746370000
+    },
+    "page": "2101-2123",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+        "Illiquidity and Stock Returns II: Cross-section and Time-series Effects"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Yakov",
+            "family": "Amihud",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Joonki",
+            "family": "Noh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021032411572560700_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "4437",
+            "DOI": "10.1093/rfs/hhx084",
+            "article-title": "A simple estimation of bid-ask spreads from daily close, high and low prices",
+            "volume": "30",
+            "author": "Abdi,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572560700_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1016/j.jfineco.2004.06.007",
+            "article-title": "Asset pricing with liquidity risk,",
+            "volume": "77",
+            "author": "Acharya,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/S1386-4181(01)00024-6",
+            "article-title": "Illiquidity and stock returns: Cross-section and time series effects",
+            "volume": "5",
+            "author": "Amihud,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2021032411572560700_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "350",
+            "DOI": "10.1016/j.jfineco.2015.04.005",
+            "article-title": "The illiquidity premium: International evidence",
+            "volume": "117",
+            "author": "Amihud,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1016/0304-405X(86)90065-6",
+            "article-title": "Asset pricing and the bid-ask spread",
+            "volume": "17",
+            "author": "Amihud,",
+            "year": "1986",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1016/S0304-405X(97)00021-4",
+            "article-title": "Market microstructure and securities values: evidence from the Tel Aviv Exchange",
+            "volume": "45",
+            "author": "Amihud,",
+            "year": "1997",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B7",
+            "volume-title": "Market Liquidity: Asset pricing, Risk and Crises",
+            "author": "Amihud,",
+            "year": "2013"
+        },
+        {
+            "key": "2021032411572560700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1169",
+            "DOI": "10.1111/0022-1082.00141",
+            "article-title": "Number of shareholders and stock prices: Evidence from Japan",
+            "volume": "54",
+            "author": "Amihud,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.3905/jpm.1990.409268",
+            "article-title": "Liquidity and the 1987 stock market crash",
+            "volume": "16",
+            "author": "Amihud,",
+            "year": "1990",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2021032411572560700_B10",
+            "volume-title": "The pricing of the illiquidity factor\u2019s conditional risk with time-varying premium",
+            "author": "Amihud,",
+            "year": "2019"
+        },
+        {
+            "key": "2021032411572560700_B11",
+            "volume-title": "Liquidity clienteles",
+            "author": "Anginer,",
+            "year": "2010"
+        },
+        {
+            "key": "2021032411572560700_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1111/j.1540-6261.1997.tb03817.x",
+            "article-title": "Transaction costs and holding periods for common stocks",
+            "volume": "52",
+            "author": "Atkins,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1645",
+            "DOI": "10.1111/j.1540-6261.2006.00885.x",
+            "article-title": "Investor sentiment and the cross-section of stock returns",
+            "volume": "61",
+            "author": "Baker,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B14",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The night and day of Amihud\u2019s (2002) liquidity measure",
+            "author": "Barardehi,",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3335508"
+        },
+        {
+            "key": "2021032411572560700_B15",
+            "first-page": "345",
+            "article-title": "Alternative factor specifications, security characteristics, and the cross-section of expected stock returns",
+            "volume": "49",
+            "author": "Brennan,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "441",
+            "DOI": "10.1016/0304-405X(95)00870-K",
+            "article-title": "Market microstructure and asset pricing: On the compensation for illiquidity in stock returns",
+            "volume": "41",
+            "author": "Brennan,",
+            "year": "1996",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/S0304-405X(00)00080-5",
+            "article-title": "Trading activity and expected stock returns",
+            "volume": "59",
+            "author": "Chordia,",
+            "year": "2001",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "842",
+            "DOI": "10.1086/261410",
+            "article-title": "Capital market equilibrium with transaction costs",
+            "volume": "94",
+            "author": "Constantinides,",
+            "year": "1986",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032411572560700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1111/0022-1082.00209",
+            "article-title": "Characteristics, covariances and average returns: 1929-1997",
+            "volume": "55",
+            "author": "Davis,",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1016/S1386-4181(97)00004-9",
+            "article-title": "Liquidity and stock returns: An alternative test",
+            "volume": "1",
+            "author": "Datar,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2021032411572560700_B22",
+            "volume-title": "Timing and holding periods for common stocks: A duration-based analysis",
+            "author": "Dias,",
+            "year": "2004"
+        },
+        {
+            "key": "2021032411572560700_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2113",
+            "DOI": "10.1111/0022-1082.00490",
+            "article-title": "Difference of opinion and the cross section of stock returns",
+            "volume": "57",
+            "author": "Diether,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.1016/j.jfineco.2008.06.002",
+            "article-title": "Do liquidity measures measure liquidity?",
+            "volume": "92",
+            "author": "Goyenko,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1111/j.1540-6261.1992.tb04398.x",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "47",
+            "author": "Fama,",
+            "year": "1992",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds,",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032411572560700_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(87)90026-2",
+            "article-title": "Expected stock returns and volatility",
+            "volume": "19",
+            "author": "French,",
+            "year": "1987",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B29",
+            "doi-asserted-by": "crossref",
+            "article-title": "Illiquidity and stock returns: Cross-section and time-series effects: A replication",
+            "author": "Harris,",
+            "year": "2019",
+            "journal-title": "Critical Finance Review",
+            "DOI": "10.1561/104.00000058"
+        },
+        {
+            "key": "2021032411572560700_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.1093/rfs/5.3.473",
+            "article-title": "Difference of opinion make a horse race",
+            "volume": "6",
+            "author": "Harris,",
+            "year": "1993",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572560700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1445",
+            "DOI": "10.1111/j.1540-6261.2009.01469.x",
+            "article-title": "Trading costs and returns for U.S. equities: Estimating effective costs from daily data",
+            "volume": "64",
+            "author": "Hasbrouck,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.finmar.2013.02.001",
+            "article-title": "Price impact and asset pricing",
+            "volume": "19",
+            "author": "Huh,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2021032411572560700_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "2955",
+            "DOI": "10.1111/j.1540-6261.2005.00822.x",
+            "article-title": "Financial market design and the equity premium: Electronic versus floor trading",
+            "volume": "60",
+            "author": "Jain,",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "523",
+            "DOI": "10.1111/1540-6261.00431",
+            "article-title": "Continuous trading or call auctions: Revealed preferences of investors at the Tel Aviv Stock Exchange",
+            "volume": "57",
+            "author": "Kalay,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "82",
+            "DOI": "10.1016/j.jfineco.2011.12.008",
+            "article-title": "Understanding commonality in liquidity around the world",
+            "volume": "105",
+            "author": "Karolyi,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.2307/2330874",
+            "article-title": "The relation between price changes and trading volume: A survey",
+            "volume": "22",
+            "author": "Karpoff,",
+            "year": "1987",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2021032411572560700_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1366",
+            "DOI": "10.1093/rfs/hhr134",
+            "article-title": "Testing asymmetric-information asset pricing model",
+            "volume": "25",
+            "author": "Kelly,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572560700_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1016/0165-4101(94)90004-3",
+            "article-title": "Market liquidity and volume around earnings announcements",
+            "volume": "17",
+            "author": "Kim,",
+            "year": "1994",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2021032411572560700_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1315",
+            "DOI": "10.2307/1913210",
+            "article-title": "Continuous auctions and insider trading",
+            "volume": "53",
+            "author": "Kyle,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021032411572560700_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "DOI": "10.1016/j.jfineco.2004.01.005",
+            "article-title": "Liquidity of emerging markets",
+            "volume": "77",
+            "author": "Lesmond,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.2307/2672910",
+            "article-title": "The economic consequences of increased disclosure",
+            "volume": "38",
+            "author": "Leuz,",
+            "year": "2000",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2021032411572560700_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "4481",
+            "DOI": "10.1093/rfs/hhx072",
+            "article-title": "Price impact or trading volume: Why is the Amihud (2002) measure priced?",
+            "volume": "30",
+            "author": "Lou,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572560700_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1016/S1386-4181(00)00022-7",
+            "article-title": "Market microstructure and securities values: Evidence from the Paris Bourse",
+            "volume": "4",
+            "author": "Muscarella,",
+            "year": "2001",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2021032411572560700_B44",
+            "doi-asserted-by": "crossref",
+            "article-title": "Liquidity and asset pricing: Evidence on the role of investor holding period",
+            "author": "Naes,",
+            "year": "2009",
+            "DOI": "10.2139/ssrn.1095226"
+        },
+        {
+            "key": "2021032411572560700_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1016/j.jfineco.2004.08.008",
+            "article-title": "Short sales, institutional investors and the cross-section of stock returns",
+            "volume": "78",
+            "author": "Nagel,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/374184",
+            "article-title": "Liquidity risk and expected stock returns",
+            "volume": "111",
+            "author": "Pastor,",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021032411572560700_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1077",
+            "DOI": "10.1017/S0022109010000323",
+            "article-title": "Stock returns and the volatility of liquidity",
+            "volume": "45",
+            "author": "Pereira,",
+            "year": "2010",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2021032411572560700_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.1016/j.jfineco.2011.12.001",
+            "article-title": "The short of it: Investor sentiment and anomalies",
+            "volume": "104",
+            "author": "Stambaugh,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021032411572560700_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1270",
+            "DOI": "10.1093/rfs/hhw107",
+            "article-title": "Mispricing factors",
+            "volume": "30",
+            "author": "Stambaugh,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021032411572560700_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1133",
+            "DOI": "10.1111/j.1540-6261.1978.tb02053.x",
+            "article-title": "The supply of dealer services in securities markets",
+            "volume": "33",
+            "author": "Stoll,",
+            "year": "1978",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021032411572560700_B51",
+            "volume-title": "Ownership structure, liquidity, and firm value",
+            "author": "Uno,",
+            "year": "2010"
+        },
+        {
+            "key": "2021032411572560700_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/1912934",
+            "article-title": "A heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroscedasticity",
+            "volume": "48",
+            "author": "White,",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa080/33750608/hhaa080.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/4/2101/36683399/hhaa080.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/4/2101/36683399/hhaa080.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                24
+            ]
+        ],
+        "date-time": "2021-03-24T11:58:08Z",
+        "timestamp": 1616587088000
+    },
+    "score": 1,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                9
+            ]
+        ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    7,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa080",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                9
+            ]
+        ]
+    }
+}
