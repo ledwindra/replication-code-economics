@@ -1,0 +1,851 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                20
+            ]
+        ],
+        "date-time": "2021-12-20T12:50:51Z",
+        "timestamp": 1640004651255
+    },
+    "reference-count": 63,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "8",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ],
+                "date-time": "2021-04-20T00:00:00Z",
+                "timestamp": 1618876800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                16
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study how financial constraints affect the housing market by exploiting a regulatory change that increases the down payment requirement for homes selling for $\\$$1M or more. Using Toronto data, we find that the policy causes excess bunching of homes listed at $\\$$1M and heightened bidding intensity for these homes, but only a muted response in sales. While difficult to reconcile in a frictionless market, these findings are consistent with the implications derived from an equilibrium search model with auctions and financial constraints. Our analysis points to the importance of designing macroprudential policies that recognize the strategic responses of market participants.</jats:p>",
+    "DOI": "10.1093/rfs/hhab047",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                10
+            ]
+        ],
+        "date-time": "2021-04-10T11:35:19Z",
+        "timestamp": 1618054519000
+    },
+    "page": "3742-3788",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "The Effects of a Targeted Financial Constraint on the Housing Market"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Lu",
+            "family": "Han",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Rotman School of Managment, University of Toronto Wisconsin School of Business, University of Wisconsin-Madison"
+                }
+            ]
+        },
+        {
+            "given": "Chandler",
+            "family": "Lutz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Securities and Exchange Commission"
+                }
+            ]
+        },
+        {
+            "given": "Benjamin",
+            "family": "Sand",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, York University"
+                }
+            ]
+        },
+        {
+            "given": "Derek",
+            "family": "Stacey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Waterloo"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021071619392488000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1016/j.jfi.2018.01.004",
+            "article-title": "Lending implications of U.S. bank stress tests: Costs or benefits?",
+            "volume": "34",
+            "author": "Acharya,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Intermediation"
+        },
+        {
+            "key": "2021071619392488000_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "3288",
+            "DOI": "10.1257/aer.104.10.3288",
+            "article-title": "Efficient entry in competing auctions",
+            "volume": "104",
+            "author": "Albrecht,",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071619392488000_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.1016/j.red.2015.05.002",
+            "article-title": "Directed search in the housing market",
+            "volume": "19",
+            "author": "Albrecht,",
+            "year": "2016",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2021071619392488000_B4",
+            "article-title": "The impact of macroprudential housing finance tools in Canada: 2005-2010",
+            "author": "Allen,",
+            "year": "2016"
+        },
+        {
+            "key": "2021071619392488000_B5",
+            "article-title": "How auctions amplify house-price fluctuations",
+            "author": "Arefeva,",
+            "year": "2016"
+        },
+        {
+            "key": "2021071619392488000_B6",
+            "article-title": "Jim Flaherty vows to intervene in housing market again if needed",
+            "author": "Babad,",
+            "year": "2013",
+            "journal-title": "Globe and Mail"
+        },
+        {
+            "key": "2021071619392488000_B7",
+            "article-title": "Financial System Review, November",
+            "year": "2017"
+        },
+        {
+            "key": "2021071619392488000_B8",
+            "article-title": "Financial System Review, June",
+            "year": "2018"
+        },
+        {
+            "key": "2021071619392488000_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1016/j.jfineco.2019.10.004",
+            "article-title": "Capital requirements, risk choice, and liquidity provision in a business-cycle model",
+            "volume": "136",
+            "author": "Begenau,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021071619392488000_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1111/jofi.12847",
+            "article-title": "Stimulating housing markets",
+            "volume": "75",
+            "author": "Berger,",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021071619392488000_B11",
+            "first-page": "656",
+            "article-title": "Estimating the elasticity of intertemporal substitution using mortgage notches",
+            "volume": "87",
+            "author": "Best,",
+            "year": "2020",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071619392488000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1093/restud/rdx032",
+            "article-title": "Housing market responses to transaction taxes: Evidence from notches and stimulus in the uk",
+            "volume": "85",
+            "author": "Best,",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071619392488000_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.1016/j.jet.2017.03.002",
+            "article-title": "Search frictions, competing mechanisms and optimal market segmentation",
+            "volume": "169",
+            "author": "Cai,",
+            "year": "2017",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071619392488000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/0165-1765(95)00766-0",
+            "article-title": "Expected revenue of all-pay auctions and first-price sealed-bid auctions with budget constraints",
+            "volume": "50",
+            "author": "Che,",
+            "year": "1996",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2021071619392488000_B15",
+            "first-page": "97",
+            "article-title": "Financial constraints in auctions: effects and antidotes",
+            "volume-title": "Advances in applied microeconomics",
+            "author": "Che,",
+            "year": "1996."
+        },
+        {
+            "key": "2021071619392488000_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/1467-937X.00033",
+            "article-title": "Standard auctions with financially constrained bidders",
+            "volume": "65",
+            "author": "Che,",
+            "year": "1998",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071619392488000_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2205",
+            "DOI": "10.3982/ECTA10582",
+            "article-title": "Inference on counterfactual distributions",
+            "volume": "81",
+            "author": "Chernozhukov,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071619392488000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "749",
+            "DOI": "10.1093/qje/qjr013",
+            "article-title": "Adjustment costs, firm responses, and micro vs. macro labor supply elasticities: Evidence from Danish tax records",
+            "volume": "126",
+            "author": "Chetty,",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071619392488000_B19",
+            "article-title": "Capital regulation in a macroeconomic model with three layers of default",
+            "author": "Clerc,",
+            "year": "2015"
+        },
+        {
+            "key": "2021071619392488000_B20",
+            "first-page": "914",
+            "article-title": "Regulating household leverage",
+            "volume": "87",
+            "author": "DeFusco,",
+            "year": "2020",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071619392488000_B21",
+            "first-page": "210",
+            "article-title": "The interest rate elasticity of mortgage demand: Evidence from bunching at the conforming loan limit",
+            "volume": "9",
+            "author": "DeFusco,",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2021071619392488000_B22",
+            "article-title": "Harper Government takes further action to strengthen Canada\u2019s housing market",
+            "year": "2012",
+            "journal-title": "Press Release"
+        },
+        {
+            "key": "2021071619392488000_B23",
+            "doi-asserted-by": "crossref",
+            "article-title": "The long-term consequences of teacher discretion in grading of high-stakes tests",
+            "author": "Diamond,",
+            "year": "2016",
+            "DOI": "10.3386/w22207"
+        },
+        {
+            "key": "2021071619392488000_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "837",
+            "DOI": "10.1111/iere.12019",
+            "article-title": "House prices, sales, and time on the market: A search-theoretic framework",
+            "volume": "54",
+            "author": "Diaz,",
+            "year": "2013",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2021071619392488000_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1001",
+            "DOI": "10.2307/2171954",
+            "article-title": "Labor market institutions and the distribution of wages, 1973-1992: A semiparametric approach",
+            "volume": "64",
+            "author": "DiNardo,",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071619392488000_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1016/j.jmoneco.2016.06.003",
+            "article-title": "Phasing out the gses",
+            "volume": "81",
+            "author": "Elenev,",
+            "year": "2016",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021071619392488000_B27",
+            "doi-asserted-by": "crossref",
+            "article-title": "A macroeconomic model with financially constrained producers and intermediaries",
+            "author": "Elenev,",
+            "year": "2018",
+            "DOI": "10.3386/w24757"
+        },
+        {
+            "key": "2021071619392488000_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "140",
+            "DOI": "10.1086/689606",
+            "article-title": "The macroeconomic effects of housing wealth, housing finance, and limited risk sharing in general equilibrium",
+            "volume": "125",
+            "author": "Favilukis,",
+            "year": "2017",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071619392488000_B29",
+            "first-page": "1",
+            "article-title": "Decomposition methods in economics",
+            "volume-title": "Handbook of labor economics",
+            "author": "Fortin,",
+            "year": "2011"
+        },
+        {
+            "key": "2021071619392488000_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1080/07350015.2017.1366909",
+            "article-title": "Why high-order polynomials should not be used in regression discontinuity designs",
+            "volume": "37",
+            "author": "Gelman,",
+            "year": "2019",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021071619392488000_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.jue.2012.01.002",
+            "article-title": "Search and matching in the housing market",
+            "volume": "72",
+            "author": "Genesove,",
+            "year": "2012",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2021071619392488000_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1016/j.jue.2016.03.008",
+            "article-title": "What is the role of the asking price for a house?",
+            "volume": "93",
+            "author": "Han,",
+            "year": "2016",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2021071619392488000_B33",
+            "article-title": "Heterogeneity, frictional assignment and home-ownership",
+            "author": "Head,",
+            "year": "2018"
+        },
+        {
+            "key": "2021071619392488000_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1172",
+            "DOI": "10.1257/aer.104.4.1172",
+            "article-title": "Search, liquidity, and the dynamics of house prices and construction",
+            "volume": "104",
+            "author": "Head,",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071619392488000_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1016/j.jeconom.2007.05.001",
+            "article-title": "Regression discontinuity designs: A guide to practice",
+            "volume": "142",
+            "author": "Imbens,",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021071619392488000_B36",
+            "article-title": "Managing House Price Booms: The Role of Macroprudential Policies, Remarks at the IIM-Bangalore and IMF Conference on Housing Markets, Financial Stability and Growth, By Ratna Sahay, Deputy Director, Monetary and Capital Markets Department, IMF",
+            "year": "2014"
+        },
+        {
+            "key": "2021071619392488000_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "917",
+            "DOI": "10.1016/j.jmoneco.2013.09.001",
+            "article-title": "Housing, mortgage bailout guarantees and the macro economy",
+            "volume": "60",
+            "author": "Jeske,",
+            "year": "2013",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021071619392488000_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1006/redy.1999.0089",
+            "article-title": "Bidding for labor",
+            "volume": "3",
+            "author": "Julien,",
+            "year": "2000",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2021071619392488000_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1329",
+            "DOI": "10.1007/s00182-018-0620-3",
+            "article-title": "Auctions with an asking price",
+            "volume": "47",
+            "author": "Khezr,",
+            "year": "2018",
+            "journal-title": "International Journal of Game Theory"
+        },
+        {
+            "key": "2021071619392488000_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1146/annurev-economics-080315-015234",
+            "article-title": "Bunching",
+            "volume": "8",
+            "author": "Kleven,",
+            "year": "2016",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2021071619392488000_B41",
+            "doi-asserted-by": "crossref",
+            "article-title": "Using notches to uncover optimization frictions and structural elasticities: Theory and evidence from pakistan",
+            "author": "Kleven,",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics",
+            "DOI": "10.1093/qje/qjt004"
+        },
+        {
+            "key": "2021071619392488000_B42",
+            "first-page": "214",
+            "article-title": "Mansion tax: The effect of transfer taxes on the residential real estate market",
+            "volume": "7",
+            "author": "Kopczuk,",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2021071619392488000_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.3982/TE2982",
+            "article-title": "First-price auctions with budget constraints",
+            "volume": "15",
+            "author": "Kotowski,",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2021071619392488000_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1006/juec.2000.2180",
+            "article-title": "A theory of liquidity in residential real estate markets",
+            "volume": "49",
+            "author": "Krainer,",
+            "year": "2001",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2021071619392488000_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.jfs.2016.07.014",
+            "article-title": "Can non-interest rate policies stabilize housing markets? Evidence from a panel of 57 economies",
+            "volume": "26",
+            "author": "Kuttner,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Stability"
+        },
+        {
+            "key": "2021071619392488000_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "498",
+            "DOI": "10.2307/2556060",
+            "article-title": "Leverage and house-price dynamics in U.S. cities",
+            "volume": "30",
+            "author": "Lamont,",
+            "year": "1999",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2021071619392488000_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "281",
+            "DOI": "10.1257/jel.48.2.281",
+            "article-title": "Regression discontinuity designs in economics",
+            "volume": "48",
+            "author": "Lee,",
+            "year": "2010",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2021071619392488000_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jet.2014.11.001",
+            "article-title": "Meeting technologies and optimal trading mechanisms in competitive search markets",
+            "volume": "155",
+            "author": "Lester,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071619392488000_B49",
+            "article-title": "Why a U.S.-style housing nightmare could hit Canada",
+            "author": "Macdonald,",
+            "year": "2012",
+            "journal-title": "CBC News"
+        },
+        {
+            "key": "2021071619392488000_B50",
+            "article-title": "Ottawa\u2019s new rules creating \u2018red hot\u2019 market for homes under $\\$$999,999",
+            "author": "Marr,",
+            "year": "2013",
+            "journal-title": "Financial Post"
+        },
+        {
+            "key": "2021071619392488000_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1281",
+            "DOI": "10.2307/2951643",
+            "article-title": "Mechanism design by competing sellers",
+            "volume": "61",
+            "author": "McAfee,",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071619392488000_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1107",
+            "DOI": "10.1093/qje/qjs024",
+            "article-title": "The effects of fiscal stimulus: Evidence from the 2009 cash for clunkers program",
+            "volume": "127",
+            "author": "Mian,",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071619392488000_B53",
+            "article-title": "Canadian High-end mortgage changes seen as return to CMHC\u2019s roots",
+            "author": "Nelson,",
+            "year": "2013",
+            "journal-title": "Globe and Mail"
+        },
+        {
+            "key": "2021071619392488000_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "459",
+            "DOI": "10.1111/j.1467-937X.2006.383_1.x",
+            "article-title": "Housing market dynamics: On the contribution of income shocks and credit constraints",
+            "volume": "73",
+            "author": "Ortalo-Magne,",
+            "year": "2006",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071619392488000_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1006/jeth.1997.2278",
+            "article-title": "Competition among sellers who offer auctions instead of prices",
+            "volume": "75",
+            "author": "Peters,",
+            "year": "1997",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071619392488000_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1632",
+            "DOI": "10.1257/aer.20131578",
+            "article-title": "The surprisingly swift decline of us manufacturing employment",
+            "volume": "106",
+            "author": "Pierce,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071619392488000_B57",
+            "first-page": "180",
+            "article-title": "Do taxpayers bunch at kink points?",
+            "volume": "2",
+            "author": "Saez,",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2021071619392488000_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1016/j.jue.2017.05.005",
+            "article-title": "The behavioral response to housing transfer taxes: Evidence from a notched change in D.C. policy",
+            "volume": "100",
+            "author": "Slemrod,",
+            "year": "2017",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2021071619392488000_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1507",
+            "DOI": "10.1111/iere.12206",
+            "article-title": "Commitment and costly signaling in decentralized markets",
+            "volume": "57",
+            "author": "Stacey,",
+            "year": "2016",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2021071619392488000_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.2307/2118444",
+            "article-title": "Prices and trading volume in the housing market: A model with down-payment effects",
+            "volume": "110",
+            "author": "Stein,",
+            "year": "1995",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071619392488000_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "943",
+            "DOI": "10.1093/rfs/hhx112",
+            "article-title": "Does a larger menu increase appetite? collateral eligibility and credit supply",
+            "volume": "31",
+            "author": "Van Bekkum,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021071619392488000_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1270",
+            "DOI": "10.1086/261734",
+            "article-title": "Vacancy, search, and prices in a housing market matching model",
+            "volume": "98",
+            "author": "Wheaton,",
+            "year": "1990",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021071619392488000_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1093/rfs/8.1.55",
+            "article-title": "Pricing real assets with costly search",
+            "volume": "8",
+            "author": "Williams,",
+            "year": "1995",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab047/37916766/hhab047.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/8/3742/39071721/hhab047.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/8/3742/39071721/hhab047.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2021-07-16T19:40:21Z",
+        "timestamp": 1626464421000
+    },
+    "score": 1,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                20
+            ]
+        ]
+    },
+    "references-count": 63,
+    "journal-issue": {
+        "issue": "8",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    20
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    16
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab047",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                8,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                20
+            ]
+        ]
+    }
+}

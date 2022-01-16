@@ -1,0 +1,970 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                19
+            ]
+        ],
+        "date-time": "2021-12-19T01:58:34Z",
+        "timestamp": 1639879114803
+    },
+    "reference-count": 73,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "7",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        24
+                    ]
+                ],
+                "date-time": "2020-09-24T00:00:00Z",
+                "timestamp": 1600905600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                18
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Data snooping is a major concern in empirical asset pricing. We develop a new framework to rigorously perform multiple hypothesis testing in linear asset pricing models, while limiting the occurrence of false positive results typically associated with data snooping. By exploiting a variety of machine learning techniques, our multiple-testing procedure is robust to omitted factors and missing data. We also prove its asymptotic validity when the number of tests is large relative to the sample size, as in many finance applications. To improve the finite sample performance, we also provide a wild-bootstrap procedure for inference and prove its validity in this setting. Finally, we illustrate the empirical relevance in the context of hedge fund performance evaluation.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa111",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                10
+            ]
+        ],
+        "date-time": "2020-09-10T19:11:12Z",
+        "timestamp": 1599765072000
+    },
+    "page": "3456-3496",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+        "Thousands of Alpha Tests"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Stefano",
+            "family": "Giglio",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale School of Management, NBER and CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Yuan",
+            "family": "Liao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Rutgers University"
+                }
+            ]
+        },
+        {
+            "given": "Dacheng",
+            "family": "Xiu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021061811090323000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "833",
+            "DOI": "10.1111/0022-1082.00129",
+            "article-title": "The performance of hedge funds: Risk, return, and incentives",
+            "volume": "54",
+            "author": "Ackermann,",
+            "year": "1999",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B2",
+            "doi-asserted-by": "crossref",
+            "article-title": "Do higher-moment equity risks explain hedge fund returns?",
+            "author": "Agarwal,",
+            "year": "2009",
+            "DOI": "10.2139/ssrn.1108635"
+        },
+        {
+            "key": "2021061811090323000_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1271",
+            "DOI": "10.1287/mnsc.1120.1647",
+            "article-title": "Inferring reporting-related biases in hedge fund databases from hedge fund equity holdings",
+            "volume": "59",
+            "author": "Agarwal,",
+            "year": "2013",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2021061811090323000_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.2307/2676207",
+            "article-title": "Multi-period performance persistence analysis of hedge funds",
+            "volume": "35",
+            "author": "Agarwal,",
+            "year": "2000",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2021061811090323000_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1093/rfs/hhg044",
+            "article-title": "Risks and portfolio decisions involving hedge funds",
+            "volume": "17",
+            "author": "Agarwal,",
+            "year": "2004",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2021061811090323000_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "238",
+            "DOI": "10.1016/j.jfineco.2009.12.010",
+            "article-title": "The performance of emerging hedge funds and managers",
+            "volume": "96",
+            "author": "Aggarwal,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1203",
+            "DOI": "10.3982/ECTA8968",
+            "article-title": "Eigenvalue ratio test for the number of factors",
+            "volume": "81",
+            "author": "Ahn,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021061811090323000_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "132",
+            "DOI": "10.1016/j.jfineco.2012.04.008",
+            "article-title": "Testing conditional factor models",
+            "volume": "106",
+            "author": "Ang,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B9",
+            "doi-asserted-by": "crossref",
+            "article-title": "Matrix completion methods for causal panel data models",
+            "author": "Athey,",
+            "year": "2018",
+            "DOI": "10.3386/w25132"
+        },
+        {
+            "key": "2021061811090323000_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1111/1468-0262.00273",
+            "article-title": "Determining the number of factors in approximate factor models",
+            "volume": "70",
+            "author": "Bai,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021061811090323000_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1016/j.jeconom.2019.04.021",
+            "article-title": "Rank regularized estimation of approximate factor models",
+            "volume": "212",
+            "author": "Bai,",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021061811090323000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1016/j.jfineco.2012.06.001",
+            "article-title": "Technical trading revisited: False discoveries, persistence tests, and transaction costs",
+            "volume": "106",
+            "author": "Bajgrowicz,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "36",
+            "DOI": "10.1016/j.jfineco.2011.02.008",
+            "article-title": "Do hedge funds\u2019 exposures to risk factors predict their future returns?",
+            "volume": "101",
+            "author": "Bali,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.06.008",
+            "article-title": "Macroeconomic risk and hedge fund returns",
+            "volume": "114",
+            "author": "Bali,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1017/S0022109000001848",
+            "article-title": "Survival, look-ahead bias, and persistence in hedge fund performance",
+            "volume": "40",
+            "author": "Baquero,",
+            "year": "2005",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2021061811090323000_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1111/j.1540-6261.2009.01527.x",
+            "article-title": "False discoveries in mutual fund performance: Measuring luck in estimated alphas",
+            "volume": "65",
+            "author": "Barras,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.2517-6161.1995.tb02031.x",
+            "article-title": "Controlling the false discovery rate: A practical and powerful approach to multiple testing",
+            "volume": "57",
+            "author": "Benjamini,",
+            "year": "1995",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "key": "2021061811090323000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/S0378-3758(99)00040-3",
+            "article-title": "A step-down multiple hypotheses testing procedure that controls the false discovery rate under independence",
+            "volume": "82",
+            "author": "Benjamini,",
+            "year": "1999",
+            "journal-title": "Journal of Statistical Planning and Inference"
+        },
+        {
+            "key": "2021061811090323000_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1165",
+            "DOI": "10.1214/aos/1013699998",
+            "article-title": "The control of the false discovery rate in multiple testing under dependency",
+            "volume": "29",
+            "author": "Benjamini,",
+            "year": "2001",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2021061811090323000_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2015.05.002",
+            "article-title": "Measuring skill in the mutual fund industry",
+            "volume": "118",
+            "author": "Berk,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2053",
+            "DOI": "10.1109/TIT.2010.2044061",
+            "article-title": "The power of convex relaxation: Near-optimal matrix completion",
+            "volume": "56",
+            "author": "Cand\u00e8s,",
+            "year": "2010",
+            "journal-title": "IEEE Transactions on Information Theory"
+        },
+        {
+            "key": "2021061811090323000_B22",
+            "doi-asserted-by": "crossref",
+            "article-title": "Individual stock-picking skills in active mutual funds",
+            "author": "Chen,",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3324672"
+        },
+        {
+            "key": "2021061811090323000_B23",
+            "doi-asserted-by": "crossref",
+            "article-title": "Testing many moment inequalities",
+            "author": "Chernozhukov,",
+            "year": "2013",
+            "DOI": "10.1920/wp.cem.2013.6513"
+        },
+        {
+            "key": "2021061811090323000_B24",
+            "doi-asserted-by": "crossref",
+            "article-title": "Anomalies and false rejections",
+            "author": "Chordia,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhaa018"
+        },
+        {
+            "key": "2021061811090323000_B25",
+            "volume-title": "Asset pricing: Revised edition",
+            "author": "Cochrane,",
+            "year": "2009"
+        },
+        {
+            "key": "2021061811090323000_B26",
+            "first-page": "1",
+            "article-title": "High-dimensional data analysis: The curses and blessings of dimensionality",
+            "author": "Donoho,",
+            "year": "2000",
+            "journal-title": "AMS Math Challenges Lecture"
+        },
+        {
+            "key": "2021061811090323000_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1042",
+            "DOI": "10.1198/jasa.2010.tm09129",
+            "article-title": "Correlated z-values and the accuracy of large-scale statistical estimates",
+            "volume": "105",
+            "author": "Efron,",
+            "year": "2010",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021061811090323000_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1915",
+            "DOI": "10.1111/j.1540-6261.2010.01598.x",
+            "article-title": "Luck versus skill in the cross-section of mutual fund returns",
+            "volume": "65",
+            "author": "Fama,",
+            "year": "2010",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1143",
+            "DOI": "10.1111/rssb.12204",
+            "article-title": "Estimation of the false discovery proportion with unknown dependence",
+            "volume": "79",
+            "author": "Fan,",
+            "year": "2016",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2021061811090323000_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1019",
+            "DOI": "10.1080/01621459.2012.720478",
+            "article-title": "Estimating False Discovery Proportion Under Arbitrary Covariance Dependence",
+            "volume": "107",
+            "author": "Fan,",
+            "year": "2012",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021061811090323000_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1327",
+            "DOI": "10.1111/jofi.12883",
+            "article-title": "Taming the factor zoo: A test of new factors",
+            "volume": "75",
+            "author": "Feng,",
+            "year": "2020",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B32",
+            "doi-asserted-by": "crossref",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "author": "Freyberger,",
+            "year": "2017",
+            "DOI": "10.3386/w23227"
+        },
+        {
+            "key": "2021061811090323000_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1093/rfs/10.2.275",
+            "article-title": "Empirical characteristics of dynamic trading strategies: The case of hedge funds",
+            "volume": "10",
+            "author": "Fung,",
+            "year": "1997",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2021061811090323000_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1093/rfs/14.2.313",
+            "article-title": "The risk in hedge fund strategies: Theory and evidence from trend followers",
+            "volume": "14",
+            "author": "Fung,",
+            "year": "2001",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2021061811090323000_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.2469/faj.v60.n5.2657",
+            "article-title": "Hedge fund benchmarks: A risk-based approach",
+            "volume": "60",
+            "author": "Fung,",
+            "year": "2004",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2021061811090323000_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1777",
+            "DOI": "10.1111/j.1540-6261.2008.01374.x",
+            "article-title": "Hedge funds: Performance, risk, and capital formation",
+            "volume": "63",
+            "author": "Fung,",
+            "year": "2008",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.1146/annurev-financial-110311-101741",
+            "article-title": "Hedge funds: A dynamic industry in transition",
+            "volume": "7",
+            "author": "Getmansky,",
+            "year": "2015",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B38",
+            "article-title": "Asset pricing with omitted factors",
+            "author": "Giglio,",
+            "year": "2017"
+        },
+        {
+            "key": "2021061811090323000_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "692",
+            "DOI": "10.1007/s11142-013-9231-1",
+            "article-title": "The supraview of return predictive signals",
+            "volume": "18",
+            "author": "Green,",
+            "year": "2013",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2021061811090323000_B40",
+            "article-title": "Empirical asset pricing via machine learning",
+            "author": "Gu,",
+            "year": "2018"
+        },
+        {
+            "key": "2021061811090323000_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "757",
+            "DOI": "10.2307/2532163",
+            "article-title": "Two guidelines for bootstrap hypothesis testing",
+            "volume": "47",
+            "author": "Hall,",
+            "year": "1991",
+            "journal-title": "Biometrics"
+        },
+        {
+            "key": "2021061811090323000_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1198/073500105000000063",
+            "article-title": "A test for superior predictive ability",
+            "volume": "23",
+            "author": "Hansen,",
+            "year": "2005",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2021061811090323000_B43",
+            "article-title": "False (and missed) discoveries in financial economics",
+            "author": "Harvey,",
+            "year": "2018"
+        },
+        {
+            "key": "2021061811090323000_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021061811090323000_B45",
+            "first-page": "65",
+            "article-title": "A Simple sequentially rejective multiple test procedure",
+            "volume": "6",
+            "author": "Holm,",
+            "year": "1979",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "key": "2021061811090323000_B46",
+            "first-page": "3159",
+            "article-title": "The bootstrap",
+            "volume-title": "Handbook of Econometrics",
+            "author": "Horowitz,",
+            "year": "2001",
+            "edition": "5"
+        },
+        {
+            "key": "2021061811090323000_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.1111/j.1540-6261.2009.01528.x",
+            "article-title": "Do hot hands exist among hedge fund managers? An empirical evaluation",
+            "volume": "65",
+            "author": "Jagannathan,",
+            "year": "2010",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B48",
+            "doi-asserted-by": "crossref",
+            "article-title": "Some characteristics are risk exposures, and the rest are irrelevant",
+            "author": "Kelly,",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.3032013"
+        },
+        {
+            "key": "2021061811090323000_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "2302",
+            "DOI": "10.1214/11-AOS894",
+            "article-title": "Nuclear-norm penalization and optimal rates for noisy low-rank matrix completion",
+            "volume": "39",
+            "author": "Koltchinskii,",
+            "year": "2011",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2021061811090323000_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1016/j.jfineco.2005.12.009",
+            "article-title": "Do hedge funds deliver alpha? A Bayesian and bootstrap analysis",
+            "volume": "84",
+            "author": "Kosowski,",
+            "year": "2007",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2021061811090323000_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "2551",
+            "DOI": "10.1111/j.1540-6261.2006.01015.x",
+            "article-title": "Can mutual fund \u201cstars\u201d really pick stocks? New evidence from a bootstrap analysis",
+            "volume": "61",
+            "author": "Kosowski,",
+            "year": "2006",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B52",
+            "doi-asserted-by": "crossref",
+            "article-title": "Shrinking the cross section",
+            "author": "Kozak,",
+            "year": "2017",
+            "DOI": "10.3386/w24070"
+        },
+        {
+            "key": "2021061811090323000_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "18718",
+            "DOI": "10.1073/pnas.0808709105",
+            "article-title": "A general framework for multiple testing dependence",
+            "volume": "105",
+            "author": "Leek,",
+            "year": "2008",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2021061811090323000_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "72",
+            "DOI": "10.2469/faj.v55.n4.2287",
+            "article-title": "On the performance of hedge funds",
+            "volume": "55",
+            "author": "Liang,",
+            "year": "1999",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2021061811090323000_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "11",
+            "DOI": "10.2469/faj.v57.n1.2415",
+            "article-title": "Hedge fund performance: 1990-1999",
+            "volume": "57",
+            "author": "Liang,",
+            "year": "2001",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2021061811090323000_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1696",
+            "DOI": "10.1214/aos/1176351062",
+            "article-title": "Bootstrap procedures under some non-i.i.d. models",
+            "volume": "16",
+            "author": "Liu,",
+            "year": "1988",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2021061811090323000_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1093/rfs/3.3.431",
+            "article-title": "Data-snooping biases in tests of financial asset pricing models",
+            "volume": "3",
+            "author": "Lo,",
+            "year": "1990",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2021061811090323000_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1007/s10107-009-0306-5",
+            "article-title": "Fixed point and bregman iterative methods for matrix rank minimization",
+            "volume": "128",
+            "author": "Ma,",
+            "year": "2011",
+            "journal-title": "Mathematical Programming"
+        },
+        {
+            "key": "2021061811090323000_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "255",
+            "DOI": "10.1214/aos/1176349025",
+            "article-title": "Bootstrap and wild bootstrap for high dimensional linear models",
+            "volume": "21",
+            "author": "Mammen,",
+            "year": "1993",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2021061811090323000_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "2135",
+            "DOI": "10.1111/0022-1082.00401",
+            "article-title": "Characteristics of risk and return in risk arbitrage",
+            "volume": "56",
+            "author": "Mitchell,",
+            "year": "2001",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B61",
+            "article-title": "Nuclear norm regularized estimation of panel regression models",
+            "author": "Moon,",
+            "year": "2018",
+            "journal-title": "arXiv"
+        },
+        {
+            "key": "2021061811090323000_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1111/jofi.12008",
+            "article-title": "On the high-frequency dynamics of hedge fund risk exposures",
+            "volume": "68",
+            "author": "Patton,",
+            "year": "2013",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2021061811090323000_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1468-0262.2005.00615.x",
+            "article-title": "Stepwise multiple testing as formalized data snooping",
+            "volume": "73",
+            "author": "Romano,",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021061811090323000_B64",
+            "first-page": "78",
+            "article-title": "Multiple testing of one-sided hypotheses: Combining bonferroni and the bootstrap",
+            "volume-title": "International conference of the Thailand Econometrics Society",
+            "author": "Romano,",
+            "year": "2018",
+            "edition": "753"
+        },
+        {
+            "key": "2021061811090323000_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1093/biomet/asq075",
+            "article-title": "The effect of correlation in false discovery rate estimation",
+            "volume": "98",
+            "author": "Schwartzman,",
+            "year": "2011",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021061811090323000_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "751",
+            "DOI": "10.1093/biomet/73.3.751",
+            "article-title": "An improved Bonferroni procedure for multiple tests of significance",
+            "volume": "73",
+            "author": "Simes,",
+            "year": "1986",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2021061811090323000_B67",
+            "doi-asserted-by": "crossref",
+            "article-title": "The allocative role of prime brokers",
+            "author": "Sinclair,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3222079"
+        },
+        {
+            "key": "2021061811090323000_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1198/073500102317351921",
+            "article-title": "Macroeconomic forecasting using diffusion indexes",
+            "volume": "20",
+            "author": "Stock,",
+            "year": "2002",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021061811090323000_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1111/1467-9868.00346",
+            "article-title": "A direct approach to false discovery rates",
+            "volume": "64",
+            "author": "Storey,",
+            "year": "2002",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2021061811090323000_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1111/j.1467-9868.2004.00439.x",
+            "article-title": "Strong control, conservative point estimation and simultaneous conservative consistency of false discovery rates: a unified approach",
+            "volume": "66",
+            "author": "Storey,",
+            "year": "2004",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2021061811090323000_B71",
+            "article-title": "On factor models with random missing: Em estimation, inference, and cross validation",
+            "author": "Su,",
+            "year": "2019"
+        },
+        {
+            "key": "2021061811090323000_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "1097",
+            "DOI": "10.1111/1468-0262.00152",
+            "article-title": "A reality check for data snooping",
+            "volume": "68",
+            "author": "White,",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021061811090323000_B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "1382",
+            "DOI": "10.1093/rfs/hhx001",
+            "article-title": "Fundamental analysis and the cross-section of stock returns: A data-mining approach",
+            "volume": "30",
+            "author": "Yan,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa111/33981417/hhaa111.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/7/3456/38692683/hhaa111.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/7/3456/38692683/hhaa111.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                18
+            ]
+        ],
+        "date-time": "2021-06-18T11:09:40Z",
+        "timestamp": 1624014580000
+    },
+    "score": 1,
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Wei",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                24
+            ]
+        ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+        "issue": "7",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    9,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    6,
+                    18
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa111",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                24
+            ]
+        ]
+    }
+}
