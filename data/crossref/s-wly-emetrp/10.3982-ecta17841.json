@@ -1,0 +1,133 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                22
+            ]
+        ],
+        "date-time": "2022-01-22T12:11:29Z",
+        "timestamp": 1642853489639
+    },
+    "reference-count": 53,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper studies causal inference in randomized experiments under network interference. Commonly used models of interference posit that treatments assigned to alters beyond a certain network distance from the ego have no effect on the ego's response. However, this assumption is violated in common models of social interactions. We propose a substantially weaker model of \u201capproximate neighborhood interference\u201d (ANI) under which treatments assigned to alters further from the ego have a smaller, but potentially nonzero, effect on the ego's response. We formally verify that ANI holds for well\u2010known models of social interactions. Under ANI, restrictions on the network topology, and asymptotics under which the network size increases, we prove that standard inverse\u2010probability weighting estimators consistently estimate useful exposure effects and are approximately normal. For inference, we consider a network HAC variance estimator. Under a finite population model, we show that the estimator is biased but that the bias can be interpreted as the variance of unit\u2010level exposure effects. This generalizes Neyman's well\u2010known result on conservative variance estimation to settings with interference.</jats:p>",
+    "DOI": "10.3982/ecta17841",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ],
+        "date-time": "2022-01-21T08:18:21Z",
+        "timestamp": 1642753101000
+    },
+    "page": "267-293",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Causal Inference Under Approximate Neighborhood Interference"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Michael P.",
+            "family": "Leung",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Southern California"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ],
+        "date-time": "2022-01-21T08:23:50Z",
+        "timestamp": 1642753430000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17841"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17841",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}

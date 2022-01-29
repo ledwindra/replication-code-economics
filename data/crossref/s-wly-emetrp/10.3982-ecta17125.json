@@ -1,0 +1,182 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                22
+            ]
+        ],
+        "date-time": "2022-01-22T12:42:15Z",
+        "timestamp": 1642855335233
+    },
+    "reference-count": 65,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "funder": [
+        {
+            "DOI": "10.13039/100009827",
+            "name": "Laura and John Arnold Foundation",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100001143",
+            "name": "William T. Grant Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Many schools in large urban districts have more applicants than seats. Centralized school assignment algorithms ration seats at over\u2010subscribed schools using randomly assigned lottery numbers, non\u2010lottery tie\u2010breakers like test scores, or both. The New York City public high school match illustrates the latter, using test scores and other criteria to rank applicants at the city's screened schools, combined with lottery tie\u2010breaking at the rest. We show how to identify causal effects of school attendance in such settings. Our approach generalizes regression discontinuity methods to allow for multiple treatments and multiple running variables, some of which are randomly assigned. The key to this generalization is a local propensity score that quantifies the school assignment probabilities induced by lottery and non\u2010lottery tie\u2010breakers. The utility of the local propensity score is demonstrated in an assessment of the predictive value of New York City's school report cards. Schools that earn the highest report card grade indeed improve SAT math scores and increase graduation rates, though by much less than OLS estimates suggest. Selection bias in OLS estimates of grade effects is egregious for screened schools.</jats:p>",
+    "DOI": "10.3982/ecta17125",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ],
+        "date-time": "2022-01-21T08:18:21Z",
+        "timestamp": 1642753101000
+    },
+    "page": "117-151",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Breaking Ties: Regression Discontinuity Design Meets Market Design"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Atila",
+            "family": "Abdulkadiroglu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Duke University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Joshua D.",
+            "family": "Angrist",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Yusuke",
+            "family": "Narita",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Parag",
+            "family": "Pathak",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ],
+        "date-time": "2022-01-21T08:21:36Z",
+        "timestamp": 1642753296000
+    },
+    "score": 1,
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17125"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17125",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}
