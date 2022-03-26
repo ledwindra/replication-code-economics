@@ -1,0 +1,158 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                17
+            ]
+        ],
+        "date-time": "2022-03-17T06:41:38Z",
+        "timestamp": 1647499298324
+    },
+    "reference-count": 19,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We study discrete panel data methods where unobserved heterogeneity is revealed in a first step, in environments where population heterogeneity is not discrete. We focus on \n            <jats:italic>two\u2010step grouped fixed\u2010effects</jats:italic> (GFE) estimators, where individuals are first classified into groups using \n            <jats:italic>kmeans</jats:italic> clustering, and the model is then estimated allowing for group\u2010specific heterogeneity. Our framework relies on two key properties: heterogeneity is a function\u2014possibly nonlinear and time\u2010varying\u2014of a low\u2010dimensional continuous latent type, and informative moments are available for classification. We illustrate the method in a model of wages and labor market participation, and in a probit model with time\u2010varying heterogeneity. We derive asymptotic expansions of two\u2010step GFE estimators as the number of groups grows with the two dimensions of the panel. We propose a data\u2010driven rule for the number of groups, and discuss bias reduction and inference.\n          </jats:p>",
+    "DOI": "10.3982/ecta15238",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                17
+            ]
+        ],
+        "date-time": "2022-03-17T06:12:45Z",
+        "timestamp": 1647497565000
+    },
+    "page": "625-643",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Discretizing Unobserved Heterogeneity"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "St\u00e9phane",
+            "family": "Bonhomme",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Kenneth C. Griffin Department of Economics, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Thibaut",
+            "family": "Lamadon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kenneth C. Griffin Department of Economics, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Elena",
+            "family": "Manresa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, New York University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                17
+            ]
+        ],
+        "date-time": "2022-03-17T06:15:19Z",
+        "timestamp": 1647497719000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA15238"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA15238"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta15238",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}
