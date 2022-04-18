@@ -1,0 +1,412 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                31
+            ]
+        ],
+        "date-time": "2022-03-31T05:00:33Z",
+        "timestamp": 1648702833610
+    },
+    "reference-count": 18,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        19
+                    ]
+                ],
+                "date-time": "2019-09-19T00:00:00Z",
+                "timestamp": 1568851200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Our paper explores whether a symmetric plain or an asymmetric down-beta is a better hedging measure (Roy 1952; Markowitz 1959). Unlike Ang, Chen, and Xing (2006) and Lettau, Maggiori, and Weber (2014), we find that the prevailing plain market beta is the better predictor, even for crashes. It also predicts the subsequent down-beta (i.e., beta measured only on days when the stock market had declined) better than down-beta itself. Stocks with higher down-betas ex ante also do not earn higher average rates of return ex post. Thus, down-betas are useful for neither hedging nor risk-pricing purposes.</jats:p>",
+    "DOI": "10.1093/rfs/hhz108",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                12
+            ]
+        ],
+        "date-time": "2019-09-12T19:33:12Z",
+        "timestamp": 1568316792000
+    },
+    "page": "2772-2795",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+        "Symmetric and Asymmetric Market Betas and Downside Risk"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Yaron",
+            "family": "Levi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Marshall School at USC"
+                }
+            ]
+        },
+        {
+            "given": "Ivo",
+            "family": "Welch",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Anderson School at UCLA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                19
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020052012581738000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.1093/rfs/hhj035",
+            "article-title": "Downside risk",
+            "volume": "19",
+            "author": "Ang,",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581738000_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "189",
+            "DOI": "10.1016/0304-405X(77)90017-4",
+            "article-title": "Capital market equilibrium in a mean-lower partial moment framework",
+            "volume": "5",
+            "author": "Bawa,",
+            "year": "1977",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B3",
+            "article-title": "The capital asset pricing model: Some empirical tests",
+            "volume-title": "Studies in the theory of capital markets",
+            "author": "Black,",
+            "year": "1972"
+        },
+        {
+            "key": "2020052012581738000_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.1016/j.jfineco.2011.06.002",
+            "article-title": "Conditional risk and performance evaluation: Volatility timing, overconditioning, and new estimates of momentum alphas",
+            "volume": "102",
+            "author": "Boguth,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020052012581738000_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.10.005",
+            "article-title": "Betting against beta",
+            "volume": "111",
+            "author": "Frazzini,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "A comprehensive look at the empirical performance of equity premium prediction",
+            "volume": "21",
+            "author": "Goyal,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581738000_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.2307/1913601",
+            "article-title": "The role of conditioning information in deducing testable restrictions implied by dynamic asset pricing models",
+            "volume": "55",
+            "author": "Hansen,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581738000_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.2307/2330813",
+            "article-title": "Asset pricing in a generalized mean-lower partial moment framework: Theory and evidence",
+            "volume": "24",
+            "author": "Harlow,",
+            "year": "1989",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020052012581738000_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "...and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581738000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "513",
+            "DOI": "10.2307/2330199",
+            "article-title": "E-v and e-s capital asset pricing models: Some empirical tests",
+            "volume": "11",
+            "author": "Jahankhani,",
+            "year": "1976",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020052012581738000_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1016/j.jfineco.2014.07.001",
+            "article-title": "Conditional risk premia in currency markets and other asset classes",
+            "volume": "114",
+            "author": "Lettau,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1016/j.jfineco.2005.05.012",
+            "article-title": "The conditional capm does not explain asset-pricing anomalies",
+            "volume": "82",
+            "author": "Lewellen,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "736",
+            "DOI": "10.1016/j.jfineco.2018.09.006",
+            "article-title": "Bear beta",
+            "volume": "131",
+            "author": "Lu,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581738000_B16",
+            "volume-title": "Portfolio selection: Efficient diversification of investments",
+            "author": "Markowitz,",
+            "year": "1959"
+        },
+        {
+            "key": "2020052012581738000_B17",
+            "first-page": "921",
+            "article-title": "Increasing downside risk",
+            "volume": "70",
+            "author": "Menezes,",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2020052012581738000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.2307/1907413",
+            "article-title": "Safety first and the holding of assets",
+            "volume": "20",
+            "author": "Roy,",
+            "year": "1952",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhz108/30489758/hhz108.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/6/2772/33242089/hhz108.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/6/2772/33242089/hhz108.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ],
+        "date-time": "2020-05-20T18:52:39Z",
+        "timestamp": 1590000759000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/33/6/2772/5571734"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                19
+            ]
+        ]
+    },
+    "references-count": 18,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    9,
+                    19
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz108",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2020,
+                6
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2019,
+                9,
+                19
+            ]
+        ]
+    }
+}

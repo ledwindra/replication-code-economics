@@ -1,0 +1,852 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                7
+            ]
+        ],
+        "date-time": "2022-04-07T14:06:29Z",
+        "timestamp": 1649340389005
+    },
+    "reference-count": 62,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        1
+                    ]
+                ],
+                "date-time": "2019-07-01T00:00:00Z",
+                "timestamp": 1561939200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose a methodology for estimating and testing beta-pricing models when a large number of assets is available for investment but the number of time-series observations is fixed. We first consider the case of correctly specified models with constant risk premia, and then extend our framework to deal with time-varying risk premia, potentially misspecified models, firm characteristics, and unbalanced panels. We show that our large cross-sectional framework poses a serious challenge to common empirical findings regarding the validity of beta-pricing models. In the context of pricing models with Fama-French factors, firm characteristics are found to explain a much larger proportion of variation in estimated expected returns than betas.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhz064",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                25
+            ]
+        ],
+        "date-time": "2019-06-25T13:04:34Z",
+        "timestamp": 1561467874000
+    },
+    "page": "2796-2842",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+        "Testing Beta-Pricing Models Using Large Cross-Sections"
+    ],
+    "prefix": "10.1093",
+    "volume": "33",
+    "author": [
+        {
+            "given": "Valentina",
+            "family": "Raponi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Imperial College London"
+                }
+            ]
+        },
+        {
+            "given": "Cesare",
+            "family": "Robotti",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Warwick"
+                }
+            ]
+        },
+        {
+            "given": "Paolo",
+            "family": "Zaffaroni",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Imperial College London"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                1
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2020052012581183000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1417",
+            "DOI": "10.1017/S0022109017001120",
+            "article-title": "Beta matrix and common factors in stock returns.",
+            "volume": "53",
+            "author": "Ahn,",
+            "year": "2018",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020052012581183000_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jempfin.2012.10.004",
+            "article-title": "Two-pass estimation of risk premiums with multicollinear and near-invariant betas.",
+            "volume": "20",
+            "author": "Ahn,",
+            "year": "2013",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2020052012581183000_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "132",
+            "DOI": "10.1016/j.jfineco.2012.04.008",
+            "article-title": "Testing conditional factor models.",
+            "volume": "106",
+            "author": "Ang,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B4",
+            "article-title": "Using stocks or portfolios in tests of factor models.",
+            "author": "Ang,",
+            "year": "",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020052012581183000_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.frl.2015.08.001",
+            "article-title": "Fama-MacBeth two-pass regressions: Improving risk premia estimates.",
+            "volume": "15",
+            "author": "Bai,",
+            "year": "2015",
+            "journal-title": "Finance Research Letters"
+        },
+        {
+            "key": "2020052012581183000_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1198/073500108000000042",
+            "article-title": "Mimicking portfolios, economic risk premia, and tests of multi-beta models.",
+            "volume": "26",
+            "author": "Balduzzi,",
+            "year": "2008",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2020052012581183000_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1316",
+            "DOI": "10.1093/rfs/hhw101",
+            "article-title": "Which Alpha?",
+            "volume": "30",
+            "author": "Barillas,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1111/j.1540-6261.2009.01527.x",
+            "article-title": "False discoveries in mutual fund performance: Measuring luck in estimated alphas.",
+            "volume": "65",
+            "author": "Barras,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "407",
+            "DOI": "10.1111/0022-1082.00210",
+            "article-title": "Sorting out sorts.",
+            "volume": "55",
+            "author": "Berk,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B10",
+            "article-title": "The capital asset pricing model: Some empirical tests",
+            "volume-title": "Studies in the theory of capital markets",
+            "author": "Black,",
+            "year": "1972"
+        },
+        {
+            "key": "2020052012581183000_B11",
+            "first-page": "231",
+            "article-title": "Empirical tests of the consumption-oriented CAPM.",
+            "volume": "44",
+            "author": "Breeden,",
+            "year": "1989",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B12",
+            "first-page": "345",
+            "article-title": "Alternative factor specifications, security characteristics, and the cross-section of expected stock returns.",
+            "volume": "49",
+            "author": "Brennan,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B13",
+            "article-title": "Spurious factors in linear asset pricing models",
+            "author": "Bryzgalova,",
+            "year": "2016"
+        },
+        {
+            "key": "2020052012581183000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1093/jjfinec/nbv018",
+            "article-title": "Identification and inference in linear stochastic discount factor models with excess returns.",
+            "volume": "14",
+            "author": "Burnside,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2020052012581183000_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1305",
+            "DOI": "10.2307/1912276",
+            "article-title": "Funds, factors, and diversification in arbitrage pricing models.",
+            "volume": "51",
+            "author": "Chamberlain,",
+            "year": "1983",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581183000_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1281",
+            "DOI": "10.2307/1912275",
+            "article-title": "Arbitrage, factor structure, and mean-variance analysis on large asset markets.",
+            "volume": "51",
+            "author": "Chamberlain,",
+            "year": "1983",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581183000_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.2307/2331306",
+            "article-title": "The risk and return from factors.",
+            "volume": "33",
+            "author": "Chan,",
+            "year": "1998",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2020052012581183000_B18",
+            "article-title": "Finite sample analysis of two-pass cross-sectional regressions",
+            "author": "Chen,",
+            "year": "2004"
+        },
+        {
+            "key": "2020052012581183000_B19",
+            "doi-asserted-by": "crossref",
+            "article-title": "Cross-sectional asset pricing with individual stocks: Betas versus characteristics",
+            "author": "Chordia,",
+            "year": "2015",
+            "DOI": "10.2139/ssrn.2549578"
+        },
+        {
+            "key": "2020052012581183000_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.3982/ECTA7432",
+            "article-title": "Effcient semiparametric estimation of the Fama-French model and extensions.",
+            "volume": "80",
+            "author": "Connor,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581183000_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1540-6261.1997.tb03806.x",
+            "article-title": "Evidence on the characteristics of cross sectional variation in stock returns.",
+            "volume": "52",
+            "author": "Daniel,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B22",
+            "article-title": "A transaction-cost perspective on the multitude of firm characteristics.",
+            "author": "DeMiguel,",
+            "year": "",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds.",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model.",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests.",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020052012581183000_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1086/261755",
+            "article-title": "The variation of economic risk premiums.",
+            "volume": "99",
+            "author": "Ferson,",
+            "year": "1991",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020052012581183000_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.3982/ECTA11069",
+            "article-title": "Time-varying risk premium in large cross-sectional equity data sets.",
+            "volume": "84",
+            "author": "Gagliardini,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581183000_B28",
+            "article-title": "A diagnostic criterion for approximate factor structure",
+            "author": "Gagliardini, Ossola, and Scaillet",
+            "year": "2018"
+        },
+        {
+            "key": "2020052012581183000_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.2307/1913625",
+            "article-title": "A test of the efficiency of a given portfolio.",
+            "volume": "57",
+            "author": "Gibbons,",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581183000_B30",
+            "doi-asserted-by": "crossref",
+            "article-title": "Inference on risk premia in the presence of omitted factors",
+            "author": "Giglio,",
+            "year": "2017",
+            "DOI": "10.3386/w23527"
+        },
+        {
+            "key": "2020052012581183000_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "2139",
+            "DOI": "10.1093/rfs/hht135",
+            "article-title": "Misspecification-robust inference in linear asset-pricing models with irrelevant risk factors.",
+            "volume": "27",
+            "author": "Gospodinov,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1613",
+            "DOI": "10.3982/ECTA13750",
+            "article-title": "Spurious inference in reduced-rank asset-pricing models.",
+            "volume": "85",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2020052012581183000_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1016/j.jfineco.2018.10.012",
+            "article-title": "Too good to be true? Fallacies in evaluating risk factor models.",
+            "volume": "132",
+            "author": "Gospodinov, Kan, and Robotti",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B34",
+            "author": "Greene,",
+            "year": "2003",
+            "journal-title": "Econometric analysis"
+        },
+        {
+            "key": "2020052012581183000_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1080/07350015.2015.1019510",
+            "article-title": "Multivariate tests of mean-variance efficiency and spanning with a large number of assets and time-varying covariances.",
+            "volume": "34",
+            "author": "Gungor,",
+            "year": "2016",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2020052012581183000_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "$\\ldots$ and the cross-section of expected returns.",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2527",
+            "DOI": "10.1093/rfs/hhr013",
+            "article-title": "What factors drive global stock returns?",
+            "volume": "24",
+            "author": "Hou,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B38",
+            "article-title": "On the estimation of risk premia in linear factor models",
+            "author": "Hou,",
+            "year": "2006"
+        },
+        {
+            "key": "2020052012581183000_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1021",
+            "DOI": "10.1111/j.1540-6261.1984.tb03890.x",
+            "article-title": "Some results in the theory of arbitrage pricing.",
+            "volume": "39",
+            "author": "Ingersoll,",
+            "year": "1984",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B40",
+            "first-page": "73",
+            "article-title": "The analysis of the cross-section of security returns",
+            "volume": "2",
+            "author": "Jagannathan,",
+            "year": "2010",
+            "journal-title": "Handbooks in finance"
+        },
+        {
+            "key": "2020052012581183000_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1285",
+            "DOI": "10.1111/0022-1082.00053",
+            "article-title": "An asymptotic theory for estimating beta-pricing models using cross-sectional regression.",
+            "volume": "53",
+            "author": "Jagannathan,",
+            "year": "1998",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B42",
+            "article-title": "Empirical tests of asset pricing models with individual assets: Resolving the errors-in-variables bias in risk premium estimation.",
+            "author": "Jegadeesh,",
+            "year": "",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1007/978-3-642-17254-0_9",
+            "article-title": "Evaluation of asset pricing models using two-pass cross-sectional regressions. In",
+            "volume-title": "Handbook of computational finance",
+            "author": "Kan,",
+            "year": "2012"
+        },
+        {
+            "key": "2020052012581183000_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "2617",
+            "DOI": "10.1111/jofi.12035",
+            "article-title": "Pricing model performance and the two-pass cross-sectional regression methodology.",
+            "volume": "68",
+            "author": "Kan,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1016/S0304-405X(99)00033-1",
+            "article-title": "GMM tests of stochastic discount factor models with useless factors.",
+            "volume": "54",
+            "author": "Kan,",
+            "year": "1999",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1111/0022-1082.00102",
+            "article-title": "Two-pass tests of asset pricing models with useless factors.",
+            "volume": "54",
+            "author": "Kan and Zhang",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2020052012581183000_B47",
+            "article-title": "Characteristics are covariances: A unified model of risk and return.",
+            "author": "Kelly,",
+            "year": "",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1016/j.jeconom.2018.01.007",
+            "article-title": "Ex-post risk premia estimation and asset pricing tests using large cross sections: The regression-calibration approach.",
+            "volume": "204",
+            "author": "Kim,",
+            "year": "2018",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020052012581183000_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.1016/j.jeconom.2009.01.013",
+            "article-title": "Tests of risk premia in linear factor models.",
+            "volume": "149",
+            "author": "Kleibergen,",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020052012581183000_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1093/jjfinec/nby005",
+            "article-title": "Identification-robust inference on risk premia of mimicking portfolios of non-traded factors.",
+            "volume": "16",
+            "author": "Kleibergen,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2020052012581183000_B51",
+            "doi-asserted-by": "crossref",
+            "article-title": "Robust inference for consumption-based asset pricing",
+            "author": "Kleibergen and Zhan",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3387882"
+        },
+        {
+            "key": "2020052012581183000_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "2718",
+            "DOI": "10.1093/rfs/hht026",
+            "article-title": "Firm characteristics and stock returns: The role of investment-specific shocks.",
+            "volume": "26",
+            "author": "Kogan,",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.jeconom.2013.02.004",
+            "article-title": "Limit theory for panel data models with cross sectional dependence and sequential exogeneity.",
+            "volume": "174",
+            "author": "Kuersteiner,",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020052012581183000_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1016/S0304-4076(01)00074-4",
+            "article-title": "Economic tracking portfolios.",
+            "volume": "105",
+            "author": "Lamont,",
+            "year": "2001",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2020052012581183000_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jfineco.2009.09.001",
+            "article-title": "A skeptical appraisal of asset pricing tests.",
+            "volume": "96",
+            "author": "Lewellen,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/0304-405X(79)90012-6",
+            "article-title": "The effect of personal taxes and dividends on capital asset prices: Theory and empirical evidence.",
+            "volume": "7",
+            "author": "Litzenberger,",
+            "year": "1979",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2020052012581183000_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/374184",
+            "article-title": "Liquidity risk and expected stock returns.",
+            "volume": "111",
+            "author": "P\u00e1stor",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2020052012581183000_B58",
+            "doi-asserted-by": "crossref",
+            "article-title": "Testing CAPM with a large number of assets",
+            "author": "Pesaran,",
+            "year": "2012",
+            "DOI": "10.2139/ssrn.2020423"
+        },
+        {
+            "key": "2020052012581183000_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1016/0022-0531(76)90046-6",
+            "article-title": "The arbitrage theory of capital asset pricing.",
+            "volume": "13",
+            "author": "Ross,",
+            "year": "1976",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2020052012581183000_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/5.1.1",
+            "article-title": "On the estimation of beta-pricing models.",
+            "volume": "5",
+            "author": "Shanken,",
+            "year": "1992",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2020052012581183000_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "693",
+            "DOI": "10.1016/S0169-7161(96)14025-6",
+            "article-title": "23 statistical methods in tests of portfolio efficiency: A synthesis",
+            "volume": "14",
+            "author": "Shanken",
+            "year": "1996",
+            "journal-title": "Handbook of statistics"
+        },
+        {
+            "key": "2020052012581183000_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1016/j.jfineco.2006.02.003",
+            "article-title": "Estimating and testing beta pricing models: Alternative methods and their performance in simulations.",
+            "volume": "84",
+            "author": "Shanken,",
+            "year": "2007",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhz064/30001181/hhz064.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/6/2796/33242116/hhz064.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/33/6/2796/33242116/hhz064.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ],
+        "date-time": "2020-05-20T18:51:08Z",
+        "timestamp": 1590000668000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/33/6/2796/5525401"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                1
+            ]
+        ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    1
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhz064",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2020,
+                6
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                1
+            ]
+        ]
+    }
+}

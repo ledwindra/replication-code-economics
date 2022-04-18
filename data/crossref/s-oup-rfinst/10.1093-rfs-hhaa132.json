@@ -1,0 +1,509 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                31
+            ]
+        ],
+        "date-time": "2022-03-31T23:23:21Z",
+        "timestamp": 1648769001229
+    },
+    "reference-count": 33,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "11",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        9
+                    ]
+                ],
+                "date-time": "2021-02-09T00:00:00Z",
+                "timestamp": 1612828800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                18
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We introduce aggregate transmission shocks to an epidemic model and link firm valuations to infections via an asset pricing framework with vaccines. Infections lower earnings growth but firms can mitigate damages. We estimate a large reproduction number ${\\mathcal R}_0$ and transmission volatility for COVID-19. Using these estimates, we quantify the bias of deterministic approximations based on ${\\mathcal R}_0$. Our model generates predictions consistent with the data: unexpected infection resurgence, nonmonotonic mitigation policies, and higher price-to-earnings ratios during a pandemic. Valuations would be significantly lower absent mitigation and a high vaccine arrival rate.</jats:p>",
+    "DOI": "10.1093/rfs/hhaa132",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                11,
+                18
+            ]
+        ],
+        "date-time": "2020-11-18T21:08:53Z",
+        "timestamp": 1605733733000
+    },
+    "page": "5224-5265",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Implications of Stochastic Transmission Rates for Managing Pandemic Risks"
+    ],
+    "prefix": "10.1093",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Harrison",
+            "family": "Hong",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Columbia University and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Neng",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia University and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Jinqiang",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Finance, Shanghai University of Finance and Economics"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021101819024880700_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0025-5564(99)00047-4",
+            "article-title": "Comparison of deterministic and stochastic SIS and SIR models in discrete time",
+            "volume": "163",
+            "author": "Allen",
+            "year": "2000",
+            "journal-title": "Mathematical Biosciences"
+        },
+        {
+            "key": "2021101819024880700_B2",
+            "doi-asserted-by": "crossref",
+            "article-title": "A simple planning problem for COVID-19 lockdown",
+            "author": "Alvarez",
+            "year": "2020",
+            "DOI": "10.3386/w26981"
+        },
+        {
+            "key": "2021101819024880700_B3",
+            "article-title": "Pandemic, shutdown and consumer spending: Lessons from Scandinavian responses to COVID\u201319",
+            "author": "Andersen",
+            "year": "2020",
+            "journal-title": "arXiv, preprint"
+        },
+        {
+            "key": "2021101819024880700_B4",
+            "volume-title": "Stochastic epidemic models and their statistical analysis",
+            "author": "Andersson",
+            "year": "2012"
+        },
+        {
+            "key": "2021101819024880700_B5",
+            "doi-asserted-by": "crossref",
+            "article-title": "What will be the economic impact of COVID-19 in the US? Rough estimates of disease scenarios",
+            "author": "Atkeson",
+            "year": "2020",
+            "DOI": "10.3386/w26867"
+        },
+        {
+            "key": "2021101819024880700_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1086/260062",
+            "article-title": "The pricing of options and corporate liabilities",
+            "volume": "81",
+            "author": "Black",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021101819024880700_B7",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Lecture notes in mathematical epidemiology",
+            "author": "Brauer",
+            "year": "2008",
+            "DOI": "10.1007/978-3-540-78911-6"
+        },
+        {
+            "key": "2021101819024880700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "726",
+            "DOI": "10.1239/jap/1127322023",
+            "article-title": "A stochastic SIS infection model incorporating indirect transmission",
+            "volume": "42",
+            "author": "Clancy",
+            "year": "2005",
+            "journal-title": "Journal of applied probability"
+        },
+        {
+            "key": "2021101819024880700_B9",
+            "volume-title": "Asset pricing,",
+            "author": "Cochrane",
+            "year": "2009"
+        },
+        {
+            "key": "2021101819024880700_B10",
+            "volume-title": "Dynamic asset pricing theory",
+            "author": "Duffie",
+            "year": "2001"
+        },
+        {
+            "key": "2021101819024880700_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.1093/biostatistics/kxs052",
+            "article-title": "Capturing the time-varying drivers of an epidemic using stochastic dynamical systems",
+            "volume": "14",
+            "author": "Dureau",
+            "year": "2013",
+            "journal-title": "Biostatistics"
+        },
+        {
+            "key": "2021101819024880700_B12",
+            "article-title": "The macroeconomics of epidemics",
+            "author": "Eichenbaum",
+            "year": "2021"
+        },
+        {
+            "key": "2021101819024880700_B13",
+            "article-title": "Can the COVID bailouts save the economy?",
+            "author": "Elenev",
+            "year": "2020"
+        },
+        {
+            "key": "2021101819024880700_B14",
+            "doi-asserted-by": "crossref",
+            "article-title": "Internal and external effects of social distancing in a pandemic",
+            "author": "Farboodi",
+            "year": "2020",
+            "DOI": "10.3386/w27059"
+        },
+        {
+            "key": "2021101819024880700_B15",
+            "volume-title": "Financial stability report",
+            "year": "2020"
+        },
+        {
+            "key": "2021101819024880700_B16",
+            "article-title": "Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID\u201319 mortality and healthcare demand",
+            "author": "Ferguson",
+            "year": "2020",
+            "journal-title": "Report, Imperial College London"
+        },
+        {
+            "key": "2021101819024880700_B17",
+            "doi-asserted-by": "crossref",
+            "article-title": "Coronavirus: Impact on stock prices and growth expectations",
+            "author": "Gormsen",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3555917"
+        },
+        {
+            "key": "2021101819024880700_B18",
+            "article-title": "Flattening the pandemic and recession curves",
+            "author": "Gourinchas",
+            "year": "2020"
+        },
+        {
+            "key": "2021101819024880700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "876",
+            "DOI": "10.1137/10081856X",
+            "article-title": "A stochastic differential equation SIS epidemic model",
+            "volume": "71",
+            "author": "Gray",
+            "year": "2011",
+            "journal-title": "SIAM Journal on Applied Mathematics"
+        },
+        {
+            "key": "2021101819024880700_B20",
+            "doi-asserted-by": "crossref",
+            "article-title": "Pandemics, vaccines and corporate earnings",
+            "author": "Hong",
+            "year": "2020",
+            "DOI": "10.3386/w27829"
+        },
+        {
+            "key": "2021101819024880700_B21",
+            "article-title": "Mitigating disaster risks in the age of climate change",
+            "author": "Hong",
+            "year": "2020."
+        },
+        {
+            "key": "2021101819024880700_B22",
+            "article-title": "Report 3: transmissibility of 2019\u2013nCoV",
+            "author": "Imai",
+            "year": "2020",
+            "journal-title": "Report, Imperial College London"
+        },
+        {
+            "key": "2021101819024880700_B23",
+            "first-page": "700",
+            "article-title": "A contribution to the mathematical theory of epidemics",
+            "volume": "115",
+            "author": "Kermack",
+            "year": "1927",
+            "journal-title": "Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character"
+        },
+        {
+            "key": "2021101819024880700_B24",
+            "article-title": "Optimal control of an epidemic through social distancing",
+            "author": "Kruse",
+            "year": "2020"
+        },
+        {
+            "key": "2021101819024880700_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "P553",
+            "DOI": "10.1016/S1473-3099(20)30144-4",
+            "article-title": "Early dynamics of transmission and control of COVID\u201319: A mathematical modelling study",
+            "volume": "5",
+            "author": "Kucharski",
+            "year": "2020",
+            "journal-title": "Lancet Infectious Diseases"
+        },
+        {
+            "key": "2021101819024880700_B26",
+            "doi-asserted-by": "publisher",
+            "article-title": "Earnings expectations in the COVID-19 crisis",
+            "author": "Landier",
+            "year": "2020",
+            "journal-title": "Review of Asset Pricing Studies",
+            "DOI": "10.1093/rapstu/raaa016"
+        },
+        {
+            "key": "2021101819024880700_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1429",
+            "DOI": "10.2307/1913837",
+            "article-title": "Asset prices in an exchange economy",
+            "volume": "46",
+            "author": "Lucas",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021101819024880700_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1126/science.abb3221",
+            "article-title": "Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS\u2013CoV\u20132)",
+            "volume": "368",
+            "author": "Li",
+            "year": "2020",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2021101819024880700_B29",
+            "doi-asserted-by": "publisher",
+            "article-title": "Estimating the COVID-19 infection rate: Anatomy of an inference problem",
+            "author": "Manski",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics",
+            "DOI": "10.1016/j.jeconom.2020.04.041"
+        },
+        {
+            "key": "2021101819024880700_B30",
+            "article-title": "On pins and needles: Will COVID-19 vaccines save the world",
+            "year": "2020."
+        },
+        {
+            "key": "2021101819024880700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/0022-0531(71)90038-X",
+            "article-title": "Optimum consumption and portfolio rules in a continuous-time model",
+            "volume": "3",
+            "author": "Merton",
+            "year": "1971",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021101819024880700_B32",
+            "first-page": "425",
+            "article-title": "Capital asset prices: A theory of market equilibrium under conditions of risk",
+            "volume": "19",
+            "author": "Sharpe",
+            "year": "1964",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2021101819024880700_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "718",
+            "DOI": "10.1016/j.amc.2014.05.124",
+            "article-title": "The threshold of a stochastic SIS epidemic model with vaccination",
+            "volume": "243",
+            "author": "Zhao",
+            "year": "2014",
+            "journal-title": "Applied Mathematics and Computation"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaa132/36216796/hhaa132.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/11/5224/40724226/hhaa132.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/rfs/article-pdf/34/11/5224/40724226/hhaa132.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                20
+            ]
+        ],
+        "date-time": "2021-10-20T22:24:24Z",
+        "timestamp": 1634768664000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/34/11/5224/6131442"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                9
+            ]
+        ]
+    },
+    "references-count": 33,
+    "journal-issue": {
+        "issue": "11",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    2,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    10,
+                    18
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhaa132",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                9
+            ]
+        ]
+    }
+}
