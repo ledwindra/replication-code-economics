@@ -1,0 +1,1017 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                29
+            ]
+        ],
+        "date-time": "2022-03-29T17:30:14Z",
+        "timestamp": 1648575014169
+    },
+    "reference-count": 69,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        10,
+                        20
+                    ]
+                ],
+                "date-time": "2021-10-20T00:00:00Z",
+                "timestamp": 1634688000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001809",
+            "name": "National Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "62172274",
+                "32070662",
+                "61832019",
+                "32030063"
+            ]
+        },
+        {
+            "name": "Ministry of Science and Technology of China",
+            "award": [
+                "2016YFA0501703"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100003399",
+            "name": "Science and Technology Commission of Shanghai Municipality",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "19430750600"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100004921",
+            "name": "Shanghai Jiao Tong University",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "ZH2018QNA41",
+                "YG2019GD01",
+                "YG2019ZDA12",
+                "YG2021ZD02"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                17
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>One of the main problems with the joint use of multiple drugs is that it may cause adverse drug interactions and side effects that damage the body. Therefore, it is important to predict potential drug interactions. However, most of the available prediction methods can only predict whether two drugs interact or not, whereas few methods can predict interaction events between two drugs. Accurately predicting interaction events of two drugs is more useful for researchers to study the mechanism of the interaction of two drugs. In the present study, we propose a novel method, MDF-SA-DDI, which predicts drug\u2013drug interaction (DDI) events based on multi-source drug fusion, multi-source feature fusion and transformer self-attention mechanism. MDF-SA-DDI is mainly composed of two parts: multi-source drug fusion and multi-source feature fusion. First, we combine two drugs in four different ways and input the combined drug feature representation into four different drug fusion networks (Siamese network, convolutional neural network and two auto-encoders) to obtain the latent feature vectors of the drug pairs, in which the two auto-encoders have the same structure, and their main difference is the number of neurons in the input layer of the two auto-encoders. Then, we use transformer blocks that include self-attention mechanism to perform latent feature fusion. We conducted experiments on three different tasks with two datasets. On the small dataset, the area under the precision\u2013recall-curve (AUPR) and F1 scores of our method on task 1 reached 0.9737 and 0.8878, respectively, which were better than the state-of-the-art method. On the large dataset, the AUPR and F1 scores of our method on task 1 reached 0.9773 and 0.9117, respectively. In task 2 and task 3 of two datasets, our method also achieved the same or better performance as the state-of-the-art method. More importantly, the case studies on five DDI events are conducted and achieved satisfactory performance. The source codes and data are available at https://github.com/ShenggengLin/MDF-SA-DDI.</jats:p>",
+    "DOI": "10.1093/bib/bbab421",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                14
+            ]
+        ],
+        "date-time": "2021-09-14T11:11:44Z",
+        "timestamp": 1631617904000
+    },
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "MDF-SA-DDI: predicting drug\u2013drug interaction events based on multi-source drug fusion, multi-source feature fusion and transformer self-attention mechanism"
+    ],
+    "prefix": "10.1093",
+    "volume": "23",
+    "author": [
+        {
+            "given": "Shenggeng",
+            "family": "Lin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Yanjing",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Lingfeng",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Electrical Engineering and Computer Science, University of Ottawa, Canada"
+                }
+            ]
+        },
+        {
+            "given": "Yanyi",
+            "family": "Chu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Yatong",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Yitian",
+            "family": "Fang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Mingming",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Qiankun",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "given": "Bowen",
+            "family": "Zhao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-2910-6725",
+            "authenticated-orcid": false,
+            "given": "Yi",
+            "family": "Xiong",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-4200-7502",
+            "authenticated-orcid": false,
+            "given": "Dong-Qing",
+            "family": "Wei",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai 200030, P.R. China"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022011921215515200_ref1",
+            "doi-asserted-by": "crossref",
+            "first-page": "i457",
+            "DOI": "10.1093/bioinformatics/bty294",
+            "article-title": "Modeling polypharmacy side effects with graph convolutional networks",
+            "volume": "34",
+            "author": "Zitnik",
+            "year": "2018",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref2",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1186/s12859-019-3013-0",
+            "article-title": "Novel deep learning model for more accurate prediction of drug-drug interaction effects",
+            "volume": "20",
+            "author": "Lee",
+            "year": "2019",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref3",
+            "doi-asserted-by": "crossref",
+            "first-page": "4316",
+            "DOI": "10.1093/bioinformatics/btaa501",
+            "article-title": "A multimodal deep learning framework for predicting drug\u2013drug interaction events",
+            "volume": "36",
+            "author": "Deng",
+            "year": "2020",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref4",
+            "doi-asserted-by": "crossref",
+            "first-page": "538",
+            "DOI": "10.1186/s12859-019-3093-x",
+            "article-title": "DDIGIP: predicting drug-drug interactions based on Gaussian interaction profile kernels",
+            "volume": "20",
+            "author": "Yan",
+            "year": "2019",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref5",
+            "doi-asserted-by": "crossref",
+            "first-page": "e1007068",
+            "DOI": "10.1371/journal.pcbi.1007068",
+            "article-title": "Leveraging genetic interactions for adverse drug-drug interaction prediction",
+            "volume": "15",
+            "author": "Qian",
+            "year": "2019",
+            "journal-title": "PLoS Comput Biol"
+        },
+        {
+            "key": "2022011921215515200_ref6",
+            "doi-asserted-by": "crossref",
+            "first-page": "6918381",
+            "DOI": "10.1155/2016/6918381",
+            "article-title": "Drug-drug interaction extraction via convolutional neural networks",
+            "volume": "2016",
+            "author": "Liu",
+            "year": "2016",
+            "journal-title": "Comput Math Methods Med"
+        },
+        {
+            "key": "2022011921215515200_ref7",
+            "doi-asserted-by": "crossref",
+            "first-page": "e196865",
+            "DOI": "10.1371/journal.pone.0196865",
+            "article-title": "Predicting potential drug-drug interactions on topological and semantic similarity features using statistical learning",
+            "volume": "13",
+            "author": "Kastrin",
+            "year": "2018",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2022011921215515200_ref8",
+            "doi-asserted-by": "crossref",
+            "first-page": "592",
+            "DOI": "10.1038/msb.2012.26",
+            "article-title": "INDI: a computational framework for inferring drug interactions and their associated recommendations",
+            "volume": "8",
+            "author": "Gottlieb",
+            "year": "2012",
+            "journal-title": "Mol Syst Biol"
+        },
+        {
+            "key": "2022011921215515200_ref9",
+            "doi-asserted-by": "crossref",
+            "first-page": "e61468",
+            "DOI": "10.1371/journal.pone.0061468",
+            "article-title": "Pharmacointeraction network models predict unknown drug-drug interactions",
+            "volume": "8",
+            "author": "Cami",
+            "year": "2013",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2022011921215515200_ref10",
+            "doi-asserted-by": "crossref",
+            "first-page": "e278",
+            "DOI": "10.1136/amiajnl-2013-002512",
+            "article-title": "Machine learning-based prediction of drug\u2013drug interactions by integrating drug phenotypic, therapeutic, chemical, and genomic properties",
+            "volume": "21",
+            "author": "Cheng",
+            "year": "2014",
+            "journal-title": "J Am Med Inform Assoc"
+        },
+        {
+            "key": "2022011921215515200_ref11",
+            "doi-asserted-by": "publisher",
+            "article-title": "SumGNN: multi-typed drug interaction prediction via efficient knowledge graph summarization",
+            "author": "Yu",
+            "year": "2021",
+            "journal-title": "Bioinformatics",
+            "DOI": "10.1093/bioinformatics/btab207"
+        },
+        {
+            "key": "2022011921215515200_ref12",
+            "doi-asserted-by": "crossref",
+            "first-page": "103707",
+            "DOI": "10.1016/j.jbi.2021.103707",
+            "article-title": "Drug-drug interaction extraction using a position and similarity fusion-based attention mechanism",
+            "volume": "115",
+            "author": "Fatehifar",
+            "year": "2021",
+            "journal-title": "J Biomed Inform"
+        },
+        {
+            "key": "2022011921215515200_ref13",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1016/j.ymeth.2020.05.007",
+            "article-title": "Predicting drug-drug interactions using multi-modal deep auto-encoders based network embedding and positive-unlabeled learning",
+            "volume": "179",
+            "author": "Zhang",
+            "year": "2020",
+            "journal-title": "Methods"
+        },
+        {
+            "key": "2022011921215515200_ref14",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1049/iet-syb.2019.0116",
+            "article-title": "Efficient prediction of drug-drug interaction using deep learning models",
+            "volume": "14",
+            "author": "Kumar",
+            "year": "2020",
+            "journal-title": "IET Syst Biol"
+        },
+        {
+            "key": "2022011921215515200_ref15",
+            "doi-asserted-by": "crossref",
+            "first-page": "419",
+            "DOI": "10.1186/s12859-020-03724-x",
+            "article-title": "DPDDI: a deep predictor for drug-drug interactions",
+            "volume": "21",
+            "author": "Feng",
+            "year": "2020",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref16",
+            "article-title": "Drug-drug interaction prediction with Wasserstein adversarial autoencoder-based knowledge graph embeddings",
+            "volume": "22",
+            "author": "Dai",
+            "year": "2020",
+            "journal-title": "Brief Bioinform"
+        },
+        {
+            "key": "2022011921215515200_ref17",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1186/s12859-019-3214-6",
+            "article-title": "DDI-PULearn: a positive-unlabeled learning method for large-scale prediction of drug-drug interactions",
+            "volume": "20",
+            "author": "Zheng",
+            "year": "2019",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref18",
+            "doi-asserted-by": "crossref",
+            "first-page": "13645",
+            "DOI": "10.1038/s41598-019-50121-3",
+            "article-title": "Drug-drug interaction predicting by neural network using integrated similarity",
+            "volume": "9",
+            "author": "Rohani",
+            "year": "2019",
+            "journal-title": "Sci Rep"
+        },
+        {
+            "key": "2022011921215515200_ref19",
+            "doi-asserted-by": "crossref",
+            "first-page": "726",
+            "DOI": "10.1186/s12859-019-3284-5",
+            "article-title": "Evaluation of knowledge graph embedding approaches for drug-drug interaction prediction in realistic settings",
+            "volume": "20",
+            "author": "Celebi",
+            "year": "2019",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.artmed.2018.03.001",
+            "article-title": "Position-aware deep multi-task learning for drug-drug interaction extraction",
+            "volume": "87",
+            "author": "Zhou",
+            "year": "2018",
+            "journal-title": "Artif Intell Med"
+        },
+        {
+            "key": "2022011921215515200_ref21",
+            "doi-asserted-by": "crossref",
+            "first-page": "828",
+            "DOI": "10.1093/bioinformatics/btx659",
+            "article-title": "Drug-drug interaction extraction via hierarchical RNNs on sequence and shortest dependency paths",
+            "volume": "34",
+            "author": "Zhang",
+            "year": "2018",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref22",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1186/s12859-017-1855-x",
+            "article-title": "An attention-based effective neural model for drug-drug interactions extraction",
+            "volume": "18",
+            "author": "Zheng",
+            "year": "2017",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref23",
+            "doi-asserted-by": "crossref",
+            "first-page": "13645",
+            "DOI": "10.1038/s41598-019-50121-3",
+            "article-title": "Drug-drug interaction predicting by neural network using integrated similarity",
+            "volume": "9",
+            "author": "Rohani",
+            "year": "2019",
+            "journal-title": "Sci Rep"
+        },
+        {
+            "key": "2022011921215515200_ref24",
+            "article-title": "An attribute supervised probabilistic dependent matrix tri-factorization model for the prediction of adverse drug-drug interaction",
+            "volume": "25",
+            "author": "Zhu",
+            "year": "2020",
+            "journal-title": "IEEE J Biomed Health Inform"
+        },
+        {
+            "key": "2022011921215515200_ref25",
+            "doi-asserted-by": "crossref",
+            "first-page": "189",
+            "DOI": "10.1016/j.ins.2019.05.017",
+            "article-title": "SFLLN: A sparse feature learning ensemble method with linear neighborhood regularization for predicting drug\u2013drug interactions",
+            "volume": "497",
+            "author": "Zhang",
+            "year": "2019",
+            "journal-title": "Inform Sci"
+        },
+        {
+            "key": "2022011921215515200_ref26",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.1186/s13321-019-0352-9",
+            "article-title": "Detecting drug communities and predicting comprehensive drug-drug interactions via balance regularized semi-nonnegative matrix factorization",
+            "volume": "11",
+            "author": "Shi",
+            "year": "2019",
+            "journal-title": "J Chem"
+        },
+        {
+            "key": "2022011921215515200_ref27",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.1186/s12918-018-0532-7",
+            "article-title": "Predicting and understanding comprehensive drug-drug interactions via semi-nonnegative matrix factorization",
+            "volume": "12",
+            "author": "Yu",
+            "year": "2018",
+            "journal-title": "BMC Syst Biol"
+        },
+        {
+            "key": "2022011921215515200_ref28",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "DOI": "10.1186/s12859-018-2379-8",
+            "article-title": "TMFUF: a triple matrix factorization-based unified framework for predicting comprehensive drug-drug interactions of new drugs",
+            "volume": "19",
+            "author": "Shi",
+            "year": "2018",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref29",
+            "doi-asserted-by": "crossref",
+            "first-page": "e58321",
+            "DOI": "10.1371/journal.pone.0058321",
+            "article-title": "Detection of drug-drug interactions by modeling interaction profile fingerprints",
+            "volume": "8",
+            "author": "Vilar",
+            "year": "2013",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2022011921215515200_ref30",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.1186/s12918-018-0532-7",
+            "article-title": "Predicting and understanding comprehensive drug-drug interactions via semi-nonnegative matrix factorization",
+            "volume": "12",
+            "author": "Yu",
+            "year": "2018",
+            "journal-title": "BMC Syst Biol"
+        },
+        {
+            "key": "2022011921215515200_ref31",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1016/j.jbi.2018.11.005",
+            "article-title": "Manifold regularized matrix factorization for drug-drug interaction prediction",
+            "volume": "88",
+            "author": "Zhang",
+            "year": "2018",
+            "journal-title": "J Biomed Inform"
+        },
+        {
+            "key": "2022011921215515200_ref32",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1186/s13321-017-0200-8",
+            "article-title": "Predicting drug-drug interactions through drug structural similarities and interaction networks incorporating pharmacokinetics and pharmacodynamics knowledge",
+            "volume": "9",
+            "author": "Takeda",
+            "year": "2017",
+            "journal-title": "J Chem"
+        },
+        {
+            "key": "2022011921215515200_ref33",
+            "doi-asserted-by": "crossref",
+            "first-page": "3175",
+            "DOI": "10.1093/bioinformatics/btw342",
+            "article-title": "A probabilistic approach for collective similarity-based drug-drug interaction prediction",
+            "volume": "32",
+            "author": "Sridhar",
+            "year": "2016",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref34",
+            "doi-asserted-by": "crossref",
+            "first-page": "e1002998",
+            "DOI": "10.1371/journal.pcbi.1002998",
+            "article-title": "Systematic prediction of pharmacodynamic drug-drug interactions through protein-protein-interaction network",
+            "volume": "9",
+            "author": "Huang",
+            "year": "2013",
+            "journal-title": "PLoS Comput Biol"
+        },
+        {
+            "key": "2022011921215515200_ref35",
+            "doi-asserted-by": "crossref",
+            "first-page": "e1003374",
+            "DOI": "10.1371/journal.pcbi.1003374",
+            "article-title": "A network inference method for large-scale unsupervised identification of novel drug-drug interactions",
+            "volume": "9",
+            "author": "Guimera",
+            "year": "2013",
+            "journal-title": "PLoS Comput Biol"
+        },
+        {
+            "key": "2022011921215515200_ref36",
+            "doi-asserted-by": "crossref",
+            "first-page": "2977",
+            "DOI": "10.1021/ci200367w",
+            "article-title": "Network-based analysis and characterization of adverse drug-drug interactions",
+            "volume": "51",
+            "author": "Takarabe",
+            "year": "2011",
+            "journal-title": "J Chem Inf Model"
+        },
+        {
+            "key": "2022011921215515200_ref37",
+            "article-title": "Label propagation prediction of drug-drug interactions based on clinical side effects",
+            "volume": "5",
+            "author": "Zhang",
+            "year": "2015",
+            "journal-title": "Sci Rep"
+        },
+        {
+            "key": "2022011921215515200_ref38",
+            "first-page": "e140816",
+            "article-title": "Predicting pharmacodynamic drug-drug interactions through signaling propagation interference on protein-protein interaction networks",
+            "volume": "10",
+            "author": "Park",
+            "year": "2015",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2022011921215515200_ref39",
+            "doi-asserted-by": "crossref",
+            "first-page": "3175",
+            "DOI": "10.1093/bioinformatics/btw342",
+            "article-title": "A probabilistic approach for collective similarity-based drug-drug interaction prediction",
+            "volume": "32",
+            "author": "Sridhar",
+            "year": "2016",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref40",
+            "doi-asserted-by": "publisher",
+            "article-title": "SSI-DDI: substructure-substructure interactions for drug-drug interaction prediction",
+            "author": "Nyamabo",
+            "year": "2021",
+            "journal-title": "Brief Bioinform",
+            "DOI": "10.1093/bib/bbab133"
+        },
+        {
+            "key": "2022011921215515200_ref41",
+            "doi-asserted-by": "crossref",
+            "first-page": "e278",
+            "DOI": "10.1136/amiajnl-2013-002512",
+            "article-title": "Machine learning-based prediction of drug-drug interactions by integrating drug phenotypic, therapeutic, chemical, and genomic properties",
+            "volume": "21",
+            "author": "Cheng",
+            "year": "2014",
+            "journal-title": "J Am Med Inform Assoc"
+        },
+        {
+            "key": "2022011921215515200_ref42",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1016/j.jbi.2018.06.015",
+            "article-title": "A meta-learning framework using representation learning to predict drug-drug interaction",
+            "volume": "84",
+            "author": "Deepika",
+            "year": "2018",
+            "journal-title": "J Biomed Inform"
+        },
+        {
+            "key": "2022011921215515200_ref43",
+            "doi-asserted-by": "publisher",
+            "article-title": "MUFFIN: multi-scale feature fusion for drug-drug interaction prediction",
+            "author": "Chen",
+            "year": "2021",
+            "journal-title": "Bioinformatics",
+            "DOI": "10.1093/bioinformatics/btab169"
+        },
+        {
+            "key": "2022011921215515200_ref44",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1109/JBHI.2019.2932740",
+            "article-title": "Semi-supervised learning algorithm for identifying high-priority drug-drug interactions through adverse event reports",
+            "volume": "24",
+            "author": "Liu",
+            "year": "2020",
+            "journal-title": "IEEE J Biomed Health Inform"
+        },
+        {
+            "key": "2022011921215515200_ref45",
+            "article-title": "Using drug descriptions and molecular structures for drug-drug interaction extraction from literature",
+            "author": "Asada",
+            "year": "2020",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref46",
+            "doi-asserted-by": "crossref",
+            "first-page": "22",
+            "DOI": "10.1186/s13321-019-0342-y",
+            "article-title": "KMR: knowledge-oriented medicine representation learning for drug-drug interaction and similarity computation",
+            "volume": "11",
+            "author": "Shen",
+            "year": "2019",
+            "journal-title": "J Chem"
+        },
+        {
+            "key": "2022011921215515200_ref47",
+            "doi-asserted-by": "crossref",
+            "first-page": "863",
+            "DOI": "10.1093/bib/bbx010",
+            "article-title": "Detection of drug-drug interactions through data mining studies using clinical sources, scientific literature and social media",
+            "volume": "19",
+            "author": "Vilar",
+            "year": "2018",
+            "journal-title": "Brief Bioinform"
+        },
+        {
+            "key": "2022011921215515200_ref48",
+            "doi-asserted-by": "crossref",
+            "first-page": "18",
+            "DOI": "10.1186/s12859-016-1415-9",
+            "article-title": "Predicting potential drug-drug interactions by integrating chemical, biological, phenotypic and network data",
+            "volume": "18",
+            "author": "Zhang",
+            "year": "2017",
+            "journal-title": "BMC Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref49",
+            "first-page": "3444",
+            "article-title": "Drug drug interaction extraction from biomedical literature using syntax convolutional neural network",
+            "volume": "32",
+            "author": "Zhao",
+            "year": "2016",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2022011921215515200_ref50",
+            "doi-asserted-by": "crossref",
+            "first-page": "E4304",
+            "DOI": "10.1073/pnas.1803294115",
+            "article-title": "Deep learning improves prediction of drug\u2013drug and drug\u2013food interactions",
+            "volume": "115",
+            "author": "Ryu",
+            "year": "2018",
+            "journal-title": "Proc Natl Acad Sci"
+        },
+        {
+            "key": "2022011921215515200_ref51",
+            "first-page": "1",
+            "volume-title": "2020 International Conference on Data Analytics for Business and Industry: Way Towards a Sustainable Economy (ICDABI)",
+            "author": "S",
+            "year": "2020"
+        },
+        {
+            "key": "2022011921215515200_ref52",
+            "first-page": "484",
+            "volume-title": "2011 6th IEEE Joint International Information Technology and Artificial Intelligence Conference",
+            "author": "Y",
+            "year": "2011"
+        },
+        {
+            "key": "2022011921215515200_ref53",
+            "first-page": "199",
+            "volume-title": "1990 IJCNN International Joint Conference on Neural Networks",
+            "author": "J",
+            "year": "1990"
+        },
+        {
+            "key": "2022011921215515200_ref54",
+            "first-page": "234",
+            "volume-title": "2018 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+            "author": "Z",
+            "year": "2018"
+        },
+        {
+            "key": "2022011921215515200_ref55",
+            "first-page": "1",
+            "volume-title": "2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA)",
+            "author": "N",
+            "year": "2019"
+        },
+        {
+            "key": "2022011921215515200_ref56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/genes11080888",
+            "article-title": "Classifying breast cancer subtypes using deep neural networks based on multi-omics data",
+            "volume": "11",
+            "author": "Lin",
+            "year": "2020",
+            "journal-title": "Genes (Basel)"
+        },
+        {
+            "key": "2022011921215515200_ref57",
+            "doi-asserted-by": "crossref",
+            "first-page": "837245",
+            "DOI": "10.1155/2012/837245",
+            "article-title": "Intelligent ZHENG classification of hypertension depending on ML-kNN and information fusion",
+            "volume": "2012",
+            "author": "Li",
+            "year": "2012",
+            "journal-title": "Evid Based Complement Alternat Med"
+        },
+        {
+            "key": "2022011921215515200_ref58",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.1016/j.neunet.2019.10.002",
+            "article-title": "Joint ranking SVM and binary relevance with robust low-rank learning for multi-label classification",
+            "volume": "122",
+            "author": "Wu",
+            "year": "2020",
+            "journal-title": "Neural Netw"
+        },
+        {
+            "key": "2022011921215515200_ref59",
+            "doi-asserted-by": "crossref",
+            "first-page": "971",
+            "DOI": "10.3389/fphar.2019.00971",
+            "article-title": "ATC-NLSP: prediction of the classes of anatomical therapeutic chemicals using a network-based label space partition method",
+            "volume": "10",
+            "author": "Wang",
+            "year": "2019",
+            "journal-title": "Front Pharmacol"
+        },
+        {
+            "key": "2022011921215515200_ref60",
+            "doi-asserted-by": "publisher",
+            "article-title": "Recognizing binding sites of poorly characterized RNA-binding proteins on circular RNAs using attention Siamese network",
+            "author": "Wu",
+            "year": "2021",
+            "journal-title": "Brief Bioinform",
+            "DOI": "10.1093/bib/bbab279"
+        },
+        {
+            "key": "2022011921215515200_ref61",
+            "volume-title": "Conference and Workshop on Neural Information Processing Systems",
+            "author": "Vaswani",
+            "year": "2017"
+        },
+        {
+            "key": "2022011921215515200_ref62",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1016/j.ins.2021.03.034",
+            "article-title": "TAERT: triple-attentional explainable recommendation with temporal convolutional network",
+            "volume": "567",
+            "author": "Guo",
+            "year": "2021",
+            "journal-title": "Inform Sci"
+        },
+        {
+            "key": "2022011921215515200_ref63",
+            "first-page": "770",
+            "article-title": "Deep residual learning for image recognition",
+            "volume-title": "2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)",
+            "author": "Kaiming",
+            "year": "2016"
+        },
+        {
+            "key": "2022011921215515200_ref64",
+            "article-title": "Layer normalization [arXiv]",
+            "volume": "14",
+            "author": "Ba",
+            "year": "2016",
+            "journal-title": "arXiv"
+        },
+        {
+            "key": "2022011921215515200_ref65",
+            "article-title": "Mixup: beyond empirical risk minimization",
+            "volume-title": "[ArXiv].",
+            "author": "Zhang",
+            "year": "2017"
+        },
+        {
+            "key": "2022011921215515200_ref66",
+            "doi-asserted-by": "crossref",
+            "first-page": "318",
+            "DOI": "10.1109/TPAMI.2018.2858826",
+            "article-title": "Focal loss for dense object detection",
+            "volume": "42",
+            "author": "Lin",
+            "year": "2020",
+            "journal-title": "IEEE Trans Pattern Anal Mach Intell"
+        },
+        {
+            "key": "2022011921215515200_ref67",
+            "article-title": "Gaussian error linear units (GELUs)",
+            "volume-title": "[ArXiv]",
+            "author": "Hendrycks",
+            "year": "2020"
+        },
+        {
+            "key": "2022011921215515200_ref68",
+            "article-title": "On the variance of the adaptive learning rate and beyond",
+            "volume-title": "[ArXiv]",
+            "author": "Liu",
+            "year": "2019"
+        },
+        {
+            "key": "2022011921215515200_ref69",
+            "article-title": "Batch normalization: accelerating deep network training by reducing internal covariate shift",
+            "volume-title": "[ArXiv]",
+            "author": "Ioffe",
+            "year": "2015"
+        }
+    ],
+    "container-title": [
+        "Briefings in Bioinformatics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/bib/article-pdf/23/1/bbab421/42230815/bbab421.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/bib/article-pdf/23/1/bbab421/42230815/bbab421.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                19
+            ]
+        ],
+        "date-time": "2022-01-19T21:22:37Z",
+        "timestamp": 1642627357000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/bib/article/doi/10.1093/bib/bbab421/6406700"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                20
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "1",
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    17
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/bib/bbab421",
+    "relation": {},
+    "ISSN": [
+        "1467-5463",
+        "1477-4054"
+    ],
+    "issn-type": [
+        {
+            "value": "1467-5463",
+            "type": "print"
+        },
+        {
+            "value": "1477-4054",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Molecular Biology",
+        "Information Systems"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                20
+            ]
+        ]
+    }
+}
