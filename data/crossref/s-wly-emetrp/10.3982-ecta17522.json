@@ -1,0 +1,174 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                25
+            ]
+        ],
+        "date-time": "2022-05-25T13:48:41Z",
+        "timestamp": 1653486521776
+    },
+    "reference-count": 25,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2022-01-01T00:00:00Z",
+                "timestamp": 1640995200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose and implement a new method to estimate treatment effects in settings where individuals need to be in a certain state (e.g., unemployment) to be eligible for a treatment, treatments may commence at different points in time, and the outcome of interest is realized after the individual left the initial state. An example concerns the effect of training on earnings in subsequent employment. Any evaluation needs to take into account that some of those who are not trained at a certain time in unemployment will leave unemployment before training while others will be trained later. We are interested in effects of the treatment at a certain elapsed duration compared to \u201cno treatment at any subsequent duration.\u201d We prove identification under unconfoundedness and propose inverse probability weighting estimators. A key feature is that weights given to outcome observations of nontreated depend on the remaining time in the initial state. We study effects of a training program for unemployed workers in Sweden. Estimates are positive and sizeable, exceeding those obtained with common static methods. This calls for a reappraisal of training as a tool to bring unemployed back to work.</jats:p>",
+    "DOI": "10.3982/ecta17522",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                25
+            ]
+        ],
+        "date-time": "2022-05-25T13:12:32Z",
+        "timestamp": 1653484352000
+    },
+    "page": "1337-1354",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Long\u2010Run Effects of Dynamically Assigned Treatments: A New Methodology and an Evaluation of Training Effects on Earnings"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Gerard J.",
+            "family": "Berg",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Groningen"
+                },
+                {
+                    "name": "Department of Epidemiology, University Medical Center Groningen"
+                },
+                {
+                    "name": "IFAU"
+                },
+                {
+                    "name": "IZA"
+                },
+                {
+                    "name": "ZEW"
+                }
+            ]
+        },
+        {
+            "given": "Johan",
+            "family": "Vikstr\u00f6m",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IFAU"
+                },
+                {
+                    "name": "Department of Economics and UCLS, Uppsala University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                25
+            ]
+        ],
+        "date-time": "2022-05-25T13:23:16Z",
+        "timestamp": 1653484996000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA17522"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17522"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17522",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}
