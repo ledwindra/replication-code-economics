@@ -1,0 +1,722 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                8
+            ]
+        ],
+        "date-time": "2022-06-08T12:33:55Z",
+        "timestamp": 1654691635072
+    },
+    "reference-count": 61,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        13
+                    ]
+                ],
+                "date-time": "2021-03-13T00:00:00Z",
+                "timestamp": 1615593600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                15
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Bitcoin provides its users with transaction-processing services which are similar to those of traditional payment systems. This article models the novel economic structure implied by Bitcoin\u2019s innovative decentralized design, which allows the payment system to be reliably operated by unrelated parties called miners. We find that this decentralized design protects users from monopoly pricing. Competition among service providers within the platform and free entry imply no entity can profitably affect the level of fees paid by users. Instead, a market for transaction-processing determines the fees users pay to gain priority and avoid transaction-processing delays. The article (i) derives closed-form formulas of the fees and waiting times and studies their properties, (ii) compares pricing under the Bitcoin Payment System to that under a traditional payment system operated by a profit-maximizing firm, and (iii) suggests protocol design modifications to enhance the platform\u2019s efficiency. The Appendix describes and explains the main attributes of Bitcoin and the underlying blockchain technology.</jats:p>",
+    "DOI": "10.1093/restud/rdab014",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                10
+            ]
+        ],
+        "date-time": "2021-03-10T12:17:46Z",
+        "timestamp": 1615378666000
+    },
+    "page": "3011-3040",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+        "Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System"
+    ],
+    "prefix": "10.1093",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Gur",
+            "family": "Huberman",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Columbia Business School"
+                }
+            ]
+        },
+        {
+            "given": "Jacob D",
+            "family": "Leshno",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Booth School of Business"
+                }
+            ]
+        },
+        {
+            "given": "Ciamac",
+            "family": "Moallemi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia Business School"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                31
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021122310070993800_B1",
+            "doi-asserted-by": "crossref",
+            "article-title": "Blockchain Economics",
+            "author": "ABADI,",
+            "year": "2018",
+            "DOI": "10.3386/w25407"
+        },
+        {
+            "key": "2021122310070993800_B2",
+            "article-title": "Bitcoin: A Natural Oligopoly",
+            "volume-title": "10th Innovations in Theoretical Computer Science Conference (ITCS 2019)",
+            "author": "ARNOSTI,",
+            "year": "2018"
+        },
+        {
+            "key": "2021122310070993800_B3",
+            "article-title": "Bitcoin Pricing, Adoption, and Usage: Theory and Evidence",
+            "author": "ATHEY,",
+            "year": "2016"
+        },
+        {
+            "key": "2021122310070993800_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "56",
+            "DOI": "10.1145/2229012.2229022",
+            "article-title": "On Bitcoin and Red Balloons",
+            "volume-title": "Proceedings of the 13th ACM Conference on Electronic Commerce",
+            "author": "BABAIOFF,",
+            "year": "2012"
+        },
+        {
+            "key": "2021122310070993800_B5",
+            "article-title": "Towards a Functional Fee Market for Cryptocurrencies",
+            "author": "BASU,",
+            "year": "2019",
+            "journal-title": "Capital Markets: Market Microstructure Journal"
+        },
+        {
+            "key": "2021122310070993800_B6",
+            "first-page": "919",
+            "article-title": "Snow White: Provably Secure Proofs of Stake",
+            "volume": "2016",
+            "author": "BENTOV,",
+            "year": "2016",
+            "journal-title": "IACR Cryptology ePrint Archive,"
+        },
+        {
+            "key": "2021122310070993800_B7",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Blockchain Folk Theorem",
+            "author": "BIAIS,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3108601"
+        },
+        {
+            "key": "2021122310070993800_B8",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Economic Limits of Bitcoin and the Blockchain",
+            "author": "BUDISH,",
+            "year": "2018",
+            "DOI": "10.3386/w24717"
+        },
+        {
+            "key": "2021122310070993800_B9",
+            "article-title": "Blockchain Resource Pricing",
+            "author": "BUTERIN,",
+            "year": "2018"
+        },
+        {
+            "key": "2021122310070993800_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1145/2976749.2978408",
+            "article-title": "On the Instability of Bitcoin without the Block Reward",
+            "volume-title": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security",
+            "author": "CARLSTEN,",
+            "year": "2016"
+        },
+        {
+            "key": "2021122310070993800_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "80",
+            "DOI": "10.1145/3359552",
+            "article-title": "Some Simple Economics of the Blockchain",
+            "volume": "63",
+            "author": "CATALINI,",
+            "year": "2020",
+            "journal-title": "Communications of the ACM,"
+        },
+        {
+            "key": "2021122310070993800_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "124",
+            "DOI": "10.1145/3318041.3355470",
+            "article-title": "An axiomatic approach to block rewards",
+            "author": "CHEN,",
+            "year": "2019",
+            "journal-title": "Proceedings of the 1st ACM Conference on Advances in Financial Technologies"
+        },
+        {
+            "key": "2021122310070993800_B13",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Economics of Cryptocurrencies - Bitcoin and Beyond",
+            "author": "CHIU,",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.3048124"
+        },
+        {
+            "key": "2021122310070993800_B14",
+            "doi-asserted-by": "crossref",
+            "article-title": "Decentralized Mining in Centralized Pools",
+            "author": "CONG,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3143724"
+        },
+        {
+            "key": "2021122310070993800_B15",
+            "article-title": "Tokenomics: Dynamic Adoption and Valuation",
+            "author": "CONG,",
+            "year": "2018"
+        },
+        {
+            "key": "2021122310070993800_B16",
+            "article-title": "On Scaling Decentralized Blockchains",
+            "author": "CROMAN,",
+            "year": "2016",
+            "journal-title": "Proceedings of 3rd Workshop on Bitcoin and Blockchain Research"
+        },
+        {
+            "key": "2021122310070993800_B17",
+            "doi-asserted-by": "crossref",
+            "article-title": "From Mining to Markets: The Evolution of Bitcoin Transaction Fees",
+            "author": "EASLEY,",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.3055380"
+        },
+        {
+            "key": "2021122310070993800_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1283",
+            "DOI": "10.1093/qje/qjv018",
+            "article-title": "Price Coherence and Excessive Intermediation",
+            "volume": "130",
+            "author": "EDELMAN,",
+            "year": "2015",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021122310070993800_B19",
+            "volume-title": "Paying with Plastic: The Digital Revolution in Buying and Borrowing",
+            "author": "EVANS,",
+            "year": "2005"
+        },
+        {
+            "key": "2021122310070993800_B20",
+            "first-page": "45",
+            "article-title": "Bitcoin-ng: A Scalable Blockchain Protocol",
+            "author": "EYAL,",
+            "year": "2016",
+            "journal-title": "13th USENIX Symposium on Networked Systems Design and Implementation (NSDI 16)"
+        },
+        {
+            "key": "2021122310070993800_B21",
+            "first-page": "436",
+            "article-title": "Majority is Not Enough: Bitcoin Mining is Vulnerable",
+            "author": "EYAL,",
+            "year": "2014",
+            "journal-title": "International Conference on Financial Cryptography and Data Security"
+        },
+        {
+            "key": "2021122310070993800_B22",
+            "article-title": "Basic Economics of Bitcoin Mining",
+            "author": "FELTEN,",
+            "year": "2013"
+        },
+        {
+            "key": "2021122310070993800_B23",
+            "doi-asserted-by": "crossref",
+            "article-title": "Competition in the Cryptocurrency Market",
+            "author": "GANDAL,",
+            "year": "2014",
+            "DOI": "10.2139/ssrn.2506577"
+        },
+        {
+            "key": "2021122310070993800_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.7208/chicago/9780226206981.003.0009",
+            "article-title": "Some Economics of Private Digital Currency",
+            "author": "GANS,",
+            "year": "2015",
+            "journal-title": "Economic Analysis of the Digital Economy"
+        },
+        {
+            "key": "2021122310070993800_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1145/3132747.3132757",
+            "article-title": "Algorand: Scaling Byzantine Agreements for Cryptocurrencies",
+            "volume-title": "Proceedings of the 26th Symposium on Operating Systems Principles",
+            "author": "GILAD,",
+            "year": "2017"
+        },
+        {
+            "key": "2021122310070993800_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1016/0167-6377(86)90030-1",
+            "article-title": "Stable Priority Purchasing in Queues",
+            "volume": "4",
+            "author": "GLAZER,",
+            "year": "1986",
+            "journal-title": "Operations Research Letters,"
+        },
+        {
+            "key": "2021122310070993800_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "691",
+            "DOI": "10.1086/261404",
+            "article-title": "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration",
+            "volume": "94",
+            "author": "GROSSMAN,",
+            "year": "1986",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021122310070993800_B28",
+            "doi-asserted-by": "crossref",
+            "article-title": "Beyond Bitcoin",
+            "volume-title": "The Economics of Digital Currencies",
+            "author": "HALABURDA,",
+            "year": "2016",
+            "DOI": "10.1057/9781137506429"
+        },
+        {
+            "key": "2021122310070993800_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1287/mnsc.41.1.163",
+            "article-title": "Decentralized Regulation of a Queue",
+            "volume": "41",
+            "author": "HASSIN,",
+            "year": "1995",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2021122310070993800_B30",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Rational Queueing",
+            "author": "HASSIN,",
+            "year": "2016",
+            "DOI": "10.1201/b20014"
+        },
+        {
+            "key": "2021122310070993800_B31",
+            "doi-asserted-by": "crossref",
+            "volume-title": "To Queue or Not to Queue: Equilibrium Behavior in Queueing Systems",
+            "author": "HASSIN,",
+            "year": "2003",
+            "DOI": "10.1007/978-1-4615-0359-0"
+        },
+        {
+            "key": "2021122310070993800_B32",
+            "article-title": "Public Authority Involvement in Payment Card Markets: Various Countries\u2014August 2019 Update",
+            "author": "HAYASHI,",
+            "year": "2019"
+        },
+        {
+            "key": "2021122310070993800_B33",
+            "doi-asserted-by": "crossref",
+            "article-title": "Who Bears the Welfare Costs of Monopoly? The Case of the Credit Card Industry",
+            "author": "HERKENHOFF,",
+            "year": "2020",
+            "DOI": "10.3386/w26604"
+        },
+        {
+            "key": "2021122310070993800_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1257/pandp.20191019",
+            "article-title": "An Economist\u2019s Perspective on the Bitcoin Payment System",
+            "volume": "109",
+            "author": "HUBERMAN,",
+            "year": "2019",
+            "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+            "key": "2021122310070993800_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "236",
+            "DOI": "10.1287/mnsc.1040.0301",
+            "article-title": "Priority Auctions and Queue Disciplines that Depend on Processing Time",
+            "volume": "51",
+            "author": "KITTSTEINER,",
+            "year": "2005",
+            "journal-title": "Management Science,"
+        },
+        {
+            "key": "2021122310070993800_B36",
+            "author": "KLEINROCK,",
+            "year": "1975",
+            "journal-title": "Queueing Systems. Volume 1: Theory"
+        },
+        {
+            "key": "2021122310070993800_B37",
+            "article-title": "The Economics of Bitcoin Mining, or Bitcoin in the Presence of Adversaries",
+            "author": "KROLL,",
+            "year": "2013",
+            "journal-title": "The Twelfth Workshop on the Economics of Information Security (WEIS 2013)"
+        },
+        {
+            "key": "2021122310070993800_B38",
+            "article-title": "Redesigning Bitcoin\u2019s Fee Market",
+            "author": "LAVI,",
+            "year": "2017"
+        },
+        {
+            "key": "2021122310070993800_B39",
+            "first-page": "269",
+            "article-title": "Bitcoin: An axiomatic approach and an impossibility theorem",
+            "volume": "2",
+            "author": "LESHNO,",
+            "year": "2020",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2021122310070993800_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "760",
+            "DOI": "10.1086/261329",
+            "article-title": "An Equilibrium Queuing Model of Bribery",
+            "volume": "93",
+            "author": "LUI,",
+            "year": "1985",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2021122310070993800_B41",
+            "doi-asserted-by": "crossref",
+            "article-title": "Trading and Arbitrage in Cryptocurrency Markets",
+            "author": "MAKAROV,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3171204"
+        },
+        {
+            "key": "2021122310070993800_B42",
+            "article-title": "Global Payments Report 2019: Amid Sustained Growth, Accelerating Challenges Demand Bold Actions",
+            "year": "2019"
+        },
+        {
+            "key": "2021122310070993800_B43",
+            "article-title": "Visa Inc Class a Analysis",
+            "year": "2019"
+        },
+        {
+            "key": "2021122310070993800_B44",
+            "article-title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+            "author": "NAKAMOTO,",
+            "year": "2008"
+        },
+        {
+            "key": "2021122310070993800_B45",
+            "volume-title": "Bitcoin and Cryptocurrency Technologies",
+            "author": "NARAYANAN,",
+            "year": "2016"
+        },
+        {
+            "key": "2021122310070993800_B46",
+            "volume-title": "NIST Handbook of Mathematical Functions",
+            "author": "OLVER,",
+            "year": "2010"
+        },
+        {
+            "key": "2021122310070993800_B47",
+            "doi-asserted-by": "crossref",
+            "article-title": "An Equilibrium Valuation of Bitcoin and Decentralized Network Assets",
+            "author": "PAGNOTTA,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3142022"
+        },
+        {
+            "key": "2021122310070993800_B48",
+            "first-page": "643",
+            "article-title": "Analysis of the Blockchain Protocol in Asynchronous Networks",
+            "volume-title": "Annual International Conference on the Theory and Applications of Cryptographic Techniques",
+            "author": "PASS,",
+            "year": "2017"
+        },
+        {
+            "key": "2021122310070993800_B49",
+            "doi-asserted-by": "crossref",
+            "article-title": "An Equilibrium Model of the Market for Bitcoin Mining",
+            "author": "PRAT,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3143410"
+        },
+        {
+            "key": "2021122310070993800_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1007/978-3-642-39884-1_2",
+            "article-title": "Quantitative Analysis of the Full Bitcoin Transaction Graph",
+            "volume-title": "International Conference on Financial Cryptography and Data Security",
+            "author": "RON,",
+            "year": "2013"
+        },
+        {
+            "key": "2021122310070993800_B51",
+            "first-page": "17",
+            "article-title": "Faster Payments: Market Structure and Policy Considerations",
+            "author": "ROSENBAUM,",
+            "year": "2017"
+        },
+        {
+            "key": "2021122310070993800_B52",
+            "first-page": "515",
+            "article-title": "Optimal Selfish Mining Strategies in Bitcoin",
+            "volume-title": "International Conference on Financial Cryptography and Data Security",
+            "author": "SAPIRSHTEIN,",
+            "year": "2016"
+        },
+        {
+            "key": "2021122310070993800_B53",
+            "doi-asserted-by": "crossref",
+            "article-title": "Some Simple Bitcoin Economics",
+            "author": "SCHILLING,",
+            "year": "2018",
+            "DOI": "10.3386/w24483"
+        },
+        {
+            "key": "2021122310070993800_B54",
+            "article-title": "A Model of Cryptocurrencies",
+            "author": "SOCKIN,",
+            "year": "2018"
+        },
+        {
+            "key": "2021122310070993800_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1007/978-3-662-47854-7_32",
+            "article-title": "Secure High-rate Transaction Processing in Bitcoin",
+            "volume-title": "International Conference on Financial Cryptography and Data Security",
+            "author": "SOMPOLINSKY,",
+            "year": "2015"
+        },
+        {
+            "key": "2021122310070993800_B56",
+            "volume-title": "Distributed Systems: Principles and Paradigms",
+            "author": "TANENBAUM,",
+            "year": "2007"
+        },
+        {
+            "key": "2021122310070993800_B57",
+            "article-title": "Is Cash Still King? Reviewing the Rise of Mobile Payments",
+            "volume-title": "116th Cong. 2nd Sessions Testimony of Aaron Klein, Fellow, Economic Studies",
+            "year": "2020"
+        },
+        {
+            "key": "2021122310070993800_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "761",
+            "DOI": "10.1111/1756-2171.12007",
+            "article-title": "Why Payment Card Fees are Biased Against Retailers",
+            "volume": "43",
+            "author": "WRIGHT,",
+            "year": "2012",
+            "journal-title": "The RAND Journal of Economics,"
+        },
+        {
+            "key": "2021122310070993800_B59",
+            "article-title": "An Incentive Analysis of Some Bitcoin Fee Design",
+            "author": "YAO,",
+            "year": "2018"
+        },
+        {
+            "key": "2021122310070993800_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/B978-0-12-802117-0.00002-3",
+            "article-title": "Is Bitcoin a Real Currency? An Eonomic Appraisal",
+            "volume-title": "Handbook of Digital Currency",
+            "author": "YERMACK,",
+            "year": "2015"
+        },
+        {
+            "key": "2021122310070993800_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "104",
+            "DOI": "10.1145/2701411",
+            "article-title": "Bitcoin: Under the Hood",
+            "volume": "58",
+            "author": "ZOHAR,",
+            "year": "2015",
+            "journal-title": "Communications of the ACM,"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab014/36978856/rdab014.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/88/6/3011/41901340/rdab014.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/88/6/3011/41901340/rdab014.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                24
+            ]
+        ],
+        "date-time": "2021-12-24T04:53:28Z",
+        "timestamp": 1640321608000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/88/6/3011/6169547"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                31
+            ]
+        ]
+    },
+    "references-count": 61,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    31
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    15
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab014",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                31
+            ]
+        ]
+    }
+}

@@ -1,0 +1,513 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                17
+            ]
+        ],
+        "date-time": "2022-05-17T19:13:08Z",
+        "timestamp": 1652814788820
+    },
+    "reference-count": 31,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        25
+                    ]
+                ],
+                "date-time": "2021-02-25T00:00:00Z",
+                "timestamp": 1614211200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                11
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In the standard herding model, privately informed individuals sequentially see prior actions and then act. An identical action herd eventually starts and public beliefs tend to \u201ccascade sets\u201d where social learning stops. What behaviour is socially efficient when actions ignore informational externalities? We characterize the outcome that maximizes the discounted sum of utilities. Our four key findings are: (1) cascade sets shrink but do not vanish, and herding should occur but less readily as greater weight is attached to posterity. (2) An optimal mechanism rewards individuals mimicked by their successor. (3) Cascades cannot start after period one under a signal log-concavity condition. (4) Given this condition, efficient behaviour is contrarian, leaning against the myopically more popular actions in every period. We make two technical contributions: as value functions with learning are not smooth, we use monotone comparative statics under uncertainty to deduce optimal dynamic behaviour. We also adapt dynamic pivot mechanisms to Bayesian learning.</jats:p>",
+    "DOI": "10.1093/restud/rdab001",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                22
+            ]
+        ],
+        "date-time": "2021-02-22T12:55:17Z",
+        "timestamp": 1613998517000
+    },
+    "page": "2527-2554",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+        "Informational Herding, Optimal Experimentation, and Contrarianism"
+    ],
+    "prefix": "10.1093",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Lones",
+            "family": "Smith",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Wisconsin"
+                }
+            ]
+        },
+        {
+            "given": "Peter Norman",
+            "family": "S\u00f8rensen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Copenhagen"
+                }
+            ]
+        },
+        {
+            "given": "Jianrong",
+            "family": "Tian",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Hong Kong"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021091117573431500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "488",
+            "DOI": "10.2307/1879431",
+            "article-title": "The Market for \u201cLemons\u201d: Quality Uncertainty and the Market Mechanism",
+            "volume": "84",
+            "author": "AKERLOF,",
+            "year": "1970",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021091117573431500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.2307/2118364",
+            "article-title": "A Simple Model of Herd Behavior",
+            "volume": "107",
+            "author": "BANERJEE,",
+            "year": "1992",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021091117573431500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "771",
+            "DOI": "10.3982/ECTA7260",
+            "article-title": "The Dynamic Pivot Mechanism",
+            "volume": "78",
+            "author": "BERGEMANN,",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021091117573431500_B4",
+            "volume-title": "Dynamic Programming: Deterministic and Stochastic Models",
+            "author": "BERTSEKAS,",
+            "year": "1987"
+        },
+        {
+            "key": "2021091117573431500_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "992",
+            "DOI": "10.1086/261849",
+            "article-title": "A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades",
+            "volume": "100",
+            "author": "BIKHCHANDANI,",
+            "year": "1992",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021091117573431500_B6",
+            "volume-title": "Probability",
+            "author": "BREIMAN,",
+            "year": "1968"
+        },
+        {
+            "key": "2021091117573431500_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "484",
+            "DOI": "10.1257/0002828041464461",
+            "article-title": "Distinguishing Informational Cascades from Herd Behavior in the Laboratory",
+            "volume": "94",
+            "author": "\u00c7ELEN,",
+            "year": "2004",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021091117573431500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1065",
+            "DOI": "10.2307/2951507",
+            "article-title": "Information Revelation and Strategic Delay in a Model of Investment",
+            "volume": "62",
+            "author": "CHAMLEY,",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021091117573431500_B9",
+            "volume-title": "Rational Herds: Economic Models of Social Learning",
+            "author": "CHAMLEY,",
+            "year": "2004"
+        },
+        {
+            "key": "2021091117573431500_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2298042",
+            "article-title": "Search Decisions with Limited Memory",
+            "volume": "58",
+            "author": "DOW,",
+            "year": "1991",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021091117573431500_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "941",
+            "DOI": "10.1111/j.1540-5982.2010.01601.x",
+            "article-title": "Informational Externalities, Strategic Delay, and Optimal Investment Subsidies",
+            "volume": "43",
+            "author": "DOYLE,",
+            "year": "2010",
+            "journal-title": "Canadian Journal of Economics"
+        },
+        {
+            "key": "2021091117573431500_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1045",
+            "DOI": "10.2307/1911358",
+            "article-title": "Controlling a Stochastic Process with Unknown Parameters",
+            "volume": "56",
+            "author": "EASLEY,",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021091117573431500_B13",
+            "first-page": "221",
+            "article-title": "Na\u00efve Herding in Rich-information Settings",
+            "volume": "4",
+            "author": "EYSTER,",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2021091117573431500_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1861",
+            "DOI": "10.1093/qje/qju021",
+            "article-title": "Extensive Imitation is Irrational and Harmful",
+            "volume": "129",
+            "author": "EYSTER,",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021091117573431500_B15",
+            "article-title": "Naive Social Learning, Mislearning, and Unlearning",
+            "author": "GAGNON-BARTSCH,",
+            "year": "2016"
+        },
+        {
+            "key": "2021091117573431500_B16",
+            "first-page": "148",
+            "article-title": "Bandit Processes and Dynamical Allocation Indices",
+            "volume": "41",
+            "author": "GITTINS,",
+            "year": "1979",
+            "journal-title": "Journal of the Royal Statistical Society, Series B"
+        },
+        {
+            "key": "2021091117573431500_B17",
+            "article-title": "Crowd Learning without Herding: A Mechanism Design Approach",
+            "author": "GLAZER,",
+            "year": "2015"
+        },
+        {
+            "key": "2021091117573431500_B18",
+            "article-title": "A Necessary and Sufficient Condition for Information Cascades",
+            "author": "HERRERA,",
+            "year": "2012"
+        },
+        {
+            "key": "2021091117573431500_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "article-title": "Bayesian Persuasion",
+            "volume": "101",
+            "author": "KAMENICA,",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021091117573431500_B20",
+            "volume-title": "Total Positivity",
+            "author": "KARLIN,",
+            "year": "1968"
+        },
+        {
+            "key": "2021091117573431500_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "272",
+            "DOI": "10.1214/aoms/1177728259",
+            "article-title": "The Theory of Decision Procedures for Distributions with Monotone Likelihood Ratio",
+            "volume": "27",
+            "author": "KARLIN,",
+            "year": "1956",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2021091117573431500_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "105123",
+            "DOI": "10.1016/j.jet.2020.105123",
+            "article-title": "Altruistic Observational Learning",
+            "volume": "190",
+            "author": "MARCH,",
+            "year": "2020",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021091117573431500_B23",
+            "volume-title": "Inequalities: Theory of Majorization and Its Applications",
+            "author": "MARSHALL,",
+            "year": "1979"
+        },
+        {
+            "key": "2021091117573431500_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.2307/2696407",
+            "article-title": "Strategic Behavior and Price Discovery",
+            "volume": "32",
+            "author": "MEDRANO,",
+            "year": "2001",
+            "journal-title": "Rand Journal of Economics"
+        },
+        {
+            "key": "2021091117573431500_B25",
+            "article-title": "Individual and Market Experimentation with Multi-armed Dependent Bandits",
+            "author": "PASTORINO,",
+            "year": "2011"
+        },
+        {
+            "key": "2021091117573431500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1949",
+            "DOI": "10.3982/ECTA7583",
+            "article-title": "Comparative Statics, Informativeness, and the Interval Dominance Order",
+            "volume": "77",
+            "author": "QUAH,",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021091117573431500_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "857",
+            "DOI": "10.1214/aoms/1177704455",
+            "article-title": "Team Decision Problems",
+            "volume": "33",
+            "author": "RADNER,",
+            "year": "1962",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2021091117573431500_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1016/0022-0531(74)90066-0",
+            "article-title": "A Two-armed Bandit Theory of Market Pricing",
+            "volume": "9",
+            "author": "ROTHSCHILD,",
+            "year": "1974",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021091117573431500_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1111/1468-0262.00113",
+            "article-title": "Pathological Outcomes of Observational Learning",
+            "volume": "68",
+            "author": "SMITH,",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021091117573431500_B30",
+            "article-title": "Banks Inequality and Monotone Comparative Statics",
+            "author": "TIAN,",
+            "year": "2014"
+        },
+        {
+            "key": "2021091117573431500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "177",
+            "DOI": "10.1006/game.1997.0562",
+            "article-title": "Learning from Others: A Welfare Analysis",
+            "volume": "20",
+            "author": "VIVES,",
+            "year": "1997",
+            "journal-title": "Games and Economic Behavior"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab001/37902996/rdab001.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/88/5/2527/40350084/rdab001.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/88/5/2527/40350084/rdab001.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                11
+            ]
+        ],
+        "date-time": "2021-09-11T17:58:10Z",
+        "timestamp": 1631383090000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/88/5/2527/6149316"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    2,
+                    25
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    9,
+                    11
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab001",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                25
+            ]
+        ]
+    }
+}

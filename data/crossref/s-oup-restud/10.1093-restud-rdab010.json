@@ -1,0 +1,563 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                8
+            ]
+        ],
+        "date-time": "2022-06-08T18:54:30Z",
+        "timestamp": 1654714470731
+    },
+    "reference-count": 36,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        10
+                    ]
+                ],
+                "date-time": "2021-03-10T00:00:00Z",
+                "timestamp": 1615334400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                10
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Time series methods for identifying structural economic disturbances often require disturbances to satisfy technical conditions that can be inconsistent with economic theory. We propose replacing these conditions with a less restrictive condition called recoverability, which only requires that the disturbances can be inferred from the observable variables. As an application, we show how shifting attention to recoverability makes it possible to construct new identifying restrictions for technological and expectational disturbances. In a vector autoregressive example using post-war U.S. data, these restrictions imply that independent disturbances to expectations about future technology are a major driver of business cycles.</jats:p>",
+    "DOI": "10.1093/restud/rdab010",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                9
+            ]
+        ],
+        "date-time": "2021-03-09T04:18:37Z",
+        "timestamp": 1615263517000
+    },
+    "page": "214-239",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Recoverability and Expectations-Driven Fluctuations"
+    ],
+    "prefix": "10.1093",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Ryan",
+            "family": "Chahrour",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Boston College"
+                }
+            ]
+        },
+        {
+            "given": "Kyle",
+            "family": "Jurado",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Duke University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "2022011221392475800_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1111/j.1751-5823.2011.00131.x",
+            "article-title": "Non-Fundamentalness in Structural Econometric Models: A Review",
+            "volume": "79",
+            "author": "ALESSI,",
+            "year": "2011",
+            "journal-title": "International Statistical Review"
+        },
+        {
+            "key": "2022011221392475800_B2",
+            "first-page": "225",
+            "article-title": "Whither News Shocks?",
+            "volume-title": "NBER Macroeconomics Annual",
+            "author": "BARSKY,",
+            "year": "2015"
+        },
+        {
+            "issue": "3",
+            "key": "2022011221392475800_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1016/j.jmoneco.2011.03.001",
+            "article-title": "News shocks and business cycles",
+            "volume": "58",
+            "author": "BARSKY,",
+            "year": "2011",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "issue": "4",
+            "key": "2022011221392475800_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1343",
+            "DOI": "10.1257/aer.102.4.1343",
+            "article-title": "Information, Animal Spirits, and the Meaning of Innovations in Consumer Confidence",
+            "volume": "102",
+            "author": "BARSKY,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "5",
+            "key": "2022011221392475800_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1418",
+            "DOI": "10.1257/aer.96.5.1418",
+            "article-title": "Are Technology Improvements Contractionary?",
+            "volume": "96",
+            "author": "BASU,",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392475800_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/j.red.2019.03.011",
+            "article-title": "When is nonfundamentalness in SVARs a real problem?",
+            "author": "BEAUDRY,",
+            "year": "2019",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "issue": "4",
+            "key": "2022011221392475800_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1293",
+            "DOI": "10.1257/aer.96.4.1293",
+            "article-title": "Stock prices, news, and economic fluctuations",
+            "volume": "96",
+            "author": "BEAUDRY,",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392475800_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1016/0167-2231(86)90037-0",
+            "article-title": "Alternative explanations of the money-income correlation",
+            "author": "BERNANKE,",
+            "year": "1986",
+            "journal-title": "Carnegie-Rochester Conference Series on Public Policy"
+        },
+        {
+            "key": "2022011221392475800_B9",
+            "first-page": "123",
+            "article-title": "Are Business Cycles All Alike?",
+            "volume-title": "The American Business Cycle: Continuity and Change",
+            "author": "BLANCHARD,",
+            "year": "1986"
+        },
+        {
+            "key": "2022011221392475800_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "3045",
+            "DOI": "10.1257/aer.103.7.3045",
+            "article-title": "News, Noise, and Fluctuations: An Empirical Exploration",
+            "volume": "103",
+            "author": "BLANCHARD,",
+            "year": "2013",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2022011221392475800_B11",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Time Series: Theory and Methods",
+            "author": "BROCKWELL,",
+            "year": "1991",
+            "DOI": "10.1007/978-1-4419-0320-4"
+        },
+        {
+            "key": "2022011221392475800_B12",
+            "article-title": "CRSP Stock Market Indexes",
+            "author": "CENTER FOR RESEARCH IN SECURITY",
+            "year": "2019"
+        },
+        {
+            "key": "2022011221392475800_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1702",
+            "DOI": "10.1257/aer.20170792",
+            "article-title": "News or Noise? The Missing Link",
+            "volume": "108",
+            "author": "CHAHROUR,",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392475800_B14",
+            "article-title": "Total Factor Productivity",
+            "year": "2019"
+        },
+        {
+            "key": "2022011221392475800_B15",
+            "article-title": "FRED Database",
+            "year": "2019"
+        },
+        {
+            "key": "2022011221392475800_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1021",
+            "DOI": "10.1257/aer.97.3.1021",
+            "article-title": "ABCs (and Ds) of Understanding VARs",
+            "volume": "97",
+            "author": "FERN\u00c1NDEZ-VILLAVERDE,",
+            "year": "2007",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2022011221392475800_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "124",
+            "DOI": "10.1016/j.jmoneco.2014.04.005",
+            "article-title": "Sufficient Information in Structural VARs",
+            "volume": "66",
+            "author": "FORNI,",
+            "year": "2014",
+            "journal-title": "Journal of Monetary Economics,"
+        },
+        {
+            "key": "2022011221392475800_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1940",
+            "DOI": "10.1111/ecoj.12386",
+            "article-title": "Noise Bubbles",
+            "volume": "127",
+            "author": "FORNI,",
+            "year": "2017",
+            "journal-title": "The Economic Journal,"
+        },
+        {
+            "key": "2022011221392475800_B19",
+            "first-page": "122",
+            "article-title": "Noisy News in Business Cycles",
+            "volume": "9",
+            "author": "FORNI,",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Macroeconomics,"
+        },
+        {
+            "key": "2022011221392475800_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.2307/1911132",
+            "article-title": "Rational Expectations in Stationary Linear Models",
+            "volume": "49",
+            "author": "FUTIA,",
+            "year": "1981",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2022011221392475800_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "7",
+            "DOI": "10.1016/0165-1889(80)90049-4",
+            "article-title": "Formulating and Estimating Dynamic Linear Rational Expectations Models",
+            "volume": "2",
+            "author": "HANSEN,",
+            "year": "1980",
+            "journal-title": "Journal of Economic Dynamics and Control,"
+        },
+        {
+            "key": "2022011221392475800_B22",
+            "first-page": "77",
+            "volume-title": "Rational Expectations Econometrics",
+            "author": "HANSEN,",
+            "year": "1991"
+        },
+        {
+            "key": "2022011221392475800_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1257/0002828053828518",
+            "article-title": "Estimation and Inference of Impulse Responses by Local Projections",
+            "volume": "95",
+            "author": "JORD\u00c0,",
+            "year": "2005",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2022011221392475800_B24",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Structural Vector Autoregressive Analysis",
+            "author": "KILIAN,",
+            "year": "2017",
+            "DOI": "10.1017/9781108164818"
+        },
+        {
+            "key": "2022011221392475800_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1017/S0266466612000448",
+            "article-title": "Noncausal Vector Autoregression",
+            "volume": "29",
+            "author": "LANNE,",
+            "year": "2013",
+            "journal-title": "Econometric Theory,"
+        },
+        {
+            "key": "2022011221392475800_B26",
+            "first-page": "644",
+            "article-title": "The Dynamic Effects of Aggregate Demand and Supply Disturbances: Comment",
+            "volume": "83",
+            "author": "LIPPI,",
+            "year": "1993",
+            "journal-title": "The American Economic Review,"
+        },
+        {
+            "key": "2022011221392475800_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1016/0304-4076(93)01570-C",
+            "article-title": "VAR Analysis, Nonfundamental Representations, Blaschke Matrices",
+            "volume": "63",
+            "author": "LIPPI,",
+            "year": "1994",
+            "journal-title": "Journal of Econometrics,"
+        },
+        {
+            "key": "2022011221392475800_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "393",
+            "DOI": "10.1111/j.1468-0297.2010.02361.x",
+            "article-title": "Measuring the Impact of Fiscal Policy in the Face of Anticipation: A Structural VAR Approach",
+            "volume": "120",
+            "author": "MERTENS,",
+            "year": "2010",
+            "journal-title": "The Economic Journal,"
+        },
+        {
+            "key": "2022011221392475800_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1257/jep.32.3.59",
+            "article-title": "Identification in Macroeconomics",
+            "volume": "32",
+            "author": "NAKAMURA,",
+            "year": "2018",
+            "journal-title": "The Journal of Economic Perspectives,"
+        },
+        {
+            "key": "2022011221392475800_B30",
+            "article-title": "Instrumental Variable Identification of Dynamic Variance Decompositions",
+            "author": "PLAGBORG-M\u00d8LLER,",
+            "year": "2018"
+        },
+        {
+            "key": "2022011221392475800_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1086/261690",
+            "article-title": "Permanent and Transitory Movements in Labor Income: An Explanation for \u201cExcess Smoothness\u201d in Consumption",
+            "volume": "98",
+            "author": "QUAH,",
+            "year": "1990",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2022011221392475800_B32",
+            "volume-title": "Stationary Random Processes",
+            "author": "ROZANOV,",
+            "year": "1967"
+        },
+        {
+            "key": "2022011221392475800_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "2733",
+            "DOI": "10.3982/ECTA8050",
+            "article-title": "What\u2019s News in Business Cycles",
+            "volume": "80",
+            "author": "SCHMITT-GROH\u00c9,",
+            "year": "2012",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2022011221392475800_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1912017",
+            "article-title": "Macroeconomics and Reality",
+            "volume": "48",
+            "author": "SIMS,",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392475800_B35",
+            "doi-asserted-by": "crossref",
+            "article-title": "Identification and Estimation of Dynamic Causal Effects in Macroeconomics Using External Instruments",
+            "author": "STOCK,",
+            "year": "2018",
+            "DOI": "10.3386/w24216"
+        },
+        {
+            "key": "2022011221392475800_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "volume-title": "Advances in Economics and Econometrics: Eleventh World Congress (Econometric Society Monographs)",
+            "author": "UHLIG,",
+            "year": "2017",
+            "DOI": "10.1017/9781108227223.004"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab010/36978839/rdab010.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/1/214/42137430/rdab010.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/1/214/42137430/rdab010.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2022-01-12T21:46:20Z",
+        "timestamp": 1642023980000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/89/1/214/6166662"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                10
+            ]
+        ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    3,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    10
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab010",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                10
+            ]
+        ]
+    }
+}

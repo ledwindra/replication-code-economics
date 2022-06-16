@@ -1,0 +1,933 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                31
+            ]
+        ],
+        "date-time": "2022-03-31T08:26:24Z",
+        "timestamp": 1648715184609
+    },
+    "reference-count": 71,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        13
+                    ]
+                ],
+                "date-time": "2020-10-13T00:00:00Z",
+                "timestamp": 1602547200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                17
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Strategies of players in a population are updated according to the behavioural rules of agents, where each agent is a player or a coalition of players. It is known that classic results on the stochastic stability of conventions are due to an asymmetry property of the strategy updating process. We show that asymmetry can be defined at the level of the behavioural rule and that asymmetric rules can be mixed and matched whilst retaining asymmetry of the aggregate process. Specifically, we show robustness of asymmetry to heterogeneity within an agent (Alice follows different rules at different times); heterogeneity between agents (Alice and Bob follow different rules); and heterogeneity in the timing of strategy updating. These results greatly expand and convexify the domain of behavioural rules for which results on the stochastic stability of conventions are known.</jats:p>",
+    "DOI": "10.1093/restud/rdaa063",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                25
+            ]
+        ],
+        "date-time": "2020-09-25T11:38:02Z",
+        "timestamp": 1601033882000
+    },
+    "page": "2094-2118",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+        "Conventions under Heterogeneous Behavioural Rules"
+    ],
+    "prefix": "10.1093",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Jonathan",
+            "family": "Newton",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Institute of Economic Research, Kyoto University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                13
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021071716490483800_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "DOI": "10.2307/2971721",
+            "article-title": "Adaptive Play in Multiplayer Bargaining Situations",
+            "volume": "64",
+            "author": "AGASTYA,",
+            "year": "1997",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071716490483800_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1006/jeth.1999.2574",
+            "article-title": "Perturbed Adaptive Dynamics in Coalition Form Games",
+            "volume": "89",
+            "author": "AGASTYA,",
+            "year": "1999",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2269",
+            "DOI": "10.3982/ECTA10637",
+            "article-title": "Homo Moralis\u2014Preference Evolution under Incomplete Information and Assortative Matching",
+            "volume": "81",
+            "author": "ALGER,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071716490483800_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "56",
+            "DOI": "10.1016/j.geb.2016.05.006",
+            "article-title": "Evolution and Kantian Morality",
+            "volume": "98",
+            "author": "ALGER,",
+            "year": "2016",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1007/s00199-004-0474-8",
+            "article-title": "The Evolutionary Stability of Perfectly Competitive Behavior",
+            "volume": "26",
+            "author": "ALOS-FERRER,",
+            "year": "2005",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "DOI": "10.1016/j.geb.2009.08.004",
+            "article-title": "The Logit-Response Dynamics",
+            "volume": "68",
+            "author": "AL\u00d3S-FERRER,",
+            "year": "2010",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1007/s00199-014-0809-z",
+            "article-title": "Robust Stochastic Stability",
+            "volume": "58",
+            "author": "AL\u00d3S-FERRER,",
+            "year": "2015",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B8",
+            "doi-asserted-by": "crossref",
+            "article-title": "Imitation and Learning",
+            "volume-title": "Handbook of Rational and Social Choice",
+            "author": "AL\u00d3S-FERRER,",
+            "year": "2009",
+            "DOI": "10.1093/acprof:oso/9780199290420.003.0012"
+        },
+        {
+            "key": "2021071716490483800_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/j.jet.2007.12.003",
+            "article-title": "Contagion and Efficiency",
+            "volume": "143",
+            "author": "AL\u00d3S-FERRER,",
+            "year": "2008",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "397",
+            "DOI": "10.1016/j.geb.2014.05.013",
+            "article-title": "Imitation and the Role of Information in Overcoming Coordination Failures",
+            "volume": "87",
+            "author": "AL\u00d3S-FERRER,",
+            "year": "2014",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "627",
+            "DOI": "10.3982/ECTA10740",
+            "article-title": "Stochastic Learning Dynamics and Speed of Convergence in Population Games",
+            "volume": "84",
+            "author": "ARIELI,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071716490483800_B12",
+            "volume-title": "The Evolution of Cooperation",
+            "author": "AXELROD,",
+            "year": "1984"
+        },
+        {
+            "key": "2021071716490483800_B13",
+            "first-page": "58",
+            "article-title": "On the Evolution of Altruistic Ethical Rules for Siblings",
+            "volume": "85",
+            "author": "BERGSTROM,",
+            "year": "1995",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071716490483800_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1007/s00199-019-01174-y",
+            "article-title": "The Evolution of Conventions under Condition-dependent Mistakes",
+            "volume": "69",
+            "author": "BILANCINI,",
+            "year": "2020",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.1006/game.1993.1023",
+            "article-title": "The Statistical Mechanics of Strategic Interaction",
+            "volume": "5",
+            "author": "BLUME,",
+            "year": "1993",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B16",
+            "article-title": "Population Games",
+            "author": "BLUME,",
+            "year": "1996"
+        },
+        {
+            "key": "2021071716490483800_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/S0899-8256(02)00554-7",
+            "article-title": "How Noise Matters",
+            "volume": "44",
+            "author": "BLUME,",
+            "year": "2003",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.1093/restud/rdt023",
+            "article-title": "Cycles and Instability in a Rock\u2013Paper\u2013Scissors Population Game: A Continuous Time Experiment",
+            "volume": "81",
+            "author": "CASON,",
+            "year": "2013",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071716490483800_B19",
+            "author": "COURNOT,",
+            "year": "1838",
+            "journal-title": "Recherches sur les principes math\u00e9matiques de la th\u00e9orie des richesses par Augustin Cournot"
+        },
+        {
+            "key": "2021071716490483800_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2151",
+            "DOI": "10.1016/j.jet.2011.06.013",
+            "article-title": "Large Deviations and Multinomial Probit Choice",
+            "volume": "146",
+            "author": "DOKUMACI,",
+            "year": "2011",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.2307/2951493",
+            "article-title": "Learning, Local Interaction, and Coordination",
+            "volume": "61",
+            "author": "ELLISON,",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071716490483800_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1111/1467-937X.00119",
+            "article-title": "Basins of Attraction, Long-Run Stochastic Stability, and the Speed of Step-by-Step Evolution",
+            "volume": "67",
+            "author": "ELLISON,",
+            "year": "2000",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021071716490483800_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.2307/2118512",
+            "volume": "110",
+            "author": "ELLISON,",
+            "year": "1995",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021071716490483800_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/j.geb.2004.09.003",
+            "article-title": "Evolution in Bayesian Games I: Theory",
+            "volume": "53",
+            "author": "ELY,",
+            "year": "2005",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "219",
+            "DOI": "10.1016/0040-5809(90)90011-J",
+            "article-title": "Stochastic Evolutionary Game Dynamics",
+            "volume": "38",
+            "author": "FOSTER,",
+            "year": "1990",
+            "journal-title": "Theoretical Population Biology"
+        },
+        {
+            "key": "2021071716490483800_B26",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Random Perturbations of Dynamical Systems,",
+            "author": "FREIDLIN,",
+            "year": "1984",
+            "DOI": "10.1007/978-1-4684-0176-9"
+        },
+        {
+            "key": "2021071716490483800_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1016/j.jet.2014.10.006",
+            "article-title": "From Imitation to Collusion: Long-Run Learning in a Low-Information Environment",
+            "volume": "155",
+            "author": "FRIEDMAN,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1007/BF01064466",
+            "article-title": "Game Theory and Convention",
+            "volume": "46",
+            "author": "GILBERT,",
+            "year": "1981",
+            "journal-title": "Synthese"
+        },
+        {
+            "key": "2021071716490483800_B29",
+            "volume-title": "A General Theory of Equilibrium Selection in Games",
+            "author": "HARSANYI,",
+            "year": "1988"
+        },
+        {
+            "key": "2021071716490483800_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1016/j.geb.2018.05.002",
+            "article-title": "\u201cConventional Contracts, Intentional Behavior and Logit Choice: Equality without Symmetry\u201d",
+            "volume": "110",
+            "author": "HWANG,",
+            "year": "2018",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.2307/2951777",
+            "article-title": "Learning, Mutation, and Long Run Equilibria in Games",
+            "volume": "61",
+            "author": "KANDORI,",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071716490483800_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "721",
+            "DOI": "10.1007/s00182-013-0399-1",
+            "article-title": "Coordination under Global Random Interaction and Local Imitation",
+            "volume": "43",
+            "author": "KHAN,",
+            "year": "2014",
+            "journal-title": "International Journal of Game Theory"
+        },
+        {
+            "key": "2021071716490483800_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/j.geb.2013.02.004",
+            "article-title": "Fast Convergence in Evolutionary Equilibrium Selection",
+            "volume": "80",
+            "author": "KREINDLER,",
+            "year": "2013",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2284",
+            "DOI": "10.1111/j.1420-9101.2007.01414.x",
+            "article-title": "The Evolution of Helping and Harming on Graphs: The Return of the Inclusive Fitness Effect",
+            "volume": "20",
+            "author": "LEHMANN,",
+            "year": "2007",
+            "journal-title": "Journal of Evolutionary Biology"
+        },
+        {
+            "key": "2021071716490483800_B35",
+            "volume-title": "Convention: A Philosophical Study",
+            "author": "LEWIS,",
+            "year": "1969"
+        },
+        {
+            "key": "2021071716490483800_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "208",
+            "DOI": "10.1016/j.geb.2016.09.010",
+            "article-title": "An Experimental Investigation of Stochastic Adjustment Dynamics",
+            "volume": "100",
+            "author": "LIM,",
+            "year": "2016",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B37",
+            "author": "MALAWSKI,",
+            "year": "1989",
+            "journal-title": "Some Learning Processes in Population Games"
+        },
+        {
+            "key": "2021071716490483800_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1006/jeth.2001.2808",
+            "article-title": "Binary Games with State Dependent Stochastic Choice",
+            "volume": "103",
+            "author": "MARUTA,",
+            "year": "2002",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1016/j.jet.2015.12.010",
+            "article-title": "A Behavioral Study of \u201cNoise\u201d in Coordination Games",
+            "volume": "162",
+            "author": "M\u00c4S,",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "110",
+            "DOI": "10.1016/S0022-0531(03)00068-1",
+            "article-title": "Clever Agents in Adaptive Learning",
+            "volume": "111",
+            "author": "MATROS,",
+            "year": "2003",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "286",
+            "DOI": "10.2307/1969529",
+            "article-title": "Non-cooperative Games",
+            "volume": "54",
+            "author": "NASH,",
+            "year": "1951",
+            "journal-title": "Annals of Mathematics"
+        },
+        {
+            "key": "2021071716490483800_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.1073/pnas.36.1.48",
+            "article-title": "Equilibrium Points in n-Person Games",
+            "volume": "36",
+            "author": "NASH,",
+            "year": "1950",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2021071716490483800_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jebo.2016.04.006",
+            "article-title": "Learning in a Black Box",
+            "volume": "127",
+            "author": "NAX,",
+            "year": "2016",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2021071716490483800_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1016/j.geb.2019.05.001",
+            "article-title": "Risk Attitudes and Risk Dominance in the Long Run",
+            "volume": "116",
+            "author": "NAX,",
+            "year": "2019",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "194",
+            "DOI": "10.1016/j.jtbi.2016.01.032",
+            "article-title": "Assortativity Evolving from Social Dilemmas",
+            "volume": "395",
+            "author": "NAX,",
+            "year": "2016",
+            "journal-title": "Journal of Theoretical Biology"
+        },
+        {
+            "key": "2021071716490483800_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "842",
+            "DOI": "10.1016/j.geb.2012.02.014",
+            "article-title": "Coalitional Stochastic Stability",
+            "volume": "75",
+            "author": "NEWTON,",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "364",
+            "DOI": "10.1016/j.jet.2011.11.007",
+            "article-title": "Recontracting and Stochastic Stability in Cooperative Games",
+            "volume": "147",
+            "author": "NEWTON,",
+            "year": "2012",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1007/s00182-016-0548-4",
+            "article-title": "The Preferences of Homo Moralis are Unstable under Evolving Assortativity",
+            "volume": "46",
+            "author": "NEWTON,",
+            "year": "2017",
+            "journal-title": "International Journal of Game Theory"
+        },
+        {
+            "key": "2021071716490483800_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.3390/g9020031",
+            "article-title": "Evolutionary Game Theory: A Renaissance",
+            "volume": "9",
+            "author": "NEWTON,",
+            "year": "2018",
+            "journal-title": "Games"
+        },
+        {
+            "key": "2021071716490483800_B50",
+            "doi-asserted-by": "crossref",
+            "article-title": "Combining Strictly Asymmetric Choice Rules",
+            "author": "NEWTON,",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3433736"
+        },
+        {
+            "key": "2021071716490483800_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "172",
+            "DOI": "10.1016/j.jet.2015.01.003",
+            "article-title": "Coalitions, Tipping Points and the Speed of Evolution",
+            "volume": "157",
+            "author": "NEWTON,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jet.2014.11.015",
+            "article-title": "A One-Shot Deviation Principle for Stability in Matching Problems",
+            "volume": "157",
+            "author": "NEWTON,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "471",
+            "DOI": "10.1142/S0219198909002455",
+            "article-title": "Skew-symmetry under Simultaneous Revisions",
+            "volume": "11",
+            "author": "NORMAN,",
+            "year": "2009",
+            "journal-title": "International Game Theory Review"
+        },
+        {
+            "key": "2021071716490483800_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "865",
+            "DOI": "10.1016/j.geb.2008.10.002",
+            "article-title": "Rapid Evolution under Inertia",
+            "volume": "66",
+            "author": "NORMAN,",
+            "year": "2009",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "502",
+            "DOI": "10.1038/nature04605",
+            "article-title": "A Simple Rule for the Evolution of Cooperation on Graphs and Social Networks",
+            "volume": "441",
+            "author": "OHTSUKI,",
+            "year": "2006",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2021071716490483800_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "216",
+            "DOI": "10.1016/j.jet.2009.05.007",
+            "article-title": "Generalized Risk-Dominance and Asymmetric Dynamics",
+            "volume": "145",
+            "author": "PESKI,",
+            "year": "2010",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1006/jeth.1996.0076",
+            "article-title": "Efficient Equilibrium Selection in Evolutionary Games with Random Matching",
+            "volume": "70",
+            "author": "ROBSON,",
+            "year": "1996",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "268",
+            "DOI": "10.1006/jeth.1999.2528",
+            "article-title": "Clever Agents in Young\u2019s Evolutionary Bargaining Model",
+            "volume": "86",
+            "author": "S\u00c1EZ-MARTI,",
+            "year": "1999",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B59",
+            "volume-title": "Population Games and Evolutionary Dynamics. Economic Learning and Social Evolution)",
+            "author": "SANDHOLM,",
+            "year": "2010"
+        },
+        {
+            "key": "2021071716490483800_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1016/j.geb.2014.07.005",
+            "article-title": "Coalitional Stochastic Stability in Games, Networks and Markets",
+            "volume": "88",
+            "author": "SAWA,",
+            "year": "2014",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "98",
+            "DOI": "10.1016/j.geb.2018.07.006",
+            "article-title": "Prospect Dynamics and Loss Dominance",
+            "volume": "112",
+            "author": "SAWA,",
+            "year": "2018",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1981",
+            "DOI": "10.1016/j.jedc.2009.06.003",
+            "article-title": "Imitators and Optimizers in Cournot Oligopoly",
+            "volume": "33",
+            "author": "SCHIPPER,",
+            "year": "2009",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021071716490483800_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "130",
+            "DOI": "10.1006/jeth.1997.2347",
+            "article-title": "Why Imitate, and If So, How?: A Boundedly Rational Approach to Multi-armed Bandits",
+            "volume": "78",
+            "author": "SCHLAG,",
+            "year": "1998",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1016/j.geb.2004.03.005",
+            "article-title": "Experimentally Observed Imitation and Cooperation in Price Competition on the Circle",
+            "volume": "51",
+            "author": "SELTEN,",
+            "year": "2005",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "260",
+            "DOI": "10.1016/j.geb.2017.10.011",
+            "article-title": "Political Institutions and the Evolution of Character Traits",
+            "volume": "106",
+            "author": "WU,",
+            "year": "2017",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2021071716490483800_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.2307/2951778",
+            "article-title": "The Evolution of Conventions",
+            "volume": "61",
+            "author": "YOUNG,",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021071716490483800_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1006/jeth.1993.1009",
+            "article-title": "An Evolutionary Model of Bargaining",
+            "volume": "59",
+            "author": "YOUNG,",
+            "year": "1993",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2021071716490483800_B68",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Individual Strategy and Social Structure",
+            "author": "YOUNG,",
+            "year": "1998",
+            "DOI": "10.1515/9780691214252"
+        },
+        {
+            "key": "2021071716490483800_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "21285",
+            "DOI": "10.1073/pnas.1100973108",
+            "article-title": "The Dynamics of Social Innovation",
+            "volume": "108",
+            "author": "YOUNG,",
+            "year": "2011",
+            "journal-title": "Proceedings of the National Academy of Sciences United States of America"
+        },
+        {
+            "key": "2021071716490483800_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.1257/aer.91.3.559",
+            "article-title": "Competition and Custom in Economic Contracts: A Case Study of Illinois Agriculture",
+            "volume": "91",
+            "author": "YOUNG,",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021071716490483800_B71",
+            "article-title": "Evolutionary Dynamics in Heterogeneous Populations: A General Framework for an Arbitrary Type Distribution",
+            "author": "ZUSAI,",
+            "year": "2018"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdaa063/34045888/rdaa063.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/88/4/2094/39073902/rdaa063.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "http://academic.oup.com/restud/article-pdf/88/4/2094/39073902/rdaa063.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                17
+            ]
+        ],
+        "date-time": "2021-07-17T16:50:37Z",
+        "timestamp": 1626540637000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/88/4/2094/5922648"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                13
+            ]
+        ]
+    },
+    "references-count": 71,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    10,
+                    13
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    17
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdaa063",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                13
+            ]
+        ]
+    }
+}

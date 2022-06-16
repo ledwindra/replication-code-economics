@@ -1,0 +1,1048 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                8
+            ]
+        ],
+        "date-time": "2022-06-08T07:08:19Z",
+        "timestamp": 1654672099912
+    },
+    "reference-count": 84,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2021-05-17T00:00:00Z",
+                "timestamp": 1621209600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                15
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>I propose to identify an SVAR, up to shock ordering, using the autocovariance structure of the squared innovations implied by an arbitrary stochastic process for the shock variances. These higher moments are available without parametric assumptions on the variance process. In contrast, previous approaches exploiting heteroskedasticity rely on the path of innovation covariances, which can only be recovered from the data under specific parametric assumptions on the variance process. The conditions for identification are testable. I compare the identification scheme to existing approaches in simulations and provide guidance for estimation and inference. I use the methodology to estimate fiscal multipliers peaking at 0.86 for tax cuts and 0.75 for government spending. I find that tax shocks explain more variation in output at longer horizons. The empirical implications of my estimates are more consistent with theory and the narrative record than those based on some leading approaches.</jats:p>",
+    "DOI": "10.1093/restud/rdab009",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                13
+            ]
+        ],
+        "date-time": "2021-05-13T19:22:22Z",
+        "timestamp": 1620933742000
+    },
+    "page": "3086-3124",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+        "Identifying Shocks via Time-Varying Volatility"
+    ],
+    "prefix": "10.1093",
+    "volume": "88",
+    "author": [
+        {
+            "given": "Daniel J",
+            "family": "Lewis",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Federal Reserve Bank of New York"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021111803502278600_B1",
+            "article-title": "First Order Autoregressive Processes and Strong Mixing",
+            "author": "ANDREWS,",
+            "year": "1983"
+        },
+        {
+            "key": "2021111803502278600_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.2307/2951764",
+            "article-title": "Tests for Parameter Instability and Structural Change with Unknown Change Point",
+            "volume": "61",
+            "author": "ANDREWS,",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021111803502278600_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.1002/jae.2672",
+            "article-title": "Uncertainty across Volatility Regimes",
+            "volume": "34",
+            "author": "ANGELINI,",
+            "year": "2019",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B4",
+            "first-page": "1",
+            "article-title": "Measuring the Output Responses to Fiscal Policy",
+            "volume": "4",
+            "author": "AUERBACH,",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2021111803502278600_B5",
+            "first-page": "1613",
+            "article-title": "Gimme a Break! Identification and Estimation of the Macroeconomic Effects of Monetary Policy Shocks in the U.S",
+            "author": "BACCHIOCCHI,",
+            "year": "2017",
+            "journal-title": "Macroeconomic Dynamics"
+        },
+        {
+            "key": "2021111803502278600_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1593",
+            "DOI": "10.1093/qje/qjw024",
+            "article-title": "Measuring Economic Policy Uncertainty*",
+            "volume": "131",
+            "author": "BAKER,",
+            "year": "2016",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021111803502278600_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "885",
+            "DOI": "10.1111/j.1468-0262.2004.00515.x",
+            "article-title": "Econometric Analysis of Realized Covariation: High Frequency Based Covariance, Regression, and Correlation in Financial Economics",
+            "volume": "72",
+            "author": "BARNDORFF-NIELSEN,",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021111803502278600_B8",
+            "first-page": "750",
+            "article-title": "Rare Disaster Probability and Options-Pricing",
+            "volume": "2019-073",
+            "author": "BARRO,",
+            "year": "2019",
+            "journal-title": "Finance and Economics Discussion Series"
+        },
+        {
+            "key": "2021111803502278600_B9",
+            "doi-asserted-by": "crossref",
+            "article-title": "Identification of Structural Vector Autogregressions by Stochastic Volatility",
+            "author": "BERTSCHE,",
+            "year": "2020",
+            "journal-title": "Journal of Business & Economic Statistics",
+            "DOI": "10.1080/07350015.2020.1813588"
+        },
+        {
+            "key": "2021111803502278600_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1016/j.jmoneco.2008.12.001",
+            "article-title": "Identifying the Interdependence between US Monetary Policy and the Stock Market",
+            "volume": "56",
+            "author": "BJ\u00d8RNLAND,",
+            "year": "2009",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021111803502278600_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1329",
+            "DOI": "10.1162/003355302320935043",
+            "article-title": "An Empirical Characterization of the Dynamic Effects of Changes in Government Spending and Taxes on Output",
+            "volume": "117",
+            "author": "BLANCHARD,",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021111803502278600_B12",
+            "first-page": "655",
+            "article-title": "The Dynamic Effects of Aggregate Demand and Supply Disturbances",
+            "volume": "79",
+            "author": "BLANCHARD,",
+            "year": "1989",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1353/eca.2001.0013",
+            "article-title": "The Long and Large Decline in U.S. Output Volatility",
+            "volume": "32",
+            "author": "BLANCHARD,",
+            "year": "2001",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2021111803502278600_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1887",
+            "DOI": "10.1257/aer.98.5.1887",
+            "article-title": "Consumption Inequality and Partial Insurance",
+            "volume": "98",
+            "author": "BLUNDELL,",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B15",
+            "article-title": "Feedbacks: Financial Markets and Economic Activity",
+            "volume-title": "American Economic Review",
+            "author": "BRUNNERMEIER,",
+            "year": "2020"
+        },
+        {
+            "key": "2021111803502278600_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1016/j.jeconom.2015.10.004",
+            "article-title": "Inference in VARs with Conditional Heteroskedasticity of Unknown Form",
+            "volume": "191",
+            "author": "BR\u00dcGGEMANN,",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1015",
+            "DOI": "10.1093/restud/rdx030",
+            "article-title": "The Analytics of SVARs: A Unified Framework to Measure Fiscal Multipliers",
+            "volume": "84",
+            "author": "CALDARA,",
+            "year": "2017",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021111803502278600_B18",
+            "article-title": "The Identifying Information in Vector Autoregressions with Time-Varying Volatilities: An Application to Endogenous Uncertainty",
+            "author": "CARRIERO,",
+            "year": "2019"
+        },
+        {
+            "key": "2021111803502278600_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "772",
+            "DOI": "10.1093/jjfinec/nbw002",
+            "article-title": "On the Observed-Data Deviance Information Criterion for Volatility Modeling",
+            "volume": "14",
+            "author": "CHAN,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1257/aer.104.1.27",
+            "article-title": "Risk Shocks",
+            "volume": "104",
+            "author": "CHRISTIANO,",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1016/j.red.2004.10.009",
+            "article-title": "Drifts and Volatilities: Monetary Policies and Outcomes in the Post WWII US",
+            "volume": "8",
+            "author": "COGLEY,",
+            "year": "2005",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2021111803502278600_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1301",
+            "DOI": "10.1080/01621459.1996.10476999",
+            "article-title": "On the Asymptotic Properties of LDU-Based Tests of the Rank of a Matrix",
+            "volume": "91",
+            "author": "CRAGG,",
+            "year": "1996",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2021111803502278600_B23",
+            "first-page": "2",
+            "article-title": "Analyse Generale des Liaisons Stochastiques",
+            "volume": "21",
+            "author": "DARMOIS,",
+            "year": "1953",
+            "journal-title": "Revue de l\u2019 Institut International de Statistique"
+        },
+        {
+            "key": "2021111803502278600_B24",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Stochastic Limit Theory: An Introduction for Econometricians",
+            "author": "DAVIDSON,",
+            "year": "1994",
+            "DOI": "10.1093/0198774036.001.0001"
+        },
+        {
+            "key": "2021111803502278600_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "977",
+            "DOI": "10.3150/09-BEJ213",
+            "article-title": "The Extremogram: A Correlogram for Extreme Events",
+            "volume": "15",
+            "author": "DAVIS,",
+            "year": "2009",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "2021111803502278600_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/j.jbankfin.2015.04.006",
+            "article-title": "Endogenous Crisis Dating and Contagion using Smooth Transition Structural GARCH",
+            "volume": "58",
+            "author": "DUNGEY,",
+            "year": "2015",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2021111803502278600_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "3352",
+            "DOI": "10.1257/aer.20121236",
+            "article-title": "Fiscal Volatility Shocks and Economic Activity",
+            "volume": "105",
+            "author": "FERN\u00c1NDEZ-VILLAVERDE,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B28",
+            "first-page": "1",
+            "article-title": "Fiscal Policy in the United States: Automatic Stabilizers, Discretionary Fiscal Policy Actions, and the Economy",
+            "volume": "43",
+            "author": "FOLLETTE,",
+            "year": "2010",
+            "journal-title": "Federal Reserve Board Finance and Economics Discussion Series"
+        },
+        {
+            "key": "2021111803502278600_B29",
+            "article-title": "Government Spending Multipliers in (Un)certain Times",
+            "author": "FRITSCHE,",
+            "year": "2019"
+        },
+        {
+            "key": "2021111803502278600_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.2307/2526135",
+            "article-title": "Estimating Regression Models of Finite but Unknown Order",
+            "volume": "22",
+            "author": "GEWEKE,",
+            "year": "1981",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1692",
+            "DOI": "10.1257/aer.102.4.1692",
+            "article-title": "Credit Spreads and Business Cycle Fluctuations",
+            "volume": "102",
+            "author": "GILCHRIST,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1016/j.jeconom.2003.10.030",
+            "article-title": "Bootstrapping Autoregressions with Conditional Heteroskedasticity of Unknown Form",
+            "volume": "123",
+            "author": "GON\u00c7ALVES,",
+            "year": "2004",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1016/j.jeconom.2016.09.007",
+            "article-title": "Statistical Inference for Independent Component Analysis: Application to Structural VAR Models",
+            "volume": "196",
+            "author": "GOURI\u00c9ROUX,",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B34",
+            "article-title": "Revisiting Identification and Estimation in Structural VARMA Models",
+            "author": "GOURI\u00c9ROUX,",
+            "year": "2014"
+        },
+        {
+            "key": "2021111803502278600_B35",
+            "article-title": "Identification of Structural Vector Autoregressions Through Higher Unconditional Moments",
+            "author": "GUAY,",
+            "year": "2020"
+        },
+        {
+            "key": "2021111803502278600_B36",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Time Series Analysis",
+            "author": "HAMILTON,",
+            "year": "1994",
+            "DOI": "10.1515/9780691218632"
+        },
+        {
+            "key": "2021111803502278600_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "573",
+            "DOI": "10.1002/(SICI)1099-1255(199609)11:5<573::AID-JAE413>3.0.CO;2-T",
+            "article-title": "Stock Market Volatility and the Business Cycle",
+            "volume": "11",
+            "author": "HAMILTON,",
+            "year": "1996",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.1080/07350015.2013.818006",
+            "article-title": "Principal Volatility Component Analysis",
+            "volume": "32",
+            "author": "HU,",
+            "year": "2014",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021111803502278600_B39",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Independent Component Analysis",
+            "author": "HYV\u00c4RINEN,",
+            "year": "2001",
+            "DOI": "10.1002/0471221317"
+        },
+        {
+            "key": "2021111803502278600_B40",
+            "first-page": "1709",
+            "article-title": "Estimation of a Structural Vector Autoregression Model Using Non-Gaussianity",
+            "volume": "11",
+            "author": "HYV\u00c4RINEN,",
+            "year": "2010",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "2021111803502278600_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.1257/aer.20131193",
+            "article-title": "Measuring Uncertainty",
+            "volume": "105",
+            "author": "JURADO,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "132",
+            "DOI": "10.1016/j.jmoneco.2009.12.008",
+            "article-title": "Investment Shocks and Business Cycles",
+            "volume": "57",
+            "author": "JUSTINIANO,",
+            "year": "2010",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021111803502278600_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1257/aer.99.3.1053",
+            "article-title": "Not All Oil Price Shocks Are Alike : Disentangling Supply Shocks in the Crude Oil Market",
+            "volume": "99",
+            "author": "KILIAN,",
+            "year": "2009",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1080/07350015.2019.1629940",
+            "article-title": "GMM Estimation of Non-Gaussian Structural Vector Autoregression",
+            "volume": "39",
+            "author": "LANNE,",
+            "year": "2019",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021111803502278600_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1016/j.jedc.2009.08.002",
+            "article-title": "Structural Vector Autoregressions with Markov Switching",
+            "volume": "34",
+            "author": "LANNE,",
+            "year": "2010",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021111803502278600_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.1016/j.jeconom.2016.06.002",
+            "article-title": "Identification and Estimation of Non-Gaussian Structural Vector Autoregressions",
+            "volume": "196",
+            "author": "LANNE,",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1198/073500106000000404",
+            "article-title": "A Multivariate Generalized Orthogonal Factor GARCH Model",
+            "volume": "25",
+            "author": "LANNE,",
+            "year": "2007",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2021111803502278600_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1080/07350015.2012.643126",
+            "article-title": "Using Heteroscedasticity to Identify and Estimate Mismeasured and Endogenous Regressor Models",
+            "volume": "30",
+            "author": "LEWBEL,",
+            "year": "2012",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021111803502278600_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "volume-title": "Handbook of Financial Time Series",
+            "author": "LINDNER,",
+            "year": "2009",
+            "DOI": "10.1007/978-3-540-71297-8_2"
+        },
+        {
+            "key": "2021111803502278600_B50",
+            "article-title": "Uncertainty and Business Cycles: Exogenous Impulse or Endogenous Response?",
+            "author": "LUDVIGSON,",
+            "year": "2020",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2021111803502278600_B51",
+            "doi-asserted-by": "crossref",
+            "volume-title": "New Introduction to Multiple Time Series Analysis",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2005",
+            "DOI": "10.1007/978-3-540-27752-1"
+        },
+        {
+            "key": "2021111803502278600_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/ectj/utaa008",
+            "article-title": "Testing Identification via Heteroskedasticity in Structural Vector Autoregressive Models",
+            "volume": "24",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2021",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "2021111803502278600_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "241",
+            "DOI": "10.1016/j.jedc.2016.09.007",
+            "article-title": "Testing for Identification in SVAR-GARCH Models",
+            "volume": "73",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2016",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021111803502278600_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1016/j.ecosta.2016.05.001",
+            "article-title": "Structural Vector Autoregressions with Heteroskedasticity: A Review of Different Volatility Models,",
+            "volume": "1",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2017",
+            "journal-title": "Econometrics and Statistics"
+        },
+        {
+            "key": "2021111803502278600_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1016/j.jedc.2017.09.001",
+            "article-title": "Structural Vector Autoregressions with Smooth Transition in Variances: The Interaction between US Monetary Policy and the Stock Market",
+            "volume": "84",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2017",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021111803502278600_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1111/obes.12238",
+            "article-title": "Choosing Between Different Time-Varying Volatility Models for Structural Vector Autoregressive Analysis",
+            "volume": "80",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2018",
+            "journal-title": "Oxford Bulletin of Economics and Statistics"
+        },
+        {
+            "key": "2021111803502278600_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "103862",
+            "DOI": "10.1016/j.jedc.2020.103862",
+            "article-title": "Bayesian Inference for Structural Vector Autoregressions Identified by Markov-Switching Heteroskedasticity,",
+            "volume": "113",
+            "author": "L\u00dcTKEPOHL,",
+            "year": "2020",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2021111803502278600_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "422",
+            "DOI": "10.1137/0601049",
+            "article-title": "The Elimination Matrix: Some Lemmas and Applications",
+            "volume": "1",
+            "author": "MAGNUS,",
+            "year": "1980",
+            "journal-title": "SIAM Journal on Algebraic Discrete Methods"
+        },
+        {
+            "key": "2021111803502278600_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "80",
+            "DOI": "10.1016/j.spl.2015.04.033",
+            "article-title": "New Independent Component Analysis Tools for Time Series",
+            "volume": "105",
+            "author": "MATILAINEN,",
+            "year": "2015",
+            "journal-title": "Statistics & Probability Letters"
+        },
+        {
+            "key": "2021111803502278600_B60",
+            "article-title": "2018-01 Vintage of the FRED-MD Database",
+            "author": "MCCRACKEN,",
+            "year": "2018"
+        },
+        {
+            "key": "2021111803502278600_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.3982/ECTA11574",
+            "article-title": "The Role of Automatic Stabilizers in the U.S. Business Cycle",
+            "volume": "84",
+            "author": "MCKAY,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021111803502278600_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1803",
+            "DOI": "10.1093/qje/qjy008",
+            "article-title": "Marginal Tax Rates and Income: New Time Series Evidence",
+            "volume": "133",
+            "author": "MERTENS,",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021111803502278600_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1212",
+            "DOI": "10.1257/aer.103.4.1212",
+            "article-title": "The Dynamic Effects of Personal and Corporate Income Tax Changes in the United States",
+            "volume": "103",
+            "author": "MERTENS,",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "S1",
+            "DOI": "10.1016/j.jmoneco.2013.04.004",
+            "article-title": "A Reconciliation of SVAR and Narrative Estimates of Tax Multipliers",
+            "volume": "68",
+            "author": "MERTENS,",
+            "year": "2014",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021111803502278600_B65",
+            "article-title": "Data from: A Reconciliation of SVAR and Narrative Estimates of Tax Multipliers",
+            "author": "MERTENS,",
+            "year": "2014"
+        },
+        {
+            "key": "2021111803502278600_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1515/jtse-2013-0010",
+            "article-title": "On Identifying Structural VAR Models via ARCH Effects",
+            "volume": "5",
+            "author": "MILUNOVICH,",
+            "year": "2013",
+            "journal-title": "Journal of Time Series Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "358",
+            "DOI": "10.1080/00401706.2013.806694",
+            "article-title": "A Robust Test for Weak Instruments",
+            "volume": "31",
+            "author": "MONTIEL OLEA,",
+            "year": "2013",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2021111803502278600_B68",
+            "article-title": "Inference in Structural VARs with External Instruments",
+            "author": "MONTIEL OLEA,",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "960",
+            "DOI": "10.1002/jae.1079",
+            "article-title": "What are the Effects of Fiscal Policy Shocks?",
+            "volume": "24",
+            "author": "MOUNTFORD,",
+            "year": "2009",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1111/jmcb.12015",
+            "article-title": "The Impact of the Volatility of Monetary Policy Shocks",
+            "volume": "45",
+            "author": "MUMTAZ,",
+            "year": "2013",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2021111803502278600_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "1283",
+            "DOI": "10.1093/qje/qjy004",
+            "article-title": "High Frequency Identification of Monetary Non-neutrality: The Information Effect",
+            "volume": "133",
+            "author": "NAKAMURA,",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021111803502278600_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1017/S0266466600004382",
+            "article-title": "Effects of Model Selection on Inference",
+            "volume": "7",
+            "author": "P\u00d6TSCHER,",
+            "year": "1991",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2021111803502278600_B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.1111/j.1467-937X.2005.00353.x",
+            "article-title": "Time Varying Structural Vector Autoregressions",
+            "volume": "72",
+            "author": "PRIMICERI,",
+            "year": "2005",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021111803502278600_B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "673",
+            "DOI": "10.1257/jel.49.3.673",
+            "article-title": "Can Government Purchases Stimulate the Economy",
+            "volume": "49",
+            "author": "RAMEY,",
+            "year": "2011",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2021111803502278600_B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "850",
+            "DOI": "10.1086/696277",
+            "article-title": "Government Spending Multipliers in Good Times and in Bad: Evidence from U.S. Historical Data",
+            "volume": "126",
+            "author": "RAMEY,",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021111803502278600_B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "777",
+            "DOI": "10.1162/003465303772815727",
+            "article-title": "Identification through Heteroskedasticity",
+            "volume": "85",
+            "author": "RIGOBON,",
+            "year": "2003",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2021111803502278600_B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1162/003355303321675473",
+            "article-title": "Measuring the Reaction of Monetary Policy to the Stock Market",
+            "volume": "118",
+            "author": "RIGOBON,",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2021111803502278600_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1016/j.jmoneco.2004.02.004",
+            "article-title": "The Impact of Monetary Policy on Asset Prices",
+            "volume": "51",
+            "author": "RIGOBON,",
+            "year": "2004",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2021111803502278600_B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "763",
+            "DOI": "10.1257/aer.100.3.763",
+            "article-title": "The Macroeconomic Effects of Tax Changes: Estimates Based on a New Measure of Fiscal Shocks",
+            "volume": "100",
+            "author": "ROMER,",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021111803502278600_B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1016/S0304-4076(01)00051-3",
+            "article-title": "Identification, Estimation and Testing of Conditionally Heteroskedastic Factor Models",
+            "volume": "102",
+            "author": "SENTANA,",
+            "year": "2001",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2021111803502278600_B81",
+            "first-page": "2003",
+            "article-title": "A Linear Non-Gaussian Acyclic Model for Causal Discovery",
+            "volume": "7",
+            "author": "SHIMIZU,",
+            "year": "2006",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "2021111803502278600_B82",
+            "first-page": "217",
+            "article-title": "On a Property of a Normal Distribution",
+            "volume": "89",
+            "author": "SKITOVICH,",
+            "year": "1953",
+            "journal-title": "Doklady Academii nauk SSSR"
+        },
+        {
+            "key": "2021111803502278600_B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.2307/2171753",
+            "article-title": "Instrumental Variables Regression with Weak Instruments",
+            "volume": "65",
+            "author": "STAIGER,",
+            "year": "1997",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021111803502278600_B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1086/ma.17.3585284",
+            "article-title": "Has the Business Cycle Changed and Why?",
+            "volume": "17",
+            "author": "STOCK,",
+            "year": "2002",
+            "journal-title": "NBER Macroeconomics Annual"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab009/38384847/rdab009.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/88/6/3086/41151708/rdab009.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/88/6/3086/41151708/rdab009.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                18
+            ]
+        ],
+        "date-time": "2021-11-18T04:19:39Z",
+        "timestamp": 1637209179000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/88/6/3086/6276883"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ]
+    },
+    "references-count": 84,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    5,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    15
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab009",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ]
+    }
+}

@@ -1,0 +1,1389 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                20
+            ]
+        ],
+        "date-time": "2022-05-20T02:49:36Z",
+        "timestamp": 1653014976539
+    },
+    "reference-count": 119,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        25
+                    ]
+                ],
+                "date-time": "2021-02-25T00:00:00Z",
+                "timestamp": 1614211200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                10
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We recast the Aiyagari\u2013Bewley\u2013Huggett model of income and wealth distribution in continuous time. This workhorse model\u2014as well as heterogeneous agent models more generally\u2014then boils down to a system of partial differential equations, a fact we take advantage of to make two types of contributions. First, a number of new theoretical results: (1) an analytic characterization of the consumption and saving behaviour of the poor, particularly their marginal propensities to consume; (2) a closed-form solution for the wealth distribution in a special case with two income types; (3) a proof that there is a unique stationary equilibrium if the intertemporal elasticity of substitution is weakly greater than one. Second, we develop a simple, efficient and portable algorithm for numerically solving for equilibria in a wide class of heterogeneous agent models, including\u2014but not limited to\u2014the Aiyagari\u2013Bewley\u2013Huggett model.</jats:p>",
+    "DOI": "10.1093/restud/rdab002",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                23
+            ]
+        ],
+        "date-time": "2021-02-23T20:42:35Z",
+        "timestamp": 1614112955000
+    },
+    "page": "45-86",
+    "source": "Crossref",
+    "is-referenced-by-count": 11,
+    "title": [
+        "Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach"
+    ],
+    "prefix": "10.1093",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Yves",
+            "family": "Achdou",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 de Paris, LJLL"
+                }
+            ]
+        },
+        {
+            "given": "Jiequn",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton"
+                }
+            ]
+        },
+        {
+            "given": "Jean-Michel",
+            "family": "Lasry",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 Paris-Dauphine"
+                }
+            ]
+        },
+        {
+            "given": "Pierre-Louis",
+            "family": "Lions",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Coll\u00e8ge de France"
+                }
+            ]
+        },
+        {
+            "given": "Benjamin",
+            "family": "Moll",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "London School of Economics"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                6
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022011221392591700_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "18",
+            "DOI": "10.1016/j.jet.2017.10.006",
+            "article-title": "On the Existence and Uniqueness of Stationary Equilibrium in Bewley Economies with Production",
+            "volume": "173",
+            "author": "A\u00c7IKG\u00d6Z,",
+            "year": "2018",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022011221392591700_B2",
+            "first-page": "1",
+            "article-title": "Finite Difference Methods for Mean Field Games",
+            "volume": "2074",
+            "author": "ACHDOU,",
+            "year": "2013",
+            "journal-title": "Hamilton-Jacobi Equations: Approximations, Numerical Analysis and Applications"
+        },
+        {
+            "key": "2022011221392591700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1136",
+            "DOI": "10.1137/090758477",
+            "article-title": "Mean Field Games: Numerical Methods",
+            "volume": "48",
+            "author": "ACHDOU,",
+            "year": "2010",
+            "journal-title": "SIAM Journal of Numerical Analysis"
+        },
+        {
+            "key": "2022011221392591700_B4",
+            "doi-asserted-by": "crossref",
+            "article-title": "Crisis and Commitment: Inflation Credibility and the Vulnerability to Sovereign Debt Crises",
+            "author": "AGUIAR,",
+            "year": "2013",
+            "DOI": "10.3386/w19516"
+        },
+        {
+            "key": "2022011221392591700_B5",
+            "article-title": "Sparse Grid Methods for Continuous-Time Heterogeneous Agent Models",
+            "author": "Ahn,",
+            "year": "2017",
+            "journal-title": "Norges Bank"
+        },
+        {
+            "key": "2022011221392591700_B6",
+            "article-title": "When Inequality Matters for Macro and Macro Matters for Inequality",
+            "volume": "32",
+            "author": "AHN,",
+            "year": "2017",
+            "journal-title": "NBER Macroeconomics Annual 2017"
+        },
+        {
+            "key": "2022011221392591700_B7",
+            "doi-asserted-by": "crossref",
+            "article-title": "Uninsured idiosyncratic risk and aggregate saving",
+            "author": "AIYAGARI,",
+            "year": "1993",
+            "DOI": "10.21034/wp.502"
+        },
+        {
+            "key": "2022011221392591700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "659",
+            "DOI": "10.2307/2118417",
+            "article-title": "Uninsured Idiosyncratic Risk and Aggregate Saving",
+            "volume": "109",
+            "author": "AIYAGARI,",
+            "year": "1994",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011221392591700_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1085",
+            "DOI": "10.1093/qje/qju016",
+            "article-title": "Trade and the Topography of the Spatial Economy",
+            "volume": "129",
+            "author": "ALLEN,",
+            "year": "2014",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011221392591700_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.3982/ECTA7686",
+            "article-title": "Search and Rest Unemployment",
+            "volume": "79",
+            "author": "ALVAREZ,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2333",
+            "DOI": "10.1257/aer.20160137",
+            "article-title": "Monetary Policy and the Redistribution Channel",
+            "volume": "109",
+            "author": "AUCLERT,",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B12",
+            "doi-asserted-by": "crossref",
+            "article-title": "Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models",
+            "author": "AUCLERT,",
+            "year": "2019",
+            "DOI": "10.3386/w26123"
+        },
+        {
+            "key": "2022011221392591700_B13",
+            "doi-asserted-by": "crossref",
+            "article-title": "Inequality and Aggregate Demand",
+            "author": "AUCLERT,",
+            "year": "2018",
+            "DOI": "10.3386/w24280"
+        },
+        {
+            "key": "2022011221392591700_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "588",
+            "DOI": "10.1257/aer.p20171004",
+            "article-title": "Aggregate Demand and the Top 1 Percent",
+            "volume": "107",
+            "author": "AUCLERT,",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1016/j.red.2013.07.002",
+            "article-title": "A Dynamic Model of Altruistically-Motivated Transfers",
+            "volume": "17",
+            "author": "BARCZYK,",
+            "year": "2014",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2022011221392591700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "705",
+            "DOI": "10.3982/QE353",
+            "article-title": "Altruistically Motivated Transfers under Uncertainty",
+            "volume": "5",
+            "author": "BARCZYK,",
+            "year": "2014",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2022011221392591700_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "766",
+            "DOI": "10.1093/restud/rdx036",
+            "article-title": "Evaluating Long-Term-Care Policy Options, Taking the Family Seriously",
+            "volume": "85",
+            "author": "BARCZYK,",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022011221392591700_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.3233/ASY-1991-4305",
+            "article-title": "Convergence of Approximation Schemes for Fully Nonlinear Second Order Equations",
+            "volume": "4",
+            "author": "BARLES,",
+            "year": "1991",
+            "journal-title": "Asymptotic Analysis"
+        },
+        {
+            "key": "2022011221392591700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1016/j.jmateco.2019.08.003",
+            "article-title": "The Invariant Distribution of Wealth and Employment Status in a Small Open Economy with Precautionary Savings",
+            "volume": "85",
+            "author": "BAYER,",
+            "year": "2019",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "2022011221392591700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "481",
+            "DOI": "10.1111/1468-0262.00293",
+            "article-title": "Tax and Education Policy in a Heterogeneous-Agent Economy: What Levels of Redistribution Maximize Growth and Efficiency?",
+            "volume": "70",
+            "author": "B\u00c9NABOU,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1261",
+            "DOI": "10.1257/jel.20161390",
+            "article-title": "Skewed Wealth Distributions: Theory and Empirics",
+            "volume": "56",
+            "author": "BENHABIB,",
+            "year": "2018",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2022011221392591700_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.3982/ECTA8416",
+            "article-title": "The Distribution of Wealth and Fiscal Policy in Economies with Finitely Lived Agents",
+            "volume": "79",
+            "author": "BENHABIB,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1016/j.jet.2015.07.013",
+            "article-title": "The Wealth Distribution in Bewley Economies with Capital Income Risk",
+            "volume": "159",
+            "author": "BENHABIB,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022011221392591700_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "466",
+            "DOI": "10.1017/S1365100514000066",
+            "article-title": "The Distribution Of Wealth In The Blanchard-Yaari Model",
+            "volume": "20",
+            "author": "BENHABIB,",
+            "year": "2016",
+            "journal-title": "Macroeconomic Dynamics"
+        },
+        {
+            "key": "2022011221392591700_B25",
+            "doi-asserted-by": "crossref",
+            "article-title": "Reconciling Models of Diffusion and Innovation: A Theory of the Productivity Distribution and Technology Frontier",
+            "author": "BENHABIB,",
+            "year": "2017",
+            "DOI": "10.3386/w23095"
+        },
+        {
+            "key": "2022011221392591700_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1502",
+            "DOI": "10.1093/restud/rdx060",
+            "article-title": "House Prices and Consumer Spending",
+            "volume": "85",
+            "author": "BERGER,",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022011221392591700_B27",
+            "article-title": "Stationary Monetary Equilibrium with a Continuum of Independently Fluctuating Consumers",
+            "author": "BEWLEY,",
+            "year": "1986",
+            "journal-title": "Contributions to Mathematical Economics in Honor of Gerard Debreu"
+        },
+        {
+            "key": "2022011221392591700_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.1257/aer.20121549",
+            "article-title": "Consumption Inequality and Family Labor Supply",
+            "volume": "106",
+            "author": "BLUNDELL,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1016/j.jedc.2018.01.002",
+            "article-title": "Exploiting MIT Shocks in Heterogeneous-agent Economies: The Impulse Response as a Numerical Derivative",
+            "volume": "89",
+            "author": "BOPPART,",
+            "year": "2018",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2022011221392591700_B30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jedc.2020.103963",
+            "article-title": "A Continuous-Time Model of Sovereign Debt",
+            "volume": "118",
+            "author": "BORNSTEIN,",
+            "year": "2020",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2022011221392591700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "S20",
+            "DOI": "10.1016/j.jmoneco.2014.09.002",
+            "article-title": "The Economic Stimulus Payments of 2008 and the Aggregate Demand for Consumption",
+            "volume": "68",
+            "author": "BRODA,",
+            "year": "2014",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022011221392591700_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "443",
+            "DOI": "10.1007/s10436-009-0121-2",
+            "article-title": "A Dynamic Model of Entrepreneurship with Borrowing Constraints: Theory and Evidence",
+            "volume": "5",
+            "author": "BUERA,",
+            "year": "2009",
+            "journal-title": "Annals of Finance"
+        },
+        {
+            "key": "2022011221392591700_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1964",
+            "DOI": "10.1257/aer.101.5.1964",
+            "article-title": "Finance and Development: A Tale of Two Sectors",
+            "volume": "101",
+            "author": "BUERA,",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "409",
+            "DOI": "10.1146/annurev-economics-080614-115348",
+            "article-title": "Entrepreneurship and Financial Frictions: A Macrodevelopment Perspective",
+            "volume": "7",
+            "author": "BUERA,",
+            "year": "2015",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2022011221392591700_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1086/670271",
+            "article-title": "Financial Frictions and the Persistence of History: A Quantitative Exploration",
+            "volume": "121",
+            "author": "BUERA,",
+            "year": "2013",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1017/S0962492904000182",
+            "article-title": "Sparse Grids",
+            "volume": "13",
+            "author": "BUNGARTZ,",
+            "year": "2004",
+            "journal-title": "Acta Numerica"
+        },
+        {
+            "key": "2022011221392591700_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1799",
+            "DOI": "10.1137/15M1018599",
+            "article-title": "On a Boltzmann Mean Field Model for Knowledge Growth",
+            "volume": "76",
+            "author": "BURGER,",
+            "year": "2016",
+            "journal-title": "SIAM Journal on Applied Mathematics"
+        },
+        {
+            "key": "2022011221392591700_B38",
+            "article-title": "Finite-Difference Methods for Dynamic Programming Problems",
+            "author": "CANDLER,",
+            "year": "1999",
+            "journal-title": "Computational Methods for the Study of Dynamic Economies"
+        },
+        {
+            "key": "2022011221392591700_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1016/j.red.2017.10.001",
+            "article-title": "Persistent Heterogeneous Returns and Top End Wealth Inequality",
+            "volume": "26",
+            "author": "CAO,",
+            "year": "2017",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2022011221392591700_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "643",
+            "DOI": "10.1090/S0002-9947-1990-0951880-0",
+            "article-title": "Hamilton-Jacobi Equations with State Constraints",
+            "volume": "318",
+            "author": "CAPUZZO-DOLCETTA,",
+            "year": "1990",
+            "journal-title": "Transactions of the American Mathematical Society"
+        },
+        {
+            "key": "2022011221392591700_B41",
+            "article-title": "Notes on Mean-Field Games (from P.-L. Lions\u2019 Lectures at Coll\u00e8ge de France)",
+            "author": "CARDALIAGUET,",
+            "year": "2013"
+        },
+        {
+            "key": "2022011221392591700_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "312",
+            "DOI": "10.1016/j.econlet.2005.09.013",
+            "article-title": "The Method of Endogenous Gridpoints for Solving Dynamic Stochastic Optimization Problems",
+            "volume": "91",
+            "author": "CARROLL,",
+            "year": "2006",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2022011221392591700_B43",
+            "first-page": "23",
+            "article-title": "Borrowing Constraints and International Comovements",
+            "volume": "34",
+            "author": "CONZE,",
+            "year": "1993",
+            "journal-title": "Hitotsubashi Journal of Economics"
+        },
+        {
+            "key": "2022011221392591700_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1090/S0002-9947-1983-0690039-8",
+            "article-title": "Viscosity Solutions of Hamilton-Jacobi Equations",
+            "volume": "277",
+            "author": "CRANDALL,",
+            "year": "1983",
+            "journal-title": "Transactions of the American Mathematical Society"
+        },
+        {
+            "key": "2022011221392591700_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.1257/aer.106.6.1221",
+            "article-title": "Measuring and Understanding Behavior, Welfare, and Poverty",
+            "volume": "106",
+            "author": "DEATON,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1017/S1365100597003040",
+            "article-title": "Solving Dynamic Models With Aggregate Shocks And Heterogeneous Agents",
+            "volume": "1",
+            "author": "DEN HAAN,",
+            "year": "1997",
+            "journal-title": "Macroeconomic Dynamics"
+        },
+        {
+            "key": "2022011221392591700_B47",
+            "author": "EVANS,",
+            "year": "2010",
+            "journal-title": "Partial Differential Equations"
+        },
+        {
+            "key": "2022011221392591700_B48",
+            "doi-asserted-by": "crossref",
+            "article-title": "MPC Heterogeneity and Household Balance Sheets",
+            "author": "FAGERENG,",
+            "year": "2016",
+            "DOI": "10.2139/ssrn.2861053"
+        },
+        {
+            "key": "2022011221392591700_B49",
+            "doi-asserted-by": "crossref",
+            "article-title": "Financial Frictions and the Wealth Distribution",
+            "author": "FERN\u00c1NDEZ-VILLAVERDE,",
+            "year": "2019",
+            "DOI": "10.3386/w26302"
+        },
+        {
+            "key": "2022011221392591700_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "2071",
+            "DOI": "10.3982/ECTA13569",
+            "article-title": "The Dynamics of Inequality",
+            "volume": "84",
+            "author": "GABAIX,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.2307/2297811",
+            "article-title": "Income Distribution and Macroeconomics",
+            "volume": "60",
+            "author": "GALOR,",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022011221392591700_B52",
+            "author": "GERSTNER,",
+            "year": "2010",
+            "journal-title": "Sparse Grids"
+        },
+        {
+            "key": "2022011221392591700_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1086/512625",
+            "article-title": "Menu Costs and Phillips Curves",
+            "volume": "115",
+            "author": "GOLOSOV,",
+            "year": "2007",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B54",
+            "first-page": "205",
+            "author": "GU\u00c9ANT,",
+            "year": "2011",
+            "journal-title": "Mean Field Games and Applications"
+        },
+        {
+            "key": "2022011221392591700_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1427",
+            "DOI": "10.1093/qje/qjx005",
+            "article-title": "Credit Crises, Precautionary Savings, and the Liquidity Trap",
+            "volume": "132",
+            "author": "GUERRIERI,",
+            "year": "2017",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011221392591700_B56",
+            "article-title": "Household Balance Sheets and Consumption Recessions",
+            "author": "GUERRIERI,",
+            "year": "2020"
+        },
+        {
+            "key": "2022011221392591700_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1109",
+            "DOI": "10.1162/JEEA.2008.6.6.1109",
+            "article-title": "Risk Aversion, Wealth, and Background Risk",
+            "volume": "6",
+            "author": "GUISO,",
+            "year": "2008",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2022011221392591700_B58",
+            "doi-asserted-by": "crossref",
+            "article-title": "Macroeconomics With Heterogeneity: A Practical Guide",
+            "author": "GUVENEN,",
+            "year": "2011",
+            "DOI": "10.3386/w17622"
+        },
+        {
+            "key": "2022011221392591700_B59",
+            "article-title": "The Fiscal Multiplier",
+            "author": "HAGEDORN,",
+            "year": "2017"
+        },
+        {
+            "key": "2022011221392591700_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1146/annurev.economics.050708.142922",
+            "article-title": "Quantitative Macroeconomics with Heterogeneous Households",
+            "volume": "1",
+            "author": "HEATHCOTE,",
+            "year": "2009",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2022011221392591700_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "2075",
+            "DOI": "10.1257/aer.104.7.2075",
+            "article-title": "Consumption and Labor Supply with Partial Insurance: An Analytical Framework",
+            "volume": "104",
+            "author": "HEATHCOTE,",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1016/j.econlet.2018.03.004",
+            "article-title": "Consumption with Liquidity Constraints: An Analytical Characterization",
+            "volume": "167",
+            "author": "HOLM,",
+            "year": "2018",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2022011221392591700_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.2307/2951541",
+            "article-title": "Entry, Exit, and Firm Dynamics in Long Run Equilibrium",
+            "volume": "60",
+            "author": "HOPENHAYN,",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "953",
+            "DOI": "10.1016/0165-1889(93)90024-M",
+            "article-title": "The Risk-free Rate in Heterogeneous-agent Incomplete-insurance Economies",
+            "volume": "17",
+            "author": "HUGGETT,",
+            "year": "1993",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2022011221392591700_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1016/S0304-3932(97)00025-1",
+            "article-title": "The One-Sector Growth Model with Idiosyncratic Shocks: Steady States and Dynamics",
+            "volume": "39",
+            "author": "HUGGETT,",
+            "year": "1997",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022011221392591700_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "1364",
+            "DOI": "10.1086/261658",
+            "article-title": "Cost of Business Cycles with Indivisibilities and Liquidity Constraints",
+            "volume": "97",
+            "author": "IMROHORO\u011eLU,",
+            "year": "1989",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1257/jep.29.1.29",
+            "article-title": "Pareto and Piketty: The Macroeconomics of Top Income and Wealth Inequality",
+            "volume": "29",
+            "author": "JONES,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2022011221392591700_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "1785",
+            "DOI": "10.1086/699190",
+            "article-title": "A Schumpeterian Model of Top Income Inequality",
+            "volume": "126",
+            "author": "JONES,",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "972",
+            "DOI": "10.1086/260808",
+            "article-title": "Job Matching and the Theory of Turnover",
+            "volume": "87",
+            "author": "JOVANOVIC,",
+            "year": "1979",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "697",
+            "DOI": "10.1257/aer.20160042",
+            "article-title": "Monetary Policy According to HANK",
+            "volume": "108",
+            "author": "KAPLAN,",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.3982/ECTA10528",
+            "article-title": "A Model of the Consumption Response to Fiscal Stimulus Payments",
+            "volume": "82",
+            "author": "KAPLAN,",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1016/j.jmoneco.2017.11.008",
+            "article-title": "Risk, Uncertainty, and the Dynamics of Inequality",
+            "volume": "94",
+            "author": "KASA,",
+            "year": "2018",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022011221392591700_B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "709",
+            "DOI": "10.1162/003355303321675491",
+            "article-title": "Human Capital Risk And Economic Growth",
+            "volume": "118",
+            "author": "KREBS,",
+            "year": "2003",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011221392591700_B74",
+            "article-title": "Macroeconomics and Heterogeneity, Including Inequality",
+            "author": "KRUEGER,",
+            "year": "2015"
+        },
+        {
+            "key": "2022011221392591700_B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.1086/250034",
+            "article-title": "Income and Wealth Heterogeneity in the Macroeconomy",
+            "volume": "106",
+            "author": "KRUSELL,",
+            "year": "1998",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B76",
+            "author": "KUSHNER,",
+            "year": "2013",
+            "journal-title": "Numerical Methods for Stochastic Control Problems in Continuous Time"
+        },
+        {
+            "key": "2022011221392591700_B77",
+            "article-title": "Present Bias Amplifies the Household Balance-Sheet Channels of Macroeconomic Policy",
+            "author": "LAIBSON,",
+            "year": "2020"
+        },
+        {
+            "key": "2022011221392591700_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1007/s11537-007-0657-8",
+            "article-title": "Mean Field Games",
+            "volume": "2",
+            "author": "LASRY,",
+            "year": "2007",
+            "journal-title": "Japanese Journal of Mathematics"
+        },
+        {
+            "key": "2022011221392591700_B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1007/s00199-018-1167-z",
+            "article-title": "Uniqueness of Equilibrium in a Bewley-Aiyagari Model",
+            "volume": "69",
+            "author": "LIGHT,",
+            "year": "2018",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2022011221392591700_B80",
+            "doi-asserted-by": "crossref",
+            "article-title": "State Dependent Monetary Policy",
+            "author": "LIPPI,",
+            "year": "2013",
+            "DOI": "10.2139/ssrn.2345294"
+        },
+        {
+            "key": "2022011221392591700_B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "1086",
+            "DOI": "10.1093/restud/rds042",
+            "article-title": "On-the-Job Search and Precautionary Savings",
+            "volume": "80",
+            "author": "LISE,",
+            "year": "2013",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022011221392591700_B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "402",
+            "DOI": "10.1257/aer.97.1.402",
+            "article-title": "Consumer Bankruptcy: A Fresh Start",
+            "volume": "97",
+            "author": "LIVSHITS,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B83",
+            "author": "LJUNGQVIST,",
+            "year": "2004",
+            "journal-title": "Recursive Macroeconomic Theory"
+        },
+        {
+            "key": "2022011221392591700_B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/674363",
+            "article-title": "Knowledge Growth and the Allocation of Time",
+            "volume": "122",
+            "author": "LUCAS,",
+            "year": "2014",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "1103",
+            "DOI": "10.1162/qjec.122.3.1103",
+            "article-title": "Selection, Growth, and the Size Distribution of Firms",
+            "volume": "122",
+            "author": "LUTTMER,",
+            "year": "2007",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011221392591700_B86",
+            "doi-asserted-by": "crossref",
+            "first-page": "1042",
+            "DOI": "10.1093/restud/rdq028",
+            "article-title": "On the Mechanics of Firm Growth",
+            "volume": "78",
+            "author": "LUTTMER,",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022011221392591700_B87",
+            "doi-asserted-by": "crossref",
+            "article-title": "An Assignment Model of Knowledge Diffusion and Income Inequality",
+            "author": "LUTTMER,",
+            "year": "2015",
+            "DOI": "10.21034/sr.509"
+        },
+        {
+            "key": "2022011221392591700_B88",
+            "doi-asserted-by": "crossref",
+            "article-title": "Lumpy Durable Consumption Demand and the Limited Ammunition of Monetary Policy",
+            "author": "MCKAY,",
+            "year": "2019",
+            "DOI": "10.3386/w26175"
+        },
+        {
+            "key": "2022011221392591700_B89",
+            "doi-asserted-by": "crossref",
+            "first-page": "2621",
+            "DOI": "10.1111/j.1540-6261.2005.00812.x",
+            "article-title": "Optimal Capital Structure and Industry Dynamics",
+            "volume": "60",
+            "author": "MIAO,",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011221392591700_B90",
+            "first-page": "84",
+            "article-title": "Consumption, Income Changes, and Heterogeneity: Evidence from Two Fiscal Stimulus Programs",
+            "volume": "6",
+            "author": "MISRA,",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2022011221392591700_B91",
+            "doi-asserted-by": "crossref",
+            "first-page": "3186",
+            "DOI": "10.1257/aer.104.10.3186",
+            "article-title": "Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?",
+            "volume": "104",
+            "author": "MOLL,",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B92",
+            "article-title": "Hopenhayn Model in Continuous Time",
+            "author": "MOLL,",
+            "year": "2018"
+        },
+        {
+            "key": "2022011221392591700_B93",
+            "doi-asserted-by": "crossref",
+            "first-page": "481",
+            "DOI": "10.1111/j.1468-0262.2005.00586.x",
+            "article-title": "Job Matching and the Wage Distribution",
+            "volume": "73",
+            "author": "MOSCARINI,",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B94",
+            "doi-asserted-by": "crossref",
+            "first-page": "280",
+            "DOI": "10.1016/j.red.2017.06.002",
+            "article-title": "Saving and Wealth Inequality",
+            "volume": "26",
+            "author": "NARDI,",
+            "year": "2017",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2022011221392591700_B95",
+            "doi-asserted-by": "crossref",
+            "first-page": "150",
+            "DOI": "10.1016/j.red.2017.08.003",
+            "article-title": "Social Optima in Economies with Heterogeneous Agents",
+            "volume": "28",
+            "author": "NU\u00d1O,",
+            "year": "2017",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2022011221392591700_B96",
+            "article-title": "Optimal Monetary Policy with Heterogeneous Agents",
+            "author": "NU\u00d1O,",
+            "year": "2017"
+        },
+        {
+            "key": "2022011221392591700_B97",
+            "doi-asserted-by": "crossref",
+            "author": "\u00d8KSENDAL,",
+            "year": "1995",
+            "journal-title": "Stochastic Differential Equations",
+            "DOI": "10.1007/978-3-662-03185-8"
+        },
+        {
+            "key": "2022011221392591700_B98",
+            "article-title": "Sufficient Statistics for Heterogeneous Agent Models",
+            "author": "OLIVI,",
+            "year": "2018"
+        },
+        {
+            "key": "2022011221392591700_B99",
+            "article-title": "Traveling Waves in a Mean Field Learning Model",
+            "author": "PAPANICOLAOU,",
+            "year": "2020"
+        },
+        {
+            "key": "2022011221392591700_B100",
+            "article-title": "Identification and Estimation of Heterogeneous Agent Models: A Likelihood Approach",
+            "author": "PARRA-ALVAREZ,",
+            "year": "2017"
+        },
+        {
+            "key": "2022011221392591700_B101",
+            "doi-asserted-by": "crossref",
+            "first-page": "52",
+            "DOI": "10.1086/674362",
+            "article-title": "Equilibrium Imitation and Growth",
+            "volume": "122",
+            "author": "PERLA,",
+            "year": "2014",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B102",
+            "doi-asserted-by": "crossref",
+            "first-page": "1229",
+            "DOI": "10.1016/B978-0-444-59429-7.00015-7",
+            "article-title": "Inequality in Macroeconomics",
+            "volume": "2",
+            "author": "QUADRINI,",
+            "year": "2015",
+            "journal-title": "Handbook of Income Distribution"
+        },
+        {
+            "key": "2022011221392591700_B103",
+            "doi-asserted-by": "crossref",
+            "article-title": "Working through the Distribution: Money in the Short and Long Run",
+            "author": "ROCHETEAU,",
+            "year": "2015",
+            "DOI": "10.3386/w21779"
+        },
+        {
+            "key": "2022011221392591700_B104",
+            "doi-asserted-by": "crossref",
+            "first-page": "1464",
+            "DOI": "10.1257/000282805775014371",
+            "article-title": "A Spatial Theory of Trade",
+            "volume": "95",
+            "author": "ROSSI-HANSBERG,",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011221392591700_B105",
+            "article-title": "Adaptive Sparse Grids for Solving Continuous Time Heterogeneous Agent Models",
+            "author": "RUTTSCHEIDT,",
+            "year": "2018"
+        },
+        {
+            "key": "2022011221392591700_B106",
+            "article-title": "Lecture Notes for a Reading Course on Mean-Field Games",
+            "author": "RYZHIK,",
+            "year": "2018"
+        },
+        {
+            "key": "2022011221392591700_B107",
+            "doi-asserted-by": "crossref",
+            "first-page": "1377",
+            "DOI": "10.1111/1468-0262.00165",
+            "article-title": "Accuracy of Numerical Solutions Using the Euler Equation Residuals",
+            "volume": "68",
+            "author": "SANTOS,",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B108",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.2307/1914155",
+            "article-title": "Borrowing Constraints and Aggregate Economic Activity",
+            "volume": "54",
+            "author": "SCHEINKMAN,",
+            "year": "1986",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B109",
+            "article-title": "Firm Entry and Exit in Continuous Time",
+            "author": "SHAKER AKHTEKHANE,",
+            "year": "2017"
+        },
+        {
+            "key": "2022011221392591700_B110",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.2307/1914229",
+            "article-title": "Optimal Growth with a Convex-Concave Production Function",
+            "volume": "46",
+            "author": "SKIBA,",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011221392591700_B111",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1137/0324032",
+            "article-title": "Optimal Control with State-Space Constraint I",
+            "volume": "24",
+            "author": "SONER,",
+            "year": "1986",
+            "journal-title": "SIAM Journal on Control and Optimization"
+        },
+        {
+            "key": "2022011221392591700_B112",
+            "doi-asserted-by": "crossref",
+            "first-page": "1110",
+            "DOI": "10.1137/0324067",
+            "article-title": "Optimal Control with State-Space Constraint II",
+            "volume": "24",
+            "author": "SONER,",
+            "year": "1986",
+            "journal-title": "SIAM Journal of Control and Optimization"
+        },
+        {
+            "key": "2022011221392591700_B113",
+            "article-title": "The Race Between Technology and Human Capital",
+            "author": "STOKEY,",
+            "year": "2014"
+        },
+        {
+            "key": "2022011221392591700_B114",
+            "author": "STOKEY,",
+            "year": "2009",
+            "journal-title": "The Economics of Inaction"
+        },
+        {
+            "key": "2022011221392591700_B115",
+            "article-title": "Generalized Solutions",
+            "author": "TAO,",
+            "year": "2008",
+            "journal-title": "The Princeton Companion to Mathematics"
+        },
+        {
+            "key": "2022011221392591700_B116",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.1086/682729",
+            "article-title": "The Double Power Law in Consumption and Implications for Testing Euler Equations",
+            "volume": "123",
+            "author": "TODA,",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011221392591700_B117",
+            "doi-asserted-by": "crossref",
+            "article-title": "An Introduction to Finite Difference Methods for PDEs in Finance",
+            "author": "TOURIN,",
+            "year": "2013",
+            "journal-title": "Optimal Stochastic Target Problems, and Backward SDE.",
+            "DOI": "10.1007/978-1-4614-4286-8_13"
+        },
+        {
+            "key": "2022011221392591700_B118",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1086/678306",
+            "article-title": "Uncertainty and the Politics of Employment Protection",
+            "volume": "33",
+            "author": "VINDIGNI,",
+            "year": "2015",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2022011221392591700_B119",
+            "doi-asserted-by": "crossref",
+            "first-page": "1882",
+            "DOI": "10.1016/j.jmoneco.2006.11.005",
+            "article-title": "An Equilibrium Model of Wealth Distribution",
+            "volume": "54",
+            "author": "WANG,",
+            "year": "2007",
+            "journal-title": "Journal of Monetary Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab002/39835373/rdab002.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/1/45/42137446/rdab002.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/1/45/42137446/rdab002.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2022-01-12T21:47:13Z",
+        "timestamp": 1642024033000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/89/1/45/6149490"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                6
+            ]
+        ]
+    },
+    "references-count": 119,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    6
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    10
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab002",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                6
+            ]
+        ]
+    }
+}
