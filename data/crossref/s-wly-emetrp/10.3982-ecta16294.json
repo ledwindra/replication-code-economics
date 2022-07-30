@@ -1,0 +1,888 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                22
+            ]
+        ],
+        "date-time": "2022-07-22T12:45:46Z",
+        "timestamp": 1658493946781
+    },
+    "reference-count": 81,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "funder": [
+        {
+            "DOI": "10.13039/501100004837",
+            "name": "Ministerio de Ciencia e Innovaci\u00f3n",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100012818",
+            "name": "Comunidad de Madrid",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Many economic and causal parameters depend on nonparametric or high dimensional first steps. We give a general construction of locally robust/orthogonal moment functions for GMM, where first steps have no effect, locally, on average moment functions. Using these orthogonal moments reduces model selection and regularization bias, as is important in many applications, especially for machine learning first steps. Also, associated standard errors are robust to misspecification when there is the same number of moment functions as parameters of interest.</jats:p>\n          <jats:p>We use these orthogonal moments and cross\u2010fitting to construct debiased machine learning estimators of functions of high dimensional conditional quantiles and of dynamic discrete choice parameters with high dimensional state variables. We show that additional first steps needed for the orthogonal moment functions have no effect, globally, on average orthogonal moment functions. We give a general approach to estimating those additional first steps. We characterize double robustness and give a variety of new doubly robust moment functions. We give general and simple regularity conditions for asymptotic theory.</jats:p>",
+    "DOI": "10.3982/ecta16294",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                21
+            ]
+        ],
+        "date-time": "2022-07-21T13:07:09Z",
+        "timestamp": 1658408829000
+    },
+    "page": "1501-1535",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Locally Robust Semiparametric Estimation"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Victor",
+            "family": "Chernozhukov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                }
+            ]
+        },
+        {
+            "given": "Juan Carlos",
+            "family": "Escanciano",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Universidad Carlos III de Madrid"
+                }
+            ]
+        },
+        {
+            "given": "Hidehiko",
+            "family": "Ichimura",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Arizona"
+                },
+                {
+                    "name": "Department of Economics, University of Tokyo"
+                }
+            ]
+        },
+        {
+            "given": "Whitney K.",
+            "family": "Newey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "James M.",
+            "family": "Robins",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Epidemiology, School of Public Health, Harvard University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200405-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "481",
+            "DOI": "10.1162/REST_a_00251",
+            "volume": "94",
+            "author": "Ackerberg",
+            "year": "2012",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "919",
+            "DOI": "10.1093/restud/rdu011",
+            "volume": "81",
+            "author": "Ackerberg",
+            "year": "2014",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200405-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1111/1468-0262.00470",
+            "volume": "71",
+            "author": "Ai",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1016/j.jeconom.2007.01.013",
+            "volume": "141",
+            "author": "Ai",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.2307/2951475",
+            "volume": "62",
+            "author": "Andrews",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0006",
+            "first-page": "225",
+            "volume": "13",
+            "author": "Angrist",
+            "year": "1995",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1111/rssb.12268",
+            "volume": "80",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "Journal of the Royal Statistical Society, Series B"
+        },
+        {
+            "key": "ecta200405-bib-0008",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/24709360.2021.1898730"
+        },
+        {
+            "key": "ecta200405-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "DOI": "10.1198/jbes.2009.07264",
+            "volume": "28",
+            "author": "Bajari",
+            "year": "2010",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0010",
+            "first-page": "82",
+            "volume": "9",
+            "author": "Belloni",
+            "year": "2011",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "2369",
+            "DOI": "10.3982/ECTA9626",
+            "volume": "80",
+            "author": "Belloni",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.3982/ECTA12723",
+            "volume": "85",
+            "author": "Belloni",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1093/restud/rdt044",
+            "volume": "81",
+            "author": "Belloni",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200405-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "647",
+            "DOI": "10.1214/aos/1176345863",
+            "volume": "10",
+            "author": "Bickel",
+            "year": "1982",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0015",
+            "first-page": "381",
+            "volume": "238",
+            "author": "Bickel",
+            "year": "1988",
+            "journal-title": "Sankhya: The Indian Journal of Statistics, Series A"
+        },
+        {
+            "key": "ecta200405-bib-0016",
+            "volume-title": "Efficient and Adaptive Estimation for Semiparametric Models",
+            "author": "Bickel",
+            "year": "1993"
+        },
+        {
+            "key": "ecta200405-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1002/(SICI)1099-1255(199901/02)14:1<69::AID-JAE521>3.0.CO;2-7",
+            "volume": "14",
+            "author": "Blomquist",
+            "year": "1999",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0018",
+            "unstructured": "Bonhomme, Stephane, and Martin Weidner (2018): \u201cMinimizing Sensitivity to Model Misspecification,\u201d, https://arxiv.org/pdf/1807.02161.pdf."
+        },
+        {
+            "key": "ecta200405-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1214/18-AOS1788",
+            "volume": "48",
+            "author": "Bravo",
+            "year": "2020",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1174",
+            "DOI": "10.1080/01621459.2018.1482752",
+            "volume": "114",
+            "author": "Carone",
+            "year": "2019",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200405-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "955",
+            "DOI": "10.3982/ECTA12701",
+            "volume": "86",
+            "author": "Cattaneo",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "1095",
+            "DOI": "10.1093/restud/rdy053",
+            "volume": "86",
+            "author": "Cattaneo",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200405-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1214/aos/1031833670",
+            "volume": "25",
+            "author": "Chaudhuri",
+            "year": "1997",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/j.jeconom.2015.07.001",
+            "volume": "189",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "1591",
+            "DOI": "10.1111/1468-0262.00461",
+            "volume": "71",
+            "author": "Chen",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "ecta200405-bib-0027",
+            "unstructured": "Chernozhukov, Victor, Victor K. Newey, and Victor Singh (2018): \u201cLearning L2-Continuous Regression Functionals via Regularized Riesz Representers.\u201d https://arxiv.org/pdf/1809.05224v1.pdf."
+        },
+        {
+            "key": "ecta200405-bib-0028",
+            "unstructured": "Chernozhukov, Victor, Juan Carlos Escanciano, Hidehiko Ichimura, and Whitney K. Newey (2016): \u201cLocally Robust Semiparametric Estimation.\u201d arXiv:1608.00033."
+        },
+        {
+            "key": "ecta200405-bib-0029",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Juan Carlos Escanciano, Hidehiko Ichimura, Whitney K. Newey, and James M. Robins (2022): \u201cSupplement to \u2018Locally Robust Semiparametric Estimation\u2019,\u201d Econometrica Supplemental Material, 90, https://doi.org/10.3982/ECTA16294.",
+            "DOI": "10.3982/ECTA16294"
+        },
+        {
+            "key": "ecta200405-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "649",
+            "DOI": "10.1146/annurev-economics-012315-015826",
+            "volume": "7",
+            "author": "Chernozhukov",
+            "year": "2015",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "ecta200405-bib-0031",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Whitney K. Newey, and James M. Robins (2018): \u201cDouble/De-Biased Machine Learning Using Regularized Riesz Representers.\u201d arXiv:1802.08667.",
+            "DOI": "10.1920/wp.cem.2018.1518"
+        },
+        {
+            "key": "ecta200405-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1016/j.jeconom.2020.05.002",
+            "volume": "221",
+            "author": "Escanciano",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.06.017",
+            "volume": "189",
+            "author": "Farrell",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "1048",
+            "DOI": "10.1017/S0266466618000385",
+            "volume": "35",
+            "author": "Firpo",
+            "year": "2019",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200405-bib-0035",
+            "unstructured": "Foster, Dylan F., and Vasilis Syrgkanis (2019): \u201cOrthogonal Statistical Learning,\u201d, https://arxiv.org/pdf/1901.09036.pdf."
+        },
+        {
+            "key": "ecta200405-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.3982/ECTA7379",
+            "volume": "79",
+            "author": "Graham",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.2307/2998560",
+            "volume": "66",
+            "author": "Hahn",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA9609",
+            "volume": "81",
+            "author": "Hahn",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1016/j.jeconom.2018.12.016",
+            "volume": "211",
+            "author": "Hahn",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1080/01621459.1974.10482962",
+            "volume": "69",
+            "author": "Hampel",
+            "year": "1974",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200405-bib-0041",
+            "first-page": "41",
+            "volume-title": "Proceedings of the 2nd Prague Symposium on Asymptotic Statistics",
+            "author": "Hasminskii",
+            "year": "1978"
+        },
+        {
+            "key": "ecta200405-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "1161",
+            "DOI": "10.1111/1468-0262.00442",
+            "volume": "71",
+            "author": "Hirano",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0043",
+            "unstructured": "Hirshberg, David A., and Stefan Wager (2019): \u201cAugmented Minimax Linear Estimation,\u201d Annals of Statistics. (forthcoming)."
+        },
+        {
+            "key": "ecta200405-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.2307/2298122",
+            "volume": "60",
+            "author": "Hotz",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200405-bib-0045",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Robust Statistics",
+            "author": "Huber",
+            "year": "1981",
+            "DOI": "10.1002/0471725250"
+        },
+        {
+            "key": "ecta200405-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-4076(93)90114-K",
+            "volume": "58",
+            "author": "Ichimura",
+            "year": "1993",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0047",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ichimura, Hidehiko, and Whitney K. Newey (2021): \u201cThe Influence Function of Semiparametric Estimators,\u201d Quantitative Economics. (forthcoming).",
+            "DOI": "10.3982/QE826"
+        },
+        {
+            "key": "ecta200405-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "1548",
+            "DOI": "10.1214/aos/1176350609",
+            "volume": "15",
+            "author": "Klaassen",
+            "year": "1987",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.2307/2951556",
+            "volume": "61",
+            "author": "Klein",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1017/S0266466605050036",
+            "volume": "21",
+            "author": "Leeb",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200405-bib-0051",
+            "volume-title": "Optimization by Vector Space Methods",
+            "author": "Luenberger",
+            "year": "1969"
+        },
+        {
+            "key": "ecta200405-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1002/jae.3950050202",
+            "volume": "5",
+            "author": "Newey",
+            "year": "1990",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "1161",
+            "DOI": "10.2307/2938179",
+            "volume": "59",
+            "author": "Newey",
+            "year": "1991",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "1349",
+            "DOI": "10.2307/2951752",
+            "volume": "62",
+            "author": "Newey",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0055",
+            "first-page": "233",
+            "volume": "10",
+            "author": "Newey",
+            "year": "1994",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200405-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "1565",
+            "DOI": "10.1111/1468-0262.00459",
+            "volume": "71",
+            "author": "Newey",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0057",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Newey, Whitney K., and James M. Robins (2017): \u201cCross Fitting and Fast Remainder Rates for Semiparametric Estimation,\u201d CEMMAP Working paper WP41/17.",
+            "DOI": "10.1920/wp.cem.2017.4117"
+        },
+        {
+            "key": "ecta200405-bib-0058",
+            "first-page": "947",
+            "volume": "72",
+            "author": "Newey",
+            "year": "1998",
+            "journal-title": "MIT Dept. of Economics working paper"
+        },
+        {
+            "key": "ecta200405-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "947",
+            "DOI": "10.1111/j.1468-0262.2004.00518.x",
+            "volume": "72",
+            "author": "Newey",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0060",
+            "volume-title": "Probability and Statistics, the Harald Cramer Volume",
+            "author": "Neyman",
+            "year": "1959"
+        },
+        {
+            "key": "ecta200405-bib-0061",
+            "series-title": "Springer Lecture Notes in Statistics",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Contributions to a General Asymptotic Statistical Theory",
+            "author": "Pfanzagl",
+            "year": "1982",
+            "DOI": "10.1007/978-1-4612-5769-1"
+        },
+        {
+            "key": "ecta200405-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.2307/1913713",
+            "volume": "57",
+            "author": "Powell",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0063",
+            "first-page": "863",
+            "volume": "11",
+            "author": "Robins",
+            "year": "2001",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "key": "ecta200405-bib-0064",
+            "first-page": "335",
+            "volume": "2",
+            "author": "Robins",
+            "year": "2008",
+            "journal-title": "IMS Collections Probability and Statistics: Essays in Honor of David A. Freedman"
+        },
+        {
+            "key": "ecta200405-bib-0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "846",
+            "DOI": "10.1080/01621459.1994.10476818",
+            "volume": "89",
+            "author": "Robins",
+            "year": "1994",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200405-bib-0066",
+            "unstructured": "Robins, James M., Peng Zhang, Rajeev Ayyagari, Roger W. Logan, Eric Tchetgen Tchetgen, Lingling Li, and Thomas Lumley (2013): \u201cNew Statistical Approaches to Semiparametric Regression With Application to Air Pollution Research,\u201d Research Report Health E Inst."
+        },
+        {
+            "key": "ecta200405-bib-0067",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.2307/1912705",
+            "volume": "56",
+            "author": "Robinson",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "999",
+            "DOI": "10.2307/1911259",
+            "volume": "55",
+            "author": "Rust",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200405-bib-0069",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.1214/aos/1176350055",
+            "volume": "14",
+            "author": "Schick",
+            "year": "1986",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0070",
+            "unstructured": "Semenova, Vira (2018): \u201cDebiased Machine Learning of Set-Identified Linear Models,\u201d, https://arxiv.org/pdf/1712.10024.pdf."
+        },
+        {
+            "key": "ecta200405-bib-0071",
+            "doi-asserted-by": "crossref",
+            "first-page": "491",
+            "DOI": "10.1016/j.jeconom.2012.05.018",
+            "volume": "170",
+            "author": "Severini",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200405-bib-0072",
+            "unstructured": "Singh, Rahul, and Liyang Sun (2019): \u201cDe-Biased Machine Learning in Instrumental Variable Models for Treatment Effects,\u201d, https://arxiv.org/pdf/1909.05244.pdf."
+        },
+        {
+            "key": "ecta200405-bib-0073",
+            "first-page": "811",
+            "volume": "48",
+            "author": "Tan",
+            "year": "2020",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0074",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1177/009286150904300406",
+            "volume": "43",
+            "author": "Tchetgen Tcehtgen",
+            "year": "2009",
+            "journal-title": "Drug Information Journal"
+        },
+        {
+            "key": "ecta200405-bib-0075",
+            "first-page": "29",
+            "volume": "10",
+            "author": "Laan",
+            "year": "2014",
+            "journal-title": "International Journal of Biostatistics"
+        },
+        {
+            "key": "ecta200405-bib-0076",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Targeted Learning: Causal Inference for Observational and Experimental Data",
+            "author": "Laan",
+            "year": "2011",
+            "DOI": "10.1007/978-1-4419-9782-1"
+        },
+        {
+            "key": "ecta200405-bib-0077",
+            "doi-asserted-by": "crossref",
+            "unstructured": "van der Laan, Mark J., and Daniel Rubin (2006): \u201cTargeted Maximum Likelihood Learning,\u201d The International Journal of Biostatistics, 2.",
+            "DOI": "10.2202/1557-4679.1043"
+        },
+        {
+            "key": "ecta200405-bib-0078",
+            "doi-asserted-by": "crossref",
+            "first-page": "178",
+            "DOI": "10.1214/aos/1176347976",
+            "volume": "19",
+            "author": "Vaart",
+            "year": "1991",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200405-bib-0079",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Asymptotic Statistics",
+            "author": "Vaart",
+            "year": "1998",
+            "DOI": "10.1017/CBO9780511802256"
+        },
+        {
+            "key": "ecta200405-bib-0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "1024",
+            "DOI": "10.1080/01621459.2014.958155",
+            "volume": "110",
+            "author": "Vermeulen",
+            "year": "2015",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200405-bib-0081",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1214/aoms/1177730385",
+            "volume": "18",
+            "author": "Von Mises",
+            "year": "1947",
+            "journal-title": "Annals of Mathematical Statistics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                21
+            ]
+        ],
+        "date-time": "2022-07-21T13:11:09Z",
+        "timestamp": 1658409069000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA16294"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 81,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA16294"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16294",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}

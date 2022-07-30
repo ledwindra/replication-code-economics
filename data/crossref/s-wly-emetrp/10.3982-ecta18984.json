@@ -1,0 +1,822 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                21
+            ]
+        ],
+        "date-time": "2022-07-21T13:42:02Z",
+        "timestamp": 1658410922136
+    },
+    "reference-count": 64,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2022-01-01T00:00:00Z",
+                "timestamp": 1640995200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We investigate the impact of job loss on crime and the mitigating role of unemployment benefits, exploiting detailed individual\u2010level data linking employment careers, criminal records, and welfare registries for the universe of male workers in Brazil. The probability of committing crimes increases on average by 23% for workers displaced by mass layoffs, and by slightly less for their cohabiting sons. Using causal forests, we show that the effect is entirely driven by young and low\u2010tenure workers, while there is no heterogeneity by education and income. Regression discontinuity estimates indicate that unemployment benefit eligibility completely offsets potential crime increases upon job loss, but this effect vanishes completely immediately after benefit expiration. Our findings point to liquidity constraints and psychological stress as the main drivers of criminal behavior upon job loss, while substitution between time on the job and leisure does not seem to play an important role.</jats:p>",
+    "DOI": "10.3982/ecta18984",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                21
+            ]
+        ],
+        "date-time": "2022-07-21T13:07:09Z",
+        "timestamp": 1658408829000
+    },
+    "page": "1393-1423",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Effect of Job Loss and Unemployment Insurance on Crime in Brazil"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Diogo G. C.",
+            "family": "Britto",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Bocconi University"
+                },
+                {
+                    "name": "BAFFI-CAREFIN"
+                },
+                {
+                    "name": "CLEAN"
+                },
+                {
+                    "name": "GAPPE/UFPE"
+                },
+                {
+                    "name": "IZA"
+                }
+            ]
+        },
+        {
+            "given": "Paolo",
+            "family": "Pinotti",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Bocconi University"
+                },
+                {
+                    "name": "BAFFI-CAREFIN"
+                },
+                {
+                    "name": "CLEAN"
+                },
+                {
+                    "name": "CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Breno",
+            "family": "Sampaio",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Federal University of Pernambuco"
+                },
+                {
+                    "name": "GAPPE/UFPE"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "27",
+            "key": "ecta200442-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "7353",
+            "DOI": "10.1073/pnas.1510489113",
+            "volume": "113",
+            "author": "Athey",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "ecta200442-bib-0002",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Athey, Susan, and Guido Imbens (2018): \u201cDesign-Based Analysis in Difference-in-Differences Settings With Staggered Adoption,\u201d Technical Report, National Bureau of Economic Research.",
+            "DOI": "10.3386/w24963"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1353/obs.2019.0001",
+            "volume": "5",
+            "author": "Athey",
+            "year": "2019",
+            "journal-title": "Observational Studies"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1148",
+            "DOI": "10.1214/18-AOS1709",
+            "volume": "47",
+            "author": "Athey",
+            "year": "2019",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1086/259394",
+            "volume": "76",
+            "author": "Becker",
+            "year": "1968",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200442-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "2182",
+            "DOI": "10.1093/jeea/jvz054",
+            "volume": "18",
+            "author": "Bennett",
+            "year": "2019",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "833",
+            "DOI": "10.1177/0019793915586381",
+            "volume": "68",
+            "author": "Black",
+            "year": "2015",
+            "journal-title": "ILR Review"
+        },
+        {
+            "key": "ecta200442-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Borusyak, Kirill, and Xavier Jaravel (2017): \u201cRevisiting Event Study Designs,\u201d Available at SSRN 2826228.",
+            "DOI": "10.2139/ssrn.2826228"
+        },
+        {
+            "key": "ecta200442-bib-0009",
+            "unstructured": "Britto, Diogo (2020): \u201cThe Employment Effects of Lump-sum and Contingent Job Insurance Policies: Evidence From Brazil,\u201d The Review of Economics and Statistics."
+        },
+        {
+            "key": "ecta200442-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Britto, Diogo G. C., Paolo Pinotti, and Breno Sampaio (2022): \u201cSupplement to \u2018The Effect of Job Loss and Unemployment Insurance on Crime in Brazil\u2019,\u201d Econometrica Supplemental Material, 90, https://doi.org/10.3982/ECTA18984.",
+            "DOI": "10.3982/ECTA18984"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "200",
+            "DOI": "10.1016/j.jeconom.2020.12.001",
+            "volume": "225",
+            "author": "Callaway",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200442-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "2295",
+            "DOI": "10.3982/ECTA11757",
+            "volume": "82",
+            "author": "Calonico",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1177/1536867X1801800115",
+            "volume": "18",
+            "author": "Cattaneo",
+            "year": "2018",
+            "journal-title": "The Stata Journal"
+        },
+        {
+            "issue": "531",
+            "key": "ecta200442-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.1080/01621459.2019.1635480",
+            "volume": "115",
+            "author": "Cattaneo",
+            "year": "2020",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "9",
+            "key": "ecta200442-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "2964",
+            "DOI": "10.1257/aer.20181169",
+            "volume": "110",
+            "author": "Chaisemartin",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200442-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1532",
+            "DOI": "10.1016/j.jhealeco.2008.06.004",
+            "volume": "27",
+            "author": "Charles",
+            "year": "2008",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "ecta200442-bib-0017",
+            "volume-title": "Income Risk and the Benefits of Social Insurance: Evidence From Indonesia and the United States",
+            "author": "Chetty",
+            "year": "2009"
+        },
+        {
+            "issue": "C",
+            "key": "ecta200442-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "306",
+            "DOI": "10.1016/j.econedurev.2015.04.005",
+            "volume": "54",
+            "author": "Chioda",
+            "year": "2016",
+            "journal-title": "Economics of Education Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "572",
+            "DOI": "10.1257/aer.100.1.572",
+            "volume": "100",
+            "author": "Couch",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0020",
+            "first-page": "43",
+            "volume": "1",
+            "author": "Dell",
+            "year": "2019",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0021",
+            "first-page": "158",
+            "volume": "10",
+            "author": "Dix-Carneiro",
+            "year": "2018",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1146/annurev-economics-080614-115808",
+            "volume": "7",
+            "author": "Draca",
+            "year": "2015",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200442-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.1086/260058",
+            "volume": "81",
+            "author": "Ehrlich",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1257/jep.10.1.43",
+            "volume": "10",
+            "author": "Ehrlich",
+            "year": "1996",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "ecta200442-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ferraz, Claudio, Frederico Finan, and Dimitri Szerman (2015): \u201cProcuring Firm Growth: The Effects of Government Purchases on Firm Dynamics,\u201d Technical Report, National Bureau of Economic Research.",
+            "DOI": "10.3386/w21219"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1086/655778",
+            "volume": "53",
+            "author": "Fishback",
+            "year": "2010",
+            "journal-title": "The Journal of Law and Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1162/REST_a_00068",
+            "volume": "93",
+            "author": "Foley",
+            "year": "2011",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200442-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "909",
+            "DOI": "10.1162/JEEA.2009.7.5.909",
+            "volume": "7",
+            "author": "Foug\u00e8re",
+            "year": "2009",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200442-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "2383",
+            "DOI": "10.1257/aer.20170537",
+            "volume": "109",
+            "author": "Ganong",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1093/jeea/jvy045",
+            "volume": "18",
+            "author": "Gathmann",
+            "year": "2020",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200442-bib-0031",
+            "first-page": "167",
+            "volume": "13",
+            "author": "Gerard",
+            "year": "2021",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200442-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "899",
+            "DOI": "10.1257/aer.20190388",
+            "volume": "111",
+            "author": "Gerard",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200442-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "839",
+            "DOI": "10.3982/QE1079",
+            "volume": "11",
+            "author": "Gerard",
+            "year": "2020",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "254",
+            "DOI": "10.1016/j.jeconom.2021.03.014",
+            "volume": "225",
+            "author": "Goodman-Bacon",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1162/003465302317331919",
+            "volume": "84",
+            "author": "Gould",
+            "year": "2002",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "756",
+            "DOI": "10.1086/209905",
+            "volume": "16",
+            "author": "Grogger",
+            "year": "1998",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "ecta200442-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.1016/j.jeoa.2016.07.001",
+            "volume": "9",
+            "author": "Ichino",
+            "year": "2017",
+            "journal-title": "Journal of the Economics of Ageing"
+        },
+        {
+            "key": "ecta200442-bib-0038",
+            "unstructured": "Imai, Kosuke, and In Song Kim \u201cOn the Use of Two-Way Fixed Effects Regression Models for Causal Inference With Panel Data,\u201d Technical Report, Harvard University IQSS Working Paper 2019."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0039",
+            "first-page": "685",
+            "volume": "83",
+            "author": "Jacobson",
+            "year": "1993",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1016/0047-2727(92)90056-L",
+            "volume": "41",
+            "author": "Katz",
+            "year": "1990",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0041",
+            "first-page": "97",
+            "volume": "3",
+            "author": "Khanna",
+            "year": "2021",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200442-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "1099",
+            "DOI": "10.1016/j.jhealeco.2009.09.004",
+            "volume": "28",
+            "author": "Kuhn",
+            "year": "2009",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "785",
+            "DOI": "10.1016/j.jeconom.2007.05.013",
+            "volume": "142",
+            "author": "Lalive",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "773",
+            "DOI": "10.1007/s10683-018-09597-5",
+            "volume": "22",
+            "author": "List",
+            "year": "2019",
+            "journal-title": "Experimental Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "958",
+            "DOI": "10.2307/3559034",
+            "volume": "39",
+            "author": "Machin",
+            "year": "2004",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0046",
+            "first-page": "175",
+            "volume": "7",
+            "author": "Mastrobuoni",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "issue": "C",
+            "key": "ecta200442-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.1016/j.jpubeco.2014.12.002",
+            "volume": "124",
+            "author": "Munyo",
+            "year": "2015",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "752",
+            "DOI": "10.1162/JEEA.2007.5.4.752",
+            "volume": "5",
+            "author": "\u00d6ster",
+            "year": "2007",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1086/320275",
+            "volume": "44",
+            "author": "Raphael",
+            "year": "2001",
+            "journal-title": "Journal of Law and Economics"
+        },
+        {
+            "key": "ecta200442-bib-0050",
+            "doi-asserted-by": "crossref",
+            "volume": "61",
+            "author": "Rege",
+            "year": "2019",
+            "journal-title": "Labour Economics",
+            "DOI": "10.1016/j.labeco.2019.101761"
+        },
+        {
+            "key": "ecta200442-bib-0051",
+            "unstructured": "Rose, Evan (2018): \u201cThe Effects of Job Loss on Crime: Evidence From Administrative Data,\u201d Available at SSRN 2991317."
+        },
+        {
+            "key": "ecta200442-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "190",
+            "DOI": "10.1016/j.jhealeco.2015.07.003",
+            "volume": "43",
+            "author": "Schaller",
+            "year": "2015",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1016/0304-4076(89)90034-1",
+            "volume": "40",
+            "author": "Schmidt",
+            "year": "1989",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200442-bib-0054",
+            "unstructured": "Schmieder, Johannes, Till von Wachter, and Stefan Bender (2018): \u201cThe Costs of Job Displacement Over the Business Cycle and Its Sources: Evidence From Germany,\u201d Technical Report, Boston University. Report."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1016/j.jdeveco.2002.12.001",
+            "volume": "73",
+            "author": "Soares",
+            "year": "2004",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200442-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "1265",
+            "DOI": "10.1162/qjec.2009.124.3.1265",
+            "volume": "124",
+            "author": "Sullivan",
+            "year": "2009",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0057",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jeconom.2020.09.006",
+            "volume": "225",
+            "author": "Sun",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200442-bib-0058",
+            "first-page": "301",
+            "volume": "11",
+            "author": "Tuttle",
+            "year": "2019",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "ecta200442-bib-0059",
+            "volume-title": "Global Study on Homicide, United Nations Office on Drugs and Organized Crime",
+            "author": "UNODC",
+            "year": "2019"
+        },
+        {
+            "issue": "523",
+            "key": "ecta200442-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "1228",
+            "DOI": "10.1080/01621459.2017.1319839",
+            "volume": "113",
+            "author": "Wager",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200442-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "678",
+            "DOI": "10.1162/rest_a_00834",
+            "volume": "102",
+            "author": "Watson",
+            "year": "2020",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200442-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.2307/1884604",
+            "volume": "94",
+            "author": "Witte",
+            "year": "1980",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200442-bib-0063",
+            "doi-asserted-by": "crossref",
+            "first-page": "551",
+            "DOI": "10.1257/aer.p20171001",
+            "volume": "107",
+            "author": "Yang",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200442-bib-0064",
+            "doi-asserted-by": "crossref",
+            "first-page": "360",
+            "DOI": "10.1016/j.qref.2020.07.006",
+            "volume": "79",
+            "author": "Zimmer",
+            "year": "2021",
+            "journal-title": "Quarterly Review of Economics and Finance"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                21
+            ]
+        ],
+        "date-time": "2022-07-21T13:08:26Z",
+        "timestamp": 1658408906000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18984"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18984"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta18984",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}
