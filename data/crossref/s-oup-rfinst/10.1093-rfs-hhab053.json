@@ -1,0 +1,861 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2022-04-02T14:43:23Z",
+        "timestamp": 1648910603885
+    },
+    "reference-count": 60,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        22
+                    ]
+                ],
+                "date-time": "2021-04-22T00:00:00Z",
+                "timestamp": 1619049600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                22
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose testing asset pricing models using multihorizon returns (MHRs). MHRs effectively generate a new set of test assets that is endogenous to the model and that identifies a broad set of possible conditional misspecifications. We apply MHR-based testing to prominent linear factor models and show that these models typically do a poor job of pricing longer-horizon returns, with pricing errors that are similar in magnitude to the risk premiums they were designed to explain. We trace the errors to the conditional factor dynamics. Explicitly incorporating factor timing into the models often makes mispricing worse, thereby posing a challenge for future research.</jats:p>",
+    "DOI": "10.1093/rfs/hhab053",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                22
+            ]
+        ],
+        "date-time": "2021-04-22T02:42:37Z",
+        "timestamp": 1619059357000
+    },
+    "page": "1310-1347",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Conditional Dynamics and the Multihorizon Risk-Return Trade-Off"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Mikhail",
+            "family": "Chernov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "UCLA Anderson School, NBER, and CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Lars A",
+            "family": "Lochstoer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UCLA Anderson School"
+                }
+            ]
+        },
+        {
+            "given": "Stig R H",
+            "family": "Lundeby",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Norwegian School of Economics"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                22
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022022217011864500_B1",
+            "article-title": "New and old characteristic-sorted portfolios: Implications for asset pricing",
+            "author": "Baba Yara,",
+            "year": "2020"
+        },
+        {
+            "key": "2022022217011864500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2018.04.005",
+            "article-title": "Term structures of asset prices and returns",
+            "volume": "129",
+            "author": "Backus,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1316",
+            "DOI": "10.1093/rfs/hhw101",
+            "article-title": "Which alpha?",
+            "volume": "30",
+            "author": "Barillas,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.3150/11-BEJ410",
+            "article-title": "Least squares after model selection in high-dimensional sparse models",
+            "volume": "19",
+            "author": "Belloni,",
+            "year": "2013",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "2022022217011864500_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1115",
+            "DOI": "10.1111/jofi.12242",
+            "article-title": "Dividend dynamics and the term structure of dividend strips",
+            "volume": "70",
+            "author": "Belo,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B6",
+            "doi-asserted-by": "crossref",
+            "article-title": "Mutual fund performance at long horizons",
+            "author": "Bessembinder,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3550284"
+        },
+        {
+            "key": "2022022217011864500_B7",
+            "article-title": "The capital asset pricing model: Some empirical tests",
+            "volume-title": "Studies in the theory of capital markets",
+            "author": "Black,",
+            "year": "1972"
+        },
+        {
+            "key": "2022022217011864500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.1016/j.jfineco.2011.06.002",
+            "article-title": "Conditional risk and performance evaluation: Volatility timing, overconditioning, and new estimates of momentum alphas",
+            "volume": "102",
+            "author": "Boguth,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "498",
+            "DOI": "10.2307/2109358",
+            "article-title": "Modelling the coherence in short-run nominal exchange rates: A multivariate generalized ARCH model",
+            "volume": "72",
+            "author": "Bollerslev,",
+            "year": "1990",
+            "journal-title": "Review of Economics and statistics"
+        },
+        {
+            "key": "2022022217011864500_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "783",
+            "DOI": "10.1017/S0022109018001412",
+            "article-title": "Capital asset pricing with a stochastic horizon",
+            "volume": "55",
+            "author": "Brennan,",
+            "year": "2021",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217011864500_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B12",
+            "volume-title": "Asset pricing",
+            "author": "Cochrane,",
+            "year": "2004"
+        },
+        {
+            "key": "2022022217011864500_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1609",
+            "DOI": "10.1111/j.1540-6261.2008.01370.x",
+            "article-title": "Asset growth and the cross-section of stock returns",
+            "volume": "63",
+            "author": "Cooper,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1016/j.jinteco.2012.11.008",
+            "article-title": "International bond risk premia,",
+            "volume": "90",
+            "author": "Dahlquist,",
+            "year": "2013",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "2022022217011864500_B15",
+            "article-title": "Equity-premium and risk-free-rate puzzles at long horizons",
+            "volume-title": "Macroeconomic dynamics",
+            "author": "Daniel,",
+            "year": "1997"
+        },
+        {
+            "key": "2022022217011864500_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1927",
+            "DOI": "10.1093/rfs/hhaa021",
+            "article-title": "The cross section of risk and return",
+            "volume": "33",
+            "author": "Daniel,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1561/104.00000003",
+            "article-title": "Testing factor-model explanations of market anomalies",
+            "volume": "1",
+            "author": "Daniel,",
+            "year": "2012",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2022022217011864500_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1016/j.jfineco.2016.04.003",
+            "article-title": "The price of variance risk",
+            "volume": "123",
+            "author": "Dew-Becker,",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(88)90020-7",
+            "article-title": "Dividend yields and expected stock returns",
+            "volume": "22",
+            "author": "Fama,",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1086/339902",
+            "article-title": "Performance evaluation with stochastic discount factors",
+            "volume": "75",
+            "author": "Farnsworth,",
+            "year": "2002",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2022022217011864500_B23",
+            "article-title": "Factor models with drifting prices",
+            "author": "Favero,",
+            "year": "2020"
+        },
+        {
+            "key": "2022022217011864500_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.1111/0022-1082.00351",
+            "article-title": "The efficient use of conditioning information in portfolios",
+            "volume": "56",
+            "author": "Ferson,",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1325",
+            "DOI": "10.1111/0022-1082.00148",
+            "article-title": "Conditioning variables and the cross-section of stock returns",
+            "volume": "54",
+            "author": "Ferson,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.10.005",
+            "article-title": "Betting against beta",
+            "volume": "111",
+            "author": "Frazzini,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1111/0022-1082.224803",
+            "article-title": "On stable factor structures in the pricing of risk: Do time-varying betas help or hurt?",
+            "volume": "53",
+            "author": "Ghysels,",
+            "year": "1998",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.2307/1913625",
+            "article-title": "A test of the efficiency of a given portfolio",
+            "volume": "59",
+            "author": "Gibbons,",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022022217011864500_B29",
+            "first-page": "315",
+            "article-title": "Estimating the continuous-time consumption-based asset pricing model",
+            "volume": "5",
+            "author": "Grossman,",
+            "year": "1987",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2022022217011864500_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1980",
+            "DOI": "10.1093/rfs/hhaa017",
+            "article-title": "Factor timing",
+            "volume": "33",
+            "author": "Haddad,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "260",
+            "DOI": "10.1086/588200",
+            "article-title": "Consumption strikes back? Measuring long-run risk",
+            "volume": "116",
+            "author": "Hansen,",
+            "year": "2008",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022022217011864500_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.2307/1913601",
+            "article-title": "The role of conditioning information in deducing testable restrictions implied by dynamic asset pricing models",
+            "volume": "55",
+            "author": "Hansen,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022022217011864500_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1269",
+            "DOI": "10.2307/1911873",
+            "article-title": "Generalized instrumental variables estimation of nonlinear rational expectations models",
+            "volume": "50",
+            "author": "Hansen,",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022022217011864500_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.1016/S0304-405X(01)00080-0",
+            "article-title": "Evaluating the specification errors of asset pricing models",
+            "volume": "62",
+            "author": "Hodrick,",
+            "year": "2001",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.1093/rfs/5.3.351",
+            "article-title": "Dividend yields and expected stock returns: Alternative procedures for inference and measurement",
+            "volume": "5",
+            "author": "Hodrick,",
+            "year": "1992",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1623",
+            "DOI": "10.1111/j.1540-6261.2007.01253.x",
+            "article-title": "Lazy investors, discretionary consumption, and the cross-section of stock returns",
+            "volume": "62",
+            "author": "Jagannathan,",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/j.1540-6261.1996.tb05201.x",
+            "article-title": "The conditional capm and the cross-section of expected returns",
+            "volume": "51",
+            "author": "Jagannathan,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1111/j.1540-6261.1993.tb04702.x",
+            "article-title": "Returns to buying winners and selling losers: Implications for stock market efficiency",
+            "volume": "48",
+            "author": "Jegadeesh,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1769",
+            "DOI": "10.1017/S0022109016000685",
+            "article-title": "Horizon pricing",
+            "volume": "51",
+            "author": "Kamara,",
+            "year": "2016",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217011864500_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and returns",
+            "volume": "134",
+            "author": "Kelly,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1016/j.jmoneco.2017.05.006",
+            "article-title": "The cross-section and time series of stock and bond returns",
+            "volume": "88",
+            "author": "Koijen,",
+            "year": "2017",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022022217011864500_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1111/jofi.12612",
+            "article-title": "Interpreting factor models",
+            "volume": "73",
+            "author": "Kozak,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1016/j.jfineco.2019.06.008",
+            "article-title": "Shrinking the cross-section",
+            "volume": "135",
+            "author": "Kozak,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1238",
+            "DOI": "10.1086/323282",
+            "article-title": "Resurrecting the (C)CAPM: A cross-sectional test when risk premia are time-varying",
+            "volume": "109",
+            "author": "Lettau,",
+            "year": "2001",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022022217011864500_B46",
+            "first-page": "92",
+            "article-title": "The capital asset pricing model and the investment horizon",
+            "volume": "59",
+            "author": "Levhari,",
+            "year": "1977",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022022217011864500_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1016/j.jfineco.2005.05.012",
+            "article-title": "The conditional CAPM does not explain asset pricing anomalies",
+            "volume": "79",
+            "author": "Lewellen,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jfineco.2009.09.001",
+            "article-title": "A skeptical appraisal of asset-pricing tests",
+            "volume": "96",
+            "author": "Lewellen,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B49",
+            "article-title": "Factor momentum and the momentum factor",
+            "author": "Linnainmaa,",
+            "year": "2019"
+        },
+        {
+            "key": "2022022217011864500_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1093/rfs/3.3.431",
+            "article-title": "Data-snooping biases in tests of financial asset pricing models",
+            "volume": "3",
+            "author": "Lo,",
+            "year": "1990",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1111/j.1540-6261.1989.tb02628.x",
+            "article-title": "Temporal aggregation and the continuous-time capital asset pricing model",
+            "volume": "44",
+            "author": "Longstaff,",
+            "year": "1989",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "4142",
+            "DOI": "10.1257/aer.20180098",
+            "article-title": "The term structure of currency carry trade risk premia",
+            "volume": "109",
+            "author": "Lustig,",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022022217011864500_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(94)00808-E",
+            "article-title": "Multifactor models do not explain deviations from the CAPM",
+            "volume": "38",
+            "author": "MacKinlay,",
+            "year": "1995",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1611",
+            "DOI": "10.1111/jofi.12513",
+            "article-title": "Volatility-managed portfolios",
+            "volume": "72",
+            "author": "Moreira,",
+            "year": "2017",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217011864500_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.01.003",
+            "article-title": "The other side of value: The gross profitability premium",
+            "volume": "108",
+            "author": "Novy-Marx,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217011864500_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "104",
+            "DOI": "10.1093/rfs/hhv063",
+            "article-title": "A taxonomy of anomalies and their trading costs",
+            "volume": "29",
+            "author": "Novy-Marx,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1086/426042",
+            "article-title": "Consumption risk and the cross-section of expected returns",
+            "volume": "113",
+            "author": "Parker,",
+            "year": "2005",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022022217011864500_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1270",
+            "DOI": "10.1093/rfs/hhw107",
+            "article-title": "Mispricing factors",
+            "volume": "30",
+            "author": "Stambaugh,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217011864500_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1596",
+            "DOI": "10.1257/aer.102.4.1596",
+            "article-title": "On the timing and pricing of dividends",
+            "volume": "102",
+            "author": "van Binsbergen,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022022217011864500_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "1529",
+            "DOI": "10.1111/jofi.12501",
+            "article-title": "Term-structure of consumption risk premia in the cross-section of currency returns",
+            "volume": "72",
+            "author": "Zviadadze,",
+            "year": "2017",
+            "journal-title": "Journal of Finance"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab053/38384887/hhab053.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/3/1310/42571520/hhab053.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/3/1310/42571520/hhab053.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                22
+            ]
+        ],
+        "date-time": "2022-02-22T17:45:48Z",
+        "timestamp": 1645551948000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/3/1310/6245851"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                22
+            ]
+        ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    22
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    2,
+                    22
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab053",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                22
+            ]
+        ]
+    }
+}

@@ -1,0 +1,891 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2022-04-02T19:57:28Z",
+        "timestamp": 1648929448571
+    },
+    "reference-count": 65,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        4
+                    ]
+                ],
+                "date-time": "2021-04-04T00:00:00Z",
+                "timestamp": 1617494400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                22
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Portfolio optimization often struggles in realistic out-of-sample contexts. We deconstruct this stylized fact by comparing historical forecasts of portfolio optimization inputs with subsequent out-of-sample values. We confirm that historical forecasts are imprecise guides of subsequent values, but we discover the resultant forecast errors are not entirely random. They have predictable patterns and can be partially reduced using their own history. Learning from past forecast errors to calibrate inputs (akin to empirical Bayesian learning) generates portfolio performance that reinforces the case for optimization. Furthermore, the portfolios achieve performance that meets expectations, a desirable yet elusive feature of optimization methods.</jats:p>",
+    "DOI": "10.1093/rfs/hhab041",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2021-04-08T20:19:30Z",
+        "timestamp": 1617913170000
+    },
+    "page": "1222-1278",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Lest We Forget: Learn from Out-of-Sample Forecast Errors When Optimizing Portfolios"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Pedro",
+            "family": "Barroso",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cat\u00f3lica-Lisbon School of Business and Economics, Universidade Cat\u00f3lica Portuguesa"
+                }
+            ]
+        },
+        {
+            "given": "Konark",
+            "family": "Saxena",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of New South Wales"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022022217010987100_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1271",
+            "DOI": "10.1287/mnsc.1120.1647",
+            "article-title": "Inferring reporting-related biases in hedge fund databases from hedge fund equity holdings",
+            "volume": "59",
+            "author": "Agarwal,",
+            "year": "2013",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022022217010987100_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "515",
+            "DOI": "10.1111/j.1540-6261.1974.tb03064.x",
+            "article-title": "Portfolio analysis under uncertain means, variances, and covariances",
+            "volume": "29",
+            "author": "Barry,",
+            "year": "1974",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B3",
+            "volume-title": "Estimating the risk in sample efficient portfolios",
+            "author": "Basak,",
+            "year": "2005"
+        },
+        {
+            "key": "2022022217010987100_B4",
+            "volume-title": "Estimation risk and optimal portfolio choice.",
+            "author": "Bawa,",
+            "year": "1979"
+        },
+        {
+            "key": "2022022217010987100_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.1093/rfs/hhy037",
+            "article-title": "Characteristic-based benchmark returns and corporate events",
+            "volume": "32",
+            "author": "Bessembinder,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "513",
+            "DOI": "10.2307/2331138",
+            "article-title": "Positively weighted minimum-variance portfolios and the structure of asset expected returns",
+            "volume": "27",
+            "author": "Best,",
+            "year": "1992",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217010987100_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "793",
+            "DOI": "10.1111/j.1540-6261.1985.tb05004.x",
+            "article-title": "Does the stock market overreact?",
+            "volume": "40",
+            "author": "Bondt,",
+            "year": "1985",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "3411",
+            "DOI": "10.1093/rfs/hhp003",
+            "article-title": "Parametric portfolio policies: Exploiting characteristics in the cross-section of equity returns",
+            "volume": "22",
+            "author": "Brandt,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1023/A:1009725805128",
+            "article-title": "The role of learning in dynamic portfolio decisions",
+            "volume": "1",
+            "author": "Brennan,",
+            "year": "1998",
+            "journal-title": "European Finance Review"
+        },
+        {
+            "key": "2022022217010987100_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.3905/jpm.1993.409440",
+            "article-title": "The effect of errors in means, variances, and covariances on optimal portfolio choice",
+            "volume": "19",
+            "author": "Chopra,",
+            "year": "1993",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2022022217010987100_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2134",
+            "DOI": "10.1093/rfs/hhaa018",
+            "article-title": "Anomalies and false rejections",
+            "volume": "33",
+            "author": "Chordia,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B12",
+            "volume-title": "Asset pricing.",
+            "author": "Cochrane,",
+            "year": "2001"
+        },
+        {
+            "key": "2022022217010987100_B13",
+            "year": "2012",
+            "journal-title": "Regulation (eu) no 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories"
+        },
+        {
+            "key": "2022022217010987100_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "798",
+            "DOI": "10.1287/mnsc.1080.0986",
+            "article-title": "A generalized approach to portfolio optimization: Improving performance by constraining portfolio norms",
+            "volume": "55",
+            "author": "DeMiguel,",
+            "year": "2009",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022022217010987100_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1915",
+            "DOI": "10.1093/rfs/hhm075",
+            "article-title": "Optimal versus naive diversification: How inefficient is the 1/n portfolio strategy?",
+            "volume": "22",
+            "author": "DeMiguel,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1111/j.1540-6261.1986.tb05043.x",
+            "article-title": "Asset pricing in a production economy with incomplete information",
+            "volume": "41",
+            "author": "Detemple,",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.3905/jpm.2007.690606",
+            "article-title": "Shrinking the covariance matrix",
+            "volume": "33",
+            "author": "Disatnik,",
+            "year": "2007",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2022022217010987100_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "369",
+            "DOI": "10.1111/j.1540-6261.1986.tb05042.x",
+            "article-title": "Equilibrium interest rates and multiperiod bonds in a partially observable economy",
+            "volume": "41",
+            "author": "Dothan,",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "316",
+            "DOI": "10.1080/01621459.1983.10477973",
+            "article-title": "Estimating the error rate of a prediction rule: improvement on cross-validation",
+            "volume": "78",
+            "author": "Efron,",
+            "year": "1983",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022022217010987100_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "335",
+            "DOI": "10.1093/biomet/59.2.335",
+            "article-title": "Empirical Bayes on vector observations: An extension of Stein\u2019s method",
+            "volume": "59",
+            "author": "Efron,",
+            "year": "1972",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2022022217010987100_B21",
+            "first-page": "117",
+            "article-title": "Stein\u2019s estimation rule and its competitors\u2014an empirical bayes approach",
+            "volume": "68",
+            "author": "Efron,",
+            "year": "1973",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022022217010987100_B22",
+            "first-page": "1203",
+            "article-title": "Estimating the dependence structure of share prices\u2014implications for portfolio selection",
+            "volume": "28",
+            "author": "Elton,",
+            "year": "1973",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1198/073500102288618487",
+            "article-title": "Dynamic conditional correlation: A simple class of multivariate generalized autoregressive conditional heteroskedasticity models",
+            "volume": "20",
+            "author": "Engle,",
+            "year": "2002",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022022217010987100_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1017/S0266466600009063",
+            "article-title": "Multivariate simultaneous generalized arch",
+            "volume": "11",
+            "author": "Engle,",
+            "year": "1995",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2022022217010987100_B25",
+            "first-page": "1",
+            "article-title": "Fitting vast dimensional time-varying covariance models",
+            "volume": "38",
+            "author": "Engle,",
+            "year": "2020",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022022217010987100_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217010987100_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217010987100_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1891",
+            "DOI": "10.1093/rfs/hhz089",
+            "article-title": "Comparing cross-section and time-series factor models",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022022217010987100_B30",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Trading costs",
+            "author": "Frazzini,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3229719"
+        },
+        {
+            "key": "2022022217010987100_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "293",
+            "DOI": "10.2307/2331043",
+            "article-title": "An empirical Bayes approach to efficient portfolio selection",
+            "volume": "21",
+            "author": "Frost,",
+            "year": "1986",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217010987100_B32",
+            "volume-title": "Natural inheritance",
+            "author": "Galton,",
+            "year": "1894"
+        },
+        {
+            "key": "2022022217010987100_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "2309",
+            "DOI": "10.1111/jofi.12080",
+            "article-title": "Dynamic trading with predictable returns and transaction costs",
+            "volume": "68",
+            "author": "G\u00e2rleanu,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B34",
+            "volume-title": "Econometric analysis",
+            "author": "Greene,",
+            "year": "2003"
+        },
+        {
+            "key": "2022022217010987100_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "... and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1445",
+            "DOI": "10.1111/j.1540-6261.2009.01469.x",
+            "article-title": "Trading costs and returns for us equities: Estimating effective costs from daily data",
+            "volume": "64",
+            "author": "Hasbrouck,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B38",
+            "volume-title": "Proceedings of the fourth Berkeley symposium on mathematical statistics and probability 1",
+            "author": "James,",
+            "year": "1961"
+        },
+        {
+            "key": "2022022217010987100_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "544",
+            "DOI": "10.1080/01621459.1980.10477507",
+            "article-title": "Estimation for Markowitz efficient portfolios",
+            "volume": "75",
+            "author": "Jobson,",
+            "year": "1980",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022022217010987100_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "889",
+            "DOI": "10.1111/j.1540-6261.1981.tb04891.x",
+            "article-title": "Performance hypothesis testing with the Sharpe and Treynor measures",
+            "volume": "36",
+            "author": "Jobson,",
+            "year": "1981",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B41",
+            "first-page": "279",
+            "article-title": "Improved estimation for Markowitz portfolios using James-Stein type estimators",
+            "volume": "41",
+            "author": "Jobson,",
+            "year": "1979",
+            "journal-title": "Proceedings of the American Statistical Association, Business and Economics Statistics"
+        },
+        {
+            "key": "2022022217010987100_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1086/296296",
+            "article-title": "International portfolio diversification with estimation risk",
+            "volume": "58",
+            "author": "Jorion,",
+            "year": "1985",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2022022217010987100_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.2307/2331042",
+            "article-title": "Bayes-Stein estimation for portfolio analysis",
+            "volume": "21",
+            "author": "Jorion,",
+            "year": "1986",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217010987100_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1983",
+            "DOI": "10.1111/j.1540-6261.2005.00785.x",
+            "article-title": "On the industry concentration of actively managed equity mutual funds",
+            "volume": "60",
+            "author": "Kacperczyk,",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1364",
+            "DOI": "10.1287/mnsc.1070.0852",
+            "article-title": "The distribution of the sample minimum-variance frontier",
+            "volume": "54",
+            "author": "Kan,",
+            "year": "2008",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022022217010987100_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "621",
+            "DOI": "10.1017/S0022109000004129",
+            "article-title": "Optimal portfolio choice with parameter uncertainty",
+            "volume": "42",
+            "author": "Kan,",
+            "year": "2007",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217010987100_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1879",
+            "DOI": "10.1093/rfs/hhaa019",
+            "article-title": "New methods for the cross-section of returns",
+            "volume": "33",
+            "author": "Karolyi,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.1017/S0022109012000117",
+            "article-title": "It\u2019s all in the timing: simple active portfolio strategies that outperform naive diversification",
+            "volume": "47",
+            "author": "Kirby,",
+            "year": "2012",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022022217010987100_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "110",
+            "DOI": "10.3905/jpm.2004.110",
+            "article-title": "Honey, I shrunk the sample covariance matrix",
+            "volume": "30",
+            "author": "Ledoit,",
+            "year": "2004",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2022022217010987100_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1016/S0047-259X(03)00096-4",
+            "article-title": "A well-conditioned estimator for large-dimensional covariance matrices",
+            "volume": "88",
+            "author": "Ledoit,",
+            "year": "2004",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "key": "2022022217010987100_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/104.00000024",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "4",
+            "author": "Lewellen,",
+            "year": "2015",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2022022217010987100_B52",
+            "first-page": "77",
+            "article-title": "Portfolio selection",
+            "volume": "7",
+            "author": "Markowitz,",
+            "year": "1952",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.12365",
+            "article-title": "Does academic research destroy stock return predictability?",
+            "volume": "71",
+            "author": "Mclean,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1016/0304-3932(85)90061-3",
+            "article-title": "The equity premium: A puzzle",
+            "volume": "15",
+            "author": "Mehra,",
+            "year": "1985",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022022217010987100_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1016/0304-405X(80)90007-0",
+            "article-title": "On estimating the expected return on the market: An exploratory investigation",
+            "volume": "8",
+            "author": "Merton,",
+            "year": "1980",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217010987100_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.2469/faj.v45.n1.31",
+            "article-title": "The Markowitz optimization enigma: is \u2018optimized\u2019 optimal?",
+            "volume": "45",
+            "author": "Michaud,",
+            "year": "1989",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2022022217010987100_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "104",
+            "DOI": "10.1093/rfs/hhv063",
+            "article-title": "A taxonomy of anomalies and their trading costs",
+            "volume": "29",
+            "author": "Novy-Marx,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022022217010987100_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1016/j.jeconom.2005.06.022",
+            "article-title": "Distributional properties of portfolio weights",
+            "volume": "134",
+            "author": "Okhrin,",
+            "year": "2006",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022022217010987100_B59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10182-007-0026-1",
+            "article-title": "Comparison of different estimation techniques for portfolio selection",
+            "volume": "91",
+            "author": "Okhrin,",
+            "year": "2007",
+            "journal-title": "AStA Advances in Statistical Analysis"
+        },
+        {
+            "key": "2022022217010987100_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1111/0022-1082.00204",
+            "article-title": "Portfolio selection and asset pricing models",
+            "volume": "55",
+            "author": "P\u00e1stor,",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022022217010987100_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "335",
+            "DOI": "10.1016/S0304-405X(00)00044-1",
+            "article-title": "Comparing asset pricing models: an investment perspective",
+            "volume": "56",
+            "author": "P\u00e1stor,",
+            "year": "2000",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022022217010987100_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "486",
+            "DOI": "10.1080/01621459.1993.10476299",
+            "article-title": "Linear model selection by cross-validation",
+            "volume": "88",
+            "author": "Shao,",
+            "year": "1993",
+            "journal-title": "Journal of the American statistical Association"
+        },
+        {
+            "key": "2022022217010987100_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1007/BF02868569",
+            "article-title": "Inadmissibility of the usual estimator for the variance of a normal distribution with unknown mean",
+            "volume": "16",
+            "author": "Stein,",
+            "year": "1964",
+            "journal-title": "Annals of the Institute of Statistical Mathematics"
+        },
+        {
+            "key": "2022022217010987100_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1111/j.2517-6161.1974.tb00994.x",
+            "article-title": "Cross-validatory choice and assessment of statistical predictions",
+            "volume": "36",
+            "author": "Stone,",
+            "year": "1974",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "key": "2022022217010987100_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "204",
+            "DOI": "10.1016/j.jfineco.2010.08.013",
+            "article-title": "Markowitz meets talmud: A combination of sophisticated and naive diversification strategies",
+            "volume": "99",
+            "author": "Tu,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab041/37902308/hhab041.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/3/1222/42571373/hhab041.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/3/1222/42571373/hhab041.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                22
+            ]
+        ],
+        "date-time": "2022-02-22T17:33:35Z",
+        "timestamp": 1645551215000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/3/1222/6219970"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                4
+            ]
+        ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    2,
+                    22
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab041",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,769 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                21
+            ]
+        ],
+        "date-time": "2022-06-21T01:27:09Z",
+        "timestamp": 1655774829666
+    },
+    "reference-count": 60,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        22
+                    ]
+                ],
+                "date-time": "2021-07-22T00:00:00Z",
+                "timestamp": 1626912000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study a class of permutation tests of the randomness of a collection of Bernoulli sequences and their application to analyses of the human tendency to perceive streaks of consecutive successes as overly representative of positive dependence\u2014the hot hand fallacy. In particular, we study permutation tests of the null hypothesis of randomness (i.e. that trials are i.i.d.) based on test statistics that compare the proportion of successes that directly follow $k$ consecutive successes with either the overall proportion of successes or the proportion of successes that directly follow $k$ consecutive failures. We characterize the asymptotic distributions of these test statistics and their permutation distributions under randomness, under a set of general stationary processes, and under a class of Markov chain alternatives, which allow us to derive their local asymptotic power. The results are applied to evaluate the empirical support for the hot hand fallacy provided by four controlled basketball shooting experiments. We establish that substantially larger data sets are required to derive an informative measurement of the deviation from randomness in basketball shooting. In one experiment, for which we were able to obtain data, multiple testing procedures reveal that one shooter exhibits a shooting pattern significantly inconsistent with randomness\u2014supplying strong evidence that basketball shooting is not random for all shooters all of the time. However, we find that the evidence against randomness in this experiment is limited to this shooter. Our results provide a mathematical and statistical foundation for the design and validation of experiments that directly compare deviations from randomness with human beliefs about deviations from randomness and thereby constitute a direct test of the hot hand fallacy.</jats:p>",
+    "DOI": "10.1093/restud/rdab020",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                19
+            ]
+        ],
+        "date-time": "2021-04-19T23:08:53Z",
+        "timestamp": 1618873733000
+    },
+    "page": "976-1007",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Uncertainty in the Hot Hand Fallacy: Detecting Streaky Alternatives to Random Bernoulli Sequences"
+    ],
+    "prefix": "10.1093",
+    "volume": "89",
+    "author": [
+        {
+            "given": "David M",
+            "family": "Ritzwoller",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Joseph P",
+            "family": "Romano",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Departments of Economics and Statistics, Stanford University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                22
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022030618591757100_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1175",
+            "DOI": "10.1080/01621459.1993.10476395",
+            "article-title": "A Statistical Analysis of Hitting Streaks in Baseball",
+            "volume": "88",
+            "author": "ALBRIGHT,",
+            "year": "1993",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022030618591757100_B2",
+            "first-page": "2",
+            "article-title": "Streaks like Daniel Murphy\u2019s Aren\u2019t Necessarily Random",
+            "volume": "165",
+            "author": "APPELBAUM,",
+            "year": "2015",
+            "journal-title": "The New York Times"
+        },
+        {
+            "key": "2022030618591757100_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "428",
+            "DOI": "10.1016/0196-8858(91)90029-I",
+            "article-title": "The Perception of Randomness",
+            "volume": "12",
+            "author": "BAR-HILLEL,",
+            "year": "1991",
+            "journal-title": "Advances in Applied Mathematics"
+        },
+        {
+            "key": "2022030618591757100_B4",
+            "first-page": "79",
+            "article-title": "Psychology-based models of asset prices and trading volume",
+            "volume-title": "Handbook of Behavioral Economics: Applications and Foundations 1",
+            "author": "BARBERIS,",
+            "year": "2018"
+        },
+        {
+            "key": "2022030618591757100_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.08.007",
+            "article-title": "X-capm: An Extrapolative Capital Asset Pricing Model",
+            "volume": "115",
+            "author": "BARBERIS,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022030618591757100_B6",
+            "first-page": "1053",
+            "article-title": "A Survey of Behavioral Finance",
+            "volume-title": "Handbook of the Economics of Finance",
+            "author": "BARBERIS,",
+            "year": "2003"
+        },
+        {
+            "key": "2022030618591757100_B7",
+            "volume-title": "2018-19 NBA Player Stats: Totals",
+            "author": "BASKETBALL",
+            "year": "2019"
+        },
+        {
+            "key": "2022030618591757100_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1016/bs.hesbe.2018.11.002",
+            "article-title": "Errors in Probabilistic Reasoning and Judgment Biases",
+            "volume-title": "Handbook of Behavioral Economics: Applications and Foundations 1",
+            "author": "BENJAMIN,",
+            "year": "2019"
+        },
+        {
+            "key": "2022030618591757100_B9",
+            "article-title": "The Hot Hand: A New Approach to an Old \u2018Fallacy\u2019",
+            "author": "BOCSKOCSKY,",
+            "year": "2014",
+            "journal-title": "8th Annual MIT Sloan Sports Analytics Conference"
+        },
+        {
+            "key": "2022030618591757100_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1007/978-1-4615-8162-8_8",
+            "article-title": "Basic Properties of Strong Mixing Conditions",
+            "volume-title": "Dependence in Probability and Statistics",
+            "author": "BRADLEY,",
+            "year": "1986"
+        },
+        {
+            "key": "2022030618591757100_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On Persistence in Mutual Fund Performance",
+            "volume": "52",
+            "author": "CARHART,",
+            "year": "1997",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022030618591757100_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/j.obhdp.2007.03.004",
+            "article-title": "The Rule of Three: How the Third Event Signals the Emergence of a Streak",
+            "volume": "104",
+            "author": "CARLSON,",
+            "year": "2007",
+            "journal-title": "Organizational Behavior and Human Decision Processes"
+        },
+        {
+            "key": "2022030618591757100_B13",
+            "first-page": "9",
+            "article-title": "A Non-experimental Analysis of True State Dependence in Monthly Welfare Participation Sequences",
+            "volume-title": "Proceedings of the American Statistical Association",
+            "author": "CHAY,",
+            "year": "1999"
+        },
+        {
+            "key": "2022030618591757100_B14",
+            "article-title": "The \u2018Hot Hand\u2019 Debate Gets Flipped on its Head",
+            "author": "COHEN,",
+            "year": "2015",
+            "journal-title": "The Wall Street Journal"
+        },
+        {
+            "key": "2022030618591757100_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1086/294743",
+            "article-title": "The Behavior of Stock-Market Prices",
+            "volume": "38",
+            "author": "FAMA,",
+            "year": "1965",
+            "journal-title": "The Journal of Business"
+        },
+        {
+            "key": "2022030618591757100_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.2307/2325486",
+            "article-title": "Efficient Capital Markets: A Review of Theory and Empirical Work",
+            "volume": "25",
+            "author": "FAMA,",
+            "year": "1970",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022030618591757100_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1016/0010-0285(85)90010-6",
+            "article-title": "The Hot Hand in Basketball: On the Misperception of Random Sequences",
+            "volume": "17",
+            "author": "GILOVICH,",
+            "year": "1985",
+            "journal-title": "Cognitive Psychology"
+        },
+        {
+            "key": "2022030618591757100_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1093/rfs/hht082",
+            "article-title": "Expectations of Returns and Expected Returns",
+            "volume": "27",
+            "author": "GREENWOOD,",
+            "year": "2014",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2022030618591757100_B19",
+            "article-title": "He\u2019s Heating Up, He\u2019s on Fire! Klay Thompson and the Truth about the Hot Hand",
+            "author": "HABERSTROH,",
+            "year": "2017",
+            "journal-title": "ESPN"
+        },
+        {
+            "key": "2022030618591757100_B20",
+            "first-page": "752",
+            "article-title": "Experimental evidence on the existence of hypothetical bias in value elicitation methods",
+            "volume": "1",
+            "author": "HARRISON,",
+            "year": "2008",
+            "journal-title": "Handbook of Experimental Economics"
+        },
+        {
+            "key": "2022030618591757100_B21",
+            "first-page": "91",
+            "article-title": "Heterogeneity and State Dependence",
+            "volume-title": "Studies in Labor Markets",
+            "author": "HECKMAN,",
+            "year": "1981"
+        },
+        {
+            "key": "2022030618591757100_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1974",
+            "DOI": "10.1111/j.1540-6261.1993.tb04703.x",
+            "article-title": "Hot Hands in Mutual Funds: Short-run Persistence of Relative Performance",
+            "volume": "48",
+            "author": "HENDRICKS,",
+            "year": "1993",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022030618591757100_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1137/1107036",
+            "article-title": "Some Limit Theorems for Stationary Processes",
+            "volume": "7",
+            "author": "IBRAGIMOV,",
+            "year": "1962",
+            "journal-title": "Theory of Probability & Its Applications"
+        },
+        {
+            "key": "2022030618591757100_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1123/jsp.1.4.301",
+            "article-title": "Predicting the Success of a Basketball Shot at Various Stages of Execution",
+            "volume": "1",
+            "author": "JAGACINSKI,",
+            "year": "1979",
+            "journal-title": "Journal of Sport Psychology"
+        },
+        {
+            "key": "2022030618591757100_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1111/j.1540-6261.1968.tb00815.x",
+            "article-title": "The Performance of Mutual Funds in the Period 1945-1964",
+            "volume": "23",
+            "author": "JENSEN,",
+            "year": "1968",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022030618591757100_B26",
+            "first-page": "4",
+            "article-title": "Gamblers, Scientists and the Mysterious Hot Hand",
+            "volume": "165",
+            "author": "JOHNSON,",
+            "year": "2015",
+            "journal-title": "The New York Times"
+        },
+        {
+            "key": "2022030618591757100_B27",
+            "volume-title": "Thinking, Fast and Slow",
+            "author": "KAHNEMAN,",
+            "year": "2011"
+        },
+        {
+            "key": "2022030618591757100_B28",
+            "first-page": "310",
+            "article-title": "Modeling Heterogeneity and State Dependence in Consumer Choice Behavior",
+            "volume": "15",
+            "author": "KEANE,",
+            "year": "1997",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591757100_B29",
+            "first-page": "1",
+            "article-title": "The Story of the Hot Hand: Powerful Myth or Powerless Critique",
+            "volume-title": "Proceedings of the International Conference on Cognitive Science",
+            "author": "KORB,",
+            "year": "2003"
+        },
+        {
+            "key": "2022030618591757100_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1217",
+            "DOI": "10.1214/aos/1176347265",
+            "article-title": "The Jackknife and the Bootstrap for General Stationary Observations",
+            "volume": "17",
+            "author": "K\u00dcNSCH,",
+            "year": "1989",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2022030618591757100_B31",
+            "volume-title": "Resampling Methods for Dependent Data",
+            "author": "LAHIRI,",
+            "year": "2013"
+        },
+        {
+            "key": "2022030618591757100_B32",
+            "doi-asserted-by": "crossref",
+            "article-title": "Hot Shots: An Analysis of the \u2018Hot Hand\u2019 in NBA Field Goal and Free Throw Shooting",
+            "author": "LANTIS,",
+            "year": "2019",
+            "DOI": "10.3386/w26510"
+        },
+        {
+            "key": "2022030618591757100_B33",
+            "volume-title": "Testing Statistical Hypotheses",
+            "author": "LEHMANN,",
+            "year": "2005"
+        },
+        {
+            "key": "2022030618591757100_B34",
+            "first-page": "248",
+            "article-title": "Moving Blocks Jackknife and Bootstrap Capture Weak Dependence",
+            "volume": "225",
+            "author": "LIU,",
+            "year": "1992",
+            "journal-title": "Exploring the Limits of Bootstrap"
+        },
+        {
+            "key": "2022030618591757100_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1257/089533003321164958",
+            "article-title": "The Efficient Market Hypothesis and Its Critics",
+            "volume": "17",
+            "author": "MALKIEL,",
+            "year": "2003",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2022030618591757100_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1329",
+            "DOI": "10.1111/j.1468-0262.2004.00537.x",
+            "article-title": "Measuring Expectations",
+            "volume": "72",
+            "author": "MANSKI,",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591757100_B37",
+            "article-title": "A Visible (Hot) Hand? Expert Players Bet on the Hot Hand and Win",
+            "author": "MILLER,",
+            "year": "2017"
+        },
+        {
+            "key": "2022030618591757100_B38",
+            "doi-asserted-by": "crossref",
+            "article-title": "A Cold Shower for the Hot Hand Fallacy: Robust Evidence that Belief in the Hot Hand is Justified",
+            "author": "MILLER,",
+            "year": "2018",
+            "DOI": "10.31219/osf.io/pj79r"
+        },
+        {
+            "key": "2022030618591757100_B39",
+            "article-title": "Momentum Isn\u2019t Magic\u2013Vindicating the Hot Hand with the Mathematics of Streaks",
+            "author": "MILLER,",
+            "year": "2018",
+            "journal-title": "Scientific American"
+        },
+        {
+            "key": "2022030618591757100_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2019",
+            "DOI": "10.3982/ECTA14943",
+            "article-title": "Surprised by the Hot Hand Fallacy? A Truth in the Law of Small Numbers",
+            "volume": "86",
+            "author": "MILLER,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591757100_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "2019",
+            "DOI": "10.3982/ECTA14943",
+            "article-title": "Surprised by the Hot Hand Fallacy? A Truth in the Law of Small Numbers",
+            "volume": "86",
+            "author": "MILLER,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591757100_B42",
+            "article-title": "Is It a Fallacy to Believe in the Hot Hand in the NBA Three-Point Contest?",
+            "author": "MILLER,",
+            "year": "2019"
+        },
+        {
+            "key": "2022030618591757100_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "128",
+            "DOI": "10.1111/1468-5884.00138",
+            "article-title": "Is the \u201cHot-Hands\u201d Phenomenon a Misperception of Random Events?",
+            "volume": "42",
+            "author": "MIYOSHI,",
+            "year": "2000",
+            "journal-title": "Japanese Psychological Research"
+        },
+        {
+            "key": "2022030618591757100_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "367",
+            "DOI": "10.1214/aoms/1177731825",
+            "article-title": "The Distribution Theory of Runs",
+            "volume": "11",
+            "author": "MOOD,",
+            "year": "1940",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2022030618591757100_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.1080/01621459.1994.10476870",
+            "article-title": "The Stationary Bootstrap",
+            "volume": "89",
+            "author": "POLITIS,",
+            "year": "1994",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022030618591757100_B46",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Subsampling",
+            "author": "POLITIS,",
+            "year": "1999",
+            "DOI": "10.1007/978-1-4612-1554-7"
+        },
+        {
+            "key": "2022030618591757100_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "775",
+            "DOI": "10.1162/003355302760193896",
+            "article-title": "Inference by Believers in the Law of Small Numbers",
+            "volume": "117",
+            "author": "RABIN,",
+            "year": "2002",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022030618591757100_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "730",
+            "DOI": "10.1111/j.1467-937X.2009.00582.x",
+            "article-title": "The Gamblers and Hot-Hand Fallacies: Theory and Applications",
+            "volume": "77",
+            "author": "RABIN,",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022030618591757100_B49",
+            "article-title": "Experts\u2019 Perceptions of Autocorrelation: The Hot Hand Fallacy among Professional Basketball Players",
+            "author": "RAO,",
+            "year": "2009"
+        },
+        {
+            "key": "2022030618591757100_B50",
+            "article-title": "Bob Dylan and the \u2018Hot Hand.\u2019",
+            "author": "REMNICK,",
+            "year": "2017",
+            "journal-title": "The New Yorker"
+        },
+        {
+            "key": "2022030618591757100_B51",
+            "first-page": "134",
+            "article-title": "On Normal Approximation Rates for Certain Sums of Dependent Random Variables",
+            "volume": "55",
+            "author": "RINOTT,",
+            "year": "1994",
+            "journal-title": "Computational and Applied Mathematics"
+        },
+        {
+            "key": "2022030618591757100_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2202/1557-4679.1300",
+            "article-title": "Consonance and the Closure Method in Multiple Testing",
+            "volume": "7",
+            "author": "ROMANO,",
+            "year": "2011",
+            "journal-title": "The International Journal of Biostatistics"
+        },
+        {
+            "key": "2022030618591757100_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "94",
+            "DOI": "10.1198/016214504000000539",
+            "article-title": "Exact and Approximate Stepdown Methods for Multiple Hypothesis Testing",
+            "volume": "100",
+            "author": "ROMANO,",
+            "year": "2005",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022030618591757100_B54",
+            "first-page": "1189",
+            "article-title": "A Statistical Analysis of Hitting Streaks in Baseball: Comment",
+            "volume": "88",
+            "author": "STERN,",
+            "year": "1993",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022030618591757100_B55",
+            "first-page": "61",
+            "article-title": "Measurement Error and the Hot Hand",
+            "volume": "66",
+            "author": "STONE,",
+            "year": "2012",
+            "journal-title": "Scientific American"
+        },
+        {
+            "key": "2022030618591757100_B56",
+            "volume-title": "Nudge: Improving Decisions about Health, Wealth, and Happiness",
+            "author": "THALER,",
+            "year": "2009"
+        },
+        {
+            "key": "2022030618591757100_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.3982/ECTA14138",
+            "article-title": "Nonparametric Inference on State Dependence in Unemployment",
+            "volume": "87",
+            "author": "TORGOVITSKY,",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591757100_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1037/h0031322",
+            "article-title": "Belief in the Law of Small Numbers",
+            "volume": "76",
+            "author": "TVERSKY,",
+            "year": "1971",
+            "journal-title": "Psychological Bulletin"
+        },
+        {
+            "key": "2022030618591757100_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.1126/science.7455683",
+            "article-title": "The Framing of Decisions and the Psychology of Choice",
+            "volume": "211",
+            "author": "TVERSKY,",
+            "year": "1981",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2022030618591757100_B60",
+            "article-title": "Statistical Tests for the Hot-hand in Basketball in a Controlled Setting",
+            "author": "WARDROP,",
+            "year": "1999"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab020/42564064/rdab020.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/2/976/42748201/rdab020.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/2/976/42748201/rdab020.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                6
+            ]
+        ],
+        "date-time": "2022-03-06T19:01:04Z",
+        "timestamp": 1646593264000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/89/2/976/6243863"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                22
+            ]
+        ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    22
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab020",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                22
+            ]
+        ]
+    }
+}

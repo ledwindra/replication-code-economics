@@ -1,0 +1,788 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                4
+            ]
+        ],
+        "date-time": "2022-04-04T02:49:23Z",
+        "timestamp": 1649040563145
+    },
+    "reference-count": 50,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        15
+                    ]
+                ],
+                "date-time": "2021-04-15T00:00:00Z",
+                "timestamp": 1618444800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                18
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We identify long-lived pricing errors through a model in which inattentive investors arrive stochastically to trade. The model\u2019s parameters are structurally estimated using daily NYSE market-maker inventories, retail order flows, and prices. The estimated model fits empirical variances, autocorrelations, and cross-autocorrelations among our three data series from daily to monthly frequencies. Pricing errors for the typical NYSE stock have a standard deviation of 3.2 percentage points and a half-life of 6.2 weeks. These pricing errors account for 9.4$\\%$, 7.0$\\%$, and 4.5$\\%$ of the respective daily, monthly, and quarterly idiosyncratic return variances.</jats:p>",
+    "DOI": "10.1093/rfs/hhab045",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                13
+            ]
+        ],
+        "date-time": "2021-04-13T03:17:39Z",
+        "timestamp": 1618283859000
+    },
+    "page": "962-1008",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Asset Price Dynamics with Limited Attention"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Terrence",
+            "family": "Hendershott",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California at Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Albert J",
+            "family": "Menkveld",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Vrije Universiteit Amsterdam"
+                }
+            ]
+        },
+        {
+            "given": "R\u00e9my",
+            "family": "Praz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Danske Bank"
+                }
+            ]
+        },
+        {
+            "given": "Mark",
+            "family": "Seasholes",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Arizona State University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                15
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022011810042162700_B1",
+            "first-page": "244",
+            "article-title": "Inaction and adjustment: Consequences for households and firms",
+            "volume": "97",
+            "author": "Abel,",
+            "year": "2007",
+            "journal-title": "American Economic Review Papers & Proceedings"
+        },
+        {
+            "key": "2022011810042162700_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.3982/ECTA7624",
+            "article-title": "Optimal inattention to the stock market with information costs and transactions",
+            "volume": "81",
+            "author": "Abel,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011810042162700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA10586",
+            "article-title": "Trade dynamics in the market for federal funds",
+            "volume": "83",
+            "author": "Afonso,",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011810042162700_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.21314/JOR.2001.041",
+            "article-title": "Optimal execution of portfolio transactions",
+            "volume": "3",
+            "author": "Almgren,",
+            "year": "2001",
+            "journal-title": "Journal of Risk"
+        },
+        {
+            "key": "2022011810042162700_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/j.jfineco.2009.12.011",
+            "article-title": "Liquidity biases in asset pricing tests",
+            "volume": "96",
+            "author": "Asparouhova,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022011810042162700_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1111/jofi.12010",
+            "article-title": "Noisy prices and inference regarding returns",
+            "volume": "68",
+            "author": "Asparouhova,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "870",
+            "DOI": "10.1257/aer.100.3.870",
+            "article-title": "Infrequent portfolio decisions: A solution to the forward discount puzzle",
+            "volume": "100",
+            "author": "Bacchetta,",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011810042162700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "911",
+            "DOI": "10.1111/j.1540-6261.2011.01655.x",
+            "article-title": "The illiquidity of corporate bonds",
+            "volume": "66",
+            "author": "Bao,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S1386-4181(97)00012-8",
+            "article-title": "Optimal control of execution costs",
+            "volume": "1",
+            "author": "Bertsimas,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2022011810042162700_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1111/j.1540-6261.1993.tb04705.x",
+            "article-title": "Price formation and equilibrium liquidity in fragmented and centralized markets",
+            "volume": "48",
+            "author": "Biais,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1401",
+            "DOI": "10.1093/restud/rdu008",
+            "article-title": "Equilibrium pricing and trading volume under preference uncertainty",
+            "volume": "81",
+            "author": "Biais,",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022011810042162700_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2967",
+            "DOI": "10.1111/jofi.12436",
+            "article-title": "Infrequent rebalancing, return autocorrelation, and seasonality",
+            "volume": "71",
+            "author": "Bogousslavsky,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "3437",
+            "DOI": "10.1093/rfs/hhq064",
+            "article-title": "The mispricing return premium",
+            "volume": "23",
+            "author": "Brennan,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022011810042162700_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "905",
+            "DOI": "10.2307/2118454",
+            "article-title": "Trading volume and serial correlation in stocks returns",
+            "volume": "108",
+            "author": "Campbell,",
+            "year": "1993",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011810042162700_B15",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The econometrics of financial markets",
+            "author": "Campbell,",
+            "year": "1997",
+            "DOI": "10.1515/9781400830213"
+        },
+        {
+            "key": "2022011810042162700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1607",
+            "DOI": "10.1093/rfs/hht023",
+            "article-title": "Investors horizons and the amplification of market shocks",
+            "volume": "26",
+            "author": "Cella,",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022011810042162700_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2859",
+            "DOI": "10.1257/aer.102.6.2859",
+            "article-title": "Is the volatility of the market price of risk due to intermittent portfolio rebalancing?",
+            "volume": "102",
+            "author": "Chien,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011810042162700_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "241",
+            "DOI": "10.2307/2118434",
+            "article-title": "Permanent and transitory components of GNP and stock prices",
+            "volume": "109",
+            "author": "Cochrane,",
+            "year": "1994",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011810042162700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhz053",
+            "article-title": "On the effects of restricting short-term investment",
+            "volume": "33",
+            "author": "Crouzet,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022011810042162700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1540-6261.2010.01569.x",
+            "article-title": "Presidential address: Asset price dynamics with slow-moving capital",
+            "volume": "65",
+            "author": "Duffie,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1865",
+            "DOI": "10.1093/rfs/hhm037",
+            "article-title": "Valuation in over-the-counter markets",
+            "volume": "20",
+            "author": "Duffie,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022011810042162700_B22",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Time series analysis by state space models",
+            "author": "Durbin,",
+            "year": "2012",
+            "DOI": "10.1093/acprof:oso/9780199641178.001.0001"
+        },
+        {
+            "key": "2022011810042162700_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.2307/2325486",
+            "article-title": "Efficient capital markets: A review of theory and empirical work",
+            "volume": "25",
+            "author": "Fama,",
+            "year": "1970",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1575",
+            "DOI": "10.1111/j.1540-6261.1991.tb04636.x",
+            "article-title": "Efficient capital markets: II",
+            "volume": "46",
+            "author": "Fama,",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "532",
+            "DOI": "10.1016/j.jet.2008.07.006",
+            "article-title": "Portfolio choice and pricing in illiquid markets",
+            "volume": "144",
+            "author": "G\u00e2rleanu,",
+            "year": "2009",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022011810042162700_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2285",
+            "DOI": "10.1046/j.1540-6261.2003.00606.x",
+            "article-title": "The dynamics of institutional and individual trading",
+            "volume": "58",
+            "author": "Griffin,",
+            "year": "2003",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1111/j.1540-6261.1988.tb04594.x",
+            "article-title": "Liquidity and market structure",
+            "volume": "43",
+            "author": "Grossman,",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1565",
+            "DOI": "10.1111/j.1540-6261.1993.tb05121.x",
+            "article-title": "The trades of market makers: An empirical analysis of NYSE specialists",
+            "volume": "48",
+            "author": "Hasbrouck,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1016/j.jfineco.2014.08.001",
+            "article-title": "Price pressures",
+            "volume": "114",
+            "author": "Hendershott,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022011810042162700_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "568",
+            "DOI": "10.1016/j.finmar.2011.02.003",
+            "article-title": "Automation, speed, and stock market quality: The NYSE\u2019s hybrid",
+            "volume": "14",
+            "author": "Hendershott,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2022011810042162700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1257/aer.97.2.210",
+            "article-title": "Market maker inventories and stock prices",
+            "volume": "97",
+            "author": "Hendershott,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022011810042162700_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2341",
+            "DOI": "10.1111/jofi.12083",
+            "article-title": "Noise as information for illiquidity",
+            "volume": "68",
+            "author": "Hu,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "881",
+            "DOI": "10.1111/j.1540-6261.1990.tb05110.x",
+            "article-title": "Evidence of predictable behavior of security returns",
+            "volume": "45",
+            "author": "Jegadeesh,",
+            "year": "1990",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1016/0022-0531(85)90059-6",
+            "article-title": "The law of large numbers with a continuum of IID random variables",
+            "volume": "35",
+            "author": "Judd,",
+            "year": "1985",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022011810042162700_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1111/j.1540-6261.2008.01316.x",
+            "article-title": "Individual investor trading and stock returns",
+            "volume": "63",
+            "author": "Kaniel,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.1086/701683",
+            "article-title": "A demand system approach to asset pricing",
+            "volume": "127",
+            "author": "Koijen,",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011810042162700_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.3982/ECTA7250",
+            "article-title": "Liquidity in asset markets With search frictions",
+            "volume": "77",
+            "author": "Lagos,",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022011810042162700_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1016/0304-405X(92)90023-Q",
+            "article-title": "The impact of institutional trading on stock prices",
+            "volume": "32",
+            "author": "Lakonishok,",
+            "year": "1992",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022011810042162700_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2937816",
+            "article-title": "Fads, martingales, and market efficiency",
+            "volume": "105",
+            "author": "Lehmann,",
+            "year": "1990",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022011810042162700_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1005",
+            "DOI": "10.1093/rfs/15.4.1005",
+            "article-title": "Dynamic volume-return relation of individual stocks",
+            "volume": "15",
+            "author": "Llorente,",
+            "year": "2002",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022011810042162700_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1054",
+            "DOI": "10.1086/422565",
+            "article-title": "Asset prices and trading volume under fixed transaction costs",
+            "volume": "112",
+            "author": "Lo,",
+            "year": "2004",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022011810042162700_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1595",
+            "DOI": "10.1111/j.1540-6261.1993.tb05122.x",
+            "article-title": "An analysis of changes in specialist inventories and quotations",
+            "volume": "48",
+            "author": "Madhavan,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "2005",
+            "DOI": "10.1093/rfs/hhs066",
+            "article-title": "Evaporating liquidity",
+            "volume": "25",
+            "author": "Nagel,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022011810042162700_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1111/j.1540-6261.2009.01462.x",
+            "article-title": "Information immobility and the home bias puzzle",
+            "volume": "64",
+            "author": "Van Nieuwerburgh,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "2263",
+            "DOI": "10.1111/0022-1082.00188",
+            "article-title": "Herding and feedback trading by institutional and individual investors",
+            "volume": "46",
+            "author": "Nofsinger,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/0304-405X(88)90021-9",
+            "article-title": "Mean reversion in stock prices evidence and implications",
+            "volume": "22",
+            "author": "Poterba,",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022011810042162700_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.1111/j.1540-6261.1984.tb03897.x",
+            "article-title": "A simple implicit measure of the effective bid-ask spread in an efficient market",
+            "volume": "39",
+            "author": "Roll,",
+            "year": "1984",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022011810042162700_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1016/S0304-3932(03)00029-1",
+            "article-title": "Implications of rational inattention",
+            "volume": "50",
+            "author": "Sims,",
+            "year": "2003",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022011810042162700_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.jet.2004.10.005",
+            "article-title": "The exact law of large numbers via Fubini extension and characterization of insurable risks",
+            "volume": "126",
+            "author": "Sun,",
+            "year": "2006",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022011810042162700_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "2184",
+            "DOI": "10.1093/rfs/hhx137",
+            "article-title": "Does algorithmic trading reduce information acquisition?",
+            "volume": "31",
+            "author": "Weller,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab045/37916726/hhab045.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/2/962/42228865/hhab045.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/2/962/42228865/hhab045.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                18
+            ]
+        ],
+        "date-time": "2022-01-18T10:32:57Z",
+        "timestamp": 1642501977000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/2/962/6226477"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                15
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    15
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    18
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab045",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                15
+            ]
+        ]
+    }
+}

@@ -1,0 +1,723 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                5
+            ]
+        ],
+        "date-time": "2022-04-05T14:46:50Z",
+        "timestamp": 1649170010007
+    },
+    "reference-count": 47,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        30
+                    ]
+                ],
+                "date-time": "2021-06-30T00:00:00Z",
+                "timestamp": 1625011200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article proposes a test for the conditional superior predictive ability (CSPA) of a family of forecasting methods with respect to a benchmark. The test is functional in nature: under the null hypothesis, the benchmark\u2019s conditional expected loss is no more than those of the competitors, uniformly across all conditioning states. By inverting the CSPA tests for a set of benchmarks, we obtain confidence sets for the uniformly most superior method. The econometric inference pertains to testing conditional moment inequalities for time series data with general serial dependence, and we justify its asymptotic validity using a uniform non-parametric inference method based on a new strong approximation theory for mixingales. The usefulness of the method is demonstrated in empirical applications on volatility and inflation forecasting.</jats:p>",
+    "DOI": "10.1093/restud/rdab039",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                28
+            ]
+        ],
+        "date-time": "2021-06-28T19:21:11Z",
+        "timestamp": 1624908071000
+    },
+    "page": "843-875",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Conditional Superior Predictive Ability"
+    ],
+    "prefix": "10.1093",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Jia",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Duke University and Singapore Management University"
+                }
+            ]
+        },
+        {
+            "given": "Zhipeng",
+            "family": "Liao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UCLA, Log Angeles"
+                }
+            ]
+        },
+        {
+            "given": "Rogier",
+            "family": "Quaedvlieg",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Erasmus School of Economics"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022030618591541400_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.1111/1468-0262.00418",
+            "article-title": "Modeling and Forecasting Realized Volatility",
+            "volume": "71",
+            "author": "ANDERSEN,",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.2307/2938259",
+            "article-title": "Asymptotic Normality of Series Estimators for Nonparametric and Semiparametric Regression Models",
+            "volume": "59",
+            "author": "ANDREWS,",
+            "year": "1991",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/2938229",
+            "article-title": "Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimation",
+            "volume": "59",
+            "author": "ANDREWS,",
+            "year": "1991",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "953",
+            "DOI": "10.2307/2951574",
+            "article-title": "An Improved Heteroskedasticity and Autocorrelation Consistent Covariance Matrix Estimator",
+            "volume": "60",
+            "author": "ANDREWS,",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B5",
+            "first-page": "2",
+            "article-title": "Are Phillips Curves Useful for Forecasting Inflation?",
+            "volume": "25",
+            "author": "ATKESON,",
+            "year": "2001",
+            "journal-title": "Federal Reserve bank of Minneapolis Quarterly Review"
+        },
+        {
+            "key": "2022030618591541400_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "304",
+            "DOI": "10.1016/j.jeconom.2008.08.010",
+            "article-title": "Forecasting Economic Time Series using Targeted Predictors",
+            "volume": "146",
+            "author": "BAI,",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1593",
+            "DOI": "10.1093/qje/qjw024",
+            "article-title": "Measuring Economic Policy Uncertainty",
+            "volume": "131",
+            "author": "BAKER,",
+            "year": "2016",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022030618591541400_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/j.jeconom.2015.02.014",
+            "article-title": "Some New Asymptotic Theory for Least Squares Series: Pointwise and Uniform Results",
+            "volume": "186",
+            "author": "BELLONI,",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.10.007",
+            "article-title": "Exploiting the Errors: A Simple Approach for Improved Volatility Forecasting",
+            "volume": "192",
+            "author": "BOLLERSLEV,",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/j.jeconom.2018.05.004",
+            "article-title": "Modeling and Forecasting (un) Reliable Realized Covariances for more Reliable Financial Decisions",
+            "volume": "207",
+            "author": "BOLLERSLEV,",
+            "year": "2018",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1007/BF00058655",
+            "article-title": "Bagging Predictors",
+            "volume": "24",
+            "author": "BREIMAN,",
+            "year": "1996",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2022030618591541400_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random Forests",
+            "volume": "45",
+            "author": "BREIMAN,",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2022030618591541400_B13",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/S1573-4412(07)06076-X",
+            "article-title": "Large Sample Sieve Estimation of Semi-Nonparametric Models",
+            "volume-title": "Handbook of Econometrics",
+            "author": "CHEN,",
+            "year": "2007",
+            "edition": "1st edn."
+        },
+        {
+            "key": "2022030618591541400_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1016/j.jeconom.2015.03.010",
+            "article-title": "Optimal Uniform Convergence Rates and Asymptotic Normality for Series Estimators under Weak Dependence and Weak Conditions",
+            "volume": "188",
+            "author": "CHEN,",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1564",
+            "DOI": "10.1214/14-AOS1230",
+            "article-title": "Gaussian Approximation of Suprema of Empirical Processes",
+            "volume": "42",
+            "author": "CHERNOZHUKOV,",
+            "year": "2014",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2022030618591541400_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "667",
+            "DOI": "10.3982/ECTA8718",
+            "article-title": "Intersection Bounds: Estimation and Inference",
+            "volume": "81",
+            "author": "CHERNOZHUKOV,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "174",
+            "DOI": "10.1093/jjfinec/nbp001",
+            "article-title": "A Simple Approximate Long-Memory Model of Realized Volatility",
+            "volume": "7",
+            "author": "CORSI,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B18",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Stochastic Limit Theory",
+            "author": "DAVIDSON,",
+            "year": "1994",
+            "DOI": "10.1093/0198774036.001.0001"
+        },
+        {
+            "key": "2022030618591541400_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/07350015.2014.983236",
+            "article-title": "Comparing Predictive Accuracy, Twenty Years Later: A Personal Perspective on the Use and Abuse of Diebold\u2013Mariano Tests",
+            "volume": "33",
+            "author": "DIEBOLD,",
+            "year": "2015",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591541400_B20",
+            "first-page": "253",
+            "article-title": "Comparing Predictive Accuracy",
+            "volume": "13",
+            "author": "DIEBOLD,",
+            "year": "1995",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591541400_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "468",
+            "DOI": "10.1198/jbes.2009.07214",
+            "article-title": "Comparing Greenbook and Reduced Form Forecasts using a Large Realtime Dataset",
+            "volume": "27",
+            "author": "FAUST,",
+            "year": "2009",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591541400_B22",
+            "first-page": "2",
+            "article-title": "Forecasting Inflation",
+            "author": "FAUST,",
+            "year": "2013"
+        },
+        {
+            "key": "2022030618591541400_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1002/jae.1177",
+            "article-title": "Forecast Comparisons in Unstable Environments",
+            "volume": "25",
+            "author": "GIACOMINI,",
+            "year": "2010",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "369",
+            "DOI": "10.1111/iere.12161",
+            "article-title": "Model Comparisons in Unstable Environments",
+            "volume": "57",
+            "author": "GIACOMINI,",
+            "year": "2016",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2022030618591541400_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1545",
+            "DOI": "10.1111/j.1468-0262.2006.00718.x",
+            "article-title": "Tests of Conditional Predictive Ability",
+            "volume": "74",
+            "author": "GIACOMINI,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1692",
+            "DOI": "10.1257/aer.102.4.1692",
+            "article-title": "Credit Spreads and Business Cycle Fluctuations",
+            "volume": "102",
+            "author": "GILCHRIST,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022030618591541400_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1198/073500105000000063",
+            "article-title": "A Test for Superior Predictive Ability",
+            "volume": "23",
+            "author": "HANSEN,",
+            "year": "2005",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591541400_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.3982/ECTA5771",
+            "article-title": "The Model Confidence Set",
+            "volume": "79",
+            "author": "HANSEN,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "152",
+            "DOI": "10.1016/j.jeconom.2012.06.008",
+            "article-title": "Evaluating DSGE Model Forecasts of Comovements",
+            "volume": "171",
+            "author": "HERBST,",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "800",
+            "DOI": "10.1093/biomet/75.4.800",
+            "article-title": "A Sharper Bonferroni Procedure for Multiple Tests of Significance",
+            "volume": "75",
+            "author": "HOCHBERG,",
+            "year": "1988",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2022030618591541400_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.1198/016214507000000473",
+            "article-title": "How Useful is Bagging in Forecasting Economic Time Series? A Case Study of US Consumer Price Inflation",
+            "volume": "103",
+            "author": "INOUE,",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022030618591541400_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.1257/aer.20131193",
+            "article-title": "Measuring Uncertainty",
+            "volume": "105",
+            "author": "JURADO,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022030618591541400_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.1016/j.jeconom.2019.09.011",
+            "article-title": "Uniform Nonparametric Inference for Time Series",
+            "volume": "219",
+            "author": "LI,",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "574",
+            "DOI": "10.1080/07350015.2015.1086655",
+            "article-title": "FRED-MD: A Monthly Database for Macroeconomic Research",
+            "volume": "34",
+            "author": "MCCRACKEN,",
+            "year": "2016",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591541400_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "98",
+            "DOI": "10.1080/07350015.2019.1637745",
+            "article-title": "Forecasting Inflation in a Data-Rich Environment: The Benefits of Machine Learning Methods",
+            "volume": "39",
+            "author": "MEDEIROS,",
+            "year": "2021",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022030618591541400_B36",
+            "doi-asserted-by": "crossref",
+            "article-title": "Econometrics with Partial Identification",
+            "author": "MOLINARI,",
+            "year": "2019",
+            "DOI": "10.1920/wp.cem.2019.2519"
+        },
+        {
+            "key": "2022030618591541400_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/S0304-4076(97)00011-0",
+            "article-title": "Convergence Rates and Asymptotic Normality for Series Estimators",
+            "volume": "79",
+            "author": "NEWEY,",
+            "year": "1997",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022030618591541400_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A Simple, Positive Semi-definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix",
+            "volume": "55",
+            "author": "NEWEY,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B39",
+            "first-page": "1203",
+            "article-title": "Chapter 21 - Advances in Forecasting under Instability",
+            "volume-title": "Handbook of Economic Forecasting",
+            "author": "ROSSI,",
+            "year": "2013"
+        },
+        {
+            "key": "2022030618591541400_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "808",
+            "DOI": "10.1016/j.ijforecast.2009.08.004",
+            "article-title": "Have Economic Models\u2019 Forecasting Performance for US Output Growth and Inflation Changed Over Time, and When?",
+            "volume": "26",
+            "author": "ROSSI,",
+            "year": "2010",
+            "journal-title": "International Journal of Forecasting"
+        },
+        {
+            "key": "2022030618591541400_B41",
+            "doi-asserted-by": "crossref",
+            "article-title": "Phillips Curve Inflation Forecasts",
+            "volume-title": "Understanding Inflation and the Implications for Monetary Policy",
+            "author": "STOCK,",
+            "year": "2009",
+            "DOI": "10.7551/mitpress/9780262013635.003.0003"
+        },
+        {
+            "key": "2022030618591541400_B42",
+            "doi-asserted-by": "crossref",
+            "article-title": "Modeling Inflation after the Crisis",
+            "author": "STOCK,",
+            "year": "2010",
+            "DOI": "10.3386/w16488"
+        },
+        {
+            "key": "2022030618591541400_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+            "article-title": "Regression Shrinkage and Selection Via the Lasso",
+            "volume": "58",
+            "author": "TIBSHIRANI,",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "key": "2022030618591541400_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1067",
+            "DOI": "10.2307/2171956",
+            "article-title": "Asymptotic Inference about Predictive Ability",
+            "volume": "64",
+            "author": "WEST,",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1097",
+            "DOI": "10.1111/1468-0262.00152",
+            "article-title": "A Reality Check for Data Snooping",
+            "volume": "68",
+            "author": "WHITE,",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022030618591541400_B46",
+            "article-title": "Can Two Forecasts Have the Same Conditional Expected Accuracy?",
+            "author": "ZHU,",
+            "year": "2020"
+        },
+        {
+            "key": "2022030618591541400_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1111/j.1467-9868.2005.00503.x",
+            "article-title": "Regularization and Variable Selection Via the Elastic Net",
+            "volume": "67",
+            "author": "ZOU,",
+            "year": "2005",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article/doi/10.1093/restud/rdab039/6311678",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/2/843/42748222/rdab039.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/2/843/42748222/rdab039.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                6
+            ]
+        ],
+        "date-time": "2022-03-06T19:00:15Z",
+        "timestamp": 1646593215000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/89/2/843/6311678"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Francesca",
+            "family": "Molinari",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                30
+            ]
+        ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    6,
+                    30
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab039",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                30
+            ]
+        ]
+    }
+}

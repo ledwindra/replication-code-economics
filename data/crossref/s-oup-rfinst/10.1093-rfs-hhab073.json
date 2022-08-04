@@ -1,0 +1,831 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                26
+            ]
+        ],
+        "date-time": "2022-05-26T00:15:15Z",
+        "timestamp": 1653524115874
+    },
+    "reference-count": 61,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        24
+                    ]
+                ],
+                "date-time": "2021-06-24T00:00:00Z",
+                "timestamp": 1624492800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                21
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We show that constraints can improve financial decision-making by disciplining behavioral biases. In financial markets, restrictions on leverage limit traders\u2019 ability to borrow to open new positions. We demonstrate that regulation that restricts the provision of leverage to retail traders improves trading performance. By increasing the opportunity cost of postponing the realization of losses, leverage constraints improve traders\u2019 market timing and reduce their disposition effect. We replicate these findings in two distinct experimental settings, further isolating the mechanism and demonstrating generality of the results. The interaction between constraints and behavioral biases has implications for policy and choice architecture.</jats:p>",
+    "DOI": "10.1093/rfs/hhab073",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                21
+            ]
+        ],
+        "date-time": "2021-06-21T19:14:59Z",
+        "timestamp": 1624302899000
+    },
+    "page": "1643-1681",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Biased by Choice: How Financial Constraints Can Reduce Financial Mistakes"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Rawley Z",
+            "family": "Heimer",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Boston College"
+                }
+            ]
+        },
+        {
+            "given": "Alex",
+            "family": "Imas",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022032117515074200_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1016/j.jbankfin.2016.08.003",
+            "article-title": "Made poorer by choice: Worker outcomes in social security vs. private retirement accounts",
+            "volume": "92",
+            "author": "Ahmed,",
+            "year": "2018",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2022032117515074200_B2",
+            "article-title": "The portfolio-driven disposition effect",
+            "author": "An,",
+            "year": "2019"
+        },
+        {
+            "key": "2022032117515074200_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2403",
+            "DOI": "10.1093/restud/rdy068",
+            "article-title": "House price beliefs and mortgage leverage choice",
+            "volume": "86",
+            "author": "Bailey,",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022032117515074200_B4",
+            "doi-asserted-by": "crossref",
+            "article-title": "Leveraging overconfidence",
+            "author": "Barber,",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3445660"
+        },
+        {
+            "key": "2022032117515074200_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1162/003355301556310",
+            "article-title": "Prospect theory and asset prices",
+            "volume": "116",
+            "author": "Barberis,",
+            "year": "2001",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022032117515074200_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/j.jfineco.2011.10.005",
+            "article-title": "Realization utility",
+            "volume": "104",
+            "author": "Barberis,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022032117515074200_B7",
+            "doi-asserted-by": "crossref",
+            "article-title": "High leverage and willingness to pay: Evidence from the residential housing market",
+            "author": "Ben-David,",
+            "year": "2011",
+            "DOI": "10.2139/ssrn.1927294"
+        },
+        {
+            "key": "2022032117515074200_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2009",
+            "DOI": "10.1093/rof/rfy022",
+            "article-title": "Uninformative feedback and risk taking: Evidence from retail forex trading",
+            "volume": "22",
+            "author": "Ben-David,",
+            "year": "2018",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2022032117515074200_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1319",
+            "DOI": "10.1093/qje/qjx011",
+            "article-title": "Choose to lose: Health plan choices from a menu with dominated option",
+            "volume": "132",
+            "author": "Bhargava,",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022032117515074200_B10",
+            "article-title": "Margin trading and leverage management",
+            "author": "Bian,",
+            "year": "2021"
+        },
+        {
+            "key": "2022032117515074200_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1016/j.jfineco.2017.12.002",
+            "article-title": "Leverage constraints and asset prices: Insights from mutual fund risk taking",
+            "volume": "127",
+            "author": "Boguth,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022032117515074200_B12",
+            "article-title": "Does credit affect stock trading? Evidence from the South Sea Bubble",
+            "author": "Braggion,",
+            "year": "2020"
+        },
+        {
+            "key": "2022032117515074200_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1257/aer.p20161127",
+            "article-title": "Restoring rational choice: The challenge of consumer financial regulation",
+            "volume": "106",
+            "author": "Campbell,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022032117515074200_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "278",
+            "DOI": "10.1016/j.jfineco.2008.05.002",
+            "article-title": "Strategic price complexity in retail financial markets",
+            "volume": "91",
+            "author": "Carlin,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022032117515074200_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1469",
+            "DOI": "10.1093/qje/qjx007",
+            "article-title": "Catering to investors through security design: Headline rate and complexity",
+            "volume": "132",
+            "author": "C\u00e9l\u00e9rier,",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022032117515074200_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1111/jofi.12311",
+            "article-title": "Looking for someone to blame: Delegation, cognitive dissonance, and the disposition effect",
+            "volume": "71",
+            "author": "Chang,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B17",
+            "article-title": "Mental accounting, similarity, and preferences over the timing of outcomes",
+            "author": "Evers,",
+            "year": "2019",
+            "journal-title": "Similarity, and Preferences Over the Timing of Outcomes"
+        },
+        {
+            "key": "2022032117515074200_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "958",
+            "DOI": "10.1257/aer.20121416",
+            "article-title": "Credit supply and the price of housing",
+            "volume": "105",
+            "author": "Favara,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022032117515074200_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2110",
+            "DOI": "10.1093/rfs/hhx016",
+            "article-title": "The causal effect of stop-loss and take-gain orders on the disposition effect",
+            "volume": "30",
+            "author": "Fischbacher,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022032117515074200_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1016/j.jempfin.2019.08.001",
+            "article-title": "Overconfidence, position size, and the link to performance",
+            "volume": "53",
+            "author": "Forman,",
+            "year": "2019",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2022032117515074200_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.1111/jofi.12126",
+            "article-title": "Using neural data to test a theory of investor behavior: An application to realization utility",
+            "volume": "69",
+            "author": "Frydman,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "362",
+            "DOI": "10.1093/rfs/hhx042",
+            "article-title": "Rolling mental accounts",
+            "volume": "31",
+            "author": "Frydman,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022032117515074200_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.1016/j.jebo.2014.01.017",
+            "article-title": "Debiasing the disposition effect by reducing the saliency of information about a stock\u2019s purchase price",
+            "volume": "107",
+            "author": "Frydman,",
+            "year": "2014",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2022032117515074200_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1661",
+            "DOI": "10.1093/qje/qju024",
+            "article-title": "A Sparsity-Based Model of Bounded Rationality",
+            "volume": "129",
+            "author": "Gabaix,",
+            "year": "2014",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022032117515074200_B25",
+            "doi-asserted-by": "crossref",
+            "article-title": "Exploited by complexity",
+            "author": "Gao,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3554402"
+        },
+        {
+            "key": "2022032117515074200_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/648285",
+            "article-title": "The Leverage Cycle",
+            "volume": "24",
+            "author": "Geanakoplos,",
+            "year": "2010",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2022032117515074200_B27",
+            "first-page": "255",
+            "article-title": "Equity and Time to Sale in the Real Estate Market",
+            "author": "Genesove,",
+            "year": "1997",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2022032117515074200_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "694",
+            "DOI": "10.1093/restud/rdx071",
+            "article-title": "Complexity in structured finance",
+            "volume": "86",
+            "author": "Ghent,",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2022032117515074200_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "2518",
+            "DOI": "10.1287/mnsc.2013.1718",
+            "article-title": "When smaller menus are better: Variability in menu-setting ability",
+            "volume": "59",
+            "author": "Goldreich,",
+            "year": "2013",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022032117515074200_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "589",
+            "DOI": "10.1111/0022-1082.00338",
+            "article-title": "What Makes Investors Trade?",
+            "volume": "56",
+            "author": "Grinblatt,",
+            "year": "2001",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B31",
+            "article-title": "Riding the credit boom",
+            "author": "Hansman,",
+            "journal-title": "Technical Report, Imperial College London"
+        },
+        {
+            "key": "2022032117515074200_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2018.10.017",
+            "article-title": "Should Retail Investors\u2019 Leverage Be Limited?",
+            "volume": "132",
+            "author": "Heimer,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022032117515074200_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "3177",
+            "DOI": "10.1093/rfs/hhw063",
+            "article-title": "Peer Pressure: Social Interaction and the Disposition Effect",
+            "volume": "29",
+            "author": "Heimer,",
+            "year": "2016",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2022032117515074200_B34",
+            "article-title": "Dynamic inconsistency in risky choice: Evidence from the lab and field",
+            "author": "Heimber,",
+            "year": "2020"
+        },
+        {
+            "key": "2022032117515074200_B35",
+            "article-title": "Facebook Finance: How Social Interaction Propagates Active Investing",
+            "author": "Heimer,",
+            "year": "2015",
+            "journal-title": "Working Paper, Federal Reserve Bank of Cleveland"
+        },
+        {
+            "key": "2022032117515074200_B36",
+            "doi-asserted-by": "publisher",
+            "article-title": "Do Large Gains Make Willing Sellers?",
+            "author": "Hong,",
+            "year": "2021",
+            "journal-title": "Journal of Financial and Quantitative Analysis",
+            "DOI": "10.1017/S0022109021000193"
+        },
+        {
+            "key": "2022032117515074200_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "763",
+            "DOI": "10.1111/j.1540-6261.2006.00854.x",
+            "article-title": "Offering versus choice in 401 (k) plans: Equity exposure and number of funds",
+            "volume": "61",
+            "author": "Huberman,",
+            "year": "2006",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "723",
+            "DOI": "10.1093/rfs/hhs116",
+            "article-title": "Realization Utility with Reference-Dependent Preferences",
+            "volume": "26",
+            "author": "Ingersoll,",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022032117515074200_B39",
+            "article-title": "Can risk explain the profitability of technical trading in currency markets?",
+            "author": "Ivanova,",
+            "year": "2014"
+        },
+        {
+            "key": "2022032117515074200_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "530",
+            "DOI": "10.1016/j.jpubeco.2010.03.006",
+            "article-title": "Choice proliferation, simplicity seeking, and asset allocation",
+            "volume": "94",
+            "author": "Iyengar,",
+            "year": "2010",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022032117515074200_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "995",
+            "DOI": "10.1037/0022-3514.79.6.995",
+            "article-title": "When choice is demotivating: Can one desire too much of a good thing?",
+            "volume": "79",
+            "author": "Iyengar,",
+            "year": "2000",
+            "journal-title": "Journal of Personality and Social Psychology"
+        },
+        {
+            "key": "2022032117515074200_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1281",
+            "DOI": "10.1111/jofi.12616",
+            "article-title": "Margin Requirements and the Security Market Line",
+            "volume": "73",
+            "author": "Jylh\u00e4,",
+            "year": "2018",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1567",
+            "DOI": "10.1111/jofi.12507",
+            "article-title": "Trader leverage and liquidity",
+            "volume": "72",
+            "author": "Kahraman,",
+            "year": "2017",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1002/9781118258415.ch10",
+            "article-title": "Disposition effect",
+            "volume-title": "In Behavioral finance: Investors, corporations, and markets",
+            "author": "Kaustia,",
+            "year": "2010"
+        },
+        {
+            "key": "2022032117515074200_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "2468",
+            "DOI": "10.1093/rfs/hhy013",
+            "article-title": "The information content of realized losses",
+            "volume": "31",
+            "author": "Kelly,",
+            "year": "2018",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2022032117515074200_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1093/oxfordjournals.pan.a004868",
+            "article-title": "Logistic regression in rare events data",
+            "volume": "9",
+            "author": "King,",
+            "year": "2001",
+            "journal-title": "Political analysis"
+        },
+        {
+            "key": "2022032117515074200_B47",
+            "article-title": "The $\\$$4 trillion question: what explains FX growth since the 2007 survey?",
+            "author": "King,",
+            "year": "2010",
+            "journal-title": "BIS Quarterly Review"
+        },
+        {
+            "key": "2022032117515074200_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "3367",
+            "DOI": "10.1257/aer.20140259",
+            "article-title": "Leverage and beliefs: Personal experience and risk taking in margin lending",
+            "volume": "106",
+            "author": "Koudijs,",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022032117515074200_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1257/aer.p20151084",
+            "article-title": "Why Don\u2019t Present-Biased Agents Make Commitments?",
+            "volume": "105",
+            "author": "Laibson,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022032117515074200_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "2107",
+            "DOI": "10.1093/rfs/hhy111",
+            "article-title": "Low interest rates and risk-taking: Evidence from individual investment decisions",
+            "volume": "32",
+            "author": "Lian,",
+            "year": "2019",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2022032117515074200_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1473",
+            "DOI": "10.1111/j.1540-6261.2010.01576.x",
+            "article-title": "Do Limit Orders Alter Inferences about Investor Performance and Behavior?",
+            "volume": "65",
+            "author": "Linnainmaa,",
+            "year": "2010",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "660",
+            "DOI": "10.1016/j.jfineco.2012.06.009",
+            "article-title": "Currency momentum strategies",
+            "volume": "106",
+            "author": "Menkhoff,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022032117515074200_B53",
+            "article-title": "Fully Closed: Individual Responses to Realized Gains and Losses",
+            "author": "Meyer,",
+            "year": "2019",
+            "journal-title": "Tech. rep., National Bureau of Economic Research"
+        },
+        {
+            "key": "2022032117515074200_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1775",
+            "DOI": "10.1111/0022-1082.00072",
+            "article-title": "Are Investors Reluctant to Realize Their Losses?",
+            "volume": "53",
+            "author": "Odean,",
+            "year": "1998",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1257/aer.89.1.103",
+            "article-title": "Doing it now or later",
+            "volume": "89",
+            "author": "O\u2019Donoghue,",
+            "year": "1999",
+            "journal-title": "American economic review"
+        },
+        {
+            "key": "2022032117515074200_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1086/378531",
+            "article-title": "Overconfidence and Speculative Bubbles",
+            "volume": "111",
+            "author": "Scheinkman,",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022032117515074200_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "777",
+            "DOI": "10.1111/j.1540-6261.1985.tb05002.x",
+            "article-title": "The Disposition to Sell Winners Too Early and Ride Losers Too Long : Theory and Evidence",
+            "volume": "40",
+            "author": "Shefrin,",
+            "year": "1985",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022032117515074200_B58",
+            "doi-asserted-by": "crossref",
+            "article-title": "Does disposition drive momentum?",
+            "author": "Shumway,",
+            "year": "2005",
+            "DOI": "10.2139/ssrn.771486"
+        },
+        {
+            "key": "2022032117515074200_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/ECTA9956",
+            "article-title": "Belief Disagreements and Collateral Constraints",
+            "volume": "81",
+            "author": "Simsek,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022032117515074200_B60",
+            "doi-asserted-by": "publisher",
+            "article-title": "Engineering lemons",
+            "author": "Vokata,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics",
+            "DOI": "10.1016/j.jfineco.2021.04.035"
+        },
+        {
+            "key": "2022032117515074200_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1016/S0167-2681(97)00089-9",
+            "article-title": "The Disposition Effect in Securities Trading: An Experimental Analysis",
+            "volume": "33",
+            "author": "Weber,",
+            "year": "1998",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab073/39609244/hhab073.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/4/1643/42970015/hhab073.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/4/1643/42970015/hhab073.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                21
+            ]
+        ],
+        "date-time": "2022-03-21T17:53:46Z",
+        "timestamp": 1647885226000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/4/1643/6308957"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Lauren",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                24
+            ]
+        ]
+    },
+    "references-count": 61,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    6,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    3,
+                    21
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab073",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                24
+            ]
+        ]
+    }
+}

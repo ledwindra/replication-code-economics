@@ -1,0 +1,807 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2022-04-02T04:16:29Z",
+        "timestamp": 1648872989431
+    },
+    "reference-count": 64,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        9,
+                        20
+                    ]
+                ],
+                "date-time": "2021-09-20T00:00:00Z",
+                "timestamp": 1632096000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                24
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Government programs are often offered on an optional basis to market participants. We explore the economics of such voluntary regulation in the context of a Medicare payment reform, in which one medical provider receives a single, predetermined payment for a sequence of related healthcare services, instead of separate service-specific payments. This \u201cbundled payment\u201d program was originally implemented as a five-year randomized trial, with mandatory participation by hospitals assigned to the new payment model; however, after two years, participation was made voluntary for half of these hospitals. Using detailed claim-level data, we document that voluntary participation is more likely for hospitals that can increase revenue without changing behavior (\u201cselection on levels\u201d) and for hospitals that had large changes in behavior when participation was mandatory (\u201cselection on slopes\u201d). To assess outcomes under counterfactual regimes, we estimate a stylized model of responsiveness to and selection into the program. We find that the current voluntary regime generates inefficient transfers to hospitals, and that alternative (feasible) designs could reduce these inefficient transfers and raise welfare. Our analysis highlights key design elements to consider under voluntary regulation.</jats:p>",
+    "DOI": "10.1093/qje/qjab035",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2021-09-16T03:14:32Z",
+        "timestamp": 1631762072000
+    },
+    "page": "565-618",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Voluntary Regulation: Evidence from Medicare Payment Reform"
+    ],
+    "prefix": "10.1093",
+    "volume": "137",
+    "author": [
+        {
+            "given": "Liran",
+            "family": "Einav",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "Amy",
+            "family": "Finkelstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "Yunan",
+            "family": "Ji",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard University, United States"
+                }
+            ]
+        },
+        {
+            "given": "Neale",
+            "family": "Mahoney",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and National Bureau of Economic Research, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2021122504421634800_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "4046",
+            "DOI": "10.1086/710334",
+            "article-title": "\u201cHow Do Doctors Respond to Incentives? Unintended Consequences of Paying Doctors to Reduce Costs,\u201d",
+            "volume": "128",
+            "author": "Alexander",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021122504421634800_bib2",
+            "article-title": "\u201cA Data-Driven Approach to BPCI Advanced: Methods for Selecting Appropriate Risk,\u201d",
+            "author": "ArborMetrix"
+        },
+        {
+            "key": "2021122504421634800_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1056/NEJMsa1809010",
+            "article-title": "\u201cTwo-Year Evaluation of Mandatory Bundled Payments for Joint Replacement,\u201d",
+            "volume": "380",
+            "author": "Barnett",
+            "year": "2019",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2021122504421634800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1037",
+            "DOI": "10.1001/jama.2017.1224",
+            "article-title": "\u201cEffect of Inpatient Rehabilitation vs a Monitored Home-Based Program on Mobility in Patients with Total Knee Arthroplasty: The HIHO Randomized Clinical Trial,\u201d",
+            "volume": "317",
+            "author": "Buhagiar",
+            "year": "2017",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2021122504421634800_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1016/j.jhealeco.2018.06.010",
+            "article-title": "\u201cEffects of Episode-Based Payment on Health Care Spending and Utilization: Evidence from Perinatal Care in Arkansas,\u201d",
+            "volume": "61",
+            "author": "Carroll",
+            "year": "2018",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "2021122504421634800_bib6",
+            "article-title": "\u201cAdverse Selection as a Policy Instrument: Unraveling Climate Change,\u201d",
+            "author": "Cicala"
+        },
+        {
+            "key": "2021122504421634800_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1320",
+            "DOI": "10.1257/aer.104.4.1320",
+            "article-title": "\u201cDo Physicians\u2019 Financial Incentives Affect Medical Treatment and Patient Health?,\u201d",
+            "volume": "104",
+            "author": "Clemens",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021122504421634800_bib8",
+            "first-page": "73273",
+            "article-title": "\u201cMedicare Program; Comprehensive Care for Joint Replacement Payment Model for Acute Care Hospitals Furnishing Lower Extremity Joint Replacement Services. Final Rule,\u201d",
+            "volume": "80",
+            "author": "CMS",
+            "year": "2015",
+            "journal-title": "Federal Register"
+        },
+        {
+            "key": "2021122504421634800_bib9",
+            "first-page": "49325",
+            "article-title": "\u201cMedicare Program; Hospital Inpatient Prospective Payment Systems for Acute Care Hospitals and the Long-Term Care Hospital Prospective Payment System Policy Changes and Fiscal Year 2016 Rates; Revisions of Quality Reporting Requirements for Specific Providers, Including Changes Related to the Electronic Health Record Incentive Program; Extensions of the Medicare-Dependent, Small Rural Hospital Program and the Low-Volume Payment Adjustment for Hospitals. Final Rule; Interim Final Rule with Comment Period,\u201d",
+            "volume": "80",
+            "author": "CMS",
+            "year": "2015",
+            "journal-title": "Federal Register"
+        },
+        {
+            "key": "2021122504421634800_bib10",
+            "first-page": "57066",
+            "article-title": "\u201cMedicare Program; Cancellation of Advancing Care Coordination through Episode Payment and Cardiac Rehabilitation Incentive Payment Models; Changes to Comprehensive Care for Joint Replacement Payment Model: Extreme and Uncontrollable Circumstances Policy for the Comprehensive Care for Joint Replacement Payment Model,\u201d",
+            "volume": "82",
+            "author": "CMS",
+            "year": "2017",
+            "journal-title": "Federal Register"
+        },
+        {
+            "key": "2021122504421634800_bib11",
+            "article-title": "\u201cCMS Statement Regarding the Retroactive Withdrawal Policy and the New Participation Agreement for BPCI Advanced,\u201d",
+            "author": "CMS",
+            "year": "2018"
+        },
+        {
+            "key": "2021122504421634800_bib12",
+            "article-title": "\u201cCMS Fast Facts,\u201d",
+            "author": "CMS",
+            "year": "2019"
+        },
+        {
+            "key": "2021122504421634800_bib13",
+            "article-title": "\u201cCMS Innovation Center Episode Payment Models,\u201d",
+            "author": "CMS",
+            "year": "2020"
+        },
+        {
+            "key": "2021122504421634800_bib14",
+            "author": "CMS Innovation Center, n.d"
+        },
+        {
+            "key": "2021122504421634800_bib15",
+            "first-page": "41",
+            "article-title": "\u201cCost Savings and Physician Responses to Global Bundled Payments for Medicare Heart Bypass Surgery,\u201d",
+            "volume": "19",
+            "author": "Cromwell",
+            "year": "1997",
+            "journal-title": "Health Care Financing Review"
+        },
+        {
+            "key": "2021122504421634800_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.2307/2951696",
+            "article-title": "\u201cThe Incidence of Adverse Medical Outcomes under Prospective Payment,\u201d",
+            "volume": "63",
+            "author": "Cutler",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021122504421634800_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1075",
+            "DOI": "10.1056/NEJMp1113361",
+            "article-title": "\u201cThe Potential for Cost Savings through Bundled Episode Payments,\u201d",
+            "volume": "366",
+            "author": "Cutler",
+            "year": "2012",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2021122504421634800_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2316",
+            "DOI": "10.1111/ssqu.12689",
+            "article-title": "\u201cThe Effects of Regulations on Private School Choice Program Participation: Experimental Evidence from Florida,\u201d",
+            "volume": "100",
+            "author": "DeAngelis",
+            "year": "2019",
+            "journal-title": "Social Science Quarterly"
+        },
+        {
+            "key": "2021122504421634800_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "353",
+            "DOI": "10.1016/j.arth.2015.01.035",
+            "article-title": "\u201cBundled Payment Initiatives for Medicare and Non-Medicare Total Joint Arthroplasty Patients at a Community Hospital: Bundles in the Real World,\u201d",
+            "volume": "30",
+            "author": "Doran",
+            "year": "2015",
+            "journal-title": "Journal of Arthroplasty"
+        },
+        {
+            "key": "2021122504421634800_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1267",
+            "DOI": "10.1001/jama.2016.12717",
+            "article-title": "\u201cAssociation between Hospital Participation in a Medicare Bundled Payment Initiative and Payments and Quality Outcomes for Lower Extremity Joint Replacement Episodes,\u201d",
+            "volume": "316",
+            "author": "Dummit",
+            "year": "2016",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2021122504421634800_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "18939",
+            "DOI": "10.1073/pnas.2004759117",
+            "article-title": "\u201cRandomized Trial Shows Healthcare Payment Reform has Equal-Sized Spillover Effects on Patients Not Targeted by Reform,\u201d",
+            "volume": "117",
+            "author": "Einav",
+            "year": "2020",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2021122504421634800_bib22",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cVoluntary Regulation: Evidence from Medicare Payment Reform,\u201d",
+            "author": "Einav",
+            "year": "2020",
+            "DOI": "10.3386/w27223"
+        },
+        {
+            "key": "2021122504421634800_bib23",
+            "article-title": "\u201cReplication Data for: \u2018Voluntary Regulation: Evidence from Medicare Payment Reform\u2019,\u201d",
+            "author": "Einav",
+            "year": "2021"
+        },
+        {
+            "key": "2021122504421634800_bib24",
+            "first-page": "195",
+            "article-title": "\u201cBeyond Statistics: the Economic Content of Risk Scores,\u201d",
+            "volume": "8",
+            "author": "Einav",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2021122504421634800_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "2161",
+            "DOI": "10.3982/ECTA15022",
+            "article-title": "\u201cProvider Incentives and Healthcare Costs: Evidence from Long-Term Care Hospitals,\u201d",
+            "volume": "86",
+            "author": "Einav",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021122504421634800_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "178",
+            "DOI": "10.1257/aer.103.1.178",
+            "article-title": "\u201cSelection on Moral Hazard in Health Insurance,\u201d",
+            "volume": "103",
+            "author": "Einav",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021122504421634800_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "3232",
+            "DOI": "10.1257/aer.20170092",
+            "article-title": "\u201cStrategic Patient Discharge: The Case of Long-Term Care Hospitals,\u201d",
+            "volume": "108",
+            "author": "Eliason",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021122504421634800_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "8",
+            "DOI": "10.1097/00005650-199801000-00004",
+            "article-title": "\u201cComorbidity Measures for Use with Administrative Data,\u201d",
+            "author": "Elixhauser",
+            "year": "1998",
+            "journal-title": "Medical Care"
+        },
+        {
+            "key": "2021122504421634800_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "892",
+            "DOI": "10.1001/jama.2018.12346",
+            "article-title": "\u201cMandatory Medicare Bundled Payment Program for Lower Extremity Joint Replacement and Discharge to Institutional Postacute Care: Interim Analysis of the First Year of a 5-Year Randomized Trial,\u201d",
+            "volume": "320",
+            "author": "Finkelstein",
+            "year": "2018",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2021122504421634800_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1262",
+            "DOI": "10.1001/jama.2016.12525",
+            "article-title": "\u201cMedicare\u2019s Bundled Payment Program for Joint Replacement: Promise and Peril?,\u201d",
+            "volume": "316",
+            "author": "Fisher",
+            "year": "2016",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2021122504421634800_bib31",
+            "article-title": "\u201c\u2018Value\u2019 of Care Was a Big Goal. How Did It Work Out?\u201d",
+            "volume": "23",
+            "author": "Frakt",
+            "year": "2019",
+            "journal-title": "New York Times"
+        },
+        {
+            "key": "2021122504421634800_bib32",
+            "article-title": "\u201cWhich Health Policies Actually Work? We Rarely Find Out,\u201d",
+            "volume": "9",
+            "author": "Frakt",
+            "year": "2019",
+            "journal-title": "New York Times"
+        },
+        {
+            "key": "2021122504421634800_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.2307/2297615",
+            "article-title": "\u201cPlanning under Incomplete Information and the Ratchet Effect,\u201d",
+            "volume": "52",
+            "author": "Freixas",
+            "year": "1985",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2021122504421634800_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1676",
+            "DOI": "10.1016/j.arth.2015.04.028",
+            "article-title": "\u201cStandardizing Care and Improving Quality under a Bundled Payment Initiative for Total Joint Arthroplasty,\u201d",
+            "volume": "30",
+            "author": "Froemke",
+            "year": "2015",
+            "journal-title": "Journal of Arthroplasty"
+        },
+        {
+            "key": "2021122504421634800_bib35",
+            "article-title": "\u201cVoluntary and Mandatory Episode-Based Payment Models and Their Participants,\u201d",
+            "author": "GAO",
+            "year": "2018"
+        },
+        {
+            "key": "2021122504421634800_bib36",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cOptimal Contracting with Altruistic Agents: A Structural Model of Medicare Payments for Dialysis Drugs,\u201d",
+            "author": "Gaynor",
+            "year": "2020",
+            "DOI": "10.3386/w27172"
+        },
+        {
+            "key": "2021122504421634800_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "915",
+            "DOI": "10.1086/421172",
+            "article-title": "\u201cPhysician Incentives in Health Maintenance Organizations,\u201d",
+            "volume": "112",
+            "author": "Gaynor",
+            "year": "2004",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2021122504421634800_bib38",
+            "article-title": "\u201cHow Should the Trump Administration Handle Medicare\u2019s New Bundled Payment Programs?,\u201d",
+            "volume": "Apr 10",
+            "author": "Gronniger",
+            "year": "2017",
+            "journal-title": "Health Affairs Blog"
+        },
+        {
+            "key": "2021122504421634800_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "924",
+            "DOI": "10.1001/jamainternmed.2019.0480",
+            "article-title": "\u201cEvaluation of Economic and Clinical Outcomes Under Centers for Medicare & Medicaid Services Mandatory Bundled Payments for Joint Replacements,\u201d",
+            "volume": "179",
+            "author": "Haas",
+            "year": "2019",
+            "journal-title": "JAMA Internal Medicine"
+        },
+        {
+            "key": "2021122504421634800_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.2307/2938303",
+            "article-title": "\u201cThe Empirical Content of the Roy Mode,\u201d",
+            "volume": "58",
+            "author": "Heckman",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2021122504421634800_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "3841",
+            "DOI": "10.1257/aer.104.12.3841",
+            "article-title": "\u201cHospital Choices, Hospital Prices, and Financial Incentives to Physicians,\u201d",
+            "volume": "104",
+            "author": "Ho",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021122504421634800_bib42",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cSelection on Welfare Gains: Experimental Evidence from Electricity Plan Choice,\u201d",
+            "author": "Ito",
+            "year": "2021",
+            "DOI": "10.3386/w28413"
+        },
+        {
+            "key": "2021122504421634800_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "5326",
+            "DOI": "10.1073/pnas.1802868115",
+            "article-title": "\u201cSelf-Selection into Payments for Ecosystem Services Programs,\u201d",
+            "volume": "116",
+            "author": "Jack",
+            "year": "2019",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2021122504421634800_bib44",
+            "article-title": "\u201cCMS to Use Mandatory Models \u2018Very Judiciously,\u2019 Official Says,\u201d",
+            "volume": "26",
+            "author": "King",
+            "year": "2019",
+            "journal-title": "Modern Healthcare"
+        },
+        {
+            "key": "2021122504421634800_bib45",
+            "volume-title": "A Theory of Incentives in Procurement and Regulation",
+            "author": "Laffont",
+            "year": "1993"
+        },
+        {
+            "key": "2021122504421634800_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1663",
+            "DOI": "10.1056/NEJMp1800483",
+            "article-title": "\u201cReform at Risk-Mandating Participation in Alternative Payment Plans,\u201d",
+            "volume": "378",
+            "author": "Levy",
+            "year": "2018",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2021122504421634800_bib58",
+            "article-title": "\u201cCMS Bundled Payments for Care Improvement (BPCI) Initiative Models 2-4: Year 1 Evaluation & Monitoring Annual Report,\u201d",
+            "author": "Lewin Group",
+            "year": "2015"
+        },
+        {
+            "key": "2021122504421634800_bib59",
+            "article-title": "\u201cCMS Comprehensive Care for Joint Replacement Model: Performance Year 1 Evaluation Report,\u201d",
+            "author": "Lewin Group",
+            "year": "2018"
+        },
+        {
+            "key": "2021122504421634800_bib60",
+            "article-title": "\u201cCMS Comprehensive Care for Joint Replacement Model: Performance Year 2 Evaluation Report.\u201d",
+            "author": "Lewin Group",
+            "year": "2019"
+        },
+        {
+            "key": "2021122504421634800_bib61",
+            "article-title": "\u201cCMS Comprehensive Care for Joint Replacement Model: Performance Year 2 Evaluation Report: An In-Depth Look: Hospital Case Studies,\u201d",
+            "author": "Lewin Group",
+            "year": "2019"
+        },
+        {
+            "key": "2021122504421634800_bib62",
+            "article-title": "\u201cCMS Comprehensive Care for Joint Replacement Model: Performance Year 3 Evaluation Report,\u201d",
+            "author": "Lewin Group",
+            "year": "2020"
+        },
+        {
+            "key": "2021122504421634800_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1377/hlthaff.2019.00570",
+            "article-title": "\u201cWhen Should Medicare Mandate Participation in Alternative Payment Models?,\u201d",
+            "volume": "39",
+            "author": "Liao",
+            "year": "2020",
+            "journal-title": "Health Affairs"
+        },
+        {
+            "key": "2021122504421634800_bib48",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cShould There Be Vertical Choice in Health Insurance Markets?,\u201d",
+            "author": "Marone",
+            "year": "2021",
+            "DOI": "10.3386/w28779"
+        },
+        {
+            "key": "2021122504421634800_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "214",
+            "DOI": "10.1001/jamainternmed.2016.8263",
+            "article-title": "\u201cCost of Joint Replacement Using Bundled Payment Models,\u201d",
+            "volume": "177",
+            "author": "Navathe",
+            "year": "2017",
+            "journal-title": "JAMA Internal Medicine"
+        },
+        {
+            "key": "2021122504421634800_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "322",
+            "DOI": "10.1200/JOP.2014.001488",
+            "article-title": "\u201cChanging Physician Incentives for Affordable, Quality Cancer Care: Results of an Episode Payment Model,\u201d",
+            "volume": "10",
+            "author": "Newcomer",
+            "year": "2014",
+            "journal-title": "Journal of Oncology Practice"
+        },
+        {
+            "key": "2021122504421634800_bib51",
+            "first-page": "1236",
+            "article-title": "\u201cReimbursing Health Plans and Health Providers: Efficiency in Production versus Selection,\u201d",
+            "volume": "34",
+            "author": "Newhouse",
+            "year": "1996",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2021122504421634800_bib52",
+            "volume-title": "Pricing the Priceless: A Health Care Conundrum",
+            "author": "Newhouse",
+            "year": "2004"
+        },
+        {
+            "key": "2021122504421634800_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1130",
+            "DOI": "10.1097/01.mlr.0000182534.19832.83",
+            "article-title": "\u201cCoding Algorithms for Defining Comorbidities in ICD-9-CM and ICD-10 Administrative Data,\u201d",
+            "author": "Quan",
+            "year": "2005",
+            "journal-title": "Medical Care"
+        },
+        {
+            "key": "2021122504421634800_bib54",
+            "article-title": "\u201cCenter for Medicare and Medicaid Innovation\u2019s Methodology and Calculations for the 2016 Estimate of Fee-for-Service Payments to Alternative Payment Models,\u201d",
+            "author": "Shatto",
+            "year": "2016"
+        },
+        {
+            "key": "2021122504421634800_bib55",
+            "article-title": "\u201cHospital Network Competition and Adverse Selection: Evidence from the Massachusetts Health Insurance Exchange,\u201d",
+            "author": "Shepard",
+            "year": "22600"
+        },
+        {
+            "key": "2021122504421634800_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1257/000282803321947001",
+            "article-title": "\u201cLibertarian Paternalism,\u201d",
+            "volume": "93",
+            "author": "Thaler",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2021122504421634800_bib57",
+            "article-title": "\u201cLawmakers Call for End to Medicare \u2018Experiments\u2019,\u201d",
+            "author": "The Hill",
+            "year": "2016"
+        },
+        {
+            "key": "2021122504421634800_bib63",
+            "doi-asserted-by": "crossref",
+            "first-page": "932",
+            "DOI": "10.1001/jamainternmed.2021.1897",
+            "article-title": "\u201cHospital Responses to Incentives in Episode-Based Payment for Joint Surgery: A Controlled Population-Based Study,\u201d",
+            "volume": "181",
+            "author": "Wilcock",
+            "year": "2021",
+            "journal-title": "JAMA Internal Medicine"
+        },
+        {
+            "key": "2021122504421634800_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1282",
+            "DOI": "10.1377/hlthaff.2018.0257",
+            "article-title": "\u201cHospitals Using Bundled Payment Report Reducing Skilled Nursing Facility Use and Improving Care Integration,\u201d",
+            "volume": "37",
+            "author": "Zhu",
+            "year": "2018",
+            "journal-title": "Health Affairs"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjab035/41282059/qjab035.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/1/565/41929579/qjab035.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/1/565/41929579/qjab035.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                25
+            ]
+        ],
+        "date-time": "2021-12-25T04:42:55Z",
+        "timestamp": 1640407375000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/137/1/565/6372924"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                20
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    9,
+                    20
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    12,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjab035",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                20
+            ]
+        ]
+    }
+}
