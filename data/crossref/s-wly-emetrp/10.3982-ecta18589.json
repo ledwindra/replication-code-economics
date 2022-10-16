@@ -1,0 +1,378 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                11
+            ]
+        ],
+        "date-time": "2022-10-11T05:41:44Z",
+        "timestamp": 1665466904565
+    },
+    "reference-count": 27,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2022-01-01T00:00:00Z",
+                "timestamp": 1640995200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>If experiment \n            <jats:italic>A</jats:italic> is Blackwell more informative than experiment \n            <jats:italic>B</jats:italic>, it is always possible that \n            <jats:italic>A</jats:italic> and \n            <jats:italic>B</jats:italic> are induced by signals A\u2032 and B\u2032 such that A\u2032 is a refinement of B\u2032, that is, A\u2032 entails observing B\u2032 plus some additional information. We first show that this result does not extend beyond pairs of experiments: There exist collections of experiments that cannot be induced by a collection of signals so that whenever two experiments are Blackwell ordered, the associated signals are refinement ordered. In other words, sometimes it is impossible for more informed agents to know everything that less informed agents know. More broadly, define an \n            <jats:italic>information hierarchy</jats:italic> to be a partially ordered set that ranks experiments in terms of informativeness. Is it the case that for any choice of experiments indexed on the hierarchy such that higher experiments are Blackwell more informative, there are signals that induce these experiments with higher signals being refinements of lower signals? We show that the answer is affirmative if and only if the undirected graph of the information hierarchy is a forest.\n          </jats:p>",
+    "DOI": "10.3982/ecta18589",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                11
+            ]
+        ],
+        "date-time": "2022-10-11T05:02:42Z",
+        "timestamp": 1665464562000
+    },
+    "page": "2187-2214",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Information Hierarchies"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Benjamin",
+            "family": "Brooks",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Alexander",
+            "family": "Frankel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Emir",
+            "family": "Kamenica",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200444-bib-0001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Arieli, Itai, Yakov Babichenko, Fedor Sandomirskiy, and Omer Tamuz (2021): \u201cFeasible Joint Posterior Beliefs,\u201d Journal of Political Economy, 129.",
+            "DOI": "10.1086/714993"
+        },
+        {
+            "key": "ecta200444-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "487",
+            "DOI": "10.3982/TE1808",
+            "volume": "11",
+            "author": "Bergemann",
+            "year": "2016",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200444-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Blackwell, David (1953): \u201cEquivalent Comparisons of Experiments,\u201d The Annals of Mathematical Statistics, 265\u2013272.",
+            "DOI": "10.1214/aoms/1177729032"
+        },
+        {
+            "key": "ecta200444-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1016/j.jet.2012.12.012",
+            "volume": "148",
+            "author": "B\u00f6rgers",
+            "year": "2013",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200444-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "189",
+            "DOI": "10.1006/jeth.1993.1012",
+            "volume": "59",
+            "author": "Brandenburger",
+            "year": "1993",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200444-bib-0006",
+            "unstructured": "Brooks, Benjamin, Alexander Frankel, and Emir Kamenica (2022): \u201cComparisons of Signals,\u201d Working paper."
+        },
+        {
+            "key": "ecta200444-bib-0007",
+            "unstructured": "Curello, Gregorio, and Ludvig Sinander (2019): \u201cThe Lattice Structure of Preference Comparison,\u201d Tech. rep, University of Oxford and Northwestern University."
+        },
+        {
+            "key": "ecta200444-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fill, James Allen, and Motoya Machida (2001): \u201cStochastic Monotonicity and Realizable Monotonicity,\u201d Annals of Probability, 938\u2013978.",
+            "DOI": "10.1214/aop/1008956698"
+        },
+        {
+            "key": "ecta200444-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1432",
+            "DOI": "10.1257/aer.97.4.1432",
+            "volume": "97",
+            "author": "Fuchs",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200444-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "DOI": "10.1016/j.geb.2017.05.004",
+            "volume": "104",
+            "author": "Gentzkow",
+            "year": "2017",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200444-bib-0011",
+            "volume-title": "Two Representations of Information Structures and Their Comparisons",
+            "author": "Green",
+            "year": "1978"
+        },
+        {
+            "key": "ecta200444-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1287/mnsc.14.3.159",
+            "volume": "14",
+            "author": "Harsanyi",
+            "year": "1967",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "ecta200444-bib-0013",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Peacocks and Associated Martingales, With Explicit Constructions",
+            "author": "Hirsch",
+            "year": "2011",
+            "DOI": "10.1007/978-88-470-1908-9"
+        },
+        {
+            "key": "ecta200444-bib-0014",
+            "unstructured": "Jehiel, Philippe (2015): \u201cInvestment Strategy and Selection Bias: An Equilibrium Perspective on Overconfidence.\u201d"
+        },
+        {
+            "key": "ecta200444-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "volume-title": "S\u00e9minaire de Probabilit\u00e9s XLVIII",
+            "author": "Juillet",
+            "year": "2016",
+            "DOI": "10.1007/978-3-319-44465-9_2"
+        },
+        {
+            "key": "ecta200444-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200444-bib-0017",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kertz, Robert P., and Uwe R\u00f6sler (2000): \u201cComplete Lattices of Probability Measures With Applications to Martingale Theory,\u201d Lecture Notes-Monograph Series, 153\u2013177.",
+            "DOI": "10.1214/lnms/1215089751"
+        },
+        {
+            "key": "ecta200444-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "216",
+            "DOI": "10.1016/j.jcta.2014.04.009",
+            "volume": "126",
+            "author": "Lu",
+            "year": "2014",
+            "journal-title": "Journal of Combinatorial Theory, Series A"
+        },
+        {
+            "key": "ecta200444-bib-0019",
+            "unstructured": "Mathevet, Laurent, and Ina Taneva (2020): \u201cOptimal Information Hierarchies.\u201d"
+        },
+        {
+            "key": "ecta200444-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/BF01770224",
+            "volume": "14",
+            "author": "Mertens",
+            "year": "1985",
+            "journal-title": "International Journal of Game Theory"
+        },
+        {
+            "key": "ecta200444-bib-0021",
+            "unstructured": "Molavi, Pooya (2021): \u201cTests of Bayesian Rationality,\u201d arXiv preprint arXiv:2109.07007."
+        },
+        {
+            "key": "ecta200444-bib-0022",
+            "unstructured": "Mu, Xiaosheng, Luciano Pomatto, Philipp Strack, Omer Tamuz et al. (2019): \u201cBlackwell Dominance in Large Samples,\u201d arXiv preprint arXiv:1906.02838."
+        },
+        {
+            "key": "ecta200444-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1024",
+            "DOI": "10.1137/040611021",
+            "volume": "16",
+            "author": "M\u00fcller",
+            "year": "2006",
+            "journal-title": "SIAM Journal on Optimization"
+        },
+        {
+            "key": "ecta200444-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "1775",
+            "DOI": "10.1257/aer.20120978",
+            "volume": "106",
+            "author": "Shmaya",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200444-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Smolin, Alex (2017): \u201cDynamic Evaluation Design,\u201d Tech. rep, University Library of Munich, Germany.",
+            "DOI": "10.2139/ssrn.3051703"
+        },
+        {
+            "key": "ecta200444-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1214/aoms/1177700153",
+            "volume": "36",
+            "author": "Strassen",
+            "year": "1965",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200444-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1086/259258",
+            "volume": "75",
+            "author": "Williamson",
+            "year": "1967",
+            "journal-title": "Journal of Political Economy"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                11
+            ]
+        ],
+        "date-time": "2022-10-11T05:06:53Z",
+        "timestamp": 1665464813000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18589"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18589"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta18589",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}
