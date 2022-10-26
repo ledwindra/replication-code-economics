@@ -1,0 +1,1025 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                19
+            ]
+        ],
+        "date-time": "2022-07-19T08:13:55Z",
+        "timestamp": 1658218435273
+    },
+    "reference-count": 86,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        9,
+                        16
+                    ]
+                ],
+                "date-time": "2021-09-16T00:00:00Z",
+                "timestamp": 1631750400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                9
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We present a model of endogenous network formation to recover unobserved social networks using only observable outcomes. We propose a novel equilibrium concept that allows for a sharp characterization of equilibrium behaviour and that yields a unique prediction under testable conditions. While the equilibrium is characterized by a large number of non-linear equations, we show that it can be efficiently employed to recover the networks by an appropriately designed approximate Bayesian computation method. We apply the model to recover the network of social links between lawmakers in the U.S. Congress using data from the 109th to 113th legislatures. We show that social connections are important for legislators\u2019 productivities, and we identify some of the key determinants of network centralities in the U.S. Congress.</jats:p>",
+    "DOI": "10.1093/restud/rdab058",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                9
+            ]
+        ],
+        "date-time": "2021-09-09T12:31:22Z",
+        "timestamp": 1631190682000
+    },
+    "page": "1694-1747",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Endogenous Social Interactions with Unobserved Networks"
+    ],
+    "prefix": "10.1093",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Marco",
+            "family": "Battaglini",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cornell University and EIEF"
+                }
+            ]
+        },
+        {
+            "given": "Eleonora",
+            "family": "Patacchini",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Edoardo",
+            "family": "Rainone",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Bank of Italy"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022071815035598300_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.3982/ECTA15899",
+            "article-title": "Endogenous Production Networks",
+            "volume": "88",
+            "author": "ACEMOGLU,",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B2",
+            "article-title": "Recovering Network Structure from Aggregated Relational Data using Penalized Regression",
+            "author": "ALIDAEE,",
+            "year": "2020"
+        },
+        {
+            "key": "2022071815035598300_B3",
+            "first-page": "367",
+            "article-title": "Networks in Finance",
+            "volume-title": "The Network Challenge: Strategy, Profit, and Risk in an Interlinked World",
+            "author": "ALLEN,",
+            "year": "2009"
+        },
+        {
+            "key": "2022071815035598300_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/262109",
+            "article-title": "Financial Contagion",
+            "volume": "108",
+            "author": "ALLEN,",
+            "year": "2000",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022071815035598300_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1613",
+            "DOI": "10.1257/0002828043052169",
+            "article-title": "Does School Integration Generate Peer Effects? Evidence from Boston\u2019s Metco Program",
+            "volume": "94",
+            "author": "ANGRIST,",
+            "year": "2004",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022071815035598300_B6",
+            "article-title": "Discrete Games in Endogenous Networks: Equilibria and Policy",
+            "author": "BADEV,",
+            "year": "2017"
+        },
+        {
+            "key": "2022071815035598300_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.1111/j.1468-0262.2006.00709.x",
+            "article-title": "Who\u2019s Who in Networks. Wanted: The Key Player",
+            "volume": "74",
+            "author": "BALLESTER,",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B8",
+            "doi-asserted-by": "crossref",
+            "article-title": "A Graphical Lasso Approach to Estimating Network Connections: The Case of U.S. Lawmakers",
+            "author": "BATTAGLINI,",
+            "year": "2020",
+            "DOI": "10.3386/w27557"
+        },
+        {
+            "key": "2022071815035598300_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "739",
+            "DOI": "10.1111/ajps.12518",
+            "article-title": "Effectiveness of Connected Legislators",
+            "volume": "64",
+            "author": "BATTAGLINI,",
+            "year": "2020",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2022071815035598300_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2277",
+            "DOI": "10.1086/700074",
+            "article-title": "Influencing Connected Legislators",
+            "volume": "126",
+            "author": "BATTAGLINI,",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022071815035598300_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1146/annurev-economics-080218-030419",
+            "article-title": "Social Networks in Policy Making",
+            "volume": "11",
+            "author": "BATTAGLINI,",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2022071815035598300_B12",
+            "article-title": "Biographical Information on Members of the United States Congress and Continental Congresses",
+            "year": "2020"
+        },
+        {
+            "key": "2022071815035598300_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "103370",
+            "DOI": "10.1016/j.euroecorev.2020.103370",
+            "article-title": "Equilibrium Homophily in Networks",
+            "volume": "123",
+            "author": "BOUCHER,",
+            "year": "2020",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2022071815035598300_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1002/jae.2299",
+            "article-title": "Do Peers Affect Student Achievement? Evidence from Canada using Group Size Variation",
+            "volume": "29",
+            "author": "BOUCHER,",
+            "year": "2014",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2022071815035598300_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2454",
+            "DOI": "10.1257/aer.20170861",
+            "article-title": "Using Aggregated Relational Data to Feasibly Identify Network Structure Without Network Data",
+            "volume": "110",
+            "author": "BREZA,",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022071815035598300_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1016/j.geb.2010.10.010",
+            "article-title": "Social Interactions and Spillovers",
+            "volume": "72",
+            "author": "CABRALES,",
+            "year": "2011",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2022071815035598300_B17",
+            "doi-asserted-by": "crossref",
+            "article-title": "Peer Effects and Social Networks in Education",
+            "author": "CALVO-ARMENGOL,",
+            "year": "2008",
+            "DOI": "10.2139/ssrn.1309101"
+        },
+        {
+            "key": "2022071815035598300_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1239",
+            "DOI": "10.1111/j.1467-937X.2009.00550.x",
+            "article-title": "Peer Effects and Social Networks in Education",
+            "volume": "76",
+            "author": "CALVO-ARMENGOL,",
+            "year": "2009",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2022071815035598300_B19",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Microeconometrics: Methods and Applications",
+            "author": "CAMERON,",
+            "year": "2005",
+            "DOI": "10.1017/CBO9780511811241"
+        },
+        {
+            "key": "2022071815035598300_B20",
+            "article-title": "Endogenous Networks and Legislative Activity",
+            "author": "CANEN,",
+            "year": "2020"
+        },
+        {
+            "key": "2022071815035598300_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1257/jep.28.4.23",
+            "article-title": "From Micro to Macro via Production Networks",
+            "volume": "28",
+            "author": "CARVALHO,",
+            "year": "2014",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2022071815035598300_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "635",
+            "DOI": "10.1146/annurev-economics-080218-030212",
+            "article-title": "Production Networks: A Primer",
+            "volume": "11",
+            "author": "CARVALHO,",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2022071815035598300_B23",
+            "article-title": "Legislative Effectiveness Data from 1973-2020",
+            "year": "2018"
+        },
+        {
+            "key": "2022071815035598300_B24",
+            "article-title": "Data on Connections among Congress Members through Committees",
+            "year": "2018"
+        },
+        {
+            "key": "2022071815035598300_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1016/B978-0-12-811771-2.00012-2",
+            "article-title": "An Empirical Model for Strategic Network Formation",
+            "volume-title": "The Econometric Analysis of Network Data",
+            "author": "CHRISTAKIS,",
+            "year": "2020"
+        },
+        {
+            "key": "2022071815035598300_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "951",
+            "DOI": "10.1086/592415",
+            "article-title": "The Small World of Investing: Board Connections and Mutual Fund Returns",
+            "volume": "116",
+            "author": "COHEN,",
+            "year": "2008",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022071815035598300_B27",
+            "first-page": "63",
+            "article-title": "Friends in High Places",
+            "volume": "6",
+            "author": "COHEN,",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2022071815035598300_B28",
+            "article-title": "Congressional Bills Project Data",
+            "year": "2018"
+        },
+        {
+            "key": "2022071815035598300_B29",
+            "doi-asserted-by": "crossref",
+            "article-title": "Recovering Social Networks from Panel Data: Identification, Simulations and an Application",
+            "author": "DE PAULA,",
+            "year": "2018",
+            "DOI": "10.1920/wp.cem.2018.1718"
+        },
+        {
+            "key": "2022071815035598300_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA13564",
+            "article-title": "Identifying Preferences in Networks with Bounded Degree",
+            "volume": "86",
+            "author": "DE PAULA,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B31",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jfineco.2021.05.010",
+            "article-title": "Network Risk and Key Players: A Structural Analysis of Interbank Liquidity",
+            "volume": "141",
+            "author": "DENBEE",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022071815035598300_B32",
+            "first-page": "25",
+            "article-title": "Systemic Importance: Some Simple Indicators",
+            "author": "DREHMANN,",
+            "year": "2011",
+            "journal-title": "BIS Quarterly Review"
+        },
+        {
+            "key": "2022071815035598300_B33",
+            "article-title": "Legislative Facilitation of Government Growth: Universalism and Reciprocity Practices in Majority Rule Institutions",
+            "author": "FIORINA,",
+            "year": "1978"
+        },
+        {
+            "key": "2022071815035598300_B34",
+            "article-title": "Bayesian Identification and Partial Identification",
+            "author": "FLORENS,",
+            "year": "2011"
+        },
+        {
+            "key": "2022071815035598300_B35",
+            "volume-title": "Elements of Bayesian Statistics",
+            "author": "FLORENS,",
+            "year": "1990"
+        },
+        {
+            "key": "2022071815035598300_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "456",
+            "DOI": "10.1093/pan/mpl002",
+            "article-title": "Connecting the Congress: A Study of Cosponsorship Networks",
+            "volume": "14",
+            "author": "FOWLER,",
+            "year": "2006",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "key": "2022071815035598300_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2202/1544-6115.1678",
+            "article-title": "Deviance Information Criteria for Model Selection in Approximate Bayesian Computation",
+            "volume": "10",
+            "author": "FRANCOIS,",
+            "year": "2011",
+            "journal-title": "Statistical Applications in Genetics and Molecular Biology"
+        },
+        {
+            "key": "2022071815035598300_B38",
+            "first-page": "1129",
+            "article-title": "Graph Drawing by Force-Directed Placement",
+            "volume": "21",
+            "author": "FRUCHTERMAN,",
+            "year": "1991",
+            "journal-title": "Software: Practice and Experience"
+        },
+        {
+            "key": "2022071815035598300_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.1111/1468-0416.00031",
+            "article-title": "The Microstructure of the Federal Funds Market",
+            "volume": "8",
+            "author": "FURFINE,",
+            "year": "1999",
+            "journal-title": "Financial Markets, Institutions & Instruments"
+        },
+        {
+            "key": "2022071815035598300_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1353/mcb.2003.0004",
+            "article-title": "Interbank Exposures: Quantifying the Risk of Contagion",
+            "volume": "35",
+            "author": "FURFINE,",
+            "year": "2003",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2022071815035598300_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1080/07350015.2013.801251",
+            "article-title": "Social Networks and the Identification of Peer Effects",
+            "volume": "31",
+            "author": "GOLDSMITH-PINKHAM,",
+            "year": "2013",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2022071815035598300_B42",
+            "article-title": "Data on Bills Cosponsored by Congress Members",
+            "year": "2017"
+        },
+        {
+            "key": "2022071815035598300_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1033",
+            "DOI": "10.3982/ECTA12679",
+            "article-title": "An Econometric Model of Network Formation with Degree Heterogeneity",
+            "volume": "85",
+            "author": "GRAHAM,",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1360",
+            "DOI": "10.1086/225469",
+            "article-title": "The Strength of Weak Ties",
+            "volume": "78",
+            "author": "GRANOVETTER,",
+            "year": "1973",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2022071815035598300_B45",
+            "article-title": "Want to Reduce Polarization in Congress? Make Moderates a Better Job Offer",
+            "author": "HALL,",
+            "year": "2019"
+        },
+        {
+            "key": "2022071815035598300_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1002/jae.741",
+            "article-title": "Does Peer Ability Affect Student Achievement?",
+            "volume": "18",
+            "author": "HANUSHEK,",
+            "year": "2003",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2022071815035598300_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1093/biomet/57.1.97",
+            "article-title": "Monte Carlo Sampling Methods Using Markov Chains and Their Applications",
+            "volume": "57",
+            "author": "HASTINGS,",
+            "year": "1970",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2022071815035598300_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1111/j.1540-6261.2007.01207.x",
+            "article-title": "Whom You Know Matters: Venture Capital Networks and Investment Performance",
+            "volume": "62",
+            "author": "HOCHBERG,",
+            "year": "2007",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2022071815035598300_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "890",
+            "DOI": "10.1257/aer.97.3.890",
+            "article-title": "Meeting Strangers and Friends of Friends: How Random Are Social Networks?",
+            "volume": "97",
+            "author": "JACKSON,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022071815035598300_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1006/jeth.1996.0108",
+            "article-title": "A Strategic Model of Social and Economic Networks",
+            "volume": "71",
+            "author": "JACKSON",
+            "year": "1996",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022071815035598300_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1177/106591290305600102",
+            "article-title": "Are Women Legislators Less Effective? Evidence from the U.S. House in the 103rd-105th Congress",
+            "volume": "56",
+            "author": "JEYDEL,",
+            "year": "2003",
+            "journal-title": "Political Research Quarterly"
+        },
+        {
+            "key": "2022071815035598300_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "458",
+            "DOI": "10.1016/j.jue.2006.07.006",
+            "article-title": "Classroom Peer Effects and Academic Achievement: Quasi-randomization Evidence from South Korea",
+            "volume": "61",
+            "author": "KANG,",
+            "year": "2007",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2022071815035598300_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1343",
+            "DOI": "10.1080/01621459.1996.10477003",
+            "article-title": "The Selection of Prior Distributions by Formal Rules",
+            "volume": "91",
+            "author": "KASS,",
+            "year": "1996",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022071815035598300_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "887",
+            "DOI": "10.1017/S0022381611000533",
+            "article-title": "The Relational Determinants of Legislative Success: Strong and Weak Ties Between Legislators",
+            "volume": "73",
+            "author": "KIRKLAND,",
+            "year": "2011",
+            "journal-title": "Journal of Politics"
+        },
+        {
+            "key": "2022071815035598300_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.3982/TE1524",
+            "article-title": "The Formation of Networks with Local Spillovers and Limited Observability",
+            "volume": "11",
+            "author": "KONIG,",
+            "year": "2016",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2022071815035598300_B56",
+            "volume-title": "Bayesian Statistics: A Review",
+            "author": "LINDLEY,",
+            "year": "1971"
+        },
+        {
+            "key": "2022071815035598300_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "849",
+            "DOI": "10.1080/07350015.2020.1737082",
+            "article-title": "Who is the Key Player? A Network Analysis of Juvenile Delinquency",
+            "volume": "39",
+            "author": "LEE,",
+            "year": "2021",
+            "journal-title": "Journal of Business and Economic Statistics,"
+        },
+        {
+            "key": "2022071815035598300_B58",
+            "article-title": "Social Networks with Unobserved Links",
+            "author": "LEWBEL,",
+            "year": "2021"
+        },
+        {
+            "key": "2022071815035598300_B59",
+            "article-title": "Estimating the Structure of Social Interactions Using Panel Data",
+            "author": "MANRESA,",
+            "year": "2016"
+        },
+        {
+            "key": "2022071815035598300_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "15324",
+            "DOI": "10.1073/pnas.0306899100",
+            "article-title": "Markov Chain Monte Carlo Without Likelihoods",
+            "volume": "100",
+            "author": "MARJORAM,",
+            "year": "2003",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2022071815035598300_B61",
+            "volume-title": "Income Redistribution and the Realignment of American Politics",
+            "author": "MCCARTY,",
+            "year": "1997"
+        },
+        {
+            "key": "2022071815035598300_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "825",
+            "DOI": "10.3982/ECTA10400",
+            "article-title": "A Structural Model of Dense Network Formation",
+            "volume": "85",
+            "author": "MELE,",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1087",
+            "DOI": "10.1063/1.1699114",
+            "article-title": "Equation of State Calculations by Fast Computing Machines",
+            "volume": "21",
+            "author": "METROPOLIS,",
+            "year": "1953",
+            "journal-title": "The Journal of Chemical Physics"
+        },
+        {
+            "key": "2022071815035598300_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1114",
+            "DOI": "10.1016/j.jbankfin.2010.09.018",
+            "article-title": "Assessing Financial Contagion in the Interbank Market: Maximum Entropy versus Observed Interbank Lending Patterns",
+            "volume": "35",
+            "author": "MISTRULLI,",
+            "year": "2007",
+            "journal-title": "Journal of Banking and Finance"
+        },
+        {
+            "key": "2022071815035598300_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "224",
+            "DOI": "10.1016/j.jeconom.2016.08.001",
+            "article-title": "Structural Estimation of Pairwise Stable Networks with Nonnegative Externality",
+            "volume": "195",
+            "author": "MIYAUCHI,",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022071815035598300_B66",
+            "article-title": "Networks: An Introduction",
+            "author": "NEWMAN,",
+            "year": "2010"
+        },
+        {
+            "key": "2022071815035598300_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.3982/ECTA10731",
+            "article-title": "A Theory of Input-Output Architecture",
+            "volume": "86",
+            "author": "OBERFIELD,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.3162/036298006X201841",
+            "article-title": "Legislative Effectiveness and Legislative Careers",
+            "volume": "31",
+            "author": "PADRO I MIQUEL,",
+            "year": "2006",
+            "journal-title": "Legislative Studies Quarterly"
+        },
+        {
+            "key": "2022071815035598300_B69",
+            "article-title": "U.S. Policy Agendas Dataset",
+            "year": "2018"
+        },
+        {
+            "key": "2022071815035598300_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/jleo/ewp038",
+            "article-title": "Juvenile Delinquency and Conformism",
+            "volume": "28",
+            "author": "PATACCHINI,",
+            "year": "2012",
+            "journal-title": "The Journal of Law, Economics, and Organization"
+        },
+        {
+            "key": "2022071815035598300_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "963",
+            "DOI": "10.1002/ijfe.1701",
+            "article-title": "Interconnectedness of the Banking Sector as a Vulnerability to Crises",
+            "volume": "24",
+            "author": "PELTONEN",
+            "year": "2015",
+            "journal-title": "International Journal of Finance and Economics,"
+        },
+        {
+            "key": "2022071815035598300_B72",
+            "article-title": "Identification of Spillover Effects Using Panel Data",
+            "author": "ROSE,",
+            "year": "2018"
+        },
+        {
+            "key": "2022071815035598300_B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "1151",
+            "DOI": "10.1214/aos/1176346785",
+            "article-title": "Bayesianly Justifiable and Relevant Frequency Calculations for the Applied Statistician",
+            "volume": "12",
+            "author": "RUBIN,",
+            "year": "1984",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2022071815035598300_B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "1829",
+            "DOI": "10.3982/ECTA12558",
+            "article-title": "A Structural Econometric Analysis of Network Formation",
+            "volume": "88",
+            "author": "SHENG,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022071815035598300_B75",
+            "article-title": "Estimating Network Effects Without Network Data",
+            "author": "SOUZA,",
+            "year": "2014"
+        },
+        {
+            "key": "2022071815035598300_B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/1467-9868.00353",
+            "article-title": "Bayesian Measures of Model Complexity and Fit",
+            "volume": "64",
+            "author": "SPIEGELHALTER,",
+            "year": "2002",
+            "journal-title": "Journal of the Royal Statistical Society Series B"
+        },
+        {
+            "key": "2022071815035598300_B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.2307/440081",
+            "article-title": "Legislative Professionalization and Membership Diversity in State Legislatures",
+            "volume": "17",
+            "author": "SQUIRE,",
+            "year": "1992",
+            "journal-title": "Legislative Studies Quarterly"
+        },
+        {
+            "key": "2022071815035598300_B78",
+            "article-title": "Contagion Due to Interbank Credit Exposures: What Do We Know, Why Do We Know It, and What Should We Do Now?",
+            "author": "UPPER,",
+            "year": "2006"
+        },
+        {
+            "key": "2022071815035598300_B79",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The Oxford Handbook of Political Networks",
+            "author": "VICTOR,",
+            "year": "2016",
+            "DOI": "10.1093/oxfordhb/9780190228217.001.0001"
+        },
+        {
+            "key": "2022071815035598300_B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1215/03616878-1222712",
+            "article-title": "Breaking Gridlock: The Determinants of Health Policy Change in Congress",
+            "volume": "36",
+            "author": "VOLDEN,",
+            "year": "2011",
+            "journal-title": "Journal of Health Politics, Policy and Law"
+        },
+        {
+            "key": "2022071815035598300_B81",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Legislative Effectiveness in the United States Congress: The Lawmakers",
+            "author": "VOLDEN,",
+            "year": "2014",
+            "DOI": "10.1017/CBO9781139032360"
+        },
+        {
+            "key": "2022071815035598300_B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "731",
+            "DOI": "10.1086/697121",
+            "article-title": "Legislative Effectiveness in the United States Senate",
+            "volume": "80",
+            "author": "VOLDEN,",
+            "year": "2018",
+            "journal-title": "Journal of Politics"
+        },
+        {
+            "key": "2022071815035598300_B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "326",
+            "DOI": "10.1111/ajps.12010",
+            "article-title": "When Are Women More Effective Lawmakers Than Men?",
+            "volume": "57",
+            "author": "VOLDEN,",
+            "year": "2013",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2022071815035598300_B84",
+            "article-title": "DW Nominate Scores Data",
+            "year": "2019"
+        },
+        {
+            "key": "2022071815035598300_B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.2307/2111001",
+            "article-title": "A Rational Choice Perspective on Congressional Norms",
+            "volume": "23",
+            "author": "WEINGAST,",
+            "year": "1979",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2022071815035598300_B86",
+            "doi-asserted-by": "crossref",
+            "first-page": "1539",
+            "DOI": "10.1093/genetics/149.3.1539",
+            "article-title": "Inference of Population History Using a Likelihood Approach",
+            "volume": "149",
+            "author": "WEISS,",
+            "year": "1998",
+            "journal-title": "Genetics"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdab058/42564269/rdab058.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/4/1694/44998752/rdab058.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/4/1694/44998752/rdab058.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                18
+            ]
+        ],
+        "date-time": "2022-07-18T15:19:42Z",
+        "timestamp": 1658157582000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/89/4/1694/6371205"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ]
+    },
+    "references-count": 86,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    9,
+                    16
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    7,
+                    9
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdab058",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                9,
+                16
+            ]
+        ]
+    }
+}

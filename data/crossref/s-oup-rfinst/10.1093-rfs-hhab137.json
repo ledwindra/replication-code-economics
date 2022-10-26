@@ -1,0 +1,967 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                21
+            ]
+        ],
+        "date-time": "2022-08-21T21:10:37Z",
+        "timestamp": 1661116237505
+    },
+    "reference-count": 68,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "9",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        3
+                    ]
+                ],
+                "date-time": "2022-01-03T00:00:00Z",
+                "timestamp": 1641168000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                19
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a return variance decomposition model to distinguish the roles of different types of information and noise in stock price movements. We disentangle four components: noise, private firm-specific information revealed through trading, firm-specific information revealed through public sources and market-wide information. Overall, we find that 31$\\%$ of the return variance is from noise, 24$\\%$ from private firm-specific information, 37$\\%$ from public firm-specific information and 8$\\%$ from market-wide information. Since the mid-1990s, there has been a dramatic decline in noise and an increase in firm-specific information, consistent with increasing market efficiency.</jats:p>\n               <jats:p>The Internet Appendix that accompanies this paper can be obtained here: https://bit.ly/3FcV9UR</jats:p>",
+    "DOI": "10.1093/rfs/hhab137",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                29
+            ]
+        ],
+        "date-time": "2021-12-29T12:49:11Z",
+        "timestamp": 1640782151000
+    },
+    "page": "4341-4386",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "What Moves Stock Prices? The Roles of News, Noise, and Information"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Jonathan",
+            "family": "Brogaard",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Utah , USA"
+                }
+            ]
+        },
+        {
+            "given": "Thanh Huong",
+            "family": "Nguyen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Economics, The University of Danang , Vietnam"
+                }
+            ]
+        },
+        {
+            "given": "Talis J",
+            "family": "Putnins",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Technology Sydney , Australia"
+                },
+                {
+                    "name": "Stockholm School of Economics in Riga , Latvia"
+                }
+            ]
+        },
+        {
+            "given": "Eliza",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Sydney , Australia"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                3
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022082120571173700_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1093/rfs/1.1.3",
+            "article-title": "A theory of intraday patterns: Volume and price variability",
+            "volume": "1",
+            "author": "Admati,",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/S1386-4181(01)00024-6",
+            "article-title": "Illiquidity and stock returns: Cross-section and time-series effects",
+            "volume": "5",
+            "author": "Amihud,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2022082120571173700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/j.jfineco.2009.12.011",
+            "article-title": "Liquidity biases in asset pricing tests",
+            "volume": "96",
+            "author": "Asparouhova,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1111/jofi.12010",
+            "article-title": "Noisy prices and inference regarding returns",
+            "volume": "6",
+            "author": "Asparouhova,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2365",
+            "DOI": "10.1111/j.1540-6261.2006.01060.x",
+            "article-title": "Liquidity and autocorrelations in individual stock returns",
+            "volume": "61",
+            "author": "Avramov,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "625",
+            "DOI": "10.1016/j.jfineco.2016.08.005",
+            "article-title": "Have financial markets become more informative?",
+            "volume": "122",
+            "author": "Bai,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1495",
+            "DOI": "10.1111/jofi.12882",
+            "article-title": "High-frequency trading and market performance",
+            "volume": "75",
+            "author": "Baldauf,",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1016/0304-3932(81)90040-4",
+            "article-title": "A new approach to decomposition of economic time series into permanent and transitory components with particular attention to measurement of the \u2018business cycle.\u2019",
+            "volume": "7",
+            "author": "Beveridge,",
+            "year": "1981",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022082120571173700_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "528",
+            "DOI": "10.1111/j.1540-6261.1986.tb04513.x",
+            "article-title": "Noise",
+            "volume": "41",
+            "author": "Black,",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.1016/0304-405X(83)90056-9",
+            "article-title": "Biases in computed returns: An application to the size effect",
+            "volume": "12",
+            "author": "Blume,",
+            "year": "1983",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "3563",
+            "DOI": "10.1093/rfs/hhp028",
+            "article-title": "Institutional investors and the informational efficiency of prices",
+            "volume": "22",
+            "author": "Boehmer,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2241",
+            "DOI": "10.1093/rfs/hhw024",
+            "article-title": "Horizon effects in average returns: The role of slow information diffusion",
+            "volume": "29",
+            "author": "Boguth,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1146/annurev-financial-110311-101826",
+            "article-title": "The real effects of financial markets",
+            "volume": "4",
+            "author": "Bond,",
+            "year": "2012",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "2267",
+            "DOI": "10.1093/rfs/hhu032",
+            "article-title": "High-frequency trading and price discovery",
+            "volume": "27",
+            "author": "Brogaard,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B15",
+            "doi-asserted-by": "crossref",
+            "article-title": "Do analysts improve investment efficiency?",
+            "author": "Brogaard,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3053491"
+        },
+        {
+            "key": "2022082120571173700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.2307/2233809",
+            "article-title": "A variance decomposition for stock returns",
+            "volume": "101",
+            "author": "Campbell,",
+            "year": "1991",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2022082120571173700_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1093/rfs/1.3.195",
+            "article-title": "The dividend-price ratio and expectations of future dividends and discount factors",
+            "volume": "1",
+            "author": "Campbell,",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1111/j.1540-6261.1988.tb04598.x",
+            "article-title": "Stock prices, earnings, and expected dividends",
+            "volume": "43",
+            "author": "Campbell,",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.1093/rfs/hht005",
+            "article-title": "What drives stock price movements?",
+            "volume": "26",
+            "author": "Chen,",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "5213",
+            "DOI": "10.1093/rfs/hhp017",
+            "article-title": "Return decomposition",
+            "volume": "22",
+            "author": "Chen,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1093/rfs/hhl024",
+            "article-title": "Price informativeness and investment sensitivity to stock price",
+            "volume": "20",
+            "author": "Chen,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1016/j.jfineco.2007.03.005",
+            "article-title": "Liquidity and market efficiency",
+            "volume": "87",
+            "author": "Chordia,",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1016/j.jfineco.2011.03.008",
+            "article-title": "Recent trends in trading activity and market quality",
+            "volume": "101",
+            "author": "Chordia,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1813",
+            "DOI": "10.1111/j.1540-6261.1994.tb04782.x",
+            "article-title": "Why do NASDAQ market makers avoid odd-eighth quotes?",
+            "volume": "49",
+            "author": "Christie,",
+            "year": "1994",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1555",
+            "DOI": "10.1111/jofi.12260",
+            "article-title": "Do prices reveal the presence of informed trading?",
+            "volume": "70",
+            "author": "Collin-Dufresne,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1441",
+            "DOI": "10.3982/ECTA10789",
+            "article-title": "Insider trading, stochastic liquidity, and equilibrium prices",
+            "volume": "84",
+            "author": "Collin-Dufresne,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022082120571173700_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1016/j.jfineco.2015.06.013",
+            "article-title": "Dark trading and price discovery",
+            "volume": "118",
+            "author": "Comerton-Forde,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B28",
+            "article-title": "Rise of factor investing: Asset prices, informational efficiency, and security design",
+            "author": "Cong,",
+            "year": "2017"
+        },
+        {
+            "key": "2022082120571173700_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "719",
+            "DOI": "10.1111/j.1540-6261.2012.01729.x",
+            "article-title": "A simple way to estimate bid-ask spreads from daily high and low prices",
+            "volume": "67",
+            "author": "Corwin,",
+            "year": "2012",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1016/j.jfineco.2016.01.018",
+            "article-title": "Discerning information from trade data",
+            "volume": "120",
+            "author": "Easley,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "933",
+            "DOI": "10.1111/j.1540-6261.2012.01738.x",
+            "article-title": "The real effects of financial markets: The impact of prices on takeovers",
+            "volume": "67",
+            "author": "Edmans,",
+            "year": "2012",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B32",
+            "article-title": "Where has all the data gone?",
+            "author": "Farboodi,",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1016/0304-405X(86)90004-8",
+            "article-title": "Stock return variances: The arrival of information and the reaction of traders",
+            "volume": "17",
+            "author": "French,",
+            "year": "1986",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-405X(85)90044-3",
+            "article-title": "Bid, ask, and transaction prices in a specialist market with heterogeneously informed traders",
+            "volume": "14",
+            "author": "Glosten,",
+            "year": "1985",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "3225",
+            "DOI": "10.1093/rfs/hhq044",
+            "article-title": "Do market efficiency measures yield correct inferences? A comparison of developed and emerging markets",
+            "volume": "23",
+            "author": "Griffin,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B36",
+            "first-page": "393",
+            "article-title": "On the impossibility of informationally efficient markets",
+            "volume": "70",
+            "author": "Grossman,",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022082120571173700_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1016/0304-405X(88)90070-0",
+            "article-title": "Trades, quotes, inventories and information",
+            "volume": "22",
+            "author": "Hasbrouck,",
+            "year": "1988",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1111/j.1540-6261.1991.tb03749.x",
+            "article-title": "Measuring the information content of stock trades",
+            "volume": "46",
+            "author": "Hasbrouck,",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.1093/rfs/4.3.571",
+            "article-title": "The summary informativeness of stock trades: An econometric analysis",
+            "volume": "4",
+            "author": "Hasbrouck,",
+            "year": "1991",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1093/rfs/6.1.191",
+            "article-title": "Assessing the quality of a security market: A new approach to transaction-cost measurement",
+            "volume": "6",
+            "author": "Hasbrouck,",
+            "year": "1993",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1016/j.jfineco.2014.08.001",
+            "article-title": "Price pressures",
+            "volume": "114",
+            "author": "Hendershott,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B42",
+            "article-title": "Risk sharing, costly participation, and monthly returns",
+            "author": "Hendershott,",
+            "year": "2011"
+        },
+        {
+            "key": "2022082120571173700_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1683",
+            "DOI": "10.1162/qjec.2010.125.4.1683",
+            "article-title": "Competition and bias",
+            "volume": "125",
+            "author": "Hong,",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022082120571173700_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "981",
+            "DOI": "10.1093/rfs/hhi023",
+            "article-title": "Market frictions, price delay, and the cross-section of expected returns",
+            "volume": "18",
+            "author": "Hou,",
+            "year": "2005",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B45",
+            "article-title": "The information in asset fire sales",
+            "author": "Huang,",
+            "year": "2019"
+        },
+        {
+            "key": "2022082120571173700_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "881",
+            "DOI": "10.1111/j.1540-6261.1990.tb05110.x",
+            "article-title": "Evidence of predictable behavior of security returns",
+            "volume": "45",
+            "author": "Jegadeesh,",
+            "year": "1990",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1016/0304-405X(76)90026-X",
+            "article-title": "Theory of the firm: Managerial behavior, agency costs and ownership structure",
+            "volume": "3",
+            "author": "Jensen,",
+            "year": "1976",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.1016/j.jfineco.2004.11.003",
+            "article-title": "R$^2$ around the world: New theory and new tests",
+            "volume": "79",
+            "author": "Jin,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1867",
+            "DOI": "10.1086/503651",
+            "article-title": "So what orders do informed traders use?",
+            "volume": "79",
+            "author": "Kaniel,",
+            "year": "2006",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2022082120571173700_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1366",
+            "DOI": "10.1093/rfs/hhr134",
+            "article-title": "Testing asymmetric-information asset pricing models",
+            "volume": "25",
+            "author": "Kelly,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1375",
+            "DOI": "10.1017/S0022109009990342",
+            "article-title": "Hard-to-value stocks, behavioral biases, and informed trading",
+            "volume": "44",
+            "author": "Kumar,",
+            "year": "2009",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022082120571173700_B52",
+            "first-page": "45",
+            "article-title": "Market structure, information, futures markets, and price formation",
+            "author": "Kyle,",
+            "year": "1984",
+            "journal-title": "International agricultural trade: Advanced readings in price formation, market structure, and price instability"
+        },
+        {
+            "key": "2022082120571173700_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1315",
+            "DOI": "10.2307/1913210",
+            "article-title": "Continuous auctions and insider trading",
+            "volume": "53",
+            "author": "Kyle,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022082120571173700_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.2307/2297551",
+            "article-title": "Informed speculation with imperfect competition",
+            "volume": "56",
+            "author": "Kyle,",
+            "year": "1989",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022082120571173700_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "733",
+            "DOI": "10.1111/j.1540-6261.1991.tb02683.x",
+            "article-title": "Inferring trade direction from intraday data",
+            "volume": "46",
+            "author": "Lee,",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2937816",
+            "article-title": "Fads, martingales, and market efficiency",
+            "volume": "105",
+            "author": "Lehmann,",
+            "year": "1990",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022082120571173700_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1080/07474939608800344",
+            "article-title": "Bootstrapping time series models",
+            "volume": "15",
+            "author": "Li,",
+            "year": "1996",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "2022082120571173700_B58",
+            "doi-asserted-by": "crossref",
+            "author": "L\u00fctkepohl,",
+            "year": "2005.",
+            "journal-title": "New introduction to multiple time series analysis",
+            "DOI": "10.1007/978-3-540-27752-1"
+        },
+        {
+            "key": "2022082120571173700_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/S0304-405X(00)00071-4",
+            "article-title": "The information content of stock markets: Why do emerging markets have synchronous stock price movements?",
+            "volume": "58",
+            "author": "Morck,",
+            "year": "2000",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1146/annurev-financial-110112-120936",
+            "article-title": "R$^{2}$ and the economy",
+            "volume": "5",
+            "author": "Morck,",
+            "year": "2013",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "2005",
+            "DOI": "10.1093/rfs/hhs066",
+            "article-title": "Evaporating liquidity",
+            "volume": "25",
+            "author": "Nagel,",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/374184",
+            "article-title": "Liquidity risk and expected stock returns",
+            "volume": "111",
+            "author": "Pastor,",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022082120571173700_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.2307/2328183",
+            "article-title": "R$^{2}$",
+            "volume": "43",
+            "author": "Roll,",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022082120571173700_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1151",
+            "DOI": "10.1093/rfs/hhw085",
+            "article-title": "The dynamics of market efficiency",
+            "volume": "30",
+            "author": "Rosch,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022082120571173700_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1016/j.jfineco.2014.04.005",
+            "article-title": "Asset pricing: A tale of two days",
+            "volume": "113",
+            "author": "Savor,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1016/0304-405X(77)90041-1",
+            "article-title": "Estimating betas from nonsynchronous data",
+            "volume": "5",
+            "author": "Scholes,",
+            "year": "1977",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1016/S0304-405X(97)00026-3",
+            "article-title": "Return autocorrelation and institutional investors",
+            "volume": "46",
+            "author": "Sias,",
+            "year": "1997",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022082120571173700_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1016/S0304-405X(00)00070-2",
+            "article-title": "Financial markets and the allocation of capital",
+            "volume": "58",
+            "author": "Wurgler,",
+            "year": "2000",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab137/42310161/hhab137.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/9/4341/45489534/hhab137.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/9/4341/45489534/hhab137.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                21
+            ]
+        ],
+        "date-time": "2022-08-21T20:57:48Z",
+        "timestamp": 1661115468000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/9/4341/6493385"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                3
+            ]
+        ]
+    },
+    "references-count": 68,
+    "journal-issue": {
+        "issue": "9",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    3
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    19
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab137",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                3
+            ]
+        ]
+    }
+}

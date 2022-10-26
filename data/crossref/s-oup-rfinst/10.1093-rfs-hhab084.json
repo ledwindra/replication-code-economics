@@ -1,0 +1,424 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                19
+            ]
+        ],
+        "date-time": "2022-10-19T06:49:45Z",
+        "timestamp": 1666162185518
+    },
+    "reference-count": 21,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        20
+                    ]
+                ],
+                "date-time": "2021-07-20T00:00:00Z",
+                "timestamp": 1626739200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                19
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Patents and citations are powerful tools increasingly used in financial economics (and management research more broadly) to understand innovation. Biases may result, however, from the interactions between the truncation of patents and citations and the changing composition of inventors. When aggregated at the firm level, these patent and citation biases can survive popular adjustment methods and are correlated with firm characteristics. These issues can lead to problematic inferences. We provide an actionable checklist to avoid biased inferences and also suggest machine learning as a potential new way to address these problems.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online</jats:p>",
+    "DOI": "10.1093/rfs/hhab084",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                17
+            ]
+        ],
+        "date-time": "2021-07-17T19:08:04Z",
+        "timestamp": 1626548884000
+    },
+    "page": "2667-2704",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+        "The Use and Misuse of Patent Data: Issues for Finance and Beyond"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Josh",
+            "family": "Lerner",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard University"
+                }
+            ]
+        },
+        {
+            "given": "Amit",
+            "family": "Seru",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and Hoover Institution"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022060714154219300_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1097",
+            "DOI": "10.1111/jofi.12019",
+            "article-title": "Do hostile takeovers stifle innovation? Evidence from antitakeover legislation and corporate patenting",
+            "volume": "68",
+            "author": "Atanassov",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022060714154219300_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "947",
+            "DOI": "10.1016/j.jcorpfin.2011.04.003",
+            "article-title": "Governance and innovation",
+            "volume": "17",
+            "author": "Becker-Blease",
+            "year": "2011",
+            "journal-title": "Journal of Corporate Finance"
+        },
+        {
+            "key": "2022060714154219300_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1016/j.jfineco.2017.07.005",
+            "article-title": "Are foreign investors locusts? The long-term effects of foreign institutional ownership",
+            "volume": "126",
+            "author": "Bena",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022060714154219300_B4",
+            "article-title": "NBER PDP project user documentation: Matching patent data to Compustat firms.",
+            "author": "Bessen",
+            "year": "2009"
+        },
+        {
+            "key": "2022060714154219300_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "30",
+            "DOI": "10.1016/j.jeconbus.2013.10.001",
+            "article-title": "Antitakeover provisions, managerial entrenchment and firm innovation",
+            "volume": "72",
+            "author": "Chakraborty",
+            "year": "2014",
+            "journal-title": "Journal of Economics and Business"
+        },
+        {
+            "key": "2022060714154219300_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1163",
+            "DOI": "10.1017/S0022109018000029",
+            "article-title": "Anti-takeover provisions, innovation, and firm value: A regression discontinuity analysis?",
+            "volume": "53",
+            "author": "Chemmanuer",
+            "year": "2018",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022060714154219300_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "353",
+            "DOI": "10.1016/j.jcorpfin.2017.03.010",
+            "article-title": "Truncation bias corrections in patent data: Implications for recent research on innovation",
+            "volume": "44",
+            "author": "Dass",
+            "year": "2017",
+            "journal-title": "Journal of Corporate Finance"
+        },
+        {
+            "key": "2022060714154219300_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2213",
+            "DOI": "10.1111/j.1540-6261.2010.01614.x",
+            "article-title": "Who blows the whistle on corporate fraud?",
+            "volume": "65",
+            "author": "Dyck",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022060714154219300_B9",
+            "doi-asserted-by": "crossref",
+            "article-title": "The NBER patent citation data file: Lessons, insights and methodological tools.",
+            "author": "Hall",
+            "year": "2001",
+            "DOI": "10.3386/w8498"
+        },
+        {
+            "key": "2022060714154219300_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1360",
+            "DOI": "10.1002/asi.23731",
+            "article-title": "Patent citation data in social science research: Overview and best practices",
+            "volume": "68",
+            "author": "Jaffe",
+            "year": "2017",
+            "journal-title": "Journal of the Association for Information Science and Technology"
+        },
+        {
+            "key": "2022060714154219300_B11",
+            "volume-title": "Patents, citations, and innovations: A window on the knowledge economy",
+            "author": "Jaffe",
+            "year": "2002"
+        },
+        {
+            "key": "2022060714154219300_B12",
+            "article-title": "Database challenges in financial misconduct research.",
+            "author": "Karpoff",
+            "year": "2014"
+        },
+        {
+            "key": "2022060714154219300_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1093/qje/qjw040",
+            "article-title": "Technological innovation, resource allocation, and growth",
+            "volume": "132",
+            "author": "Kogan",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022060714154219300_B14",
+            "article-title": "Credit constraints and their impact on innovation: Evidence from venture capital exits.",
+            "author": "Kolev",
+            "year": "2013"
+        },
+        {
+            "key": "2022060714154219300_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1111/j.1540-6261.2010.01639.x",
+            "article-title": "Private equity and long-run investment: The case of innovation",
+            "volume": "66",
+            "author": "Lerner",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022060714154219300_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "941",
+            "DOI": "10.1016/j.respol.2014.01.012",
+            "article-title": "Disambiguation and co-authorship networks of the U.S. patent inventor database (1975\u20132010)",
+            "volume": "43",
+            "author": "Li",
+            "year": "2014",
+            "journal-title": "Research Policy"
+        },
+        {
+            "key": "2022060714154219300_B17",
+            "volume-title": "Patent law and policy: Cases and materials",
+            "author": "Merges",
+            "year": "1992"
+        },
+        {
+            "key": "2022060714154219300_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "396",
+            "DOI": "10.1257/aer.102.1.396",
+            "article-title": "Compulsory licensing: Evidence from the trading with the Enemy Act",
+            "volume": "102",
+            "author": "Moser",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022060714154219300_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1370",
+            "DOI": "10.1257/aer.98.4.1370",
+            "article-title": "Does innovation cause stock market runups? Evidence from the Great Crash",
+            "volume": "98",
+            "author": "Nicholas",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022060714154219300_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.1016/j.jfineco.2013.11.001",
+            "article-title": "Firm boundaries matter: Evidence from conglomerates and R&D activity",
+            "volume": "111",
+            "author": "Seru",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022060714154219300_B21",
+            "article-title": "Methods and software for the harmonization and integration of datasets: A test based on ip-related data and accounting databases with a large panel of companies at the worldwide level.",
+            "author": "Thoma",
+            "year": "2010"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab084/39783944/hhab084.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/6/2667/43971326/hhab084.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/6/2667/43971326/hhab084.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                7
+            ]
+        ],
+        "date-time": "2022-06-07T14:18:13Z",
+        "timestamp": 1654611493000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/6/2667/6324822"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Andrew",
+            "family": "Karolyi",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                20
+            ]
+        ]
+    },
+    "references-count": 21,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    20
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    5,
+                    19
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab084",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                20
+            ]
+        ]
+    }
+}

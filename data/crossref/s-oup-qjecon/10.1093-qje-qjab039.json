@@ -1,0 +1,885 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T15:14:21Z",
+        "timestamp": 1649430861511
+    },
+    "reference-count": 60,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        10,
+                        28
+                    ]
+                ],
+                "date-time": "2021-10-28T00:00:00Z",
+                "timestamp": 1635379200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100019866",
+            "name": "Institute for Employment Research",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "DOI": "10.13039/100000879",
+            "name": "Alfred P. Sloan Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "G-2014-13653"
+            ]
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "1459952"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100001659",
+            "name": "Deutsche Forschungsgemeinschaft",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "HE 7171/7-1"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The job-finding rate of unemployment insurance (UI) recipients declines in the initial months of unemployment and then exhibits a spike at the benefit exhaustion point. A range of theoretical explanations have been proposed, but those are hard to disentangle using data on job finding alone. To better understand the underlying mechanisms, we conducted a large text-message-based survey of unemployed workers in Germany. We surveyed 6,349 UI recipients twice a week for four months about their job search effort. The panel structure allows us to observe how search effort evolves in individuals over the unemployment spell. We provide three key facts: (i) search effort is flat early on in the UI spell, (ii) search effort exhibits an increase up to UI exhaustion and a decrease thereafter, (iii) UI recipients do not appear to time job start dates to coincide with the UI exhaustion point. A standard search model with unobserved heterogeneity struggles to explain the second fact, and a model of storable offers is not consistent with the third fact. The patterns are well captured by a model of reference-dependent job search or by a model with duration dependence in search cost.</jats:p>",
+    "DOI": "10.1093/qje/qjab039",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                26
+            ]
+        ],
+        "date-time": "2021-10-26T11:13:22Z",
+        "timestamp": 1635246802000
+    },
+    "page": "1181-1232",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Evidence on Job Search Models from a Survey of Unemployed Workers in Germany"
+    ],
+    "prefix": "10.1093",
+    "volume": "137",
+    "author": [
+        {
+            "given": "Stefano",
+            "family": "DellaVigna",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, Berkeley and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "J\u00f6rg",
+            "family": "Heining",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Institute for Employment Research (IAB), Germany"
+                }
+            ]
+        },
+        {
+            "given": "Johannes F",
+            "family": "Schmieder",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Boston University and National Bureau of Economic Research, United States, and Institute of Labor Economics (IZA) and CESIfo, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Simon",
+            "family": "Trenkle",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Institute of Labor Economics (IZA) and Institute for Employment Research (IAB), Germany"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                28
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022040814333370800_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1657",
+            "DOI": "10.1287/mnsc.2015.2417",
+            "article-title": "Reference-Dependent Preferences: Evidence from Marathon Runners",
+            "volume": "63",
+            "author": "Allen",
+            "year": "2017",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022040814333370800_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1016/j.jpubeco.2018.05.003",
+            "article-title": "Learning about Job Search: A Field Experiment with Job Seekers in Germany",
+            "volume": "164",
+            "author": "Altmann",
+            "year": "2018",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022040814333370800_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/QE1609",
+            "article-title": "Sensitivity Analysis Using Approximate Moment Condition Models",
+            "volume": "12",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2022040814333370800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1016/j.jpubeco.2018.09.004",
+            "article-title": "Job Search Requirements, Effort Provision and Labor Market Outcomes",
+            "volume": "169",
+            "author": "Arni",
+            "year": "2019",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022040814333370800_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "941",
+            "DOI": "10.1093/restud/rdy019",
+            "article-title": "An Experiment on Time Preference and Misprediction in Unpleasant Tasks",
+            "volume": "86",
+            "author": "Augenblick",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814333370800_bib6",
+            "first-page": "21",
+            "article-title": "Using Mobile Phones for High-Frequency Data Collection",
+            "author": "Ballivian",
+            "year": "2015",
+            "journal-title": "Mobile Research Methods: Opportunities and Challenges of Mobile Research Methodologies"
+        },
+        {
+            "key": "2022040814333370800_bib7",
+            "first-page": "79",
+            "article-title": "Psychology-Based Models of Asset Prices and Trading Volume",
+            "volume-title": "Handbook of Behavioral Economics",
+            "author": "Barberis",
+            "year": "2018"
+        },
+        {
+            "key": "2022040814333370800_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2499",
+            "DOI": "10.1257/aer.103.6.2499",
+            "article-title": "The Nature of Risk Preferences: Evidence from Insurance Choices",
+            "volume": "103",
+            "author": "Barseghyan",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1411",
+            "DOI": "10.1093/restud/rdy059",
+            "article-title": "Providing Advice to Jobseekers at Low Cost: An Experimental Study on Online Advice",
+            "volume": "86",
+            "author": "Belot",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814333370800_bib10",
+            "article-title": "Credit, Attention, and Externalities in the Adoption of Energy Efficient Technologies by Low-Income Households",
+            "author": "Berkouwer",
+            "year": "2021"
+        },
+        {
+            "key": "2022040814333370800_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "DOI": "10.1007/s10645-012-9187-8",
+            "article-title": "Why Is There a Spike in the Job Finding Rate at Benefit Exhaustion?",
+            "volume": "160",
+            "author": "Boone",
+            "year": "2012",
+            "journal-title": "Economist"
+        },
+        {
+            "key": "2022040814333370800_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1399",
+            "DOI": "10.1093/qje/qjaa007",
+            "article-title": "Memory, Attention, and Choice",
+            "volume": "135",
+            "author": "Bordalo",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "604",
+            "DOI": "10.1002/jae.2293",
+            "article-title": "Benefit Duration, Unemployment Duration and Job Match Quality: A Regression-Discontinuity Approach",
+            "volume": "28",
+            "author": "Caliendo",
+            "year": "2013",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2022040814333370800_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1511",
+            "DOI": "10.1162/qjec.2007.122.4.1511",
+            "article-title": "Cash-on-Hand and Competing Models of Intertemporal Behavior: New Evidence from the Labor Market",
+            "volume": "122",
+            "author": "Card",
+            "year": "2007",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.1257/jel.47.2.315",
+            "article-title": "Psychology and Economics: Evidence from the Field",
+            "volume": "47",
+            "author": "DellaVigna",
+            "year": "2009",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2022040814333370800_bib16",
+            "article-title": "Replication Data for: \u2018Evidence on Job Search Models from a Survey of Unemployed Workers in Germany",
+            "author": "DellaVigna",
+            "year": "2021",
+            "journal-title": "Harvard Dataverse"
+        },
+        {
+            "key": "2022040814333370800_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1969",
+            "DOI": "10.1093/qje/qjx015",
+            "article-title": "Reference-Dependent Job Search: Evidence from Hungary",
+            "volume": "132",
+            "author": "DellaVigna",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2410",
+            "DOI": "10.1086/699976",
+            "article-title": "Predicting Experimental Results: Who Knows What?",
+            "volume": "126",
+            "author": "DellaVigna",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814333370800_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "428",
+            "DOI": "10.1126/science.aaz1704",
+            "article-title": "Predict Science to Improve Science",
+            "volume": "366",
+            "author": "DellaVigna",
+            "year": "2019",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2022040814333370800_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1111/geer.12014",
+            "article-title": "Fixing the Leak: Unemployment Incidence before and after a Major Reform of Unemployment Benefits in Germany",
+            "volume": "15",
+            "author": "Dlugosz",
+            "year": "2014",
+            "journal-title": "German Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib21",
+            "article-title": "Bringing Them In or Pushing Them Out? The Impact of Benefit Cuts for Long-Term Unemployed in Times of Crisis",
+            "author": "Domenech",
+            "year": "2019"
+        },
+        {
+            "key": "2022040814333370800_bib22",
+            "first-page": "327",
+            "article-title": "The Intensity of Job Search and Search Duration",
+            "volume": "11",
+            "author": "Faberman",
+            "year": "2019",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2022040814333370800_bib23",
+            "doi-asserted-by": "crossref",
+            "article-title": "Job Search Behavior among the Employed and Non-Employed",
+            "author": "Faberman",
+            "year": "2017",
+            "DOI": "10.3386/w23731"
+        },
+        {
+            "key": "2022040814333370800_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "336",
+            "DOI": "10.1111/j.1468-0475.2009.00479.x",
+            "article-title": "Unemployment Durations in West Germany before and after the Reform of the Unemployment Compensation System during the 1980s",
+            "volume": "11",
+            "author": "Fitzenberger",
+            "year": "2010",
+            "journal-title": "German Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "3875",
+            "DOI": "10.1257/aer.20131496",
+            "article-title": "Recall and Unemployment",
+            "volume": "107",
+            "author": "Fujita",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2383",
+            "DOI": "10.1257/aer.20170537",
+            "article-title": "Consumer Spending during Unemployment: Positive and Normative Implications",
+            "volume": "109",
+            "author": "Ganong",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1016/j.euroecorev.2015.04.001",
+            "article-title": "Search Costs and Efficiency: Do Unemployed Workers Search Enough?",
+            "volume": "84",
+            "author": "Gautier",
+            "year": "2016",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "186",
+            "DOI": "10.1080/02255189.2014.876390",
+            "article-title": "Collecting High Frequency Panel Data in Africa Using Mobile Phone Interviews",
+            "volume": "35",
+            "author": "Hoogeveen",
+            "year": "2014",
+            "journal-title": "Canadian Journal of Development Studies/Revue canadienne d\u2019\u00e9tudes du d\u00e9veloppement"
+        },
+        {
+            "key": "2022040814333370800_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.1186/1746-1340-18-10",
+            "article-title": "Comparison between Data Obtained through Real-Time Data Capture by SMS and a Retrospective Telephone Interview",
+            "volume": "18",
+            "author": "Johansen",
+            "year": "2010",
+            "journal-title": "Chiropractic & Osteopathy"
+        },
+        {
+            "key": "2022040814333370800_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "2480",
+            "DOI": "10.1086/699973",
+            "article-title": "Potential Unemployment Insurance Duration and Labor Supply: The Individual and Market-Level Response to a Benefit Cut",
+            "volume": "126",
+            "author": "Johnston",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814333370800_bib31",
+            "doi-asserted-by": "crossref",
+            "article-title": "Layoffs, Recall and the Duration of Unemployment",
+            "author": "Katz",
+            "year": "1986",
+            "DOI": "10.3386/w1825"
+        },
+        {
+            "key": "2022040814333370800_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "973",
+            "DOI": "10.2307/2937881",
+            "article-title": "Unemployment Insurance, Recall Expectations, and Unemployment Outcomes",
+            "volume": "105",
+            "author": "Katz",
+            "year": "1990",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.1257/aer.20160816",
+            "article-title": "The Optimal Timing of Unemployment Benefits: Theory and Evidence from Sweden",
+            "volume": "108",
+            "author": "Kolsrud",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib34",
+            "first-page": "1133",
+            "article-title": "A Model of Reference-Dependent Preferences",
+            "volume": "121",
+            "author": "K\u0151szegi",
+            "year": "2006",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1123",
+            "DOI": "10.1093/qje/qjt015",
+            "article-title": "Duration Dependence and Labor Market Conditions: Evidence from a Field Experiment",
+            "volume": "128",
+            "author": "Kroft",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "298",
+            "DOI": "10.1016/j.jpubeco.2009.12.001",
+            "article-title": "Job Search and Unemployment Insurance: New Evidence from Time Use Data",
+            "volume": "94",
+            "author": "Krueger",
+            "year": "2010",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022040814333370800_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1353/eca.2011.0001",
+            "article-title": "Job Search, Emotional Well-Being, and Job Finding in a Period of Mass Unemployment: Evidence from High Frequency Longitudinal Data",
+            "author": "Krueger",
+            "year": "2011",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2022040814333370800_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1093/alcalc/agp033",
+            "article-title": "Short Message Service (SMS) Technology in Alcohol Research\u2014A Feasibility Study",
+            "volume": "44",
+            "author": "Kuntsche",
+            "year": "2009",
+            "journal-title": "Alcohol and Alcoholism"
+        },
+        {
+            "key": "2022040814333370800_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "3564",
+            "DOI": "10.1257/aer.20131273",
+            "article-title": "Market Externalities of Large Unemployment Insurance Extension Programs",
+            "volume": "105",
+            "author": "Lalive",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jpubeco.2017.05.002",
+            "article-title": "Unemployment Insurance and Reservation Wages: Evidence from Administrative Data",
+            "volume": "171",
+            "author": "Le Barbanchon",
+            "year": "2019",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022040814333370800_bib41",
+            "first-page": "159",
+            "article-title": "Unemployment Insurance and Means-Tested Program Interactions: Evidence from Administrative Data",
+            "volume": "12",
+            "author": "Leung",
+            "year": "2020",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2022040814333370800_bib42",
+            "doi-asserted-by": "crossref",
+            "article-title": "Benefit Duration, Job Search Behavior and Re-Employment",
+            "author": "Lichter",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3570297"
+        },
+        {
+            "key": "2022040814333370800_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "887",
+            "DOI": "10.1093/qje/qjaa037",
+            "article-title": "Unemployment Insurance and Job Search Behavior",
+            "volume": "136",
+            "author": "Marinescu",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "757",
+            "DOI": "10.2307/2938349",
+            "article-title": "Unemployment Insurance and Unemployment Spells",
+            "volume": "58",
+            "author": "Meyer",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814333370800_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1016/0304-4076(85)90068-5",
+            "article-title": "Unemployment Insurance and the Distribution of Unemployment Spells",
+            "volume": "28",
+            "author": "Moffitt",
+            "year": "1985",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022040814333370800_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "324",
+            "DOI": "10.1257/aer.20190808",
+            "article-title": "Job Seekers\u2019 Perceptions and Employment Prospects: Heterogeneity, Duration Dependence and Bias",
+            "volume": "111",
+            "author": "Mueller",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "142",
+            "DOI": "10.1257/aer.p20151064",
+            "article-title": "Recall Expectations and Duration Dependence",
+            "volume": "105",
+            "author": "Nekoei",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1257/aer.20150528",
+            "article-title": "Does Extending Unemployment Benefits Improve Job Quality?",
+            "volume": "107",
+            "author": "Nekoei",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib49",
+            "first-page": "1",
+            "article-title": "Reference-Dependent Preferences",
+            "volume-title": "Handbook of Behavioral Economics: Applications and Foundations",
+            "author": "O\u2019Donoghue",
+            "year": "2018"
+        },
+        {
+            "key": "2022040814333370800_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1418",
+            "DOI": "10.1111/j.1468-0297.2008.02175.x",
+            "article-title": "Job Search and Hyperbolic Discounting: Structural Estimation and Policy Evaluation",
+            "volume": "118",
+            "author": "Paserman",
+            "year": "2008",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2022040814333370800_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "706",
+            "DOI": "10.1016/j.jmoneco.2020.04.006",
+            "article-title": "Learning and Job Search Dynamics during the Great Recession",
+            "volume": "117",
+            "author": "Potter",
+            "year": "2021",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022040814333370800_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.1093/restud/rdx038",
+            "article-title": "Quantifying Loss-Averse Tax Manipulation",
+            "volume": "85",
+            "author": "Rees-Jones",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814333370800_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1353/eca.2011.0018",
+            "article-title": "Unemployment Insurance and Job Search in the Great Recession",
+            "volume": "2011",
+            "author": "Rothstein",
+            "year": "2011",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2022040814333370800_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "104096",
+            "DOI": "10.1016/j.jpubeco.2019.104096",
+            "article-title": "Disincentive Effects of Unemployment Benefits and the Role of Caseworkers",
+            "volume": "182",
+            "author": "Schmieder",
+            "year": "2020",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022040814333370800_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "547",
+            "DOI": "10.1146/annurev-economics-080614-115758",
+            "article-title": "The Effects of Unemployment Insurance Benefits: New Evidence and Interpretation",
+            "volume": "8",
+            "author": "Schmieder",
+            "year": "2016",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "701",
+            "DOI": "10.1093/qje/qjs010",
+            "article-title": "The Effects of Extended Unemployment Insurance over the Business Cycle: Evidence from Regression Discontinuity Estimates over 20 Years",
+            "volume": "127",
+            "author": "Schmieder",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814333370800_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "739",
+            "DOI": "10.1257/aer.20141566",
+            "article-title": "The Effect of Unemployment Benefits and Nonemployment Durations on Wages",
+            "volume": "106",
+            "author": "Schmieder",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib58",
+            "first-page": "177",
+            "article-title": "(Over) Insuring Modest Risks",
+            "volume": "2",
+            "author": "Sydnor",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2022040814333370800_bib59",
+            "doi-asserted-by": "crossref",
+            "first-page": "2417",
+            "DOI": "10.1257/aer.20170768",
+            "article-title": "Daily Labor Supply and Adaptive Reference Points",
+            "volume": "111",
+            "author": "Thakral",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814333370800_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "255",
+            "DOI": "10.2307/2297381",
+            "article-title": "Nonstationarity in Job Search Theory",
+            "volume": "57",
+            "author": "van den Berg",
+            "year": "1990",
+            "journal-title": "Review of Economic Studies"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjab039/41974736/qjab039.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/2/1181/43336093/qjab039.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/2/1181/43336093/qjab039.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T14:39:42Z",
+        "timestamp": 1649428782000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/137/2/1181/6413570"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                28
+            ]
+        ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    10,
+                    28
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    4,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjab039",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                28
+            ]
+        ]
+    }
+}

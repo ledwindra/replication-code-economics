@@ -1,0 +1,766 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                23
+            ]
+        ],
+        "date-time": "2022-09-23T21:51:19Z",
+        "timestamp": 1663969879773
+    },
+    "reference-count": 53,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        11,
+                        8
+                    ]
+                ],
+                "date-time": "2021-11-08T00:00:00Z",
+                "timestamp": 1636329600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SES-1559459"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We give a full analytic characterization of a large class of sticky-price models where the firm\u2019s price-setting behavior is described by a generalized hazard function. Such a function allows for a vast variety of empirical hazards to be fitted. This setup is microfounded by random adjustment costs, as in Caballero and Engel (1999), or by information frictions, as in Woodford (2009). We establish two main results. First, we show how to identify all the primitives of the model, including the distribution of the fundamental adjustment costs and the implied generalized hazard function, using the distribution of price changes. Second, we derive a sufficient statistic for the aggregate effect of a monetary shock: given an arbitrary generalized hazard function, the cumulative impulse response of output to a once-and-for-all monetary shock is proportional to the ratio of the kurtosis of the steady-state distribution of price changes over the frequency of price adjustment. We prove that Calvo\u2019s model yields the upper bound and Golosov and Lucas\u2019s model the lower bound on this measure in the class of random menu cost models.</jats:p>",
+    "DOI": "10.1093/qje/qjab042",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                1
+            ]
+        ],
+        "date-time": "2021-11-01T12:12:33Z",
+        "timestamp": 1635768753000
+    },
+    "page": "989-1038",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "The Macroeconomics of Sticky Prices with Generalized Hazard Functions"
+    ],
+    "prefix": "10.1093",
+    "volume": "137",
+    "author": [
+        {
+            "given": "Fernando",
+            "family": "Alvarez",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "Francesco",
+            "family": "Lippi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "LUISS University and Einaudi Institute for Economics and Finance, Italy"
+                }
+            ]
+        },
+        {
+            "given": "Aleksei",
+            "family": "Oskolkov",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                8
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022040814331920600_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.3982/ECTA7624",
+            "article-title": "\u201cOptimal Inattention to the Stock Market With Information Costs and Transactions Costs,\u201d",
+            "volume": "81",
+            "author": "Abel",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814331920600_bib2",
+            "article-title": "\u201cThe Effects of Trend Inflation on Aggregate Dynamics and Monetary Stabilization,\u201d",
+            "volume-title": "Mimeo",
+            "author": "Alexandrov",
+            "year": "2020"
+        },
+        {
+            "key": "2022040814331920600_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1093/qje/qjy022",
+            "article-title": "\u201cFrom Hyperinflation to Stable Prices: Argentina\u2019s Evidence on Menu Cost Modles,\u201d",
+            "volume": "134",
+            "author": "Alvarez",
+            "year": "2019",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib4",
+            "article-title": "\u201cEmpirical Investigation of a Sufficient Statistic for Monetary Policy Shocks,\u201d",
+            "author": "Alvarez",
+            "year": "2021"
+        },
+        {
+            "key": "2022040814331920600_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2272",
+            "DOI": "10.1257/aer.102.5.2272",
+            "article-title": "\u201cDurable Consumption and Asset Management with Transaction and Observation Costs,\u201d",
+            "volume": "102",
+            "author": "Alvarez",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2817",
+            "DOI": "10.1257/aer.20140500",
+            "article-title": "\u201cThe Real Effects of Monetary Shocks in Sticky Price Models: A Sufficient Statistic Approach,\u201d",
+            "volume": "106",
+            "author": "Alvarez",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.3982/ECTA10662",
+            "article-title": "\u201cPrice Setting with Menu Costs for Multi Product Firms,\u201d",
+            "volume": "82",
+            "author": "Alvarez",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814331920600_bib8",
+            "article-title": "\u201cThe Analytic Theory of a Monetary Shock,\u201d",
+            "author": "Alvarez",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814331920600_bib9",
+            "article-title": "\u201cReplication Data for: \u2018The Macroeconomics of Sticky Prices with Generalized Hazard Functions\u2019,\u201d",
+            "author": "Alvarez",
+            "year": "2021"
+        },
+        {
+            "key": "2022040814331920600_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "421",
+            "DOI": "10.1093/restud/rdv050",
+            "article-title": "\u201cMonetary Shocks in Models with Inattentive Producers,\u201d",
+            "volume": "83",
+            "author": "Alvarez",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib11",
+            "article-title": "\u201cPrice Setting with Strategic Complementarities as a Mean Field Game,\u201d",
+            "author": "Alvarez",
+            "year": "2021"
+        },
+        {
+            "key": "2022040814331920600_bib12",
+            "first-page": "7",
+            "article-title": "\u201cThe Pass-through of Large Cost Shocks in an Inflationary Economy,\u201d",
+            "volume-title": "\u201cChanging Inflation Dynamics, Evolving Monetary Policy\u201d",
+            "author": "Alvarez",
+            "year": "2020"
+        },
+        {
+            "key": "2022040814331920600_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "667",
+            "DOI": "10.1111/1467-937X.00149",
+            "article-title": "\u201cConsumer Durables and Inertial Behaviour: Estimation and Aggregation of (S, s) Rules for Automobile Purchases,\u201d",
+            "volume": "67",
+            "author": "Attanasio",
+            "year": "2000",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1235",
+            "DOI": "10.3982/ECTA17344",
+            "article-title": "\u201cAggregate Dynamics in Lumpy Economies,\u201d",
+            "volume": "89",
+            "author": "Baley",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814331920600_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.2307/2296440",
+            "article-title": "\u201cA Theory of Monopolistic Price Adjustment,\u201d",
+            "volume": "39",
+            "author": "Barro",
+            "year": "1972",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1016/j.euroecorev.2018.01.004",
+            "article-title": "\u201cDynamics of the U.S. Price Distribution,\u201d",
+            "volume": "103",
+            "author": "Berger",
+            "year": "2018",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "947",
+            "DOI": "10.1086/422559",
+            "article-title": "\u201cSome Evidence on the Importance of Sticky Prices,\u201d",
+            "volume": "112",
+            "author": "Bils",
+            "year": "2004",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814331920600_bib18",
+            "first-page": "647",
+            "article-title": "\u201cMonopolistic Competition and the Effects of Aggregate Demand,\u201d",
+            "volume": "77",
+            "author": "Blanchard",
+            "year": "1987",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.2307/2118335",
+            "article-title": "\u201cMicroeconomic Adjustment Hazards and Aggregate Dynamics,\u201d",
+            "volume": "108",
+            "author": "Caballero",
+            "year": "1993",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "DOI": "10.2307/2297814",
+            "article-title": "\u201cHeterogeneity and Output Fluctuations in A Dynamic Menu-Cost Economy,\u201d",
+            "volume": "60",
+            "author": "Caballero",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "783",
+            "DOI": "10.1111/1468-0262.00053",
+            "article-title": "\u201cExplaining Investment Dynamics in U.S. Manufacturing: A Generalized (S, s) Approach,\u201d",
+            "volume": "67",
+            "author": "Caballero",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814331920600_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "100",
+            "DOI": "10.1016/j.jmoneco.2007.06.020",
+            "article-title": "\u201cPrice Stickiness in Ss Models: New Interpretations of Old Results,\u201d",
+            "volume": "54",
+            "author": "Caballero",
+            "year": "2007",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022040814331920600_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1016/0304-3932(83)90060-0",
+            "article-title": "\u201cStaggered Prices in a Utility-Maximizing Framework,\u201d",
+            "volume": "12",
+            "author": "Calvo",
+            "year": "1983",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022040814331920600_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "683",
+            "DOI": "10.2307/2937923",
+            "article-title": "\u201cState-Dependent Pricing and the Dynamics of Money and Output,\u201d",
+            "volume": "106",
+            "author": "Caplin",
+            "year": "1991",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1884277",
+            "article-title": "\u201cMenu Costs and the Neutrality of Money,\u201d",
+            "volume": "102",
+            "author": "Caplin",
+            "year": "1987",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib26",
+            "first-page": "1",
+            "article-title": "\u201cHeterogeneity in Price Stickiness and the Real Effects of Monetary Shocks,\u201d",
+            "volume": "6",
+            "author": "Carvalho",
+            "year": "2006",
+            "journal-title": "B.E. Journal of Macroeconomics"
+        },
+        {
+            "key": "2022040814331920600_bib27",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cPrice Selection,\u201d",
+            "author": "Carvalho",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3212408"
+        },
+        {
+            "key": "2022040814331920600_bib29",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cScraped Data and Sticky Prices,\u201d",
+            "author": "Cavallo",
+            "year": "2015",
+            "DOI": "10.3386/w21490"
+        },
+        {
+            "key": "2022040814331920600_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1257/jep.30.2.151",
+            "article-title": "\u201cThe Billion Prices Project: Using Online Prices for Measurement and Research,\u201d",
+            "volume": "30",
+            "author": "Cavallo",
+            "year": "2016",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2022040814331920600_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "646",
+            "DOI": "10.1016/j.jmoneco.2011.11.006",
+            "article-title": "\u201cDistributional Dynamics under Smoothly State-Dependent Pricing,\u201d",
+            "volume": "58",
+            "author": "Costain",
+            "year": "2011",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022040814331920600_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1111/j.1538-4616.2010.00378.x",
+            "article-title": "\u201cPrice Adjustments in a General Model of State\u2013Dependent Pricing,\u201d",
+            "volume": "43",
+            "author": "Costain",
+            "year": "2011",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2022040814331920600_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1589",
+            "DOI": "10.1016/j.euroecorev.2007.03.004",
+            "article-title": "\u201cTime- or State-Dependent Price Setting Rules? Evidence from Micro Data,\u201d",
+            "volume": "151",
+            "author": "Dias",
+            "year": "2007",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.2307/2298051",
+            "article-title": "\u201cAnalytical Approximations in Models of Hysteresis,\u201d",
+            "volume": "58",
+            "author": "Dixit",
+            "year": "1991",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.1162/003355399556106",
+            "article-title": "\u201cState-Dependent Pricing and the General Equilibrium Dynamics of Money and Output,\u201d",
+            "volume": "114",
+            "author": "Dotsey",
+            "year": "1999",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1111/iere.12420",
+            "article-title": "\u201cInvestigating Nonneutrality in a State-Dependent Pricing Model with Firm-Level Productivity Shocks,\u201d",
+            "volume": "61",
+            "author": "Dotsey",
+            "year": "2020",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.1086/261940",
+            "article-title": "\u201cAdjustment of Consumers\u2019 Durables Stocks: Evidence from Automobile Purchases,\u201d",
+            "volume": "102",
+            "author": "Eberly",
+            "year": "1994",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814331920600_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1257/aer.101.1.234",
+            "article-title": "\u201cReference Prices, Costs, and Nominal Rigidities,\u201d",
+            "volume": "101",
+            "author": "Eichenbaum",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814331920600_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1198/073500107000000214",
+            "article-title": "\u201cHeterogeneity in Consumer Price Stickiness,\u201d",
+            "volume": "25",
+            "author": "Fougere",
+            "year": "2007",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022040814331920600_bib41",
+            "article-title": "\u201cShocks vs Menu Costs: Patterns of Price Rigidity in an Estimated Multi-Sector Menu-Cost Model,\u201d",
+            "author": "Gautier",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2022040814331920600_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1063",
+            "DOI": "10.1111/jmcb.12237",
+            "article-title": "\u201cThe Dynamics of Gasoline Prices: Evidence from Daily French Micro Data,\u201d",
+            "volume": "47",
+            "author": "Gautier",
+            "year": "2015",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2022040814331920600_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1086/512625",
+            "article-title": "\u201cMenu Costs and Phillips Curves,\u201d",
+            "volume": "115",
+            "author": "Golosov",
+            "year": "2007",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814331920600_bib45",
+            "article-title": "\u201cThe Real Effects of Monetary Shocks: Evidence from Micro Pricing Moments,\u201d",
+            "author": "Hong",
+            "year": "2020"
+        },
+        {
+            "key": "2022040814331920600_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/B978-0-444-53238-1.00006-5",
+            "article-title": "\u201cMicroeconomic Evidence on Price-Setting,\u201d",
+            "volume": "3",
+            "author": "Klenow",
+            "year": "2010",
+            "journal-title": "Handbook of Monetary Economics"
+        },
+        {
+            "key": "2022040814331920600_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.2140/pjm.1967.20.69",
+            "article-title": "\u201cOn Characterizing the Gamma and the Normal Distribution,\u201d",
+            "volume": "20",
+            "author": "Kotlarski",
+            "year": "1967",
+            "journal-title": "Pacific Journal of Mathematics"
+        },
+        {
+            "key": "2022040814331920600_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.3982/ECTA6735",
+            "article-title": "\u201cMenu Costs, Multi-Product Firms, and Aggregate Fluctuations,\u201d",
+            "volume": "79",
+            "author": "Midrigan",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814331920600_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "961",
+            "DOI": "10.1162/qjec.2010.125.3.961",
+            "article-title": "\u201cMonetary Non-Neutrality in a Multisector Menu Cost Model,\u201d",
+            "volume": "125",
+            "author": "Nakamura",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1933",
+            "DOI": "10.1093/qje/qjy017",
+            "article-title": "\u201cThe Elusive Costs of Inflation: Price Dispersion during the U.S. Great Inflation,\u201d",
+            "volume": "133",
+            "author": "Nakamura",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814331920600_bib52",
+            "article-title": "\u201cTime-Varying Price Flexibility and Inflation Dynamics,\u201d",
+            "author": "Petrella",
+            "year": "2018"
+        },
+        {
+            "key": "2022040814331920600_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "793",
+            "DOI": "10.1111/j.1467-937X.2006.00396.x",
+            "article-title": "\u201cInattentive Producers,\u201d",
+            "volume": "73",
+            "author": "Reis",
+            "year": "2006",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1016/j.jmoneco.2019.03.007",
+            "article-title": "\u201cPrice Dispersion and Inflation: New Facts and Theoretical Implications,\u201d",
+            "volume": "114",
+            "author": "Sheremirov",
+            "year": "2019",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2022040814331920600_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.2307/2297067",
+            "article-title": "\u201cInflation and Costs of Price Adjustment,\u201d",
+            "volume": "44",
+            "author": "Sheshinski",
+            "year": "1977",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814331920600_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "2419",
+            "DOI": "10.1016/j.jet.2009.10.008",
+            "article-title": "\u201cMoving Costs, Nondurable Consumption and Portfolio Choice,\u201d",
+            "volume": "144",
+            "author": "Stokey",
+            "year": "2009",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022040814331920600_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "s100",
+            "DOI": "10.1016/j.jmoneco.2009.06.014",
+            "article-title": "\u201cInformation-Constrained State-Dependent Pricing,\u201d",
+            "volume": "56",
+            "author": "Woodford",
+            "year": "2009",
+            "journal-title": "Journal of Monetary Economics"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjab042/42430702/qjab042.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/2/989/43336027/qjab042.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/2/989/43336027/qjab042.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T14:38:42Z",
+        "timestamp": 1649428722000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/137/2/989/6423441"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                8
+            ]
+        ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    11,
+                    8
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    4,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjab042",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                11,
+                8
+            ]
+        ]
+    }
+}

@@ -1,0 +1,975 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                22
+            ]
+        ],
+        "date-time": "2022-09-22T05:35:24Z",
+        "timestamp": 1663824924647
+    },
+    "reference-count": 79,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        4,
+                        4
+                    ]
+                ],
+                "date-time": "2022-04-04T00:00:00Z",
+                "timestamp": 1649030400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                20
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Different agents need to make a prediction. They observe identical data, but have different models: they predict using different explanatory variables. We study which agent believes they have the best predictive ability\u2014as measured by the smallest subjective posterior mean squared prediction error\u2014and show how it depends on the sample size. With small samples, we present results suggesting it is an agent using a low-dimensional model. With large samples, it is generally an agent with a high-dimensional model, possibly including irrelevant variables, but never excluding relevant ones. We apply our results to characterize the winning model in an auction of productive assets, to argue that entrepreneurs and investors with simple models will be overrepresented in new sectors, and to understand the proliferation of \u201cfactors\u201d that explain the cross-sectional variation of expected stock returns in the asset-pricing literature.</jats:p>",
+    "DOI": "10.1093/qje/qjac015",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                16
+            ]
+        ],
+        "date-time": "2022-03-16T20:16:01Z",
+        "timestamp": 1647461761000
+    },
+    "page": "2419-2457",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Competing Models"
+    ],
+    "prefix": "10.1093",
+    "volume": "137",
+    "author": [
+        {
+            "given": "Jos\u00e9 Luis",
+            "family": "Montiel Olea",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cornell University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Pietro",
+            "family": "Ortoleva",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Mallesh M",
+            "family": "Pai",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Rice University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Andrea",
+            "family": "Prat",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia University , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022092118341578100_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.3982/TE436",
+            "article-title": "\u201cFragility of Asymptotic Agreement under Bayesian Learning,\u201d",
+            "volume": "11",
+            "author": "Acemoglu",
+            "year": "2016",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2022092118341578100_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "716",
+            "DOI": "10.1109/TAC.1974.1100705",
+            "article-title": "\u201cA New Look at the Statistical Model Identification,\u201d",
+            "volume": "19",
+            "author": "Akaike",
+            "year": "1974",
+            "journal-title": "IEEE Transactions on Automatic Control"
+        },
+        {
+            "key": "2022092118341578100_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1371",
+            "DOI": "10.3982/ECTA7501",
+            "article-title": "\u201cDecision Makers as Statisticians: Diversity, Ambiguity, and Learning,\u201d",
+            "volume": "77",
+            "author": "Al-Najjar",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022092118341578100_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1016/j.jet.2013.12.003",
+            "article-title": "\u201cCoarse Decision Making and Overfitting,\u201d",
+            "volume": "150",
+            "author": "Al-Najjar",
+            "year": "2014",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022092118341578100_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1257/aer.98.1.145",
+            "article-title": "\u201cWhen Does Coordination Require Centralization?\u201d",
+            "volume": "98",
+            "author": "Alonso",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "709",
+            "DOI": "10.1017/S0022109019000255",
+            "article-title": "\u201cUsing Stocks or Portfolios in Tests of Factor Models,\u201d",
+            "volume": "55",
+            "author": "Ang",
+            "year": "2020",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022092118341578100_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1007/s11142-018-9470-2",
+            "article-title": "\u201cQuality Minus Junk,\u201d",
+            "volume": "24",
+            "author": "Asness",
+            "year": "2019",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2022092118341578100_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2014",
+            "DOI": "10.1257/aer.104.7.2014",
+            "article-title": "\u201cAuctions, Actions, and the Failure of Information Aggregation,\u201d",
+            "volume": "104",
+            "author": "Atakan",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.frl.2015.08.001",
+            "article-title": "\u201cFama\u2013MacBeth Two-Pass Regressions: Improving Risk Premia Estimates,\u201d",
+            "volume": "15",
+            "author": "Bai",
+            "year": "2015",
+            "journal-title": "Finance Research Letters"
+        },
+        {
+            "key": "2022092118341578100_bib10",
+            "article-title": "\u201cOverfitting and Its Impact on the Investor,\u201d",
+            "author": "Barberis",
+            "year": "2015",
+            "journal-title": "Man Institute"
+        },
+        {
+            "key": "2022092118341578100_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1771",
+            "DOI": "10.1111/j.1468-0262.2005.00638.x",
+            "article-title": "\u201cRobust Mechanism Design,\u201d",
+            "volume": "73",
+            "author": "Bergemann",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022092118341578100_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "894",
+            "DOI": "10.1214/aoms/1177696967",
+            "article-title": "\u201cConsistency a Posteriori,\u201d",
+            "author": "Berk",
+            "year": "1970",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2022092118341578100_bib14a",
+            "article-title": "\u201cThe Capital Asset Pricing Model: Some Empirical Tests,\u201d",
+            "author": "Black",
+            "year": "1972",
+            "journal-title": "Studies in the Theory of Capital Markets"
+        },
+        {
+            "key": "2022092118341578100_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "222",
+            "DOI": "10.1016/j.jet.2016.01.011",
+            "article-title": "\u201cInformational Herding with Model Misspecification,\u201d",
+            "volume": "163",
+            "author": "Bohren",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022092118341578100_bib15",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cBounded Rationality and Learning: A Framework and a Robustness Result,\u201d",
+            "author": "Bohren",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.2968460"
+        },
+        {
+            "key": "2022092118341578100_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1675",
+            "DOI": "10.1016/j.jet.2010.03.008",
+            "article-title": "\u201cInformation-Based Trade,\u201d",
+            "volume": "145",
+            "author": "Bond",
+            "year": "2010",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022092118341578100_bib17",
+            "volume-title": "Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach",
+            "author": "Burnham",
+            "year": "2003"
+        },
+        {
+            "key": "2022092118341578100_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "536",
+            "DOI": "10.1257/aer.20131159",
+            "article-title": "\u201cRobustness and Linear Contracts,\u201d",
+            "volume": "105",
+            "author": "Carroll",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1935",
+            "DOI": "10.3982/ECTA9987",
+            "article-title": "\u201cCalibrated Incentive Contracts,\u201d",
+            "volume": "81",
+            "author": "Chassang",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022092118341578100_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "112395",
+            "DOI": "10.1016/j.cam.2019.112395",
+            "article-title": "\u201cBitcoin Price Prediction Using Machine Learning: An Approach to Sample Dimension Engineering,\u201d",
+            "volume": "365",
+            "author": "Chen",
+            "year": "2020",
+            "journal-title": "Journal of Computational and Applied Mathematics"
+        },
+        {
+            "key": "2022092118341578100_bib21",
+            "article-title": "\u201cStatistical Inference in Games,\u201d",
+            "author": "Cherry",
+            "year": "2018"
+        },
+        {
+            "key": "2022092118341578100_bib22",
+            "volume-title": "Model Selection and Model Averaging",
+            "author": "Claeskens",
+            "year": "2008"
+        },
+        {
+            "key": "2022092118341578100_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1111/j.1540-6261.2011.01671.x",
+            "article-title": "\u201cPresidential Address: Discount Rates,\u201d",
+            "volume": "66",
+            "author": "Cochrane",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022092118341578100_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1016/0883-9026(88)90020-1",
+            "article-title": "\u201cEntrepreneurs\u2019 Perceived Chances for Success,\u201d",
+            "volume": "3",
+            "author": "Cooper",
+            "year": "1988",
+            "journal-title": "Journal of Business Venturing"
+        },
+        {
+            "key": "2022092118341578100_bib25",
+            "article-title": "\u201cA Model of Competing Narratives,\u201d",
+            "author": "Eliaz",
+            "year": "2018"
+        },
+        {
+            "key": "2022092118341578100_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.3982/ECTA12609",
+            "article-title": "\u201cBerk\u2013Nash Equilibrium: A Framework for Modeling Agents with Misspecified Models,\u201d",
+            "volume": "84",
+            "author": "Esponda",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022092118341578100_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1623",
+            "DOI": "10.1111/j.1468-0262.2005.00631.x",
+            "article-title": "\u201cCursed Equilibrium,\u201d",
+            "volume": "73",
+            "author": "Eyster",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022092118341578100_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "\u201cCommon Risk Factors in the Returns on Stocks and Bonds,\u201d",
+            "volume": "33",
+            "author": "Fama",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022092118341578100_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "\u201cA Five-Factor Asset Pricing Model,\u201d",
+            "volume": "116",
+            "author": "Fama",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022092118341578100_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "\u201cRisk, Return, and Equilibrium: Empirical Tests,\u201d",
+            "volume": "81",
+            "author": "Fama",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022092118341578100_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1327",
+            "DOI": "10.1111/jofi.12883",
+            "article-title": "\u201cTaming the Factor Zoo: A Test of New Factors,\u201d",
+            "volume": "75",
+            "author": "Feng",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022092118341578100_bib32",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cDispersed Behavior and Perceptions in Assortative Societies,\u201d",
+            "author": "Frick",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3362249"
+        },
+        {
+            "key": "2022092118341578100_bib33",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cMisinterpreting Others and the Fragility of Social Learning,\u201d",
+            "author": "Frick",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3316376"
+        },
+        {
+            "key": "2022092118341578100_bib34",
+            "article-title": "\u201cWhich Misperceptions Persist?,\u201d",
+            "author": "Fudenberg",
+            "year": "2020"
+        },
+        {
+            "key": "2022092118341578100_bib35",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cLimits Points of Endogenous Misspecified Learning,\u201d",
+            "author": "Fudenberg",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3553363"
+        },
+        {
+            "key": "2022092118341578100_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1155",
+            "DOI": "10.3982/TE2480",
+            "article-title": "\u201cActive Learning with a Misspecified Prior,\u201d",
+            "volume": "12",
+            "author": "Fudenberg",
+            "year": "2017",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2022092118341578100_bib37",
+            "article-title": "\u201cChanneled Attention and Stable Errors,\u201d",
+            "author": "Gagnon-Bartsch",
+            "year": "2021"
+        },
+        {
+            "key": "2022092118341578100_bib38",
+            "article-title": "\u201cAsset Pricing with Omitted Factors,\u201d",
+            "author": "Giglio",
+            "year": "2019"
+        },
+        {
+            "key": "2022092118341578100_bib39",
+            "volume-title": "Econometric Analysis",
+            "author": "Greene",
+            "year": "2018",
+            "edition": "8"
+        },
+        {
+            "key": "2022092118341578100_bib40",
+            "article-title": "\u201cEconometrics,\u201d",
+            "author": "Hansen",
+            "year": "2021"
+        },
+        {
+            "key": "2022092118341578100_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.2307/1884166",
+            "article-title": "\u201cSpeculative Investor Behavior in a Stock Market with Heterogeneous Expectations,\u201d",
+            "volume": "92",
+            "author": "Harrison",
+            "year": "1978",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022092118341578100_bib42",
+            "article-title": "\u201cEvolutionarily Stable (Mis) Specifications: Theory and Applications,\u201d",
+            "author": "He",
+            "year": "2020"
+        },
+        {
+            "key": "2022092118341578100_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2017.08.002",
+            "article-title": "\u201cIntermediary Asset Pricing: New Evidence from Many Asset Classes,\u201d",
+            "volume": "126",
+            "author": "He",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022092118341578100_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1159",
+            "DOI": "10.3982/ECTA14084",
+            "article-title": "\u201cUnrealistic Expectations and Misguided Learning,\u201d",
+            "volume": "86",
+            "author": "Heidhues",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022092118341578100_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.3982/TE3558",
+            "article-title": "\u201cConvergence in Models of Misspecified Learning,\u201d",
+            "volume": "16",
+            "author": "Heidhues",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2022092118341578100_bib46",
+            "volume-title": "Introduction to Mathematical Statistics",
+            "author": "Hogg",
+            "year": "2006"
+        },
+        {
+            "key": "2022092118341578100_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "\u201cDigesting Anomalies: An Investment Approach,\u201d",
+            "volume": "28",
+            "author": "Hou",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022092118341578100_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.1016/j.jet.2003.12.003",
+            "article-title": "\u201cAnalogy-Based Expectation Equilibrium,\u201d",
+            "volume": "123",
+            "author": "Jehiel",
+            "year": "2005",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022092118341578100_bib50",
+            "first-page": "473",
+            "article-title": "\u201cThe Validity of Posterior Expansions Based on Laplaces Method,\u201d",
+            "volume-title": "Bayesian and Likelihood Methods in Statistics and Econometrics",
+            "author": "Kass",
+            "year": "1990"
+        },
+        {
+            "key": "2022092118341578100_bib51",
+            "article-title": "\u201cInvestment Literacy, Overconfidence and Cryptocurrency Investment,\u201d",
+            "author": "Kim",
+            "journal-title": "Financial Services Review"
+        },
+        {
+            "key": "2022092118341578100_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1214/12-EJS675",
+            "article-title": "\u201cThe Bernstein-von-Mises Theorem under Misspecification,\u201d",
+            "volume": "6",
+            "author": "Kleijn",
+            "year": "2012",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "2022092118341578100_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "502",
+            "DOI": "10.1016/j.joep.2006.11.002",
+            "article-title": "\u201c\u2018I Think I Can, I Think I Can\u2019: Overconfidence and Entrepreneurial Behavior,\u201d",
+            "volume": "28",
+            "author": "Koellinger",
+            "year": "2007",
+            "journal-title": "Journal of Economic Psychology"
+        },
+        {
+            "key": "2022092118341578100_bib55",
+            "volume-title": "The Structure of Scientific Revolutions",
+            "author": "Kuhn",
+            "year": "1962"
+        },
+        {
+            "key": "2022092118341578100_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "928",
+            "DOI": "10.1257/aer.20210154",
+            "article-title": "\u201cMisspecified Politics and the Recurrence of Populism,\u201d",
+            "volume": "112",
+            "author": "Levy",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib57",
+            "article-title": "\u201cGames of Incomplete Information Played by Statisticians,\u201d",
+            "author": "Liang",
+            "year": "2018"
+        },
+        {
+            "key": "2022092118341578100_bib58",
+            "first-page": "790",
+            "article-title": "\u201cSellers with Misspecified Models,\u201d",
+            "volume": "84",
+            "author": "Madar\u00e1sz",
+            "year": "2017",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022092118341578100_bib59",
+            "article-title": "\u201cThe Wisdom of a Confused Crowd: Model-Based Inference,\u201d",
+            "author": "Mailath",
+            "year": "2019"
+        },
+        {
+            "key": "2022092118341578100_bib60",
+            "first-page": "661",
+            "article-title": "\u201cSome Comments on CP,\u201d",
+            "volume": "15",
+            "author": "Mallows",
+            "year": "1973",
+            "journal-title": "Technometrics"
+        },
+        {
+            "key": "2022092118341578100_bib61",
+            "author": "Marschak",
+            "year": "1972",
+            "journal-title": "Economic Theory of Teams"
+        },
+        {
+            "key": "2022092118341578100_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.1214/aos/1035844977",
+            "article-title": "\u201cWhat Is a Statistical Model?,\u201d",
+            "volume": "30",
+            "author": "McCullagh",
+            "year": "2002",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2022092118341578100_bib63",
+            "volume-title": "Economics, Organization and Management",
+            "author": "Milgrom",
+            "year": "1992"
+        },
+        {
+            "key": "2022092118341578100_bib64",
+            "article-title": "\u201cReplication Data for: \u2018Competing Models\u2019,\u201d",
+            "author": "Montiel",
+            "year": "2022"
+        },
+        {
+            "key": "2022092118341578100_bib65",
+            "first-page": "1327",
+            "article-title": "\u201cTrade with Heterogeneous Prior Beliefs and Asymmetric Information,\u201d",
+            "volume-title": "Econometrica: Journal of the Econometric Society",
+            "author": "Morris",
+            "year": "1994"
+        },
+        {
+            "key": "2022092118341578100_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1017/S0266267100003382",
+            "article-title": "\u201cThe Common Prior Assumption in Economic Theory,\u201d",
+            "volume": "11",
+            "author": "Morris",
+            "year": "1995",
+            "journal-title": "Economics & Philosophy"
+        },
+        {
+            "key": "2022092118341578100_bib67",
+            "first-page": "1",
+            "article-title": "\u201cNext-Day Bitcoin Price Forecast,\u201d",
+            "volume-title": "Journal of Risk and Financial Management",
+            "author": "Munim",
+            "year": "2019"
+        },
+        {
+            "key": "2022092118341578100_bib68",
+            "first-page": "758",
+            "article-title": "\u201cAsymptotic Properties of Criteria for Selection of Variables in Multiple Regression,\u201d",
+            "volume-title": "Annals of Statistics",
+            "author": "Nishii",
+            "year": "1984"
+        },
+        {
+            "key": "2022092118341578100_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "1279",
+            "DOI": "10.1257/aer.89.5.1279",
+            "article-title": "\u201cDo Investors Trade Too Much?,\u201d",
+            "volume": "89",
+            "author": "Odean",
+            "year": "1999",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "2410",
+            "DOI": "10.1257/aer.102.6.2410",
+            "article-title": "\u201cModeling the Change of Paradigm: Non-Bayesian Reactions to Unexpected News,\u201d",
+            "volume": "102",
+            "author": "Ortoleva",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib71",
+            "doi-asserted-by": "crossref",
+            "first-page": "504",
+            "DOI": "10.1257/aer.20130921",
+            "article-title": "\u201cOverconfidence in Political Behavior,\u201d",
+            "volume": "105",
+            "author": "Ortoleva",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib72",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1257/aer.20120881",
+            "article-title": "\u201cPrice Reaction to Information with Heterogeneous Beliefs and Wealth Effects: Underreaction, Momentum, and Reversal,\u201d",
+            "volume": "105",
+            "author": "Ottaviani",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib73",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Causality: Models, Reasoning, and Inference",
+            "author": "Pearl",
+            "year": "2009",
+            "DOI": "10.1017/CBO9780511803161"
+        },
+        {
+            "key": "2022092118341578100_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1086/378531",
+            "article-title": "\u201cOverconfidence and Speculative Bubbles,\u201d",
+            "volume": "111",
+            "author": "Scheinkman",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022092118341578100_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "276",
+            "DOI": "10.1257/aer.20191074",
+            "article-title": "\u201cUsing Models to Persuade,\u201d",
+            "volume": "111",
+            "author": "Schwartzstein",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "461",
+            "DOI": "10.1214/aos/1176344136",
+            "article-title": "\u201cEstimating the Dimension of a Model,\u201d",
+            "volume": "6",
+            "author": "Schwarz",
+            "year": "1978",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2022092118341578100_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "1113",
+            "DOI": "10.1111/j.1467-937X.2006.00410.x",
+            "article-title": "\u201cThe Market for Quacks,\u201d",
+            "volume": "73",
+            "author": "Spiegler",
+            "year": "2006",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022092118341578100_bib78",
+            "doi-asserted-by": "crossref",
+            "first-page": "1490",
+            "DOI": "10.1257/aer.103.4.1490",
+            "article-title": "\u201cPlacebo Reforms,\u201d",
+            "volume": "103",
+            "author": "Spiegler",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022092118341578100_bib79",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1093/qje/qjw011",
+            "article-title": "\u201cBayesian Networks and Boundedly Rational Expectations,\u201d",
+            "volume": "131",
+            "author": "Spiegler",
+            "year": "2016",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022092118341578100_bib80",
+            "doi-asserted-by": "crossref",
+            "first-page": "1531",
+            "DOI": "10.1093/rfs/hhj032",
+            "article-title": "\u201cInvestor Overconfidence and Trading Volume,\u201d",
+            "volume": "19",
+            "author": "Statman",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022092118341578100_bib81",
+            "doi-asserted-by": "crossref",
+            "first-page": "793",
+            "DOI": "10.1111/1468-0262.00426",
+            "article-title": "\u201cBargaining without a Common Prior\u2014An Immediate Agreement Theorem,\u201d",
+            "volume": "71",
+            "author": "Yildiz",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjac015/44139313/qjac015.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjac015/45946856/qjac015.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjac015/45946856/qjac015.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                21
+            ]
+        ],
+        "date-time": "2022-09-21T18:35:55Z",
+        "timestamp": 1663785355000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/137/4/2419/6563146"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                4
+            ]
+        ]
+    },
+    "references-count": 79,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    4,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    9,
+                    20
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjac015",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                4
+            ]
+        ]
+    }
+}

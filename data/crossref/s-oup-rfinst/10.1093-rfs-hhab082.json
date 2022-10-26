@@ -1,0 +1,570 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                6
+            ]
+        ],
+        "date-time": "2022-10-06T12:31:21Z",
+        "timestamp": 1665059481879
+    },
+    "reference-count": 34,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        23
+                    ]
+                ],
+                "date-time": "2021-07-23T00:00:00Z",
+                "timestamp": 1626998400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                19
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We investigate the structure of mutual funds\u2019 corporate governance preferences as revealed by how they vote their shares in portfolio companies. We apply unsupervised learning tools from the machine learning literature to analyze mutual funds\u2019 votes and find that a parsimonious two-dimensional model can explain the bulk of mutual fund voting. The dimensions capture competing visions of corporate governance and are related to the leading proxy advisors\u2019 recommendations. Cluster analysis shows that mutual funds are organized into three \u201cparties\u201d\u2014the Traditional Governance Party, Shareholder Reform Party, and Shareholder Protest Party\u2014that follow distinctive philosophies of corporate governance and shareholders\u2019 role.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhab082",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                22
+            ]
+        ],
+        "date-time": "2021-07-22T19:10:09Z",
+        "timestamp": 1626981009000
+    },
+    "page": "2839-2878",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "The Party Structure of Mutual Funds"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Ryan",
+            "family": "Bubb",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        },
+        {
+            "given": "Emiliano M",
+            "family": "Catan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                23
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "2",
+            "key": "2022060714154127000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "783",
+            "DOI": "10.1093/rfs/hhn099",
+            "article-title": "What Matters in Corporate Governance",
+            "volume": "22",
+            "author": "Bebchuk,",
+            "year": "2009",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "issue": "8",
+            "key": "2022060714154127000_B2",
+            "first-page": "2029",
+            "article-title": "Index Funds and the Future of Corporate Governance: Theory, Evidence, and Policy",
+            "volume": "119",
+            "author": "Bebchuk,",
+            "year": "2019",
+            "journal-title": "Columbia Law Review"
+        },
+        {
+            "key": "2022060714154127000_B3",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Granular Nature of Large Institutional Investors",
+            "author": "Ben-David,",
+            "year": "2016",
+            "DOI": "10.3386/w22247"
+        },
+        {
+            "key": "2022060714154127000_B4",
+            "doi-asserted-by": "crossref",
+            "article-title": "Voting Decisions at US Mutual Funds: How Investors Really Use Proxy Advisers",
+            "author": "Bew,",
+            "year": "2012",
+            "DOI": "10.2139/ssrn.2084231"
+        },
+        {
+            "issue": "2",
+            "key": "2022060714154127000_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "320",
+            "DOI": "10.1016/j.jfineco.2020.03.004",
+            "article-title": "Investor ideology",
+            "volume": "137",
+            "author": "Bolton,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022060714154127000_B6",
+            "article-title": "Picking Friends Before Picking (Proxy) Fights: How Mutual Fund Voting Shapes Proxy Contests. SSRN Scholarly Paper ID 3101473",
+            "author": "Brav,",
+            "year": "2020"
+        },
+        {
+            "issue": "5",
+            "key": "2022060714154127000_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "781",
+            "DOI": "10.1016/0031-3203(94)00125-6",
+            "article-title": "Gaussian parsimonious clustering models",
+            "volume": "28",
+            "author": "Celeux,",
+            "year": "1995",
+            "journal-title": "Pattern recognition"
+        },
+        {
+            "issue": "4",
+            "key": "2022060714154127000_B8",
+            "article-title": "The Power of Proxy Advisors: Myth or Reality",
+            "volume": "59",
+            "author": "Choi,",
+            "year": "2010",
+            "journal-title": "Emory Law Journal"
+        },
+        {
+            "key": "2022060714154127000_B9",
+            "first-page": "35",
+            "article-title": "Who calls the shots: How mutual funds vote on director elections",
+            "volume": "3",
+            "author": "Choi,",
+            "year": "2013",
+            "journal-title": "Harv. Bus. L. Rev."
+        },
+        {
+            "issue": "4",
+            "key": "2022060714154127000_B10",
+            "first-page": "649",
+            "article-title": "Director Elections and the Role of Proxy Advisors",
+            "volume": "82",
+            "author": "Choi,",
+            "year": "2008",
+            "journal-title": "Southern California Law Review"
+        },
+        {
+            "issue": "9",
+            "key": "2022060714154127000_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "3329",
+            "DOI": "10.1093/rfs/hhp057",
+            "article-title": "How Active Is Your Fund Manager? A New Measure That Predicts Performance",
+            "volume": "22",
+            "author": "Cremers,",
+            "year": "2009",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "issue": "6",
+            "key": "2022060714154127000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2933",
+            "DOI": "10.1111/jofi.12425",
+            "article-title": "Ties That Bind: How Business Connections Affect Mutual Fund Activism",
+            "volume": "71",
+            "author": "Cvijanovi\u0107,",
+            "year": "2016",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "issue": "2",
+            "key": "2022060714154127000_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1016/j.jfineco.2005.04.003",
+            "article-title": "Business ties and proxy voting by mutual funds",
+            "volume": "85",
+            "author": "Davis,",
+            "year": "2007",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "issue": "5",
+            "key": "2022060714154127000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "951",
+            "DOI": "10.1111/1475-679X.12024",
+            "article-title": "Shareholder votes and proxy advisors: Evidence from say on pay",
+            "volume": "51",
+            "author": "Ertimur,",
+            "year": "2013",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "issue": "7",
+            "key": "2022060714154127000_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3400",
+            "DOI": "10.1287/mnsc.2017.2760",
+            "article-title": "Understanding Uncontested Director Elections",
+            "volume": "64",
+            "author": "Ertimur,",
+            "year": "2018",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022060714154127000_B16",
+            "article-title": "Do Index Funds Monitor? SSRN Scholarly Paper ID 3259433",
+            "author": "Heath,",
+            "year": "2020"
+        },
+        {
+            "key": "2022060714154127000_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "S142",
+            "DOI": "10.2307/3087459",
+            "article-title": "Linear Probability Models of the Demand for Attributes with an Empirical Application to Estimating the Preferences of Legislators",
+            "author": "Heckman,",
+            "year": "1997",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "2022060714154127000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "446",
+            "DOI": "10.1093/rfs/hhu062",
+            "article-title": "Are mutual funds active voters",
+            "volume": "28",
+            "author": "Iliev,",
+            "year": "2014",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2022060714154127000_B19",
+            "first-page": "1957",
+            "article-title": "Practical approaches to principal component analysis in the presence of missing values",
+            "volume": "11",
+            "author": "Ilin,",
+            "year": "2010",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "2022060714154127000_B20",
+            "author": "Joliffe,",
+            "year": "2002",
+            "journal-title": "Principal Component Analysis"
+        },
+        {
+            "issue": "2",
+            "key": "2022060714154127000_B21",
+            "first-page": "79",
+            "article-title": "Handling missing values in exploratory multivariate data analysis methods",
+            "volume": "153",
+            "author": "Josse,",
+            "year": "2012",
+            "journal-title": "Journal de la Soci\u00e9t\u00e9 Fran\u00e7aise de Statistique"
+        },
+        {
+            "issue": "2",
+            "key": "2022060714154127000_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1007/BF02295279",
+            "article-title": "Weighted least squares fitting using ordinary least squares algorithms",
+            "volume": "62",
+            "author": "Kiers,",
+            "year": "1997",
+            "journal-title": "Psychometrika"
+        },
+        {
+            "issue": "1",
+            "key": "2022060714154127000_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1086/682910",
+            "article-title": "Outsourcing shareholder voting to proxy advisory firms",
+            "volume": "58",
+            "author": "Larcker,",
+            "year": "2015",
+            "journal-title": "The Journal of Law and Economics"
+        },
+        {
+            "issue": "6",
+            "key": "2022060714154127000_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "2951",
+            "DOI": "10.1287/mnsc.2016.2652",
+            "article-title": "Outsourcing Corporate Governance: Conflicts of Interest Within the Proxy Advisory Industry",
+            "volume": "64",
+            "author": "Li,",
+            "year": "2018",
+            "journal-title": "Management Science"
+        },
+        {
+            "issue": "3",
+            "key": "2022060714154127000_B25",
+            "first-page": "493",
+            "article-title": "The Case Against Passive Shareholder Voting",
+            "volume": "43",
+            "author": "Lund,",
+            "year": "2018",
+            "journal-title": "Journal of Corporation Law"
+        },
+        {
+            "issue": "12",
+            "key": "2022060714154127000_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3394",
+            "DOI": "10.1093/rfs/hhw070",
+            "article-title": "The role of proxy advisory firms: Evidence from a regression-discontinuity design",
+            "volume": "29",
+            "author": "Malenko,",
+            "year": "2016",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "issue": "6",
+            "key": "2022060714154127000_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2905",
+            "DOI": "10.1111/jofi.12393",
+            "article-title": "Behind the scenes: The corporate governance preferences of institutional investors",
+            "volume": "71",
+            "author": "McCahery,",
+            "year": "2016",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "issue": "4",
+            "key": "2022060714154127000_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "914",
+            "DOI": "10.1016/j.jcorpfin.2011.04.002",
+            "article-title": "Mutual funds as monitors: Evidence from mutual fund voting",
+            "volume": "17",
+            "author": "Morgan,",
+            "year": "2011",
+            "journal-title": "Journal of Corporate Finance"
+        },
+        {
+            "key": "2022060714154127000_B29",
+            "article-title": "Passive Fund Providers Take an Active Approach to Investment Stewardship",
+            "year": "2017",
+            "journal-title": "Unpublished working paper"
+        },
+        {
+            "key": "2022060714154127000_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1016/B978-0-44-453594-8.00004-5",
+            "article-title": "Chapter 4 - Executive Compensation: Where We Are, and How We Got There",
+            "volume": "2",
+            "author": "Murphy,",
+            "year": "2013",
+            "journal-title": "Handbook of the Economics of Finance"
+        },
+        {
+            "issue": "1",
+            "key": "2022060714154127000_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "228",
+            "DOI": "10.2307/2111445",
+            "article-title": "Patterns of Congressional Voting",
+            "volume": "35",
+            "author": "Poole,",
+            "year": "1991",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2022060714154127000_B32",
+            "author": "Poole,",
+            "year": "2007",
+            "journal-title": "Ideology and Congress"
+        },
+        {
+            "key": "2022060714154127000_B33",
+            "article-title": "Index Funds and Corporate Governance: Let Shareholders be Shareholders. SSRN Scholarly Paper ID 3295098, Social Science Research Network",
+            "author": "Rock,",
+            "year": "2019"
+        },
+        {
+            "issue": "3",
+            "key": "2022060714154127000_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1016/j.jfineco.2003.11.002",
+            "article-title": "Who is in whose pocket? Director compensation, board independence, and barriers to effective monitoring",
+            "volume": "73",
+            "author": "Ryan,",
+            "year": "2004",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhab082/40154330/hhab082.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/6/2839/43971298/hhab082.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/6/2839/43971298/hhab082.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                7
+            ]
+        ],
+        "date-time": "2022-06-07T14:18:15Z",
+        "timestamp": 1654611495000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/6/2839/6326796"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Wei",
+            "family": "Jiang",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                23
+            ]
+        ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    7,
+                    23
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    5,
+                    19
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhab082",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                6,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                23
+            ]
+        ]
+    }
+}

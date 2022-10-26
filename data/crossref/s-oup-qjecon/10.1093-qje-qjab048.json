@@ -1,0 +1,803 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                17
+            ]
+        ],
+        "date-time": "2022-10-17T11:28:32Z",
+        "timestamp": 1666006112490
+    },
+    "reference-count": 58,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "funder": [
+        {
+            "DOI": "10.13039/100000002",
+            "name": "NIH",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "DP5OD019903-01"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Physicians, judges, teachers, and agents in many other settings differ systematically in the decisions they make when faced with similar cases. Standard approaches to interpreting and exploiting such differences assume they arise solely from variation in preferences. We develop an alternative framework that allows variation in preferences and diagnostic skill and show that both dimensions may be partially identified in standard settings under quasi-random assignment. We apply this framework to study pneumonia diagnoses by radiologists. Diagnosis rates vary widely among radiologists, and descriptive evidence suggests that a large component of this variation is due to differences in diagnostic skill. Our estimated model suggests that radiologists view failing to diagnose a patient with pneumonia as more costly than incorrectly diagnosing one without, and that this leads less skilled radiologists to optimally choose lower diagnostic thresholds. Variation in skill can explain 39% of the variation in diagnostic decisions, and policies that improve skill perform better than uniform decision guidelines. Failing to account for skill variation can lead to highly misleading results in research designs that use agent assignments as instruments.</jats:p>",
+    "DOI": "10.1093/qje/qjab048",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                17
+            ]
+        ],
+        "date-time": "2021-12-17T04:15:37Z",
+        "timestamp": 1639714537000
+    },
+    "page": "729-783",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+        "Selection with Variation in Diagnostic Skill: Evidence from Radiologists"
+    ],
+    "prefix": "10.1093",
+    "volume": "137",
+    "author": [
+        {
+            "given": "David C",
+            "family": "Chan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University, Department of Veterans Affairs, and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "Matthew",
+            "family": "Gentzkow",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and National Bureau of Economic Research, United States"
+                }
+            ]
+        },
+        {
+            "given": "Chuan",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022040814332269100_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "3730",
+            "DOI": "10.1257/aer.20140260",
+            "article-title": "The Determinants of Productivity in Medical Testing: Intensity and Allocation of Care",
+            "volume": "106",
+            "author": "Abaluck",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814332269100_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1952",
+            "DOI": "10.1007/s00330-010-1763-1",
+            "article-title": "Abdominal and Pelvic Computed Tomography (CT) Interpretation: Discrepancy Rates among Experienced Radiologists",
+            "volume": "20",
+            "author": "Abujudeh",
+            "year": "2010",
+            "journal-title": "European Radiology"
+        },
+        {
+            "key": "2022040814332269100_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1002/(SICI)1099-1255(199901/02)14:1<57::AID-JAE501>3.0.CO;2-G",
+            "article-title": "Jackknife Instrumental Variables Estimation",
+            "volume": "14",
+            "author": "Angrist",
+            "year": "1999",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2022040814332269100_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "127",
+            "DOI": "10.1257/000282806776157579",
+            "article-title": "An Alternative Test of Racial Prejudice in Motor Vehicle Searches: Theory and Evidence",
+            "volume": "96",
+            "author": "Anwar",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814332269100_bib6",
+            "doi-asserted-by": "crossref",
+            "article-title": "Measuring Racial Discrimination in Bail Decisions",
+            "author": "Arnold",
+            "year": "2020",
+            "DOI": "10.3386/w26999"
+        },
+        {
+            "key": "2022040814332269100_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1885",
+            "DOI": "10.1093/qje/qjy012",
+            "article-title": "Racial Bias in Bail Decisions",
+            "volume": "133",
+            "author": "Arnold",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814332269100_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1171",
+            "DOI": "10.1080/01621459.1997.10474074",
+            "article-title": "Bounds on Treatment Effects from Studies with Imperfect Compliance",
+            "volume": "92",
+            "author": "Balke",
+            "year": "1997",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022040814332269100_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1169",
+            "DOI": "10.1162/003355303322552775",
+            "article-title": "Managing with Style: The Effect of Managers on Firm Policies",
+            "volume": "118",
+            "author": "Bertrand",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814332269100_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1269",
+            "DOI": "10.1086/705330",
+            "article-title": "Incarceration, Recidivism, and Employment",
+            "volume": "128",
+            "author": "Bhuller",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814332269100_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1214/aoms/1177729032",
+            "article-title": "Equivalent Comparisons of Experiments",
+            "volume": "24",
+            "author": "Blackwell",
+            "year": "1953",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2022040814332269100_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "997",
+            "DOI": "10.3982/ECTA13565",
+            "article-title": "The Efficiency of Slacking Off: Evidence from the Emergency Department",
+            "volume": "86",
+            "author": "Chan",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814332269100_bib12",
+            "article-title": "Replication Data for: \u2018Selection with Variation in Diagnostic Skill: Evidence from Radiologists\u2019",
+            "author": "Chan",
+            "year": "2022"
+        },
+        {
+            "key": "2022040814332269100_bib13",
+            "first-page": "397",
+            "article-title": "Who Ordered That? The Economics of Treatment Choices in Medical Care",
+            "volume-title": "Handbook of Health Economics",
+            "author": "Chandra",
+            "year": "2011)"
+        },
+        {
+            "key": "2022040814332269100_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1086/512249",
+            "article-title": "Productivity Spillovers in Healthcare: Evidence from the Treatment of Heart Attacks",
+            "volume": "115",
+            "author": "Chandra",
+            "year": "2007",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814332269100_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "785",
+            "DOI": "10.1093/qje/qjz040",
+            "article-title": "Identifying Sources of Inefficiency in Health Care",
+            "volume": "135",
+            "author": "Chandra",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814332269100_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/687848",
+            "article-title": "Diagnosing Expertise: Human Capital, Decision Making, and Performance among Physicians",
+            "volume": "35",
+            "author": "Currie",
+            "year": "2017",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2022040814332269100_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1257/aer.20161503",
+            "article-title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+            "volume": "108",
+            "author": "Dobbie",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814332269100_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "866",
+            "DOI": "10.1016/j.jhealeco.2010.08.004",
+            "article-title": "Returns to Physician Human Capital: Evidence from Patients Randomized to Physician Teams",
+            "volume": "29",
+            "author": "Doyle",
+            "year": "2010",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "2022040814332269100_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "170",
+            "DOI": "10.1086/677756",
+            "article-title": "Measuring Returns to Hospital Care: Evidence from Ambulance Referral Patterns",
+            "volume": "123",
+            "author": "Doyle",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022040814332269100_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1126",
+            "DOI": "10.1016/j.jhealeco.2009.08.003",
+            "article-title": "The Formation and Evolution of Physician Treatment Styles: An Application to Cesarean Sections",
+            "volume": "28",
+            "author": "Epstein",
+            "year": "2009",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "2022040814332269100_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "361",
+            "DOI": "10.1016/j.diii.2018.04.007",
+            "article-title": "Radiology Residents\u2019 Skill Level in Chest X-Ray Reading",
+            "volume": "99",
+            "author": "Fabre",
+            "year": "2018",
+            "journal-title": "Diagnostic and Interventional Imaging"
+        },
+        {
+            "key": "2022040814332269100_bib22",
+            "article-title": "Would Eliminating Racial Disparities in Motor Vehicle Searches Have Efficiency Costs?",
+            "volume": "137",
+            "author": "Feigenberg",
+            "year": "2022",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814332269100_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1815",
+            "DOI": "10.1016/S0047-2727(03)00039-2",
+            "article-title": "Do High Grading Standards Affect Student Performance?",
+            "volume": "88",
+            "author": "Figlio",
+            "year": "2004",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2022040814332269100_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "130",
+            "DOI": "10.3810/pgm.2010.03.2130",
+            "article-title": "Burden of Community-Acquired Pneumonia in North American Adults",
+            "volume": "122",
+            "author": "File",
+            "year": "2010",
+            "journal-title": "Postgraduate Medicine"
+        },
+        {
+            "key": "2022040814332269100_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.7326/0003-4819-138-4-200302180-00006",
+            "article-title": "The Implications of Regional Variations in Medicare Spending. Part 1: The Content, Quality, and Accessibility of Care",
+            "volume": "138",
+            "author": "Fisher",
+            "year": "2003",
+            "journal-title": "Annals of Internal Medicine"
+        },
+        {
+            "key": "2022040814332269100_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.7326/0003-4819-138-4-200302180-00007",
+            "article-title": "The Implications of Regional Variations in Medicare Spending. Part 2: Health Outcomes and Satisfaction with Care",
+            "volume": "138",
+            "author": "Fisher",
+            "year": "2003",
+            "journal-title": "Annals of Internal Medicine"
+        },
+        {
+            "key": "2022040814332269100_bib27",
+            "doi-asserted-by": "crossref",
+            "article-title": "Judging Judge Fixed Effects",
+            "author": "Frandsen",
+            "year": "2019",
+            "DOI": "10.3386/w25528"
+        },
+        {
+            "key": "2022040814332269100_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.3982/ECTA15510",
+            "article-title": "Selecting Applicants",
+            "volume": "89",
+            "author": "Frankel",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814332269100_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1189",
+            "DOI": "10.1214/aos/1013203451",
+            "article-title": "Greedy Function Approximation: A Gradient Boosting Machine",
+            "volume": "29",
+            "author": "Friedman",
+            "year": "2001",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2022040814332269100_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1257/jep.22.4.27",
+            "article-title": "Is American Health Care Uniquely Inefficient?",
+            "volume": "22",
+            "author": "Garber",
+            "year": "2008",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2022040814332269100_bib31",
+            "doi-asserted-by": "crossref",
+            "article-title": "Physician Practice Style and Healthcare Costs: Evidence from Emergency Departments",
+            "author": "Gowrisankaran",
+            "year": "2017",
+            "DOI": "10.3386/w24155"
+        },
+        {
+            "key": "2022040814332269100_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1111/j.1468-0262.2005.00594.x",
+            "article-title": "Structural Equations, Treatment Effects, and Econometric Policy Evaluation",
+            "volume": "73",
+            "author": "Heckman",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814332269100_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.1093/qje/qjx042",
+            "article-title": "Discretion in Hiring",
+            "volume": "133",
+            "author": "Hoffman",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814332269100_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "article-title": "Identification and Estimation of Local Average Treatment Effects",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814332269100_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.2307/2971731",
+            "article-title": "Estimating Outcome Distributions for Compliers in Instrumental Variables Models",
+            "volume": "64",
+            "author": "Imbens",
+            "year": "1997",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814332269100_bib36",
+            "volume-title": "Variation in Health Care Spending: Target Decision Making, Not Geography",
+            "author": "Institute of Medicine",
+            "year": "2013"
+        },
+        {
+            "key": "2022040814332269100_bib37",
+            "volume-title": "Improving Diagnosis in Health Care",
+            "author": "Institute of Medicine",
+            "year": "2015"
+        },
+        {
+            "key": "2022040814332269100_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "2043",
+            "DOI": "10.3982/ECTA11974",
+            "article-title": "A Test for Instrument Validity",
+            "volume": "83",
+            "author": "Kitagawa",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022040814332269100_bib39",
+            "first-page": "237",
+            "article-title": "Human Decisions and Machine Predictions",
+            "volume": "133",
+            "author": "Kleinberg",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022040814332269100_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "863",
+            "DOI": "10.1257/aer.96.3.863",
+            "article-title": "Incarceration Length, Employment, and Earnings",
+            "volume": "96",
+            "author": "Kling",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022040814332269100_bib41",
+            "first-page": "1",
+            "article-title": "Deaths: Final Data for 2005",
+            "volume": "56",
+            "author": "Kung",
+            "year": "2008",
+            "journal-title": "National Vital Statistics Reports"
+        },
+        {
+            "key": "2022040814332269100_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "377",
+            "DOI": "10.1056/NEJM199102073240605",
+            "article-title": "The Nature of Adverse Events in Hospitalized Patients",
+            "volume": "324",
+            "author": "Leape",
+            "year": "1991",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2022040814332269100_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "522",
+            "DOI": "10.1016/j.jeconom.2018.04.007",
+            "article-title": "Instrumental Variables and the Sign of the Average Treatment Effect",
+            "volume": "212",
+            "author": "Machado",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022040814332269100_bib44",
+            "first-page": "326",
+            "article-title": "The Evolution of Physician Practice Styles: Evidence from Cardiologist Migration",
+            "volume": "10",
+            "author": "Molitor",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2022040814332269100_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1162/REST_a_00622",
+            "article-title": "Testing Local Average Treatment Effect Assumptions",
+            "volume": "99",
+            "author": "Mourifie",
+            "year": "2017",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2022040814332269100_bib46",
+            "first-page": "679",
+            "article-title": "A Machine Learning Approach to Low-Value Health Care: Wasted Tests, Missed Heart Attacks and Mis-Predictions",
+            "volume-title": "Quarterly Journal of Economics",
+            "author": "Mullainathan",
+            "year": "2022"
+        },
+        {
+            "key": "2022040814332269100_bib47",
+            "article-title": "Examiner Inconsistency: Evidence from Refugee Appeals",
+            "author": "Norris",
+            "year": "2019"
+        },
+        {
+            "key": "2022040814332269100_bib48",
+            "article-title": "Battling Antibiotic Resistance: Can Machine Learning Improve Prescribing?",
+            "author": "Ribers",
+            "year": "2019"
+        },
+        {
+            "key": "2022040814332269100_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "688",
+            "DOI": "10.1037/h0037350",
+            "article-title": "Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies",
+            "volume": "66",
+            "author": "Rubin",
+            "year": "1974",
+            "journal-title": "Journal of Educational Psychology"
+        },
+        {
+            "key": "2022040814332269100_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1264",
+            "DOI": "10.1016/S0140-6736(10)61459-6",
+            "article-title": "Viral Pneumonia",
+            "volume": "377",
+            "author": "Ruuskanen",
+            "year": "2011",
+            "journal-title": "Lancet"
+        },
+        {
+            "key": "2022040814332269100_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1016/j.ajem.2012.08.041",
+            "article-title": "High Discordance of Chest X-Ray and Computed Tomography for Detection of Pulmonary Opacities in ED Patients: Implications for Diagnosing Pneumonia",
+            "volume": "31",
+            "author": "Self",
+            "year": "2013",
+            "journal-title": "American Journal of Emergency Medicine"
+        },
+        {
+            "key": "2022040814332269100_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "2849",
+            "DOI": "10.1001/jama.289.21.2849",
+            "article-title": "Changes in Rates of Autopsy-Detected Diagnostic Errors Over Time: A Systematic Review",
+            "volume": "289",
+            "author": "Shojania",
+            "year": "2003",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2022040814332269100_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1385",
+            "DOI": "10.1093/restud/rdaa054",
+            "article-title": "Haste or Waste? Peer Pressure and Productivity in the Emergency Department",
+            "volume": "88",
+            "author": "Silver",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022040814332269100_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1257/jep.24.3.97",
+            "article-title": "Searching for Effective Teachers with Imperfect Information",
+            "volume": "24",
+            "author": "Staiger",
+            "year": "2010",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2022040814332269100_bib55",
+            "doi-asserted-by": "crossref",
+            "article-title": "Empirical Implications of Physician Authority in Pharmaceutical Decisionmaking",
+            "author": "Stern",
+            "year": "1998",
+            "DOI": "10.3386/w6851"
+        },
+        {
+            "key": "2022040814332269100_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1097/00005650-200003000-00003",
+            "article-title": "Incidence and Types of Adverse Events and Negligent Care in Utah and Colorado",
+            "volume": "38",
+            "author": "Thomas",
+            "year": "2000",
+            "journal-title": "Medical Care"
+        },
+        {
+            "key": "2022040814332269100_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1549",
+            "DOI": "10.1001/jamainternmed.2016.4433",
+            "article-title": "Physician Practice Style Variation: Implications for Policy",
+            "volume": "176",
+            "author": "Van Parys",
+            "year": "2016",
+            "journal-title": "JAMA Internal Medicine"
+        },
+        {
+            "key": "2022040814332269100_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.1111/1468-0262.00277",
+            "article-title": "Independence, Monotonicity, and Latent Index Models: An Equivalence Result",
+            "volume": "70",
+            "author": "Vytlacil",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjab048/42903019/qjab048.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/2/729/43336043/qjab048.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/137/2/729/43336043/qjab048.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T14:39:12Z",
+        "timestamp": 1649428752000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/137/2/729/6513421"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ]
+    },
+    "references-count": 58,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    1,
+                    21
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    4,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjab048",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                21
+            ]
+        ]
+    }
+}
