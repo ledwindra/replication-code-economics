@@ -1,0 +1,609 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                15
+            ]
+        ],
+        "date-time": "2022-11-15T06:12:22Z",
+        "timestamp": 1668492742390
+    },
+    "reference-count": 47,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2022-01-01T00:00:00Z",
+                "timestamp": 1640995200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000183",
+            "name": "Army Research Office",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper develops a model of Bayesian learning from online reviews and investigates the conditions for learning the quality of a product and the speed of learning under different rating systems. A rating system provides information about reviews left by previous customers. observe the ratings of a product and decide whether to purchase and review it. We study learning dynamics under two classes of rating systems: \n            <jats:italic>full history</jats:italic>, where customers see the full history of reviews, and \n            <jats:italic>summary statistics</jats:italic>, where the platform reports some summary statistics of past reviews. In both cases, learning dynamics are complicated by a \n            <jats:italic>selection effect</jats:italic>\u2014the types of users who purchase the good, and thus their overall satisfaction and reviews depend on the information available at the time of purchase. We provide conditions for complete learning and characterize and compare its speed under full history and summary statistics. We also show that providing more information does not always lead to faster learning, but strictly finer rating systems do.\n          </jats:p>",
+    "DOI": "10.3982/ecta15847",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                14
+            ]
+        ],
+        "date-time": "2022-11-14T13:47:18Z",
+        "timestamp": 1668433638000
+    },
+    "page": "2857-2899",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Learning From Reviews: The Selection Effect and the Speed of Learning"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Daron",
+            "family": "Acemoglu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Massachusetts Institute of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Ali",
+            "family": "Makhdoumi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Fuqua School of Business, Duke University"
+                }
+            ]
+        },
+        {
+            "given": "Azarakhsh",
+            "family": "Malekian",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Rotman School of Management, University of Toronto"
+                }
+            ]
+        },
+        {
+            "given": "Asuman",
+            "family": "Ozdaglar",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200509-bib-0001",
+            "first-page": "2825",
+            "volume-title": "Proceedings of the American Control Conference",
+            "author": "Acemoglu",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200509-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1201",
+            "DOI": "10.1093/restud/rdr004",
+            "volume": "78",
+            "author": "Acemoglu",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200509-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Acemoglu, Daron, Ali Makhdoumi, Azarakhsh Malekian, and Asu Ozdaglar (2022): \u201cSupplement to \u2018Learning From Reviews: The Selection Effect and the Speed of Learning\u2019,\u201d Econometrica Supplemental Material, 90, https://doi.org/10.3982/ECTA15847.",
+            "DOI": "10.3982/ECTA15847"
+        },
+        {
+            "key": "ecta200509-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "910",
+            "DOI": "10.1016/j.jet.2012.02.001",
+            "volume": "147",
+            "author": "Amador",
+            "year": "2012",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200509-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0899-8256(03)00048-4",
+            "volume": "46",
+            "author": "Banerjee",
+            "year": "2004",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200509-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.2307/2118364",
+            "volume": "107",
+            "author": "Banerjee",
+            "year": "1992",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200509-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1287/opre.2017.1676",
+            "volume": "66",
+            "author": "Besbes",
+            "year": "2018",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "ecta200509-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "992",
+            "DOI": "10.1086/261849",
+            "volume": "100",
+            "author": "Bikhchandani",
+            "year": "1992",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200509-bib-0009",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bohren, J. Aislinn, and Daniel Hauser (2017): \u201cBounded Rationality and Learning: A Framework and a Robustness Result,\u201d Working paper.",
+            "DOI": "10.2139/ssrn.2968460"
+        },
+        {
+            "key": "ecta200509-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "864",
+            "DOI": "10.1257/aer.99.3.864",
+            "volume": "99",
+            "author": "Cai",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200509-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1093/qje/qjx044",
+            "volume": "133",
+            "author": "Che",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200509-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1509/jmkr.43.3.345",
+            "volume": "43",
+            "author": "Chevalier",
+            "year": "2006",
+            "journal-title": "Journal of Marketing Research"
+        },
+        {
+            "key": "ecta200509-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "547",
+            "DOI": "10.1016/j.chb.2015.08.057",
+            "volume": "54",
+            "author": "Chua",
+            "year": "2016",
+            "journal-title": "Computers in Human Behavior"
+        },
+        {
+            "key": "ecta200509-bib-0014",
+            "volume-title": "Elements of Information Theory",
+            "author": "Cover",
+            "year": "2012"
+        },
+        {
+            "key": "ecta200509-bib-0015",
+            "unstructured": "Dasaratha, Krishna, and Kevin He (2019): \u201cAggregative Efficiency of Bayesian Learning in Networks,\u201d Working paper."
+        },
+        {
+            "key": "ecta200509-bib-0016",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Probability: Theory and Examples",
+            "author": "Durrett",
+            "year": "2010",
+            "DOI": "10.1017/CBO9780511779398"
+        },
+        {
+            "key": "ecta200509-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1007/BF01013465",
+            "volume": "55",
+            "author": "Etemadi",
+            "year": "1981",
+            "journal-title": "Zeitschrift f\u00fcr Wahrscheinlichkeitstheorie und Verwandte Gebiete"
+        },
+        {
+            "key": "ecta200509-bib-0018",
+            "first-page": "221",
+            "volume": "2",
+            "author": "Eyster",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "ecta200509-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "2281",
+            "DOI": "10.3982/ECTA16981",
+            "volume": "88",
+            "author": "Frick",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200509-bib-0020",
+            "unstructured": "Garg, Nikhil, and Ramesh Johari (2017): \u201cPairwise Comparisons for Online Reputation Systems,\u201d Preprint."
+        },
+        {
+            "key": "ecta200509-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-405X(85)90044-3",
+            "volume": "14",
+            "author": "Glosten",
+            "year": "1985",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "ecta200509-bib-0022",
+            "first-page": "112",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "ecta200509-bib-0023",
+            "volume-title": "Oxford Handbook of the Economics of Networks",
+            "author": "Golub",
+            "year": "2016"
+        },
+        {
+            "key": "ecta200509-bib-0024",
+            "first-page": "147",
+            "volume": "5",
+            "author": "Guarino",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "ecta200509-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1016/j.jet.2017.11.009",
+            "volume": "173",
+            "author": "Hann-Caruthers",
+            "year": "2018",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200509-bib-0026",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Harel, Matan, Elchanan Mossel, Philipp Strack, and Omer Tamuz (2014): \u201cWhen More Information Reduces the Speed of Learning,\u201d Available at SSRN 2541707.",
+            "DOI": "10.2139/ssrn.2541707"
+        },
+        {
+            "key": "ecta200509-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1892",
+            "DOI": "10.1093/restud/rdaa070",
+            "volume": "88",
+            "author": "H\u00f6rner",
+            "year": "2021",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200509-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "324",
+            "volume-title": "Proceedings of the 7th ACM Conference on Electronic Commerce",
+            "author": "Hu",
+            "year": "2006",
+            "DOI": "10.1145/1134707.1134743"
+        },
+        {
+            "key": "ecta200509-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.25300/MISQ/2017/41.2.06",
+            "volume": "41",
+            "author": "Hu",
+            "year": "2017",
+            "journal-title": "MIS Quarterly"
+        },
+        {
+            "key": "ecta200509-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "144",
+            "DOI": "10.1145/1562764.1562800",
+            "volume": "52",
+            "author": "Hu",
+            "year": "2009",
+            "journal-title": "Communications of the ACM"
+        },
+        {
+            "key": "ecta200509-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1209",
+            "DOI": "10.1287/opre.2019.1861",
+            "volume": "67",
+            "author": "Ifrach",
+            "year": "2019",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "ecta200509-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.3103/S1063454110030040",
+            "volume": "43",
+            "author": "Korchevsky",
+            "year": "2010",
+            "journal-title": "Vestnik St. Petersburg University: Mathematics"
+        },
+        {
+            "key": "ecta200509-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "456",
+            "DOI": "10.1287/isre.1070.0154",
+            "volume": "19",
+            "author": "Li",
+            "year": "2008",
+            "journal-title": "Information Systems Research"
+        },
+        {
+            "key": "ecta200509-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "807",
+            "DOI": "10.3982/TE1549",
+            "volume": "10",
+            "author": "Lobel",
+            "year": "2015",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200509-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "564",
+            "DOI": "10.1287/opre.2015.1364",
+            "volume": "64",
+            "author": "Lobel",
+            "year": "2015",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "ecta200509-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.1016/0165-1889(84)90023-X",
+            "volume": "7",
+            "author": "McLennan",
+            "year": "1984",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "ecta200509-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "127",
+            "DOI": "10.1007/s00440-013-0479-y",
+            "volume": "158",
+            "author": "Mossel",
+            "year": "2014",
+            "journal-title": "Probability Theory and Related Fields"
+        },
+        {
+            "key": "ecta200509-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "1755",
+            "DOI": "10.3982/ECTA12058",
+            "volume": "83",
+            "author": "Mossel",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200509-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "2141",
+            "DOI": "10.3982/ECTA15845",
+            "volume": "87",
+            "author": "Rosenberg",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200509-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1111/1468-0262.00113",
+            "volume": "68",
+            "author": "Smith",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200509-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "134",
+            "volume-title": "Proceedings of the 8th ACM Conference on Electronic Commerce",
+            "author": "Talwar",
+            "year": "2007",
+            "DOI": "10.1145/1250910.1250931"
+        },
+        {
+            "key": "ecta200509-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1016/0022-2496(71)90036-8",
+            "volume": "8",
+            "author": "Thomas",
+            "year": "1971",
+            "journal-title": "Journal of Mathematical Psychology"
+        },
+        {
+            "key": "ecta200509-bib-0043",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vellodi, Nikhil (2018): \u201cRatings Design and Barriers to Entry,\u201d Available at SSRN 3267061.",
+            "DOI": "10.2139/ssrn.3267061"
+        },
+        {
+            "key": "ecta200509-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.2307/2298060",
+            "volume": "60",
+            "author": "Vives",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200509-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "178",
+            "DOI": "10.1006/jeth.1995.1070",
+            "volume": "1",
+            "author": "Vives",
+            "year": "1995",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200509-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "695",
+            "DOI": "10.1111/j.1540-6261.1992.tb04406.x",
+            "volume": "47",
+            "author": "Welch",
+            "year": "1992",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "ecta200509-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "2763",
+            "DOI": "10.1257/aer.20170914",
+            "volume": "108",
+            "author": "Wolitzky",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                14
+            ]
+        ],
+        "date-time": "2022-11-14T13:54:34Z",
+        "timestamp": 1668434074000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA15847"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA15847"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta15847",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}

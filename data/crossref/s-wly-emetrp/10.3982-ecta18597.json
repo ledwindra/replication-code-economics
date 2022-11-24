@@ -1,0 +1,571 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                15
+            ]
+        ],
+        "date-time": "2022-11-15T06:11:09Z",
+        "timestamp": 1668492669353
+    },
+    "reference-count": 44,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2022-01-01T00:00:00Z",
+                "timestamp": 1640995200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We construct robust empirical Bayes confidence intervals (EBCIs) in a normal means problem. The intervals are centered at the usual linear empirical Bayes estimator, but use a critical value accounting for shrinkage. Parametric EBCIs that assume a normal distribution for the means (Morris (1983b)) may substantially undercover when this assumption is violated. In contrast, our EBCIs control coverage regardless of the means distribution, while remaining close in length to the parametric EBCIs when the means are indeed Gaussian. If the means are treated as fixed, our EBCIs have an average coverage guarantee: the coverage probability is at least 1\u2009\u2212\u2009\n            <jats:italic>\u03b1</jats:italic> on average across the \n            <jats:italic>n</jats:italic> EBCIs for each of the means. Our empirical application considers the effects of U.S. neighborhoods on intergenerational mobility.\n          </jats:p>",
+    "DOI": "10.3982/ecta18597",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                14
+            ]
+        ],
+        "date-time": "2022-11-14T13:47:18Z",
+        "timestamp": 1668433638000
+    },
+    "page": "2567-2602",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Robust Empirical Bayes Confidence Intervals"
+    ],
+    "prefix": "10.3982",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Timothy B.",
+            "family": "Armstrong",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Southern California"
+                }
+            ]
+        },
+        {
+            "given": "Michal",
+            "family": "Koles\u00e1r",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Mikkel",
+            "family": "Plagborg-M\u00f8ller",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "5",
+            "key": "ecta200502-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "743",
+            "DOI": "10.1162/rest_a_00812",
+            "volume": "101",
+            "author": "Abadie",
+            "year": "2019",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200502-bib-0002",
+            "unstructured": "Andrews, Isaiah, Toru Kitagawa, and Adam McCloskey (2021): \u201cInference on Winners,\u201d Unpublished manuscript, Harvard University."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200502-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1093/qje/qjx001",
+            "volume": "132",
+            "author": "Angrist",
+            "year": "2017",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200502-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.3982/ECTA14434",
+            "volume": "86",
+            "author": "Armstrong",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200502-bib-0005",
+            "unstructured": "Armstrong, Timothy B., Michal Koles\u00e1r, and Mikkel Plagborg-M\u00f8ller (2020): \u201cRobust Empirical Bayes Confidence Intervals,\u201d arXiv:2004.03448v2."
+        },
+        {
+            "key": "ecta200502-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Armstrong, Timothy B., Michal Koles\u00e1r, and Mikkel Plagborg-M\u00f8ller (2022): \u201cSupplement to \u2018Robust Empirical Bayes Confidence Intervals\u2019,\u201d Econometrica Supplemental Material, 90, https://doi.org/10.3982/ECTA18597.",
+            "DOI": "10.3982/ECTA18597"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200502-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.2517-6161.1995.tb02031.x",
+            "volume": "57",
+            "author": "Benjamini",
+            "year": "1995",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "issue": "469",
+            "key": "ecta200502-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1198/016214504000001907",
+            "volume": "100",
+            "author": "Benjamini",
+            "year": "2005",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200502-bib-0009",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bonhomme, St\u00e9phane, and Martin Weidner (2021): \u201cPosterior Average Effects,\u201d Journal of Business & Economic Statistics, forthcoming. https://doi.org/10.1080/07350015.2021.1984928.",
+            "DOI": "10.1080/07350015.2021.1984928"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200502-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1685",
+            "DOI": "10.1214/08-AOS630",
+            "volume": "37",
+            "author": "Brown",
+            "year": "2009",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "507",
+            "key": "ecta200502-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1054",
+            "DOI": "10.1080/01621459.2013.879260",
+            "volume": "109",
+            "author": "Cai",
+            "year": "2014",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200502-bib-0012",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Bayes and Empirical Bayes Methods for Data Analysis",
+            "author": "Carlin",
+            "year": "2000",
+            "edition": "second",
+            "DOI": "10.1201/9781420057669"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200502-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1214/10-STS319",
+            "volume": "27",
+            "author": "Casella",
+            "year": "2012",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200502-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1163",
+            "DOI": "10.1093/qje/qjy006",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "9",
+            "key": "ecta200502-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "2593",
+            "DOI": "10.1257/aer.104.9.2593",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200502-bib-0016",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction",
+            "author": "Efron",
+            "year": "2010",
+            "DOI": "10.1017/CBO9780511761362"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200502-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1111/rssb.12080",
+            "volume": "77",
+            "author": "Efron",
+            "year": "2015",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200502-bib-0018",
+            "first-page": "177",
+            "volume": "34",
+            "author": "Efron",
+            "year": "2019",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200502-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1056/NEJMp1613238",
+            "volume": "376",
+            "author": "Finkelstein",
+            "year": "2017",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "ecta200502-bib-0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Giacomini, Raffaella, Toru Kitagawa, and Harald Uhlig (2019): \u201cEstimation Under Ambiguity,\u201d Cemmap Working Paper 24/19.",
+            "DOI": "10.1920/wp.cem.2019.2419"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200502-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "224",
+            "DOI": "10.1214/19-STS709",
+            "volume": "34",
+            "author": "Greenshtein",
+            "year": "2019",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200502-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1016/j.jeconom.2015.09.003",
+            "volume": "190",
+            "author": "Hansen",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200502-bib-0023",
+            "unstructured": "Hull, Peter (2020): \u201cEstimating Hospital Quality With Quasi-Experimental Data,\u201d Unpublished manuscript, University of Chicago."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200502-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "758",
+            "DOI": "10.1214/17-AOS1634",
+            "volume": "47",
+            "author": "Hung",
+            "year": "2019",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200502-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ignatiadis, Nikolaos, and Stefan Wager (2021): \u201cConfidence Intervals for Nonparametric Empirical Bayes Analysis,\u201d Journal of the American Statistical Association, forthcoming. https://doi.org/10.1080/01621459.2021.2008403.",
+            "DOI": "10.1080/01621459.2021.2008403"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200502-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1086/522974",
+            "volume": "26",
+            "author": "Jacob",
+            "year": "2008",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "ecta200502-bib-0027",
+            "first-page": "361",
+            "volume-title": "Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability",
+            "volume": "1",
+            "author": "James",
+            "year": "1961"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200502-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "1647",
+            "DOI": "10.1214/08-AOS638",
+            "volume": "37",
+            "author": "Jiang",
+            "year": "2009",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200502-bib-0029",
+            "volume-title": "Gaussian Estimation: Sequence and Multiresolution Models",
+            "author": "Johnstone",
+            "year": "2019"
+        },
+        {
+            "key": "ecta200502-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kane, Thomas, and Douglas Staiger (2008): \u201cEstimating Teacher Impacts on Student Achievement: An Experimental Evaluation,\u201d. Technical Report 14607, National Bureau of Economic Research, Cambridge, MA. https://doi.org/10.3386/w14607.",
+            "DOI": "10.3386/w14607"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200502-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "887",
+            "DOI": "10.1214/aoms/1177728066",
+            "volume": "27",
+            "author": "Kiefer",
+            "year": "1956",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "issue": "506",
+            "key": "ecta200502-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "674",
+            "DOI": "10.1080/01621459.2013.869224",
+            "volume": "109",
+            "author": "Koenker",
+            "year": "2014",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200502-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.1214/15-AOS1371",
+            "volume": "44",
+            "author": "Lee",
+            "year": "2016",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200502-bib-0034",
+            "unstructured": "Liu, Laura, Hyungsik Roger Moon, and Frank Schorfheide (2022): \u201cForecasting With a Panel Tobit Model,\u201d arXiv:2110.14117."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200502-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1016/0304-4076(85)90158-7",
+            "volume": "29",
+            "author": "MacKinnon",
+            "year": "1985",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200502-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "volume-title": "Scientific Inference, Data Analysis, and Robustness",
+            "author": "Morris",
+            "year": "1983",
+            "DOI": "10.1016/B978-0-12-121160-8.50008-9"
+        },
+        {
+            "issue": "381",
+            "key": "ecta200502-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1080/01621459.1983.10477920",
+            "volume": "78",
+            "author": "Morris",
+            "year": "1983",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "404",
+            "key": "ecta200502-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "1134",
+            "DOI": "10.1080/01621459.1988.10478711",
+            "volume": "83",
+            "author": "Nychka",
+            "year": "1988",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200502-bib-0039",
+            "unstructured": "Pinelis, Iosif (2002): \u201cMonotonicity Properties of the Relative Error of a Pad\u00e9 Approximation for Mills' Ratio,\u201d Journal of Inequalities in Pure & Applied Mathematics, 3 (2), http://eudml.org/doc/122588."
+        },
+        {
+            "issue": "295",
+            "key": "ecta200502-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1080/01621459.1961.10480644",
+            "volume": "56",
+            "author": "Pratt",
+            "year": "1961",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200502-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1111/1467-9868.00346",
+            "volume": "64",
+            "author": "Storey",
+            "year": "2002",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200502-bib-0042",
+            "first-page": "133",
+            "volume": "45",
+            "author": "Wahba",
+            "year": "1983",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "key": "ecta200502-bib-0043",
+            "volume-title": "All of Nonparametric Statistics",
+            "author": "Wasserman",
+            "year": "2006"
+        },
+        {
+            "issue": "500",
+            "key": "ecta200502-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "1465",
+            "DOI": "10.1080/01621459.2012.728154",
+            "volume": "107",
+            "author": "Xie",
+            "year": "2012",
+            "journal-title": "Journal of the American Statistical Association"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                14
+            ]
+        ],
+        "date-time": "2022-11-14T13:50:20Z",
+        "timestamp": 1668433820000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18597"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18597"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta18597",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022
+            ]
+        ]
+    }
+}
