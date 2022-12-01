@@ -1,0 +1,936 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                9
+            ]
+        ],
+        "date-time": "2022-11-09T05:51:46Z",
+        "timestamp": 1667973106721
+    },
+    "reference-count": 74,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        2,
+                        18
+                    ]
+                ],
+                "date-time": "2022-02-18T00:00:00Z",
+                "timestamp": 1645142400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                7
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The problem of demand inversion\u2014a crucial step in the estimation of random utility discrete-choice models\u2014is equivalent to the determination of stable outcomes in two-sided matching models. This equivalence applies to random utility models that are not necessarily additive, smooth, nor even invertible. Based on this equivalence, algorithms for the determination of stable matchings provide effective computational methods for estimating these models. For non-invertible models, the identified set of utility vectors is a lattice, and the matching algorithms recover sharp upper and lower bounds on the utilities. Our matching approach facilitates estimation of models that were previously difficult to estimate, such as the pure characteristics model. An empirical application to voting data from the 1999 European Parliament elections illustrates the good performance of our matching-based demand inversion algorithms in practice.</jats:p>",
+    "DOI": "10.1093/restud/rdac006",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                10
+            ]
+        ],
+        "date-time": "2022-02-10T20:11:43Z",
+        "timestamp": 1644523903000
+    },
+    "page": "3085-3114",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Yogurts Choose Consumers? Estimation of Random-Utility Models via Two-Sided Matching"
+    ],
+    "prefix": "10.1093",
+    "volume": "89",
+    "author": [
+        {
+            "given": "Odran",
+            "family": "Bonnet",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "CREST and INSEE"
+                }
+            ]
+        },
+        {
+            "given": "Alfred",
+            "family": "Galichon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University and Sciences Po, Paris"
+                }
+            ]
+        },
+        {
+            "given": "Yu-Wei",
+            "family": "Hsieh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Amazon.com"
+                }
+            ]
+        },
+        {
+            "given": "Keith",
+            "family": "O\u2019Hara",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Amazon.com"
+                }
+            ]
+        },
+        {
+            "given": "Matt",
+            "family": "Shum",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "California Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                18
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022110815514277400_B1",
+            "first-page": "771",
+            "article-title": "Unobserved Product Differentiation in Discrete-Choice Models: Estimating Price Elasticities and Welfare Effects",
+            "volume": "36",
+            "author": "ACKERBERG,",
+            "year": "2005",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2022110815514277400_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1016/S0165-1765(99)00241-4",
+            "article-title": "On a Characterization of Stable Matchings",
+            "volume": "68",
+            "author": "ADACHI,",
+            "year": "2000",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2022110815514277400_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1519",
+            "DOI": "10.1111/1468-0262.00340",
+            "article-title": "Swapping the Nested Fixed Point Algorithm: A Class of Estimators for Discrete Markov Decision Models",
+            "volume": "70",
+            "author": "AGUIRREGABIRIA,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B4",
+            "article-title": "Discrete Choice Estimation of Risk Aversion",
+            "author": "APESTEGUIA,",
+            "year": "2014"
+        },
+        {
+            "key": "2022110815514277400_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1823",
+            "DOI": "10.3982/ECTA7743",
+            "article-title": "Conditional Choice Probability Estimation of Dynamic Discrete Choice Models with Unobserved Heterogeneity",
+            "volume": "79",
+            "author": "ARCIDIACONO,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1137/0216006",
+            "article-title": "Power Diagrams: Properties, Algorithms and Applications",
+            "volume": "16",
+            "author": "AURENHAMMER,",
+            "year": "1987",
+            "journal-title": "SIAM Journal on Computing"
+        },
+        {
+            "key": "2022110815514277400_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1331",
+            "DOI": "10.1111/j.1468-0262.2007.00796.x",
+            "article-title": "Estimating Dynamic Models of Imperfect Competition",
+            "volume": "75",
+            "author": "BAJARI,",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B8",
+            "first-page": "130",
+            "article-title": "Maximum Likelihood and Minimum $\\chi^2$ Estimates of the Logistic Function",
+            "volume": "50",
+            "author": "BERKSON,",
+            "year": "1955",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2022110815514277400_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2087",
+            "DOI": "10.3982/ECTA10135",
+            "article-title": "Connected Substitutes and Invertibility of Demand",
+            "volume": "81",
+            "author": "BERRY,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "article-title": "Automobile Prices in Market Equilibrium",
+            "volume": "63",
+            "author": "BERRY,",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1193",
+            "DOI": "10.1111/j.1468-2354.2007.00459.x",
+            "article-title": "The Pure Characteristics Demand Model",
+            "volume": "48",
+            "author": "BERRY,",
+            "year": "2007",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2022110815514277400_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "242",
+            "DOI": "10.2307/2555829",
+            "article-title": "Estimating Discrete-choice Models of Product Differentiation",
+            "volume": "25",
+            "author": "BERRY,",
+            "year": "1994",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2022110815514277400_B13",
+            "doi-asserted-by": "crossref",
+            "article-title": "Identification in Differentiated Products Markets",
+            "author": "BERRY,",
+            "year": "2015",
+            "DOI": "10.3386/w21500"
+        },
+        {
+            "key": "2022110815514277400_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1749",
+            "DOI": "10.3982/ECTA9027",
+            "article-title": "Identification in Differentiated Products Markets using Market Level Data",
+            "volume": "82",
+            "author": "BERRY,",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "7",
+            "DOI": "10.1007/BF00247653",
+            "article-title": "Auction Algorithms for Network Flow Problems: A Tutorial Introduction",
+            "volume": "1",
+            "author": "BERTSEKAS,",
+            "year": "1992",
+            "journal-title": "Computational Optimization and Applications"
+        },
+        {
+            "key": "2022110815514277400_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1007/BF02216923",
+            "article-title": "The Auction Algorithm for the Transportation Problem",
+            "volume": "20",
+            "author": "BERTSEKAS,",
+            "year": "1989",
+            "journal-title": "Annals of Operations Research"
+        },
+        {
+            "key": "2022110815514277400_B17",
+            "article-title": "Auction.Rcpp - R Wrapper to General Auction and Assignment Methods",
+            "author": "BONNET,",
+            "year": "2018"
+        },
+        {
+            "key": "2022110815514277400_B18",
+            "article-title": "Yogurts - Fast IPFP and MSA Methods for R",
+            "author": "BONNET,",
+            "year": "2018"
+        },
+        {
+            "key": "2022110815514277400_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1016/0304-4076(81)90027-0",
+            "article-title": "Departures from Marginal-Cost Pricing in the American Automobile Industry: Estimates for 1977\u20131978",
+            "volume": "17",
+            "author": "BRESNAHAN,",
+            "year": "1981",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022110815514277400_B20",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Assignment Problems",
+            "author": "BURKARD,",
+            "year": "2009",
+            "DOI": "10.1137/1.9780898717754"
+        },
+        {
+            "key": "2022110815514277400_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1965",
+            "DOI": "10.3982/ECTA14525",
+            "article-title": "Monte Carlo Confidence Sets for Identified Sets",
+            "volume": "86",
+            "author": "CHEN,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B22",
+            "article-title": "Single Market Nonparametric Identification of Multi-attribute Hedonic Equilibrium Models",
+            "author": "CHERNOZHUKOV,",
+            "year": "2019"
+        },
+        {
+            "key": "2022110815514277400_B23",
+            "article-title": "On the Nonparametric Identification of Multiple Choice Models",
+            "author": "CHIAPPORI,",
+            "year": "2009"
+        },
+        {
+            "key": "2022110815514277400_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.3982/QE436",
+            "article-title": "Duality in Dynamic Discrete Choice Models",
+            "volume": "7",
+            "author": "CHIONG,",
+            "year": "2016",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2022110815514277400_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "745",
+            "DOI": "10.1257/aer.97.3.745",
+            "article-title": "Estimating Risk Preferences from Deductible Choice",
+            "volume": "97",
+            "author": "COHEN,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022110815514277400_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.2307/1913320",
+            "article-title": "Job Matching with Heterogeneous Firms and Workers",
+            "volume": "49",
+            "author": "CRAWFORD,",
+            "year": "1981",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "873",
+            "DOI": "10.2307/1912658",
+            "article-title": "The Strategy Structure of Two-sided Matching Markets",
+            "volume": "53",
+            "author": "DEMANGE,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B28",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Bilevel Programming Problems: Theory, Algorithms and Applications to Energy Networks",
+            "author": "DEMPE,",
+            "year": "2015",
+            "DOI": "10.1007/978-3-662-45827-3"
+        },
+        {
+            "key": "2022110815514277400_B29",
+            "volume-title": "An Economic Theory of Democracy",
+            "author": "DOWNS,",
+            "year": "1957"
+        },
+        {
+            "key": "2022110815514277400_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1287/mksc.1030.0041",
+            "article-title": "Multiple Discreteness and Product Differentiation: Demand for Carbonated Soft Drinks",
+            "volume": "23",
+            "author": "DUB\u00c9,",
+            "year": "2004",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2022110815514277400_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "2231",
+            "DOI": "10.3982/ECTA8585",
+            "article-title": "Improving the Numerical Performance of Static and Dynamic Aggregate Discrete Choice Random Coefficients Demand Estimation",
+            "volume": "80",
+            "author": "DUB\u00c9,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "358",
+            "DOI": "10.1016/S0022-0531(04)00042-1",
+            "article-title": "Core Many-to-one Matchings by Fixed Point Methods",
+            "volume": "115",
+            "author": "ECHENIQUE,",
+            "year": "2004",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2022110815514277400_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "177",
+            "DOI": "10.1016/S0304-4076(98)00060-8",
+            "article-title": "Missing Price and Coupon Availability Data in Scanner Panels: Correcting for the Self-selection Bias in Choice Model Parameters",
+            "volume": "89",
+            "author": "ERDEM,",
+            "year": "1998",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022110815514277400_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "332",
+            "DOI": "10.1111/j.1756-2171.2007.tb00071.x",
+            "article-title": "Durable-goods Oligopoly with Secondary Markets: The Case of Automobiles",
+            "volume": "38",
+            "author": "ESTEBAN,",
+            "year": "2007",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "2022110815514277400_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1287/moor.28.1.103.14256",
+            "article-title": "A Fixed-point Approach to Stable Matchings and Some Applications",
+            "volume": "28",
+            "author": "FLEINER,",
+            "year": "2003",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2022110815514277400_B36",
+            "first-page": "100",
+            "article-title": "Measuring the Efficiency of an FCC Spectrum Auction",
+            "volume": "5",
+            "author": "FOX,",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2022110815514277400_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.1007/BF01360282",
+            "article-title": "The Jacobian Matrix and Global Univalence of Mappings",
+            "volume": "159",
+            "author": "GALE,",
+            "year": "1965",
+            "journal-title": "Mathematical Annals"
+        },
+        {
+            "key": "2022110815514277400_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1080/00029890.1962.11989827",
+            "article-title": "College Admissions and the Stability of Marriage",
+            "volume": "69",
+            "author": "GALE,",
+            "year": "1962",
+            "journal-title": "The American Mathematical Monthly"
+        },
+        {
+            "key": "2022110815514277400_B39",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Optimal Transport Methods in Economics",
+            "author": "GALICHON,",
+            "year": "2016",
+            "DOI": "10.23943/princeton/9780691172767.001.0001"
+        },
+        {
+            "key": "2022110815514277400_B40",
+            "article-title": "Aggregate Stable Matching with Money Burning",
+            "author": "GALICHON,",
+            "year": "2019"
+        },
+        {
+            "key": "2022110815514277400_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "2875",
+            "DOI": "10.1086/702020",
+            "article-title": "An Empirical Framework for Matching with Imperfectly Transferable Utility",
+            "volume": "127",
+            "author": "GALICHON,",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022110815514277400_B42",
+            "article-title": "Cupid\u2019s Invisible Hand: Social Surplus and Identification in Matching Models",
+            "author": "GALICHON,",
+            "year": "2015"
+        },
+        {
+            "key": "2022110815514277400_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "913",
+            "DOI": "10.1257/0002828054825466",
+            "article-title": "Matching with Contracts",
+            "volume": "95",
+            "author": "HATFIELD,",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022110815514277400_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1111/1467-937X.00093",
+            "article-title": "Estimating Multiple-discrete Choice Models: An Application to Computerization Returns",
+            "volume": "66",
+            "author": "HENDEL,",
+            "year": "1999",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2022110815514277400_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "494",
+            "DOI": "10.1111/j.1540-5907.2006.00198.x",
+            "article-title": "Dimensions of Politics in the European Parliament",
+            "volume": "50",
+            "author": "HIX,",
+            "year": "2006",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2022110815514277400_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.2307/2298122",
+            "article-title": "Conditional Choice Probabilities and the Estimation of Dynamic Models",
+            "volume": "60",
+            "author": "HOTZ,",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2022110815514277400_B47",
+            "article-title": "A Semiparametric Discrete-Choice Aggregate Demand Model",
+            "author": "HSIEH,",
+            "year": "2019"
+        },
+        {
+            "key": "2022110815514277400_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1263",
+            "DOI": "10.3982/ECTA6649",
+            "article-title": "What Happens When Wal-Mart Comes to Town: An Empirical Analysis of the Discount Retailing Industry",
+            "volume": "76",
+            "author": "JIA-BARWICK,",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1483",
+            "DOI": "10.2307/1913392",
+            "article-title": "Job Matching, Coalition Formation, and Gross Substitutes",
+            "volume": "50",
+            "author": "KELSO,",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B50",
+            "article-title": "Adaptive Rank Inference in Semiparametric Multinomial Response Models",
+            "author": "KHAN,",
+            "year": "2016"
+        },
+        {
+            "key": "2022110815514277400_B51",
+            "article-title": "CCP and the Estimation of Nonseparable Dynamic Models",
+            "author": "KRISTENSEN,",
+            "year": "2014"
+        },
+        {
+            "key": "2022110815514277400_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/j.econlet.2016.10.019",
+            "article-title": "Revisiting the Nested Fixed-point Algorithm in BLP Random Coefficients Demand Estimation",
+            "volume": "149",
+            "author": "LEE,",
+            "year": "2016",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2022110815514277400_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "801",
+            "DOI": "10.1111/1468-0262.00306",
+            "article-title": "Identifying Dynamic Discrete Decision Processes",
+            "volume": "70",
+            "author": "MAGNAC,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022110815514277400_B54",
+            "volume-title": "Nonlinear Programming",
+            "author": "MANGASARIAN,",
+            "year": "1969"
+        },
+        {
+            "key": "2022110815514277400_B55",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/S1573-4412(07)06073-4",
+            "article-title": "Nonparametric Identification",
+            "volume": "6b",
+            "author": "MATZKIN,",
+            "year": "2007",
+            "journal-title": "Handbook of Econometrics"
+        },
+        {
+            "key": "2022110815514277400_B56",
+            "volume-title": "Modelling the Choice of Residential Location",
+            "author": "MCFADDEN,",
+            "year": "1978"
+        },
+        {
+            "key": "2022110815514277400_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1002/1099-1255(200009/10)15:5<447::AID-JAE570>3.0.CO;2-1",
+            "article-title": "Mixed MNL Models for Discrete Response",
+            "volume": "15",
+            "author": "MCFADDEN,",
+            "year": "2000",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2022110815514277400_B58",
+            "first-page": "1238",
+            "article-title": "Identification and Estimation of Preference Distributions When Voters Are Ideological",
+            "volume": "84",
+            "author": "MERLO,",
+            "year": "2017",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022110815514277400_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.3982/QE252",
+            "article-title": "On the Surjectivity of the Mapping between Utilities and Choice Probabilities",
+            "volume": "4",
+            "author": "NORETS,",
+            "year": "2013",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2022110815514277400_B60",
+            "article-title": "Competition and Quality Choice in the CPU Market",
+            "author": "NOSKO,",
+            "year": "2010"
+        },
+        {
+            "key": "2022110815514277400_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1090/S0002-9947-1959-0116352-7",
+            "article-title": "Natural Operations on Differential Forms",
+            "volume": "92",
+            "author": "PALAIS,",
+            "year": "1959",
+            "journal-title": "Transactions of the American Mathematical Society"
+        },
+        {
+            "key": "2022110815514277400_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1287/opre.2015.1377",
+            "article-title": "A Constructive Approach to Estimating Pure Characteristics Demand Models with Pricing",
+            "volume": "63",
+            "author": "PANG,",
+            "year": "2015",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2022110815514277400_B63",
+            "doi-asserted-by": "crossref",
+            "volume-title": "On Global Univalence Theorems",
+            "author": "PARTHASARATHY,",
+            "year": "1983",
+            "DOI": "10.1007/BFb0065566"
+        },
+        {
+            "key": "2022110815514277400_B64",
+            "volume-title": "Computational Optimal Transport",
+            "author": "PEYR\u00c9,",
+            "year": "2017"
+        },
+        {
+            "key": "2022110815514277400_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "378",
+            "DOI": "10.2307/3003293",
+            "article-title": "Sequential Location among Firms with Foresight",
+            "volume": "8",
+            "author": "PRESCOTT,",
+            "year": "1977",
+            "journal-title": "The Bell Journal of Economics"
+        },
+        {
+            "key": "2022110815514277400_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "951",
+            "DOI": "10.1016/0362-546X(80)90007-3",
+            "article-title": "Global Inversion Theorems and Applications to Differential Equations",
+            "volume": "92",
+            "author": "RADULESCU,",
+            "year": "1980",
+            "journal-title": "Nonlinear Analysis: Theory, Methods & Applications"
+        },
+        {
+            "key": "2022110815514277400_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "991",
+            "DOI": "10.1086/261272",
+            "article-title": "The Evolution of the Labor Market for Medical Interns and Residents: A Case Study in Game Theory",
+            "volume": "92",
+            "author": "ROTH,",
+            "year": "1984",
+            "journal-title": "The Journal of Political Economy"
+        },
+        {
+            "key": "2022110815514277400_B68",
+            "volume-title": "Two-sided Matching: A Study in Game-theoretic Modeling and Analysis",
+            "author": "ROTH,",
+            "year": "1992"
+        },
+        {
+            "key": "2022110815514277400_B69",
+            "volume-title": "Algorithms",
+            "author": "SEDGEWICK,",
+            "year": "2011"
+        },
+        {
+            "key": "2022110815514277400_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1007/BF01753437",
+            "article-title": "The Assignment Game I: The Core",
+            "volume": "1",
+            "author": "SHAPLEY,",
+            "year": "1971",
+            "journal-title": "International Journal of Game Theory"
+        },
+        {
+            "key": "2022110815514277400_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1111/j.1756-2171.2007.tb00076.x",
+            "article-title": "Measuring Consumer Welfare in the CPU Market: An Application of the Pure-Characteristics Demand Model",
+            "volume": "38",
+            "author": "SONG,",
+            "year": "2007",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2022110815514277400_B72",
+            "volume-title": "Supermodularity and Complementarity",
+            "author": "TOPKIS,",
+            "year": "1998"
+        },
+        {
+            "key": "2022110815514277400_B73",
+            "volume-title": "Lecture Notes in Supply-Chain Optimization",
+            "author": "VEINOTT,",
+            "year": "2005"
+        },
+        {
+            "key": "2022110815514277400_B74",
+            "article-title": "General Auction Method for Real-valued Optimal Transport",
+            "author": "WALSH,",
+            "year": "2017"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac006/42980856/rdac006.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/6/3085/46869442/rdac006.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/89/6/3085/46869442/rdac006.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2022-11-08T17:41:49Z",
+        "timestamp": 1667929309000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/89/6/3085/6530412"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                18
+            ]
+        ]
+    },
+    "references-count": 74,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    2,
+                    18
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    11,
+                    7
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac006",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                2,
+                18
+            ]
+        ]
+    }
+}

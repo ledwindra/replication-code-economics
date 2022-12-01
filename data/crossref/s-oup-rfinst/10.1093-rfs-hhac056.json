@@ -1,0 +1,705 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                23
+            ]
+        ],
+        "date-time": "2022-11-23T05:51:29Z",
+        "timestamp": 1669182689122
+    },
+    "reference-count": 45,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "12",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        18
+                    ]
+                ],
+                "date-time": "2022-08-18T00:00:00Z",
+                "timestamp": 1660780800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                17
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Financial intermediaries often provide guarantees resembling out-of-the-money put options, exposing them to undiversifiable tail risk. We present a model in the context of the U.S. life insurance industry in which the regulatory framework incentivizes value-maximizing insurers to hedge variable annuity (VA) guarantees, though imperfectly, and shifts risks into high-risk and illiquid bonds. We calibrate the model to insurer-level data and identify the VA-induced changes in insurers\u2019 risk exposures. In the event of major asset and guarantee shocks and absent regulatory intervention, these shared exposures exacerbate system-wide fire sales to maintain capital ratios, plausibly erasing over half of insurers\u2019 equity capital.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhac056",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                18
+            ]
+        ],
+        "date-time": "2022-08-18T13:38:30Z",
+        "timestamp": 1660829910000
+    },
+    "page": "5483-5534",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Insurers as Asset Managers and Systemic Risk"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Andrew",
+            "family": "Ellul",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Indiana University , CSEF, CEPR and ECGI, USA"
+                }
+            ]
+        },
+        {
+            "given": "Chotibhak",
+            "family": "Jotikasthira",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Southern Methodist University , USA"
+                }
+            ]
+        },
+        {
+            "given": "Anastasia",
+            "family": "Kartasheva",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of St. Gallen , Switzerland"
+                }
+            ]
+        },
+        {
+            "given": "Christian T",
+            "family": "Lundblad",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of North Carolina , Chapel Hill, USA"
+                }
+            ]
+        },
+        {
+            "given": "Wolf",
+            "family": "Wagner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Rotterdam School of Management and CEPR , the Netherlands"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                18
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "2022112207523850700_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1093/rfs/hhw088",
+            "article-title": "Measuring systemic risk",
+            "volume": "30",
+            "author": "Acharya,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022112207523850700_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "515",
+            "DOI": "10.1016/j.jfineco.2012.09.004",
+            "article-title": "Securitization without risk transfer",
+            "volume": "107",
+            "author": "Acharya,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022112207523850700_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "418",
+            "DOI": "10.1016/j.jfi.2008.12.002",
+            "article-title": "Liquidity and leverage",
+            "volume": "19",
+            "author": "Adrian,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Intermediation"
+        },
+        {
+            "key": "2022112207523850700_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1093/rfs/hht068",
+            "article-title": "Procyclical leverage and value-at-risk",
+            "volume": "27",
+            "author": "Adrian,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022112207523850700_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "519",
+            "DOI": "10.1016/j.jfineco.2011.07.003",
+            "article-title": "Asset commonality, debt maturity and systemic risk",
+            "volume": "104",
+            "author": "Allen,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022112207523850700_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1016/j.jedc.2014.02.010",
+            "article-title": "Cross-hedging minimum return guarantees: Basis and liquidity risks",
+            "volume": "41",
+            "author": "Ankirchner,",
+            "year": "2014",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2022112207523850700_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1515/apjri-2019-0040",
+            "article-title": "Hedging of variable annuities under basis risk",
+            "volume": "14",
+            "author": "Bauer,",
+            "year": "2020",
+            "journal-title": "Asia-Pacific Journal of Risk and Insurance"
+        },
+        {
+            "key": "2022112207523850700_B8",
+            "doi-asserted-by": "crossref",
+            "article-title": "Regulatory forbearance in the U.S. insurance industry: The effects of eliminating capital requirements",
+            "author": "Becker,",
+            "year": "2022",
+            "journal-title": "Review of Financial Studies",
+            "DOI": "10.1093/rfs/hhab102"
+        },
+        {
+            "key": "2022112207523850700_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.1111/jori.12042",
+            "article-title": "External financing in the life insurance industry: Evidence from the financial crisis",
+            "volume": "81",
+            "author": "Berry-Stolzle,",
+            "year": "2014",
+            "journal-title": "Journal of Risk and Insurance"
+        },
+        {
+            "key": "2022112207523850700_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1016/j.jfineco.2011.12.010",
+            "article-title": "Econometric measures of connectedness and systemic risk in the finance and insurance sectors",
+            "volume": "104",
+            "author": "Billio,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022112207523850700_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.1093/rfs/hhw060",
+            "article-title": "SRISK: A conditional capital shortfall index for systemic risk assessment",
+            "volume": "30",
+            "author": "Brownlees,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022112207523850700_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1093/rapstu/rav006",
+            "article-title": "Price contagion through balance sheet linkages",
+            "volume": "5",
+            "author": "Capponi,",
+            "year": "2015",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2022112207523850700_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1509",
+            "DOI": "10.1093/rfs/hhaa061",
+            "article-title": "Asset insulators",
+            "volume": "34",
+            "author": "Chodorow-Reich,",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022112207523850700_B14",
+            "volume-title": "Asset Pricing",
+            "author": "Cochrane,",
+            "year": "2005"
+        },
+        {
+            "key": "2022112207523850700_B15",
+            "article-title": "In safe hands: The financial and real impact of investor composition over the credit cycle",
+            "author": "Coppola,",
+            "year": "2021"
+        },
+        {
+            "key": "2022112207523850700_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.2307/2937829",
+            "article-title": "Rational insurance purchasing: Consideration of contract nonperformance",
+            "volume": "105",
+            "author": "Doherty,",
+            "year": "1990",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022112207523850700_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.1111/jofi.13010",
+            "article-title": "Fire-sale spillovers and systemic risk",
+            "volume": "76",
+            "author": "Duarte,",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022112207523850700_B18",
+            "article-title": "Conflicting interests and fiduciary duty: Evidence from variable annuities",
+            "author": "Egan,",
+            "year": "2021"
+        },
+        {
+            "key": "2022112207523850700_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "596",
+            "DOI": "10.1016/j.jfineco.2011.03.020",
+            "article-title": "Regulatory pressure and fire sales in the corporate bond market",
+            "volume": "101",
+            "author": "Ellul,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022112207523850700_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2489",
+            "DOI": "10.1111/jofi.12357",
+            "article-title": "Is historical cost accounting a panacea? Market stress, incentive distortions, and gains trading",
+            "volume": "70",
+            "author": "Ellul,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022112207523850700_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1016/j.jfineco.2021.05.050",
+            "article-title": "Portfolio similarity and asset liquidation in the insurance industry",
+            "volume": "142",
+            "author": "Girardi,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022112207523850700_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "471",
+            "DOI": "10.1016/j.jfineco.2014.11.006",
+            "article-title": "Vulnerable banks",
+            "volume": "115",
+            "author": "Greenwood,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022112207523850700_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "5309",
+            "DOI": "10.1093/rfs/hhaa145",
+            "article-title": "When selling becomes viral: Disruptions in debt markets in the COVID-19 crisis and the Fed\u2019s response",
+            "volume": "34",
+            "author": "Haddad,",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022112207523850700_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.1162/0033553041382184",
+            "article-title": "Product differentiation, search costs, and competition in the mutual fund industry: A case study of S&P 500 index funds",
+            "volume": "119",
+            "author": "Hortacsu,",
+            "year": "2004",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022112207523850700_B25",
+            "article-title": "A discussion of Actuarial Guideline 43 for variable annuities",
+            "author": "Junus,",
+            "year": "2009"
+        },
+        {
+            "key": "2022112207523850700_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "675",
+            "DOI": "10.1111/jofi.12750",
+            "article-title": "An explanation of negative swap spreads: Demand for duration from underfunded pension plans",
+            "volume": "74",
+            "author": "Klinger,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022112207523850700_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1257/aer.20121036",
+            "article-title": "The cost of financial frictions for life insurers",
+            "volume": "105",
+            "author": "Koijen,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022112207523850700_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1265",
+            "DOI": "10.3982/ECTA12401",
+            "article-title": "Shadow insurance",
+            "volume": "84",
+            "author": "Koijen,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022112207523850700_B29",
+            "doi-asserted-by": "crossref",
+            "article-title": "Risk of life insurers: Recent trends and transmission mechanisms",
+            "volume-title": "The Economics, Regulation, and Systemic Risk of Insurance Markets",
+            "author": "Koijen,",
+            "year": "2017",
+            "DOI": "10.3386/w23365"
+        },
+        {
+            "key": "2022112207523850700_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/jofi.13118",
+            "article-title": "The fragility of market risk insurance",
+            "volume": "77",
+            "author": "Koijen,",
+            "year": "2022",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022112207523850700_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.2308/accr.2008.83.5.1251",
+            "article-title": "Are asset securitizations sales or loans?",
+            "volume": "83",
+            "author": "Landsman,",
+            "year": "2008",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2022112207523850700_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1575",
+            "DOI": "10.1111/j.1540-6261.2008.01369.x",
+            "article-title": "Back to the beginning: Persistence and the cross-section of corporate capital structure",
+            "volume": "63",
+            "author": "Lemmon,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022112207523850700_B33",
+            "article-title": "Basis risk in variable annuities",
+            "author": "Li,",
+            "year": "2021"
+        },
+        {
+            "key": "2022112207523850700_B34",
+            "article-title": "Update on the insurance industry\u2019s use of derivatives and exposure trends",
+            "year": "2021",
+            "journal-title": "Capital markets special report."
+        },
+        {
+            "key": "2022112207523850700_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1111/jori.12143",
+            "article-title": "Managing capital via internal capital market transactions:The case of life insurers",
+            "volume": "85",
+            "author": "Niehaus,",
+            "year": "2018",
+            "journal-title": "Journal of Risk and Insurance"
+        },
+        {
+            "key": "2022112207523850700_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.1506/X652-8M45-1702-7424",
+            "article-title": "Are securitizations in substance sales or secured borrowings? Capital market evidence",
+            "volume": "23",
+            "author": "Nui,",
+            "year": "2006",
+            "journal-title": "Contemporary Accounting Research"
+        },
+        {
+            "key": "2022112207523850700_B37",
+            "article-title": "Social inflation",
+            "author": "Oh,",
+            "year": "2021"
+        },
+        {
+            "key": "2022112207523850700_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1111/j.1475-679X.2008.00281.x",
+            "article-title": "Marking-to-market: Panacea or Pandora\u2019s box?",
+            "volume": "46",
+            "author": "Plantin,",
+            "year": "2008",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2022112207523850700_B39",
+            "article-title": "Glimpse: Variable annuity guaranteed living benefit election tracking (2016, 4th quarter)",
+            "author": "Radu,",
+            "year": "2017",
+            "journal-title": "Report, U.S. LIMRA, Windsor, CT"
+        },
+        {
+            "key": "2022112207523850700_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1111/j.1540-6261.2006.00829.x",
+            "article-title": "Investment and financing constraints: Evidence from the funding of corporate pension plans",
+            "volume": "61",
+            "author": "Rauh,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022112207523850700_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "2687",
+            "DOI": "10.1093/rfs/hhn068",
+            "article-title": "Risk shifting versus risk management: Investment policy in corporate pension plans",
+            "volume": "22",
+            "author": "Rauh,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022112207523850700_B42",
+            "article-title": "Regulatory limits to risk management",
+            "author": "Sen,",
+            "year": "",
+            "journal-title": "Review of Financial Studies."
+        },
+        {
+            "key": "2022112207523850700_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1093/qje/qjr054",
+            "article-title": "Monetary policy as financial-stability regulation",
+            "volume": "127",
+            "author": "Stein,",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022112207523850700_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/j.jfi.2009.07.002",
+            "article-title": "Diversification at financial institutions and systemic crises",
+            "volume": "19",
+            "author": "Wagner,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Intermediation"
+        },
+        {
+            "key": "2022112207523850700_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1141",
+            "DOI": "10.1111/j.1540-6261.2011.01666.x",
+            "article-title": "Systemic liquidation risk and the diversity\u2013diversification trade-off",
+            "volume": "66",
+            "author": "Wagner,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhac056/45623948/hhac056.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/12/5483/47175870/hhac056.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/12/5483/47175870/hhac056.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                22
+            ]
+        ],
+        "date-time": "2022-11-22T07:53:25Z",
+        "timestamp": 1669103605000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/12/5483/6671240"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                18
+            ]
+        ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+        "issue": "12",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    18
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    11,
+                    17
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhac056",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                18
+            ]
+        ]
+    }
+}

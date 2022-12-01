@@ -1,0 +1,1076 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                28
+            ]
+        ],
+        "date-time": "2022-11-28T14:32:22Z",
+        "timestamp": 1669645942530
+    },
+    "reference-count": 80,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "11",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        19
+                    ]
+                ],
+                "date-time": "2022-05-19T00:00:00Z",
+                "timestamp": 1652918400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                18
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We apply a machine-learning algorithm, calibrated using general human vision, to predict the visual salience of prices of stock price charts. We hypothesize that the visual salience of adjacent prices increases the decision weights on returns computed from those prices. We analyze the inferred impact of these weights in two experimental studies that use either historical price charts or simpler artificial sequences. We find that decision weights derived from visual salience are associated with experimental investments. The predictability is not subsumed by statistical features and goes beyond established models.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhac027",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                19
+            ]
+        ],
+        "date-time": "2022-05-19T12:08:42Z",
+        "timestamp": 1652962122000
+    },
+    "page": "5094-5126",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Decision Weights for Experimental Asset Prices Based on Visual Salience"
+    ],
+    "prefix": "10.1093",
+    "volume": "35",
+    "author": [
+        {
+            "given": "Devdeepta",
+            "family": "Bose",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "California Institute of Technology , USA"
+                }
+            ]
+        },
+        {
+            "given": "Henning",
+            "family": "Cordes",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of M\u00fcnster , Germany"
+                }
+            ]
+        },
+        {
+            "given": "Sven",
+            "family": "Nolte",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Institute for Management Research, Radboud University Nijmegen , The Netherlands"
+                }
+            ]
+        },
+        {
+            "given": "Judith Christiane",
+            "family": "Schneider",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Institute for Risk and Insurance, Leibniz University Hannover , Germany"
+                }
+            ]
+        },
+        {
+            "given": "Colin Farrell",
+            "family": "Camerer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "California Institute of Technology , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                19
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022101812464078300_B1",
+            "first-page": "396",
+            "article-title": "Biasing simple choices by manipulating relative visual attention",
+            "volume": "3",
+            "author": "Armel,",
+            "year": "2008",
+            "journal-title": "Judgment and Decision Making"
+        },
+        {
+            "key": "2022101812464078300_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "82",
+            "DOI": "10.1016/j.inffus.2019.12.012",
+            "article-title": "Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI",
+            "volume": "58",
+            "author": "Arrieta,",
+            "year": "2020",
+            "journal-title": "Information Fusion"
+        },
+        {
+            "key": "2022101812464078300_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "11",
+            "DOI": "10.1108/S0193-230620140000017002",
+            "article-title": "Experiments on expectations in macroeconomics and finance",
+            "volume": "17",
+            "author": "Assenza,",
+            "year": "2014",
+            "journal-title": "Experiments in Macroeconomics"
+        },
+        {
+            "key": "2022101812464078300_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "649",
+            "DOI": "10.1016/j.neunet.2009.12.007",
+            "article-title": "Of bits and wows: A Bayesian theory of surprise with applications to attention",
+            "volume": "23",
+            "author": "Baldi,",
+            "year": "2010",
+            "journal-title": "Neural Networks"
+        },
+        {
+            "key": "2022101812464078300_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1016/j.jfineco.2010.08.014",
+            "article-title": "Maxing out: Stocks as lotteries and the cross-section of expected returns",
+            "volume": "99",
+            "author": "Bali,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "785",
+            "DOI": "10.1093/rfs/hhm079",
+            "article-title": "All that glitters: The effect of attention and news on the buying behavior of individual and institutional investors",
+            "volume": "21",
+            "author": "Barber,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022101812464078300_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.08.007",
+            "article-title": "X-CAPM: An extrapolative capital asset pricing model",
+            "volume": "115",
+            "author": "Barberis,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "3068",
+            "DOI": "10.1093/rfs/hhw049",
+            "article-title": "Prospect theory and stock returns: An empirical test",
+            "volume": "29",
+            "author": "Barberis,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022101812464078300_B9",
+            "first-page": "307",
+            "article-title": "A model of investor sentiment",
+            "volume": "49",
+            "author": "Barberis,",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B10",
+            "first-page": "1",
+            "article-title": "Principles and practice of explainable machine learning",
+            "volume": "39",
+            "author": "Belle,",
+            "year": "2021",
+            "journal-title": "Frontiers in Big Data"
+        },
+        {
+            "key": "2022101812464078300_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "397",
+            "DOI": "10.1016/S0304-405X(02)00147-2",
+            "article-title": "Predicting the next step of a random walk: Experimental evidence of regime-shifting beliefs",
+            "volume": "65",
+            "author": "Bloomfield,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1093/qje/qjs018",
+            "article-title": "Salience theory of choice under risk",
+            "volume": "127",
+            "author": "Bordalo,",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022101812464078300_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "623",
+            "DOI": "10.1257/aer.103.3.623",
+            "article-title": "Salience and asset prices",
+            "volume": "103",
+            "author": "Bordalo,",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022101812464078300_B14",
+            "article-title": "Cat2000: A large scale fixation dataset for boosting saliency research",
+            "author": "Borji,",
+            "year": "2015"
+        },
+        {
+            "key": "2022101812464078300_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1163/156856897X00357",
+            "article-title": "The psychophysics toolbox",
+            "volume": "10",
+            "author": "Brainard,",
+            "year": "1997",
+            "journal-title": "Spatial Vision"
+        },
+        {
+            "key": "2022101812464078300_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1016/S0304-405X(02)00148-4",
+            "article-title": "Market efficiency in real time",
+            "volume": "65",
+            "author": "Busse,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "740",
+            "DOI": "10.1109/TPAMI.2018.2815601",
+            "article-title": "What do different evaluation metrics tell us about saliency models",
+            "volume": "41",
+            "author": "Bylinskii,",
+            "year": "2018",
+            "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        },
+        {
+            "key": "2022101812464078300_B18",
+            "first-page": "27",
+            "article-title": "Cognition and framing in sequential bargaining for gains and losses",
+            "volume": "104",
+            "author": "Camerer,",
+            "year": "1993",
+            "journal-title": "Frontiers of Game Theory"
+        },
+        {
+            "key": "2022101812464078300_B19",
+            "volume-title": "Behavioral economics: Past, present and future",
+            "author": "Camerer,",
+            "year": "2003"
+        },
+        {
+            "key": "2022101812464078300_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "4345",
+            "DOI": "10.1093/rfs/hhx139",
+            "article-title": "Extrapolation bias and the predictability of stock returns by price-scaled variables",
+            "volume": "31",
+            "author": "Cassella,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022101812464078300_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1059",
+            "DOI": "10.1017/S0022109018000121",
+            "article-title": "Crash sensitivity and the cross section of expected stock returns",
+            "volume": "53",
+            "author": "Chabi-Yo,",
+            "year": "2018",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022101812464078300_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/S0304-405X(01)00066-6",
+            "article-title": "Forecasting crashes: Trading volume, past returns, and conditional skewness in stock prices",
+            "volume": "61",
+            "author": "Chen,",
+            "year": "2001",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "860",
+            "DOI": "10.1257/aer.20131314",
+            "article-title": "Evidence for countercyclical risk aversion: An experiment with financial professionals",
+            "volume": "105",
+            "author": "Cohn,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022101812464078300_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "455",
+            "DOI": "10.1016/j.jfineco.2014.04.001",
+            "article-title": "Death and jackpot: Why do individual investors hold overpriced stocks",
+            "volume": "113",
+            "author": "Conrad,",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "5142",
+            "DOI": "10.1109/TIP.2018.2851672",
+            "article-title": "Predicting human eye fixations via an LSTM-based Saliency Attentive Model",
+            "volume": "27",
+            "author": "Cornia,",
+            "year": "2018",
+            "journal-title": "IEEE Transactions on Image Processing"
+        },
+        {
+            "key": "2022101812464078300_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "460",
+            "DOI": "10.1016/j.jfineco.2020.12.012",
+            "article-title": "Salience theory and stock prices: Empirical evidence",
+            "volume": "40",
+            "author": "Cosemans,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1461",
+            "DOI": "10.1111/j.1540-6261.2011.01679.x",
+            "article-title": "In search of attention",
+            "volume": "66",
+            "author": "Da,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022101812464078300_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jfineco.2020.10.003",
+            "article-title": "Extrapolative beliefs in the cross-section: What can we learn from the crowds",
+            "volume": "140",
+            "author": "Da,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1029",
+            "DOI": "10.1093/restud/rdx033",
+            "article-title": "What motivates effort? Evidence and expert forecasts",
+            "volume": "85",
+            "author": "DellaVigna,",
+            "year": "2017",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2022101812464078300_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.joep.2006.01.003",
+            "article-title": "Framing effects and risk perception: The effect of prior performance presentation format on investment fund choice",
+            "volume": "28",
+            "author": "Diacon,",
+            "year": "2007",
+            "journal-title": "Journal of Economic Psychology"
+        },
+        {
+            "key": "2022101812464078300_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "741",
+            "DOI": "10.1109/TRPMS.2021.3066428",
+            "article-title": "On interpretability of artificial neural networks: A survey",
+            "volume": "5",
+            "author": "Fan,",
+            "year": "2021",
+            "journal-title": "IEEE Transactions on Radiation and Plasma Medical Sciences"
+        },
+        {
+            "key": "2022101812464078300_B32",
+            "article-title": "The role of salience and attention in choice under risk: An experimental investigation",
+            "author": "Frydman,",
+            "year": "2017"
+        },
+        {
+            "key": "2022101812464078300_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "2145",
+            "DOI": "10.1111/j.1540-6261.2004.00695.x",
+            "article-title": "The 52-week high and momentum investing",
+            "volume": "59",
+            "author": "George,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022101812464078300_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2997",
+            "DOI": "10.1111/jofi.12835",
+            "article-title": "Thinking about prices versus thinking about returns in financial markets",
+            "volume": "74",
+            "author": "Glaser,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022101812464078300_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1093/rof/rfm008",
+            "article-title": "Framing effects in stock market forecasts: The difference between asking for prices and asking for returns",
+            "volume": "11",
+            "author": "Glaser,",
+            "year": "2007",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2022101812464078300_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1002/bdm.1753",
+            "article-title": "Data collection in a flat world: The strengths and weaknesses of Mechanical Turk samples",
+            "volume": "26",
+            "author": "Goodman,",
+            "year": "2013",
+            "journal-title": "Journal of Behavioral Decision Making"
+        },
+        {
+            "key": "2022101812464078300_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1515/jafio-2015-0017",
+            "article-title": "Visual attention and choice: A behavioral economics perspective on food decisions",
+            "volume": "13",
+            "author": "Grebitus,",
+            "year": "2015",
+            "journal-title": "Journal of Agricultural and Food Industrial Organization"
+        },
+        {
+            "key": "2022101812464078300_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1093/rfs/hht082",
+            "article-title": "Expectations of returns and expected returns",
+            "volume": "27",
+            "author": "Greenwood,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022101812464078300_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "397",
+            "DOI": "10.1016/j.jbankfin.2017.09.021",
+            "article-title": "All\u2019s well that ends well? On the importance of how returns are achieved",
+            "volume": "87",
+            "author": "Grosshans,",
+            "year": "2018",
+            "journal-title": "Journal of Banking and Finance"
+        },
+        {
+            "key": "2022101812464078300_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "3467",
+            "DOI": "10.1093/rfs/hhu061",
+            "article-title": "Media makes momentum",
+            "volume": "27",
+            "author": "Hillert,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2022101812464078300_B41",
+            "article-title": "Distilling the knowledge in a neural network",
+            "author": "Hinton,",
+            "year": "2015"
+        },
+        {
+            "key": "2022101812464078300_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "76",
+            "DOI": "10.1007/s10683-018-09598-4",
+            "article-title": "Scale matters: Risk perception, return expectations, and investment propensity under different scalings",
+            "volume": "22",
+            "author": "Huber,",
+            "year": "2018",
+            "journal-title": "Experimental Economics"
+        },
+        {
+            "key": "2022101812464078300_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1287/mnsc.1080.0920",
+            "article-title": "Volume and price patterns around a stock\u2019s 52-week highs and lows: Theory and evidence",
+            "volume": "55",
+            "author": "Huddart,",
+            "year": "2009",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2022101812464078300_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1295",
+            "DOI": "10.1016/j.visres.2008.09.007",
+            "article-title": "Bayesian surprise attracts human attention",
+            "volume": "49",
+            "author": "Itti,",
+            "year": "2009",
+            "journal-title": "Vision Research"
+        },
+        {
+            "key": "2022101812464078300_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1489",
+            "DOI": "10.1016/S0042-6989(99)00163-7",
+            "article-title": "A saliency-based search mechanism for overt and covert shifts of visual attention",
+            "volume": "40",
+            "author": "Itti,",
+            "year": "2000",
+            "journal-title": "Vision Research"
+        },
+        {
+            "key": "2022101812464078300_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1111/j.1540-6261.1993.tb04702.x",
+            "article-title": "Returns to buying winners and selling losers: Implications for stock market efficiency",
+            "volume": "48",
+            "author": "Jegadeesh,",
+            "year": "1993",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022101812464078300_B47",
+            "first-page": "1072",
+            "article-title": "Salicon: Saliency in context",
+            "author": "Jiang,",
+            "year": "2015",
+            "journal-title": "The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+        },
+        {
+            "key": "2022101812464078300_B48",
+            "article-title": "A benchmark of computational models of saliency to predict human fixations",
+            "author": "Judd,",
+            "year": "2012"
+        },
+        {
+            "key": "2022101812464078300_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "2106",
+            "DOI": "10.1109/ICCV.2009.5459462",
+            "article-title": "Learning to predict where humans look",
+            "author": "Judd,",
+            "year": "2009",
+            "journal-title": "2009 IEEE 12th International Conference on Computer Vision"
+        },
+        {
+            "key": "2022101812464078300_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "430",
+            "DOI": "10.1016/0010-0285(72)90016-3",
+            "article-title": "Subjective probability: A judgment of representativeness",
+            "volume": "3",
+            "author": "Kahneman,",
+            "year": "1972",
+            "journal-title": "Cognitive Psychology"
+        },
+        {
+            "key": "2022101812464078300_B51",
+            "doi-asserted-by": "crossref",
+            "article-title": "On the psychology of prediction",
+            "author": "Kahneman,",
+            "year": "1973",
+            "journal-title": "Psychological Review",
+            "DOI": "10.1037/h0034747"
+        },
+        {
+            "key": "2022101812464078300_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "614",
+            "DOI": "10.1017/psrm.2020.6",
+            "article-title": "The shape of and solutions to the MTurk quality crisis",
+            "volume": "8",
+            "author": "Kennedy,",
+            "year": "2020",
+            "journal-title": "Political Science Research and Methods"
+        },
+        {
+            "key": "2022101812464078300_B53",
+            "doi-asserted-by": "crossref",
+            "article-title": "Visual fixations and the computation and comparison of value in simple choice",
+            "author": "Krajbich,",
+            "year": "2010",
+            "journal-title": "Nature Neuroscience",
+            "DOI": "10.1038/nn.2635"
+        },
+        {
+            "key": "2022101812464078300_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "13852",
+            "DOI": "10.1073/pnas.1101328108",
+            "article-title": "Multialternative drift-diffusion model predicts the relationship between visual fixations and choice in value-based decisions",
+            "volume": "108",
+            "author": "Krajbich,",
+            "year": "2011",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2022101812464078300_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1889",
+            "DOI": "10.1111/j.1540-6261.2009.01483.x",
+            "article-title": "Who gambles in the stock market",
+            "volume": "64",
+            "author": "Kumar,",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022101812464078300_B56",
+            "doi-asserted-by": "crossref",
+            "article-title": "Overreaction in expectations: Evidence and theory",
+            "author": "Afrouzi,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3709548"
+        },
+        {
+            "key": "2022101812464078300_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.3758/s13428-012-0226-9",
+            "article-title": "Methods for comparing scanpaths and saliency maps: Strengths and weaknesses",
+            "volume": "45",
+            "author": "Le Meur,",
+            "year": "2013",
+            "journal-title": "Behavior Research Methods"
+        },
+        {
+            "key": "2022101812464078300_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1016/j.jfineco.2011.04.003",
+            "article-title": "Investor attention, psychological anchors, and stock return predictability",
+            "volume": "104",
+            "author": "Li,",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B59",
+            "article-title": "Predictable effects of bottom-up visual salience in experimental decisions and games",
+            "author": "Li,",
+            "year": "",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022101812464078300_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1145/3236386.3241340",
+            "article-title": "The mythos of model interpretability",
+            "volume": "16",
+            "author": "Lipton,",
+            "year": "2018",
+            "journal-title": "Queue"
+        },
+        {
+            "key": "2022101812464078300_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "883",
+            "DOI": "10.1017/S0022109010000311",
+            "article-title": "Idiosyncratic risk, long-term reversal, and momentum",
+            "volume": "45",
+            "author": "McLean,",
+            "year": "2010",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2022101812464078300_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "767",
+            "DOI": "10.1080/09603100802199679",
+            "article-title": "Highs and lows: A behavioural and technical analysis",
+            "volume": "19",
+            "author": "Mizrach,",
+            "year": "2009",
+            "journal-title": "Applied Financial Economics"
+        },
+        {
+            "key": "2022101812464078300_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1007/s11147-021-09175-7",
+            "article-title": "Idiosyncratic volatility, option-based measures of informed trading, and investor attention",
+            "volume": "24",
+            "author": "Mohrschladt,",
+            "year": "2021",
+            "journal-title": "Review of Derivatives Research"
+        },
+        {
+            "key": "2022101812464078300_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1037/dec0000049",
+            "article-title": "Implications of visual attention phenomena for models of preferential choice",
+            "volume": "3",
+            "author": "Mullett,",
+            "year": "2016",
+            "journal-title": "Decision"
+        },
+        {
+            "key": "2022101812464078300_B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1016/j.jebo.2018.07.018",
+            "article-title": "How price path characteristics shape investment behavior",
+            "volume": "154",
+            "author": "Nolte,",
+            "year": "2018",
+            "journal-title": "Journal of Economic Behavior and Organization"
+        },
+        {
+            "key": "2022101812464078300_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "1279",
+            "DOI": "10.1257/aer.89.5.1279",
+            "article-title": "Do investors trade too much",
+            "volume": "89",
+            "author": "Odean,",
+            "year": "1999",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022101812464078300_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.1163/156856897X00366",
+            "article-title": "The Video Toolbox software for visual psychophysics: Transforming numbers into movies",
+            "volume": "10",
+            "author": "Pelli,",
+            "year": "1997",
+            "journal-title": "Spatial Vision"
+        },
+        {
+            "key": "2022101812464078300_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1257/aer.103.3.617",
+            "article-title": "An approach to incorporating psychology into economics",
+            "volume": "103",
+            "author": "Rabin,",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022101812464078300_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "964",
+            "DOI": "10.1086/644762",
+            "article-title": "The long and short of it: Why are stocks with shorter runs preferred",
+            "volume": "36",
+            "author": "Raghubir,",
+            "year": "2010",
+            "journal-title": "Journal of Consumer Research"
+        },
+        {
+            "key": "2022101812464078300_B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1007/978-3-319-98131-4_2",
+            "article-title": "Explanation methods in deep learning: Users, values, concerns and challenges",
+            "volume-title": "Explainable and interpretable models in computer vision and machine learning",
+            "author": "Ras,",
+            "year": "2018"
+        },
+        {
+            "key": "2022101812464078300_B71",
+            "first-page": "2863",
+            "article-title": "Who are the crowdworkers?: Shifting demographics in mechanical turk",
+            "author": "Ross,",
+            "year": "2010",
+            "journal-title": "CHI\u201910 Extended Abstracts on Human Factors in Computing Systems"
+        },
+        {
+            "key": "2022101812464078300_B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "344",
+            "DOI": "10.3758/BF03193412",
+            "article-title": "An examination of the seductive details effect in terms of working memory capacity",
+            "volume": "34",
+            "author": "Sanchez,",
+            "year": "2006",
+            "journal-title": "Memory and Cognition"
+        },
+        {
+            "key": "2022101812464078300_B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "1903",
+            "DOI": "10.1111/jofi.12286",
+            "article-title": "Arbitrage asymmetry and the idiosyncratic volatility puzzle",
+            "volume": "70",
+            "author": "Stambaugh,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2022101812464078300_B74",
+            "volume-title": "Essays in the history of economics",
+            "author": "Stigler,",
+            "year": "1965"
+        },
+        {
+            "key": "2022101812464078300_B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "E3858",
+            "DOI": "10.1073/pnas.1304429110",
+            "article-title": "Simultaneous modeling of visual saliency and value computation improves predictions of economic choice",
+            "volume": "110",
+            "author": "Towal,",
+            "year": "2013",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2022101812464078300_B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1007/BF00122574",
+            "article-title": "Cumulative prospect theory: An analysis of decision under uncertainty",
+            "volume": "5",
+            "author": "Tversky,",
+            "year": "1992",
+            "journal-title": "Journal of Risk and Uncertainty"
+        },
+        {
+            "key": "2022101812464078300_B77",
+            "doi-asserted-by": "crossref",
+            "article-title": "Stock returns and the cross-section of investor attention",
+            "author": "Ungeheuer,",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.2931547"
+        },
+        {
+            "key": "2022101812464078300_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1111/j.1539-6924.2005.00627.x",
+            "article-title": "Communicating asset risk: How name recognition and the format of historic volatility information affect risk perception and investment decisions",
+            "volume": "25",
+            "author": "Weber,",
+            "year": "2005",
+            "journal-title": "Risk Analysis: An International Journal"
+        },
+        {
+            "key": "2022101812464078300_B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1038/s41562-017-0058",
+            "article-title": "Five factors that guide attention in visual search",
+            "volume": "1",
+            "author": "Wolfe,",
+            "year": "2017",
+            "journal-title": "Nature Human Behaviour"
+        },
+        {
+            "key": "2022101812464078300_B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1037/a0029383",
+            "article-title": "Losses as modulators of attention: Review and analysis of the unique effects of losses over gains",
+            "volume": "139",
+            "author": "Yechiam,",
+            "year": "2013",
+            "journal-title": "Psychological Bulletin"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhac027/44137305/hhac027.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/11/5094/46558747/hhac027.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/35/11/5094/46558747/hhac027.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                18
+            ]
+        ],
+        "date-time": "2022-10-18T12:55:12Z",
+        "timestamp": 1666097712000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/35/11/5094/6588699"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Tarun",
+            "family": "Ramadorai",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                19
+            ]
+        ]
+    },
+    "references-count": 80,
+    "journal-issue": {
+        "issue": "11",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    5,
+                    19
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    18
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhac027",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                19
+            ]
+        ]
+    }
+}
