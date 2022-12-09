@@ -1,0 +1,1305 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                8
+            ]
+        ],
+        "date-time": "2022-12-08T06:02:07Z",
+        "timestamp": 1670479327011
+    },
+    "reference-count": 227,
+    "publisher": "American Economic Association",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> Economic models often depend on quantities that are unobservable, either for privacy reasons or because they are difficult to measure. Examples of such variables include human capital (or ability), personal income, unobserved heterogeneity (such as consumer \u201ctypes\u201d), et cetera. This situation has historically been handled either by simply using observable imperfect proxies for each of the unobservables, or by assuming that such unobservables satisfy convenient conditional mean or independence assumptions that enable their elimination from the estimation problem. However, thanks to tremendous increases in both the amount of data available and computing power, it has become possible to take full advantage of recent formal methods to infer the statistical properties of unobservable variables from multiple imperfect measurements of them. The general framework used is the concept of measurement systems in which a vector of observed variables is expressed as a (possibly nonlinear or nonparametric) function of a vector of all unobserved variables (including unobserved error terms or \u201cdisturbances\u201d that may have nonadditively separable affects). The framework emphasizes important connections with related fields, such as nonlinear panel data, limited dependent variables, game theoretic models, dynamic models, and set identification. This review reports the progress made toward the central question of whether there exist plausible assumptions under which one can identify the joint distribution of the unobservables from the knowledge of the joint distribution of the observables. It also overviews empirical efforts aimed at exploiting such identification results to deliver novel findings that formally account for the unavoidable presence of unobservables. (JEL C30, C55, C57, D12, E21, E23, J24) </jats:p>",
+    "DOI": "10.1257/jel.20211355",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2022-12-07T14:57:22Z",
+        "timestamp": 1670425042000
+    },
+    "page": "1223-1263",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Measurement Systems"
+    ],
+    "prefix": "10.1257",
+    "volume": "60",
+    "author": [
+        {
+            "given": "Susanne",
+            "family": "Schennach",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Brown University."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ectj.12065"
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466617000469"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2019.09.002"
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2525934"
+        },
+        {
+            "key": "p_5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdaa067"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00470"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Aigner, Dennis J., Cheng Hsiao, Arie Kapteyn, and Tom Wansbeek. 1984. \"Latent Variable Models in Econometrics.\" in Handbook of Econometrics, Vol. 2, edited by Zvi Griliches and Michael D. Intriligator, 1321-93. Amsterdam: Elsevier Science.",
+            "DOI": "10.1016/S1573-4412(84)02015-8"
+        },
+        {
+            "key": "p_8",
+            "first-page": "3099",
+            "author": "Allman Elizabeth S",
+            "year": "2009",
+            "journal-title": "Annals of Statistics 37 (6A)"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(85)90001-6"
+        },
+        {
+            "key": "p_10",
+            "unstructured": "Anderson, T. W., and Herman Rubin. 1956. \"Statistical Inference in Factor Analysis.\" In Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability, Vol. 5, edited by Jerzy Neyman, 111-50. Berkeley: University of California Press."
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2017.05.011"
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2010.02.002"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdr045"
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ectj.12062"
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA13795"
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00371"
+        },
+        {
+            "key": "p_18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Athey, Susan, and Philip A. Haile. 2007. \"Nonparametric Approaches to Auctions.\" In Handbook of Econometrics, Vol. 6 Part A, edited by James J. Heckman and Edward E. Leamer, 3847-3965. Amsterdam: Elsevier Science.",
+            "DOI": "10.1016/S1573-4412(07)06060-6"
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdaa026"
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20150183"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2013.10.010"
+        },
+        {
+            "key": "p_22",
+            "unstructured": "Bedard, Michael. 2019. \"Efficient Estimation with Latent Variables.\" PhD diss. Brown University."
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S026646661700007X"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA8680"
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.1950.10483349"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.2000.10474262"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Blundell, Richard, Joel Horowitz, and Matthias Parey. 2018. \"Estimation of A Nonseparable Heterogeneous Demand Function with Shape Restrictions and Berkson Errors.\" Centre for Microdata Methods and Practice Working Paper 67/18.",
+            "DOI": "10.1920/wp.cem.2018.6718"
+        },
+        {
+            "key": "p_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0304-4076(95)01730-5"
+        },
+        {
+            "key": "p_29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/209899"
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2008.12.019"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-937X.2009.00577.x"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/15-AOS1376"
+        },
+        {
+            "key": "p_33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/rssb.12110"
+        },
+        {
+            "key": "p_34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA7637"
+        },
+        {
+            "key": "p_35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/298256"
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bound, John, Charles Brown, and Nancy Mathiowetz. 2001. \"Measurement Error in Survey Data.\" In Handbook of Econometrics. Vol. 5, edited by James J. Heckman and Edward Leamer, 3705-3843. Amsterdam: Elsevier Science.",
+            "DOI": "10.1016/S1573-4412(01)05012-7"
+        },
+        {
+            "issue": "2",
+            "key": "p_37",
+            "first-page": "99",
+            "volume": "58",
+            "author": "Brainard William C",
+            "year": "1968",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "p_38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.99.2.99"
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1368-423X.2004.00144.x"
+        },
+        {
+            "key": "p_40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/15-AOS1401"
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S026646661000040X"
+        },
+        {
+            "key": "p_42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Carrasco, Marine, Jean-Pierre Florens, and Eric Renault. 2007. \"Linear Inverse Problems and Structural Econometrics Estimation Based on Spectral Decomposition and Regularization.\" In Handbook of Econometrics, Vol. 6 Part B, edited by James J. Heckman and Edward E. Leamer, 5633-5751. Amsterdam: Elsevier Science.",
+            "DOI": "10.1016/S1573-4412(07)06077-1"
+        },
+        {
+            "key": "p_43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-9868.2007.00614.x"
+        },
+        {
+            "key": "p_44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.1988.10478718"
+        },
+        {
+            "key": "p_45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1198/016214504000001088"
+        },
+        {
+            "key": "p_46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Carroll, Raymond J., David Ruppert, Leonard A. Stefanski, and Ciprian M. Crainiceanu. 2006. Measurement Error in Nonlinear Models: A Modern Perspective. 2nd ed. Boca Raton, FL: Chapman and Hall.",
+            "DOI": "10.1201/9781420010138"
+        },
+        {
+            "key": "p_47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10485250902874688"
+        },
+        {
+            "key": "p_48",
+            "unstructured": "Chandrasekhar, Arun, Victor Chernozhukov, Francesca Molinari, and Paul Schrimpf. 2012. \"Inference for Best Linear Approximations to Set Identified Functions.\" Centre for Microdata Methods and Practice Working Paper CWP43/12."
+        },
+        {
+            "key": "p_49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1467-9868.00118"
+        },
+        {
+            "key": "p_50",
+            "unstructured": "Cheng, Chi-Lun, and John W. Van Ness. 1999. Statistical Regression with Measurement Error. London: Arnold."
+        },
+        {
+            "key": "p_51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, Xiaohong. 2007. \"Large Sample Sieve Estimation of Semi-Nonparametric Models.\" In Handbook of Econometrics, Vol. 6B, edited by James J. Heckman and Edward E. Leamer, 5549-5632. Amsterdam: Elsevier.",
+            "DOI": "10.1016/S1573-4412(07)06076-X"
+        },
+        {
+            "key": "p_52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/009053607000000947"
+        },
+        {
+            "key": "p_53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.49.4.901"
+        },
+        {
+            "key": "p_54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-937X.2005.00335.x"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2017.06.013"
+        },
+        {
+            "key": "p_56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.econlet.2008.03.015"
+        },
+        {
+            "key": "p_57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.spl.2007.12.024"
+        },
+        {
+            "issue": "3",
+            "key": "p_58",
+            "first-page": "949",
+            "volume": "19",
+            "author": "Chen Xiaohong",
+            "year": "2009",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "key": "p_59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2006.06.002"
+        },
+        {
+            "key": "p_60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2007.00794.x"
+        },
+        {
+            "key": "p_61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/biomet/78.3.451"
+        },
+        {
+            "key": "p_62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00454"
+        },
+        {
+            "key": "p_63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2017.06.007"
+        },
+        {
+            "key": "p_64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE240"
+        },
+        {
+            "key": "p_65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1467-937X.00209"
+        },
+        {
+            "key": "p_66",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466612000321"
+        },
+        {
+            "key": "p_67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA5368"
+        },
+        {
+            "key": "p_68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ectj.12068"
+        },
+        {
+            "key": "p_69",
+            "unstructured": "Connault, Benjamin. 2014. \"Hidden Rust Models.\" https://economics.sas.upenn.edu/sites/default/files/ filevault/event_papers/connault_JMP.pdf."
+        },
+        {
+            "key": "p_70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/3087456"
+        },
+        {
+            "key": "p_71",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1353/jhr.2008.0019"
+        },
+        {
+            "key": "p_72",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA6551"
+        },
+        {
+            "key": "p_73",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(95)01789-5"
+        },
+        {
+            "key": "p_74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA6539"
+        },
+        {
+            "key": "p_75",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2015.08.005"
+        },
+        {
+            "key": "p_76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/cjs.5550350109"
+        },
+        {
+            "key": "p_77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1198/016214507000000987"
+        },
+        {
+            "key": "p_78",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/009053607000000884"
+        },
+        {
+            "key": "p_79",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-9868.2006.00540.x"
+        },
+        {
+            "key": "p_80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466610000368"
+        },
+        {
+            "key": "p_81",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2015.06.022"
+        },
+        {
+            "key": "p_82",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.12.013"
+        },
+        {
+            "key": "p_83",
+            "unstructured": "Dunford, Nelson, and Jacob T. Schwartz. 1971. Linear Operators. 3 vols. NY: John Wiley & Sons."
+        },
+        {
+            "key": "p_84",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jmva.2010.03.011"
+        },
+        {
+            "key": "p_85",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00199-008-0432-y"
+        },
+        {
+            "key": "p_86",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2951770"
+        },
+        {
+            "key": "p_87",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/317670"
+        },
+        {
+            "key": "p_88",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466602183101"
+        },
+        {
+            "key": "p_89",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2014.05.011"
+        },
+        {
+            "key": "p_90",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhr120"
+        },
+        {
+            "key": "p_91",
+            "unstructured": "Evdokimov, Kirill. 2009. \"Identification and Estimation of a Nonparametric Panel Data Model with Unobserved Heterogeneity.\" https://citeseerx.ist.psu.edu/ viewdoc/download?doi=10.1.1.182.8651&rep=rep1 &type=pdf."
+        },
+        {
+            "key": "p_92",
+            "unstructured": "Evdokimov, Kirill S, and Andrei Zeleneev. 2022. \"Simple Estimation of Semiparametric Models with Measurement Errors.\" Centre for Microdata Methods and Practice Working Paper CWP08/22."
+        },
+        {
+            "key": "p_93",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466611000831"
+        },
+        {
+            "issue": "1",
+            "key": "p_94",
+            "first-page": "97",
+            "volume": "53",
+            "author": "Fan Jianqing",
+            "year": "1991",
+            "journal-title": "Sankhy: The Indian Journal of Statistics: Series A"
+        },
+        {
+            "key": "p_95",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176348248"
+        },
+        {
+            "key": "p_96",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176349402"
+        },
+        {
+            "key": "p_97",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdx052"
+        },
+        {
+            "key": "p_98",
+            "unstructured": "Frisch, Ragnar. 1934. Statistical Confluence Analysis by Means of Complete Regression Systems. Oslo, Norway: University Institute of Economics."
+        },
+        {
+            "key": "p_99",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fuller, Wayne A. 1987. Measurement Error Models. New York: John Wiley & Sons.",
+            "DOI": "10.1002/9780470316665"
+        },
+        {
+            "key": "p_100",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2013.07.001"
+        },
+        {
+            "key": "p_101",
+            "first-page": "63",
+            "volume": "47",
+            "author": "Geary R. C.",
+            "year": "1942",
+            "journal-title": "Proceedings of the Royal Irish Academy, Section A: Mathematical and Physical Sciences"
+        },
+        {
+            "key": "p_102",
+            "unstructured": "Gel'fand, I. M., and G. E. Shilov. 1964. Generalized Functions. New York: Academic Press."
+        },
+        {
+            "key": "p_103",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2017.06.004"
+        },
+        {
+            "key": "p_104",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(86)90058-8"
+        },
+        {
+            "key": "p_105",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1913020"
+        },
+        {
+            "key": "p_106",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00123"
+        },
+        {
+            "key": "p_107",
+            "unstructured": "Gunsilius, Florian, and Susanne M. Schennach. 2019. \"Independent Nonlinear Component Analysis.\" Centre for Microdata Methods and Practice Working Paper CWP46/19."
+        },
+        {
+            "key": "p_108",
+            "first-page": "04",
+            "volume": "2022",
+            "author": "Gunsilius Florian F",
+            "year": "2022",
+            "journal-title": "Journal of Econometrics. https://doi. org/10.1016/j.jeconom."
+        },
+        {
+            "key": "p_109",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/009053605000000714"
+        },
+        {
+            "key": "p_110",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1046294462"
+        },
+        {
+            "key": "p_111",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/03610926.2011.620214"
+        },
+        {
+            "key": "p_112",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1198/tast.2009.09051"
+        },
+        {
+            "key": "p_113",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1912775"
+        },
+        {
+            "key": "p_114",
+            "doi-asserted-by": "crossref",
+            "unstructured": "H\u00e4rdle, Wolfgang, and Oliver Linton. 1994. \"Applied Nonparametric Methods.\" In Handbook of Econometrics, Vol. 4, edited by Robert F. Engle and Daniel L. McFadden, 2295-2339. Amsterdam: Elsevier.",
+            "DOI": "10.1016/S1573-4412(05)80007-8"
+        },
+        {
+            "key": "p_115",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jep.15.4.57"
+        },
+        {
+            "key": "p_116",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1911406"
+        },
+        {
+            "key": "p_117",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0304-4076(98)00015-3"
+        },
+        {
+            "key": "p_118",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(94)01602-V"
+        },
+        {
+            "key": "p_119",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(91)90022-6"
+        },
+        {
+            "key": "p_120",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2005.00594.x"
+        },
+        {
+            "key": "p_121",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE170"
+        },
+        {
+            "key": "p_122",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2010.03.044"
+        },
+        {
+            "key": "p_123",
+            "unstructured": "Hoderlein, Stefan, Bettina Siflinger, and Joachim Winter. 2015. \"Identification of Structural Models in the Presence of Measurement Error Due to Rounding in Survey Responses.\" http://fmwww.bc.edu/EC-P/ wp869.pdf."
+        },
+        {
+            "key": "p_124",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2951627"
+        },
+        {
+            "key": "p_125",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2298119"
+        },
+        {
+            "key": "p_126",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(89)90047-X"
+        },
+        {
+            "issue": "3",
+            "key": "p_127",
+            "first-page": "923",
+            "volume": "10",
+            "author": "Huwang Longcheen",
+            "year": "2000",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "key": "p_128",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2007.12.001"
+        },
+        {
+            "key": "p_129",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hu, Yingyao. 2015. \"Microeconomic Models with Latent Variables: Applications of Measurement Error Models in Empirical industrial Organization and Labor Economics.\" Centre for Microdata Methods and Practice Working Paper CWP03/15.",
+            "DOI": "10.1920/wp.cem.2015.0315"
+        },
+        {
+            "key": "p_130",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07474930903559276"
+        },
+        {
+            "key": "p_131",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jae.1202"
+        },
+        {
+            "key": "p_132",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hu, Yingyao, and Jiaxiong Yao. 2019. \"Illuminating Economic Growth.\" IMF Working Paper 2019/077.",
+            "DOI": "10.2139/ssrn.3397536"
+        },
+        {
+            "key": "p_133",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2012.05.023"
+        },
+        {
+            "key": "p_134",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hu, Yingyao, and Matthew Shum. 2013. \"Identifying Dynamic Games with Serially-Correlated Unobservables.\" In Structural Econometric Models, edited by dd, 97-113. Advances in Econometrics, Vol. 31. Bingley, UK: Emerald.",
+            "DOI": "10.1108/S0731-9053(2013)0000032003"
+        },
+        {
+            "key": "p_135",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07474938.2020.1797302"
+        },
+        {
+            "key": "p_136",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.0012-9682.2008.00823.x"
+        },
+        {
+            "key": "p_137",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2014.11.004"
+        },
+        {
+            "key": "p_138",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2017.05.013"
+        },
+        {
+            "key": "p_139",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.09.014"
+        },
+        {
+            "key": "p_140",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1198/07350010152596727"
+        },
+        {
+            "key": "p_141",
+            "unstructured": "Illanes, Gast\u00f3n. 2017. \"Switching Costs in Pension Plan Choice.\" http://www.econweb.umd.edu/~davis/ eventpapers/IllanesCosts.pdf."
+        },
+        {
+            "key": "p_142",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2998561"
+        },
+        {
+            "key": "p_143",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466616000098"
+        },
+        {
+            "key": "p_144",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1912120"
+        },
+        {
+            "key": "p_145",
+            "unstructured": "Kendall, Maurice G., and Alan Stuart. 1979. The Advanced Theory of Statistics, Vol. 2, Inference and Relationship. 4th ed. New York: Macmillan."
+        },
+        {
+            "key": "p_146",
+            "unstructured": "Kitamura, Yuichi and Louise Laage. 2018. \"Nonparametric Analysis of Finite Mixtures.\" Unpublished. https://arxiv.org/abs/1811.02727."
+        },
+        {
+            "key": "p_147",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2171942"
+        },
+        {
+            "key": "p_148",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1911466"
+        },
+        {
+            "key": "p_149",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(88)90010-3"
+        },
+        {
+            "key": "p_150",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1137/07070111X"
+        },
+        {
+            "key": "p_151",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2140/pjm.1967.20.69"
+        },
+        {
+            "key": "p_152",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdq004"
+        },
+        {
+            "key": "p_153",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jae.979"
+        },
+        {
+            "key": "p_154",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0024-3795(77)90069-6"
+        },
+        {
+            "key": "p_155",
+            "unstructured": "Kruskal, J. B. 1989. \"Rank, Decomposition, and Uniqueness for 3-Way and N-Way Arrays.\" In Multiway Data Analysis, edited by R. Coppi and S. Bolasco, 7-18. Amsterdam: North-Holland."
+        },
+        {
+            "key": "p_156",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.1995.10476495"
+        },
+        {
+            "key": "p_157",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2171884"
+        },
+        {
+            "key": "p_158",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2006.00756.x"
+        },
+        {
+            "key": "p_159",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07350015.2012.643126"
+        },
+        {
+            "key": "p_160",
+            "unstructured": "Lighthill, M. J. 1962. Introduction to Fourier Analysis and Generalized Function. Cambridge, UK: Cambridge University Press."
+        },
+        {
+            "key": "p_161",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0304-4076(02)00120-3"
+        },
+        {
+            "key": "p_162",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1006/jmva.1998.1741"
+        },
+        {
+            "key": "p_163",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0304-4076(99)00081-0"
+        },
+        {
+            "key": "p_164",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0049124103251951"
+        },
+        {
+            "key": "p_165",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/3315482"
+        },
+        {
+            "key": "p_166",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jep.31.2.33"
+        },
+        {
+            "key": "p_167",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-937X.2008.00490.x"
+        },
+        {
+            "key": "p_168",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2006.00677.x"
+        },
+        {
+            "key": "p_169",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.0006-341X.2002.00013.x"
+        },
+        {
+            "key": "p_170",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mallows, Colin. 2007. \"Deconvolution By Simulation.\" In Complex Datasets and Inverse Problems: Tomography, Networks and Beyond, edited by Regina Liu, William Strawderman, and Cun-Hui Zhang, 1-11. Lecture Notes-Monograph Series, vol. 54. Beachwood, Ohio: Institute of Mathematical Statistics.",
+            "DOI": "10.1214/074921707000000021"
+        },
+        {
+            "key": "p_171",
+            "unstructured": "Manski, Charles. 2003. Partial Identification of Probability Distributions. New York: Springer-Verlag."
+        },
+        {
+            "key": "p_172",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00294"
+        },
+        {
+            "key": "p_173",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00144"
+        },
+        {
+            "key": "p_174",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176349416"
+        },
+        {
+            "key": "p_175",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00452"
+        },
+        {
+            "key": "p_176",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA5940"
+        },
+        {
+            "key": "p_177",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1913621"
+        },
+        {
+            "key": "p_178",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00199-004-0495-3"
+        },
+        {
+            "key": "p_179",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10463-009-0220-x"
+        },
+        {
+            "key": "p_180",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2007.12.003"
+        },
+        {
+            "key": "p_181",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Molinari, Francesca. 2020. \"Microeconometrics with Partial Identification.\" In Handbook of Econometrics, Vol. 7A, edited by Steven Durlauf, Lars Peter Hansen, James J. Heckman, and Rosa L. Matzkin, 355-486. Amsterdam: North-Holland.",
+            "DOI": "10.1016/bs.hoe.2020.05.002"
+        },
+        {
+            "key": "p_182",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/003465301753237704"
+        },
+        {
+            "key": "p_183",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2004.00482.x"
+        },
+        {
+            "key": "p_184",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00459"
+        },
+        {
+            "key": "p_185",
+            "unstructured": "Otsu, Taisuke, and Luke Taylor. 2016. \"Specification Testing for Errors in Variables Models.\" London School of Economics and Political Science STICERD Working Paper EM/2015/586."
+        },
+        {
+            "key": "p_186",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/biomet/75.2.237"
+        },
+        {
+            "key": "p_187",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176347494"
+        },
+        {
+            "key": "p_188",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1913622"
+        },
+        {
+            "key": "p_189",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0304-4076(80)90032-9"
+        },
+        {
+            "key": "p_190",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176325370"
+        },
+        {
+            "key": "p_191",
+            "unstructured": "Rao, B. L. S. Prakasa. 1992. Identifiability in Stochastic Models: Characterization of Probability Distributions. New York: Academic Press."
+        },
+        {
+            "key": "p_192",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1907835"
+        },
+        {
+            "key": "p_193",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.laa.2009.11.033"
+        },
+        {
+            "key": "p_194",
+            "unstructured": "Sasaki, Y. 2015a. \"A Contraction Fixed Point Method for infinite Mixture Models and Direct Counterfactual Analysis.\" https://ipl.econ.duke.edu/seminars/ system/files/seminars/1077.pdf."
+        },
+        {
+            "key": "p_195",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2015.05.002"
+        },
+        {
+            "key": "p_196",
+            "unstructured": "Schennach, Susanne M. 2000. \"Estimation of Nonlinear Models with Measurement Error.\" PhD Thesis. Massachusetts Institute of Technology."
+        },
+        {
+            "key": "p_197",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2004.00477.x"
+        },
+        {
+            "key": "p_198",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.econlet.2004.03.023"
+        },
+        {
+            "key": "p_199",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466604206028"
+        },
+        {
+            "key": "p_200",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2007.00736.x"
+        },
+        {
+            "key": "p_201",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/009053606000001208"
+        },
+        {
+            "key": "p_202",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466608080390"
+        },
+        {
+            "key": "p_203",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schennach, Susanne M. 2013a. \"Measurement Error in Nonlinear Models-A Review.\" In Advances in Economics and Econometrics: Tenth World Congress, Vol. 3, Econometrics, edited by Daron Acemoglu, Manuel Arellano, and Eddie Dekel, 296-337. Econometric Society Monographs, vol. 51. Cambridge, UK: Cambridge University Press.",
+            "DOI": "10.1017/CBO9781139060035.009"
+        },
+        {
+            "key": "p_204",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/13-AOS1122"
+        },
+        {
+            "key": "p_205",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA9748"
+        },
+        {
+            "key": "p_206",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-080315-015058"
+        },
+        {
+            "key": "p_207",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2018.12.018"
+        },
+        {
+            "key": "p_208",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schennach, Susanne M. 2020. \"Mismeasured and Unobserved Variables.\" In Handbook of Econometrics, Vol. 7A, edited by Steven Durlauf, Lars Peter Hansen, James J. Heckman, and Rosa L. Matzkin, 487-565. Amsterdam: North-Holland.",
+            "DOI": "10.1016/bs.hoe.2020.07.001"
+        },
+        {
+            "key": "p_209",
+            "unstructured": "Schennach, Susanne M., and Vincent Starck. 2020. \"Using Spatial Modeling to Address Covariate Measurement Error.\" Centre for Microdata Methods and Practice Working Paper CWP58/20."
+        },
+        {
+            "key": "p_210",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.2012.751872"
+        },
+        {
+            "key": "p_211",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2011.09.041"
+        },
+        {
+            "key": "p_212",
+            "unstructured": "Schwartz, L. 1966. Th\u00e9orie Des Distributions. Paris: Hermann."
+        },
+        {
+            "key": "p_213",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1030741085"
+        },
+        {
+            "key": "p_214",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2013.03.001"
+        },
+        {
+            "key": "p_215",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S\u00f6derstr\u00f6m, Torsten. 2018. Errors-in-Variables Methods in System Identification. Cham, Switzerland: Springer.",
+            "DOI": "10.1007/978-3-319-75001-9"
+        },
+        {
+            "key": "p_216",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE275"
+        },
+        {
+            "key": "p_217",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1412107"
+        },
+        {
+            "key": "p_218",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2004.06.006"
+        },
+        {
+            "key": "p_219",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/aje/155.7.622"
+        },
+        {
+            "issue": "1365",
+            "key": "p_220",
+            "first-page": "149",
+            "volume": "276",
+            "author": "Temple G.",
+            "year": "1963",
+            "journal-title": "Proceedings of the Royal Society of London, Series A: Mathematical and Physical Sciences"
+        },
+        {
+            "key": "p_221",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1991374"
+        },
+        {
+            "key": "p_222",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1912771"
+        },
+        {
+            "key": "p_223",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2011.05.004"
+        },
+        {
+            "key": "p_224",
+            "unstructured": "Wansbeek, Tom J., and Erik Meijer. 2000. Measurement Error and Latent Variables in Econometrics. Amsterdam: North-Holland."
+        },
+        {
+            "key": "p_225",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wilhelm, Daniel. 2015. \"Identification and Estimation of Nonparametric Panel Data Regressions with Measurement Error.\" Centre for Microdata Methods and Practice Working Paper CWP34/15.",
+            "DOI": "10.1920/wp.cem.2015.3415"
+        },
+        {
+            "key": "p_226",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wilhelm, Daniel. 2019. \"Testing for the Presence of Measurement Error.\" Centre for Microdata Methods and Practice Working Paper CWP48/19.",
+            "DOI": "10.1920/wp.cem.2019.4819"
+        },
+        {
+            "key": "p_227",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE674"
+        },
+        {
+            "key": "p_228",
+            "unstructured": "Zeleneev, Andrei. 2020. \"Essays in Econometrics of Networks and Models with Errors-in-Variables.\" PhD Thesis, Princeton University. http://arks. princeton.edu/ark:/88435/dsp018336h497b."
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20211355",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2022-12-07T14:59:18Z",
+        "timestamp": 1670425158000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20211355"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                1
+            ]
+        ]
+    },
+    "references-count": 227,
+    "journal-issue": {
+        "issue": "4",
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    12,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20211355"
+    ],
+    "URL": "http://dx.doi.org/10.1257/jel.20211355",
+    "relation": {},
+    "ISSN": [
+        "0022-0515"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                1
+            ]
+        ]
+    }
+}
