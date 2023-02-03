@@ -1,0 +1,800 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ],
+        "date-time": "2023-01-27T06:01:22Z",
+        "timestamp": 1674799282121
+    },
+    "reference-count": 69,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose a framework for analyzing the sensitivity of counterfactuals to parametric assumptions about the distribution of latent variables in structural models. In particular, we derive bounds on counterfactuals as the distribution of latent variables spans nonparametric neighborhoods of a given parametric specification while other \u201cstructural\u201d features of the model are maintained. Our approach recasts the infinite\u2010dimensional problem of optimizing the counterfactual with respect to the distribution of latent variables (subject to model constraints) as a finite\u2010dimensional convex program. We also develop an MPEC version of our method to further simplify computation in models with endogenous parameters (e.g., value functions) defined by equilibrium constraints. We propose plug\u2010in estimators of the bounds and two methods for inference. We also show that our bounds converge to the sharp nonparametric bounds on counterfactuals as the neighborhood size becomes large. To illustrate the broad applicability of our procedure, we present empirical applications to matching models with transferable utility and dynamic discrete choice models.</jats:p>",
+    "DOI": "10.3982/ecta17232",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                24
+            ]
+        ],
+        "date-time": "2023-01-24T09:27:41Z",
+        "timestamp": 1674552461000
+    },
+    "page": "263-298",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Counterfactual Sensitivity and Robustness"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Timothy",
+            "family": "Christensen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, New York University"
+                },
+                {
+                    "name": "Department of Economics, University College London"
+                }
+            ]
+        },
+        {
+            "given": "Benjamin",
+            "family": "Connault",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Latour Trading LLC"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1468-0262.2007.00731.x",
+            "volume": "75",
+            "author": "Aguirregabiria",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1021",
+            "DOI": "10.3982/ECTA15867",
+            "volume": "87",
+            "author": "Allen",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qjx023",
+            "volume": "132",
+            "author": "Andrews",
+            "year": "2017",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200517-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "2231",
+            "DOI": "10.3982/ECTA16768",
+            "volume": "6",
+            "author": "Andrews",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/QE1609",
+            "volume": "12",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200517-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "1331",
+            "DOI": "10.1111/j.1468-0262.2007.00796.x",
+            "volume": "75",
+            "author": "Bajari",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200517-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1785",
+            "DOI": "10.3982/ECTA8680",
+            "volume": "79",
+            "author": "Beresteanu",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200517-bib-0008",
+            "volume-title": "Robustness of Bayesian Analyses",
+            "author": "Berger",
+            "year": "1984"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "889",
+            "DOI": "10.2307/2951571",
+            "volume": "60",
+            "author": "Berry",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200517-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Berry, Steven T., and Philip A. Haile (2010): \u201cNonparametric Identification of Multinomial Choice Demand Models With Heterogeneous Consumers,\u201d Cowles Foundation Discussion Paper No. 1718.",
+            "DOI": "10.2139/ssrn.1448715"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200517-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1749",
+            "DOI": "10.3982/ECTA9027",
+            "volume": "82",
+            "author": "Berry",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.3982/QE1930",
+            "volume": "13",
+            "author": "Bonhomme",
+            "year": "2022",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.2307/2298085",
+            "volume": "57",
+            "author": "Bresnahan",
+            "year": "1990",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1016/0304-4076(91)90032-9",
+            "volume": "48",
+            "author": "Bresnahan",
+            "year": "1991",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1111/j.2517-6161.1976.tb01569.x",
+            "volume": "38",
+            "author": "Chamberlain",
+            "year": "1976",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200517-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1965",
+            "DOI": "10.3982/ECTA14525",
+            "volume": "86",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200517-bib-0017",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, Xiaohong, Elie Tamer, and Alexander Torgovitsky (2011): \u201cSensitivity Analysis in Semiparametric Likelihood Models,\u201d Cowles Foundation Discussion Paper No. 1836.",
+            "DOI": "10.2139/ssrn.1963746"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "959",
+            "DOI": "10.3982/ECTA12223",
+            "volume": "85",
+            "author": "Chesher",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200517-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "2109",
+            "DOI": "10.1257/aer.20150154",
+            "volume": "107",
+            "author": "Chiappori",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1086/498585",
+            "volume": "114",
+            "author": "Choo",
+            "year": "2006",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200517-bib-0021",
+            "unstructured": "Christensen, Timothy, and Benjamin Connault (2022): \u201cCounterfactual Sensitivity and Robustness,\u201d arxiv preprint, arXiv:1904.00989 [econ.em]."
+        },
+        {
+            "key": "ecta200517-bib-0022",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Christensen, Timothy, and Benjamin Connault (2023): \u201cSupplement to \u2018Counterfactual Sensitivity and Robustness\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA17232.",
+            "DOI": "10.3982/ECTA17232"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200517-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1791",
+            "DOI": "10.3982/ECTA5368",
+            "volume": "77",
+            "author": "Ciliberto",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200517-bib-0024",
+            "first-page": "299",
+            "volume": "2",
+            "author": "Csisz\u00e1r",
+            "year": "1967",
+            "journal-title": "Studia Scientiarum Mathematicarum Hungarica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "417",
+            "DOI": "10.1561/0100000004",
+            "volume": "1",
+            "author": "Csisz\u00e1r",
+            "year": "2004",
+            "journal-title": "Communications and Information Theory"
+        },
+        {
+            "key": "ecta200517-bib-0026",
+            "first-page": "2292",
+            "volume": "26",
+            "author": "Cuturi",
+            "year": "2013",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1111/1468-2354.00054",
+            "volume": "41",
+            "author": "Dagsvik",
+            "year": "2000",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "1378",
+            "DOI": "10.1214/20-AOS2004",
+            "volume": "49",
+            "author": "Duchi",
+            "year": "2021",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200517-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1007/s00199-008-0432-y",
+            "volume": "42",
+            "author": "Ekeland",
+            "year": "2010",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0030",
+            "first-page": "377",
+            "volume": "86",
+            "author": "Fang",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1264",
+            "DOI": "10.1093/restud/rdr008",
+            "volume": "78",
+            "author": "Galichon",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200517-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "2600",
+            "DOI": "10.1093/restud/rdab090",
+            "volume": "89",
+            "author": "Galichon",
+            "year": "2022",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200517-bib-0033",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Giacomini, Raffaella, Toru Kitagawa, and Harald Uhlig (2019): \u201cEstimation Under Ambiguity,\u201d Technical report, UCL and Chicago.",
+            "DOI": "10.1920/wp.cem.2019.2419"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200517-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1111/1756-2171.12052",
+            "volume": "45",
+            "author": "Grieco",
+            "year": "2014",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "ecta200517-bib-0035",
+            "author": "Gualdani",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200517-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1257/aer.91.2.60",
+            "volume": "91",
+            "author": "Hansen",
+            "year": "2001",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "ecta200517-bib-0037",
+            "volume-title": "Robustness",
+            "author": "Hansen",
+            "year": "2008"
+        },
+        {
+            "key": "ecta200517-bib-0038",
+            "author": "Ho",
+            "year": "2022",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200517-bib-0039",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kalouptsidi, Myrto, Yuichi Kitamura, Lucas Lima, and Eduardo Souza-Rodrigues (2020): \u201cPartial Identification and Inference for Dynamic Models and Counterfactuals,\u201d NBER Working Paper No. 26761.",
+            "DOI": "10.3386/w26761"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200517-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.3982/QE1253",
+            "volume": "12",
+            "author": "Kalouptsidi",
+            "year": "2021",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "1185",
+            "DOI": "10.3982/ECTA8617",
+            "volume": "81",
+            "author": "Kitamura",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200517-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.3982/QE399",
+            "volume": "7",
+            "author": "Kline",
+            "year": "2016",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "947",
+            "DOI": "10.1017/S0266466615000158",
+            "volume": "32",
+            "author": "Komunjer",
+            "year": "2016",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "727",
+            "DOI": "10.1007/s00181-018-1474-z",
+            "volume": "57",
+            "author": "Laff\u00e9rs",
+            "year": "2019",
+            "journal-title": "Empirical Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "725",
+            "DOI": "10.2307/1912610",
+            "volume": "50",
+            "author": "Leamer",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0046",
+            "first-page": "308",
+            "volume": "75",
+            "author": "Leamer",
+            "year": "1985",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "ecta200517-bib-0047",
+            "unstructured": "Li, Lixiong (2018): \u201cIdentification of Structural and Counterfactual Parameters in a Large Class of Structural Econometric Models,\u201d Technical report, Pennsylvania State University."
+        },
+        {
+            "key": "ecta200517-bib-0048",
+            "volume-title": "Convex Statistical Distances",
+            "author": "Liese",
+            "year": "1987"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200517-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "1447",
+            "DOI": "10.1111/j.1468-0262.2006.00716.x",
+            "volume": "74",
+            "author": "Maccheroni",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "1393",
+            "DOI": "10.1111/j.1468-2354.2007.00467.x",
+            "volume": "48",
+            "author": "Manski",
+            "year": "2007",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.3982/QE262",
+            "volume": "5",
+            "author": "Manski",
+            "year": "2014",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200517-bib-0052",
+            "first-page": "105",
+            "volume-title": "Frontiers in Econometrics",
+            "author": "McFadden",
+            "year": "1974"
+        },
+        {
+            "key": "ecta200517-bib-0053",
+            "first-page": "75",
+            "volume-title": "Spatial Interaction Theory and Planning Models",
+            "author": "McFadden",
+            "year": "1978"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200517-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/1468-0262.00296",
+            "volume": "70",
+            "author": "Milgrom",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200517-bib-0055",
+            "unstructured": "Mukhin, Yaroslav (2018): \u201cSensitivity of Regular Estimators,\u201d arxiv preprint, arXiv:1805.08883 [econ.em]."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "1229",
+            "DOI": "10.1093/restud/rdt050",
+            "volume": "81",
+            "author": "Norets",
+            "year": "2014",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200517-bib-0057",
+            "unstructured": "Owen, Art B. (2017): \u201cA Randomized Halton Algorithm in R,\u201d arxiv preprint, arXiv:1706.02808 [stat.co]."
+        },
+        {
+            "issue": "7",
+            "key": "ecta200517-bib-0058",
+            "doi-asserted-by": "crossref",
+            "first-page": "3884",
+            "DOI": "10.1109/TSP.2010.2047340",
+            "volume": "58",
+            "author": "Qiao",
+            "year": "2010",
+            "journal-title": "IEEE Transactions on Signal Processing"
+        },
+        {
+            "key": "ecta200517-bib-0059",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Convex Analysis",
+            "author": "Rockafellar",
+            "year": "1970",
+            "DOI": "10.1515/9781400873173"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200517-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "999",
+            "DOI": "10.2307/1911259",
+            "volume": "55",
+            "author": "Rust",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.3982/ECTA9748",
+            "volume": "82",
+            "author": "Schennach",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200517-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.1007/BF00940933",
+            "volume": "66",
+            "author": "Shapiro",
+            "year": "1990",
+            "journal-title": "Journal of Optimization Theory and Applications"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200517-bib-0063",
+            "doi-asserted-by": "crossref",
+            "first-page": "2258",
+            "DOI": "10.1137/16M1058297",
+            "volume": "27",
+            "author": "Shapiro",
+            "year": "2017",
+            "journal-title": "SIAM Journal on Optimization"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200517-bib-0064",
+            "doi-asserted-by": "crossref",
+            "first-page": "2213",
+            "DOI": "10.3982/ECTA7925",
+            "volume": "80",
+            "author": "Su",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1111/1467-937X.00240",
+            "volume": "70",
+            "author": "Tamer",
+            "year": "2003",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200517-bib-0066",
+            "unstructured": "Tamer, Elie (2015): \u201cSensitivity Analysis in Some Econometric Models,\u201d Cowles Lecture, Econometric Society World Congress, August 17\u201321, 2015, Montr\u00e9al."
+        },
+        {
+            "key": "ecta200517-bib-0067",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tebaldi, Pietro, Alexander Torgovitsky, and Hanbin Yang (2022): \u201cNonparametric Estimates of Demand in the California Health Insurance Exchange,\u201d NBER working paper.",
+            "DOI": "10.3982/ECTA17215"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200517-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.3982/ECTA14138",
+            "volume": "87",
+            "author": "Torgovitsky",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200517-bib-0069",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.3982/QE634",
+            "volume": "10",
+            "author": "Torgovitsky",
+            "year": "2019",
+            "journal-title": "Quantitative Economics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                26
+            ]
+        ],
+        "date-time": "2023-01-26T09:39:12Z",
+        "timestamp": 1674725952000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA17232"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17232"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17232",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

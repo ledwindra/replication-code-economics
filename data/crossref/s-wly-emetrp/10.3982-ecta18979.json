@@ -1,0 +1,707 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ],
+        "date-time": "2023-01-27T06:01:26Z",
+        "timestamp": 1674799286191
+    },
+    "reference-count": 61,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper considers the problem of testing whether there exists a non\u2010negative solution to a possibly under\u2010determined system of linear equations with known coefficients. This hypothesis testing problem arises naturally in a number of settings, including random coefficient, treatment effect, and discrete choice models, as well as a class of linear programming problems. As a first contribution, we obtain a novel geometric characterization of the null hypothesis in terms of identified parameters satisfying an infinite set of inequality restrictions. Using this characterization, we devise a test that requires solving only linear programs for its implementation, and thus remains computationally feasible in the high\u2010dimensional applications that motivate our analysis. The asymptotic size of the proposed test is shown to equal at most the nominal level uniformly over a large class of distributions that permits the number of linear equations to grow with the sample size.</jats:p>",
+    "DOI": "10.3982/ecta18979",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                24
+            ]
+        ],
+        "date-time": "2023-01-24T09:27:41Z",
+        "timestamp": 1674552461000
+    },
+    "page": "299-327",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Inference for Large\u2010Scale Linear Systems With Known Coefficients"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Zheng",
+            "family": "Fang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Emory University"
+                }
+            ]
+        },
+        {
+            "given": "Andres",
+            "family": "Santos",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UCLA"
+                }
+            ]
+        },
+        {
+            "given": "Azeem M.",
+            "family": "Shaikh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Alexander",
+            "family": "Torgovitsky",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200515-bib-0001",
+            "volume-title": "Infinite Dimensional Analysis\u2014a Hitchhiker's Guide",
+            "author": "Aliprantis",
+            "year": "2006"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200515-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1111/1468-0262.00271",
+            "volume": "78",
+            "author": "Andrews",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Andrews, Isaiah, Jonathan Roth, and Ariel Pakes (2019): \u201cInference for Linear Conditional Moment Inequalities,\u201d Technical Report, NBER.",
+            "DOI": "10.3386/w26374"
+        },
+        {
+            "issue": "430",
+            "key": "ecta200515-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1080/01621459.1995.10476535",
+            "volume": "90",
+            "author": "Angrist",
+            "year": "1995",
+            "journal-title": "Journal of the American statistical Association"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200515-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "979",
+            "DOI": "10.2307/2937954",
+            "volume": "106",
+            "author": "Angrist",
+            "year": "1991",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200515-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bai, Yuehao, Andres Santos, and Azeem Shaikh (2019): \u201cA Practical Method for Testing Many Moment Inequalities,\u201d Working Paper, (2019-116), University of Chicago.",
+            "DOI": "10.2139/ssrn.3454610"
+        },
+        {
+            "key": "ecta200515-bib-0007",
+            "unstructured": "Bai, Yuehao, Azeem M. Shaikh, and Edward J. Vytlacil (2020): \u201cPartial Identification of Treatment Effect Rankings With Instrumental Variables,\u201d Working Paper, University of Chicago."
+        },
+        {
+            "key": "ecta200515-bib-0008",
+            "first-page": "46",
+            "volume-title": "Proceedings of the Tenth International Conference on Uncertainty in Artificial Intelligence",
+            "author": "Balke",
+            "year": "1994"
+        },
+        {
+            "issue": "439",
+            "key": "ecta200515-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1171",
+            "DOI": "10.1080/01621459.1997.10474074",
+            "volume": "92",
+            "author": "Balke",
+            "year": "1997",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200515-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Belloni, Alexandre, Victor Chernozhukov, Denis Chetverikov, and Iv\u00e1n Fern\u00e1ndez-Val (2019): \u201cConditional Quantile Processes Based on Series or Many Regressors,\u201d Journal of Econometrics.",
+            "DOI": "10.1016/j.jeconom.2019.04.003"
+        },
+        {
+            "key": "ecta200515-bib-0011",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Matrix Analysis",
+            "author": "Bhatia",
+            "year": "1997",
+            "DOI": "10.1007/978-1-4612-0653-8"
+        },
+        {
+            "key": "ecta200515-bib-0012",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Blundell, Wesley, Gautam Gowrisankaran, and Ashley Langer (2018): \u201cEscalation of Scrutiny: The Gains From Dynamic Enforcement of Environmental Regulations,\u201d Technical Report, NBER.",
+            "DOI": "10.3386/w24810"
+        },
+        {
+            "key": "ecta200515-bib-0013",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Gaussian Measures",
+            "author": "Bogachev",
+            "year": "1998",
+            "DOI": "10.1090/surv/062"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200515-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE490",
+            "volume": "8",
+            "author": "Bugni",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200515-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1017/9781108227223.009",
+            "volume": "2",
+            "author": "Canay",
+            "year": "2017",
+            "journal-title": "Advances in Economics and Econometrics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200515-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1771",
+            "DOI": "10.3982/ECTA13559",
+            "volume": "86",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1\u20132",
+            "key": "ecta200515-bib-0017",
+            "first-page": "47",
+            "volume": "162",
+            "author": "Chernozhukov",
+            "year": "2014",
+            "journal-title": "Probability Theory and Related Fields"
+        },
+        {
+            "key": "ecta200515-bib-0018",
+            "unstructured": "Chernozhukov, Victor, Denis Chetverikov, Kengo Kato, and Yuta Koike (2019): \u201cImproved Central Limit Theorem and Bootstrap Approximations in High Dimensions,\u201d. Preprint. Available at arXiv:1912.10529."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "667",
+            "DOI": "10.3982/ECTA8718",
+            "volume": "81",
+            "author": "Chernozhukov",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Whitney K. Newey, and Andres Santos (2015): \u201cConstrained Conditional Moment Restriction Models,\u201d. Preprint. Available at arXiv:1509.06311.",
+            "DOI": "10.1920/wp.cem.2015.5915"
+        },
+        {
+            "key": "ecta200515-bib-0021",
+            "unstructured": "Cox, Gregory, and Xiaoxia Shi (2019): \u201cSimple Adaptive Size-Exact Testing for Full-Vector and Subvector Inference in Moment Inequality Models,\u201d. Preprint. Available at arXiv:1907.06317."
+        },
+        {
+            "key": "ecta200515-bib-0022",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Local Properties of Distribuions of Stochastic Functionals",
+            "author": "Davydov",
+            "year": "1998",
+            "DOI": "10.1090/mmono/173"
+        },
+        {
+            "key": "ecta200515-bib-0023",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Deb, Rahul, Yuichi Kitamura, John Kim-Ho Quah, and J\u00f6rg Stoye (2017): \u201cRevealed Price Preference: Theory and Stochastic Testing,\u201d Cowles Foundation Discussion Paper.",
+            "DOI": "10.2139/ssrn.2970512"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200515-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1007/BF00534202",
+            "volume": "62",
+            "author": "Dudley",
+            "year": "1983",
+            "journal-title": "Zeitschrift f\u00fcr Wahrscheinlichkeitstheorie und verwandte Gebiete"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200515-bib-0025",
+            "first-page": "377",
+            "volume": "86",
+            "author": "Fang",
+            "year": "2018",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200515-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "2439",
+            "DOI": "10.3982/ECTA17764",
+            "volume": "89",
+            "author": "Fang",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fang, Zheng, Andres Santos, Azeem M. Shaikh, and Alexander Torgovitsky (2021): \u201cInference for Large-Scale Linear Systems With Known Coefficients,\u201d. Preprint. Available at arXiv:2009.08568v2.",
+            "DOI": "10.2139/ssrn.3695284"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200515-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.3982/QE49",
+            "volume": "2",
+            "author": "Fox",
+            "year": "2011",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200515-bib-0029",
+            "unstructured": "Gandhi, Amit, Zhentong Lu, and Xiaoxia Shi (2019): \u201cEstimating Demand for Differentiated Products With Zeroes in Market Share Data,\u201d Working Paper. UW-Madison."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "506",
+            "DOI": "10.1214/aoms/1177705057",
+            "volume": "32",
+            "author": "H\u00e1jek",
+            "year": "1961",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200515-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1675",
+            "DOI": "10.1111/j.1468-0262.2006.00722.x",
+            "volume": "74",
+            "author": "Honor\u00e9",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200515-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "611",
+            "DOI": "10.1111/j.1468-0262.2006.00676.x",
+            "volume": "74",
+            "author": "Honor\u00e9",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0033",
+            "unstructured": "Illanes, Gast\u00f3n, and Manisha Padi (2019): \u201cCompetition, Asymmetric Information, and the Annuity Puzzle: Evidence From a Government-Run Exchange in Chile,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200515-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "1845",
+            "DOI": "10.1111/j.1468-0262.2004.00555.x",
+            "volume": "72",
+            "author": "Imbens",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200515-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.2307/2971731",
+            "volume": "64",
+            "author": "Imbens",
+            "year": "1997",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200515-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1397",
+            "DOI": "10.3982/ECTA14075",
+            "volume": "87",
+            "author": "Kaido",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0038",
+            "unstructured": "Kamat, Vishal (2019): Identification with Latent Choice Sets."
+        },
+        {
+            "issue": "5",
+            "key": "ecta200515-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "2359",
+            "DOI": "10.1214/13-AOS1150",
+            "volume": "41",
+            "author": "Kato",
+            "year": "2013",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200515-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "2043",
+            "DOI": "10.3982/ECTA11974",
+            "volume": "83",
+            "author": "Kitagawa",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200515-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "1883",
+            "DOI": "10.3982/ECTA14478",
+            "volume": "86",
+            "author": "Kitamura",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.3982/ECTA17489",
+            "volume": "89",
+            "author": "Kline",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200515-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1093/qje/qjw027",
+            "volume": "131",
+            "author": "Kline",
+            "year": "2016",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200515-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "727",
+            "DOI": "10.1007/s00181-018-1474-z",
+            "volume": "57",
+            "author": "Laff\u00e9rs",
+            "year": "2019",
+            "journal-title": "Empirical Economics"
+        },
+        {
+            "key": "ecta200515-bib-0045",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lazzati, Natalia, John Quah, and Koji Shirai (2018): \u201cNonparametric Analysis of Monotone Choice,\u201d Available at SSRN 3301043.",
+            "DOI": "10.2139/ssrn.3301043"
+        },
+        {
+            "key": "ecta200515-bib-0046",
+            "volume-title": "Optimization by Vector Space Methods",
+            "author": "Luenberger",
+            "year": "1969"
+        },
+        {
+            "key": "ecta200515-bib-0047",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Machado, Cecilia, Azeem M. Shaikh, and Edward J. Vytlacil (2019): \u201cInstrumental Variables and the Sign of the Average Treatment Effect,\u201d Journal of Econometrics.",
+            "DOI": "10.2139/ssrn.3334009"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200515-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.3982/QE262",
+            "volume": "5",
+            "author": "Manski",
+            "year": "2014",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200515-bib-0049",
+            "first-page": "161",
+            "volume-title": "Preferences, Uncertainty, and Optimality, Essays in Honor of Leo Hurwicz",
+            "author": "McFadden",
+            "year": "1990"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1112/S0025579300002850",
+            "volume": "17",
+            "author": "McMullen",
+            "year": "1970",
+            "journal-title": "Mathematika"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200515-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.1007/BF01418867",
+            "volume": "88",
+            "author": "Monrad",
+            "year": "1991",
+            "journal-title": "Probability Theory and Related Fields"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "DOI": "10.3982/ECTA11927",
+            "volume": "84",
+            "author": "Nevo",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0053",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Convex Analysis",
+            "volume": "28",
+            "author": "Rockafellar",
+            "year": "1970",
+            "DOI": "10.1515/9781400873173"
+        },
+        {
+            "key": "ecta200515-bib-0054",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Romano, Joseph P., and Azeem M. Shaikh (2008): \u201cInference for Identifiable Parameters in Partially Identified Econometric Models,\u201d Journal of Statistical Planning and Inference. Special Issue in Honor of Ted Anderson.",
+            "DOI": "10.1016/j.jspi.2008.03.015"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200515-bib-0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "1979",
+            "DOI": "10.3982/ECTA11011",
+            "volume": "82",
+            "author": "Romano",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0056",
+            "volume-title": "Introduction to Linear Algebra",
+            "author": "Strang",
+            "year": "1993"
+        },
+        {
+            "key": "ecta200515-bib-0057",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tebaldi, Pietro, Alexander Torgovitsky, and Hanbin Yang (2019): \u201cNonparametric Estimates of Demand in the California Health Insurance Exchange,\u201d Technical Report, NBER.",
+            "DOI": "10.3386/w25827"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200515-bib-0058",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.3982/ECTA14138",
+            "volume": "87",
+            "author": "Torgovitsky",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200515-bib-0059",
+            "volume-title": "Asymptotic Statistics",
+            "author": "Vaart",
+            "year": "1999"
+        },
+        {
+            "key": "ecta200515-bib-0060",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Weak Convergence and Empirical Processes: With Applications to Statistics",
+            "author": "Vaart",
+            "year": "1996",
+            "DOI": "10.1007/978-1-4757-2545-2"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200515-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.3982/QE1023",
+            "volume": "11",
+            "author": "Zhu",
+            "year": "2019",
+            "journal-title": "Quantitative Economics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                26
+            ]
+        ],
+        "date-time": "2023-01-26T09:39:39Z",
+        "timestamp": 1674725979000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18979"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 61,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18979"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta18979",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

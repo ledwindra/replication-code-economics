@@ -1,0 +1,682 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ],
+        "date-time": "2023-01-27T06:01:20Z",
+        "timestamp": 1674799280822
+    },
+    "reference-count": 62,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000155",
+            "name": "Social Sciences and Humanities Research Council of Canada",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>There is an innate human tendency, one might call it the \u201cleague table mentality,\u201d to construct rankings. Schools, hospitals, sports teams, movies, and myriad other objects are ranked even though their inherent multi\u2010dimensionality would suggest that\u2014at best\u2014only partial orderings were possible. We consider a large class of elementary ranking problems in which we observe noisy, scalar measurements of merit for \n            <jats:italic>n</jats:italic> objects of potentially heterogeneous precision and are asked to select a group of the objects that are \u201cmost meritorious.\u201d The problem is naturally formulated in the compound decision framework of Robbins's (1956) empirical Bayes theory, but it also exhibits close connections to the recent literature on multiple testing. The nonparametric maximum likelihood estimator for mixture models (Kiefer and Wolfowitz (1956)) is employed to construct optimal ranking and selection rules. Performance of the rules is evaluated in simulations and an application to ranking U.S. kidney dialysis centers.\n          </jats:p>",
+    "DOI": "10.3982/ecta19304",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                24
+            ]
+        ],
+        "date-time": "2023-01-24T09:27:41Z",
+        "timestamp": 1674552461000
+    },
+    "page": "1-41",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Invidious Comparisons: Ranking and Selection as Compound Decisions"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Jiaying",
+            "family": "Gu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Toronto"
+                }
+            ]
+        },
+        {
+            "given": "Roger",
+            "family": "Koenker",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200493-bib-0001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Andrews, Isaiah, Toru Kitagawa, and Adam McCloskey (2020): \u201cInference on Winners,\u201d Available at https://www.cemmap.ac.uk/publication/inference-on-winners-4.",
+            "DOI": "10.3386/w25456"
+        },
+        {
+            "key": "ecta200493-bib-0002",
+            "unstructured": "Armstrong, Timothy B., Michal Koles\u00e1r, and Mikkel Plagborg-M\u00f8ller (2020): \u201cRobust Empirical Bayes Confidence Intervals,\u201d Available at https://arxiv.org/abs/2004.03448."
+        },
+        {
+            "key": "ecta200493-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Athey, Susan, Guido Imbens, Jonas Metzger, and Evan Munro (2019): \u201cUsing Wasserstein Generative Adversarial Networks for the Design of Monte Carlo Simulations,\u201d Available at http://arxiv.org/pdf/1909.02210.",
+            "DOI": "10.3386/w26566"
+        },
+        {
+            "key": "ecta200493-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "362",
+            "DOI": "10.1214/aoms/1177729795",
+            "volume": "21",
+            "author": "Bahadur",
+            "year": "1950",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "DOI": "10.1214/aoms/1177729746",
+            "volume": "21",
+            "author": "Bahadur",
+            "year": "1950",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "1172",
+            "DOI": "10.1080/01621459.2017.1336443",
+            "volume": "113",
+            "author": "Basu",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1214/aoms/1177728845",
+            "volume": "25",
+            "author": "Bechhofer",
+            "year": "1954",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0008",
+            "volume-title": "Sequential Identification and Ranking Procedures",
+            "author": "Bechhofer",
+            "year": "1968"
+        },
+        {
+            "key": "ecta200493-bib-0009",
+            "first-page": "289",
+            "volume": "57",
+            "author": "Benjamini",
+            "year": "1995",
+            "journal-title": "Journal of Royal Statistical Society, Series B"
+        },
+        {
+            "key": "ecta200493-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "364",
+            "DOI": "10.1080/01621459.1988.10478606",
+            "volume": "83",
+            "author": "Berger",
+            "year": "1988",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0011",
+            "first-page": "953",
+            "volume-title": "Advances in Neural Information Processing Systems 25",
+            "author": "Boyd",
+            "year": "2012"
+        },
+        {
+            "key": "ecta200493-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.1093/biomet/ast001",
+            "volume": "100",
+            "author": "Cao",
+            "year": "2013",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200493-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1163",
+            "DOI": "10.1093/qje/qjy006",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200493-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "2593",
+            "DOI": "10.1257/aer.104.9.2593",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200493-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "2633",
+            "DOI": "10.1257/aer.104.9.2633",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200493-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1602",
+            "DOI": "10.1198/jasa.2011.tm11181",
+            "volume": "106",
+            "author": "Efron",
+            "year": "2011",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/biomet/asv068",
+            "volume": "103",
+            "author": "Efron",
+            "year": "2016",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200493-bib-0018",
+            "first-page": "177",
+            "volume": "34",
+            "author": "Efron",
+            "year": "2019",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200493-bib-0019",
+            "first-page": "117",
+            "volume": "68",
+            "author": "Efron",
+            "year": "1973",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1151",
+            "DOI": "10.1198/016214501753382129",
+            "volume": "96",
+            "author": "Efron",
+            "year": "2001",
+            "journal-title": "J. American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "3221",
+            "DOI": "10.1002/(SICI)1097-0258(19991215)18:23<3221::AID-SIM312>3.0.CO;2-M",
+            "volume": "18",
+            "author": "Gelman",
+            "year": "1999",
+            "journal-title": "Statistics in Medicine"
+        },
+        {
+            "key": "ecta200493-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "499",
+            "DOI": "10.1111/1467-9868.00347",
+            "volume": "64",
+            "author": "Genovese",
+            "year": "2002",
+            "journal-title": "Journal of the Royal Statistical Society, Series B"
+        },
+        {
+            "key": "ecta200493-bib-0023",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gilraine, Michael, Jiaying Gu, and Robert McMillan (2020): \u201cA New Method for Estimating Teacher Value-Added,\u201d NBER Working Paper Series Number 27094.",
+            "DOI": "10.3386/w27094"
+        },
+        {
+            "key": "ecta200493-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "969",
+            "DOI": "10.1214/aos/1176343952",
+            "volume": "5",
+            "author": "Goel",
+            "year": "1977",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.2307/2983325",
+            "volume": "159",
+            "author": "Goldstein",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society: Series A"
+        },
+        {
+            "key": "ecta200493-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "575",
+            "DOI": "10.1002/jae.2530",
+            "volume": "32",
+            "author": "Gu",
+            "year": "2017",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200493-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gu, Jiaying, and Roger Koenker (2016a): \u201cUnobserved Heterogeneity in Income Dynamics: An Empirical Bayes Perspective,\u201d Journal of Economic and Business Statistics (forthcoming).",
+            "DOI": "10.1080/07350015.2015.1052457"
+        },
+        {
+            "key": "ecta200493-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "224",
+            "DOI": "10.1111/insr.12098",
+            "volume": "84",
+            "author": "Gu",
+            "year": "2016",
+            "journal-title": "International Statistical Review"
+        },
+        {
+            "key": "ecta200493-bib-0029",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gu, Jiaying, and Roger Koenker (2023): \u201cSupplement to \u2018Invidious Comparisons: Ranking and Selection as Compound Decisions\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA19304.",
+            "DOI": "10.3982/ECTA19304"
+        },
+        {
+            "key": "ecta200493-bib-0030",
+            "unstructured": "Guo, Xinzhou, and Xuming He (2020): \u201cInference on Selected Subgroups in Clinical Trials,\u201d Journal of the American Statistical Association, 1\u201319."
+        },
+        {
+            "key": "ecta200493-bib-0031",
+            "unstructured": "Gupta, Shanti (1956): \u201cOn a Decision Rule for a Problem in Ranking Means,\u201d Mimeograph Series No. 150, Institute of Statistics, University of North Carolina, Chapel Hill."
+        },
+        {
+            "key": "ecta200493-bib-0032",
+            "volume-title": "Multiple Decision Procedures: Theory and Methodology of Selecting and Ranking Populations",
+            "author": "Gupta",
+            "year": "1979"
+        },
+        {
+            "key": "ecta200493-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "466",
+            "DOI": "10.1016/j.econedurev.2010.12.006",
+            "volume": "30",
+            "author": "Hanushek",
+            "year": "2011",
+            "journal-title": "Economics of Education review"
+        },
+        {
+            "key": "ecta200493-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1016/0304-4076(84)90075-7",
+            "volume": "52",
+            "author": "Heckman",
+            "year": "1984",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200493-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "781",
+            "DOI": "10.1111/rssb.12131",
+            "volume": "78",
+            "author": "Henderson",
+            "year": "2016",
+            "journal-title": "Journal of the Royal Statistical Society, Series B"
+        },
+        {
+            "key": "ecta200493-bib-0036",
+            "first-page": "2272",
+            "volume": "14",
+            "author": "Jiang",
+            "year": "2020",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0037",
+            "unstructured": "Kidney Epidemiology and Cost Center (2018): \u201cTechnical Notes on the Dialysis Facility Compare Quality of Patient Care Star Rating Methodology for the October 2018 Release,\u201d University of Michigan, School of Public Health."
+        },
+        {
+            "key": "ecta200493-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "887",
+            "DOI": "10.1214/aoms/1177728066",
+            "volume": "27",
+            "author": "Kiefer",
+            "year": "1956",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "565",
+            "DOI": "10.3982/ECTA17489",
+            "volume": "89",
+            "author": "Kline",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200493-bib-0040",
+            "unstructured": "Koenker, Roger, and Jiaying Gu (2015\u20132021): \u201cREBayes: An R Package for Empirical Bayes Methods,\u201d Available at https://cran.r-project.org/package=REBayes."
+        },
+        {
+            "key": "ecta200493-bib-0041",
+            "unstructured": "Koenker, Roger (2020): \u201cEmpirical Bayes Confidence Intervals: An R Vinaigrette,\u201d Available at http://www.econ.uiuc.edu/~roger/research/ebayes/cieb.pdf."
+        },
+        {
+            "key": "ecta200493-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.18637/jss.v082.i08",
+            "volume": "82",
+            "author": "Koenker",
+            "year": "2017",
+            "journal-title": "Journal of Statistical Software"
+        },
+        {
+            "key": "ecta200493-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1214/19-STS706",
+            "volume": "34",
+            "author": "Koenker",
+            "year": "2019",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200493-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "674",
+            "DOI": "10.1080/01621459.2013.869224",
+            "volume": "109",
+            "author": "Koenker",
+            "year": "2014",
+            "journal-title": "J. of Am. Stat. Assoc."
+        },
+        {
+            "key": "ecta200493-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.3102/10769986014001029",
+            "volume": "14",
+            "author": "Laird",
+            "year": "1989",
+            "journal-title": "Journal of Educational Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/0167-9473(91)90101-7",
+            "volume": "12",
+            "author": "Laird",
+            "year": "1991",
+            "journal-title": "Computational Statistics & Data Analysis"
+        },
+        {
+            "key": "ecta200493-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "22",
+            "DOI": "10.1007/s10742-008-0040-0",
+            "volume": "9",
+            "author": "Lin",
+            "year": "2009",
+            "journal-title": "Health Service Outcomes Research Methodology"
+        },
+        {
+            "key": "ecta200493-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "915",
+            "DOI": "10.1214/06-BA130",
+            "volume": "1",
+            "author": "Lin",
+            "year": "2006",
+            "journal-title": "Bayesian Analysis"
+        },
+        {
+            "key": "ecta200493-bib-0049",
+            "volume-title": "NSF-CBMS Regional Conference Series in Probability and Statistics",
+            "author": "Lindsay",
+            "year": "1995"
+        },
+        {
+            "key": "ecta200493-bib-0050",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mogstad, Magne, Joseph Romano, Azeem Shaikh, and Daniel Wilhelm (2020): \u201cInferences for Ranks With Applications to Mobility Across Neighborhoods and Academic Achievement Across Countries,\u201d Preprint.",
+            "DOI": "10.3386/w26883"
+        },
+        {
+            "key": "ecta200493-bib-0051",
+            "unstructured": "Polyanskiy, Yury, and Yihong Wu (2020): \u201cSelf-Regularizing Property of Nonparametric Maximum Likelihood Estimator in Mixture Models,\u201d Preprint."
+        },
+        {
+            "key": "ecta200493-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "256",
+            "DOI": "10.1016/0047-259X(82)90019-7",
+            "volume": "12",
+            "author": "Portnoy",
+            "year": "1982",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "key": "ecta200493-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "314",
+            "DOI": "10.1214/aoms/1177729853",
+            "volume": "21",
+            "author": "Robbins",
+            "year": "1950",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0054",
+            "first-page": "131",
+            "volume-title": "Proceedings of the Berkeley Symposium on Mathematical Statistics and Probability",
+            "volume": "I",
+            "author": "Robbins",
+            "year": "1951"
+        },
+        {
+            "key": "ecta200493-bib-0055",
+            "first-page": "157",
+            "volume-title": "Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability",
+            "volume": "I",
+            "author": "Robbins",
+            "year": "1956"
+        },
+        {
+            "key": "ecta200493-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "738",
+            "DOI": "10.1214/19-AOS1817",
+            "volume": "48",
+            "author": "Saha",
+            "year": "2020",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200493-bib-0057",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1111/1467-9868.00346",
+            "volume": "64",
+            "author": "Storey",
+            "year": "2002",
+            "journal-title": "Journal of the Royal Statistical B"
+        },
+        {
+            "key": "ecta200493-bib-0058",
+            "doi-asserted-by": "crossref",
+            "first-page": "673",
+            "DOI": "10.1080/01621459.2012.664505",
+            "volume": "107",
+            "author": "Sun",
+            "year": "2012",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "901",
+            "DOI": "10.1198/016214507000000545",
+            "volume": "102",
+            "author": "Sun",
+            "year": "2007",
+            "journal-title": "Journal American Statistical Association"
+        },
+        {
+            "key": "ecta200493-bib-0060",
+            "unstructured": "University of Michigan Kidney Epidemiology and Cost Center (2009\u20132019)): \u201cDialysis Facility Reports,\u201d Available at https://data.cms.gov/dialysis-facility-reports."
+        },
+        {
+            "key": "ecta200493-bib-0061",
+            "doi-asserted-by": "crossref",
+            "unstructured": "van de Geer, Sara (1993): \u201cHellinger-Consistency of Certain Nonparametric Maximum Likelihood Estimators,\u201d The Annals of Statistics, 14\u201344.",
+            "DOI": "10.1214/aos/1176349013"
+        },
+        {
+            "key": "ecta200493-bib-0062",
+            "volume-title": "Statistical Decision Functions",
+            "author": "Wald",
+            "year": "1950"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                26
+            ]
+        ],
+        "date-time": "2023-01-26T09:35:01Z",
+        "timestamp": 1674725701000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19304"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19304"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta19304",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

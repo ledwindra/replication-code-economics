@@ -1,0 +1,695 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ],
+        "date-time": "2023-01-27T06:01:21Z",
+        "timestamp": 1674799281211
+    },
+    "reference-count": 58,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001711",
+            "name": "Schweizerischer Nationalfonds zur F\u00f6rderung der Wissenschaftlichen Forschung",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100000183",
+            "name": "Army Research Office",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100014036",
+            "name": "Multidisciplinary University Research Initiative",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100000183",
+            "name": "Army Research Office",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>In this paper, we present a unifying framework for analyzing equilibria and designing interventions for large network games sampled from a stochastic network formation process represented by a graphon. To this end, we introduce a new class of infinite population games, termed \n            <jats:italic>graphon games</jats:italic>, in which a continuum of heterogeneous agents interact according to a graphon, and we show that equilibria of graphon games can be used to approximate equilibria of large network games sampled from the graphon. This suggests a new approach for design of interventions and parameter inference based on the limiting infinite population graphon game. We show that, under some regularity assumptions, such approach enables the design of asymptotically optimal interventions via the solution of an optimization problem with much lower dimension than the one based on the entire network structure. We illustrate our framework on a synthetic data set and show that the graphon intervention can be computed efficiently and based solely on aggregated relational data.\n          </jats:p>",
+    "DOI": "10.3982/ecta17564",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                24
+            ]
+        ],
+        "date-time": "2023-01-24T09:27:41Z",
+        "timestamp": 1674552461000
+    },
+    "page": "191-225",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Graphon Games: A Statistical Framework for Network Games and Interventions"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Francesca",
+            "family": "Parise",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "School of Electrical and Computer Engineering, Cornell University"
+                }
+            ]
+        },
+        {
+            "given": "Asuman",
+            "family": "Ozdaglar",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200512-bib-0001",
+            "volume-title": "The Oxford Handbook of the Economics of Networks",
+            "author": "Acemoglu",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200512-bib-0002",
+            "unstructured": "Akbarpour, Mohammad, Suraj Malladi, and Amin Saberi (2018): \u201cJust a few Seeds More: Value of Network Information for Diffusion,\u201d Available at SSRN 3062830."
+        },
+        {
+            "key": "ecta200512-bib-0003",
+            "volume-title": "Infinite Dimensional Analysis a Hitchhiker's Guide",
+            "author": "Aliprantis",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200512-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1016/j.jet.2015.01.007",
+            "volume": "157",
+            "author": "Allouch",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200512-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "286",
+            "DOI": "10.1016/j.cor.2004.06.005",
+            "volume": "33",
+            "author": "Altman",
+            "year": "2006",
+            "journal-title": "Computers & Operations Research"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "520",
+            "DOI": "10.1109/TNSE.2018.2884235",
+            "volume": "7",
+            "author": "Avella-Medina",
+            "year": "2018",
+            "journal-title": "IEEE Transactions on Network Science and Engineering"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200512-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.1111/j.1468-0262.2006.00709.x",
+            "volume": "74",
+            "author": "Ballester",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6144",
+            "key": "ecta200512-bib-0008",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1126/science.1236498",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200512-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "3019",
+            "DOI": "10.1090/tran/7543",
+            "volume": "372",
+            "author": "Borgs",
+            "year": "2019",
+            "journal-title": "Transactions of the American Mathematical Society"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200512-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.1016/j.ejc.2011.03.015",
+            "volume": "32",
+            "author": "Borgs",
+            "year": "2011",
+            "journal-title": "European Journal of Combinatorics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200512-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1801",
+            "DOI": "10.1016/j.aim.2008.07.008",
+            "volume": "219",
+            "author": "Borgs",
+            "year": "2008",
+            "journal-title": "Advances in Mathematics"
+        },
+        {
+            "key": "ecta200512-bib-0012",
+            "unstructured": "Boucher, Vincent, and Aristide Houndetoungan (2019): \u201cEstimating Peer Effects Using Partial Network Data,\u201d Working paper."
+        },
+        {
+            "key": "ecta200512-bib-0013",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Convex Optimization",
+            "author": "Boyd",
+            "year": "2004",
+            "DOI": "10.1017/CBO9780511804441"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "478",
+            "DOI": "10.1016/j.jet.2006.06.006",
+            "volume": "135",
+            "author": "Bramoull\u00e9",
+            "year": "2007",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200512-bib-0015",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The Oxford Handbook of the Economics of Networks",
+            "author": "Bramoull\u00e9",
+            "year": "2016",
+            "DOI": "10.1093/oxfordhb/9780199948277.001.0001"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200512-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "898",
+            "DOI": "10.1257/aer.104.3.898",
+            "volume": "104",
+            "author": "Bramoull\u00e9",
+            "year": "2014",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200512-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "2454",
+            "DOI": "10.1257/aer.20170861",
+            "volume": "110",
+            "author": "Breza",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200512-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "4129",
+            "volume-title": "2018 IEEE Conference on Decision and Control (CDC)",
+            "author": "Caines",
+            "year": "2018",
+            "DOI": "10.1109/CDC.2018.8619367"
+        },
+        {
+            "key": "ecta200512-bib-0019",
+            "unstructured": "Chandrasekhar, Arun, and Randall Lewis (2016): \u201cEconometrics of Sampled Networks,\u201d."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.37236/702",
+            "volume": "18",
+            "author": "Chung",
+            "year": "2011",
+            "journal-title": "The Electronic Journal of Combinatorics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200512-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "631",
+            "DOI": "10.1016/j.econlet.2012.06.024",
+            "volume": "116",
+            "author": "Cornes",
+            "year": "2012",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "ecta200512-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.geb.2020.03.008",
+            "volume": "122",
+            "author": "Dasaratha",
+            "year": "2020",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200512-bib-0023",
+            "doi-asserted-by": "crossref",
+            "unstructured": "De Paula, Aureo, Imran Rasul, and Pedro Souza (2018): \u201cRecovering Social Networks From Panel Data: Identification, Simulations and an Application,\u201d CEPR Discussion Paper No. DP12792.",
+            "DOI": "10.1920/wp.cem.2018.1718"
+        },
+        {
+            "key": "ecta200512-bib-0024",
+            "unstructured": "Diaconis, Persi, and Svante Janson (2007): \u201cGraph Limits and Exchangeable Random Graphs,\u201d arXiv preprint arXiv:0712.2749."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.1016/j.geb.2004.10.007",
+            "volume": "54",
+            "author": "Dubey",
+            "year": "2006",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200512-bib-0026",
+            "first-page": "2307",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "author": "Eldridge",
+            "year": "2016"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200512-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "2445",
+            "DOI": "10.3982/ECTA16173",
+            "volume": "88",
+            "author": "Galeotti",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.1111/j.1467-937X.2009.00570.x",
+            "volume": "77",
+            "author": "Galeotti",
+            "year": "2010",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200512-bib-0029",
+            "volume-title": "Proceedings of the IEEE Conference on Decision and Control",
+            "author": "Gao",
+            "year": "2017"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200512-bib-0030",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/1446-9022.1367",
+            "volume": "11",
+            "author": "Golub",
+            "year": "2012",
+            "journal-title": "Review of Network Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200512-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1287",
+            "DOI": "10.1093/qje/qjs021",
+            "volume": "127",
+            "author": "Golub",
+            "year": "2012",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "9",
+            "key": "ecta200512-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1560",
+            "DOI": "10.1109/TAC.2007.904450",
+            "volume": "52",
+            "author": "Huang",
+            "year": "2007",
+            "journal-title": "IEEE Transactions on Automatic Control"
+        },
+        {
+            "key": "ecta200512-bib-0033",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Applications of Functional Analysis and Operator Theory",
+            "volume": "200",
+            "author": "Hutson",
+            "year": "2005",
+            "DOI": "10.1016/S0076-5392(05)80032-3"
+        },
+        {
+            "issue": "2\u20133",
+            "key": "ecta200512-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1162/jeea.2005.3.2-3.617",
+            "volume": "3",
+            "author": "Jackson",
+            "year": "2005",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "ecta200512-bib-0035",
+            "unstructured": "Jackson, Matthew O., and Evan Storms (2019): \u201cBehavioral Communities and the Atomic Structure of Networks,\u201d Available at SSRN 3049748."
+        },
+        {
+            "key": "ecta200512-bib-0036",
+            "volume-title": "Handbook of Game Theory",
+            "volume": "4",
+            "author": "Jackson",
+            "year": "2014"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1007/s00199-008-0419-8",
+            "volume": "43",
+            "author": "Jensen",
+            "year": "2010",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200512-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "volume-title": "Networks and Groups",
+            "author": "Johnson",
+            "year": "2003",
+            "DOI": "10.1007/978-3-540-24790-6_4"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200512-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1631",
+            "DOI": "10.1111/j.1468-0262.2004.00549.x",
+            "volume": "72",
+            "author": "Kalai",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "94",
+            "DOI": "10.1016/j.geb.2003.06.007",
+            "volume": "48",
+            "author": "Kukushkin",
+            "year": "2004",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200512-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1007/s11537-007-0657-8",
+            "volume": "2",
+            "author": "Lasry",
+            "year": "2007",
+            "journal-title": "Japanese Journal of Mathematics"
+        },
+        {
+            "key": "ecta200512-bib-0042",
+            "unstructured": "Lee, Christina E., and Devavrat Shah (2017): \u201cUnifying Framework for Crowd-Sourcing via Graphon Estimation,\u201d arXiv preprint arXiv:1703.08085."
+        },
+        {
+            "key": "ecta200512-bib-0043",
+            "unstructured": "Lewbel, Arthur, Xi Qu, and Xun Tang (2019): \u201cSocial Networks With Misclassified or Unobserved Links,\u201d Manuscript."
+        },
+        {
+            "key": "ecta200512-bib-0044",
+            "volume-title": "Large Networks and Graph Limits",
+            "volume": "60",
+            "author": "Lov\u00e1sz",
+            "year": "2012"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200512-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "933",
+            "DOI": "10.1016/j.jctb.2006.05.002",
+            "volume": "96",
+            "author": "Lov\u00e1sz",
+            "year": "2006",
+            "journal-title": "Journal of Combinatorial Theory, Series B"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1109/TCST.2011.2174059",
+            "volume": "21",
+            "author": "Ma",
+            "year": "2013",
+            "journal-title": "IEEE Transactions on Control Systems Technology"
+        },
+        {
+            "key": "ecta200512-bib-0047",
+            "volume-title": "Proceedings of the European Signal Processing Conference (EUSIPCO)",
+            "author": "Morency",
+            "year": "2017"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200512-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "3302",
+            "DOI": "10.1137/120889496",
+            "volume": "51",
+            "author": "Nourian",
+            "year": "2013",
+            "journal-title": "SIAM Journal on Control and Optimization"
+        },
+        {
+            "key": "ecta200512-bib-0049",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Parise, Francesca, and Asuman Ozdaglar (2018): \u201cGraphon Games,\u201d arXiv preprint arXiv:1802.00080 (v4).",
+            "DOI": "10.1145/3328526.3329638"
+        },
+        {
+            "key": "ecta200512-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1016/j.geb.2018.11.012",
+            "volume": "114",
+            "author": "Parise",
+            "year": "2019",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200512-bib-0051",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Parise, Francesca, and Asuman Ozdaglar (2023): \u201cSupplement to \u2018Graphon Games: A Statistical Framework for Network Games and Interventions\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA17564.",
+            "DOI": "10.3982/ECTA17564"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/jleo/ewp038",
+            "volume": "28",
+            "author": "Patacchini",
+            "year": "2012",
+            "journal-title": "The Journal of Law, Economics, & Organization"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200512-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "520",
+            "DOI": "10.2307/1911749",
+            "volume": "33",
+            "author": "Rosen",
+            "year": "1965",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200512-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1257/aer.20180601",
+            "volume": "110",
+            "author": "Sadler",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200512-bib-0055",
+            "volume-title": "Population Games and Evolutionary Dynamics",
+            "author": "Sandholm",
+            "year": "2010"
+        },
+        {
+            "key": "ecta200512-bib-0056",
+            "volume-title": "Fixed Point Theorems",
+            "author": "Smart",
+            "year": "1974"
+        },
+        {
+            "key": "ecta200512-bib-0057",
+            "doi-asserted-by": "crossref",
+            "volume": "185",
+            "author": "Ushchev",
+            "year": "2020",
+            "journal-title": "Journal of Economic Theory",
+            "DOI": "10.1016/j.jet.2019.104969"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200512-bib-0058",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.1257/0022051054661558",
+            "volume": "43",
+            "author": "Vives",
+            "year": "2005",
+            "journal-title": "Journal of Economic Literature"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                26
+            ]
+        ],
+        "date-time": "2023-01-26T09:38:10Z",
+        "timestamp": 1674725890000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA17564"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 58,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17564"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17564",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}
