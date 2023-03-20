@@ -1,0 +1,471 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                14
+            ]
+        ],
+        "date-time": "2023-03-14T04:46:45Z",
+        "timestamp": 1678769205152
+    },
+    "reference-count": 32,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Shape restrictions have played a central role in economics as both testable implications of theory and sufficient conditions for obtaining informative counterfactual predictions. In this paper, we provide a general procedure for inference under shape restrictions in identified and partially identified models defined by conditional moment restrictions. Our test statistics and proposed inference methods are based on the minimum of the generalized method of moments (GMM) objective function with and without shape restrictions. Uniformly valid critical values are obtained through a bootstrap procedure that approximates a subset of the true local parameter space. In an empirical analysis of the effect of childbearing on female labor supply, we show that employing shape restrictions in linear instrumental variables (IV) models can lead to shorter confidence regions for both local and average treatment effects. Other applications we discuss include inference for the variability of quantile IV treatment effects and for bounds on average equivalent variation in a demand model with general heterogeneity.</jats:p>",
+    "DOI": "10.3982/ecta13830",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                13
+            ]
+        ],
+        "date-time": "2023-03-13T11:48:34Z",
+        "timestamp": 1678708114000
+    },
+    "page": "709-736",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Constrained Conditional Moment Restriction Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Victor",
+            "family": "Chernozhukov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, M.I.T."
+                }
+            ]
+        },
+        {
+            "given": "Whitney K.",
+            "family": "Newey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, M.I.T."
+                }
+            ]
+        },
+        {
+            "given": "Andres",
+            "family": "Santos",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, U.C.L.A."
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200524-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1111/1468-0262.00470",
+            "volume": "71",
+            "author": "Ai",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.3982/ECTA9370",
+            "volume": "81",
+            "author": "Andrews",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0003",
+            "first-page": "450",
+            "volume": "88",
+            "author": "Angrist",
+            "year": "1998",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "ecta200524-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "2086",
+            "DOI": "10.1214/15-AOS1342",
+            "volume": "43",
+            "author": "Armstrong",
+            "year": "2015",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200524-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1613",
+            "DOI": "10.1111/j.1468-0262.2007.00808.x",
+            "volume": "75",
+            "author": "Blundell",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE490",
+            "volume": "8",
+            "author": "Bugni",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200524-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.3982/QE722",
+            "volume": "9",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200524-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.3982/ECTA10771",
+            "volume": "83",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0009",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, Xiaohong, Elie Tamer, and Alexander Torgovitsky (2011): \u201cSensitivity Analysis in Semiparametric Likelihood Models,\u201d Working paper, Yale University.",
+            "DOI": "10.2139/ssrn.1963746"
+        },
+        {
+            "key": "ecta200524-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1111/j.1468-0262.2007.00794.x",
+            "volume": "75",
+            "author": "Chernozhukov",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0011",
+            "unstructured": "Chernozhukov, Victor, Whitney K. Newey, and Andres Santos (2022): \u201cConstrained Conditional Moment Restriction Models,\u201d arXiv preprint, arXiv:1509.06311."
+        },
+        {
+            "key": "ecta200524-bib-0012",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Whitney K. Newey, and Andres Santos (2023): \u201cSupplement to \u2018Constrained Conditional Moment Restriction Models\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA13830.",
+            "DOI": "10.3982/ECTA13830"
+        },
+        {
+            "key": "ecta200524-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.3982/ECTA13639",
+            "volume": "85",
+            "author": "Chetverikov",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "2439",
+            "DOI": "10.3982/ECTA17764",
+            "volume": "89",
+            "author": "Fang",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1016/j.jeconom.2015.06.020",
+            "volume": "189",
+            "author": "Freyberger",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200524-bib-0016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Freyberger, Joachim, and Brandon Reeves (2018): \u201cInference Under Shape Restrictions,\u201d Available at SSRN 3011474.",
+            "DOI": "10.2139/ssrn.3011474"
+        },
+        {
+            "key": "ecta200524-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.1257/aer.97.3.713",
+            "volume": "97",
+            "author": "Gentzkow",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200524-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "author": "Hansen",
+            "year": "1996",
+            "journal-title": "Econometrica",
+            "DOI": "10.2307/2171789"
+        },
+        {
+            "key": "ecta200524-bib-0019",
+            "first-page": "891",
+            "volume": "50",
+            "author": "Hansen",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.3982/ECTA11899",
+            "volume": "84",
+            "author": "Hausman",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1845",
+            "DOI": "10.1111/j.1468-0262.2004.00555.x",
+            "volume": "72",
+            "author": "Imbens",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1093/rfs/13.2.433",
+            "volume": "13",
+            "author": "Jackwerth",
+            "year": "2000",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "ecta200524-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "1397",
+            "DOI": "10.3982/ECTA14075",
+            "volume": "87",
+            "author": "Kaido",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.3982/ECTA17489",
+            "volume": "89",
+            "author": "Kline",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0026",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "IV",
+            "author": "Matzkin",
+            "year": "1994"
+        },
+        {
+            "key": "ecta200524-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1565",
+            "DOI": "10.1111/1468-0262.00459",
+            "volume": "71",
+            "author": "Newey",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.3982/ECTA6706",
+            "volume": "78",
+            "author": "Romano",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.3982/ECTA7493",
+            "volume": "80",
+            "author": "Santos",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0030",
+            "unstructured": "Tao, Jing (2016): \u201cOn the Asymptotic Theory for Semiparametric GMM Models with Partial Identification,\u201d Working paper, University of Washington."
+        },
+        {
+            "key": "ecta200524-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.3982/ECTA14138",
+            "volume": "87",
+            "author": "Torgovitsky",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200524-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.3982/QE1023",
+            "volume": "11",
+            "author": "Zhu",
+            "year": "2020",
+            "journal-title": "Quantitative Economics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                13
+            ]
+        ],
+        "date-time": "2023-03-13T11:54:03Z",
+        "timestamp": 1678708443000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA13830"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 32,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA13830"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta13830",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}
