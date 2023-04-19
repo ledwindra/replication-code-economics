@@ -1,0 +1,453 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                18
+            ]
+        ],
+        "date-time": "2023-04-18T18:19:03Z",
+        "timestamp": 1681841943425
+    },
+    "reference-count": 24,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        6
+                    ]
+                ],
+                "date-time": "2022-10-06T00:00:00Z",
+                "timestamp": 1665014400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                15
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Clustered standard errors, with clusters defined by factors such as geography, are widespread in empirical research in economics and many other disciplines. Formally, clustered standard errors adjust for the correlations induced by sampling the outcome variable from a data-generating process with unobserved cluster-level components. However, the standard econometric framework for clustering leaves important questions unanswered: (i) Why do we adjust standard errors for clustering in some ways but not others, for example, by state but not by gender, and in observational studies but not in completely randomized experiments? (ii) Is the clustered variance estimator valid if we observe a large fraction of the clusters in the population? (iii) In what settings does the choice of whether and how to cluster make a difference? We address these and other questions using a novel framework for clustered inference on average treatment effects. In addition to the common sampling component, the new framework incorporates a design component that accounts for the variability induced on the estimator by the treatment assignment mechanism. We show that, when the number of clusters in the sample is a nonnegligible fraction of the number of clusters in the population, conventional clustered standard errors can be severely inflated, and propose new variance estimators that correct for this bias.</jats:p>",
+    "DOI": "10.1093/qje/qjac038",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                28
+            ]
+        ],
+        "date-time": "2022-09-28T20:47:31Z",
+        "timestamp": 1664398051000
+    },
+    "page": "1-35",
+    "source": "Crossref",
+    "is-referenced-by-count": 35,
+    "title": [
+        "When Should You Adjust Standard Errors for Clustering?"
+    ],
+    "prefix": "10.1093",
+    "volume": "138",
+    "author": [
+        {
+            "given": "Alberto",
+            "family": "Abadie",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology , United States"
+                }
+            ]
+        },
+        {
+            "given": "Susan",
+            "family": "Athey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Guido W",
+            "family": "Imbens",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Michigan State University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Jeffrey M",
+            "family": "Wooldridge",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                6
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022121514281069800_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "article-title": "\u201cSampling-Based versus Design-Based Uncertainty in Regression Analysis,\u201d",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022121514281069800_bib2",
+            "article-title": "\u201cReplication Data for: \u2018When Should You Adjust Standard Errors for Clustering?\u2019,\u201d",
+            "author": "Abadie",
+            "year": "2022"
+        },
+        {
+            "key": "2022121514281069800_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1111/j.1468-0084.1987.mp49004006.x",
+            "article-title": "\u201cPractitioners Corner: Computing Robust Standard Errors for Within-Groups Estimators,\u201d",
+            "volume": "49",
+            "author": "Arellano",
+            "year": "1987",
+            "journal-title": "Oxford Bulletin of Economics and Statistics"
+        },
+        {
+            "key": "2022121514281069800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1162/003355304772839588",
+            "article-title": "\u201cHow Much Should We Trust Differences-in-Differences Estimates?",
+            "volume": "119",
+            "author": "Bertrand",
+            "year": "2004",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022121514281069800_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.3368/jhr.50.2.317",
+            "article-title": "\u201cA Practitioner\u2019s Guide to Cluster-Robust Inference,\u201d",
+            "volume": "50",
+            "author": "Cameron",
+            "year": "2015",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "key": "2022121514281069800_bib6",
+            "first-page": "399",
+            "article-title": "\u201cA Bootstrap Method for Finite Population,\u201d",
+            "author": "Chao",
+            "year": "1985",
+            "journal-title": "Sankhy\u0101: The Indian Journal of Statistics, Series A"
+        },
+        {
+            "key": "2022121514281069800_bib7",
+            "article-title": "\u201cExaminer and Judge Designs in Economics: A Practitioner\u2019s Guide,\u201d",
+            "author": "Chyn",
+            "year": "2022"
+        },
+        {
+            "key": "2022121514281069800_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1162/qjec.2010.125.1.1",
+            "article-title": "\u201cFree Distribution or Cost-Sharing? Evidence from a Randomized Malaria Prevention Experiment,\u201d",
+            "volume": "125",
+            "author": "Cohen",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022121514281069800_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1214/aoms/1177704156",
+            "article-title": "\u201cAsymptotic Normality and Consistency of the Least Squares Estimators for Families of Linear Regressions,\u201d",
+            "volume": "34",
+            "author": "Eicker",
+            "year": "1963",
+            "journal-title": "Annals of Mathematical Statististics"
+        },
+        {
+            "key": "2022121514281069800_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.1162/qjec.2008.123.1.279",
+            "article-title": "\u201cPreschool Television Viewing and Adolescent Test Scores: Historical Evidence from the Coleman Study,\u201d",
+            "volume": "123",
+            "author": "Gentzkow",
+            "year": "2008",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022121514281069800_bib11",
+            "first-page": "221",
+            "article-title": "\u201cThe Behavior of Maximum Likelihood Estimates under Nonstandard Conditions,\u201d",
+            "volume-title": "Proceedings of the Fifth Berkeley Symposium on Mathematical Statistics and Probability",
+            "author": "Huber"
+        },
+        {
+            "key": "2022121514281069800_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1460",
+            "DOI": "10.1214/20-AOS2009",
+            "article-title": "\u201cA Causal Bootstrap,\u201d",
+            "volume": "49",
+            "author": "Imbens",
+            "year": "2021",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2022121514281069800_bib13",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Causal Inference for Statistics, Social, and Biomedical Sciences",
+            "author": "Imbens",
+            "year": "2015",
+            "DOI": "10.1017/CBO9781139025751"
+        },
+        {
+            "key": "2022121514281069800_bib14",
+            "volume-title": "Survey Sampling",
+            "author": "Kish",
+            "year": "1995"
+        },
+        {
+            "key": "2022121514281069800_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1093/biomet/73.1.13",
+            "article-title": "\u201cLongitudinal Data Analysis Using Generalized Linear Models,\u201d",
+            "volume": "73",
+            "author": "Liang",
+            "year": "1986",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2022121514281069800_bib16",
+            "article-title": "\u201cCluster-Robust Inference: A Guide to Empirical Practice,\u201d",
+            "author": "MacKinnon",
+            "year": "",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022121514281069800_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2143",
+            "DOI": "10.3982/ECTA15383",
+            "article-title": "\u201cBootstrap with Cluster-Dependence in Two or More Dimensions,\u201d",
+            "volume": "89",
+            "author": "Menzel",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022121514281069800_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1016/0304-4076(86)90021-7",
+            "article-title": "\u201cRandom Group Effects and the Precision of Regression Estimates,\u201d",
+            "volume": "32",
+            "author": "Moulton",
+            "year": "1986",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2022121514281069800_bib19",
+            "first-page": "275",
+            "article-title": "\u201cDiagnostics for Group Effects in Regression Analysis,\u201d",
+            "volume": "5",
+            "author": "Moulton",
+            "year": "1987",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2022121514281069800_bib20",
+            "first-page": "465",
+            "article-title": "\u201cOn the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9,\u201d",
+            "volume": "5",
+            "author": "Neyman",
+            "year": "1923/1990",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "2022121514281069800_bib21",
+            "article-title": "\u201cDesign-Based Uncertainty for Quasi-Experiments,\u201d Working Paper",
+            "author": "Rambachan",
+            "year": "2022"
+        },
+        {
+            "key": "2022121514281069800_bib22",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Sampling",
+            "author": "Thompson",
+            "year": "2012",
+            "DOI": "10.1002/9781118162934"
+        },
+        {
+            "key": "2022121514281069800_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/1912934",
+            "article-title": "\u201cA Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity,\u201d",
+            "volume": "48",
+            "author": "White",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2022121514281069800_bib24",
+            "article-title": "\u201cAsymptotic Properties of M-estimators with Finite Populations under Cluster Sampling and Cluster Assignment,\u201d",
+            "author": "Xu",
+            "year": "2019"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjac038/47079044/qjac038.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/1/1/47915437/qjac038.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/1/1/47915437/qjac038.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                15
+            ]
+        ],
+        "date-time": "2022-12-15T22:34:22Z",
+        "timestamp": 1671143662000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/138/1/1/6750017"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                6
+            ]
+        ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    6
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    12,
+                    15
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjac038",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                6
+            ]
+        ]
+    }
+}

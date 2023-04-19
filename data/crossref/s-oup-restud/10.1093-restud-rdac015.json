@@ -1,0 +1,773 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                18
+            ]
+        ],
+        "date-time": "2023-04-18T10:59:24Z",
+        "timestamp": 1681815564074
+    },
+    "reference-count": 57,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        3,
+                        15
+                    ]
+                ],
+                "date-time": "2022-03-15T00:00:00Z",
+                "timestamp": 1647302400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                12
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose a simple test for moment inequalities that has exact size in normal models with known variance and has uniformly asymptotically exact size under asymptotic normality. The test compares the quasi-likelihood ratio statistic to a chi-squared critical value, where the degree of freedom is the rank of the inequalities that are active in finite samples. The test requires no simulation and thus is computationally fast and especially suitable for constructing confidence sets for parameters by test inversion. It uses no tuning parameter for moment selection and yet still adapts to the slackness of the moment inequalities. Furthermore, we show how the test can be easily adapted to inference on subvectors in the common empirical setting of conditional moment inequalities with nuisance parameters entering linearly. User-friendly Matlab code to implement the test is provided.</jats:p>",
+    "DOI": "10.1093/restud/rdac015",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                14
+            ]
+        ],
+        "date-time": "2022-03-14T12:09:21Z",
+        "timestamp": 1647259761000
+    },
+    "page": "201-228",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Simple Adaptive Size-Exact Testing for Full-Vector and Subvector Inference in Moment Inequality Models"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Gregory",
+            "family": "Cox",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "National University of Singapore Department of Economics,"
+                }
+            ]
+        },
+        {
+            "given": "Xiaoxia",
+            "family": "Shi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Wisconsin-Madison Department of Economics,"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                15
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023011208524010200_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2805",
+            "DOI": "10.3982/ECTA8166",
+            "article-title": "Inference for Parameters Defined by Moment Inequalities: A Recommended Moment Selection Procedure",
+            "volume": "80",
+            "author": "ANDREWS,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1017/S0266466608090257",
+            "article-title": "Validity of Subsampling and \u201cPlug-In Asymptotic\u201d Inference for Parameters Defined by Moment Inequalities",
+            "volume": "25",
+            "author": "ANDREWS,",
+            "year": "2009",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2023011208524010200_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.3982/ECTA7502",
+            "article-title": "Inference for Parameters Defined by Moment Inequalities using Generalized Moment Selection",
+            "volume": "78",
+            "author": "ANDREWS,",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.3982/ECTA9370",
+            "article-title": "Inference Based on Conditional Moment Inequalities",
+            "volume": "81",
+            "author": "ANDREWS,",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B5",
+            "doi-asserted-by": "crossref",
+            "article-title": "Inference for Linear Conditional Moment Inequalities",
+            "author": "ANDREWS,",
+            "year": "2019",
+            "DOI": "10.3386/w26374"
+        },
+        {
+            "key": "2023011208524010200_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1773",
+            "DOI": "10.1257/aer.102.5.1773",
+            "article-title": "A Field Study on Matching with Network Externalities",
+            "volume": "102",
+            "author": "BACCARA,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023011208524010200_B7",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Linear Programming Duality: An Introduction to Oriented Matroids",
+            "author": "BACHEM,",
+            "year": "1992",
+            "DOI": "10.1007/978-3-642-58152-6"
+        },
+        {
+            "key": "2023011208524010200_B8",
+            "first-page": "1",
+            "article-title": "A Two-Step Method for Testing Many Moment Inequalities",
+            "author": "BAI,",
+            "year": "2021",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023011208524010200_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1331",
+            "DOI": "10.1111/j.1468-0262.2007.00796.x",
+            "article-title": "Estimating Dynamic Models of Imperfect Competition",
+            "volume": "75",
+            "author": "BAJARI,",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.1111/j.2517-6161.1961.tb00410.x",
+            "article-title": "A Test of Homogeneity of Means under Restricted Alternatives",
+            "volume": "23",
+            "author": "BARTHOLOMEW,",
+            "year": "1961",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "key": "2023011208524010200_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1785",
+            "DOI": "10.3982/ECTA8680",
+            "article-title": "Sharp Identification Regions in Models with Convex Moment Predictions",
+            "volume": "79",
+            "author": "BERESTEANU,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1111/j.1468-0262.2006.00750.x",
+            "article-title": "Changes in the Distribution of Male and Female Wages Accounting for Employment Composition using Bounds",
+            "volume": "75",
+            "author": "BLUNDELL,",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE490",
+            "article-title": "Inference for Functions of Partially Identified Parameters in Moment Inequality Models",
+            "volume": "8",
+            "author": "BUGNI,",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2023011208524010200_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "735",
+            "DOI": "10.3982/ECTA8056",
+            "article-title": "Bootstrap Inference in Partially Identified Models Defined by Moment Inequalities: Coverage of the Identified Set",
+            "volume": "78",
+            "author": "BUGNI,",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1016/j.jeconom.2009.11.009",
+            "article-title": "EL Inference for Partially Identified Models: Large Deviations Optimality and Bootstrap Validity",
+            "volume": "156",
+            "author": "CANAY,",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023011208524010200_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1017/9781108227223.009",
+            "article-title": "Practical and Theoretical Advances for Inference in Partially Identified Models",
+            "volume-title": "Advances in Economics and Econometrics",
+            "author": "CANAY,",
+            "year": "2017"
+        },
+        {
+            "key": "2023011208524010200_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1965",
+            "DOI": "10.3982/ECTA14525",
+            "article-title": "Monte Carlo Confidence Sets for Identified Sets",
+            "volume": "86",
+            "author": "CHEN,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1111/j.1468-0262.2007.00794.x",
+            "article-title": "Estimation and Confidence Regions for Parameter Sets in Econometric Models",
+            "volume": "75",
+            "author": "CHERNOZHUKOV,",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "969",
+            "DOI": "10.3982/ECTA9043",
+            "article-title": "Bounds on Elasticities with Optimization Frictions: A Synthesis of Micro and Macro Evidence on Labor Supply",
+            "volume": "80",
+            "author": "CHETTY,",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B20",
+            "article-title": "Simple Inference on Functionals of Set-Identified Parameters Defined by Linear Moments",
+            "author": "CHO,",
+            "year": "2020"
+        },
+        {
+            "key": "2023011208524010200_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1791",
+            "DOI": "10.3982/ECTA5368",
+            "article-title": "Market Structure and Multiple Equilibria in Airline Markets",
+            "volume": "77",
+            "author": "CILIBERTO,",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1003",
+            "DOI": "10.1093/restud/rdu004",
+            "article-title": "Upstream Innovation and Product Variety in the U.S. Home PC Market",
+            "volume": "81",
+            "author": "EIZENBERG,",
+            "year": "2014",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023011208524010200_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1486",
+            "DOI": "10.1257/aer.20151422",
+            "article-title": "Beyond Truth-Telling: Preference Estimation with Centralized School Choice and College Admissions",
+            "volume": "109",
+            "author": "FACK,",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023011208524010200_B24",
+            "first-page": "99",
+            "article-title": "Solution d\u2019une question particuli\u00e8re du calcul des in\u00e9galit\u00e9s",
+            "author": "FOURIER,",
+            "year": "1826",
+            "journal-title": "Nouveau Bulletin des sciences par la Soci\u00e9t\u00e9 philomathique de Paris"
+        },
+        {
+            "key": "2023011208524010200_B25",
+            "article-title": "Inference in High-Dimensional Set-Identified Affine Models",
+            "author": "GAFAROV,",
+            "year": "2019"
+        },
+        {
+            "key": "2023011208524010200_B26",
+            "volume-title": "The Theory of Linear Economic Models",
+            "author": "GALE,",
+            "year": "1960",
+            "edition": "1st edn"
+        },
+        {
+            "key": "2023011208524010200_B27",
+            "article-title": "Estimating Demand for Differentiated Products with Zeroes in Market Share Data",
+            "author": "GANDHI,",
+            "year": "2019"
+        },
+        {
+            "key": "2023011208524010200_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1016/j.econlet.2007.09.002",
+            "article-title": "Specification Testing under Moment Inequalities",
+            "volume": "99",
+            "author": "GUGGENBERGER,",
+            "year": "2008",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2023011208524010200_B29",
+            "article-title": "Gaming the Boston School Choice Mechanism in Beijing",
+            "author": "HE,",
+            "year": "2017"
+        },
+        {
+            "key": "2023011208524010200_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1017/9781108227223.010",
+            "article-title": "Partial Identification in Applied Research: Benefits and Challenges",
+            "volume-title": "Advances in Economics and Econometrics",
+            "author": "HO,",
+            "year": "2017"
+        },
+        {
+            "key": "2023011208524010200_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.3982/ECTA7699",
+            "article-title": "The Diffusion of Wal-Mart and Economies of Density",
+            "volume": "79",
+            "author": "HOLMES,",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "398",
+            "DOI": "10.1162/REST_a_00450",
+            "article-title": "Testing Instrument Validity for LATE Identification Based on Inequality Moment Constraints",
+            "volume": "97",
+            "author": "HUBER,",
+            "year": "2015",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2023011208524010200_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "688",
+            "DOI": "10.1086/696228",
+            "article-title": "Can Words Get in the Way? The Effect of Deliberation in Collective Decision-Making",
+            "volume": "126",
+            "author": "IARYCZOWER,",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023011208524010200_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1397",
+            "DOI": "10.3982/ECTA14075",
+            "article-title": "Confidence Intervals for Projections of Partially Identified Parameters",
+            "volume": "87",
+            "author": "KAIDO,",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B35",
+            "article-title": "Supermarkets and Zoning Laws",
+            "author": "KATZ,",
+            "year": "2007"
+        },
+        {
+            "key": "2023011208524010200_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "624",
+            "DOI": "10.1257/aer.103.2.624",
+            "article-title": "Inferring Strategic Voting",
+            "volume": "103",
+            "author": "KAWAI,",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023011208524010200_B37",
+            "article-title": "Con2vert - Constraints to Vertices",
+            "author": "KLEDER,",
+            "year": "2020"
+        },
+        {
+            "key": "2023011208524010200_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1024",
+            "DOI": "10.1214/12-AOS989",
+            "article-title": "Nonlinear Shrinkage Estimation of Large-Dimensional Covariance Matrices",
+            "volume": "40",
+            "author": "LEDOIT,",
+            "year": "2012",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2023011208524010200_B39",
+            "article-title": "Estimation of Discrete Games with Weak Assumptions on Information",
+            "author": "MAGNOLFI,",
+            "year": "2016"
+        },
+        {
+            "key": "2023011208524010200_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "519",
+            "DOI": "10.1111/1468-0262.00294",
+            "article-title": "Inference on Regressions with Interval Data on a Regressor or Outcome",
+            "volume": "70",
+            "author": "MANSKI,",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "677",
+            "DOI": "10.1093/biomet/asaa013",
+            "article-title": "Adaptive Critical Value for Constrained Likelihood Ratio Testing",
+            "volume": "107",
+            "author": "MOHAMAD,",
+            "year": "2020",
+            "journal-title": "Biometrica"
+        },
+        {
+            "key": "2023011208524010200_B42",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/bs.hoe.2020.05.002",
+            "article-title": "Microeconometrics with Partial Identification Econometrics with Partial Identification",
+            "volume-title": "Handbook of Econometrics,",
+            "author": "MOLINARI,",
+            "year": "2020",
+            "edition": "1st edn"
+        },
+        {
+            "key": "2023011208524010200_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "2668",
+            "DOI": "10.1093/restud/rdz007",
+            "article-title": "Extended Gravity",
+            "volume": "86",
+            "author": "MORALES,",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023011208524010200_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "659",
+            "DOI": "10.1162/REST_a_00171",
+            "article-title": "Identification with Imperfect Instruments",
+            "volume": "94",
+            "author": "NEVO,",
+            "year": "2012",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2023011208524010200_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA6865",
+            "article-title": "Moment Inequalities and their Applications",
+            "volume": "83",
+            "author": "PAKES,",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B46",
+            "article-title": "An Honest Approach to Parallel Trends",
+            "author": "RAMBACHAN,",
+            "year": "2020"
+        },
+        {
+            "key": "2023011208524010200_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1016/0304-4076(86)90065-5",
+            "article-title": "Modified Lagrange Multiplier Tests for Problems with One-Sided Alternatives",
+            "volume": "31",
+            "author": "ROGERS,",
+            "year": "1986",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023011208524010200_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1979",
+            "DOI": "10.3982/ECTA11011",
+            "article-title": "A Practical Two-Step Method for Testing Moment Inequalities",
+            "volume": "82",
+            "author": "ROMANO,",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023011208524010200_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "2786",
+            "DOI": "10.1016/j.jspi.2008.03.015",
+            "article-title": "Inference for Identifiable Parameters in Partially Identified Econometric Models",
+            "volume": "138",
+            "author": "ROMANO,",
+            "year": "2008",
+            "journal-title": "Journal of Statistical Planning and Inference"
+        },
+        {
+            "key": "2023011208524010200_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "2798",
+            "DOI": "10.1214/12-AOS1051",
+            "article-title": "On the Uniform Asymptotic Validity of Subsampling and the Bootstrap",
+            "volume": "40",
+            "author": "ROMANO,",
+            "year": "2012",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2023011208524010200_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.jeconom.2008.08.001",
+            "article-title": "Confidence Sets for Partially Identified Parameters that Satisfy a Finite Number of Moment Inequalities",
+            "volume": "146",
+            "author": "ROSEN,",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023011208524010200_B52",
+            "article-title": "A Structural Econometric Analysis of Network Formation Games",
+            "author": "SHENG,",
+            "year": "2016"
+        },
+        {
+            "key": "2023011208524010200_B53",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Linear and Integer Optimization: Theory and Practice",
+            "author": "SIERKSMA,",
+            "year": "2015",
+            "DOI": "10.1201/b18378"
+        },
+        {
+            "key": "2023011208524010200_B54",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Ice Cream Split: Empirically Distinguishing Price and Product Space Collusion",
+            "author": "SULLIVAN,",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.3321948"
+        },
+        {
+            "key": "2023011208524010200_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1111/1467-937X.00240",
+            "article-title": "Incomplete Simultaneous Discrete Response Model with Multiple Equilibria",
+            "volume": "70",
+            "author": "TAMER,",
+            "year": "2003",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023011208524010200_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.1016/j.jmoneco.2004.05.007",
+            "article-title": "What are the Effects of Monetary Policy on Output? Results from an Agnostic Identification Procedure",
+            "volume": "52",
+            "author": "UHLIG,",
+            "year": "2005",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2023011208524010200_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1364",
+            "DOI": "10.1257/aer.20160863",
+            "article-title": "Trucks Without Bailouts: Equilibrium Product Characteristics for Commercial Vehicles",
+            "volume": "108",
+            "author": "WOLLMAN,",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac015/43848158/rdac015.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/1/201/48523272/rdac015.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/1/201/48523272/rdac015.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2023-01-12T08:54:59Z",
+        "timestamp": 1673513699000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/1/201/6548809"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                15
+            ]
+        ]
+    },
+    "references-count": 57,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    3,
+                    15
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    1,
+                    12
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac015",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                15
+            ]
+        ]
+    }
+}

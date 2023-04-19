@@ -1,0 +1,633 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                16
+            ]
+        ],
+        "date-time": "2022-12-16T05:59:15Z",
+        "timestamp": 1671170355679
+    },
+    "reference-count": 43,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        30
+                    ]
+                ],
+                "date-time": "2022-08-30T00:00:00Z",
+                "timestamp": 1661817600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000155",
+            "name": "SSHRC",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100014390",
+            "name": "AEA",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "AEARCTR-0005200"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                15
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We experimentally test several approaches to increasing the demand for workers with a criminal record on a nationwide staffing platform by addressing potential downside risk and productivity concerns. The staffing platform asked hiring managers to make a series of hypothetical hiring decisions that affected whether workers with a criminal record could accept their jobs in the future. We find that 39% of businesses in our sample are willing to work with individuals with a criminal record at baseline, which rises to over 50% when businesses are offered crime and safety insurance, a single performance review, or a limited background check covering just the past year. Wage subsidies can achieve similar increases but at a substantially higher cost. Based on our findings, the staffing platform relaxed the criminal background check requirement and offered crime and safety insurance to interested businesses.</jats:p>",
+    "DOI": "10.1093/qje/qjac029",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                24
+            ]
+        ],
+        "date-time": "2022-08-24T15:37:21Z",
+        "timestamp": 1661355441000
+    },
+    "page": "103-150",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Increasing the Demand for Workers with a Criminal Record"
+    ],
+    "prefix": "10.1093",
+    "volume": "138",
+    "author": [
+        {
+            "given": "Zo\u00eb",
+            "family": "Cullen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard Business School and National Bureau of Economic Research , United States"
+                }
+            ]
+        },
+        {
+            "given": "Will",
+            "family": "Dobbie",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard Kennedy School, Abdul Latif Jameel Poverty Action Lab, and National Bureau of Economic Research , United States"
+                }
+            ]
+        },
+        {
+            "given": "Mitchell",
+            "family": "Hoffman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto Rotman School of Management, Canada, National Bureau of Economic Research, United States, and Centre for Economic Policy Research , United Kingdom"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2022121514280917300_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "560",
+            "DOI": "10.1257/aer.p20171003",
+            "article-title": "The Effect of Criminal Records on Access to Employment",
+            "volume": "107",
+            "author": "Agan",
+            "year": "2017",
+            "journal-title": "American Economic Review: Papers & Proceedings"
+        },
+        {
+            "key": "2022121514280917300_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1093/qje/qjx028",
+            "article-title": "Ban the Box, Criminal Records, and Racial Discrimination: A Field Experiment",
+            "volume": "133",
+            "author": "Agan",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2022121514280917300_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.1162/REST_a_00499",
+            "article-title": "The Price Is Right: Updating Inflation Expectations in a Randomized Price Information Experiment",
+            "volume": "98",
+            "author": "Armantier",
+            "year": "2016",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2022121514280917300_bib4",
+            "article-title": "IPFWEIGHT: Stata Module to Create Adjustment Weights for Surveys",
+            "author": "Bergmann",
+            "year": "2011",
+            "journal-title": "Statistical Software Components, Boston College Department of Economics"
+        },
+        {
+            "key": "2022121514280917300_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "923",
+            "DOI": "10.1086/377027",
+            "article-title": "The Upside Potential of Hiring Risky Workers: Evidence from the Baseball Industry",
+            "volume": "21",
+            "author": "Bollinger",
+            "year": "2003",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2022121514280917300_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1007/s10683-011-9272-x",
+            "article-title": "The Strategy versus the Direct-Response Method: A First Survey of Experimental Comparisons",
+            "volume": "14",
+            "author": "Brandts",
+            "year": "2011",
+            "journal-title": "Experimental Economics"
+        },
+        {
+            "key": "2022121514280917300_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "276",
+            "DOI": "10.1177/1043986204266890",
+            "article-title": "Labor Market Effects of Permitting Employer Access to Criminal History Records",
+            "volume": "20",
+            "author": "Bushway",
+            "year": "2004",
+            "journal-title": "Journal of Contemporary Criminal Justice"
+        },
+        {
+            "key": "2022121514280917300_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1007/s10640-007-9124-5",
+            "article-title": "Incentive and Informational Properties of Preference Questions",
+            "volume": "37",
+            "author": "Carson",
+            "year": "2007",
+            "journal-title": "Environmental and Resource Economics"
+        },
+        {
+            "key": "2022121514280917300_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1016/j.jebo.2016.08.010",
+            "article-title": "Experimental Methods: Pay One or Pay All",
+            "volume": "131",
+            "author": "Charness",
+            "year": "2016",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2022121514280917300_bib10",
+            "author": "Couloute",
+            "year": "2018",
+            "journal-title": "Out of Prison & Out of Work"
+        },
+        {
+            "key": "2022121514280917300_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "425",
+            "DOI": "10.1111/ecin.12837",
+            "article-title": "Ban the Box, Convictions, and Public Employment",
+            "volume": "58",
+            "author": "Craigie",
+            "year": "2020",
+            "journal-title": "Economic Inquiry"
+        },
+        {
+            "key": "2022121514280917300_bib12",
+            "article-title": "Replication Data for \u2018Increasing the Demand for Workers with a Criminal Record\u2019",
+            "author": "Cullen",
+            "year": "2022"
+        },
+        {
+            "key": "2022121514280917300_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "766",
+            "DOI": "10.1086/717891",
+            "article-title": "How Much Does Your Boss Make? The Effects of Salary Comparisons",
+            "volume": "130",
+            "author": "Cullen",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2022121514280917300_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1086/705880",
+            "article-title": "The Unintended Consequences of \u2018Ban the Box\u2019: Statistical Discrimination and Employment Outcomes When Criminal Histories Are Hidden",
+            "volume": "38",
+            "author": "Doleac",
+            "year": "2020",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2022121514280917300_bib15",
+            "article-title": "About the FBP",
+            "author": "Federal Bonding Program"
+        },
+        {
+            "key": "2022121514280917300_bib16",
+            "doi-asserted-by": "crossref",
+            "article-title": "Expectations with Endogenous Information Acquisition: An Experimental Investigation",
+            "author": "Fuster",
+            "year": "2022",
+            "journal-title": "Review of Economics and Statistics",
+            "DOI": "10.1162/rest_a_00994"
+        },
+        {
+            "key": "2022121514280917300_bib17",
+            "doi-asserted-by": "crossref",
+            "article-title": "Contamination Bias in Linear Regressions",
+            "author": "Goldsmith-Pinkham",
+            "year": "2022",
+            "DOI": "10.3386/w30108"
+        },
+        {
+            "key": "2022121514280917300_bib18",
+            "doi-asserted-by": "crossref",
+            "article-title": "Collateral Costs: The Effects of Incarceration on the Employment and Earnings of Young Workers",
+            "author": "Holzer",
+            "year": "2007",
+            "DOI": "10.2139/ssrn.1031709"
+        },
+        {
+            "key": "2022121514280917300_bib19",
+            "doi-asserted-by": "crossref",
+            "volume-title": "\u201cEmployment Barriers Facing Ex-Offenders,\u201d",
+            "author": "Holzer",
+            "year": "2003",
+            "DOI": "10.1037/e717782011-001"
+        },
+        {
+            "key": "2022121514280917300_bib20",
+            "first-page": "40",
+            "article-title": "How Willing Are Employers to Hire Ex-Offenders?",
+            "volume": "23",
+            "author": "Holzer",
+            "year": "2004",
+            "journal-title": "Focus"
+        },
+        {
+            "key": "2022121514280917300_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1086/501089",
+            "article-title": "Perceived Criminality, Criminal Background Checks, and the Racial Hiring Practices of Employers",
+            "volume": "49",
+            "author": "Holzer",
+            "year": "2006",
+            "journal-title": "Journal of Law and Economics"
+        },
+        {
+            "key": "2022121514280917300_bib22",
+            "first-page": "117",
+            "article-title": "The Effect of an Applicant\u2019s Criminal History on Employer Hiring Decisions and Screening Practices: Evidence from Los Angeles",
+            "volume-title": "Barriers to Reentry? The Labor Market for Released Prisoners in Post-Industrial America",
+            "author": "Holzer",
+            "year": "2007"
+        },
+        {
+            "key": "2022121514280917300_bib23",
+            "doi-asserted-by": "crossref",
+            "article-title": "Breaking Down Barriers Experiments into Policies That Might Incentivize Employers to Hire Ex-Offenders",
+            "author": "Hunt",
+            "year": "2018",
+            "DOI": "10.7249/RR2142"
+        },
+        {
+            "key": "2022121514280917300_bib24",
+            "article-title": "Infogroup U.S. Historical Business Data",
+            "author": "Infogroup",
+            "year": "(2016)"
+        },
+        {
+            "key": "2022121514280917300_bib25",
+            "author": "Jackson",
+            "year": "2017"
+        },
+        {
+            "key": "2022121514280917300_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3713",
+            "DOI": "10.1257/aer.20181714",
+            "article-title": "Incentivized Resume Rating: Eliciting Employer Preferences without Deception",
+            "volume": "109",
+            "author": "Kessler",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022121514280917300_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1057/9780230377974_7",
+            "article-title": "Hiring Risky Workers",
+            "volume-title": "Internal Labour Markets, Incentives and Employment",
+            "author": "Lazear",
+            "year": "1998"
+        },
+        {
+            "key": "2022121514280917300_bib28",
+            "article-title": "A \u2018Reproductive Capital\u2019 Model of Marriage Market Matching",
+            "author": "Low",
+            "year": "2017"
+        },
+        {
+            "key": "2022121514280917300_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "3722",
+            "DOI": "10.1257/aer.20161500",
+            "article-title": "Valuing Alternative Work Arrangements",
+            "volume": "107",
+            "author": "Mas",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022121514280917300_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/s40173-018-0101-0",
+            "article-title": "Criminal\u201d Background and Job Performance",
+            "volume": "7",
+            "author": "Minor",
+            "year": "2018",
+            "journal-title": "IZA Journal of Labor Policy"
+        },
+        {
+            "key": "2022121514280917300_bib31",
+            "doi-asserted-by": "crossref",
+            "article-title": "Factorial Designs, Model Selection, and (Incorrect) Inference in Randomized Experiments",
+            "author": "Muralidharan",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3551804"
+        },
+        {
+            "key": "2022121514280917300_bib32",
+            "first-page": "1769",
+            "article-title": "Personnel Economics: Hiring and Incentives",
+            "volume-title": "Handbook of Labor Economics",
+            "author": "Oyer",
+            "year": "2011"
+        },
+        {
+            "key": "2022121514280917300_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "937",
+            "DOI": "10.1086/374403",
+            "article-title": "The Mark of a Criminal Record",
+            "volume": "108",
+            "author": "Pager",
+            "year": "2003",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2022121514280917300_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "3565",
+            "DOI": "10.1257/aer.104.11.3565",
+            "article-title": "Inefficient Hiring in Entry-Level Labor Markets",
+            "volume": "104",
+            "author": "Pallais",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2022121514280917300_bib35",
+            "first-page": "521",
+            "article-title": "Improving Employment Prospects for Former Prison Inmates: Challenges and Policy",
+            "volume-title": "Controlling Crime: Strategies and Tradeoffs",
+            "author": "Raphael",
+            "year": "2011"
+        },
+        {
+            "key": "2022121514280917300_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "DOI": "10.1086/708063",
+            "article-title": "Does Banning the Box Help Ex-Offenders Get Jobs? Evaluating the Effects of a Prominent Example",
+            "volume": "39",
+            "author": "Rose",
+            "year": "2021",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2022121514280917300_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1111/ecoj.12415",
+            "article-title": "Good Jobs and Recidivism",
+            "volume": "128",
+            "author": "Schnepel",
+            "year": "2018",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2022121514280917300_bib38",
+            "doi-asserted-by": "crossref",
+            "article-title": "No Woman No Crime: Ban the Box, Employment, and Upskilling",
+            "author": "Shoag",
+            "year": "2016",
+            "DOI": "10.2139/ssrn.2782599"
+        },
+        {
+            "key": "2022121514280917300_bib39",
+            "article-title": "Workers with Criminal Records: A Survey by the Society for Human Resource Management and the Charles Koch Institute",
+            "author": "Society for Human Resource Management",
+            "year": "2018"
+        },
+        {
+            "key": "2022121514280917300_bib40",
+            "first-page": "381",
+            "article-title": "Ex-Offenders, Criminal Background Checks, and Racial Consequences in the Labor Market",
+            "volume": "2009",
+            "author": "Stoll",
+            "year": "2009",
+            "journal-title": "University of Chicago Legal Forum"
+        },
+        {
+            "key": "2022121514280917300_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "627",
+            "DOI": "10.1111/1745-9125.12051",
+            "article-title": "The Edge of Stigma: An Experimental Audit of the Effects of Low-Level Criminal Records on Employment",
+            "volume": "52",
+            "author": "Uggen",
+            "year": "2014",
+            "journal-title": "Criminology"
+        },
+        {
+            "key": "2022121514280917300_bib42",
+            "volume-title": "Resampling-Based Multiple Testing: Examples and Methods for p-Value Adjustment",
+            "author": "Westfall",
+            "year": "1993"
+        },
+        {
+            "key": "2022121514280917300_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1016/j.jpubeco.2016.12.003",
+            "article-title": "Local Labor Markets and Criminal Recidivism",
+            "volume": "147",
+            "author": "Yang",
+            "year": "2017",
+            "journal-title": "Journal of Public Economics"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjac029/45501066/qjac029.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/1/103/47915429/qjac029.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/1/103/47915429/qjac029.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                15
+            ]
+        ],
+        "date-time": "2022-12-15T22:34:04Z",
+        "timestamp": 1671143644000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/138/1/103/6673931"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                30
+            ]
+        ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    30
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2022,
+                    12,
+                    15
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjac029",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                30
+            ]
+        ]
+    }
+}
