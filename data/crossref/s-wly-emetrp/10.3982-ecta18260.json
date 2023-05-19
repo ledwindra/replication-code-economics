@@ -1,0 +1,316 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                12
+            ]
+        ],
+        "date-time": "2023-05-12T04:42:25Z",
+        "timestamp": 1683866545517
+    },
+    "reference-count": 19,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "funder": [
+        {
+            "DOI": "10.13039/100007270",
+            "name": "University of Michigan",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>The method of synthetic controls is a fundamental tool for evaluating causal effects of policy changes in settings with observational data. In many settings where it is applicable, researchers want to identify causal effects of policy changes on a treated unit at an aggregate level while having access to data at a finer granularity. This article proposes an extension of the synthetic controls estimator that takes advantage of this additional structure and provides nonparametric estimates of the heterogeneity within the aggregate unit. The idea is to replicate the quantile function associated with the treated unit by a weighted average of quantile functions of the control units. This estimator relies on the same mathematical theory as the changes\u2010in\u2010changes estimator and can be applied in both repeated cross\u2010sections and panel data with as little as a single pre\u2010treatment period. It also provides a unique counterfactual quantile function for any type of distribution.</jats:p>",
+    "DOI": "10.3982/ecta18260",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ],
+        "date-time": "2023-05-11T10:01:18Z",
+        "timestamp": 1683799278000
+    },
+    "page": "1105-1117",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Distributional Synthetic Controls"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "F. F.",
+            "family": "Gunsilius",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Michigan, Ann Arbor"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200564-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1257/jel.20191450",
+            "volume": "59",
+            "author": "Abadie",
+            "year": "2021",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "ecta200564-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1257/000282803321455188",
+            "volume": "93",
+            "author": "Abadie",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200564-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1198/jasa.2009.ap08746",
+            "volume": "105",
+            "author": "Abadie",
+            "year": "2010",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200564-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.1111/ajps.12116",
+            "volume": "59",
+            "author": "Abadie",
+            "year": "2015",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "ecta200564-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "904",
+            "DOI": "10.1137/100805741",
+            "volume": "43",
+            "author": "Agueh",
+            "year": "2011",
+            "journal-title": "SIAM Journal on Mathematical Analysis"
+        },
+        {
+            "key": "ecta200564-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "4088",
+            "DOI": "10.1257/aer.20190159",
+            "volume": "111",
+            "author": "Arkhangelsky",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200564-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1111/j.1468-0262.2006.00668.x",
+            "volume": "74",
+            "author": "Athey",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200564-bib-0008",
+            "first-page": "772",
+            "volume": "84",
+            "author": "Card",
+            "year": "1994",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "ecta200564-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1397",
+            "DOI": "10.1257/aer.90.5.1397",
+            "volume": "90",
+            "author": "Card",
+            "year": "2000",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200564-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1002/jae.2778",
+            "volume": "35",
+            "author": "Chen",
+            "year": "2020",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200564-bib-0011",
+            "first-page": "268",
+            "volume": "11",
+            "author": "Dube",
+            "year": "2019",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "ecta200564-bib-0012",
+            "first-page": "215",
+            "volume": "10",
+            "author": "Fr\u00e9chet",
+            "year": "1948",
+            "journal-title": "Annales de l'institut Henri Poincar\u00e9"
+        },
+        {
+            "key": "ecta200564-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1037",
+            "DOI": "10.2307/1909675",
+            "volume": "39",
+            "author": "Gastwirth",
+            "year": "1971",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200564-bib-0014",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gunsilius, Florian F. (2023): \u201cSupplement to \u2018Distributional Synthetic Controls\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA18260.",
+            "DOI": "10.3982/ECTA18260"
+        },
+        {
+            "key": "ecta200564-bib-0015",
+            "first-page": "297",
+            "volume": "9",
+            "author": "Kloeckner",
+            "year": "2010",
+            "journal-title": "Annali della Scuola Normale Superiore di Pisa-Classe di Scienze"
+        },
+        {
+            "key": "ecta200564-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1362",
+            "DOI": "10.1257/aer.90.5.1362",
+            "volume": "90",
+            "author": "Neumark",
+            "year": "2000",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200564-bib-0017",
+            "first-page": "2111",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "4",
+            "author": "Newey",
+            "year": "1994"
+        },
+        {
+            "key": "ecta200564-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1051",
+            "DOI": "10.1002/jae.1258",
+            "volume": "26",
+            "author": "Ropponen",
+            "year": "2011",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200564-bib-0019",
+            "series-title": "Graduate Studies in Mathematics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1090/gsm/058",
+            "volume-title": "Topics in Optimal Transportation",
+            "volume": "58",
+            "author": "Villani",
+            "year": "2003"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ],
+        "date-time": "2023-05-11T10:07:20Z",
+        "timestamp": 1683799640000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18260"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 19,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18260"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta18260",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

@@ -1,0 +1,624 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                12
+            ]
+        ],
+        "date-time": "2023-05-12T04:44:57Z",
+        "timestamp": 1683866697163
+    },
+    "reference-count": 52,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper proposes a Sieve Simulated Method of Moments (Sieve\u2010SMM) estimator for the parameters and the distribution of the shocks in nonlinear dynamic models where the likelihood and the moments are not tractable. An important concern with SMM, which matches sample with simulated moments, is that a parametric distribution is required. However, economic quantities that depend on this distribution, such as welfare and asset prices, can be sensitive to misspecification. The Sieve\u2010SMM estimator addresses this issue by flexibly approximating the distribution of the shocks with a Gaussian and tails mixture sieve. The asymptotic framework provides consistency, rate of convergence, and asymptotic normality results, extending existing results to a new framework with more general dynamics and latent variables. An application to asset pricing in a production economy shows a large decline in the estimates of relative risk aversion, highlighting the empirical relevance of misspecification bias.</jats:p>",
+    "DOI": "10.3982/ecta17068",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ],
+        "date-time": "2023-05-11T10:01:18Z",
+        "timestamp": 1683799278000
+    },
+    "page": "943-977",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "A Sieve\u2010SMM Estimator for Dynamic Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Jean-Jacques",
+            "family": "Forneron",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Boston University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200573-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1111/1468-0262.00470",
+            "volume": "71",
+            "author": "Ai",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1016/j.jeconom.2007.01.013",
+            "volume": "141",
+            "author": "Ai",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0003",
+            "volume": "62",
+            "author": "Andrews",
+            "year": "1994",
+            "journal-title": "International Statistical Review / Revue Internationale de Statistique"
+        },
+        {
+            "key": "ecta200573-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1969",
+            "DOI": "10.1111/j.1540-6261.2011.01697.x",
+            "volume": "66",
+            "author": "Backus",
+            "year": "2011",
+            "journal-title": "The journal of finance"
+        },
+        {
+            "key": "ecta200573-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1111/j.1540-6261.2004.00670.x",
+            "volume": "59",
+            "author": "Bansal",
+            "year": "2004",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "ecta200573-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1016/j.spa.2004.09.006",
+            "volume": "115",
+            "author": "Ben Hariz",
+            "year": "2005",
+            "journal-title": "Stochastic Processes and their Applications"
+        },
+        {
+            "key": "ecta200573-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "108",
+            "DOI": "10.1016/j.jeconom.2011.09.012",
+            "volume": "168",
+            "author": "Bierens",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0008",
+            "unstructured": "Blasques, Francisco (2011): \u201cSemi-Nonparametric Indirect Inference,\u201d PhD Thesis, Maastricht University."
+        },
+        {
+            "key": "ecta200573-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.1017/S0266466600166010",
+            "volume": "16",
+            "author": "Carrasco",
+            "year": "2000",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200573-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.1016/j.jeconom.2006.07.013",
+            "volume": "140",
+            "author": "Carrasco",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "5549",
+            "DOI": "10.1016/S1573-4412(07)06076-X",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "6",
+            "author": "Chen",
+            "year": "2007"
+        },
+        {
+            "key": "ecta200573-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/j.jeconom.2015.07.001",
+            "volume": "189",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1057",
+            "DOI": "10.1002/jae.1091",
+            "volume": "24",
+            "author": "Chen",
+            "year": "2009",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.3982/ECTA7888",
+            "volume": "80",
+            "author": "Chen",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.3982/ECTA10771",
+            "volume": "83",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0016",
+            "doi-asserted-by": "crossref",
+            "volume": "66",
+            "author": "Chen",
+            "year": "1998",
+            "journal-title": "Econometrica",
+            "DOI": "10.2307/2998559"
+        },
+        {
+            "key": "ecta200573-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.3982/QE97",
+            "volume": "4",
+            "author": "Chen",
+            "year": "2013",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200573-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "160",
+            "DOI": "10.1016/j.jeconom.2018.09.010",
+            "volume": "208",
+            "author": "Chen",
+            "year": "2019",
+            "journal-title": "Journal of econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1591",
+            "DOI": "10.1111/1468-0262.00461",
+            "volume": "71",
+            "author": "Chen",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1016/j.red.2014.05.002",
+            "volume": "18",
+            "author": "Cho",
+            "year": "2015",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "ecta200573-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1501",
+            "DOI": "10.3982/ECTA11600",
+            "volume": "85",
+            "author": "Christensen",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "3300",
+            "DOI": "10.1214/10-AOS811",
+            "volume": "38",
+            "author": "De Jonge",
+            "year": "2010",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200573-bib-0023",
+            "first-page": "393",
+            "volume": "31",
+            "author": "Doukhan",
+            "year": "1995",
+            "journal-title": "Annales de l'Institut Henri Poincar\u00e9, section B"
+        },
+        {
+            "key": "ecta200573-bib-0024",
+            "unstructured": "Dridi, Ramdan, and Eric Renault (2000): \u201cSemi-Parametric Indirect Inference,\u201d Tech. rep., Suntory and Toyota International Centres for Economics and Related Disciplines, LSE."
+        },
+        {
+            "key": "ecta200573-bib-0025",
+            "doi-asserted-by": "crossref",
+            "volume": "61",
+            "author": "Duffie",
+            "year": "1993",
+            "journal-title": "Econometrica",
+            "DOI": "10.2307/2951768"
+        },
+        {
+            "key": "ecta200573-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "701",
+            "DOI": "10.1017/S0266466604204054",
+            "volume": "20",
+            "author": "Fermanian",
+            "year": "2004",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200573-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "903",
+            "DOI": "10.3982/QE744",
+            "volume": "9",
+            "author": "Fern\u00e1ndez-Villaverde",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200573-bib-0028",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Forneron, Jean-Jacques (2023): \u201cSupplement to \u2018A Sieve-SMM Estimator for Dynamic Models\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA17068.",
+            "DOI": "10.3982/ECTA17068"
+        },
+        {
+            "key": "ecta200573-bib-0029",
+            "doi-asserted-by": "crossref",
+            "volume": "12",
+            "author": "Gallant",
+            "year": "1996",
+            "journal-title": "Econometric Theory",
+            "DOI": "10.1017/S0266466600006976"
+        },
+        {
+            "key": "ecta200573-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.2307/1913241",
+            "volume": "55",
+            "author": "Gallant",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.1080/07350015.2014.955175",
+            "volume": "33",
+            "author": "Gospodinov",
+            "year": "2015",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200573-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "S85",
+            "DOI": "10.1002/jae.3950080507",
+            "volume": "8",
+            "author": "Gourieroux",
+            "year": "1993",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "2734",
+            "DOI": "10.1257/aer.102.6.2734",
+            "volume": "102",
+            "author": "Gourio",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200573-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.2307/1913601",
+            "volume": "55",
+            "author": "Hansen",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.1016/S0304-3932(97)00078-0",
+            "volume": "41",
+            "author": "Jermann",
+            "year": "1998",
+            "journal-title": "Journal of monetary Economics"
+        },
+        {
+            "key": "ecta200573-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "927",
+            "DOI": "10.1016/S1574-0048(99)10022-3",
+            "volume": "1",
+            "author": "King",
+            "year": "1999",
+            "journal-title": "Handbook of macroeconomics"
+        },
+        {
+            "key": "ecta200573-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.1214/10-EJS584",
+            "volume": "4",
+            "author": "Kruijer",
+            "year": "2010",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "ecta200573-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "1345",
+            "DOI": "10.1111/iere.12306",
+            "volume": "59",
+            "author": "Levintal",
+            "year": "2018",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "ecta200573-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1111/j.1467-9892.2005.00412.x",
+            "volume": "26",
+            "author": "Liebscher",
+            "year": "2005",
+            "journal-title": "Journal of Time Series Analysis"
+        },
+        {
+            "key": "ecta200573-bib-0040",
+            "doi-asserted-by": "crossref",
+            "volume": "57",
+            "author": "McFadden",
+            "year": "1989",
+            "journal-title": "Econometrica",
+            "DOI": "10.2307/1913621"
+        },
+        {
+            "key": "ecta200573-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "616",
+            "DOI": "10.1162/003465301753237704",
+            "volume": "83",
+            "author": "Newey",
+            "year": "2001",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200573-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "1733",
+            "DOI": "10.1214/09-AOS765",
+            "volume": "38",
+            "author": "Norets",
+            "year": "2010",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200573-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1229",
+            "DOI": "10.1093/restud/rdt050",
+            "volume": "81",
+            "author": "Norets",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200573-bib-0044",
+            "doi-asserted-by": "crossref",
+            "volume": "57",
+            "author": "Pakes",
+            "year": "1989",
+            "journal-title": "Econometrica",
+            "DOI": "10.2307/1913622"
+        },
+        {
+            "key": "ecta200573-bib-0045",
+            "first-page": "105",
+            "volume": "4",
+            "author": "Rudebusch",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "ecta200573-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.1002/jae.2528",
+            "volume": "32",
+            "author": "Ruge-Murcia",
+            "year": "2017",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200573-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.3982/ECTA7493",
+            "volume": "80",
+            "author": "Santos",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200573-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "634",
+            "DOI": "10.1016/j.jmoneco.2012.09.002",
+            "volume": "59",
+            "author": "Van Binsbergen",
+            "year": "2012",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200573-bib-0049",
+            "series-title": "Springer Series in Statistics",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Weak Convergence and Empirical Processes",
+            "author": "Vaart",
+            "year": "1996",
+            "DOI": "10.1007/978-1-4757-2545-2"
+        },
+        {
+            "key": "ecta200573-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1016/0304-3932(89)90028-7",
+            "volume": "24",
+            "author": "Weil",
+            "year": "1989",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200573-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1017/S0266466600012032",
+            "volume": "4",
+            "author": "Wooldridge",
+            "year": "1988",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200573-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1081/ETC-120039605",
+            "volume": "23",
+            "author": "Yu",
+            "year": "2004",
+            "journal-title": "Econometric reviews"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ],
+        "date-time": "2023-05-11T10:05:05Z",
+        "timestamp": 1683799505000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA17068"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17068"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17068",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}
