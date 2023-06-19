@@ -1,0 +1,834 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                5
+            ]
+        ],
+        "date-time": "2023-05-05T17:11:23Z",
+        "timestamp": 1683306683452
+    },
+    "reference-count": 57,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        28
+                    ]
+                ],
+                "date-time": "2022-07-28T00:00:00Z",
+                "timestamp": 1658966400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article develops a discrete choice model of demand with optimal sequential consumer search. Consumers first choose a product to search; then, once they learn the utility they get from the searched product, they choose whether to buy it or to keep searching. We characterize the search problem as a standard discrete choice problem and propose a parametric search cost distribution that generates closed-form expressions for the probability of purchasing a product. We propose a method to estimate the model that supplements aggregate product data with individual-specific data which allows for the separate identification of search costs and preferences. We estimate the model using data from the automobile industry and find that search costs have non-trivial implications for elasticities and markups. We study the effects of exclusive dealing regulation and find that firms benefit at the expense of consumers, who face higher search costs and higher prices than would be the case if multi-brand dealerships were used.</jats:p>",
+    "DOI": "10.1093/restud/rdac047",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                28
+            ]
+        ],
+        "date-time": "2022-07-28T13:34:22Z",
+        "timestamp": 1659015262000
+    },
+    "page": "1394-1440",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Consumer Search and Prices in the Automobile Market"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Jos\u00e9 Luis",
+            "family": "Moraga-Gonz\u00e1lez",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Vrije Universiteit Amsterdam and Tinbergen Institute , T\u00e9l\u00e9com Paris, CEPR, and CESifo"
+                }
+            ]
+        },
+        {
+            "given": "Zsolt",
+            "family": "S\u00e1ndor",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Sapientia Hungarian University of Transylvania and Babe\u015f-Bolyai University"
+                }
+            ]
+        },
+        {
+            "given": "Matthijs R",
+            "family": "Wildenbeest",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Arizona and CEPR"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                28
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023050516335656500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1287/mksc.1110.0659",
+            "article-title": "Measuring the Impact of Negative Demand Shocks on Car Dealer Networks",
+            "volume": "31",
+            "author": "ALBUQUERQUE,",
+            "year": "2012",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2023050516335656500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.2307/2950539",
+            "article-title": "Multiproduct Firms: A Nested Logit Approach",
+            "volume": "40",
+            "author": "ANDERSON,",
+            "year": "1992",
+            "journal-title": "The Journal of Industrial Economics"
+        },
+        {
+            "key": "2023050516335656500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "719",
+            "DOI": "10.2307/2556072",
+            "article-title": "Pricing, Product Diversity, and Search Costs: A Bertrand-Chamberlin-Diamond Model",
+            "volume": "30",
+            "author": "ANDERSON,",
+            "year": "1999",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1961",
+            "DOI": "10.3982/ECTA10600",
+            "article-title": "Large Market Asymptotics for Differentiated Product Demand Estimators with Economic Models of Supply",
+            "volume": "84",
+            "author": "ARMSTRONG,",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "989",
+            "DOI": "10.1093/jeea/jvx017",
+            "article-title": "Ordered Consumer Search",
+            "volume": "15",
+            "author": "ARMSTRONG,",
+            "year": "2017",
+            "journal-title": "Journal of European Economic Association"
+        },
+        {
+            "key": "2023050516335656500_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "293",
+            "DOI": "10.1016/j.jet.2015.04.010",
+            "article-title": "Which Demand Systems Can Be Generated by Discrete Choice?",
+            "volume": "158-A",
+            "author": "ARMSTRONG,",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023050516335656500_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1140",
+            "DOI": "10.1257/aer.102.2.1140",
+            "article-title": "Search, Design and Market Structure",
+            "volume": "102",
+            "author": "BAR-ISAAC,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "64",
+            "DOI": "10.1086/250003",
+            "article-title": "Exclusive Dealing",
+            "volume": "106",
+            "author": "BERNHEIM,",
+            "year": "1998",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023050516335656500_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "242",
+            "DOI": "10.2307/2555829",
+            "article-title": "Estimating Discrete Choice Models of Product Differentiation",
+            "volume": "25",
+            "author": "BERRY,",
+            "year": "1994",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "article-title": "Automobile Prices in Market Equilibrium",
+            "volume": "63",
+            "author": "BERRY,",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1086/379939",
+            "article-title": "Differentiated Products Demand Systems from a Combination of Micro and Macro Data: The New Car Market",
+            "volume": "112",
+            "author": "BERRY,",
+            "year": "2004",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023050516335656500_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "955",
+            "DOI": "10.2307/1912045",
+            "article-title": "Equilibrium Price Dispersion",
+            "volume": "51",
+            "author": "BURDETT,",
+            "year": "1983",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1257",
+            "DOI": "10.3982/ECTA14837",
+            "article-title": "Consumer Search and Price Competition",
+            "volume": "86",
+            "author": "CHOI,",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "2955",
+            "DOI": "10.1257/aer.102.6.2955",
+            "article-title": "Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior",
+            "volume": "102",
+            "author": "DE LOS SANTOS,",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "626",
+            "DOI": "10.1080/07350015.2015.1123633",
+            "article-title": "Search with Learning for Differentiated Products: Evidence from E-Commerce",
+            "volume": "35",
+            "author": "DE LOS SANTOS,",
+            "year": "2017",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023050516335656500_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1973",
+            "DOI": "10.1093/restud/rdy064",
+            "article-title": "Automobile Prices in Market Equilibrium with Unobserved Price Discrimination",
+            "volume": "86",
+            "author": "D\u2019HAULTF\u0152 UILLE,",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023050516335656500_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "156",
+            "DOI": "10.1016/0022-0531(71)90013-5",
+            "article-title": "A Model of Price Adjustment",
+            "volume": "3",
+            "author": "DIAMOND,",
+            "year": "1971",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023050516335656500_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1820",
+            "DOI": "10.1257/aer.20171218",
+            "article-title": "Consumer Price Search and Platform Design in Internet Commerce",
+            "volume": "108",
+            "author": "DINERSTEIN,",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "858",
+            "DOI": "10.1257/aer.20150540",
+            "article-title": "A Structural Model of the Retail Market for Illicit Drugs",
+            "volume": "107",
+            "author": "GALENIANOS,",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "891",
+            "DOI": "10.2307/2171803",
+            "article-title": "Product Differentiation and Oligopoly in International Markets: The Case of the U.S. Automobile Industry",
+            "volume": "63",
+            "author": "GOLDBERG,",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1111/j.1468-0262.2004.00494.x",
+            "article-title": "The Consumer Gains from Direct Broadcast Satellites and the Competition with Cable TV",
+            "volume": "72",
+            "author": "GOOLSBEE,",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B22",
+            "first-page": "193",
+            "article-title": "Consumer Valuation of Fuel Costs and Tax Policy",
+            "volume": "10",
+            "author": "GRIGOLON,",
+            "year": "2018",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2023050516335656500_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1016/j.ijindorg.2018.09.001",
+            "article-title": "A Model of Directed Consumer Search",
+            "volume": "61",
+            "author": "HAAN,",
+            "year": "2018",
+            "journal-title": "International Journal of Industrial Organization"
+        },
+        {
+            "key": "2023050516335656500_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "257",
+            "DOI": "10.1111/j.1756-2171.2006.tb00015.x",
+            "article-title": "Using Price Distributions to Estimate Search Costs",
+            "volume": "37",
+            "author": "HONG,",
+            "year": "2006",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "847",
+            "DOI": "10.1111/1756-2171.12073",
+            "article-title": "Quantifying Search and Switching Costs in the U.S. Auto Insurance Industry",
+            "volume": "45",
+            "author": "HONKA,",
+            "year": "2014",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1287/mksc.2016.0995",
+            "article-title": "Simultaneous or Sequential? Search Strategies in the U.S. Auto Insurance Industry",
+            "volume": "36",
+            "author": "HONKA,",
+            "year": "2017",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2023050516335656500_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "611",
+            "DOI": "10.1111/1756-2171.12188",
+            "article-title": "Advertising, Consumer Awareness, and Choice: Evidence from the U.S. Banking Industry",
+            "volume": "48",
+            "author": "HONKA,",
+            "year": "2017",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.1162/0033553041382184",
+            "article-title": "Product Differentiation, Search Costs, and Competition in the Mutual Fund Industry: A Case Study of S&P 500 Index Funds",
+            "volume": "119",
+            "author": "HORTA\u00c7SU,",
+            "year": "2004",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "219",
+            "DOI": "10.1287/mksc.2020.1255",
+            "article-title": "Consumer Search and Purchase: An Empirical Investigation of Retargeting Based on Consumer Online Behaviors",
+            "volume": "40",
+            "author": "JIANG,",
+            "year": "2021",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2023050516335656500_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1258",
+            "DOI": "10.1093/restud/rdy023",
+            "article-title": "Consumer Search Costs and Preferences on the Internet",
+            "volume": "86",
+            "author": "JOLIVET,",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023050516335656500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1001",
+            "DOI": "10.1287/mksc.1100.0574",
+            "article-title": "Online Demand Under Limited Consumer Search",
+            "volume": "29",
+            "author": "KIM,",
+            "year": "2010",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2023050516335656500_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "3911",
+            "DOI": "10.1287/mnsc.2016.2545",
+            "article-title": "The Probit Choice Model Under Sequential Search with an Application to Online Retailing",
+            "volume": "63",
+            "author": "KIM,",
+            "year": "2017",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023050516335656500_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "553",
+            "DOI": "10.1111/1756-2171.12062",
+            "article-title": "Search for Differentiated Products: Identification and Estimation",
+            "volume": "45",
+            "author": "KOULAYEV,",
+            "year": "2014",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023050516335656500_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.1086/209482",
+            "article-title": "Consumer Information Search Revisited: Theory and Empirical Analysis",
+            "volume": "23",
+            "author": "MOORTHY,",
+            "year": "1997",
+            "journal-title": "Journal of Consumer Research"
+        },
+        {
+            "key": "2023050516335656500_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1205",
+            "DOI": "10.1002/jae.2290",
+            "article-title": "Semi-Nonparametric Estimation of Consumer Search Costs",
+            "volume": "28",
+            "author": "MORAGA-GONZ\u00c1LEZ,",
+            "year": "2013",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2023050516335656500_B36",
+            "doi-asserted-by": "crossref",
+            "article-title": "Consumer Search and Prices in the Automobile Market",
+            "author": "MORAGA-GONZ\u00c1LEZ,",
+            "year": "2015",
+            "DOI": "10.2139/ssrn.2609338"
+        },
+        {
+            "key": "2023050516335656500_B37",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Economics of Retail Markets for New and Used Cars",
+            "volume-title": "Handbook on the Economics of Retail and Distribution",
+            "author": "MURRY,",
+            "year": "2016",
+            "DOI": "10.4337/9781783477388.00025"
+        },
+        {
+            "key": "2023050516335656500_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1909",
+            "DOI": "10.1287/mnsc.2019.3307",
+            "article-title": "Consumer Search and Automobile Dealer Colocation",
+            "volume": "66",
+            "author": "MURRY,",
+            "year": "2020",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023050516335656500_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1111/1468-0262.00194",
+            "article-title": "Measuring Market Power in the Ready-to-Eat Cereal Industry",
+            "volume": "69",
+            "author": "NEVO,",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1156",
+            "DOI": "10.1093/restud/rdw002",
+            "article-title": "Exclusive Dealing as a Barrier to Entry? Evidence from Automobiles",
+            "volume": "83",
+            "author": "NURSKI,",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023050516335656500_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "705",
+            "DOI": "10.1086/340779",
+            "article-title": "Quantifying the Benefits of New Products: The Case of the Minivan",
+            "volume": "110",
+            "author": "PETRIN,",
+            "year": "2002",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023050516335656500_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1007/s11129-016-9169-2",
+            "article-title": "Costly Search and Consideration Sets in Storable Goods Markets",
+            "volume": "14",
+            "author": "PIRES,",
+            "year": "2016",
+            "journal-title": "Quantitative Marketing and Economics"
+        },
+        {
+            "key": "2023050516335656500_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/j.jeconom.2013.12.001",
+            "article-title": "Improving the Performance of Random Coefficients Demand Models: The Role of Optimal Instruments",
+            "volume": "179",
+            "author": "REYNAERT,",
+            "year": "2014",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023050516335656500_B44",
+            "article-title": "Enhancing the Convergence Properties of the BLP (1995) Contraction Mapping",
+            "author": "REYNAERTS,",
+            "year": "2012"
+        },
+        {
+            "key": "2023050516335656500_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1016/S0304-4076(03)00212-4",
+            "article-title": "Alternative Sampling Methods for Estimating Multivariate Normal Probabilities",
+            "volume": "120",
+            "author": "S\u00c1NDOR,",
+            "year": "2004",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023050516335656500_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1007/s11129-011-9108-1",
+            "article-title": "What Matters in a Price Negotiation: Evidence from the U.S. Auto Retailing Industry",
+            "volume": "9",
+            "author": "SCOTT MORTON,",
+            "year": "2011",
+            "journal-title": "Quantitative Marketing and Economics"
+        },
+        {
+            "key": "2023050516335656500_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1007/s11129-012-9126-7",
+            "article-title": "The Impact of Search Costs on Consumer Behavior: A Dynamic Approach",
+            "volume": "11",
+            "author": "SEILER,",
+            "year": "2013",
+            "journal-title": "Quantitative Marketing and Economics"
+        },
+        {
+            "key": "2023050516335656500_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "565",
+            "DOI": "10.1287/mksc.2017.1026",
+            "article-title": "Estimating Search Benefits from Path-Tracking Data: Measurement and Determinants",
+            "volume": "36",
+            "author": "SEILER,",
+            "year": "2017",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2023050516335656500_B49",
+            "doi-asserted-by": "crossref",
+            "article-title": "A Large Scale Study of the Small Sample Performance of Random Coefficient Models of Demand",
+            "author": "SKRAINKA,",
+            "year": "2012",
+            "DOI": "10.2139/ssrn.1942627"
+        },
+        {
+            "key": "2023050516335656500_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1017",
+            "DOI": "10.3982/ECTA4158",
+            "article-title": "Limited Information and Advertising in the U.S. Personal Computer Industry",
+            "volume": "76",
+            "author": "SOVINSKY GOEREE,",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B51",
+            "first-page": "700",
+            "article-title": "Oligopolistic Pricing with Sequential Consumer Search",
+            "volume": "79",
+            "author": "STAHL,",
+            "year": "1989",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1086/258464",
+            "article-title": "The Economics of Information",
+            "volume": "69",
+            "author": "STIGLER,",
+            "year": "1961",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023050516335656500_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1469",
+            "DOI": "10.1111/j.1468-2354.2007.00471.x",
+            "article-title": "Vehicle Choice Behavior and the Declining Market Share of U.S. Automakers",
+            "volume": "48",
+            "author": "TRAIN,",
+            "year": "2007",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "335",
+            "DOI": "10.1111/j.1467-9469.2007.00585.x",
+            "article-title": "Simple and Globally Convergent Methods for Accelerating the Convergence of Any EM Algorithm",
+            "volume": "35",
+            "author": "VARADHAN,",
+            "year": "2008",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "key": "2023050516335656500_B55",
+            "first-page": "651",
+            "article-title": "A Model of Sales",
+            "volume": "70",
+            "author": "VARIAN,",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050516335656500_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "641",
+            "DOI": "10.2307/1910412",
+            "article-title": "Optimal Search for the Best Alternative",
+            "volume": "47",
+            "author": "WEITZMAN,",
+            "year": "1979",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023050516335656500_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.2307/1885694",
+            "article-title": "True Monopolistic Competition as a Result of Imperfect Competition",
+            "volume": "101",
+            "author": "WOLINSKY,",
+            "year": "1986",
+            "journal-title": "Quarterly Journal of Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac047/45291135/rdac047.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/3/1394/50213403/rdac047.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/3/1394/50213403/rdac047.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                5
+            ]
+        ],
+        "date-time": "2023-05-05T16:35:26Z",
+        "timestamp": 1683304526000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/3/1394/6651084"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                28
+            ]
+        ]
+    },
+    "references-count": 57,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    7,
+                    28
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac047",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                28
+            ]
+        ]
+    }
+}

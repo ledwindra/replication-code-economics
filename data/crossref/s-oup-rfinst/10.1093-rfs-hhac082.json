@@ -1,0 +1,757 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                20
+            ]
+        ],
+        "date-time": "2023-05-20T04:33:51Z",
+        "timestamp": 1684557231898
+    },
+    "reference-count": 50,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        25
+                    ]
+                ],
+                "date-time": "2022-10-25T00:00:00Z",
+                "timestamp": 1666656000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                19
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study the interaction between noisy demand and skewed asset payoffs. In our model, price as a function of quantities is convex in a neighborhood around zero if and only if skewness is positive. The combination of convexity and noise produces the idiosyncratic skewness effect, a documented negative relationship between an asset\u2019s idiosyncratic skewness and its expected return. We further offer an explanation for the idiosyncratic volatility puzzle. Finally, our theory predicts that higher idiosyncratic skewness strengthens the idiosyncratic volatility effect (and vice versa). We find support for this prediction in the cross-section of stock returns.</jats:p>",
+    "DOI": "10.1093/rfs/hhac082",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                25
+            ]
+        ],
+        "date-time": "2022-10-25T17:54:46Z",
+        "timestamp": 1666720486000
+    },
+    "page": "2468-2508",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Pricing Implications of Noise"
+    ],
+    "prefix": "10.1093",
+    "volume": "36",
+    "author": [
+        {
+            "given": "Christian L",
+            "family": "Goulding",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Research Affiliates, LLC , USA"
+                }
+            ]
+        },
+        {
+            "given": "Shrihari",
+            "family": "Santosh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Maryland , USA"
+                }
+            ]
+        },
+        {
+            "given": "Xingtan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cheung Kong Graduate School of Business (CKGSB) and University of Colorado Boulder , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                25
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023051917304897400_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "629",
+            "DOI": "10.2307/1911659",
+            "article-title": "A noisy rational expectations equilibrium for multi-asset securities markets",
+            "volume": "53",
+            "author": "Admati,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023051917304897400_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1016/j.jfineco.2015.02.009",
+            "article-title": "Does realized skewness predict the cross-section of equity returns?",
+            "volume": "118",
+            "author": "Amaya,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B3",
+            "article-title": "The lost capital asset pricing model",
+            "author": "Andrei,",
+            "year": "2020"
+        },
+        {
+            "key": "2023051917304897400_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1111/j.1540-6261.2006.00836.x",
+            "article-title": "The cross-section of volatility and expected returns",
+            "volume": "61",
+            "author": "Ang,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1111/j.1540-6261.1967.tb01651.x",
+            "article-title": "Risk and the required return on equity",
+            "volume": "22",
+            "author": "Arditti,",
+            "year": "1967",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B6",
+            "volume-title": "Essays in the theory of risk-bearing",
+            "author": "Arrow,",
+            "year": "1971"
+        },
+        {
+            "key": "2023051917304897400_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1093/rfs/hhn035",
+            "article-title": "Do retail trades move markets?",
+            "volume": "22",
+            "author": "Barber,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917304897400_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2066",
+            "DOI": "10.1257/aer.98.5.2066",
+            "article-title": "Stocks as lotteries: The implications of probability weighting for security prices",
+            "volume": "98",
+            "author": "Barberis,",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023051917304897400_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "DOI": "10.1111/1467-937X.00122",
+            "article-title": "Information acquisition in financial markets",
+            "volume": "67",
+            "author": "Barlevy,",
+            "year": "2000",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023051917304897400_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.1111/j.1540-6261.1986.tb04513.x",
+            "article-title": "Noise",
+            "volume": "41",
+            "author": "Black,",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jocs.2010.12.007",
+            "article-title": "Twitter mood predicts the stock market",
+            "volume": "2",
+            "author": "Bollen,",
+            "year": "2011",
+            "journal-title": "Journal of Computational Science"
+        },
+        {
+            "key": "2023051917304897400_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1675",
+            "DOI": "10.1016/j.jet.2010.03.008",
+            "article-title": "Information-based trade",
+            "volume": "145",
+            "author": "Bond,",
+            "year": "2010",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023051917304897400_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1093/rfs/hhp041",
+            "article-title": "Expected idiosyncratic skewness",
+            "volume": "23",
+            "author": "Boyer,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917304897400_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1485",
+            "DOI": "10.1111/jofi.12152",
+            "article-title": "Stock options as lotteries",
+            "volume": "69",
+            "author": "Boyer,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1257/aer.97.2.159",
+            "article-title": "Optimal beliefs, asset prices, and the preference for skewed returns",
+            "volume": "97",
+            "author": "Brunnermeier,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023051917304897400_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1092",
+            "DOI": "10.1257/0002828054825493",
+            "article-title": "Optimal expectations",
+            "volume": "95",
+            "author": "Brunnermeier,",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023051917304897400_B17",
+            "article-title": "Asset management contracts and equilibrium prices",
+            "author": "Buffa,",
+            "year": "2019"
+        },
+        {
+            "key": "2023051917304897400_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/2297810",
+            "article-title": "Smart money, noise trading and stock price behaviour",
+            "volume": "60",
+            "author": "Campbell,",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023051917304897400_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1016/0022-0531(70)90002-5",
+            "article-title": "The structure of investor preferences and asset returns, and separability in portfolio allocation: A contribution to the pure theory of mutual funds",
+            "volume": "2",
+            "author": "Cass,",
+            "year": "1970",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023051917304897400_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1143",
+            "DOI": "10.1111/j.1540-6261.1981.tb01081.x",
+            "article-title": "On diversification given asymmetry in returns",
+            "volume": "36",
+            "author": "Conine,",
+            "year": "1981",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1111/j.1540-6261.2012.01795.x",
+            "article-title": "Ex ante skewness and expected stock returns",
+            "volume": "68",
+            "author": "Conrad,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/0304-405X(81)90026-X",
+            "article-title": "Information aggregation in a noisy rational expectations economy",
+            "volume": "9",
+            "author": "Diamond,",
+            "year": "1981",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1111/j.1540-6261.1985.tb04963.x",
+            "article-title": "Differential information and performance measurement using a security market line",
+            "volume": "40",
+            "author": "Dybvig,",
+            "year": "1985",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stock and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B26",
+            "article-title": "Noise trading: An ad-based measure",
+            "author": "Fang,",
+            "year": "2020"
+        },
+        {
+            "key": "2023051917304897400_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1016/j.jfineco.2007.07.001",
+            "article-title": "Dumb money: Mutual fund flows and the cross-section of stock returns",
+            "volume": "88",
+            "author": "Frazzini,",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-405X(85)90044-3",
+            "article-title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders",
+            "volume": "14",
+            "author": "Glosten,",
+            "year": "1985",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B29",
+            "first-page": "393",
+            "article-title": "On the impossibility of informationally efficient markets",
+            "volume": "70",
+            "author": "Grossman,",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023051917304897400_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1263",
+            "DOI": "10.1111/0022-1082.00247",
+            "article-title": "Conditional skewness in asset pricing test",
+            "volume": "55",
+            "author": "Harvey,",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1016/j.jfineco.2016.02.013",
+            "article-title": "Have we solved the idiosyncratic volatility puzzle?",
+            "volume": "121",
+            "author": "Hou,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917304897400_B32",
+            "first-page": "1085",
+            "article-title": "Skewness preference and the valuation of risk assets",
+            "volume": "31",
+            "author": "Kraus,",
+            "year": "1976",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1381",
+            "DOI": "10.1111/j.1540-6261.1983.tb03830.x",
+            "article-title": "On the distributional conditions for a consumption-oriented three moment capm",
+            "volume": "38",
+            "author": "Kraus,",
+            "year": "1983",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1315",
+            "DOI": "10.2307/1913210",
+            "article-title": "Continuous auctions and insider trading",
+            "volume": "53",
+            "author": "Kyle,",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023051917304897400_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1533",
+            "DOI": "10.1093/restud/rdv017",
+            "article-title": "Uncertainty, information acquisition, and price swings in asset markets",
+            "volume": "82",
+            "author": "Mele,",
+            "year": "2015",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023051917304897400_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.1111/j.1540-6261.1987.tb04565.x",
+            "article-title": "A simple model of capital market equilibrium with incomplete information",
+            "volume": "42",
+            "author": "Merton,",
+            "year": "1987",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B37",
+            "doi-asserted-by": "publisher",
+            "article-title": "Asset market equilibrium under rational inattention",
+            "author": "Miao,",
+            "year": "2021",
+            "journal-title": "Economic Theory",
+            "DOI": "10.1007/s00199-021-01396-z"
+        },
+        {
+            "key": "2023051917304897400_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1016/0022-0531(82)90046-1",
+            "article-title": "Information, trade and common knowledge",
+            "volume": "26",
+            "author": "Milgrom,",
+            "year": "1982",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023051917304897400_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1255",
+            "DOI": "10.1093/revfin/hhm011",
+            "article-title": "Equilibrium underdiversification and the preference for skewness",
+            "volume": "20",
+            "author": "Mitton,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917304897400_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1038/srep01684",
+            "article-title": "Quantifying trading behavior in financial markets using Google trends",
+            "volume": "3",
+            "author": "Preis,",
+            "year": "2013",
+            "journal-title": "Scientific Reports"
+        },
+        {
+            "key": "2023051917304897400_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.2307/2329748",
+            "article-title": "The fundamental theorem of parameter-preference security valuation",
+            "volume": "8",
+            "author": "Rubenstein,",
+            "year": "1973",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023051917304897400_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "537",
+            "DOI": "10.2307/2296483",
+            "article-title": "The fundamental approximation theorem of portfolio analysis in terms of means, variances and higher moments",
+            "volume": "37",
+            "author": "Samuelson,",
+            "year": "1970",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023051917304897400_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "915",
+            "DOI": "10.1111/j.1540-6261.1980.tb03509.x",
+            "article-title": "On the direction of preference for moments of higher order than the variance",
+            "volume": "35",
+            "author": "Scott,",
+            "year": "1980",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1589",
+            "DOI": "10.1111/0022-1082.00066",
+            "article-title": "Costly search and mutual fund flows",
+            "volume": "53",
+            "author": "Sirri,",
+            "year": "1998",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1903",
+            "DOI": "10.1111/jofi.12286",
+            "article-title": "Arbitrage asymmetry and the idiosyncratic volatility puzzle",
+            "volume": "70",
+            "author": "Stambaugh,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.1111/j.1540-6261.2007.01232.x",
+            "article-title": "Giving content to investor sentiment: The role of media in the stock market",
+            "volume": "62",
+            "author": "Tetlock,",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917304897400_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "779",
+            "DOI": "10.1111/j.1467-937X.2009.00583.x",
+            "article-title": "Information acquisition and under-diversification",
+            "volume": "77",
+            "author": "Van Nieuwerburgh,",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023051917304897400_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1200",
+            "DOI": "10.1111/jeea.12107",
+            "article-title": "On the possibility of informationally efficient markets",
+            "volume": "12",
+            "author": "Vives,",
+            "year": "2014",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2023051917304897400_B49",
+            "doi-asserted-by": "crossref",
+            "article-title": "Is money really \u2019smart\u2019? New evidence on the relation between mutual fund flows, manager behavior, and performance persistence",
+            "author": "Wermers,",
+            "year": "2003",
+            "DOI": "10.2139/ssrn.414420"
+        },
+        {
+            "key": "2023051917304897400_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1135",
+            "DOI": "10.1111/jofi.12857",
+            "article-title": "Informed trading and intertemporal substitution",
+            "volume": "75",
+            "author": "Xiao,",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhac082/47013592/hhac082.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/6/2468/50378638/hhac082.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/6/2468/50378638/hhac082.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                19
+            ]
+        ],
+        "date-time": "2023-05-19T17:35:36Z",
+        "timestamp": 1684517736000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/36/6/2468/6772540"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                25
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    25
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    19
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhac082",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                25
+            ]
+        ]
+    }
+}

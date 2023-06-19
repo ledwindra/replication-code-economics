@@ -1,0 +1,531 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                5
+            ]
+        ],
+        "date-time": "2023-05-05T13:41:02Z",
+        "timestamp": 1683294062306
+    },
+    "reference-count": 34,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        2
+                    ]
+                ],
+                "date-time": "2022-08-02T00:00:00Z",
+                "timestamp": 1659398400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study dynamic matching in exchange markets with easy- and hard-to-match agents. A greedy policy, which attempts to match agents upon arrival, ignores the positive externality that waiting agents provide by facilitating future matchings. We prove that the trade-off between a \u201cthicker\u201d market and faster matching vanishes in large markets; the greedy policy leads to shorter waiting times and more agents matched than any other policy. We empirically confirm these findings in data from the National Kidney Registry. Greedy matching achieves as many transplants as commonly used policies (1.8$\\%$ more than monthly batching) and shorter waiting times (16 days faster than monthly batching).</jats:p>",
+    "DOI": "10.1093/restud/rdac044",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                2
+            ]
+        ],
+        "date-time": "2022-08-02T16:08:45Z",
+        "timestamp": 1659456525000
+    },
+    "page": "1084-1124",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Matching in Dynamic Imbalanced Markets"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Itai",
+            "family": "Ashlagi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MS&E, Stanford"
+                }
+            ]
+        },
+        {
+            "given": "Afshin",
+            "family": "Nikzad",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Economics, University of Southern California"
+                }
+            ]
+        },
+        {
+            "given": "Philipp",
+            "family": "Strack",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Economics, Yale University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                2
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023050513131364200_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "4026",
+            "DOI": "10.1257/aer.20180771",
+            "article-title": "Market Failure in Kidney Exchange",
+            "volume": "109",
+            "author": "AGARWAL,",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023050513131364200_B2",
+            "article-title": "Unpaired Kidney Exchange: Overcoming Double Coincidence of Wants without Money",
+            "author": "AKBARPOUR,",
+            "year": "2019"
+        },
+        {
+            "key": "2023050513131364200_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "783",
+            "DOI": "10.1086/704761",
+            "article-title": "Thickness and Information in Dynamic Matching Markets",
+            "volume": "128",
+            "author": "AKBARPOUR,",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023050513131364200_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1446",
+            "DOI": "10.1287/opre.2017.1644",
+            "article-title": "Efficient Dynamic Barter Exchange",
+            "volume": "65",
+            "author": "ANDERSON,",
+            "year": "2017",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2023050513131364200_B5",
+            "article-title": "Quantifying the High-Frequency Trading arms Race: A Simple New Methodology and Estimates",
+            "author": "AQUILINA,",
+            "year": "2020",
+            "journal-title": "Chicago Booth Research Paper"
+        },
+        {
+            "key": "2023050513131364200_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.1145/2940716.2940758",
+            "article-title": "On Matching and Thickness in Heterogeneous Dynamic Markets",
+            "author": "ASHLAGI,",
+            "year": "2016",
+            "journal-title": "Proceedings of the 2016 ACM Conference on Economics and Computation"
+        },
+        {
+            "key": "2023050513131364200_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1145/2492002.2482565",
+            "article-title": "Kidney Exchange in Dynamic Sparse Heterogenous Pools",
+            "volume-title": "Proceedings of the Fourteenth ACM Conference on Electronic Commerce",
+            "author": "ASHLAGI,",
+            "year": "2013"
+        },
+        {
+            "key": "2023050513131364200_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1177",
+            "DOI": "10.1111/ajt.14566",
+            "article-title": "Effect of Match-Run Frequencies on the Number of Transplants and Waiting Times in Kidney Exchange",
+            "volume": "18",
+            "author": "ASHLAGI,",
+            "year": "2018",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2023050513131364200_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2780",
+            "DOI": "10.1111/j.1600-6143.2011.03800.x",
+            "article-title": "NEAD Chains in Transplantation",
+            "volume": "11",
+            "author": "ASHLAGI,",
+            "year": "2011",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2023050513131364200_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1145/3328526.3329573",
+            "article-title": "Edge Weighted Online Windowed Matching",
+            "volume-title": "Proceedings of the 2019 ACM Conference on Economics and Computation",
+            "author": "ASHLAGI,",
+            "year": "2019"
+        },
+        {
+            "key": "2023050513131364200_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.3982/TE3740",
+            "article-title": "Optimal dynamic matching",
+            "volume": "15",
+            "author": "BACCARA,",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023050513131364200_B12",
+            "author": "BIRO,",
+            "year": "2017",
+            "journal-title": "First Handbook of the COST Action CA15210: European Network for Collaboration on Kidney Exchange Programmes (ENCKEP)"
+        },
+        {
+            "key": "2023050513131364200_B13",
+            "article-title": "Asymptotically Optimal Control of a Centralized Dynamic Matching Market with General Utilities",
+            "author": "BLANCHET,",
+            "year": "2020"
+        },
+        {
+            "key": "2023050513131364200_B14",
+            "volume-title": "Markov Chains: Gibbs Fields, Monte Carlo Simulation, and Queues",
+            "author": "BR\u00c9MAUD,",
+            "year": "2013"
+        },
+        {
+            "key": "2023050513131364200_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "978",
+            "volume-title": "Discrete Probability Models and Methods",
+            "author": "BR\u00c9MAUD,",
+            "year": "2017",
+            "DOI": "10.1007/978-3-319-43476-6"
+        },
+        {
+            "key": "2023050513131364200_B16",
+            "article-title": "A Short Note on Poisson Tail Bounds",
+            "author": "CANONNE,",
+            "year": "2019"
+        },
+        {
+            "key": "2023050513131364200_B17",
+            "article-title": "A Theory of Stability in Dynamic Matching Markets",
+            "author": "Doval,",
+            "year": "2014"
+        },
+        {
+            "key": "2023050513131364200_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1276",
+            "DOI": "10.1093/ndt/gfu309",
+            "article-title": "Kidney Paired Donation: Principles, Protocols and Programs",
+            "volume": "30",
+            "author": "FERRARI,",
+            "year": "2014",
+            "journal-title": "Nephrology Dialysis Transplantation"
+        },
+        {
+            "key": "2023050513131364200_B19",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Introduction to Random Graphs",
+            "author": "FRIEZE,",
+            "year": "2015",
+            "DOI": "10.1017/CBO9781316339831"
+        },
+        {
+            "key": "2023050513131364200_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2539",
+            "DOI": "10.1111/ajt.13414",
+            "article-title": "The Best-Laid Schemes of Mice and Men Often Go Awry; How Should We Repair Them?",
+            "volume": "15",
+            "author": "GENTRY,",
+            "year": "2015",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2023050513131364200_B21",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Performance Modeling and Design of Computer Systems: Queueing Theory in Action",
+            "author": "HARCHOL-BALTER,",
+            "year": "2013",
+            "edition": "1st edn",
+            "DOI": "10.1017/CBO9781139226424"
+        },
+        {
+            "key": "2023050513131364200_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1111/ajt.13490",
+            "article-title": "A Cost-Benefit Analysis of Government Compensation of Kidney Donors",
+            "volume": "16",
+            "author": "HELD,",
+            "year": "2016",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2023050513131364200_B23",
+            "first-page": "115",
+            "article-title": "LYAPUNOV STABILITY",
+            "author": "KHALIL,",
+            "year": "2009",
+            "journal-title": "Control Systems, Robotics and Automation\u2013Volume XII: Nonlinear, Distributed, and Time Delay Systems-I."
+        },
+        {
+            "key": "2023050513131364200_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1145/3328526.3329619",
+            "article-title": "Incorporating Compatible Pairs in Kidney Exchange: A Dynamic Weighted Matching Model",
+            "author": "LI,",
+            "year": "2019",
+            "journal-title": "Proceedings of the 2019 ACM Conference on Economics and Computation"
+        },
+        {
+            "key": "2023050513131364200_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.1007/978-0-387-73699-0_5",
+            "article-title": "Little\u2019s Law",
+            "volume-title": "Building Intuition",
+            "author": "LITTLE,",
+            "year": "2008"
+        },
+        {
+            "key": "2023050513131364200_B26",
+            "article-title": "The Efficiency of A Dynamic Decentralized Two-sided Matching Market",
+            "author": "LIU,",
+            "year": "2018"
+        },
+        {
+            "key": "2023050513131364200_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1145/3391403.3399451",
+            "article-title": "Quick or Cheap? Breaking Points in Dynamic Markets",
+            "author": "MERTIKOPOULOS,",
+            "year": "2020",
+            "journal-title": "Proceedings of the 21st ACM Conference on Economics and Computation"
+        },
+        {
+            "key": "2023050513131364200_B28",
+            "article-title": "Financing Transplants\u2019 Costs of the Poor: A Dynamic Model of Global Kidney Exchange",
+            "author": "NIKZAD,",
+            "year": "2019"
+        },
+        {
+            "key": "2023050513131364200_B29",
+            "article-title": "Markov Chains. Cambridge Series in Statistical and Probabilistic Mathematics",
+            "author": "NORRIS,",
+            "year": "1997"
+        },
+        {
+            "key": "2023050513131364200_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "457",
+            "DOI": "10.1162/0033553041382157",
+            "article-title": "Kidney Exchange",
+            "volume": "119",
+            "author": "ROTH,",
+            "year": "2004",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023050513131364200_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "828",
+            "DOI": "10.1257/aer.97.3.828",
+            "article-title": "Efficient Kidney Exchange: Coincidence of Wants in Markets with Compatibility-based Preferences",
+            "volume": "97",
+            "author": "ROTH,",
+            "year": "2007",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2023050513131364200_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "773",
+            "DOI": "10.1097/01.tp.0000195775.77081.25",
+            "article-title": "Increasing the Opportunity of Live Kidney Donation by Matching for Two-and Three-Way Exchanges",
+            "volume": "81",
+            "author": "SAIDMAN,",
+            "year": "2006",
+            "journal-title": "Transplantation"
+        },
+        {
+            "key": "2023050513131364200_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "372",
+            "DOI": "10.1111/j.1467-937X.2009.00575.x",
+            "article-title": "Dynamic Kidney Exchange",
+            "volume": "77",
+            "author": "\u00dcNVER,",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023050513131364200_B34",
+            "volume-title": "Introduction to Graph Theory",
+            "author": "WEST,",
+            "year": "2000",
+            "edition": "2nd edn"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac044/45298519/rdac044.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/3/1084/50212170/rdac044.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/3/1084/50212170/rdac044.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                5
+            ]
+        ],
+        "date-time": "2023-05-05T13:15:12Z",
+        "timestamp": 1683292512000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/3/1084/6653316"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                2
+            ]
+        ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    2
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac044",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                2
+            ]
+        ]
+    }
+}

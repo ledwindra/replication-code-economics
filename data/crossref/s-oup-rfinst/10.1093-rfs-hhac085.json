@@ -1,0 +1,731 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                7
+            ]
+        ],
+        "date-time": "2023-06-07T08:51:18Z",
+        "timestamp": 1686127878637
+    },
+    "reference-count": 47,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        31
+                    ]
+                ],
+                "date-time": "2022-10-31T00:00:00Z",
+                "timestamp": 1667174400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                19
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We introduce a real-time measure of conditional biases to firms\u2019 earnings forecasts. The measure is defined as the difference between analysts\u2019 expectations and a statistically optimal unbiased machine-learning benchmark. Analysts\u2019 conditional expectations are, on average, biased upward, a bias that increases in the forecast horizon. These biases are associated with negative cross-sectional return predictability, and the short legs of many anomalies contain firms with excessively optimistic earnings forecasts. Further, managers of companies with the greatest upward-biased earnings forecasts are more likely to issue stocks. Commonly used linear earnings models do not work out-of-sample and are inferior to those analysts provide.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhac085",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                31
+            ]
+        ],
+        "date-time": "2022-10-31T15:49:58Z",
+        "timestamp": 1667231398000
+    },
+    "page": "2361-2396",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Man versus Machine Learning: The Term Structure of Earnings Expectations and Conditional Biases"
+    ],
+    "prefix": "10.1093",
+    "volume": "36",
+    "author": [
+        {
+            "given": "Jules H",
+            "family": "van Binsbergen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "The Wharton School, University of Pennsylvania , NBER, and CEPR, USA"
+                }
+            ]
+        },
+        {
+            "given": "Xiao",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Bayes Business School, City, University of London , UK"
+                }
+            ]
+        },
+        {
+            "given": "Alejandro",
+            "family": "Lopez-Lira",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Warrington College of Business, University of Florida , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                31
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023051917305139600_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1287/mnsc.2014.2101",
+            "article-title": "Investor sentiment, beta, and the cost of equity capital",
+            "volume": "62",
+            "author": "Antoniou,",
+            "year": "2015",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023051917305139600_B2",
+            "article-title": "Machine learning panel data regressions with an application to nowcasting price earnings ratios",
+            "author": "Babii,",
+            "year": "2020",
+            "journal-title": "Working Paper, University of North Carolina at Chapel Hill."
+        },
+        {
+            "key": "2023051917305139600_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/1540-6261.00414",
+            "article-title": "Market timing and capital structure",
+            "volume": "57",
+            "author": "Baker,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.1016/B978-0-44-453594-8.00005-7",
+            "article-title": "Behavioral corporate finance: An updated survey",
+            "volume": "2",
+            "author": "Baker,",
+            "year": "2013",
+            "journal-title": "Handbook of the Economics of Finance"
+        },
+        {
+            "key": "2023051917305139600_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "4936",
+            "DOI": "10.1287/mnsc.2017.2864",
+            "article-title": "Automated earnings forecasts: Beat analysts or combine and conquer",
+            "volume": "64",
+            "author": "Ball,",
+            "year": "2018",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023051917305139600_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2269",
+            "DOI": "10.1257/aer.20201713",
+            "article-title": "Belief distortions and macroeconomic fluctuations",
+            "volume": "112",
+            "author": "Bianchi,",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023051917305139600_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2839",
+            "DOI": "10.1111/jofi.12833",
+            "article-title": "Diagnostic expectations and stock returns",
+            "volume": "74",
+            "author": "Bordalo,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B8",
+            "doi-asserted-by": "crossref",
+            "article-title": "Expectations of fundamentals and stock market puzzles",
+            "author": "Bordalo,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3615480"
+        },
+        {
+            "key": "2023051917305139600_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1111/jofi.12734",
+            "article-title": "Sticky expectations and the profitability anomaly",
+            "volume": "74",
+            "author": "Bouchaud,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman,",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2023051917305139600_B11",
+            "article-title": "Forest through the trees: Building cross-sections of stock returns",
+            "author": "Bryzgalova,",
+            "year": "2020"
+        },
+        {
+            "key": "2023051917305139600_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2644",
+            "DOI": "10.1257/aer.20110306",
+            "article-title": "Information rigidity and the expectations formation process: A simple framework and new facts",
+            "volume": "105",
+            "author": "Coibion,",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023051917305139600_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1673",
+            "DOI": "10.1093/rfs/hhz069",
+            "article-title": "Short- and long-horizon behavioural factors",
+            "volume": "33",
+            "author": "Daniel,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "2113",
+            "DOI": "10.1111/0022-1082.00490",
+            "article-title": "Differences of opinion and the cross section of stock returns",
+            "volume": "57",
+            "author": "Diether,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1971",
+            "DOI": "10.1111/jofi.12718",
+            "article-title": "Anomalies and news",
+            "volume": "73",
+            "author": "Engelberg,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "101249",
+            "DOI": "10.1016/j.jacceco.2019.101249",
+            "article-title": "Analysts and anomalies",
+            "volume": "69",
+            "author": "Engelberg,",
+            "year": "2020",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2023051917305139600_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917305139600_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "491",
+            "DOI": "10.1016/j.jfineco.2005.09.009",
+            "article-title": "Profitability, investment and average returns",
+            "volume": "82",
+            "author": "Fama,",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917305139600_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1653",
+            "DOI": "10.1111/j.1540-6261.2008.01371.x",
+            "article-title": "Dissecting anomalies",
+            "volume": "63",
+            "author": "Fama,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917305139600_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023051917305139600_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1016/S0165-4101(98)00026-3",
+            "article-title": "Accounting valuation, market expectation, and cross-sectional stock returns",
+            "volume": "25",
+            "author": "Frankel,",
+            "year": "1998",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2023051917305139600_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/rfs/hhz123",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "volume": "33",
+            "author": "Freyberger,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "4389",
+            "DOI": "10.1093/rfs/hhx019",
+            "article-title": "The characteristics that provide independent information about average us monthly stock returns",
+            "volume": "30",
+            "author": "Green,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B25",
+            "doi-asserted-by": "crossref",
+            "article-title": "Artificial intelligence and high-skilled work: Evidence from analysts",
+            "author": "Grennan,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3681574"
+        },
+        {
+            "key": "2023051917305139600_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.1111/j.1540-6261.2011.01663.x",
+            "article-title": "Who drove and burst the tech bubble",
+            "volume": "66",
+            "author": "Griffin,",
+            "year": "2011",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B28",
+            "article-title": "The elements of statistical learning",
+            "volume-title": "Springer series in statistics",
+            "author": "Hastie,",
+            "year": "2001"
+        },
+        {
+            "key": "2023051917305139600_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "3401",
+            "DOI": "10.1093/rfs/hhq063",
+            "article-title": "A financing-based misvaluation factor and the cross-section of expected returns",
+            "volume": "23",
+            "author": "Hirshleifer,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "2095",
+            "DOI": "10.1111/jofi.12431",
+            "article-title": "Speculative betas",
+            "volume": "71",
+            "author": "Hong,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "504",
+            "DOI": "10.1016/j.jacceco.2011.12.001",
+            "article-title": "The implied cost of capital: A new approach",
+            "volume": "53",
+            "author": "Hou,",
+            "year": "2012",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2023051917305139600_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "266",
+            "DOI": "10.1007/s11142-007-9065-9",
+            "article-title": "On the relation between predictable market returns and predictable analyst forecast errors",
+            "volume": "13",
+            "author": "Hughes,",
+            "year": "2008",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2023051917305139600_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "75\u00e2",
+            "DOI": "10.1007/s10994-014-5451-2",
+            "article-title": "The effect of splitting on random forests",
+            "volume": "99",
+            "author": "Ishwaran,",
+            "year": "2015",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2023051917305139600_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1146/annurev-financial-121415-032930",
+            "article-title": "Analysts\u2019 forecasts and asset pricing: A survey",
+            "volume": "8",
+            "author": "Kothari,",
+            "year": "2016",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2023051917305139600_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1111/jofi.12612",
+            "article-title": "Interpreting factor models",
+            "volume": "73",
+            "author": "Kozak,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1715",
+            "DOI": "10.1111/j.1540-6261.1996.tb05223.x",
+            "article-title": "Expectations and the cross-section of stock returns",
+            "volume": "51",
+            "author": "La Porta,",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "3711",
+            "DOI": "10.1093/bioinformatics/bty373",
+            "article-title": "The revival of the Gini importance",
+            "volume": "34",
+            "author": "Nembrini,",
+            "year": "2018",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "2023051917305139600_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+            "volume": "55",
+            "author": "Newey,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023051917305139600_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1111/j.1540-6261.2008.01335.x",
+            "article-title": "Share issuance and cross-sectional returns",
+            "volume": "63",
+            "author": "Pontiff,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023051917305139600_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "885",
+            "DOI": "10.1506/KHNW-PJYL-ADUB-0RP6",
+            "article-title": "The walk-down to beatable analyst forecasts: The role of equity issuance and insider trading incentives",
+            "volume": "21",
+            "author": "Richardson,",
+            "year": "2004",
+            "journal-title": "Contemporary Accounting Research"
+        },
+        {
+            "key": "2023051917305139600_B42",
+            "doi-asserted-by": "crossref",
+            "article-title": "Analyst disagreement, forecast bias and stock returns",
+            "author": "Scherbina,",
+            "year": "2004",
+            "DOI": "10.2139/ssrn.894381"
+        },
+        {
+            "key": "2023051917305139600_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "533",
+            "DOI": "10.1093/rof/rfm028",
+            "article-title": "Suppressed negative information and future underperformance",
+            "volume": "12",
+            "author": "Scherbina,",
+            "year": "2007",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2023051917305139600_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1016/j.jfineco.2013.02.002",
+            "article-title": "A new approach to predicting analyst forecast errors: Do investors overweight analyst forecasts",
+            "volume": "108",
+            "author": "So,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023051917305139600_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1270",
+            "DOI": "10.1093/rfs/hhw107",
+            "article-title": "Mispricing factors",
+            "volume": "30",
+            "author": "Stambaugh,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023051917305139600_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/1912934",
+            "article-title": "A heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroskedasticity",
+            "volume": "48",
+            "author": "White,",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023051917305139600_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.1146/annurev-financial-110217-022725",
+            "article-title": "Measuring investor sentiment",
+            "volume": "10",
+            "author": "Zhou,",
+            "year": "2018",
+            "journal-title": "Annual Review of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhac085/48180810/hhac085.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/6/2361/50378690/hhac085.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/6/2361/50378690/hhac085.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                19
+            ]
+        ],
+        "date-time": "2023-05-19T17:36:36Z",
+        "timestamp": 1684517796000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/36/6/2361/6782974"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stefano",
+            "family": "Giglio",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                31
+            ]
+        ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    31
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    19
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhac085",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics",
+        "Finance",
+        "Accounting"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                31
+            ]
+        ]
+    }
+}
