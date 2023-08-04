@@ -1,0 +1,637 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                28
+            ]
+        ],
+        "date-time": "2023-07-28T04:18:25Z",
+        "timestamp": 1690517905061
+    },
+    "reference-count": 50,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100016732",
+            "name": "LG Yeonam Cultural Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We develop a class of tests for time\u2010series models such as multiple regression with growing dimension, infinite\u2010order autoregression, and nonparametric sieve regression. Examples include the Chow test and general linear restriction tests of growing rank \n            <jats:italic>p</jats:italic>. Employing such increasing \n            <jats:italic>p</jats:italic> asymptotics, we introduce a new scale correction to conventional test statistics, which accounts for a high\u2010order long\u2010run variance (HLV), which emerges as \n            <jats:italic>p</jats:italic> grows with sample size. We also propose a bias correction via a null\u2010imposed bootstrap to alleviate finite\u2010sample bias without sacrificing power unduly. A simulation study shows the importance of robustifying testing procedures against the HLV even when \n            <jats:italic>p</jats:italic> is moderate. The tests are illustrated with an application to the oil regressions in Hamilton (2003).\n          </jats:p>",
+    "DOI": "10.3982/ecta17918",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2023-07-27T12:02:02Z",
+        "timestamp": 1690459322000
+    },
+    "page": "1333-1361",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Robust Inference on Infinite and Growing Dimensional Time\u2010Series Regression"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Abhimanyu",
+            "family": "Gupta",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Essex"
+                }
+            ]
+        },
+        {
+            "given": "Myung Hwan",
+            "family": "Seo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Seoul National University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200583-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "368",
+            "DOI": "10.1016/j.jeconom.2012.05.011",
+            "volume": "170",
+            "author": "Anatolyev",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "689",
+            "DOI": "10.1111/joes.12295",
+            "volume": "33",
+            "author": "Anatolyev",
+            "year": "2019",
+            "journal-title": "Journal of Economic Surveys"
+        },
+        {
+            "key": "ecta200583-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.2307/2938259",
+            "volume": "59",
+            "author": "Andrews",
+            "year": "1991",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/2938229",
+            "volume": "59",
+            "author": "Andrews",
+            "year": "1991",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.2307/2951764",
+            "volume": "61",
+            "author": "Andrews",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1214/aos/1176342709",
+            "volume": "2",
+            "author": "Berk",
+            "year": "1974",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200583-bib-0007",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Time Series: Theory and Methods",
+            "author": "Brockwell",
+            "year": "1991",
+            "DOI": "10.1007/978-1-4419-0320-4"
+        },
+        {
+            "key": "ecta200583-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/j.jeconom.2011.07.003",
+            "volume": "165",
+            "author": "Calhoun",
+            "year": "2011",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1350",
+            "DOI": "10.1080/01621459.2017.1328360",
+            "volume": "113",
+            "author": "Cattaneo",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200583-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "748",
+            "DOI": "10.1214/aos/1009210688",
+            "volume": "29",
+            "author": "Chen",
+            "year": "2001",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200583-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "5549",
+            "volume-title": "Handbook of Econometrics, Volume 6B, Chapter 76",
+            "author": "Chen",
+            "year": "2007",
+            "DOI": "10.1016/S1573-4412(07)06076-X"
+        },
+        {
+            "key": "ecta200583-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1016/j.jeconom.2015.03.010",
+            "volume": "188",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3390/econometrics5010001",
+            "volume": "5",
+            "author": "Cho",
+            "year": "2017",
+            "journal-title": "Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.2307/1910133",
+            "volume": "28",
+            "author": "Chow",
+            "year": "1960",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1017/S0266466600008239",
+            "volume": "10",
+            "author": "Jong",
+            "year": "1994",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200583-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "310",
+            "DOI": "10.1080/01621459.1986.10478274",
+            "volume": "81",
+            "author": "Engle",
+            "year": "1986",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200583-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1327",
+            "DOI": "10.1111/jofi.12883",
+            "volume": "75",
+            "author": "Feng",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "ecta200583-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1016/j.jeconom.2003.10.030",
+            "volume": "123",
+            "author": "Gon\u00e7alves",
+            "year": "2004",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1080/07474930701624462",
+            "volume": "26",
+            "author": "Gon\u00e7alves",
+            "year": "2007",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "ecta200583-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.jeconom.2017.11.008",
+            "volume": "203",
+            "author": "Gupta",
+            "year": "2018",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0021",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gupta, Abhimanyu, and Myung Hwan Seo (2023): \u201cSupplement to \u2018Robust Inference on Infinite and Growing Dimensional Time-Series Regression\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA17918.",
+            "DOI": "10.3982/ECTA17918"
+        },
+        {
+            "key": "ecta200583-bib-0022",
+            "volume-title": "Martingale Limit Theory and Its Application",
+            "author": "Hall",
+            "year": "1980"
+        },
+        {
+            "key": "ecta200583-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.1016/S0304-4076(02)00207-5",
+            "volume": "113",
+            "author": "Hamilton",
+            "year": "2003",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hamilton, James D. (2009): \u201cCauses and Consequences of the Oil Shock of 2007-08,\u201d Brookings Papers on Economic Activity SPRING, 215\u2013261.",
+            "DOI": "10.1353/eca.0.0047"
+        },
+        {
+            "key": "ecta200583-bib-0025",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Time Series Analysis",
+            "author": "Hamilton",
+            "year": "2020",
+            "DOI": "10.2307/j.ctv14jx6sm"
+        },
+        {
+            "key": "ecta200583-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1133",
+            "DOI": "10.2307/2171724",
+            "volume": "63",
+            "author": "Hong",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.1017/S0266466602186087",
+            "volume": "18",
+            "author": "Jansson",
+            "year": "2002",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200583-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1257/0002828053828518",
+            "volume": "95",
+            "author": "Jord\u00e0",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200583-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "2093",
+            "DOI": "10.1111/1468-0262.00366",
+            "volume": "70",
+            "author": "Kiefer",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "695",
+            "DOI": "10.1111/1468-0262.00128",
+            "volume": "68",
+            "author": "Kiefer",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1859",
+            "DOI": "10.3982/ECTA16410",
+            "volume": "88",
+            "author": "Kline",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1002/jae.3950030205",
+            "volume": "3",
+            "author": "Koenker",
+            "year": "1988",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.1080/07350015.2018.1506926",
+            "volume": "36",
+            "author": "Lazarus",
+            "year": "2018",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200583-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.08.001",
+            "volume": "190",
+            "author": "Lee",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0035",
+            "first-page": "7381",
+            "volume-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+            "volume": "36",
+            "author": "Lee",
+            "year": "2022"
+        },
+        {
+            "key": "ecta200583-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/j.jeconom.2017.04.005",
+            "volume": "204",
+            "author": "Lee",
+            "year": "2018",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0037",
+            "unstructured": "Linton, Oliver, Myung Hwan Seo, and Yoon-Jae Whang (forthcoming): \u201cTesting Stochastic Dominance With Many Conditioning Variables,\u201d Journal of Econometrics."
+        },
+        {
+            "key": "ecta200583-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "730",
+            "DOI": "10.1017/S0266466602183083",
+            "volume": "18",
+            "author": "Lobato",
+            "year": "2002",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200583-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "712",
+            "DOI": "10.1214/aos/1176348653",
+            "volume": "20",
+            "author": "Marron",
+            "year": "1992",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200583-bib-0040",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Markov Chains and Stochastic Stability",
+            "author": "Meyn",
+            "year": "1993",
+            "DOI": "10.1007/978-1-4471-3267-7"
+        },
+        {
+            "key": "ecta200583-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/S0304-4076(97)00011-0",
+            "volume": "79",
+            "author": "Newey",
+            "year": "1997",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "volume": "55",
+            "author": "Newey",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "968",
+            "DOI": "10.1214/aop/1176993718",
+            "volume": "10",
+            "author": "Peligrad",
+            "year": "1982",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "ecta200583-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.2307/1912705",
+            "volume": "56",
+            "author": "Robinson",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/0304-4076(91)90078-R",
+            "volume": "47",
+            "author": "Robinson",
+            "year": "1991",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200583-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1214/aos/1176344897",
+            "volume": "8",
+            "author": "Shibata",
+            "year": "1980",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200583-bib-0047",
+            "volume-title": "Introduction to Econometrics",
+            "author": "Stock",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200583-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "2327",
+            "DOI": "10.3982/ECTA11684",
+            "volume": "82",
+            "author": "Sun",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200583-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "177",
+            "DOI": "10.1080/07474938.2021.1874703",
+            "volume": "41",
+            "author": "Sun",
+            "year": "2022",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "ecta200583-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1111/j.1467-9868.2007.00577.x",
+            "volume": "69",
+            "author": "Wang",
+            "year": "2007",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2023-07-27T12:05:26Z",
+        "timestamp": 1690459526000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA17918"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17918"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17918",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

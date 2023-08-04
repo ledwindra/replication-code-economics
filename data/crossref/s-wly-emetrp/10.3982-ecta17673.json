@@ -1,0 +1,398 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                28
+            ]
+        ],
+        "date-time": "2023-07-28T04:18:24Z",
+        "timestamp": 1690517904003
+    },
+    "reference-count": 28,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Most U.S. government spending on highways and bridges is done through \u201cscaling\u201d procurement auctions, in which private construction firms submit unit price bids for each piece of material required to complete a project. Using data on bridge maintenance projects undertaken by the Massachusetts Department of Transportation (MassDOT), we present evidence that firm bidding behavior in this context is consistent with optimal skewing under risk aversion: firms limit their risk exposure by placing lower unit bids on items with greater uncertainty. We estimate the amount of uncertainty in each auction, and the distribution of bidders' private costs and risk aversion. Simulating equilibrium item\u2010level bids under counterfactual settings, we estimate the fraction of project spending that is due to risk and evaluate auction mechanisms under consideration by policymakers. We find that scaling auctions provide substantial savings relative to lump sum auctions and show how our framework can be used to evaluate alternative auction designs.</jats:p>",
+    "DOI": "10.3982/ecta17673",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2023-07-27T12:02:02Z",
+        "timestamp": 1690459322000
+    },
+    "page": "1205-1259",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Scaling Auctions as Insurance: A Case Study in Infrastructure Procurement"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Valentin",
+            "family": "Bolotnyy",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Hoover Institution, Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Shoshana",
+            "family": "Vasserman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford Graduate School of Business"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta200581-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1111/j.1756-2171.2008.00004.x",
+            "volume": "39",
+            "author": "Asker",
+            "year": "2008",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200581-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1086/319558",
+            "volume": "109",
+            "author": "Athey",
+            "year": "2001",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200581-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1093/qje/qjq001",
+            "volume": "126",
+            "author": "Athey",
+            "year": "2011",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "32",
+            "key": "ecta200581-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1288",
+            "DOI": "10.1257/aer.104.4.1288",
+            "volume": "104",
+            "author": "Bajari",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200581-bib-0005",
+            "unstructured": "Betancourt, Michael (2017): \u201cA Conceptual Introduction to Hamiltonian Monte Carlo,\u201d arXiv preprint arXiv:1701.02434."
+        },
+        {
+            "key": "ecta200581-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bolotnyy, Valentin, and Shoshana Vasserman (2023): \u201cSupplement to \u2018Scaling Auctions as Insurance: A Case Study in Infrastructure Procurement\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA17673.",
+            "DOI": "10.2139/ssrn.4390063"
+        },
+        {
+            "key": "ecta200581-bib-0007",
+            "volume-title": "Financial Decisions and Markets: A Course in Asset Pricing",
+            "author": "Campbell",
+            "year": "2017"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200581-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "96",
+            "DOI": "10.1016/j.jeconom.2011.09.011",
+            "volume": "168",
+            "author": "Campo",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200581-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.1093/restud/rdq001",
+            "volume": "78",
+            "author": "Campo",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200581-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Carpenter, Bob, Andrew Gelman, Matthew D. Hoffman, Daniel Lee, Ben Goodrich, Michael Betancourt, Marcus Brubaker, Jiqiang Guo, Peter Li, and Allen Riddell (2017): \u201cStan: A Probabilistic Programming Language,\u201d Journal of Statistical Software, 76 (1).",
+            "DOI": "10.18637/jss.v076.i01"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200581-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "668",
+            "DOI": "10.2307/2555752",
+            "volume": "24",
+            "author": "Che",
+            "year": "1993",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200581-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.1016/j.jeconom.2019.02.004",
+            "volume": "210",
+            "author": "Grundl",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200581-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1193",
+            "DOI": "10.3982/ECTA7028",
+            "volume": "77",
+            "author": "Guerre",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200581-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "186",
+            "DOI": "10.1016/j.jeconom.2013.02.005",
+            "volume": "174",
+            "author": "Hu",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200581-bib-0015",
+            "first-page": "37",
+            "volume-title": "Handbook of Computational Economics",
+            "volume": "3",
+            "author": "Hubbard",
+            "year": "2014"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200581-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "840",
+            "DOI": "10.1111/1756-2171.12342",
+            "volume": "51",
+            "author": "Kong",
+            "year": "2020",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200581-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "293",
+            "DOI": "10.1093/restud/rdq004",
+            "volume": "78",
+            "author": "Krasnokutskaya",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200581-bib-0018",
+            "volume-title": "A Theory of Incentives in Procurement and Regulation",
+            "author": "Laffont",
+            "year": "1993"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200581-bib-0019",
+            "first-page": "104",
+            "volume": "98",
+            "author": "Lovallo",
+            "year": "2020",
+            "journal-title": "Harvard Business Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200581-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1016/j.jeconom.2019.07.009",
+            "volume": "216",
+            "author": "Luo",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200581-bib-0021",
+            "unstructured": "Luo, Yao, and Hidenori Takahashi (2023): \u201cBidding for Contracts Under Uncertain Demand: Skewed Bidding and Risk Sharing,\u201d RAND Journal of Economics."
+        },
+        {
+            "key": "ecta200581-bib-0022",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Maskin, Eric, and John Riley (1984): \u201cOptimal Auctions With Risk Averse Buyers,\u201d Econometrica: Journal of the Econometric Society, 1473\u20131518.",
+            "DOI": "10.2307/1913516"
+        },
+        {
+            "key": "ecta200581-bib-0023",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Matthews, Steven (1987): \u201cComparing Auctions for Risk Averse Buyers: A Buyer's Point of View,\u201d Econometrica: Journal of the Econometric Society, 633\u2013646.",
+            "DOI": "10.2307/1913603"
+        },
+        {
+            "key": "ecta200581-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Milgrom, Paul R., and Robert J. Weber (1982): \u201cA Theory of Auctions and Competitive Bidding,\u201d Econometrica: Journal of the Econometric Society, 1089\u20131122.",
+            "DOI": "10.2307/1911865"
+        },
+        {
+            "key": "ecta200581-bib-0025",
+            "doi-asserted-by": "crossref",
+            "volume": "5",
+            "author": "Rackauckas",
+            "year": "2017",
+            "journal-title": "Journal of Open Research Software",
+            "DOI": "10.5334/jors.151"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200581-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "499",
+            "DOI": "10.3982/ECTA8934",
+            "volume": "79",
+            "author": "Reny",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200581-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1830",
+            "DOI": "10.1257/aer.103.5.1830",
+            "volume": "103",
+            "author": "Roberts",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200581-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1016/0165-1765(85)90126-0",
+            "volume": "17",
+            "author": "Samuelson",
+            "year": "1985",
+            "journal-title": "Economics Letters"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2023-07-27T12:03:07Z",
+        "timestamp": 1690459387000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA17673"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA17673"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta17673",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}
