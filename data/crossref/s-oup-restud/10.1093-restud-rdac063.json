@@ -1,0 +1,888 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                23
+            ]
+        ],
+        "date-time": "2023-07-23T01:34:04Z",
+        "timestamp": 1690076044762
+    },
+    "reference-count": 73,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        9,
+                        7
+                    ]
+                ],
+                "date-time": "2022-09-07T00:00:00Z",
+                "timestamp": 1662508800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article presents a model of quantitative easing (QE) at the zero lower bound (ZLB) on the short-term nominal interest rate. QE, which reduces the maturity of government debt, is effective at the ZLB because it generates expectations of future monetary expansion in a time-consistent equilibrium. Numerical experiments show that this effect can be substantial.</jats:p>",
+    "DOI": "10.1093/restud/rdac063",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                7
+            ]
+        ],
+        "date-time": "2022-09-07T04:50:14Z",
+        "timestamp": 1662526214000
+    },
+    "page": "1759-1799",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Time Consistency and Duration of Government Debt: A Model of Quantitative Easing"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Saroj",
+            "family": "Bhattarai",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Texas at Austin"
+                }
+            ]
+        },
+        {
+            "given": "Gauti B",
+            "family": "Eggertsson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Brown University"
+                }
+            ]
+        },
+        {
+            "given": "Bulat",
+            "family": "Gafarov",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California , Davis"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023070519383943500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.3982/ECTA14806",
+            "article-title": "Take the Short Route: Equilibrium Default and Debt Maturity",
+            "volume": "87",
+            "author": "AGUIAR",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070519383943500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1016/S0304-3932(98)00031-2",
+            "article-title": "The Optimum Quantity of Debt",
+            "volume": "42",
+            "author": "AIYAGARI",
+            "year": "1998",
+            "journal-title": "Journal of Monetary Economics,"
+        },
+        {
+            "key": "2023070519383943500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "524",
+            "DOI": "10.1016/j.jmacro.2011.09.001",
+            "article-title": "Using Inflation to Erode the US Public Debt",
+            "volume": "33",
+            "author": "AIZENMAN",
+            "year": "2011",
+            "journal-title": "Journal of Macroeconomics,"
+        },
+        {
+            "key": "2023070519383943500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.1111/j.1468-0262.2004.00500.x",
+            "article-title": "The Time Consistency of Optimal Monetary and Fiscal Policies",
+            "volume": "72",
+            "author": "ALVAREZ",
+            "year": "2004",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2023070519383943500_B5",
+            "article-title": "Delphic and Odyssean Monetary Policy Shocks: Evidence from the Euro Area",
+            "author": "ANDRADE",
+            "year": "2016"
+        },
+        {
+            "key": "2023070519383943500_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.1162/003355302760193977",
+            "article-title": "Fiscal Policy with Noncontingent Debt and the Optimal Maturity Structure,",
+            "volume": "117",
+            "author": "ANGELETOS",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics,"
+        },
+        {
+            "key": "2023070519383943500_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1086/666589",
+            "article-title": "Default and the Maturity Structure in Sovereign Bonds",
+            "volume": "120",
+            "author": "ARELLANO",
+            "year": "2012",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2023070519383943500_B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "940",
+            "DOI": "10.1086/260807",
+            "article-title": "On the Determination of the Public Debt",
+            "volume": "87",
+            "author": "BARRO",
+            "year": "1979",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2023070519383943500_B9",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Signaling Channel for Federal Reserve Bond Purchases",
+            "author": "BAUER",
+            "year": "2013",
+            "DOI": "10.24148/wp2011-21"
+        },
+        {
+            "key": "2023070519383943500_B10",
+            "article-title": "The Crisis and the Policy Response",
+            "author": "BERNANKE",
+            "year": "2009"
+        },
+        {
+            "key": "2023070519383943500_B11",
+            "article-title": "Monetary Policy and Central Bank Balance Sheet Concerns",
+            "volume": "9",
+            "author": "BERRIEL",
+            "year": "2009",
+            "journal-title": "BE Journal of Macroeconomics,"
+        },
+        {
+            "key": "2023070519383943500_B12",
+            "doi-asserted-by": "crossref",
+            "article-title": "Time Consistency and Duration of Government Debt: A Signalling Theory of Quantitative Easing",
+            "author": "BHATTARAI",
+            "year": "2015",
+            "DOI": "10.3386/w21336"
+        },
+        {
+            "key": "2023070519383943500_B13",
+            "article-title": "Optimal Debt Maturity with Default in an Open Economy",
+            "author": "BHATTARAI",
+            "year": "2022"
+        },
+        {
+            "key": "2023070519383943500_B14",
+            "doi-asserted-by": "crossref",
+            "article-title": "A Lesson from the Great Depression that the Fed Might have Learned: A Comparison of the 1932 Open Market Purchases with Quantitative Easing",
+            "author": "BORDO",
+            "year": "2016",
+            "DOI": "10.3386/w22581"
+        },
+        {
+            "key": "2023070519383943500_B15",
+            "article-title": "National Income and Product Accounts",
+            "author": "BUREAU OF ECONOMIC",
+            "year": "1947\u20132010"
+        },
+        {
+            "key": "2023070519383943500_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1411",
+            "DOI": "10.2307/1913836",
+            "article-title": "On the Time Consistency of Optimal Policy in a Monetary Economy,",
+            "volume": "46",
+            "author": "CALVO",
+            "year": "1978",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2023070519383943500_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1245",
+            "DOI": "10.2307/2938310",
+            "article-title": "Time Consistency of Fiscal and Monetary Policy: A Comment",
+            "volume": "58",
+            "author": "CALVO",
+            "year": "1990",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2023070519383943500_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "612",
+            "DOI": "10.2307/3867267",
+            "article-title": "Credibility and Nominal Debt: Exploring the Role of Maturity in Managing Inflation",
+            "volume": "37",
+            "author": "CALVO",
+            "year": "1990",
+            "journal-title": "IMF Staff Papers"
+        },
+        {
+            "key": "2023070519383943500_B19",
+            "first-page": "612",
+            "article-title": "Optimal Maturity of Nominal Government Debt: An Infinite-Horizon Model",
+            "volume": "37",
+            "author": "CALVO",
+            "year": "1992",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023070519383943500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1353/eca.2012.0004",
+            "article-title": "Macroeconomic Effects of Federal Reserve Forward Guidance",
+            "volume": "43",
+            "author": "CAMPBELL",
+            "year": "2012",
+            "journal-title": "Brookings Papers on Economic Activity,"
+        },
+        {
+            "key": "2023070519383943500_B21",
+            "article-title": "The Interest Rate Effects of Government Debt Maturity",
+            "author": "CHADHA",
+            "year": "2013"
+        },
+        {
+            "key": "2023070519383943500_B22",
+            "article-title": "Data for: The Interest Rate Effects of Government Debt Maturity",
+            "author": "CHADHA",
+            "year": "2013"
+        },
+        {
+            "key": "2023070519383943500_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.1468-0297.2012.02549.x",
+            "article-title": "The Macroeconomic Effects of Large-scale Asset Purchase Programmes",
+            "volume": "122",
+            "author": "CHEN",
+            "year": "2012",
+            "journal-title": "Economic Journal,"
+        },
+        {
+            "key": "2023070519383943500_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1086/659312",
+            "article-title": "When is the Government Spending Multiplier Large?",
+            "volume": "1",
+            "author": "CHRISTIANO",
+            "year": "2011",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2023070519383943500_B25",
+            "first-page": "1",
+            "article-title": "Monetary Policy when the Nominal Short-Term Interest Rate is Zero",
+            "volume": "3",
+            "author": "CLOUSE",
+            "year": "2003",
+            "journal-title": "BE Journal of Macroeconomics,"
+        },
+        {
+            "key": "2023070519383943500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2437",
+            "DOI": "10.1257/aer.102.6.2437",
+            "article-title": "Markups and Firm-Level Export Status",
+            "volume": "102",
+            "author": "DE LOECKER",
+            "year": "2012.",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B27",
+            "article-title": "When Does a Central Bank Balance Sheet Require Fiscal Support?",
+            "author": "DEL NEGRO",
+            "year": "2015"
+        },
+        {
+            "key": "2023070519383943500_B28",
+            "article-title": "The Forward Guidance Puzzle",
+            "author": "DEL NEGRO",
+            "year": "2015"
+        },
+        {
+            "key": "2023070519383943500_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "824",
+            "DOI": "10.1257/aer.20121660",
+            "article-title": "The Great Escape? A Quantitative Evaluation of the Fed\u2019s Liquidity Facilities",
+            "volume": "107",
+            "author": "DEL NEGRO",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023070519383943500_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1353/mcb.2006.0031",
+            "article-title": "The Deflation Bias and Committing to Being Irresponsible",
+            "volume": "38",
+            "author": "EGGERTSSON",
+            "year": "2006",
+            "journal-title": "Journal of Money, Credit, and Banking,"
+        },
+        {
+            "key": "2023070519383943500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1476",
+            "DOI": "10.1257/aer.98.4.1476",
+            "article-title": "Great Expectations and the End of the Depression",
+            "volume": "98",
+            "author": "EGGERTSSON",
+            "year": "2008",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B32",
+            "article-title": "Toolkit for Solving ZLB Models",
+            "author": "EGGERTSSSON",
+            "year": "2019"
+        },
+        {
+            "key": "2023070519383943500_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1016/j.jedc.2018.09.011",
+            "article-title": "Log-linear Approximation versus an Exact Solution at the ZLB in the New Keynesian Model",
+            "volume": "105",
+            "author": "EGGERTSSON",
+            "year": "2019",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2023070519383943500_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1353/eca.2003.0010",
+            "article-title": "The Zero Bound on Interest Rates and Optimal Monetary Policy",
+            "volume": "34",
+            "author": "EGGERTSSON",
+            "year": "2003",
+            "journal-title": "Brookings Papers on Economic Activity,"
+        },
+        {
+            "key": "2023070519383943500_B35",
+            "article-title": "Market Value of U.S. Government Debt",
+            "author": "FEDERAL RESERVE BANK OF",
+            "year": "1942\u20132010"
+        },
+        {
+            "key": "2023070519383943500_B36",
+            "article-title": "Forward Guidance at the Zero Lower Bound",
+            "author": "FILARDO",
+            "year": "2014"
+        },
+        {
+            "key": "2023070519383943500_B37",
+            "doi-asserted-by": "crossref",
+            "article-title": "A Behavioral New Keynesian Model",
+            "author": "GABAIX",
+            "year": "2016",
+            "DOI": "10.3386/w22954"
+        },
+        {
+            "key": "2023070519383943500_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "316",
+            "DOI": "10.1016/j.jeconom.2017.12.004",
+            "article-title": "Delta-Method Inference for a Class of Set-Identified VARs",
+            "volume": "203",
+            "author": "GAFAROV",
+            "year": "2018",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023070519383943500_B39",
+            "first-page": "3",
+            "article-title": "The Financial Market Effects of the Federal Reserve\u2019s Large-Scale Asset Purchases",
+            "volume": "7",
+            "author": "GAGNON",
+            "year": "2011",
+            "journal-title": "International Journal of Central Banking,"
+        },
+        {
+            "key": "2023070519383943500_B40",
+            "volume-title": "Monetary Policy, Inflation, and the Business Cycle",
+            "author": "GALI",
+            "year": "2007"
+        },
+        {
+            "key": "2023070519383943500_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1016/j.jmoneco.2010.10.004",
+            "article-title": "A Model of Unconventional Monetary Policy",
+            "volume": "58",
+            "author": "GERTLER",
+            "year": "2011",
+            "journal-title": "Journal of Monetary Economics,"
+        },
+        {
+            "key": "2023070519383943500_B42",
+            "article-title": "QE1 vs. 2 vs. 3...: A Framework For Analyzing Large Scale Asset Purchases as a Monetary Policy Tool",
+            "author": "GERTLER",
+            "year": "2012"
+        },
+        {
+            "key": "2023070519383943500_B43",
+            "article-title": "Optimal Inflation Targeting Rules",
+            "volume-title": "The Inflation Targeting Debate",
+            "author": "GIANNONI",
+            "year": "2005"
+        },
+        {
+            "key": "2023070519383943500_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "585",
+            "DOI": "10.1257/aer.100.2.585",
+            "article-title": "Price Pressure in the Government Bond Market",
+            "volume": "100",
+            "author": "GREENWOOD",
+            "year": "2010",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B45",
+            "article-title": "Controlling Inflation and Maintaining Central-Bank Solvency under New-Style Central Banking",
+            "author": "HALL",
+            "year": "2013"
+        },
+        {
+            "key": "2023070519383943500_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/j.1538-4616.2011.00477.x",
+            "article-title": "The Effectiveness of Alternative Monetary Policy Tools in a Zero Lower Bound Environment",
+            "volume": "44",
+            "author": "HAMILTON",
+            "year": "2012",
+            "journal-title": "Journal of Money, Credit, and Banking,"
+        },
+        {
+            "key": "2023070519383943500_B47",
+            "article-title": "Inflating Away the Public Debt? An Empirical Assessment",
+            "author": "HILSCHER",
+            "year": "2018"
+        },
+        {
+            "key": "2023070519383943500_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "474",
+            "DOI": "10.1257/aer.97.1.474",
+            "article-title": "Credible Commitment to Optimal Escape from a Liquidity Trap: The Role of the Balance Sheet of an Independent Central Bank",
+            "volume": "97",
+            "author": "JEANNE",
+            "year": "2007",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "789",
+            "DOI": "10.1111/j.1467-937X.2008.00491.x",
+            "article-title": "Time-Consistent Public Policy",
+            "volume": "75",
+            "author": "KLEIN",
+            "year": "2008",
+            "journal-title": "Review of Economic Studies,"
+        },
+        {
+            "key": "2023070519383943500_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1353/eca.2011.0019",
+            "article-title": "The Effects of Quantitative Easing on Interest Rates: Channels and Implications for Policy",
+            "volume": "43",
+            "author": "KRISHNAMURTHY",
+            "year": "2011",
+            "journal-title": "Brookings Papers on Economic Activity,"
+        },
+        {
+            "key": "2023070519383943500_B51",
+            "doi-asserted-by": "crossref",
+            "article-title": "Optimal Time-Consistent Monetary, Fiscal and Debt Maturity Policy",
+            "author": "LEEPER",
+            "year": "2019",
+            "DOI": "10.3386/w25658"
+        },
+        {
+            "key": "2023070519383943500_B52",
+            "doi-asserted-by": "crossref",
+            "article-title": "Inflation\u2019s Role in Optimal Monetary-Fiscal Policy",
+            "author": "LEEPER",
+            "year": "2013",
+            "DOI": "10.3386/w19686"
+        },
+        {
+            "key": "2023070519383943500_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1016/0304-3932(83)90049-1",
+            "article-title": "Optimal Fiscal and Monetary Policy in an Economy without Capital",
+            "volume": "12",
+            "author": "LUCAS",
+            "year": "1983",
+            "journal-title": "Journal of Monetary Economics,"
+        },
+        {
+            "key": "2023070519383943500_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1006/jeth.2000.2785",
+            "article-title": "Markov Perfect Equilibrium I: Observable Actions",
+            "volume": "100",
+            "author": "MASKIN",
+            "year": "2001",
+            "journal-title": "Journal of Economic Theory,"
+        },
+        {
+            "key": "2023070519383943500_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "3133",
+            "DOI": "10.1257/aer.20150063",
+            "article-title": "The Power of Forward Guidance Revisited",
+            "volume": "106",
+            "author": "MCKAY",
+            "year": "2016",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B56",
+            "article-title": "Resolving New Keynesian Anomalies with Wealth in the Utility Function",
+            "author": "MICHAILLAT",
+            "year": "2019"
+        },
+        {
+            "key": "2023070519383943500_B57",
+            "first-page": "309",
+            "article-title": "Debt Burden and Debt Maturity,",
+            "volume": "84",
+            "author": "MISSALE",
+            "year": "1994",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1016/j.red.2017.09.001",
+            "article-title": "Reputation and Liquidity Traps",
+            "volume": "28",
+            "author": "NAKATA",
+            "year": "2018",
+            "journal-title": "Review of Economic Dynamics,"
+        },
+        {
+            "key": "2023070519383943500_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1419",
+            "DOI": "10.2307/1913564",
+            "article-title": "Time Consistency of Fiscal and Monetary Policy",
+            "volume": "55",
+            "author": "PERSSON",
+            "year": "1987",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2023070519383943500_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "193",
+            "DOI": "10.1111/j.1468-0262.2006.00653.x",
+            "article-title": "Time Consistency of Fiscal and Monetary Policy: A Solution",
+            "volume": "74",
+            "author": "PERSSON",
+            "year": "2006",
+            "journal-title": "Econometrica,"
+        },
+        {
+            "key": "2023070519383943500_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "850",
+            "DOI": "10.1086/696277",
+            "article-title": "Government Spending Multipliers in Good Times and in Bad: Evidence from US Historical Data",
+            "volume": "126",
+            "author": "RAMEY",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2023070519383943500_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "850",
+            "DOI": "10.1086/696277",
+            "article-title": "Replication Data for: Government Spending Multipliers in Good Times and in Bad: Evidence from US Historical Data",
+            "volume": "126",
+            "author": "RAMEY",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2023070519383943500_B63",
+            "doi-asserted-by": "crossref",
+            "article-title": "Domestic Bond Markets and Inflation",
+            "author": "ROSE",
+            "year": "2015",
+            "DOI": "10.24148/wp2015-05"
+        },
+        {
+            "key": "2023070519383943500_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1086/261117",
+            "article-title": "Sticky Prices in the United States",
+            "volume": "90",
+            "author": "ROTEMBERG",
+            "year": "1982",
+            "journal-title": "Journal of Political Economy,"
+        },
+        {
+            "key": "2023070519383943500_B65",
+            "article-title": "Limits to Inflation Targeting",
+            "volume-title": "The Inflation Targeting Debate",
+            "author": "SIMS",
+            "year": "2005"
+        },
+        {
+            "key": "2023070519383943500_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1016/S0014-2921(98)00096-8",
+            "article-title": "Solution and Estimation of RE Macromodels with Optimal Policy",
+            "volume": "43",
+            "author": "SODERLIND",
+            "year": "1999",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2023070519383943500_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1353/eca.2011.0006",
+            "article-title": "Let\u2019s Twist Again: A High-Frequency Event-study Analysis of Operation Twist and Its Implications for QE2",
+            "volume": "42",
+            "author": "SWANSON",
+            "year": "2011",
+            "journal-title": "Brookings Papers on Economic Activity,"
+        },
+        {
+            "key": "2023070519383943500_B68",
+            "doi-asserted-by": "crossref",
+            "article-title": "Measuring the Effect of the Zero Lower Bound on Medium- and Longer-Term Interest Rates",
+            "author": "SWANSON",
+            "year": "2013",
+            "DOI": "10.24148/wp2012-02"
+        },
+        {
+            "key": "2023070519383943500_B69",
+            "volume-title": "Asymptotic Statistics",
+            "author": "VAN DER VAART",
+            "year": "2000"
+        },
+        {
+            "key": "2023070519383943500_B70",
+            "first-page": "267",
+            "article-title": "A Modigliani-Miller Theorem for Open-Market Operations",
+            "volume": "71",
+            "author": "WALLACE",
+            "year": "1981",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B71",
+            "first-page": "382",
+            "article-title": "Public Debt as Private Liquidity",
+            "volume": "80",
+            "author": "WOODFORD",
+            "year": "1990",
+            "journal-title": "American Economic Review,"
+        },
+        {
+            "key": "2023070519383943500_B72",
+            "volume-title": "Interest and Prices",
+            "author": "WOODFORD",
+            "year": "2003"
+        },
+        {
+            "key": "2023070519383943500_B73",
+            "first-page": "185",
+            "article-title": "Methods of Policy Accommodation at the Interest-Rate Lower Bound",
+            "author": "WOODFORD",
+            "year": "2012",
+            "journal-title": "Proceedings-The Changing Policy Landscape Symposium-Jackson Hole"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac063/45964764/rdac063.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/4/1759/50825810/rdac063.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/4/1759/50825810/rdac063.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                5
+            ]
+        ],
+        "date-time": "2023-07-05T19:49:34Z",
+        "timestamp": 1688586574000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/4/1759/6693635"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                7
+            ]
+        ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    9,
+                    7
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    7,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac063",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                7
+            ]
+        ]
+    }
+}

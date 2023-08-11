@@ -1,0 +1,797 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                8,
+                2
+            ]
+        ],
+        "date-time": "2023-08-02T06:26:44Z",
+        "timestamp": 1690957604837
+    },
+    "reference-count": 58,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        2
+                    ]
+                ],
+                "date-time": "2023-03-02T00:00:00Z",
+                "timestamp": 1677715200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                23
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Despite the widespread use of graphs in empirical research, little is known about readers\u2019 ability to process the statistical information they are meant to convey (\u201cvisual inference\u201d). We study visual inference in the context of regression discontinuity (RD) designs by measuring how accurately readers identify discontinuities in graphs produced from data-generating processes calibrated on 11 published papers from leading economics journals. First, we assess the effects of different graphical representation methods on visual inference using randomized experiments. We find that bin widths and fit lines have the largest effects on whether participants correctly perceive the presence or absence of a discontinuity. Our experimental results allow us to make evidence-based recommendations to practitioners, and we suggest using small bins with no fit lines as a starting point to construct RD graphs. Second, we compare visual inference on graphs constructed using our preferred method with widely used econometric inference procedures. We find that visual inference achieves similar or lower type I error (false positive) rates and complements econometric inference.</jats:p>",
+    "DOI": "10.1093/qje/qjad011",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                3
+            ]
+        ],
+        "date-time": "2023-03-03T08:15:20Z",
+        "timestamp": 1677831320000
+    },
+    "page": "1977-2019",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Visual Inference and Graphical Representation in Regression Discontinuity Designs"
+    ],
+    "prefix": "10.1093",
+    "volume": "138",
+    "author": [
+        {
+            "given": "Christina",
+            "family": "Korting",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Delaware , United States"
+                }
+            ]
+        },
+        {
+            "given": "Carl",
+            "family": "Lieberman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Delaware , United States"
+                }
+            ]
+        },
+        {
+            "given": "Jordan",
+            "family": "Matsudaira",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Delaware , United States"
+                }
+            ]
+        },
+        {
+            "given": "Zhuan",
+            "family": "Pei",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Delaware , United States"
+                }
+            ]
+        },
+        {
+            "given": "Yi",
+            "family": "Shen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Delaware , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                2
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023062319230067700_bib1",
+            "first-page": "131",
+            "article-title": "\u201cA Survey of Exact Inference for Contingency Tables",
+            "volume": "7",
+            "author": "Agresti",
+            "year": "1992",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "2023062319230067700_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "711",
+            "DOI": "10.1080/07350015.2020.1796395",
+            "article-title": "\u201cTransparency in Structural Research",
+            "volume": "38",
+            "author": "Andrews",
+            "year": "2020",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2117",
+            "DOI": "10.3982/ECTA18155",
+            "article-title": "\u201cA Model of Scientific Communication",
+            "volume": "89",
+            "author": "Andrews",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023062319230067700_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "533",
+            "DOI": "10.1162/003355399556061",
+            "article-title": "\u201cUsing Maimonides\u2019 Rule to Estimate the Effect of Class Size on Scholastic Achievement",
+            "volume": "114",
+            "author": "Angrist",
+            "year": "1999",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319230067700_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1331",
+            "DOI": "10.1080/01621459.2015.1012259",
+            "article-title": "\u201cWanna Get Away? Regression Discontinuity Estimation of Exam School Effects Away from the Cutoff",
+            "volume": "110",
+            "author": "Angrist",
+            "year": "2015",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319230067700_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.3982/ECTA14434",
+            "article-title": "\u201cOptimal Inference in a Class of Regression Models",
+            "volume": "86",
+            "author": "Armstrong",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023062319230067700_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE1199",
+            "article-title": "\u201cSimple and Honest Confidence Intervals in Nonparametric Regression",
+            "volume": "11",
+            "author": "Armstrong",
+            "year": "2020",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2023062319230067700_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "4361",
+            "DOI": "10.1098/rsta.2009.0120",
+            "article-title": "\u201cStatistical Inference for Exploratory Data Analysis and Model Diagnostics",
+            "volume": "367",
+            "author": "Buja",
+            "year": "2009",
+            "journal-title": "Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences"
+        },
+        {
+            "key": "2023062319230067700_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "192",
+            "DOI": "10.1093/ectj/utz022",
+            "article-title": "\u201cOptimal Bandwidth Choice for Robust Bias-Corrected Inference in Regression Discontinuity Designs",
+            "volume": "23",
+            "author": "Calonico",
+            "year": "2020",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "2023062319230067700_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "442",
+            "DOI": "10.1162/rest_a_00760",
+            "article-title": "\u201cRegression Discontinuity Designs Using Covariates",
+            "volume": "101",
+            "author": "Calonico",
+            "year": "2019",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2295",
+            "DOI": "10.3982/ECTA11757",
+            "article-title": "\u201cRobust Nonparametric Confidence Intervals for Regression-Discontinuity Designs",
+            "volume": "82",
+            "author": "Calonico",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023062319230067700_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1753",
+            "DOI": "10.1080/01621459.2015.1017578",
+            "article-title": "\u201cOptimal Data-Driven Regression Discontinuity Plots",
+            "volume": "110",
+            "author": "Calonico",
+            "year": "2015",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319230067700_bib13",
+            "first-page": "195",
+            "article-title": "\u201cThe Process-Performance Paradox in Expert Judgment: How Can Experts Know so Much and Predict so Badly",
+            "volume": "342",
+            "author": "Camerer",
+            "year": "1997",
+            "journal-title": "Research on Judgment and Decision Making: Currents, Connections, and Controversies"
+        },
+        {
+            "key": "2023062319230067700_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "238",
+            "DOI": "10.1198/jbes.2010.07136",
+            "article-title": "\u201cRobust Inference with Multiway Clustering",
+            "volume": "29",
+            "author": "Cameron",
+            "year": "2011",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "126",
+            "DOI": "10.1257/aer.p20151061",
+            "article-title": "\u201cThe Effect of Unemployment Benefits on the Duration of Unemployment Insurance Receipt: New Evidence from a Regression Kink Design in Missouri, 2003\u20132013",
+            "volume": "105",
+            "author": "Card",
+            "year": "2015",
+            "journal-title": "American Economic Review: Papers & Proceedings"
+        },
+        {
+            "key": "2023062319230067700_bib16",
+            "article-title": "\u201cQuasi-Experimental Identification and Estimation in the Regression Kink Design,\u201d",
+            "author": "Card",
+            "year": "2009"
+        },
+        {
+            "key": "2023062319230067700_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2453",
+            "DOI": "10.3982/ECTA11224",
+            "article-title": "\u201cInference on Causal Effects in a Generalized Regression Kink Design",
+            "volume": "83",
+            "author": "Card",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023062319230067700_bib18",
+            "volume-title": "Statistical Inference",
+            "author": "Casella"
+        },
+        {
+            "key": "2023062319230067700_bib19",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cOn Binscatter",
+            "author": "Cattaneo",
+            "year": "2019",
+            "DOI": "10.2139/ssrn.3344739"
+        },
+        {
+            "key": "2023062319230067700_bib20",
+            "doi-asserted-by": "crossref",
+            "volume-title": "A Practical Introduction to Regression Discontinuity Designs: Foundations",
+            "author": "Cattaneo",
+            "year": "2019",
+            "DOI": "10.1017/9781108684606"
+        },
+        {
+            "key": "2023062319230067700_bib21",
+            "article-title": "\u201cCausal Inference Using Synthetic Controls and Regression Discontinuity Designs",
+            "author": "Cattaneo"
+        },
+        {
+            "key": "2023062319230067700_bib22",
+            "article-title": "\u201cRegression Discontinuity Designs",
+            "author": "Cattaneo",
+            "year": "2021"
+        },
+        {
+            "key": "2023062319230067700_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "88",
+            "DOI": "10.1016/j.jbef.2015.12.001",
+            "article-title": "\u201coTree\u2014An Open-Source Platform for Laboratory, Online, and Field Experiments",
+            "volume": "9",
+            "author": "Chen",
+            "year": "2016",
+            "journal-title": "Journal of Behavioral and Experimental Finance"
+        },
+        {
+            "key": "2023062319230067700_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1593",
+            "DOI": "10.1093/qje/qjr041",
+            "article-title": "\u201cHow Does Your Kindergarten Classroom Affect Your Earnings? Evidence from Project Star",
+            "volume": "126",
+            "author": "Chetty",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319230067700_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qju022",
+            "article-title": "\u201cWhere Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States",
+            "volume": "129",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319230067700_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1138",
+            "DOI": "10.1126/science.216.4550.1138",
+            "article-title": "\u201cVariables on Scatterplots Look More Highly Correlated When the Scales Are Increased",
+            "volume": "216",
+            "author": "Cleveland",
+            "year": "1982",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023062319230067700_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.1080/01621459.1984.10478080",
+            "article-title": "\u201cGraphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods",
+            "volume": "79",
+            "author": "Cleveland",
+            "year": "1984",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319230067700_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "42",
+            "DOI": "10.1257/pandp.20201058",
+            "article-title": "\u201cTechnology and Big Data Are Changing Economics: Mining Text to Track Methods",
+            "volume": "110",
+            "author": "Currie",
+            "year": "2020",
+            "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+            "key": "2023062319230067700_bib29",
+            "first-page": "2410",
+            "article-title": "\u201cPredicting Experimental Results: Who Knows What?,\u201d",
+            "volume-title": "Journal of Political Economy",
+            "author": "DellaVigna",
+            "year": "2018"
+        },
+        {
+            "key": "2023062319230067700_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "238",
+            "DOI": "10.1214/aos/1176325367",
+            "article-title": "\u201cStatistical Estimation and Optimal Recovery,\u201d",
+            "volume": "22",
+            "author": "Donoho",
+            "year": "1994",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib31",
+            "article-title": "\u201cWhat We Mean When We Say Student Debt Is Bad",
+            "author": "Dynarski",
+            "year": "2014",
+            "journal-title": "New York Times"
+        },
+        {
+            "key": "2023062319230067700_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1080/01621459.1926.10502165",
+            "article-title": "\u201cThe Relative Merits of Circles and Bars for Representing Component Parts",
+            "volume": "21",
+            "author": "Eells",
+            "year": "1926",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319230067700_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "494",
+            "DOI": "10.1080/01621459.2017.1328356",
+            "article-title": "\u201cA Permutation Test for the Regression Kink Design",
+            "volume": "113",
+            "author": "Ganong",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319230067700_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1080/07350015.2017.1366909",
+            "article-title": "\u201cWhy High-Order Polynomials Should Not Be Used in Regression Discontinuity Designs",
+            "volume": "37",
+            "author": "Gelman",
+            "year": "2019",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib35",
+            "first-page": "37",
+            "article-title": "\u201cThinking about the Weather: How Display Salience and Knowledge Affect Performance in a Graphic Inference Task",
+            "volume": "36",
+            "author": "Hegarty",
+            "year": "2010",
+            "journal-title": "Journal of Experimental Psychology: Learning, Memory, and Cognition"
+        },
+        {
+            "key": "2023062319230067700_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "933",
+            "DOI": "10.1093/restud/rdr043",
+            "article-title": "\u201cOptimal Bandwidth Choice for the Regression Discontinuity Estimator",
+            "volume": "79",
+            "author": "Imbens",
+            "year": "2012",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023062319230067700_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1016/j.jeconom.2007.05.001",
+            "article-title": "\u201cRegression Discontinuity Designs: A Guide to Practice",
+            "volume": "142",
+            "author": "Imbens",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023062319230067700_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "264",
+            "DOI": "10.1162/rest_a_00793",
+            "article-title": "\u201cOptimized Regression Discontinuity Designs",
+            "volume": "101",
+            "author": "Imbens",
+            "year": "2019",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib39",
+            "article-title": "\u201cA Study on Graphical Representation,\u201d",
+            "volume-title": "AEA RCT Registry",
+            "author": "Korting",
+            "year": "2019"
+        },
+        {
+            "key": "2023062319230067700_bib40",
+            "article-title": "\u201cA Study on Graphical Representation",
+            "volume-title": "Center for Open Science, OSF",
+            "author": "Korting",
+            "year": "2019"
+        },
+        {
+            "key": "2023062319230067700_bib41",
+            "article-title": "\u201cVisual Inference and Graphical Representation in Regression Discontinuity Designs",
+            "author": "Korting",
+            "year": "2020"
+        },
+        {
+            "key": "2023062319230067700_bib42",
+            "article-title": "\u201cReplication Data for: \u2018Visual Inference and Graphical Representation in Regression Discontinuity Designs\u2019,\u201d",
+            "author": "Korting",
+            "year": "2023"
+        },
+        {
+            "key": "2023062319230067700_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "911",
+            "DOI": "10.1016/j.ijhcs.2007.06.005",
+            "article-title": "\u201cTop-Down and Bottom-Up Influences on Learning from Animations",
+            "volume": "65",
+            "author": "Kriz",
+            "year": "2007",
+            "journal-title": "International Journal of Human-Computer Studies"
+        },
+        {
+            "key": "2023062319230067700_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "281",
+            "DOI": "10.1257/jel.48.2.281",
+            "article-title": "\u201cRegression Discontinuity Designs in Economics",
+            "volume": "48",
+            "author": "Lee",
+            "year": "2010",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023062319230067700_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "612",
+            "DOI": "10.1038/520612a",
+            "article-title": "\u201cStatistics: P Values Are Just the Tip of the Iceberg",
+            "volume": "520",
+            "author": "Leek",
+            "year": "2015",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2023062319230067700_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1093/biomet/asz081",
+            "article-title": "\u201cThe Essential Histogram",
+            "volume": "107",
+            "author": "Li",
+            "year": "2020",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2023062319230067700_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "942",
+            "DOI": "10.1080/01621459.2013.808157",
+            "article-title": "\u201cValidation of Visual Statistical Inference, Applied to Linear Models",
+            "volume": "108",
+            "author": "Majumder",
+            "year": "2013",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319230067700_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1259",
+            "DOI": "10.1080/07350015.2021.1920961",
+            "article-title": "\u201cLocal Polynomial Order in Regression Discontinuity Designs",
+            "volume": "40",
+            "author": "Pei",
+            "year": "2022",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib49",
+            "article-title": "\u201cSlight Changes in Yelp Ratings Can Mean Huge Losses for Small Businesses",
+            "author": "Rosen",
+            "journal-title": "The Atlantic"
+        },
+        {
+            "key": "2023062319230067700_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1167/7.2.17",
+            "article-title": "\u201cMeasuring Visual Clutter",
+            "volume": "7",
+            "author": "Rosenholtz",
+            "year": "2007",
+            "journal-title": "Journal of Vision"
+        },
+        {
+            "key": "2023062319230067700_bib51",
+            "article-title": "\u201cJust Common Sense? How Well Do Experts and Lay-People Do at Predicting the Findings of Behavioural Science Experiments,\u201d",
+            "author": "Sanders",
+            "year": "2015"
+        },
+        {
+            "key": "2023062319230067700_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "276",
+            "DOI": "10.1257/aer.20191074",
+            "article-title": "\u201cUsing Models to Persuade",
+            "volume": "111",
+            "author": "Schwartzstein",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319230067700_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.19195/0208-4147.39.2.9",
+            "article-title": "\u201cStationarity as a Path Property",
+            "volume": "39",
+            "author": "Shen",
+            "year": "2019",
+            "journal-title": "Probability and Mathematical Statistics"
+        },
+        {
+            "key": "2023062319230067700_bib54",
+            "article-title": "\u201cHow to Get Young People to Vote? Register Them Before They Turn 18",
+            "author": "Sides",
+            "journal-title": "Washington Post"
+        },
+        {
+            "key": "2023062319230067700_bib55",
+            "volume-title": "Introduction to Econometrics",
+            "author": "Stock",
+            "year": "2011",
+            "edition": "3rd ed."
+        },
+        {
+            "key": "2023062319230067700_bib56",
+            "first-page": "359",
+            "article-title": "\u201cSmooth Regression Analysis",
+            "volume": "26",
+            "author": "Watson",
+            "year": "1964",
+            "journal-title": "Sankhy\u0101: The Indian Journal of Statistics, Series A"
+        },
+        {
+            "key": "2023062319230067700_bib57",
+            "first-page": "375",
+            "article-title": "\u201cThe Grammar of Graphics",
+            "volume-title": "Handbook of Computational Statistics",
+            "author": "Wilkinson",
+            "year": "2013"
+        },
+        {
+            "key": "2023062319230067700_bib58",
+            "first-page": "495",
+            "article-title": "\u201cWhat Attributes Guide the Deployment of Visual Attention and How Do They Do It?,\u201d",
+            "volume-title": "Nature Reviews Neuroscience",
+            "author": "Wolfe",
+            "year": "2004"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad011/50310693/qjad011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/3/1977/50689574/qjad011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/3/1977/50689574/qjad011.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                24
+            ]
+        ],
+        "date-time": "2023-06-24T22:59:45Z",
+        "timestamp": 1687647585000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/138/3/1977/7068116"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                2
+            ]
+        ]
+    },
+    "references-count": 58,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    3,
+                    2
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    6,
+                    23
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad011",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                8
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                2
+            ]
+        ]
+    }
+}

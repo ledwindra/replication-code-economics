@@ -1,0 +1,836 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                13
+            ]
+        ],
+        "date-time": "2023-07-13T16:31:54Z",
+        "timestamp": 1689265914985
+    },
+    "reference-count": 61,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        4
+                    ]
+                ],
+                "date-time": "2022-10-04T00:00:00Z",
+                "timestamp": 1664841600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article sets out a data-driven approach for targeting environmental policies optimally in order to combat deforestation. We focus on the Amazon, the world\u2019s most extensive rainforest, where Brazil\u2019s federal government issued a \u201cPriority List\u201d of municipalities in 2008\u2014a blacklist to be targeted with more intense environmental monitoring and enforcement. First, we estimate the causal impact of the Priority List on deforestation (along with other relevant treatment effects) using \u201cchanges-in-changes\u201d due to Athey and Imbens (2006), finding that it reduced deforestation by 43$\\%$ and cut emissions by almost 50 million tons of carbon. Second, we develop a novel framework for computing targeted optimal blacklists that draws on our treatment effect estimates, assigning municipalities to a counterfactual list that minimizes total deforestation subject to realistic resource constraints. We show that the ex post optimal list would result in carbon emissions over 10$\\%$ lower than the actual list, amounting to savings of more than $ \\$ $1.2 billion (34$\\%$ of the total value of the Priority List), with emissions over 23$\\%$ lower on average than a randomly selected list. The approach we propose is relevant both for assessing targeted counterfactual policies to reduce deforestation and for quantifying the impacts of policy targeting more generally.</jats:p>",
+    "DOI": "10.1093/restud/rdac064",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                3
+            ]
+        ],
+        "date-time": "2022-10-03T20:24:22Z",
+        "timestamp": 1664828662000
+    },
+    "page": "1608-1641",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Optimal Environmental Targeting in the Amazon Rainforest"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Juliano",
+            "family": "Assun\u00e7\u00e3o",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Departamento de Economia , PUC-Rio"
+                }
+            ]
+        },
+        {
+            "given": "Robert",
+            "family": "McMillan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Toronto and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Joshua",
+            "family": "Murphy",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Natural Resources Canada"
+                }
+            ]
+        },
+        {
+            "given": "Eduardo",
+            "family": "Souza-Rodrigues",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Toronto"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023070603455912000_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "article-title": "Sampling-Based versus Design-Based Uncertainty in Regression Analysis",
+            "volume": "88",
+            "author": "ABADIE",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070603455912000_B2",
+            "first-page": "1",
+            "article-title": "Only One Tree from Each Seed? Environmental Effectiveness and Poverty Alleviation in Mexico\u2019s Payments for Ecosystem Services Program",
+            "volume": "7",
+            "author": "ALIX-GARCIA",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2023070603455912000_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1590/1809-4392201505504",
+            "article-title": "High Spatial Resolution Land Use and Land Cover Mapping of the Brazilian Legal Amazon in 2008 using Landsat-5/tm and MODIS Data",
+            "volume": "46",
+            "author": "ALMEIDA",
+            "year": "2016",
+            "journal-title": "Acta Amazonica"
+        },
+        {
+            "key": "2023070603455912000_B4",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The Dynamics of Deforestation and Economic Growth in the Brazilian Amazon",
+            "author": "ANDERSEN",
+            "year": "2002",
+            "DOI": "10.1017/CBO9780511493454"
+        },
+        {
+            "key": "2023070603455912000_B5",
+            "doi-asserted-by": "crossref",
+            "article-title": "Spillover Effects of Blacklisting Policy in the Brazilian Amazon",
+            "author": "ANDRADE",
+            "year": "2016",
+            "DOI": "10.11606/D.12.2016.tde-29112016-161123"
+        },
+        {
+            "key": "2023070603455912000_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "465",
+            "DOI": "10.1016/j.landusepol.2014.06.026",
+            "article-title": "Public Policies can Reduce Tropical Deforestation: Lessons and Challenges from Brazil",
+            "volume": "41",
+            "author": "ARIMA",
+            "year": "2014",
+            "journal-title": "Land Use Policy"
+        },
+        {
+            "key": "2023070603455912000_B7",
+            "article-title": "DETERing Deforestation in the Amazon: Environmental Monitoring and Law Enforcement",
+            "author": "ASSUN\u00c7\u00c3O",
+            "year": "2017"
+        },
+        {
+            "key": "2023070603455912000_B8",
+            "article-title": "The Forest Awakens: Amazon Regeneration and Policy Spillovers",
+            "author": "ASSUN\u00c7\u00c3O",
+            "year": "2019"
+        },
+        {
+            "key": "2023070603455912000_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1017/S1355770X18000499",
+            "article-title": "Getting Greener by Going Black: The Effect of Blacklisting Municipalities on Amazon Deforestation",
+            "volume": "24",
+            "author": "ASSUN\u00c7\u00c3O",
+            "year": "2019",
+            "journal-title": "Environment and Development Economics"
+        },
+        {
+            "key": "2023070603455912000_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1111/j.1468-0262.2006.00668.x",
+            "article-title": "Identification and Inference in Nonlinear Difference-in-Differences Models",
+            "volume": "74",
+            "author": "ATHEY",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070603455912000_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1038/nclimate1354",
+            "article-title": "Estimated Carbon Dioxide Emissions from Tropical Deforestation Improved by Carbon-Density Maps",
+            "volume": "2",
+            "author": "BACCINI",
+            "year": "2012",
+            "journal-title": "Nature Climate Change"
+        },
+        {
+            "key": "2023070603455912000_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "168",
+            "DOI": "10.1016/j.jeconom.2011.11.007",
+            "article-title": "Inferring Welfare Maximizing Treatment Assignment under Budget Constraints",
+            "volume": "167",
+            "author": "BHATTACHARYA",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023070603455912000_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1444",
+            "DOI": "10.1126/science.1155121",
+            "article-title": "Forests and Climate Change: Forcings, Feedbacks, and the Climate Benefits of Forests",
+            "volume": "320",
+            "author": "BONAN",
+            "year": "2008",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023070603455912000_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "294",
+            "DOI": "10.1016/j.gloenvcha.2014.04.021",
+            "article-title": "Forest Law Enforcement in the Brazilian Amazon: Costs and Income Effects",
+            "volume": "29",
+            "author": "BORNER",
+            "year": "2014",
+            "journal-title": "Global Environmental Change"
+        },
+        {
+            "key": "2023070603455912000_B15",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Brazilian Amazon\u2019s Double Reversal of Fortune",
+            "author": "BURGESS",
+            "year": "2019",
+            "DOI": "10.31235/osf.io/67xg5"
+        },
+        {
+            "key": "2023070603455912000_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1707",
+            "DOI": "10.1093/qje/qjs034",
+            "article-title": "The Political Economy of Deforestation in the Tropics",
+            "volume": "127",
+            "author": "BURGESS",
+            "year": "2012",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023070603455912000_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "292",
+            "DOI": "10.1126/science.aad9634",
+            "article-title": "Opportunities for Advances in Climate Change Economics",
+            "volume": "352",
+            "author": "BURKE",
+            "year": "2016",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023070603455912000_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "22990",
+            "DOI": "10.1073/pnas.1912091116",
+            "article-title": "Tuberculosis Diagnosis and Treatment under Uncertainty",
+            "volume": "116",
+            "author": "CASSIDY",
+            "year": "2019",
+            "journal-title": "Proceedings of the National Academy of Sciences United States of America"
+        },
+        {
+            "key": "2023070603455912000_B19",
+            "article-title": "Unintended Consequences of Anti-corruption Strategies: Public Fiscal Audits and Deforestation in the Brazilian Amazon",
+            "author": "CISNEROS",
+            "year": "2013"
+        },
+        {
+            "key": "2023070603455912000_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "e0136402",
+            "DOI": "10.1371/journal.pone.0136402",
+            "article-title": "Naming and Shaming for Conservation: Evidence from the Brazilian Amazon",
+            "volume": "10",
+            "author": "CISNEROS",
+            "year": "2015",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2023070603455912000_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1016/j.jeconom.2004.04.006",
+            "article-title": "Program Evaluation as a Decision Problem",
+            "volume": "125",
+            "author": "DEHEJIA",
+            "year": "2005",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023070603455912000_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "570",
+            "DOI": "10.1126/science.1111772",
+            "article-title": "Global Consequences of Land Use",
+            "volume": "309",
+            "author": "FOLEY",
+            "year": "2005",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023070603455912000_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "72",
+            "DOI": "10.1016/S0095-0696(02)00033-5",
+            "article-title": "Targeting Enforcement to Improve Compliance with Environmental Regulations",
+            "volume": "46",
+            "author": "FRIESEN",
+            "year": "2003",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "key": "2023070603455912000_B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1162/003465300558542",
+            "article-title": "Alternative Estimates of the Effect of Schooling on Earnings",
+            "volume": "82",
+            "author": "GINTHER",
+            "year": "2000",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2023070603455912000_B25",
+            "doi-asserted-by": "crossref",
+            "article-title": "Difference-in-Differences with Variation in Treatment Timing",
+            "author": "GOODMAN-BACON",
+            "year": "2018",
+            "DOI": "10.3386/w25018"
+        },
+        {
+            "key": "2023070603455912000_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1093/reep/req017",
+            "article-title": "The Effectiveness of Environmental Monitoring and Enforcement: A Review of the Empirical Evidence",
+            "volume": "5",
+            "author": "GRAY",
+            "year": "2011",
+            "journal-title": "Review of Environmental Economics and Policy"
+        },
+        {
+            "key": "2023070603455912000_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "3038",
+            "DOI": "10.1257/aer.104.10.3038",
+            "article-title": "Environmental Regulations, Air and Water Pollution, and Infant Mortality in India",
+            "volume": "104",
+            "author": "GREENSTONE",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023070603455912000_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1257/jel.53.1.5",
+            "article-title": "Envirodevonomics: A Research Agenda for an Emerging Field",
+            "volume": "53",
+            "author": "GREENSTONE",
+            "year": "2015",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023070603455912000_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1093/reep/res015",
+            "article-title": "Developing a Social Cost of Carbon for US Regulatory Analysis: A Methodology and Interpretation",
+            "volume": "7",
+            "author": "GREENSTONE",
+            "year": "2013",
+            "journal-title": "Review of Environmental Economics and Policy"
+        },
+        {
+            "key": "2023070603455912000_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1257/jep.32.4.201",
+            "article-title": "Universal Basic Incomes versus Targeted Transfers: Anti-poverty Programs in Developing Countries",
+            "volume": "32",
+            "author": "HANNA",
+            "year": "2018",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2023070603455912000_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "102452",
+            "DOI": "10.1016/j.jeem.2021.102452",
+            "article-title": "Commodity Prices and Robust Environmental Regulation: Evidence from Deforestation in Brazil",
+            "volume": "108",
+            "author": "HARDING",
+            "year": "2021",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "key": "2023070603455912000_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1016/0047-2727(88)90003-5",
+            "article-title": "Enforcement Leverage When Penalties Are Restricted",
+            "volume": "37",
+            "author": "HARRINGTON",
+            "year": "1988",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2023070603455912000_B33",
+            "doi-asserted-by": "crossref",
+            "article-title": "Asymptotic Analysis of Statistical Decision Rules in Econometrics",
+            "author": "HIRANO",
+            "year": "2020",
+            "DOI": "10.1016/bs.hoe.2020.09.001"
+        },
+        {
+            "key": "2023070603455912000_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1845",
+            "DOI": "10.1111/j.1468-0262.2004.00555.x",
+            "article-title": "Confidence Intervals for Partially Identified Parameters",
+            "volume": "72",
+            "author": "IMBENS",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070603455912000_B35",
+            "volume-title": "Climate Change 2013: The Physical Science Basis",
+            "year": "2013"
+        },
+        {
+            "key": "2023070603455912000_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "5326",
+            "DOI": "10.1073/pnas.1802868115",
+            "article-title": "Self-selection into Payments for Ecosystem Services Programs",
+            "volume": "116",
+            "author": "JACK",
+            "year": "2018",
+            "journal-title": "Proceedings of the National Academy of Sciences United States of America"
+        },
+        {
+            "key": "2023070603455912000_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1126/science.aan0568",
+            "article-title": "Cash for Carbon: A Randomized Trial of Payments for Ecosystem Services to Reduce Deforestation",
+            "volume": "357",
+            "author": "JAYACHANDRAN",
+            "year": "2017",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023070603455912000_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.3982/ECTA13288",
+            "article-title": "Who Should Be Treated? Empirical Welfare Maximization Methods for Treatment Choice",
+            "volume": "86",
+            "author": "KITAGAWA",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070603455912000_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "919",
+            "DOI": "10.1093/ajae/aay110",
+            "article-title": "Agricultural Productivity and Forest Conservation: Evidence from the Brazilian Amazon",
+            "volume": "101",
+            "author": "KOCH",
+            "year": "2019",
+            "journal-title": "American Journal of Agricultural Economics"
+        },
+        {
+            "key": "2023070603455912000_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1086/690652",
+            "article-title": "Targeted or Universal Coverage? Assessing Heterogeneity in the Effects of Universal Child Care",
+            "volume": "35",
+            "author": "KOTTELENBERG",
+            "year": "2017",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2023070603455912000_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1071",
+            "DOI": "10.1111/j.1467-937X.2009.00536.x",
+            "article-title": "Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects",
+            "volume": "76",
+            "author": "LEE",
+            "year": "2009",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023070603455912000_B42",
+            "article-title": "Avalia\u00e7\u00e3o do plano de a\u00e7\u00e3o para preven\u00e7\u00e3o e controle do desmatamento na Amazonia legal: PPCDAm 2007\u20132010",
+            "author": "MAIA",
+            "year": "2011"
+        },
+        {
+            "key": "2023070603455912000_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1016/S0304-4076(99)00045-7",
+            "article-title": "Identification Problems and Decisions Under Ambiguity: Empirical Analysis of Treatment Response and Normative Analysis of Treatment Choice",
+            "volume": "95",
+            "author": "MANSKI",
+            "year": "2000",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023070603455912000_B44",
+            "volume-title": "Partial Identification of Probability Distributions",
+            "author": "MANSKI",
+            "year": "2003"
+        },
+        {
+            "key": "2023070603455912000_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.1111/j.1468-0262.2004.00530.x",
+            "article-title": "Statistical Treatment Rules for Heterogeneous Populations",
+            "volume": "72",
+            "author": "MANSKI",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070603455912000_B46",
+            "volume-title": "Social Choice with Partial Knowledge of Treatment Response",
+            "author": "MANSKI",
+            "year": "2005"
+        },
+        {
+            "key": "2023070603455912000_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "F385",
+            "DOI": "10.1111/j.1468-0297.2006.01128.x",
+            "article-title": "Search Profiling with Partial Knowledge of Deterrence",
+            "volume": "116",
+            "author": "MANSKI",
+            "year": "2006",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "key": "2023070603455912000_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "3953",
+            "DOI": "10.1073/pnas.0915009107",
+            "article-title": "Vaccination with Partial Knowledge of External Effectiveness",
+            "volume": "107",
+            "author": "MANSKI",
+            "year": "2010",
+            "journal-title": "Proceedings of the National Academy of Sciences United States of America"
+        },
+        {
+            "key": "2023070603455912000_B49",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1073/pnas.2022886118",
+            "article-title": "Addressing Partial Identification in Climate Modeling and Policy Analysis",
+            "volume": "118",
+            "author": "MANSKI",
+            "year": "2021",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2023070603455912000_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeem.2013.02.003",
+            "article-title": "The Additionality Problem with Offsets: Optimal Contracts for Carbon Sequestration in Forests",
+            "volume": "66",
+            "author": "MASON",
+            "year": "2013",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "key": "2023070603455912000_B51",
+            "article-title": "Terrestrial Precipitation: 1900\u20132010 Gridded Monthly Time Series (1900 - 2010)",
+            "author": "MATSUURA",
+            "year": "2012"
+        },
+        {
+            "key": "2023070603455912000_B52",
+            "article-title": "The Changes-in-Changes Model with Covariates",
+            "author": "MELLY",
+            "year": "2015"
+        },
+        {
+            "key": "2023070603455912000_B53",
+            "article-title": "Plano de a\u00e7\u00e3o para preven\u00e7\u00e3o e controle do desmatamento na Amazonia Legal (PPCDAm)",
+            "year": "2009"
+        },
+        {
+            "key": "2023070603455912000_B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1086/676035",
+            "article-title": "Estimates of the Social Cost of Carbon: Concepts and Results from the DICE\u20132013R Model and Alternative Approaches",
+            "volume": "1",
+            "author": "NORDHAUS",
+            "year": "2014",
+            "journal-title": "Journal of the Association of Environmental and Resource Economists"
+        },
+        {
+            "key": "2023070603455912000_B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/j.jeem.2018.01.008",
+            "article-title": "Re-election Incentives and Deforestation Cycles in the Brazilian Amazon",
+            "volume": "88",
+            "author": "PAILLER",
+            "year": "2018",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "key": "2023070603455912000_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "26",
+            "DOI": "10.1006/jeem.1998.1056",
+            "article-title": "What Drives Deforestation in the Brazilian Amazon? Evidence from Satellite and Socioeconomic Data",
+            "volume": "37",
+            "author": "PFAFF",
+            "year": "1999",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "key": "2023070603455912000_B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "e0129460",
+            "DOI": "10.1371/journal.pone.0129460",
+            "article-title": "Protected Areas\u2019 Impacts on Brazilian Amazon Deforestation: Examining Conservation \u2013 Development Interactions to Inform Planning",
+            "volume": "10",
+            "author": "PFAFF",
+            "year": "2015",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2023070603455912000_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "246",
+            "DOI": "10.1126/science.aba6646",
+            "article-title": "The Rotten Apples of Brazil\u2019s Agribusiness",
+            "volume": "369",
+            "author": "RAJ\u00c3O",
+            "year": "2020",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023070603455912000_B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1093/ajae/aay028",
+            "article-title": "Effectiveness of a REDD+ Project in Reducing Deforestation in the Brazilian Amazon",
+            "volume": "101",
+            "author": "SIMONET",
+            "year": "2019",
+            "journal-title": "American Journal of Agricultural Economics"
+        },
+        {
+            "key": "2023070603455912000_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "2713",
+            "DOI": "10.1093/restud/rdy070",
+            "article-title": "Deforestation in the Amazon: A Unified Framework for Estimation and Policy Analysis",
+            "volume": "86",
+            "author": "SOUZA-RODRIGUES",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023070603455912000_B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "994",
+            "DOI": "10.1257/aer.89.4.994",
+            "article-title": "The Costs of Carbon Sequestration: A Revealed-Preference Approach",
+            "volume": "89",
+            "author": "STAVINS",
+            "year": "1999",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac064/46685474/rdac064.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/4/1608/50826972/rdac064.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/4/1608/50826972/rdac064.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                6
+            ]
+        ],
+        "date-time": "2023-07-06T03:46:47Z",
+        "timestamp": 1688615207000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/4/1608/6747968"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                4
+            ]
+        ]
+    },
+    "references-count": 61,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    10,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    7,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac064",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                10,
+                4
+            ]
+        ]
+    }
+}

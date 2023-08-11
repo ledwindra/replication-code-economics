@@ -1,0 +1,848 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                17
+            ]
+        ],
+        "date-time": "2023-07-17T08:16:13Z",
+        "timestamp": 1689581773610
+    },
+    "reference-count": 65,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        23
+                    ]
+                ],
+                "date-time": "2023-01-23T00:00:00Z",
+                "timestamp": 1674432000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "name": "W.T. Grant Foundation",
+            "award": [
+                "190111"
+            ]
+        },
+        {
+            "DOI": "10.13039/100014989",
+            "name": "Chan Zuckerberg Initiative",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "2020-222286"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                23
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Communities across the United States are reconsidering the public safety benefits of prosecuting nonviolent misdemeanor offenses, yet there is little empirical evidence to inform policy in this area. We report the first estimates of the causal effects of misdemeanor prosecution on defendants\u2019 subsequent criminal justice involvement. We leverage the as-if random assignment of nonviolent misdemeanor cases to assistant district attorneys (ADAs) who decide whether a case should be prosecuted in the Suffolk County District Attorney\u2019s Office in Massachusetts. These ADAs vary in the average leniency of their prosecution decisions. We find that for the marginal defendant, nonprosecution of a nonviolent misdemeanor offense leads to a 53% reduction in the likelihood of a new criminal complaint and a 60% reduction in the number of new criminal complaints over the next two years. These local average treatment effects are largest for defendants without prior criminal records, suggesting that averting criminal record acquisition is an important mechanism driving our findings. We also present evidence that a recent policy change in Suffolk County imposing a presumption of nonprosecution for nonviolent misdemeanor offenses had similar beneficial effects, decreasing the likelihood of subsequent criminal justice involvement.</jats:p>",
+    "DOI": "10.1093/qje/qjad005",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                22
+            ]
+        ],
+        "date-time": "2023-01-22T20:41:35Z",
+        "timestamp": 1674420095000
+    },
+    "page": "1453-1505",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Misdemeanor Prosecution"
+    ],
+    "prefix": "10.1093",
+    "volume": "138",
+    "author": [
+        {
+            "given": "Amanda",
+            "family": "Agan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Rutgers University And National Bureau of Economic Research , United States"
+                }
+            ]
+        },
+        {
+            "given": "Jennifer L",
+            "family": "Doleac",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Texas A&M University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Anna",
+            "family": "Harvey",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "New York University , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                23
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023062319225820800_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/S0304-4076(02)00201-4",
+            "article-title": "Semiparametric Instrumental Variable Estimation of Treatment Response Models",
+            "volume": "113",
+            "author": "Abadie",
+            "year": "2003",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023062319225820800_bib2",
+            "article-title": "Unpacking the Promise and Limitations of Behavioral Health Interventions on Interactions with Law Enforcement",
+            "author": "Abdul-Razzak",
+            "year": "2021"
+        },
+        {
+            "key": "2023062319225820800_bib3",
+            "article-title": "Replication Data for: \u2018Misdemeanor Prosecutions\u2019",
+            "author": "Agan",
+            "year": "2023"
+        },
+        {
+            "key": "2023062319225820800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "294",
+            "DOI": "10.1162/rest_a_00891",
+            "article-title": "Is Your Lawyer a Lemon? Incentives and Selection in the Public Provision of Criminal Defense",
+            "volume": "103",
+            "author": "Agan",
+            "year": "2021",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2023062319225820800_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1093/qje/qjx028",
+            "article-title": "Ban the Box, Criminal Records, and Racial Discrimination: A Field Experiment",
+            "volume": "133",
+            "author": "Agan",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319225820800_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1214/aoms/1177730090",
+            "article-title": "Estimation of the Parameters of a Single Equation in a Complete System of Stochastic Equations",
+            "volume": "20",
+            "author": "Anderson",
+            "year": "1949",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2023062319225820800_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1177/1536867X1801800108",
+            "article-title": "Exploring Marginal Treatment Effects: Flexible Estimation Using Stata",
+            "volume": "18",
+            "author": "Andresen",
+            "year": "2018",
+            "journal-title": "Stata Journal"
+        },
+        {
+            "key": "2023062319225820800_bib8",
+            "article-title": "MTEFE: Stata Module to Compute Marginal Treatment Effects with Factor Variables",
+            "author": "Andresen",
+            "year": "2019"
+        },
+        {
+            "key": "2023062319225820800_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "727",
+            "DOI": "10.1146/annurev-economics-080218-025643",
+            "article-title": "Weak Instruments in Instrumental Variables Regression: Theory and Practice",
+            "volume": "11",
+            "author": "Andrews",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2023062319225820800_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1080/01621459.1995.10476535",
+            "article-title": "Two-Stage Least Squares Estimation of Average Causal Effects in Models with Variable Treatment Intensity",
+            "volume": "90",
+            "author": "Angrist",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023062319225820800_bib11",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Mostly Harmless Econometrics: An Empiricist\u2019s Companion",
+            "author": "Angrist",
+            "year": "2009",
+            "DOI": "10.1515/9781400829828"
+        },
+        {
+            "key": "2023062319225820800_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1885",
+            "DOI": "10.1093/qje/qjy012",
+            "article-title": "Racial Bias in Bail Decisions",
+            "volume": "133",
+            "author": "Arnold",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319225820800_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "683",
+            "DOI": "10.1002/pam.22371",
+            "article-title": "The Impact of Felony Diversion in San Francisco",
+            "volume": "41",
+            "author": "Augustine",
+            "year": "2022",
+            "journal-title": "Journal of Policy Analysis and Management"
+        },
+        {
+            "key": "2023062319225820800_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1086/259394",
+            "article-title": "Crime and Punishment: An Economic Approach",
+            "volume": "76",
+            "author": "Becker",
+            "year": "1968",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023062319225820800_bib15",
+            "doi-asserted-by": "crossref",
+            "article-title": "Incarceration, Recidivism, and Employment",
+            "author": "Bhuller",
+            "year": "2020",
+            "DOI": "10.1086/705330"
+        },
+        {
+            "key": "2023062319225820800_bib16",
+            "article-title": "Racial Disparities in the Massachusetts Criminal System",
+            "author": "Bishop",
+            "year": "2020"
+        },
+        {
+            "key": "2023062319225820800_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "42",
+            "DOI": "10.2307/1937899",
+            "article-title": "The Estimation of Wage Gains and Welfare Gains in Self-Selection Models",
+            "volume": "69",
+            "author": "Bj\u00f6rklund",
+            "year": "1987",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2023062319225820800_bib18",
+            "doi-asserted-by": "crossref",
+            "article-title": "When Is TSLS Actually Late?",
+            "author": "Blandhol",
+            "year": "2022",
+            "DOI": "10.3386/w29709"
+        },
+        {
+            "key": "2023062319225820800_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.1086/692712",
+            "article-title": "Beyond LATE with a Discrete Instrument",
+            "volume": "125",
+            "author": "Brinch",
+            "year": "2017",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023062319225820800_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2754",
+            "DOI": "10.1257/aer.101.6.2754",
+            "article-title": "Estimating Marginal Returns to Education",
+            "volume": "101",
+            "author": "Carneiro",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1257/jel.20141147",
+            "article-title": "Criminal Deterrence: A Review of the Literature",
+            "volume": "55",
+            "author": "Chalfin",
+            "year": "2017",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023062319225820800_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1016/j.labeco.2016.06.004",
+            "article-title": "From LATE to MTE: Alternative Methods for the Evaluation of Policy Interventions",
+            "volume": "41",
+            "author": "Cornelissen",
+            "year": "2016",
+            "journal-title": "Labour Economics"
+        },
+        {
+            "key": "2023062319225820800_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1711",
+            "DOI": "10.1093/qje/qju019",
+            "article-title": "Family Welfare Cultures",
+            "volume": "129",
+            "author": "Dahl",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319225820800_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "S39",
+            "DOI": "10.1111/ectj.12015",
+            "article-title": "Confidence Sets Based on Inverting Anderson\u2013Rubin Tests",
+            "volume": "17",
+            "author": "Davidson",
+            "year": "2014",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "2023062319225820800_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "367",
+            "DOI": "10.3982/QE601",
+            "article-title": "Tolerating Defiance? Local Average Treatment Effects without Monotonicity",
+            "volume": "8",
+            "author": "De Chaisemartin",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2023062319225820800_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1257/aer.20161503",
+            "article-title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+            "volume": "108",
+            "author": "Dobbie",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib27",
+            "doi-asserted-by": "crossref",
+            "article-title": "Encouraging Desistance from Crime",
+            "author": "Doleac",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3825106"
+        },
+        {
+            "key": "2023062319225820800_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1583",
+            "DOI": "10.1257/aer.97.5.1583",
+            "article-title": "Child Protection and Child Outcomes: Measuring the Effects of Foster Care",
+            "volume": "97",
+            "author": "Doyle",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib29",
+            "doi-asserted-by": "crossref",
+            "article-title": "Learning from Law Enforcement",
+            "author": "Dusek",
+            "DOI": "10.2139/ssrn.3523548"
+        },
+        {
+            "key": "2023062319225820800_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1257/aer.20201860",
+            "article-title": "Judging Judge Fixed Effects",
+            "volume": "113",
+            "author": "Frandsen",
+            "year": "2023",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib31",
+            "first-page": "291",
+            "article-title": "The Effect of Disability Insurance Receipt on Labor Supply",
+            "volume": "6",
+            "author": "French",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2023062319225820800_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1086/694844",
+            "article-title": "Speeding, Punishment, and Recidivism: Evidence from a Regression Discontinuity Design",
+            "volume": "60",
+            "author": "Gehrsitz",
+            "year": "2017",
+            "journal-title": "Journal of Law and Economics"
+        },
+        {
+            "key": "2023062319225820800_bib33",
+            "doi-asserted-by": "crossref",
+            "article-title": "Contamination Bias in Linear Regressions",
+            "author": "Goldsmith-Pinkham",
+            "year": "2022",
+            "DOI": "10.3386/w30108"
+        },
+        {
+            "key": "2023062319225820800_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1581",
+            "DOI": "10.1257/aer.20130189",
+            "article-title": "Punishment and Deterrence: Evidence from Drunk Driving",
+            "volume": "105",
+            "author": "Hansen",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/j.jeconom.2009.09.006",
+            "article-title": "Comparing IV with Structural Models: What Simple IV Can and Cannot Identify",
+            "volume": "156",
+            "author": "Heckman",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023062319225820800_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1162/rest.88.3.389",
+            "article-title": "Understanding Instrumental Variables in Models with Essential Heterogeneity",
+            "volume": "88",
+            "author": "Heckman",
+            "year": "2006",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2023062319225820800_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1257/aer.91.2.107",
+            "article-title": "Policy-Relevant Treatment Effects",
+            "volume": "91",
+            "author": "Heckman",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1111/j.1468-0262.2005.00594.x",
+            "article-title": "Structural Equations, Treatment Effects, and Econometric Policy Evaluation",
+            "volume": "73",
+            "author": "Heckman",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023062319225820800_bib39",
+            "article-title": "The Limits of Ban-the-Box Legislation",
+            "author": "Herring"
+        },
+        {
+            "key": "2023062319225820800_bib40",
+            "article-title": "Examiner Designs and First-Stage F Statistics: A Caution",
+            "author": "Hull"
+        },
+        {
+            "key": "2023062319225820800_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "article-title": "Identification and Estimation of Local Average Treatment Effects",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023062319225820800_bib42",
+            "first-page": "237",
+            "article-title": "Human Decisions and Machine Predictions",
+            "volume": "133",
+            "author": "Kleinberg",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023062319225820800_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1086/674743",
+            "article-title": "Misdemeanor Justice: Control without Conviction",
+            "volume": "119",
+            "author": "Kohler-Hausmann",
+            "year": "2013",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2023062319225820800_bib44",
+            "article-title": "Estimation in an Instrumental Variables Model with Treatment Effect Heterogeneity",
+            "author": "Koles\u00e1r",
+            "year": "2013"
+        },
+        {
+            "key": "2023062319225820800_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1096",
+            "DOI": "10.1111/ecoj.12325",
+            "article-title": "School Starting Age and the Crime-Age Profile",
+            "volume": "127",
+            "author": "Landers\u00f8",
+            "year": "2017",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2023062319225820800_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/652208",
+            "article-title": "Understanding Desistance from Crime",
+            "volume": "28",
+            "author": "Laub",
+            "year": "2001",
+            "journal-title": "Crime and Justice"
+        },
+        {
+            "key": "2023062319225820800_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1850",
+            "DOI": "10.1177/0011128718806683",
+            "article-title": "Misdemeanor Records and Employment Outcomes: An Experimental Study",
+            "volume": "65",
+            "author": "Leasure",
+            "year": "2019",
+            "journal-title": "Crime & Delinquency"
+        },
+        {
+            "key": "2023062319225820800_bib48",
+            "article-title": "Valid t-Ratio Inference for IV",
+            "author": "Lee",
+            "year": "2020"
+        },
+        {
+            "key": "2023062319225820800_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1797",
+            "DOI": "10.1257/aer.103.5.1797",
+            "article-title": "Does Disability Insurance Receipt Discourage Work? Using Examiner Assignment to Estimate Causal Effects of SSDI Receipt",
+            "volume": "103",
+            "author": "Maestas",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023062319225820800_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "577",
+            "DOI": "10.1146/annurev-economics-101617-041813",
+            "article-title": "Identification and Extrapolation of Causal Effects with Instrumental Variables",
+            "volume": "10",
+            "author": "Mogstad",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2023062319225820800_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "358",
+            "DOI": "10.1080/00401706.2013.806694",
+            "article-title": "A Robust Test for Weak Instruments",
+            "volume": "31",
+            "author": "Montiel",
+            "year": "2013",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023062319225820800_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "883",
+            "DOI": "10.1093/restud/rdaa030",
+            "article-title": "Diversion in the Criminal Justice System",
+            "volume": "88",
+            "author": "Mueller-Smith",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023062319225820800_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1086/599202",
+            "article-title": "Imprisonment and Reoffending",
+            "volume": "38",
+            "author": "Nagin",
+            "year": "2009",
+            "journal-title": "Crime and Justice"
+        },
+        {
+            "key": "2023062319225820800_bib54",
+            "volume-title": "Punishment without Crime: How Our Massive Misdemeanor System Traps the Innocent and Makes America More Unequal",
+            "author": "Natapoff",
+            "year": "2018"
+        },
+        {
+            "key": "2023062319225820800_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "937",
+            "DOI": "10.1086/374403",
+            "article-title": "The Mark of a Criminal Record",
+            "volume": "108",
+            "author": "Pager",
+            "year": "2003",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2023062319225820800_bib56",
+            "volume-title": "Marked: Race, Crime, and Finding Work in an Era of Mass Incarceration",
+            "author": "Pager",
+            "year": "2008"
+        },
+        {
+            "key": "2023062319225820800_bib57",
+            "article-title": "A New Approach to Reducing Incarceration While Maintaining Low Rates of Crime",
+            "author": "Raphael"
+        },
+        {
+            "key": "2023062319225820800_bib58",
+            "doi-asserted-by": "crossref",
+            "article-title": "Racial Disparity in Federal Criminal Sentences",
+            "author": "Rehavi",
+            "year": "2014",
+            "DOI": "10.1086/677255"
+        },
+        {
+            "key": "2023062319225820800_bib59",
+            "volume-title": "NIJ\u2019s Multisite Evaluation of Prosecutor-led Diversion Programs: Strategies, Impacts, and Cost-effectiveness",
+            "author": "Rempel",
+            "year": "2018"
+        },
+        {
+            "key": "2023062319225820800_bib60",
+            "article-title": "How Much Does Your Prosecutor Matter? An Estimate of Prosecutorial Discretion",
+            "author": "Sloan",
+            "year": "2020"
+        },
+        {
+            "key": "2023062319225820800_bib61",
+            "article-title": "Racial Bias by Prosecutors: Evidence from Random Assignment",
+            "author": "Sloan",
+            "year": "2020"
+        },
+        {
+            "key": "2023062319225820800_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "208",
+            "DOI": "10.1093/socpro/spz009",
+            "article-title": "Searching for Work with a Criminal Record",
+            "volume": "67",
+            "author": "Smith",
+            "year": "2020",
+            "journal-title": "Social Problems"
+        },
+        {
+            "key": "2023062319225820800_bib63",
+            "first-page": "731",
+            "article-title": "The Scale of Misdemeanor Justice",
+            "volume": "98",
+            "author": "Stevenson",
+            "year": "2018",
+            "journal-title": "Boston University Law Review"
+        },
+        {
+            "key": "2023062319225820800_bib64",
+            "article-title": "Racial Disparities in Federal Sentencing: Evidence from Drug Mandatory Minimums,\u201d 2021, available at SSRN, http://dx.doi.org/10.2139/ssrn.3080463",
+            "author": "Tuttle"
+        },
+        {
+            "key": "2023062319225820800_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "627",
+            "DOI": "10.1111/1745-9125.12051",
+            "article-title": "The Edge of Stigma: An Experimental Audit of the Effects of Low-Level Criminal Records on Employment",
+            "volume": "52",
+            "author": "Uggen",
+            "year": "2014",
+            "journal-title": "Criminology"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad005/49510844/qjad005.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/3/1453/50689508/qjad005.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/3/1453/50689508/qjad005.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                24
+            ]
+        ],
+        "date-time": "2023-06-24T22:58:13Z",
+        "timestamp": 1687647493000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/138/3/1453/6998589"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                23
+            ]
+        ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    1,
+                    23
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    6,
+                    23
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad005",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                8
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                23
+            ]
+        ]
+    }
+}
