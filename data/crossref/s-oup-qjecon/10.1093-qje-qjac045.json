@@ -1,0 +1,1190 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2023-07-27T15:50:36Z",
+        "timestamp": 1690473036887
+    },
+    "reference-count": 123,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        9
+                    ]
+                ],
+                "date-time": "2023-01-09T00:00:00Z",
+                "timestamp": 1673222400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                3
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study learning via shared news. Each period agents receive the same quantity and quality of firsthand information and can share it with friends. Some friends (possibly few) share selectively, generating heterogeneous news diets across agents. Agents are aware of selective sharing and update beliefs by Bayes\u2019s rule. Contrary to standard learning results, we show that beliefs can diverge in this environment, leading to polarization. This requires that (i) agents hold misperceptions (even minor) about friends\u2019 sharing and (ii) information quality is sufficiently low. Polarization can worsen when agents\u2019 friend networks expand. When the quantity of firsthand information becomes large, agents can hold opposite extreme beliefs, resulting in severe polarization. We find that news aggregators can curb polarization caused by news sharing. Our results hold without media bias or fake news, so eliminating these is not sufficient to reduce polarization. When fake news is included, it can lead to polarization but only through misperceived selective sharing. We apply our theory to shed light on the polarization of public opinion about climate change in the United States.</jats:p>",
+    "DOI": "10.1093/qje/qjac045",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                10
+            ]
+        ],
+        "date-time": "2023-01-10T01:50:12Z",
+        "timestamp": 1673315412000
+    },
+    "page": "955-1000",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Learning from Shared News: When Abundant Information Leads to Belief Polarization"
+    ],
+    "prefix": "10.1093",
+    "volume": "138",
+    "author": [
+        {
+            "given": "T Renee",
+            "family": "Bowen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, San Diego and National Bureau of Economic Research , United States"
+                }
+            ]
+        },
+        {
+            "given": "Danil",
+            "family": "Dmitriev",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California, San Diego and National Bureau of Economic Research , United States"
+                },
+                {
+                    "name": "University of California, San Diego , United States"
+                }
+            ]
+        },
+        {
+            "given": "Simone",
+            "family": "Galperti",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California, San Diego and National Bureau of Economic Research , United States"
+                },
+                {
+                    "name": "University of California, San Diego , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1",
+            "article-title": "\u201cOpinion Fluctuations and Disagreement in Social Networks,\u201d",
+            "volume": "38",
+            "author": "Acemoglu",
+            "year": "2013",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "194",
+            "article-title": "\u201cSpread of (Mis)information in Social Networks,\u201d",
+            "volume": "70",
+            "author": "Acemoglu",
+            "year": "2010",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "324",
+            "article-title": "\u201cThe Polarization of Reality,\u201d",
+            "volume-title": "AEA Papers and Proceedings",
+            "author": "Alesina",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "629",
+            "article-title": "\u201cThe Welfare Effects of Social Media,\u201d",
+            "volume": "110",
+            "author": "Allcott",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "211",
+            "article-title": "\u201cSocial Media and Fake News in the 2016 Election,\u201d",
+            "volume": "31",
+            "author": "Allcott",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "209",
+            "article-title": "\u201cDiverging Opinions,\u201d",
+            "volume": "4",
+            "author": "Andreoni",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cIs Journalistic Truth Dead? Measuring How Informed Voters Are about Political News,\u201d",
+            "author": "Angelucci",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cThe Impact of Aggregators on Internet News Consumption,\u201d",
+            "author": "Athey",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cSocial Media Networks, Fake News, and Polarization,\u201d",
+            "author": "Azzimonti",
+            "journal-title": "European Journal of Political Economy"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cA Multi-Agent Model of Misspecified Learning with Overconfidence,\u201d",
+            "author": "Ba",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "69",
+            "article-title": "\u201cHomophily in Peer Groups,\u201d",
+            "volume": "5",
+            "author": "Baccara",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1130",
+            "article-title": "\u201cExposure to Ideologically Diverse News and Opinion on Facebook,\u201d",
+            "volume": "348",
+            "author": "Bakshy",
+            "year": "2015",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "39",
+            "article-title": "\u201cCauses and Consequences of Polarization,\u201d",
+            "author": "Barber",
+            "journal-title": "Political Negotiation: A Handbook"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "34",
+            "article-title": "\u201cSocial Media, Echo Chambers, and Political Polarization",
+            "volume-title": "Social Media and Democracy: The State of the Field, Prospects for Reform",
+            "author": "Barber\u00e1",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "Unequal Democracy: The Political Economy of the New Gilded Age",
+            "author": "Bartels",
+            "year": "2008"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1471",
+            "article-title": "\u201cDisclosure and Choice,\u201d",
+            "volume": "85",
+            "author": "Ben-Porath",
+            "year": "2018",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "51",
+            "article-title": "\u201cLimiting Behavior of Posterior Distributions When the Model Is Incorrect,\u201d",
+            "volume": "37",
+            "author": "Berk",
+            "year": "1966",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cComing Apart? Cultural Distances in the United States over Time,\u201d",
+            "author": "Bertrand",
+            "year": "2018"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "The Big Sort: Why the Clustering of Like-Minded America Is Tearing Us Apart",
+            "author": "Bishop",
+            "year": "2009"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "222",
+            "article-title": "\u201cInformational Herding with Model Misspecification,\u201d",
+            "volume": "163",
+            "author": "Bohren",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "3025",
+            "article-title": "\u201cLearning with Heterogeneous Misspecified Models: Characterization and Robustness,\u201d",
+            "volume": "89",
+            "author": "Bohren",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cReplication Data for: \u2018Learning from Shared News: When Abundant Information Leads to Belief Polarization\u2019,\u201d",
+            "author": "Bowen",
+            "year": "2022"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "10612",
+            "article-title": "\u201cGreater Internet Use Is Not Associated with Faster Growth of Political Polarization among US Demographic Groups,\u201d",
+            "volume": "114",
+            "author": "Boxell",
+            "year": "2017",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1",
+            "article-title": "\u201cLost in Translation? United States Television News Coverage of Anthropogenic Climate Change, 1995\u20132004,\u201d",
+            "volume": "86",
+            "author": "Boykoff",
+            "year": "2008",
+            "journal-title": "Climatic Change"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "185",
+            "article-title": "\u201cPolarization and Public Policy: A General Assessment,\u201d",
+            "volume": "2",
+            "author": "Brady",
+            "year": "2008",
+            "journal-title": "Red and Blue Nation"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cSocial Media and Xenophobia: Evidence from Russia,\u201d",
+            "author": "Bursztyn"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "2126",
+            "article-title": "\u201cThe Production of Information in an Online World,\u201d",
+            "volume": "87",
+            "author": "Cag\u00e9",
+            "year": "2020",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cThe Echo Chamber Effect on Social Media,\u201d",
+            "volume": "118",
+            "author": "Cinelli",
+            "year": "2021",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "575",
+            "article-title": "\u201cModeration from Bias: A Field Experiment on Partisan Media in a New Democracy,\u201d",
+            "volume": "77",
+            "author": "Conroy-Krutz",
+            "year": "2015",
+            "journal-title": "Journal of Politics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "415",
+            "article-title": "\u201cNetwork Structure and Naive Sequential Learning,\u201d",
+            "volume": "15",
+            "author": "Dasaratha",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "554",
+            "article-title": "\u201cThe Spreading of Misinformation Online,\u201d",
+            "volume": "113",
+            "author": "Del Vicario",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "2173",
+            "article-title": "\u201cTest Design and Minimum Standards,\u201d",
+            "volume": "109",
+            "author": "DeMarzo",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "909",
+            "article-title": "\u201cPersuasion Bias, Social Influence, and Unidimensional Opinions,\u201d",
+            "volume": "118",
+            "author": "DeMarzo",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "2058",
+            "article-title": "\u201cThe Cultural Divide,\u201d",
+            "volume": "131",
+            "author": "Desmet",
+            "year": "2021",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "7351",
+            "article-title": "\u201cPolitical Polarization,\u201d",
+            "volume": "104",
+            "author": "Dixit",
+            "year": "2007",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "123",
+            "article-title": "\u201cDisclosure of Nonproprietary Information,\u201d",
+            "volume": "23",
+            "author": "Dye",
+            "year": "1985",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "209",
+            "article-title": "\u201cClimate Change: US Public Opinion,\u201d",
+            "volume": "20",
+            "author": "Egan",
+            "year": "2017",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1363",
+            "article-title": "\u201cWhat You See Is All There Is,\u201d",
+            "volume": "135",
+            "author": "Enke",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cAssociative Memory and Belief Formation,\u201d",
+            "author": "Enke",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "313",
+            "article-title": "\u201cCorrelation Neglect in Belief Formation,\u201d",
+            "volume": "86",
+            "author": "Enke",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1093",
+            "article-title": "\u201cBerk\u2013Nash Equilibrium: A Framework for Modeling Agents with Misspecified Models,\u201d",
+            "volume": "84",
+            "author": "Esponda",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "105260",
+            "article-title": "\u201cAsymptotic Behavior of Bayesian Learners with Misspecified Models,\u201d",
+            "volume": "195",
+            "author": "Esponda",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "183",
+            "article-title": "\u201cEndogenous Sample Selection: A Laboratory Study,\u201d",
+            "volume": "9",
+            "author": "Esponda",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cMental Models and Learning: The Case of Base-Rate Neglect,\u201d",
+            "author": "Esponda",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "819",
+            "article-title": "\u201cOn the Measurement of Polarization,\u201d",
+            "volume": "62",
+            "author": "Esteban",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "221",
+            "article-title": "\u201cNa\u00efve Herding in Rich-Information Settings,\u201d",
+            "volume": "2",
+            "author": "Eyster",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cAn Experiment on Social Mislearning,\u201d",
+            "author": "Eyster",
+            "year": "2018"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "ii",
+            "article-title": "SSRC Anxieties of Democracy,\u201d",
+            "volume-title": "Social Media and Democracy: The State of the Field, Prospects for Reform",
+            "author": "Ferejohn",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "Information Sampling and Adaptive Cognition",
+            "author": "Fiedler",
+            "year": "2005"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "563",
+            "article-title": "\u201cPolitical Polarization in the American Public,\u201d",
+            "volume": "11",
+            "author": "Fiorina",
+            "year": "2008",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "298",
+            "article-title": "\u201cFilter Bubbles, Echo Chambers, and Online News Consumption,\u201d",
+            "volume": "80",
+            "author": "Flaxman",
+            "year": "2016",
+            "journal-title": "Public Opinion Quarterly"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "2281",
+            "article-title": "\u201cMisinterpreting Others and the Fragility of Social Learning,\u201d",
+            "volume": "88",
+            "author": "Frick",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cWhich Misspecifications Persist?\u201d",
+            "author": "Fudenberg",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1065",
+            "article-title": "\u201cLimit Points of Endogenous Misspecified Learning,\u201d",
+            "volume": "89",
+            "author": "Fudenberg",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1155",
+            "article-title": "\u201cActive Learning with a Misspecified Prior,\u201d",
+            "volume": "12",
+            "author": "Fudenberg",
+            "year": "2017",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201c67% of Americans Perceive a Rise in Extreme Weather, but Partisans Differ Over Government Efforts to Address it,\u201d",
+            "author": "Funk",
+            "year": "2021",
+            "journal-title": "Pew Research Center"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cChanneled Attention and Stable Errors,\u201d",
+            "author": "Gagnon-Bartsch",
+            "year": "2018"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cIdeological Bias and Trust in Information Sources,\u201d",
+            "author": "Gentzkow",
+            "year": "2018"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "Affluence and Influence: Economic Inequality and Political Power in America",
+            "author": "Gilens",
+            "year": "2012"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "112",
+            "article-title": "\u201cNa\u00efve Learning in Social Networks and the Wisdom of Crowds,\u201d",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1287",
+            "article-title": "\u201cHow Homophily Affects the Speed of Learning and Best-Response Dynamics,\u201d",
+            "volume": "127",
+            "author": "Golub",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "73",
+            "article-title": "\u201cHomophily, Group Size, and the Diffusion of Political Information in Social Networks: Evidence from Twitter,\u201d",
+            "volume": "143",
+            "author": "Halberstam",
+            "year": "2016",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1269",
+            "article-title": "\u201cMislearning from Censored Data: The Gambler\u2019s Fallacy and Other Correlational Mistakes in Optimal-Stopping Problems,\u201d",
+            "volume": "17",
+            "author": "He",
+            "year": "2022",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cEvolutionarily Stable (Mis)specifications: Theory and Applications,\u201d",
+            "author": "He",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "73",
+            "article-title": "\u201cConvergence in Models of Misspecified Learning,\u201d",
+            "volume": "16",
+            "author": "Heidhues",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1",
+            "article-title": "\u201cTrust, Tribalism and Tweets: Has Political Polarization Made Science a \u2018Wedge Issue\u2019?,\u201d",
+            "volume": "3",
+            "author": "Helmuth",
+            "year": "2016",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cDisliking to Disagree,\u201d",
+            "author": "Hoffmann",
+            "year": "2019"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cThe Politics of News Personalization,\u201d",
+            "author": "Hu",
+            "year": "2019"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "201",
+            "article-title": "\u201cThe Strengthening of Partisan Affect,\u201d",
+            "volume": "39",
+            "author": "Iyengar",
+            "year": "2018",
+            "journal-title": "Political Psychology"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "129",
+            "article-title": "\u201cThe Origins and Consequences of Affective Polarization in the United States,\u201d",
+            "volume": "22",
+            "author": "Iyengar",
+            "year": "2019",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1582",
+            "article-title": "\u201cInvestment Strategy and Selection Bias: An Equilibrium Perspective on Overoptimism,\u201d",
+            "volume": "108",
+            "author": "Jehiel",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "141",
+            "article-title": "\u201cIs No News (Perceived As) Bad News? An Experimental Investigation of Information Disclosure,\u201d",
+            "volume": "13",
+            "author": "Jin",
+            "year": "2021",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "678",
+            "article-title": "\u201cThe Na\u00efve Intuitive Statistician: A Na\u00efve Sampling Model of Intuitive Confidence Intervals,\u201d",
+            "volume": "114",
+            "author": "Juslin",
+            "year": "2007",
+            "journal-title": "Psychological Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "Thinking, Fast and Slow",
+            "author": "Kahneman",
+            "year": "2011"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "News in a Digital Age: Comparing the Presentation of News Information over Time and across Media Platforms",
+            "author": "Kavanagh",
+            "year": "2019"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "127",
+            "article-title": "\u201cPolarization, Politics and Property Rights: Links between Inequality and Growth,\u201d",
+            "volume": "111",
+            "author": "Keefer",
+            "year": "2002",
+            "journal-title": "Public Choice"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "\u201cAmerican Views: Trust, Media, and Democracy,\u201d",
+            "author": "Knight Foundation",
+            "year": "2018"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "611",
+            "article-title": "\u201cWhy Do Partisan Media Polarize Viewers?,\u201d",
+            "volume": "57",
+            "author": "Levendusky",
+            "year": "2013",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "262",
+            "article-title": "\u201cInformation Diffusion in Networks with the Bayesian Peer Influence Heuristic,\u201d",
+            "volume": "109",
+            "author": "Levy",
+            "year": "2018",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "303",
+            "article-title": "\u201cEcho Chambers and Their Effects on Economic and Political Outcomes,\u201d",
+            "volume": "11",
+            "author": "Levy",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "831",
+            "article-title": "\u201cSocial Media, News Consumption, and Polarization: Evidence from a Field Experiment,\u201d",
+            "volume": "111",
+            "author": "Levy",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cMisspecified Beliefs about Time Lags,\u201d",
+            "author": "Li",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1464",
+            "article-title": "\u201cLearning under Diverse World Views: Model-Based Inference,\u201d",
+            "volume": "110",
+            "author": "Mailath",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "The New Climate War: The Fight to Take Back Our Planet",
+            "author": "Mann",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "128",
+            "article-title": "\u2018I Disrespectfully Agree\u2019: The Differential Effects of Partisan Sorting on Social and Issue Polarization,\u201d",
+            "volume": "59",
+            "author": "Mason",
+            "year": "2015",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change",
+            "author": "Masson-Delmotte",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cIPCC, 2021: Summary for Policymakers.\u201d In Climate Change 2021: The Physical Science Basis. Contribution of Working Group I to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change",
+            "author": "Masson-Delmotte",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cStories of Climate Change: Competing Narratives, the Media, and US Public Opinion 2001\u20132010,\u201d",
+            "author": "Mayer"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "666",
+            "article-title": "\u201cDoes Gerrymandering Cause Polarization?,\u201d",
+            "volume": "53",
+            "author": "McCarty",
+            "year": "2009",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "445",
+            "article-title": "\u201cA Theory of Non\u2013Bayesian Social Learning,\u201d",
+            "volume": "86",
+            "author": "Molavi",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "337",
+            "article-title": "\u201cCommunicating Adaptation to Climate Change: The Art and Science of Public Engagement When Climate Change Comes Home,\u201d",
+            "volume": "5",
+            "author": "Moser",
+            "year": "2014",
+            "journal-title": "Wiley Interdisciplinary Reviews: Climate Change"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "575",
+            "article-title": "\u201cThe Economic Effects of Facebook,\u201d",
+            "volume": "23",
+            "author": "Mosquera",
+            "year": "2020",
+            "journal-title": "Experimental Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1031",
+            "article-title": "\u201cThe Market for News,\u201d",
+            "volume": "95",
+            "author": "Mullainathan",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "383",
+            "article-title": "\u201cPartisanship and Preference Formation: Competing Motivations, Elite Polarization, and Issue Importance,\u201d",
+            "volume": "38",
+            "author": "Mullinix",
+            "year": "2016",
+            "journal-title": "Political Behavior"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "\u201cHow Americans Navigate the Modern Informational Environment. A Study Commemorating the 75th Anniversary of NORC at the University of Chicago,\u201d",
+            "author": "National Opinion Research Center",
+            "year": "2016"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "416",
+            "article-title": "\u201cLearning in Mis-Specified Models and the Possibility of Cycles,\u201d",
+            "volume": "55",
+            "author": "Nyarko",
+            "year": "1991",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "18",
+            "article-title": "\u201cPop: Bursting News Filter Bubbles on Twitter Through Diverse Exposure,\u201d",
+            "volume-title": "Conference Companion Publication of the 2019 on Computer Supported Cooperative Work and Social Computing, CSCW \u201919",
+            "author": "Ookalkar"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cThe Rise of Social Media,\u201d",
+            "author": "Ortiz-Ospina"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cSearching for Information and the Diffusion of Knowledge,\u201d",
+            "author": "Perego",
+            "year": "2016"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "223",
+            "article-title": "\u201cMedia Competition and Social Disagreement,\u201d",
+            "volume": "90",
+            "author": "Perego",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "The Filter Bubble: What the Internet Is Hiding from You",
+            "author": "Periser",
+            "year": "2011"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cPolitical Polarization and Media Habits,\u201d",
+            "author": "Pew Research Center",
+            "year": "2014"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cNews Use Across Social Media Platforms 2016,\u201d",
+            "author": "Pew Research Center",
+            "year": "2016"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cAmericans Who Mainly Get Their News on Social Media Are Less Engaged, Less Knowledgeable,\u201d",
+            "author": "Pew Research Center",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cAs Economic Concerns Recede, Environmental Protection Rises on the Public\u2019s Policy Agenda,\u201d",
+            "author": "Pew Research Center",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cU.S. Media Polarization and the 2020 Election: A Nation Divided,\u201d",
+            "author": "Pew Research Center",
+            "year": "2020"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cNews Consumption across Social Media in 2021,\u201d",
+            "author": "Pew Research Center",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cNews We Like to Share: How News Sharing on Social Networks Influences Voting Outcomes,\u201d",
+            "author": "Pogorelskiy"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cEcho Chambers on Facebook,\u201d",
+            "author": "Quattrociocchi"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "44",
+            "article-title": "\u201c\u2018It\u2019s the Sun Wot Won It\u2019: Evidence of Media Influence on Political Attitudes and Voting from a UK Quasi-Natural Experiment,\u201d",
+            "volume": "56",
+            "author": "Reeves",
+            "year": "2016",
+            "journal-title": "Social Science Research"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "485",
+            "article-title": "\u201cHow Ideology Fuels Affective Polarization,\u201d",
+            "volume": "38",
+            "author": "Rogowski",
+            "year": "2016",
+            "journal-title": "Political Behavior"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cGlobal Warming Attitudes Frozen since 2016,\u201d",
+            "author": "Saad",
+            "year": "2021"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cThe History of Social Media: 29+ Moments,\u201d",
+            "volume-title": "Hootsuite",
+            "author": "Samur"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "3606",
+            "article-title": "\u201cPolarization of the Vaccination Debate on Facebook,\u201d",
+            "volume": "36",
+            "author": "Schmidt",
+            "year": "2018",
+            "journal-title": "Vaccine"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "1423",
+            "article-title": "\u201cSelective Attention and Learning,\u201d",
+            "volume": "12",
+            "author": "Schwartzstein",
+            "year": "2014",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "278",
+            "article-title": "\u201cThe Diffusion of Misinformation on Social Media: Temporal Pattern, Message, and Source,\u201d",
+            "volume": "83",
+            "author": "Shin",
+            "year": "2018",
+            "journal-title": "Computers in Human Behavior"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "233",
+            "article-title": "\u201cPartisan Selective Sharing: The Biased Diffusion of Fact-Checking Messages on Social Media,\u201d",
+            "volume": "67",
+            "author": "Shin",
+            "year": "2017",
+            "journal-title": "Journal of Communication"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "81",
+            "article-title": "\u201cBehavioral Implications of Causal Misperceptions,\u201d",
+            "volume": "12",
+            "author": "Spiegler",
+            "year": "2020",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2023040310530154400_",
+            "volume-title": "Divided Democracy in the Age of Social Media",
+            "author": "Sunstein",
+            "year": "2017"
+        },
+        {
+            "key": "2023040310530154400_",
+            "article-title": "\u201cSocial Media, Political Polarization, and Political Disinformation: A Review of the Scientific Literature,\u201d",
+            "author": "Tucker"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "363",
+            "article-title": "\u201cIncidental Exposure, Selective Exposure, and Political Information Sharing: Integrating Online Exposure Patterns and Expression on Social Media,\u201d",
+            "volume": "22",
+            "author": "Weeks",
+            "year": "2017",
+            "journal-title": "Journal of Computer-Mediated Communication"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "295",
+            "article-title": "\u201cTrust and Growth,\u201d",
+            "volume": "111",
+            "author": "Zak",
+            "year": "2001",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2023040310530154400_",
+            "first-page": "415",
+            "article-title": "\u201cPolitical Effects of the Internet and Social Media,\u201d",
+            "volume": "12",
+            "author": "Zhuravskaya",
+            "year": "2020",
+            "journal-title": "Annual Review of Economics"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjac045/49277325/qjac045.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/2/955/49730030/qjac045.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/2/955/49730030/qjac045.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                3
+            ]
+        ],
+        "date-time": "2023-04-03T11:58:07Z",
+        "timestamp": 1680523087000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/138/2/955/6979840"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                9
+            ]
+        ]
+    },
+    "references-count": 123,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    1,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    4,
+                    3
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjac045",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                9
+            ]
+        ]
+    }
+}
