@@ -1,0 +1,517 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2023-12-07T00:50:14Z",
+        "timestamp": 1701910214087
+    },
+    "reference-count": 37,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We study the investment incentives created by truthful mechanisms that allocate resources using approximation algorithms. Some approximation algorithms guarantee nearly 100% of the optimal welfare in the allocation problem but guarantee nothing when accounting for investment incentives. An algorithm's allocative and investment guarantees coincide if and only if its \n            <jats:italic>confirming negative externalities</jats:italic> are sufficiently small. We introduce fast approximation algorithms for the knapsack problem that have no confirming negative externalities and guarantees close to 100% for both allocation and investment.\n          </jats:p>",
+    "DOI": "10.3982/ecta19559",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:55:13Z",
+        "timestamp": 1701867313000
+    },
+    "page": "1969-2003",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Algorithmic Mechanism Design With Investment"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Mohammad",
+            "family": "Akbarpour",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Scott Duke",
+            "family": "Kominers",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Entrepreneurial Management Unit, Harvard Business School"
+                },
+                {
+                    "name": "Department of Economics, Harvard University"
+                },
+                {
+                    "name": "a16z crypto"
+                }
+            ]
+        },
+        {
+            "given": "Kevin Michael",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Shengwu",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Harvard University"
+                }
+            ]
+        },
+        {
+            "given": "Paul",
+            "family": "Milgrom",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Stanford University"
+                },
+                {
+                    "name": "Auctionomics"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200602-bib-0001",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Computational Complexity: A Modern Approach",
+            "author": "Arora",
+            "year": "2009",
+            "DOI": "10.1017/CBO9780511804090"
+        },
+        {
+            "key": "ecta200602-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/0034-6527.00273",
+            "volume": "71",
+            "author": "Arozamena",
+            "year": "2004",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200602-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1007",
+            "DOI": "10.1111/1468-0262.00317",
+            "volume": "70",
+            "author": "Bergemann",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200602-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "494",
+            "DOI": "10.1016/j.orl.2019.08.009",
+            "volume": "47",
+            "author": "Bienstock",
+            "year": "2019",
+            "journal-title": "Operations Research Letters"
+        },
+        {
+            "key": "ecta200602-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1109",
+            "DOI": "10.1111/j.1468-0262.2006.00695.x",
+            "volume": "74",
+            "author": "Bikhchandani",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200602-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "400",
+            "DOI": "10.1287/opre.1100.0888",
+            "volume": "59",
+            "author": "Bikhchandani",
+            "year": "2011",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "ecta200602-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "volume-title": "Proceedings of the Thirty-Seventh Annual ACM Symposium on Theory of Computing",
+            "author": "Briest",
+            "year": "2005",
+            "DOI": "10.1145/1060590.1060597"
+        },
+        {
+            "key": "ecta200602-bib-0008",
+            "first-page": "87",
+            "volume-title": "The Millennium Prize Problems",
+            "author": "Cook",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200602-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "266",
+            "DOI": "10.1287/opre.5.2.266",
+            "volume": "5",
+            "author": "Dantzig",
+            "year": "1957",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "ecta200602-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "346",
+            "volume-title": "Proceedings of the 8th ACM Conference on Electronic Commerce",
+            "author": "Dobzinski",
+            "year": "2007",
+            "DOI": "10.1145/1250910.1250960"
+        },
+        {
+            "key": "ecta200602-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "158",
+            "volume-title": "Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing",
+            "author": "Dughmi",
+            "year": "2017",
+            "DOI": "10.1145/3055399.3055492"
+        },
+        {
+            "key": "ecta200602-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1145/1562164.1562186",
+            "volume": "52",
+            "author": "Fortnow",
+            "year": "2009",
+            "journal-title": "Communications of the ACM"
+        },
+        {
+            "key": "ecta200602-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1011",
+            "DOI": "10.1086/712735",
+            "volume": "129",
+            "author": "Gershkov",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200602-bib-0014",
+            "unstructured": "Hartline, Jason D. (2016): \u201cMechanism Design and Approximation,\u201d Manuscript."
+        },
+        {
+            "key": "ecta200602-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "3102",
+            "DOI": "10.1257/aer.20130712",
+            "volume": "105",
+            "author": "Hartline",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200602-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "436",
+            "DOI": "10.1257/aer.104.5.436",
+            "volume": "104",
+            "author": "Hatfield",
+            "year": "2014",
+            "journal-title": "American Economic Review Papers & Proceedings"
+        },
+        {
+            "key": "ecta200602-bib-0017",
+            "unstructured": "Hatfield, John W., Fuhito Kojima, and Scott Duke Kominers (2019): \u201cStrategy-Proofness, Investment Efficiency, and Marginal Returns: An Equivalence,\u201d Becker Friedman Institute Working Paper."
+        },
+        {
+            "key": "ecta200602-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "104",
+            "DOI": "10.1016/S0899-8256(03)00184-2",
+            "volume": "47",
+            "author": "Holzman",
+            "year": "2004",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200602-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "volume-title": "Complexity of Computer Computations",
+            "author": "Karp",
+            "year": "1972",
+            "DOI": "10.1007/978-1-4684-2001-2_9"
+        },
+        {
+            "key": "ecta200602-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "92",
+            "DOI": "10.1109/TPWRS.2011.2160974",
+            "volume": "27",
+            "author": "Lavaei",
+            "year": "2011",
+            "journal-title": "IEEE Transactions on Power Systems"
+        },
+        {
+            "key": "ecta200602-bib-0021",
+            "first-page": "574",
+            "volume-title": "Proceedings of the 44th Annual IEEE Symposium on Foundations of Computer Science",
+            "author": "Lavi",
+            "year": "2003"
+        },
+        {
+            "key": "ecta200602-bib-0022",
+            "first-page": "297",
+            "volume-title": "Combinatorial Auctions",
+            "author": "Lehmann",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200602-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "577",
+            "DOI": "10.1145/585265.585266",
+            "volume": "49",
+            "author": "Lehmann",
+            "year": "2002",
+            "journal-title": "Journal of the ACM"
+        },
+        {
+            "key": "ecta200602-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "7202",
+            "DOI": "10.1073/pnas.1701997114",
+            "volume": "114",
+            "author": "Leyton-Brown",
+            "year": "2017",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "ecta200602-bib-0025",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Discovering Prices",
+            "author": "Milgrom",
+            "year": "2017",
+            "DOI": "10.7312/milg17598"
+        },
+        {
+            "key": "ecta200602-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/1468-0262.00296",
+            "volume": "70",
+            "author": "Milgrom",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200602-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/704074",
+            "volume": "128",
+            "author": "Milgrom",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200602-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "612",
+            "DOI": "10.1016/j.geb.2007.12.009",
+            "volume": "64",
+            "author": "Mu'Alem",
+            "year": "2008",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200602-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "volume-title": "Proceedings of the Thirty-First Annual ACM Symposium on Theory of Computing",
+            "author": "Nisan",
+            "year": "1999",
+            "DOI": "10.1145/301250.301287"
+        },
+        {
+            "key": "ecta200602-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1613/jair.2046",
+            "volume": "29",
+            "author": "Nisan",
+            "year": "2007",
+            "journal-title": "Journal of Artificial Intelligence Research"
+        },
+        {
+            "key": "ecta200602-bib-0031",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Handbook of Combinatorial Optimization",
+            "author": "Pardalos",
+            "year": "2013",
+            "DOI": "10.1007/978-1-4419-7997-1"
+        },
+        {
+            "key": "ecta200602-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "777",
+            "DOI": "10.2307/2297997",
+            "volume": "59",
+            "author": "Rogerson",
+            "year": "1992",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200602-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "286",
+            "volume-title": "Proceedings of the 6th ACM Conference on Electronic Commerce",
+            "author": "Saks",
+            "year": "2005",
+            "DOI": "10.1145/1064009.1064040"
+        },
+        {
+            "key": "ecta200602-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0004-3702(01)00159-X",
+            "volume": "135",
+            "author": "Sandholm",
+            "year": "2002",
+            "journal-title": "Artificial Intelligence"
+        },
+        {
+            "key": "ecta200602-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1016/j.jet.2019.04.009",
+            "volume": "182",
+            "author": "Tomoeda",
+            "year": "2019",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200602-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "8",
+            "DOI": "10.1111/j.1540-6261.1961.tb02789.x",
+            "volume": "16",
+            "author": "Vickrey",
+            "year": "1961",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "ecta200602-bib-0037",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The Design of Approximation Algorithms",
+            "author": "Williamson",
+            "year": "2011",
+            "DOI": "10.1017/CBO9780511921735"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:56:26Z",
+        "timestamp": 1701867386000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19559"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19559"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta19559",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

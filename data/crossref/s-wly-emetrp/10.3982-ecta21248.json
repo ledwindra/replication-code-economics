@@ -1,0 +1,540 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2023-12-07T00:52:59Z",
+        "timestamp": 1701910379578
+    },
+    "reference-count": 36,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000006",
+            "name": "Office of Naval Research",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>One dominant approach to evaluate the causal effect of a treatment is through panel data analysis, whereby the behaviors of multiple units are observed over time. The information across time and units motivates two general approaches: (i) horizontal regression (i.e., unconfoundedness), which exploits time series patterns, and (ii) vertical regression (e.g., synthetic controls), which exploits cross\u2010sectional patterns. Conventional wisdom often considers the two approaches to be different. We establish this position to be partly false for estimation but generally true for inference. In the absence of any assumptions, we show that both approaches yield algebraically equivalent point estimates for several standard estimators. However, the source of randomness assumed by each approach leads to a distinct estimand and quantification of uncertainty even for the same point estimate. This emphasizes that researchers should carefully consider where the randomness stems from in their data, as it has direct implications for the accuracy of inference.</jats:p>",
+    "DOI": "10.3982/ecta21248",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:55:13Z",
+        "timestamp": 1701867313000
+    },
+    "page": "2125-2154",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Same Root Different Leaves: Time Series and Cross\u2010Sectional Methods in Panel Data"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Dennis",
+            "family": "Shen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Data Sciences & Operations, University of Southern California"
+                }
+            ]
+        },
+        {
+            "given": "Peng",
+            "family": "Ding",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, University of California, Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Jasjeet",
+            "family": "Sekhon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Departments of Statistics & Data Science and Political Science, Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Bin",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Departments of Statistics and EECS, University of California, Berkeley"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta200628-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1257/000282803321455188",
+            "volume": "93",
+            "author": "Abadie",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200628-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1257/jel.20191450",
+            "volume": "59",
+            "author": "Abadie",
+            "year": "2021",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "issue": "536",
+            "key": "ecta200628-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1817",
+            "DOI": "10.1080/01621459.2021.1971535",
+            "volume": "116",
+            "author": "Abadie",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200628-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "490",
+            "key": "ecta200628-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1198/jasa.2009.ap08746",
+            "volume": "105",
+            "author": "Abadie",
+            "year": "2010",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200628-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.1111/ajps.12116",
+            "volume": "59",
+            "author": "Abadie",
+            "year": "2015",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "ecta200628-bib-0007",
+            "unstructured": "Agarwal, Anish, Devavrat Shah, and Dennis Shen (2021): \u201cSynthetic Interventions,\u201d. arXiv preprint arXiv:2006.07691."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200628-bib-0008",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1145/3341617.3326152",
+            "volume": "3",
+            "author": "Amjad",
+            "year": "2019",
+            "journal-title": "Proc. ACM Meas. Anal. Comput. Syst."
+        },
+        {
+            "issue": "22",
+            "key": "ecta200628-bib-0009",
+            "first-page": "1",
+            "volume": "19",
+            "author": "Amjad",
+            "year": "2018",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200628-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "4088",
+            "DOI": "10.1257/aer.20190159",
+            "volume": "111",
+            "author": "Arkhangelsky",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200628-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.2307/1924332",
+            "volume": "60",
+            "author": "Ashenfelter",
+            "year": "1978",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200628-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1257/jep.31.2.3",
+            "volume": "31",
+            "author": "Athey",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "issue": "536",
+            "key": "ecta200628-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1716",
+            "DOI": "10.1080/01621459.2021.1891924",
+            "volume": "116",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "48",
+            "key": "ecta200628-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "30063",
+            "DOI": "10.1073/pnas.1907378117",
+            "volume": "117",
+            "author": "Bartlett",
+            "year": "2020",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "issue": "536",
+            "key": "ecta200628-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1789",
+            "DOI": "10.1080/01621459.2021.1929245",
+            "volume": "116",
+            "author": "Ben-Michael",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "0",
+            "key": "ecta200628-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/07350015.2023.2238788",
+            "volume": "0",
+            "author": "Bottmer",
+            "year": "2023",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200628-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "352",
+            "DOI": "10.1016/j.jeconom.2018.07.005",
+            "volume": "207",
+            "author": "Carvalho",
+            "year": "2018",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "536",
+            "key": "ecta200628-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1849",
+            "DOI": "10.1080/01621459.2021.1920957",
+            "volume": "116",
+            "author": "Chernozhukov",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200628-bib-0019",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Doudchenko, Nikolay, and Guido W. Imbens (2016): \u201cBalancing, Regression, Difference-in-Differences and Synthetic Control Methods: A Synthesis,\u201d Working Paper 22791, National Bureau of Economic Research.",
+            "DOI": "10.3386/w22791"
+        },
+        {
+            "key": "ecta200628-bib-0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gunasekar, Suriya, Blake Woodworth, Srinadh Bhojanapalli, Behnam Neyshabur, and Nathan Srebro (2017): \u201cImplicit Regularization in Matrix Factorization,\u201d Advances in Neural Information Processing Systems.",
+            "DOI": "10.1109/ITA.2018.8503198"
+        },
+        {
+            "issue": "C",
+            "key": "ecta200628-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "186",
+            "DOI": "10.1016/j.csda.2017.06.007",
+            "volume": "115",
+            "author": "Hoff",
+            "year": "2017",
+            "journal-title": "Computational Statistics & Data Analysis"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200628-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "705",
+            "DOI": "10.1002/jae.1230",
+            "volume": "27",
+            "author": "Hsiao",
+            "year": "2012",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200628-bib-0023",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction",
+            "author": "Imbens",
+            "year": "2015",
+            "DOI": "10.1017/CBO9781139025751"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200628-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1257/jel.47.1.5",
+            "volume": "47",
+            "author": "Imbens",
+            "year": "2009",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "ecta200628-bib-0025",
+            "volume-title": "Elements of Large-Sample Theory",
+            "author": "Lehmann",
+            "year": "2000"
+        },
+        {
+            "issue": "532",
+            "key": "ecta200628-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "2068",
+            "DOI": "10.1080/01621459.2019.1686986",
+            "volume": "115",
+            "author": "Li",
+            "year": "2020",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200628-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1016/j.jeconom.2016.01.011",
+            "volume": "197",
+            "author": "Li",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200628-bib-0028",
+            "volume-title": "International Conference on Learning Representations",
+            "author": "Neyshabur",
+            "year": "2015"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200628-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "544",
+            "DOI": "10.1214/07-STS227D",
+            "volume": "22",
+            "author": "Robins",
+            "year": "2007",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200628-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "534",
+            "key": "ecta200628-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "798",
+            "DOI": "10.1080/01621459.2020.1730854",
+            "volume": "116",
+            "author": "Sekhon",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200628-bib-0032",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shen, Dennis, Peng Ding, Jasjeet Sekhon, and Bin Yu (2023): \u201cSupplement to \u2018Same Root Different Leaves: Time Series and Cross-Sectional Methods in Panel Data\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA21248.",
+            "DOI": "10.3982/ECTA21248"
+        },
+        {
+            "key": "ecta200628-bib-0033",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Double and Single Descent in Causal Inference With an Application to High-Dimensional Synthetic Control",
+            "author": "Spiess",
+            "year": "2023",
+            "DOI": "10.3386/w31802"
+        },
+        {
+            "key": "ecta200628-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.1016/0024-3795(73)90023-2",
+            "volume": "6",
+            "author": "Styan",
+            "year": "1973",
+            "journal-title": "Linear Algebra and its Applications"
+        },
+        {
+            "key": "ecta200628-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "1456",
+            "DOI": "10.1214/13-EJS815",
+            "volume": "7",
+            "author": "Tibshirani",
+            "year": "2013",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200628-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "3920",
+            "DOI": "10.1073/pnas.1901326117",
+            "volume": "117",
+            "author": "Yu",
+            "year": "2020",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:57:40Z",
+        "timestamp": 1701867460000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21248"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 36,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21248"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta21248",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

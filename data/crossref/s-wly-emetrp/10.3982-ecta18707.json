@@ -1,0 +1,291 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2023-12-07T00:50:14Z",
+        "timestamp": 1701910214812
+    },
+    "reference-count": 14,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose a new simulation\u2010based estimation method, adversarial estimation, for structural models. The estimator is formulated as the solution to a minimax problem between a generator (which generates simulated observations using the structural model) and a discriminator (which classifies whether an observation is simulated). The discriminator maximizes the accuracy of its classification while the generator minimizes it. We show that, with a sufficiently rich discriminator, the adversarial estimator attains parametric efficiency under correct specification and the parametric rate under misspecification. We advocate the use of a neural network as a discriminator that can exploit adaptivity properties and attain fast rates of convergence.</jats:p>",
+    "DOI": "10.3982/ecta18707",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:55:13Z",
+        "timestamp": 1701867313000
+    },
+    "page": "2041-2063",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "An Adversarial Approach to Structural Estimation"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Tetsuya",
+            "family": "Kaji",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Booth School of Business"
+                }
+            ]
+        },
+        {
+            "given": "Elena",
+            "family": "Manresa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, New York University"
+                }
+            ]
+        },
+        {
+            "given": "Guillaume",
+            "family": "Pouliot",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Harris School of Public Policy"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "3",
+            "key": "ecta200617-bib-0001",
+            "first-page": "353",
+            "volume": "14",
+            "author": "Altonji",
+            "year": "1996",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200617-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "03012",
+            "DOI": "10.1051/shsconf/202213903012",
+            "volume": "139",
+            "author": "Asimopoulos",
+            "year": "2022",
+            "journal-title": "SHS Web Conferences"
+        },
+        {
+            "key": "ecta200617-bib-0003",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200617-bib-0004",
+            "first-page": "4625",
+            "volume": "14",
+            "author": "Cheng",
+            "year": "2020",
+            "journal-title": "KSII Transactions on Internet and Information Systems"
+        },
+        {
+            "key": "ecta200617-bib-0005",
+            "first-page": "2672",
+            "volume-title": "Proceedings of the 27th International Conference on Neural Information Processing Systems, NIPS'14",
+            "volume": "2",
+            "author": "Goodfellow",
+            "year": "2014"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200617-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1198/073500102288618630",
+            "volume": "20",
+            "author": "Imbens",
+            "year": "2002",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200617-bib-0007",
+            "unstructured": "Kaji, Tetsuya, Elena Manresa, and Guillaume Pouliot (2022): \u201cAn Adversarial Approach to Structural Estimation,\u201d February. arXiv:2007.06169v2."
+        },
+        {
+            "key": "ecta200617-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kaji, Tetsuya, Elena Manresa, and Guillaume Pouliot (2023): \u201cSupplement to \u2018An Adversarial Approach to Structural Estimation\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA18707.",
+            "DOI": "10.3982/ECTA18707"
+        },
+        {
+            "key": "ecta200617-bib-0009",
+            "series-title": "Conference Track Proceedings",
+            "volume-title": "3rd International Conference on Learning Representations",
+            "author": "Kingma",
+            "year": "2015"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200617-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.2307/2951556",
+            "volume": "61",
+            "author": "Klein",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200617-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "995",
+            "DOI": "10.2307/1913621",
+            "volume": "57",
+            "author": "McFadden",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200617-bib-0012",
+            "first-page": "513",
+            "volume": "9",
+            "author": "Nevo",
+            "year": "2000",
+            "journal-title": "Journal of Economics & Management Strategy"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200617-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1027",
+            "DOI": "10.2307/1913622",
+            "volume": "57",
+            "author": "Pakes",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200617-bib-0014",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Weak Convergence and Empirical Processes: With Applications to Statistics",
+            "author": "Vaart",
+            "year": "1996",
+            "DOI": "10.1007/978-1-4757-2545-2"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:56:45Z",
+        "timestamp": 1701867405000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18707"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18707"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta18707",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

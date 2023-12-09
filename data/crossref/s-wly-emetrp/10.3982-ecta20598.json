@@ -1,0 +1,853 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2023-12-07T00:50:18Z",
+        "timestamp": 1701910218721
+    },
+    "reference-count": 73,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Nearest neighbor (NN) matching is widely used in observational studies for causal effects. Abadie and Imbens (2006) provided the first large\u2010sample analysis of NN matching. Their theory focuses on the case with the number of NNs, \n            <jats:italic>M</jats:italic> fixed. We reveal something new out of their study and show that once allowing \n            <jats:italic>M</jats:italic> to diverge with the sample size an intrinsic statistic in their analysis constitutes a consistent estimator of the density ratio with regard to covariates across the treated and control groups. Consequently, with a diverging \n            <jats:italic>M</jats:italic>, the NN matching with Abadie and Imbens' (2011) bias correction yields a doubly robust estimator of the average treatment effect and is semiparametrically efficient if the density functions are sufficiently smooth and the outcome model is consistently estimated. It can thus be viewed as a precursor of the double machine learning estimators.\n          </jats:p>",
+    "DOI": "10.3982/ecta20598",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:55:13Z",
+        "timestamp": 1701867313000
+    },
+    "page": "2187-2217",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Estimation Based on Nearest Neighbor Matching: From Density Ratio to Average Treatment Effect"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Zhexiao",
+            "family": "Lin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, University of California, Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Peng",
+            "family": "Ding",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, University of California, Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Fang",
+            "family": "Han",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, University of Washington"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200616-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1111/j.1468-0262.2006.00655.x",
+            "volume": "74",
+            "author": "Abadie",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200616-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1537",
+            "DOI": "10.3982/ECTA6474",
+            "volume": "76",
+            "author": "Abadie",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200616-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1198/jbes.2009.07333",
+            "volume": "29",
+            "author": "Abadie",
+            "year": "2011",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "issue": "498",
+            "key": "ecta200616-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "833",
+            "DOI": "10.1080/01621459.2012.682537",
+            "volume": "107",
+            "author": "Abadie",
+            "year": "2012",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200616-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "781",
+            "DOI": "10.3982/ECTA11293",
+            "volume": "84",
+            "author": "Abadie",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200616-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "1141",
+            "DOI": "10.3982/ECTA16907",
+            "volume": "89",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200616-bib-0007",
+            "unstructured": "Athey, Susan, Guido W. Imbens, Jonas Metzger, and Evan Munro (2023): \u201cUsing Wasserstein Generative Adversarial Networks for the Design of Monte Carlo Simulations,\u201d Journal of Econometrics (forthcoming)."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200616-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "962",
+            "DOI": "10.1111/j.1541-0420.2005.00377.x",
+            "volume": "61",
+            "author": "Bang",
+            "year": "2005",
+            "journal-title": "Biometrics"
+        },
+        {
+            "issue": "9",
+            "key": "ecta200616-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1145/361002.361007",
+            "volume": "18",
+            "author": "Bentley",
+            "year": "1975",
+            "journal-title": "Communications of the ACM"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.1214/18-AOS1688",
+            "volume": "47",
+            "author": "Berrett",
+            "year": "2019",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200616-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "575",
+            "DOI": "10.1111/rssb.12319",
+            "volume": "81",
+            "author": "Bhattacharya",
+            "year": "2019",
+            "journal-title": "Journal of the Royal Statistical Society. Series B"
+        },
+        {
+            "key": "ecta200616-bib-0012",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Lectures on the Nearest Neighbor Method",
+            "author": "Biau",
+            "year": "2015",
+            "DOI": "10.1007/978-3-319-25388-6"
+        },
+        {
+            "key": "ecta200616-bib-0013",
+            "first-page": "2206",
+            "volume-title": "Proceedings of the 39th International Conference on Machine Learning",
+            "volume": "162",
+            "author": "Borgeaud",
+            "year": "2021"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200616-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1149",
+            "DOI": "10.1093/aje/kwj149",
+            "volume": "163",
+            "author": "Brookhart",
+            "year": "2006",
+            "journal-title": "American Journal of Epidemiology"
+        },
+        {
+            "key": "ecta200616-bib-0015",
+            "volume-title": "Experimental Designs in Sociological Research",
+            "author": "Chapin",
+            "year": "1947"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1016/j.jeconom.2015.03.010",
+            "volume": "188",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200616-bib-0018",
+            "first-page": "417",
+            "volume": "35",
+            "author": "Cochran",
+            "year": "1973",
+            "journal-title": "Sankhya, Series A"
+        },
+        {
+            "key": "ecta200616-bib-0019",
+            "volume-title": "Elements of Information Theory",
+            "author": "Cover",
+            "year": "2006",
+            "edition": "Second"
+        },
+        {
+            "key": "ecta200616-bib-0020",
+            "volume-title": "Causal Inference: The Mixtape",
+            "author": "Cunningham",
+            "year": "2021"
+        },
+        {
+            "issue": "448",
+            "key": "ecta200616-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1080/01621459.1999.10473858",
+            "volume": "94",
+            "author": "Dehejia",
+            "year": "1999",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "394",
+            "DOI": "10.1017/jpr.2017.7",
+            "volume": "54",
+            "author": "Devroye",
+            "year": "2017",
+            "journal-title": "Journal of Applied Probability"
+        },
+        {
+            "key": "ecta200616-bib-0023",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Measure Theory and Fine Properties of Functions",
+            "author": "Evans",
+            "year": "2018",
+            "DOI": "10.1201/9780203747940"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.06.017",
+            "volume": "189",
+            "author": "Farrell",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200616-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1016/j.jeconom.2021.07.005",
+            "volume": "225",
+            "author": "Ferman",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200616-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "697",
+            "DOI": "10.1214/aos/1176344722",
+            "volume": "7",
+            "author": "Friedman",
+            "year": "1979",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200616-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1145/355744.355745",
+            "volume": "3",
+            "author": "Friedman",
+            "year": "1977",
+            "journal-title": "ACM Transactions on Mathematical Software"
+        },
+        {
+            "key": "ecta200616-bib-0028",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Experimental Sociology",
+            "author": "Greenwood",
+            "year": "1945",
+            "DOI": "10.7312/gree91078"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.2307/2998560",
+            "volume": "66",
+            "author": "Hahn",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200616-bib-0030",
+            "first-page": "3228",
+            "volume": "48",
+            "author": "Han",
+            "year": "2020",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "481",
+            "DOI": "10.1093/biomet/asn004",
+            "volume": "95",
+            "author": "Hansen",
+            "year": "2008",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "772",
+            "DOI": "10.1214/aos/1176350835",
+            "volume": "16",
+            "author": "Henze",
+            "year": "1988",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "290",
+            "DOI": "10.1214/aos/1018031112",
+            "volume": "27",
+            "author": "Henze",
+            "year": "1999",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200616-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1093/pan/mpl013",
+            "volume": "15",
+            "author": "Ho",
+            "year": "2007",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1162/003465304323023651",
+            "volume": "86",
+            "author": "Imbens",
+            "year": "2004",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200616-bib-0036",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Causal Inference in Statistics, Social, and Biomedical Sciences",
+            "author": "Imbens",
+            "year": "2015",
+            "DOI": "10.1017/CBO9781139025751"
+        },
+        {
+            "key": "ecta200616-bib-0037",
+            "first-page": "1",
+            "volume": "21",
+            "author": "Kallus",
+            "year": "2020",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "ecta200616-bib-0038",
+            "first-page": "1320",
+            "volume-title": "2017 International Conference on Artificial Intelligence and Statistics",
+            "author": "Kpotufe",
+            "year": "2017"
+        },
+        {
+            "key": "ecta200616-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/j.ascom.2015.06.005",
+            "volume": "12",
+            "author": "Kremer",
+            "year": "2015",
+            "journal-title": "Astronomy and Computing"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200616-bib-0040",
+            "first-page": "604",
+            "volume": "76",
+            "author": "LaLonde",
+            "year": "1986",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1111/j.1365-2966.2008.13510.x",
+            "volume": "390",
+            "author": "Lima",
+            "year": "2008",
+            "journal-title": "Monthly Notices of the Royal Astronomical Society"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1093/biomet/asac048",
+            "volume": "110",
+            "author": "Lin",
+            "year": "2023",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200616-bib-0043",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lin, Zhexiao, Peng Ding, and Fang Han (2023): \u201cSupplement to \u2018Estimation Based on Nearest Neighbor Matching: From Density Ratio to Average Treatment Effect\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA20598.",
+            "DOI": "10.3982/ECTA20598"
+        },
+        {
+            "issue": "421",
+            "key": "ecta200616-bib-0044",
+            "first-page": "252",
+            "volume": "88",
+            "author": "Liu",
+            "year": "1993",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1177/0049124106289164",
+            "volume": "35",
+            "author": "Morgan",
+            "year": "2006",
+            "journal-title": "Sociological Methods and Research"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/S0304-4076(97)00011-0",
+            "volume": "79",
+            "author": "Newey",
+            "year": "1997",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "11",
+            "key": "ecta200616-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "5847",
+            "DOI": "10.1109/TIT.2010.2068870",
+            "volume": "56",
+            "author": "Nguyen",
+            "year": "2010",
+            "journal-title": "IEEE Transactions on Information Theory"
+        },
+        {
+            "key": "ecta200616-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "903",
+            "volume-title": "2017 IEEE International Symposium on Information Theory (ISIT)",
+            "author": "Noshad",
+            "year": "2017",
+            "DOI": "10.1109/ISIT.2017.8006659"
+        },
+        {
+            "issue": "520",
+            "key": "ecta200616-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "1720",
+            "DOI": "10.1080/01621459.2016.1231613",
+            "volume": "112",
+            "author": "Otsu",
+            "year": "2017",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200616-bib-0050",
+            "first-page": "609",
+            "volume-title": "2011 International Conference on Artificial Intelligence and Statistics",
+            "author": "P\u00f3czos",
+            "year": "2011"
+        },
+        {
+            "key": "ecta200616-bib-0051",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Design of Observational Studies",
+            "author": "Rosenbaum",
+            "year": "2010",
+            "DOI": "10.1007/978-1-4419-1213-8"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.2307/2529684",
+            "volume": "29",
+            "author": "Rubin",
+            "year": "1973",
+            "journal-title": "Biometrics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200616-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "688",
+            "DOI": "10.1037/h0037350",
+            "volume": "66",
+            "author": "Rubin",
+            "year": "1974",
+            "journal-title": "Journal of Educational Psychology"
+        },
+        {
+            "key": "ecta200616-bib-0055",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Matched Sampling for Causal Effects",
+            "author": "Rubin",
+            "year": "2006",
+            "DOI": "10.1017/CBO9780511810725"
+        },
+        {
+            "issue": "450",
+            "key": "ecta200616-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "573",
+            "DOI": "10.1080/01621459.2000.10474233",
+            "volume": "95",
+            "author": "Rubin",
+            "year": "2000",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "448",
+            "key": "ecta200616-bib-0057",
+            "doi-asserted-by": "crossref",
+            "first-page": "1096",
+            "DOI": "10.1080/01621459.1999.10473862",
+            "volume": "94",
+            "author": "Scharfstein",
+            "year": "1999",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200616-bib-0058",
+            "first-page": "1",
+            "volume": "42",
+            "author": "Sekhon",
+            "year": "2008",
+            "journal-title": "Journal of Statistical Software"
+        },
+        {
+            "issue": "484",
+            "key": "ecta200616-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "1334",
+            "DOI": "10.1198/016214508000000733",
+            "volume": "103",
+            "author": "Shadish",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.1093/biomet/asab028",
+            "volume": "109",
+            "author": "Shi",
+            "year": "2022",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200616-bib-0061",
+            "unstructured": "Shi, Hongjian, Mathias Drton, and Fang Han (2023): \u201cOn Azadkia-Chatterjee's Conditional Dependence Coefficient,\u201d Bernoulli (forthcoming)."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200616-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1111/1467-9531.271030",
+            "volume": "27",
+            "author": "Smith",
+            "year": "1997",
+            "journal-title": "Sociological Methodology"
+        },
+        {
+            "key": "ecta200616-bib-0063",
+            "volume-title": "Singular Integrals and Differentiability Properties of Functions",
+            "author": "Stein",
+            "year": "2016"
+        },
+        {
+            "key": "ecta200616-bib-0064",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Density Ratio Estimation in Machine Learning",
+            "author": "Sugiyama",
+            "year": "2012",
+            "DOI": "10.1017/CBO9781139035613"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200616-bib-0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "699",
+            "DOI": "10.1007/s10463-008-0197-x",
+            "volume": "60",
+            "author": "Sugiyama",
+            "year": "2008",
+            "journal-title": "Annals of the Institute of Statistical Mathematics"
+        },
+        {
+            "key": "ecta200616-bib-0066",
+            "volume-title": "Semiparametric Theory and Missing Data",
+            "author": "Tsiatis",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200616-bib-0067",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Introduction to Nonparametric Estimation",
+            "author": "Tsybakov",
+            "year": "2009",
+            "DOI": "10.1007/b13794"
+        },
+        {
+            "issue": "134",
+            "key": "ecta200616-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "198",
+            "DOI": "10.1515/crll.1908.134.198",
+            "volume": "1908",
+            "author": "Voronoi",
+            "year": "1908",
+            "journal-title": "Journal f\u00fcr die reine und angewandte Mathematik (Crelles Journal)"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200616-bib-0069",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1214/aoms/1177731909",
+            "volume": "11",
+            "author": "Wald",
+            "year": "1940",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200616-bib-0070",
+            "first-page": "1789",
+            "volume": "33",
+            "author": "Wang",
+            "year": "2023",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "key": "ecta200616-bib-0071",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1111/sjos.12585",
+            "volume": "50",
+            "author": "Yang",
+            "year": "2023",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200616-bib-0072",
+            "doi-asserted-by": "crossref",
+            "first-page": "7787",
+            "DOI": "10.1109/TIT.2020.3009923",
+            "volume": "66",
+            "author": "Zhao",
+            "year": "2020",
+            "journal-title": "IEEE Transactions on Information Theory"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200616-bib-0073",
+            "doi-asserted-by": "crossref",
+            "first-page": "7971",
+            "DOI": "10.1109/TIT.2022.3195870",
+            "volume": "68",
+            "author": "Zhao",
+            "year": "2022",
+            "journal-title": "IEEE Transactions on Information Theory"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:58:38Z",
+        "timestamp": 1701867518000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA20598"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA20598"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta20598",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

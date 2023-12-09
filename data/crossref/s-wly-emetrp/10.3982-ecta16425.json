@@ -1,0 +1,719 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2023-12-07T00:50:44Z",
+        "timestamp": 1701910244382
+    },
+    "reference-count": 54,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2023-01-01T00:00:00Z",
+                "timestamp": 1672531200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100008395",
+            "name": "Samfund og Erhverv, Det Frie Forskningsr\u00e5d",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "Agence Nationale de la Recherche",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>In this paper, we formulate and estimate a flexible model of job mobility and wages with two\u2010sided heterogeneity. The analysis extends the finite mixture approach of Bonhomme, Lamadon, and Manresa (2019) and Abowd, McKinney, and Schmutte (2019) to develop a new Classification Expectation\u2010Maximization algorithm that ensures both worker and firm latent\u2010type identification using wage and mobility variations in the data. Workers receive job offers in worker\u2010type segmented labor markets. Offers are accepted according to a logit form that compares the value of the current job with that of the new job. In combination with flexibly estimated layoff and job finding rates, the analysis quantifies the four different sources of sorting: job preferences, segmentation, layoffs, and job finding. Job preferences are identified through job\u2010to\u2010job moves in a revealed preference argument. They are in the model structurally independent of the identified job wages, possibly as a reflection of the presence of amenities. We find evidence of a strong pecuniary motive in job preferences. While the correlation between preferences and current job wages is positive, the net present value of the future earnings stream given the current job correlates much more strongly with preferences for it. This is more so for short\u2010 than long\u2010tenure workers. In the analysis, we distinguish between type sorting and wage sorting. Type sorting is quantified by means of the mutual information index. Wage sorting is captured through correlation between identified wage types. While layoffs are less important than the other channels, we find all channels to contribute substantially to sorting. As workers age, job arrival processes are the key determinant of wage sorting, whereas the role of job preferences dictate type sorting. Over the life cycle, job preferences intensify, type sorting increases, and pecuniary considerations wane.</jats:p>",
+    "DOI": "10.3982/ecta16425",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:55:13Z",
+        "timestamp": 1701867313000
+    },
+    "page": "2409-2455",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Anatomy of Sorting\u2014Evidence From Danish Data"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Rasmus",
+            "family": "Lentz",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Wisconsin\u2013Madison"
+                },
+                {
+                    "name": "Dale T. Mortensen Centre, University of Aarhus"
+                }
+            ]
+        },
+        {
+            "given": "Suphanit",
+            "family": "Piyapromdee",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London"
+                }
+            ]
+        },
+        {
+            "given": "Jean-Marc",
+            "family": "Robin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Sciences Po, Paris"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200613-bib-0001",
+            "unstructured": "Abowd, John M., Robert H. Creecy, and Francis Kramarz (2002): \u201cComputing Person and Firm Effects Using Linked Longitudinal Employer\u2013Employee Data,\u201d Longitudinal Employer-Household Dynamics Technical Papers 2002-06, Center for Economic Studies, U.S. Census Bureau."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200613-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1111/1468-0262.00020",
+            "volume": "67",
+            "author": "Abowd",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1080/07350015.2017.1356727",
+            "volume": "37",
+            "author": "Abowd",
+            "year": "2019",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200613-bib-0004",
+            "series-title": "NBER Chapters",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.7208/chicago/9780226172576.003.0006",
+            "volume-title": "Producer Dynamics: New Evidence From Micro Data",
+            "author": "Abowd",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200613-bib-0005",
+            "series-title": "Wiley Series in Probability and Statistics",
+            "volume-title": "Categorical Data Analysis",
+            "author": "Agresti",
+            "year": "2003"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "673",
+            "DOI": "10.1111/j.1467-985X.2007.00533.x",
+            "volume": "171",
+            "author": "Andrews",
+            "year": "2008",
+            "journal-title": "Journal of the Royal Statistical Society: Series A (Statistics in Society)"
+        },
+        {
+            "key": "ecta200613-bib-0007",
+            "unstructured": "Azkarate-Askasua, Miren, and Miguel Zerecero (2019): \u201cCorrecting Small Sample Bias in Linear Models With Many Covariates,\u201d Technical Report, TSE."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.1093/restud/rdy022",
+            "volume": "86",
+            "author": "Bagger",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1016/j.econlet.2012.09.021",
+            "volume": "118",
+            "author": "Bagger",
+            "year": "2013",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1086/260084",
+            "volume": "81",
+            "author": "Becker",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200613-bib-0011",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bonhomme, St\u00e9phane, Thibaut Lamadon, and Elena Manresa (2017): \u201cA Distributional Framework for Matched Employer Employee Data,\u201d Report, University of Chicago.",
+            "DOI": "10.2139/ssrn.3333421"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "699",
+            "DOI": "10.3982/ECTA15722",
+            "volume": "87",
+            "author": "Bonhomme",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200613-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "633",
+            "DOI": "10.1093/qje/qjv038",
+            "volume": "131",
+            "author": "Card",
+            "year": "2016",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.1093/qje/qjt006",
+            "volume": "128",
+            "author": "Card",
+            "year": "2013",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.1016/0167-9473(92)90042-E",
+            "volume": "14",
+            "author": "Celeux",
+            "year": "1992",
+            "journal-title": "Computational Statistics & Data Analysis"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1086/695505",
+            "volume": "126",
+            "author": "Melo",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.2517-6161.1977.tb01600.x",
+            "volume": "39",
+            "author": "Dempster",
+            "year": "1977",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "872",
+            "DOI": "10.1093/restud/rdq034",
+            "volume": "78",
+            "author": "Eeckhout",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1111/j.1467-937X.2009.00565.x",
+            "volume": "77",
+            "author": "Gautier",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0020",
+            "first-page": "1",
+            "volume": "8",
+            "author": "Greenwood",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200613-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.1016/j.labeco.2008.09.001",
+            "volume": "16",
+            "author": "Gruetter",
+            "year": "2009",
+            "journal-title": "Labour Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "1594",
+            "DOI": "10.1086/697739",
+            "volume": "126",
+            "author": "Hall",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "560",
+            "DOI": "10.1177/001979390405700405",
+            "volume": "57",
+            "author": "Holzer",
+            "year": "2004",
+            "journal-title": "Industrial and Labor Relations Review"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200613-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "2873",
+            "DOI": "10.1257/aer.101.7.2873",
+            "volume": "101",
+            "author": "Hornstein",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200613-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1111/j.0012-9682.2008.00823.x",
+            "volume": "76",
+            "author": "Hu",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200613-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1016/j.jeconom.2012.05.023",
+            "volume": "171",
+            "author": "Hu",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "384",
+            "DOI": "10.1214/aos/1079120141",
+            "volume": "32",
+            "author": "Hunter",
+            "year": "2004",
+            "journal-title": "Ann. Statist."
+        },
+        {
+            "key": "ecta200613-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "30",
+            "author": "Hunter",
+            "year": "2004",
+            "journal-title": "Amer. Statist.",
+            "DOI": "10.1198/0003130042836"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200613-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1086/587091",
+            "volume": "26",
+            "author": "Iranzo",
+            "year": "2008",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "ecta200613-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jarosch, Gregor (2021): \u201cSearching for Job Security and the Consequences of Job Loss,\u201d Technical Report.",
+            "DOI": "10.3386/w28481"
+        },
+        {
+            "key": "ecta200613-bib-0031",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kline, Patrick, Raffaele Saggio, and Mikkel Solvsten (2018): \u201cLeave-out Estimation of Variance Components,\u201d arXiv:1806.01494.",
+            "DOI": "10.3386/w26244"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200613-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1859",
+            "DOI": "10.3982/ECTA16410",
+            "volume": "88",
+            "author": "Kline",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1436",
+            "DOI": "10.1016/j.jet.2010.02.013",
+            "volume": "145",
+            "author": "Lentz",
+            "year": "2010",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200613-bib-0034",
+            "unstructured": "Lentz, Rasmus, Jonas Maibom, and Espen Moen (2022): \u201cRandom or Competitive Search?\u201d Working Paper."
+        },
+        {
+            "key": "ecta200613-bib-0035",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lentz, Rasmus, Suphanit Piyapromdee, and Jean-Marc Robin (2023): \u201cSupplement to \u2018The Anatomy of Sorting\u2014Evidence From Danish Data\u2019,\u201d Econometrica Supplemental Material, 91, https://doi.org/10.3982/ECTA16425.",
+            "DOI": "10.3982/ECTA16425"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200613-bib-0036",
+            "first-page": "718",
+            "volume": "84",
+            "author": "Lindenlaub",
+            "year": "2017",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200613-bib-0037",
+            "unstructured": "Lindenlaub, Ilse, and Fabien Postel-Vinay (2020): \u201cMultidimensional Sorting Under Random Search,\u201d 2017 Meeting Papers 501."
+        },
+        {
+            "key": "ecta200613-bib-0038",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lindenlaub, Ilse, and Fabien Postel-Vinay (2021): \u201cThe Worker-Job Surplus,\u201d NBER Working Papers 28402, National Bureau of Economic Research, Inc.",
+            "DOI": "10.3386/w28402"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200613-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "2328",
+            "DOI": "10.1257/aer.20162002",
+            "volume": "110",
+            "author": "Lise",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200613-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1016/j.red.2015.11.004",
+            "volume": "19",
+            "author": "Lise",
+            "year": "2016",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1016/j.econlet.2008.04.006",
+            "volume": "101",
+            "author": "Martins",
+            "year": "2008",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0042",
+            "first-page": "3",
+            "volume": "56",
+            "author": "Newton",
+            "year": "1994",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1779",
+            "DOI": "10.1007/s00180-019-00897-9",
+            "volume": "34",
+            "author": "O'Hagan",
+            "year": "2019",
+            "journal-title": "Computational Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200613-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "2295",
+            "DOI": "10.1111/1468-0262.00377",
+            "volume": "70",
+            "author": "Postel-Vinay",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200613-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "343",
+            "DOI": "10.1111/1468-0262.00112",
+            "volume": "68",
+            "author": "Shimer",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200613-bib-0046",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Song, Jae, David J. Price, Fatih Guvenen, Nicholas Bloom, and Till von Wachter (2015): \u201cFirming up Inequality,\u201d NBER Working Papers 21199, National Bureau of Economic Research, Inc.",
+            "DOI": "10.3386/w21199"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/qje/qjy025",
+            "volume": "134",
+            "author": "Song",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "1331",
+            "DOI": "10.1093/qje/qjy001",
+            "volume": "133",
+            "author": "Sorkin",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200613-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "1031",
+            "DOI": "10.3982/ECTA14441",
+            "volume": "88",
+            "author": "Taber",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "1265",
+            "DOI": "10.1214/aoms/1177703862",
+            "volume": "34",
+            "author": "Teicher",
+            "year": "1963",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200613-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1016/j.econlet.2007.05.019",
+            "volume": "99",
+            "author": "Usui",
+            "year": "2008",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200613-bib-0052",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1177/001979390706000405",
+            "volume": "60",
+            "author": "Villanueva",
+            "year": "2007",
+            "journal-title": "Industrial and Labor Relations Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "100",
+            "DOI": "10.1016/j.rie.2014.12.001",
+            "volume": "69",
+            "author": "Woodcock",
+            "year": "2015",
+            "journal-title": "Research in Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200613-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1214/aoms/1177698520",
+            "volume": "39",
+            "author": "Yakowitz",
+            "year": "1968",
+            "journal-title": "The Annals of Mathematical Statistics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T13:01:08Z",
+        "timestamp": 1701867668000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA16425"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA16425"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta16425",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}

@@ -1,0 +1,601 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                7
+            ]
+        ],
+        "date-time": "2023-12-07T00:52:57Z",
+        "timestamp": 1701910377740
+    },
+    "reference-count": 52,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We develop a new approach to estimating the causal effects of treatments or instruments that combine multiple sources of variation according to a known formula. Examples include treatments capturing spillovers in social or transportation networks and simulated instruments for policy eligibility. We show how exogenous shocks to some\u2014but not all\u2014determinants of such variables can be leveraged while avoiding omitted variables bias. Our solution involves specifying counterfactual shocks that may as well have been realized and adjusting for a summary measure of nonrandomness in shock exposure: the average treatment (or instrument) across shock counterfactuals. We use this approach to address bias when estimating employment effects of market access growth from Chinese high\u2010speed rail construction.</jats:p>",
+    "DOI": "10.3982/ecta19367",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:55:13Z",
+        "timestamp": 1701867313000
+    },
+    "page": "2155-2185",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Nonrandom Exposure to Exogenous Shocks"
+    ],
+    "prefix": "10.3982",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Kirill",
+            "family": "Borusyak",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Agricultural and Resource Economics, UC Berkeley"
+                },
+                {
+                    "name": "CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Hull",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Brown University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200618-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/S0304-4076(02)00201-4",
+            "volume": "113",
+            "author": "Abadie",
+            "year": "2003",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200618-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "781",
+            "DOI": "10.3982/ECTA11293",
+            "volume": "84",
+            "author": "Abadie",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1373",
+            "DOI": "10.3982/ECTA13925",
+            "volume": "85",
+            "author": "Abdulkadiroglu",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1949",
+            "DOI": "10.1093/qje/qjz025",
+            "volume": "134",
+            "author": "Ad\u00e3o",
+            "year": "2019",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200618-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.1093/jeg/lbx005",
+            "volume": "18",
+            "author": "Ahlfeldt",
+            "year": "2018",
+            "journal-title": "Journal of Economic Geography"
+        },
+        {
+            "key": "ecta200618-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1912",
+            "DOI": "10.1214/16-AOAS1005",
+            "volume": "11",
+            "author": "Aronow",
+            "year": "2017",
+            "journal-title": "Annals of Applied Statistics"
+        },
+        {
+            "key": "ecta200618-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "62",
+            "DOI": "10.1016/j.jeconom.2020.10.012",
+            "volume": "226",
+            "author": "Athey",
+            "year": "2022",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200618-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1716",
+            "DOI": "10.1080/01621459.2021.1891924",
+            "volume": "116",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200618-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Borusyak, Kirill, and Peter Hull (2021): \u201cNon-Random Exposure to Exogenous Shocks: Theory and Applications,\u201d NBER Working Paper 27845.",
+            "DOI": "10.3386/w27845"
+        },
+        {
+            "key": "ecta200618-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1093/restud/rdab030",
+            "volume": "89",
+            "author": "Borusyak",
+            "year": "2022",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200618-bib-0012",
+            "unstructured": "Brinkhoff, Thomas (2018): \u201cCity Population,\u201d, http://www.citypopulation.de."
+        },
+        {
+            "key": "ecta200618-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "799",
+            "DOI": "10.1214/aop/1176993788",
+            "volume": "10",
+            "author": "Cacoullos",
+            "year": "1982",
+            "journal-title": "The Annals of Probability"
+        },
+        {
+            "key": "ecta200618-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/0167-7152(85)90014-8",
+            "volume": "3",
+            "author": "Cacoullos",
+            "year": "1985",
+            "journal-title": "Statistics and Probability Letters"
+        },
+        {
+            "key": "ecta200618-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.1016/0167-7152(89)90050-3",
+            "volume": "7",
+            "author": "Cacoullos",
+            "year": "1989",
+            "journal-title": "Statistics and Probability Letters"
+        },
+        {
+            "key": "ecta200618-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1255",
+            "DOI": "10.1093/qje/qjaa044",
+            "volume": "136",
+            "author": "Carvalho",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200618-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1515/jci-2013-0010",
+            "volume": "3",
+            "author": "Cattaneo",
+            "year": "2015",
+            "journal-title": "Journal of Causal Inference"
+        },
+        {
+            "key": "ecta200618-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "306",
+            "DOI": "10.1016/0047-259X(82)90022-7",
+            "volume": "12",
+            "author": "Chen",
+            "year": "1982",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "key": "ecta200618-bib-0019",
+            "unstructured": "China Railway Yearbook Editorial Board (2001\u20132013): \u201cChina Railway Yearbook,\u201d https://oversea.cnki.net/KNavi/YearbookDetail?pcode=CYFD&pykm=YZGTD&."
+        },
+        {
+            "key": "ecta200618-bib-0020",
+            "unstructured": "China Statistics Press (2000\u20132017): \u201cChina City Statistical Yearbook,\u201d https://cnki.net/KNavi/YearbookDetail?pcode=CYFD&pykm=YZGCA."
+        },
+        {
+            "key": "ecta200618-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0304-4076(98)00084-0",
+            "volume": "92",
+            "author": "Conley",
+            "year": "1999",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200618-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.2307/2946684",
+            "volume": "111",
+            "author": "Currie",
+            "year": "1996",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200618-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1453",
+            "DOI": "10.3982/ECTA16032",
+            "volume": "88",
+            "author": "Chaisemartin",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "2964",
+            "DOI": "10.1257/aer.20181169",
+            "volume": "110",
+            "author": "Chaisemartin",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200618-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "899",
+            "DOI": "10.1257/aer.20101199",
+            "volume": "108",
+            "author": "Donaldson",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200618-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "799",
+            "DOI": "10.1093/qje/qjw002",
+            "volume": "131",
+            "author": "Donaldson",
+            "year": "2016",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200618-bib-0027",
+            "volume-title": "The Design of Experiments",
+            "author": "Fisher",
+            "year": "1935"
+        },
+        {
+            "key": "ecta200618-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "volume-title": "Means-Tested Transfer Programs in the United States",
+            "author": "Gruber",
+            "year": "2003",
+            "DOI": "10.7208/chicago/9780226533575.003.0002"
+        },
+        {
+            "key": "ecta200618-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "598",
+            "DOI": "10.1214/aoms/1177704172",
+            "volume": "34",
+            "author": "Hodges",
+            "year": "1963",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200618-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "706",
+            "DOI": "10.1093/biomet/87.3.706",
+            "volume": "87",
+            "author": "Imbens",
+            "year": "2000",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200618-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1017/pan.2019.11",
+            "volume": "27",
+            "author": "King",
+            "year": "2019",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "key": "ecta200618-bib-0033",
+            "doi-asserted-by": "crossref",
+            "volume-title": "China's High-Speed Rail Development",
+            "author": "Lawrence",
+            "year": "2019",
+            "DOI": "10.1596/978-1-4648-1425-9"
+        },
+        {
+            "key": "ecta200618-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "675",
+            "DOI": "10.1016/j.jeconom.2007.05.004",
+            "volume": "142",
+            "author": "Lee",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200618-bib-0035",
+            "volume-title": "Testing Statistical Hypotheses",
+            "author": "Lehmann",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200618-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "98",
+            "DOI": "10.1016/j.jue.2016.11.002",
+            "volume": "98",
+            "author": "Lin",
+            "year": "2017",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "ecta200618-bib-0037",
+            "unstructured": "Ma, Damien (2011): \u201cChina's Long, Bumpy Road to High-Speed Rail,\u201d The Altantic."
+        },
+        {
+            "key": "ecta200618-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.1093/qje/qjt021",
+            "volume": "128",
+            "author": "Madestam",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200618-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1111/j.1468-0262.2004.00481.x",
+            "volume": "72",
+            "author": "Miguel",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0040",
+            "unstructured": "Neyman, Jerzy (1923): \u201cOn the Application of Probability Theory to Agricultural Experiments. Essay on Principles,\u201d Ann. Agricultural Sciences, 1\u201351."
+        },
+        {
+            "key": "ecta200618-bib-0041",
+            "unstructured": "OCHA Regional Office for Asia and the Pacific (2018): \u201cProvince and Prefecture Capitals of China,\u201d https://data.humdata.org/dataset/province-and-prefecture-capitals-of-china."
+        },
+        {
+            "key": "ecta200618-bib-0042",
+            "unstructured": "OCHA Regional Office for Asia and the Pacific (2020): \u201cChina\u2014Subnational Administrative Boundaries,\u201d https://data.humdata.org/dataset/cod-ab-chn."
+        },
+        {
+            "key": "ecta200618-bib-0043",
+            "unstructured": "Ollivier, Gerald, Richard Bullock, Ying Jin, and Nanyan Zhou (2014): \u201cHigh-Speed Railways in China: A Look at Traffic,\u201d China Transport Topics, 1\u201312."
+        },
+        {
+            "key": "ecta200618-bib-0044",
+            "first-page": "1339",
+            "volume-title": "Handbook of Regional and Urban Economics",
+            "author": "Redding",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200618-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1016/j.jinteco.2003.07.001",
+            "volume": "62",
+            "author": "Redding",
+            "year": "2004",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "ecta200618-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.2307/2532304",
+            "volume": "48",
+            "author": "Robins",
+            "year": "1992",
+            "journal-title": "Biometrics"
+        },
+        {
+            "key": "ecta200618-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.2307/1912705",
+            "volume": "56",
+            "author": "Robinson",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200618-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "286",
+            "DOI": "10.1214/ss/1042727942",
+            "volume": "17",
+            "author": "Rosenbaum",
+            "year": "2002",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200618-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200618-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "1835",
+            "DOI": "10.1080/01621459.2021.1974458",
+            "volume": "116",
+            "author": "Shaikh",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200618-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "420",
+            "DOI": "10.3368/jhr.50.2.420",
+            "volume": "50",
+            "author": "Wooldridge",
+            "year": "2015",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "key": "ecta200618-bib-0052",
+            "first-page": "1248",
+            "volume": "110",
+            "author": "Zheng",
+            "year": "2013",
+            "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                6
+            ]
+        ],
+        "date-time": "2023-12-06T12:58:02Z",
+        "timestamp": 1701867482000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19367"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19367"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta19367",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023
+            ]
+        ]
+    }
+}
