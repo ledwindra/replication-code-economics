@@ -1,0 +1,382 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                13
+            ]
+        ],
+        "date-time": "2023-12-13T00:53:50Z",
+        "timestamp": 1702428830219
+    },
+    "reference-count": 49,
+    "publisher": "American Economic Association",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> Generative artificial intelligence (AI) has the potential to revolutionize research. I analyze how large language models (LLMs) such as ChatGPT can assist economists by describing dozens of use cases in six areas: ideation and feedback, writing, background research, data analysis, coding, and mathematical derivations. I provide general instructions and demonstrate specific examples of how to take advantage of each of these, classifying the LLM capabilities from experimental to highly useful. I argue that economists can reap significant productivity gains by taking advantage of generative AI to automate micro-tasks. Moreover, these gains will grow as the performance of AI systems continues to improve. I also speculate on the longer-term implications of AI-powered cognitive automation for economic research. The online resources associated with this paper explain how to get started and will provide regular updates on the latest capabilities of generative AI in economics. (JEL A11, C45, D83, I23, O33) </jats:p>",
+    "DOI": "10.1257/jel.20231736",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                12
+            ]
+        ],
+        "date-time": "2023-12-12T15:24:42Z",
+        "timestamp": 1702394682000
+    },
+    "page": "1281-1317",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Generative AI for Economic Research: Use Cases and Implications for Economists"
+    ],
+    "prefix": "10.1257",
+    "volume": "61",
+    "author": [
+        {
+            "given": "Anton",
+            "family": "Korinek",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Professor at the University of Virginia, David M. Rubenstein Fellow at the Brookings Institution, the Economics of AI Lead at the Centre for the Governance of AI (GovAI), a Research Affiliate of the NBER and CEPR, and Senior Advisor of the Partnership on AI."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "unstructured": "Agrawal, Ajay, Joshua Gans, and Avi Goldfarb. 2018. Prediction Machines: The Simple Economics of Artificial Intelligence. Boston, MA: Harvard Business Review Press."
+        },
+        {
+            "key": "p_2",
+            "unstructured": "Anderljung, Markus et al. 2023. \"Frontier AI Regulation: Managing Emerging Risks to Public Safety.\" https://doi.org/10.48550/arXiv.2307.03718."
+        },
+        {
+            "key": "p_3",
+            "unstructured": "Ardekani, Aref Mahdavi, Julie Berts, Michael M. Dowling, and Suwan Long. 2023. \"EconSentGPT: A Universal Economic Sentiment Engine?\" http://dx.doi. org/10.2139/ssrn.4405779."
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/pan.2023.2"
+        },
+        {
+            "key": "p_5",
+            "unstructured": "Bai, Yuntao et al. 2022. \"Constitutional AI: Harmlessness from AI Feedback.\" https://doi.org/10.48550/ arXiv.2212.08073."
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bender, Emily M., Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell. 2021. \"On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?\" In Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 610-623. New York: Association for Computing Machinery.",
+            "DOI": "10.1145/3442188.3445922"
+        },
+        {
+            "key": "p_7",
+            "unstructured": "Bommasani, Rishi et al. 2021. \"On the Opportunities and Risks of Foundation Models.\" https://doi. org/10.48550/arXiv.2108.07258."
+        },
+        {
+            "key": "p_8",
+            "unstructured": "Bubeck, S\u00e9bastien et al. 2023. \"Sparks of Artificial General Intelligence: Early Experiments with GPT-4.\" https://doi.org/10.48550/arXiv.2303.12712."
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Buchanan, Joy, and Olga Shapoval. 2023. \"GPT-3.5 Hallucinates Nonexistent Citations: Evidence from Economics.\" http://dx.doi.org/10.2139/ssrn.4467968.",
+            "DOI": "10.2139/ssrn.4472220"
+        },
+        {
+            "key": "p_10",
+            "unstructured": "Carlsmith, Joseph. 2020. \"How Much Computational Power Does It Take to Match the Human Brain?\" Open Philanthropy, September 11. https:// www.openphilanthropy.org/research/how-muchcomputational-power-does-it-take-to-match-thehuman-brain."
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Charness, Gary, Brian Jabarian, and John A. List. 2023. \"Generation Next: Experimentation with AI.\" NBER Working Paper 31679.",
+            "DOI": "10.3386/w31679"
+        },
+        {
+            "key": "p_12",
+            "first-page": "23",
+            "author": "Tabarrok Alexander T.",
+            "year": "2023",
+            "journal-title": "GMU Working Paper in Economics"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.frl.2023.103662"
+        },
+        {
+            "key": "p_14",
+            "unstructured": "Dunn, Alexander et al. 2022. \"Structured Information Extraction from Complex Scientific Text with Fine-Tuned Large Language Models.\" https://doi. org/10.48550/arXiv.2212.05238."
+        },
+        {
+            "key": "p_15",
+            "unstructured": "Dziri, Nouha et al. 2023. \"Faith and Fate: Limits of Transformers on Compositionality.\" https://doi. org/10.48550/arXiv.2305.18654."
+        },
+        {
+            "key": "p_16",
+            "unstructured": "Eloundou, Tyna, Sam Manning, Pamela Mishkin, and Daniel Rock. 2023. \"GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models.\" https://doi.org/10.48550/ arXiv.2303.10130."
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Felten, Edward W., Manav Raj, and Robert Seamans. 2023. \"How Will Language Modelers Like ChatGPT Affect Occupations and Industries?\" http://dx.doi. org/10.2139/ssrn.4375268.",
+            "DOI": "10.2139/ssrn.4375268"
+        },
+        {
+            "key": "p_18",
+            "unstructured": "Frank, Robert H. 1991. \"Positional Externalities.\" In Strategy and Choice, edited by Richard Zeckhauser, 25-47. Cambridge, MA: MIT Press."
+        },
+        {
+            "key": "p_19",
+            "unstructured": "Frieder, Simon et al. 2023. \"Mathematical Capabilities of ChatGPT.\" https://doi.org/10.48550/ arXiv.2301.13867."
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ganguli, Deep et al. 2022. \"Predictability and Surprise in Large Generative Models.\" In Proceedings of the 2022 ACM Conference on Fairness, Accountability, and Transparency, 1747-1764. New York: Association for Computing Machinery.",
+            "DOI": "10.1145/3531146.3533229"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.20181020"
+        },
+        {
+            "key": "p_22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Girotra, Karan, Lennart Meincke, Christian Terwiesch, and Karl T. Ulrich. 2023. \"Ideas Are Dimes a Dozen: Large Language Models for Idea Generation in Innovation.\" http://dx.doi.org/10.2139/ssrn.4526071.",
+            "DOI": "10.2139/ssrn.4526071"
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1287/mnsc.1090.1144"
+        },
+        {
+            "key": "p_24",
+            "unstructured": "Hoffmann, Jordan et al. 2022. \"Training Compute-Optimal Large Language Models.\" https://doi. org/10.48550/arXiv.2203.15556."
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Horton, John J. 2023. \"Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?\" NBER Working Paper 31122.",
+            "DOI": "10.3386/w31122"
+        },
+        {
+            "key": "p_26",
+            "unstructured": "Jiao, Wenxiang, Wenxuan Wang, Jen-tse Huang, Xing Wang, and Zhaopeng Tu. 2023. \"Is ChatGPT a Good Translator? Yes with GPT-4 as the Engine.\" https:// doi.org/10.48550/arXiv.2301.08745."
+        },
+        {
+            "key": "p_27",
+            "unstructured": "Kaplan, Jared et al. 2020. \"Scaling Laws for Neural Language Models.\" https://doi.org/10.48550/ arXiv.2001.08361."
+        },
+        {
+            "key": "p_28",
+            "unstructured": "Kasparov, Garry. 2017. Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins. New York: PublicAffairs."
+        },
+        {
+            "key": "p_29",
+            "unstructured": "Keynes, John Maynard. 1936. The General Theory of Employment, Interest, and Money. London: Palgrave Macmillan."
+        },
+        {
+            "key": "p_30",
+            "unstructured": "Knight, Will. 2023. \"OpenAI's CEO Says the Age of Giant AI Models Is Already Over.\" Wired, April 17. https://www.wired.com/story/openai-ceo-samaltman-the-age-of-giant-ai-models-is-already-over/."
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Korinek, Anton. 2023. \"Language Models and Cognitive Automation for Economic Research.\" NBER Working Paper 30957.",
+            "DOI": "10.3386/w30957"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Korinek, Anton, and Avital Balwit. 2023. \"Aligned with Whom? Direct and Social Goals for AI Systems.\" In The Oxford Handbook of AI Governance, edited by Anton Korinek, Johannes Himmelreich, Justin B. Bullock, Valerie M. Hudson, and Yu-Che Chen. Oxford, UK: Oxford University Press.",
+            "DOI": "10.3386/w30017"
+        },
+        {
+            "key": "p_33",
+            "unstructured": "Li, Kenneth, Aspen K. Hopkins, David Bau, Fernanda Vi\u00e9gas, Hanspeter Pfister, and Martin Wattenberg. 2023. \"Emergent World Representations: Exploring a Sequence Model Trained on a Synthetic Task.\" https://doi.org/10.48550/arXiv.2210.13382."
+        },
+        {
+            "key": "p_34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lopez-Lira, Alejandro, and Yuehua Tang. 2023. \"Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models.\" https:// doi.org/10.48550/arXiv.2304.07619.",
+            "DOI": "10.2139/ssrn.4412788"
+        },
+        {
+            "key": "p_35",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mollick, Ethan R., and Lilach Mollick. 2023. \"Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts.\" https:// dx.doi.org/10.2139/ssrn.4391243.",
+            "DOI": "10.2139/ssrn.4391243"
+        },
+        {
+            "key": "p_36",
+            "unstructured": "Noorbakhsh, Kimia, Modar Sulaiman, Mahdi Sharifi, Kallol Roy, and Pooyan Jamshidi. 2023. \"Pretrained Language Models Are Symbolic Mathematics Solvers Too!\" https://doi.org/10.48550/arXiv.2110.03501."
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.adh2586"
+        },
+        {
+            "key": "p_38",
+            "unstructured": "Peng, Sida, Eirini Kalliamvakou, Peter Cihon, and Mert Demirer. 2023. \"The Impact of AI on Developer Productivity: Evidence from GitHub Copilot.\" https://doi.org/10.48550/arXiv.2302.06590."
+        },
+        {
+            "key": "p_39",
+            "unstructured": "Ricardo, David. 1817. On the Principles of Political Economy and Taxation. London: John Murray."
+        },
+        {
+            "key": "p_40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sevilla, Jaime, Lennart Heim, Anson Ho, Tamay Besiroglu, Marius Hobbhahn, and Pablo Villalobos. 2022. \"Compute Trends across Three Eras of Machine Learning.\" In 2022 International Joint Conference on Neural Networks (IJCNN), 1-8. Piscataway, NJ: Institute of Electrical and Electronics Engineers.",
+            "DOI": "10.1109/IJCNN55064.2022.9891914"
+        },
+        {
+            "key": "p_41",
+            "unstructured": "Silver, David et al. 2017. \"Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.\" https://doi.org/10.48550/ arXiv.1712.01815."
+        },
+        {
+            "key": "p_42",
+            "unstructured": "Sutton, Rich. 2019. \"The Bitter Lesson.\" Incomplete Ideas (blog), March 13. http://www.incompleteideas. net/IncIdeas/BitterLesson.html."
+        },
+        {
+            "key": "p_43",
+            "unstructured": "Thompson, Alan D. 2023. \"GPT-3.5 and ChatGPT: An Illustrated Overview.\" https://lifearchitect.ai/ chatgpt/."
+        },
+        {
+            "issue": "236",
+            "key": "p_44",
+            "first-page": "433",
+            "volume": "59",
+            "author": "Alan",
+            "year": "1950",
+            "journal-title": "Mind"
+        },
+        {
+            "key": "p_45",
+            "unstructured": "Vaswani, Ashish et al. 2017. \"Attention Is All You Need.\" In Advances in Neural Information Processing Systems (NIPS 2017), Vol. 30, edited by I. Guyon et al. Red Hook, NY: Curran Associates Inc."
+        },
+        {
+            "key": "p_46",
+            "unstructured": "Wei, Jason, Yi Tay et al. 2022. \"Emergent Abilities of Large Language Models.\" https://doi.org/10.48550/ arXiv.2206.07682."
+        },
+        {
+            "key": "p_47",
+            "unstructured": "Wei, Jason, Xuezhi Wang et al. 2022. \"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.\" In Advances in Neural Information Processing System (NeurIPS 2022), Vol. 35, edited by S. Koyejo, S. Mohamed, A. Agarwal, D. Belgrave, K. Cho, and A. Oh. Red Hook, NY: Curran Associates Inc."
+        },
+        {
+            "key": "p_48",
+            "unstructured": "Wolfram, Stephen. 2023. What Is ChatGPT Doing . and Why Does It Work? Champaign, IL: Wolfram Media Inc. https://writings.stephenwolfram.com/2023/02/ what-is-chatgpt-doing-and-why-does-it-work/."
+        },
+        {
+            "key": "p_49",
+            "unstructured": "Zou, Andy, Zifan Wang, J. Zico Kolter, and Matt Fredrikson. 2023. \"Universal and Transferable Adversarial Attacks on Aligned Language Models.\" https://doi.org/10.48550/arXiv.2307.15043."
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20231736",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                12
+            ]
+        ],
+        "date-time": "2023-12-12T15:28:03Z",
+        "timestamp": 1702394883000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20231736"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                1
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "4",
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    12,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20231736"
+    ],
+    "URL": "http://dx.doi.org/10.1257/jel.20231736",
+    "relation": {},
+    "ISSN": [
+        "0022-0515"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                1
+            ]
+        ]
+    }
+}
