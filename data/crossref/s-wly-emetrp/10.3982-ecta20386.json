@@ -1,0 +1,679 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2024-01-30T00:24:24Z",
+        "timestamp": 1706574264848
+    },
+    "reference-count": 53,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2024-01-01T00:00:00Z",
+                "timestamp": 1704067200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100003407",
+            "name": "Ministero dell\u2019Istruzione, dell\u2019Universit\u00e0 e della Ricerca",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100019768",
+            "name": "FP7 Ideas",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We provide a unified approach to stochastic dynamic programming with recursive utility based on an elementary application of Tarski's fixed point theorem. We establish that the exclusive source of multiple values is the presence of multiple recursive utilities consistent with the given aggregator, each yielding a legitimate value of the recursive program. We also present sufficient conditions ensuring a unique value of the recursive program in some circumstances. Overall, acknowledging the unavoidable failure of uniqueness in general, we argue that the greatest fixed point of the Bellman operator should have a privileged position.</jats:p>",
+    "DOI": "10.3982/ecta20386",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                29
+            ]
+        ],
+        "date-time": "2024-01-29T14:25:21Z",
+        "timestamp": 1706538321000
+    },
+    "page": "111-140",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Do not Blame Bellman: It Is Koopmans' Fault"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Gaetano",
+            "family": "Bloise",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics and Finance, University of Rome II"
+                }
+            ]
+        },
+        {
+            "given": "Cuong",
+            "family": "Le Van",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "IPAG Business School, Paris School of Economics"
+                },
+                {
+                    "name": "TIMAS"
+                },
+                {
+                    "name": "CASED-DEPOCEN"
+                }
+            ]
+        },
+        {
+            "given": "Yiannis",
+            "family": "Vailakis",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Adam Smith Business School, University of Glasgow"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200629-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "2861",
+            "DOI": "10.1111/jofi.12437",
+            "volume": "71",
+            "author": "Albuquerque",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "ecta200629-bib-0002",
+            "volume-title": "Infinite Dimensional Analysis",
+            "author": "Aliprantis",
+            "year": "2006",
+            "edition": "third"
+        },
+        {
+            "key": "ecta200629-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1006/jeth.1998.2431",
+            "volume": "82",
+            "author": "Alvarez",
+            "year": "1998",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0004",
+            "first-page": "319",
+            "volume-title": "NBER Macroeconomic Annual 2004",
+            "volume": "19",
+            "author": "Backus",
+            "year": "2005"
+        },
+        {
+            "key": "ecta200629-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "551",
+            "DOI": "10.1007/s00199-019-01221-8",
+            "volume": "70",
+            "author": "Balbus",
+            "year": "2020",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1016/j.jet.2017.11.005",
+            "volume": "173",
+            "author": "B\u00e4urle",
+            "year": "2018",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0007",
+            "volume-title": "Capital Theory, Equilibrium Analysis and Recursive Utility",
+            "author": "Becker",
+            "year": "1997"
+        },
+        {
+            "key": "ecta200629-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "84",
+            "DOI": "10.1016/j.mathsocsci.2021.03.015",
+            "volume": "112",
+            "author": "Becker",
+            "year": "2021",
+            "journal-title": "Mathematical Social Sciences"
+        },
+        {
+            "key": "ecta200629-bib-0009",
+            "volume-title": "Abstract Dynamic Programming",
+            "author": "Bertsekas",
+            "year": "2018",
+            "edition": "second"
+        },
+        {
+            "key": "ecta200629-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "787",
+            "DOI": "10.1007/s00199-017-1045-0",
+            "volume": "66",
+            "author": "Bich",
+            "year": "2018",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1016/j.jet.2017.10.008",
+            "volume": "173",
+            "author": "Bloise",
+            "year": "2018",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "1457",
+            "DOI": "10.1111/jofi.12877",
+            "volume": "75",
+            "author": "Borovicka",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "ecta200629-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "326",
+            "DOI": "10.1016/0022-0531(90)90006-6",
+            "volume": "50",
+            "author": "Boyd",
+            "year": "1990",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0014",
+            "first-page": "902",
+            "volume": "1",
+            "author": "Brown",
+            "year": "1973",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200629-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1162/003355399556043",
+            "volume": "114",
+            "author": "Campbell",
+            "year": "1999",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200629-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1016/j.jmateco.2018.07.007",
+            "volume": "78",
+            "author": "Chattopadhyay",
+            "year": "2018",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "ecta200629-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1501",
+            "DOI": "10.3982/ECTA11600",
+            "volume": "85",
+            "author": "Christensen",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0018",
+            "doi-asserted-by": "crossref",
+            "volume": "200",
+            "author": "Christensen",
+            "year": "2022",
+            "journal-title": "Journal of Economic Theory",
+            "DOI": "10.1016/j.jet.2022.105413"
+        },
+        {
+            "key": "ecta200629-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1007/s001990050016",
+            "volume": "15",
+            "author": "Dur\u00e1n",
+            "year": "2000",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.1007/s00199-002-0316-5",
+            "volume": "22",
+            "author": "Dur\u00e1n",
+            "year": "2003",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "937",
+            "DOI": "10.2307/1913778",
+            "volume": "57",
+            "author": "Epstein",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "683",
+            "DOI": "10.1137/S0040585X97986850",
+            "volume": "58",
+            "author": "Feinberg",
+            "year": "2014",
+            "journal-title": "Theory of Probability and Its Applications"
+        },
+        {
+            "key": "ecta200629-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1007/BF01651330",
+            "volume": "22",
+            "author": "Fortuin",
+            "year": "1971",
+            "journal-title": "Communications in Mathematical Physics"
+        },
+        {
+            "key": "ecta200629-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "968",
+            "DOI": "10.1109/9.384242",
+            "volume": "40",
+            "author": "Hansen",
+            "year": "1995",
+            "journal-title": "IEEE Transactions on Automatic Control"
+        },
+        {
+            "key": "ecta200629-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1257/aer.91.2.60",
+            "volume": "91",
+            "author": "Hansen",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200629-bib-0026",
+            "volume-title": "Robustness",
+            "author": "Hansen",
+            "year": "2008"
+        },
+        {
+            "key": "ecta200629-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "11967",
+            "DOI": "10.1073/pnas.1200237109",
+            "volume": "109",
+            "author": "Hansen",
+            "year": "2012",
+            "journal-title": "Proceedings of National Academy of Sciences"
+        },
+        {
+            "key": "ecta200629-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "3967",
+            "DOI": "10.1016/S1573-4412(07)06061-8",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "6A",
+            "author": "Hansen",
+            "year": "2007"
+        },
+        {
+            "key": "ecta200629-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "450",
+            "DOI": "10.1016/j.jmaa.2010.08.073",
+            "volume": "378",
+            "author": "Jaskiewisz",
+            "year": "2011",
+            "journal-title": "Journal of Mathematical Analysis and Applications"
+        },
+        {
+            "key": "ecta200629-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1007/s00199-013-0789-4",
+            "volume": "56",
+            "author": "Kamihigashi",
+            "year": "2014",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1849",
+            "DOI": "10.1111/j.1468-0262.2005.00640.x",
+            "volume": "73",
+            "author": "Klibanoff",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.2307/1907722",
+            "volume": "28",
+            "author": "Koopmans",
+            "year": "1960",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.2307/1913656",
+            "volume": "46",
+            "author": "Kreps",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "158",
+            "DOI": "10.1006/jeth.2001.2880",
+            "volume": "105",
+            "author": "Le Van",
+            "year": "2002",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1016/j.jet.2004.06.007",
+            "volume": "123",
+            "author": "Le Van",
+            "year": "2005",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1016/0022-0531(84)90079-6",
+            "volume": "32",
+            "author": "Lucas",
+            "year": "1984",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0037",
+            "doi-asserted-by": "crossref",
+            "volume": "100",
+            "author": "Ma",
+            "year": "2022",
+            "journal-title": "Journal of Mathematical Economics",
+            "DOI": "10.1016/j.jmateco.2022.102652"
+        },
+        {
+            "key": "ecta200629-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "1776",
+            "DOI": "10.1016/j.jet.2010.02.005",
+            "volume": "145",
+            "author": "Marinacci",
+            "year": "2010",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1174",
+            "DOI": "10.1287/moor.2018.0959",
+            "volume": "44",
+            "author": "Marinacci",
+            "year": "2019",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "ecta200629-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.3982/ECTA7920",
+            "volume": "78",
+            "author": "Martins-da-Rocha",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "455",
+            "DOI": "10.1007/s00199-010-0522-5",
+            "volume": "46",
+            "author": "Matkowski",
+            "year": "2011",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200629-bib-0042",
+            "volume-title": "Economic Dynamics in Discrete Time",
+            "author": "Miao",
+            "year": "2014"
+        },
+        {
+            "key": "ecta200629-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1016/0304-4068(95)00737-7",
+            "volume": "25",
+            "author": "Ozaki",
+            "year": "1996",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "ecta200629-bib-0044",
+            "doi-asserted-by": "crossref",
+            "volume": "130",
+            "author": "Ren",
+            "year": "2021",
+            "journal-title": "Automatica",
+            "DOI": "10.1016/j.automatica.2021.109641"
+        },
+        {
+            "key": "ecta200629-bib-0045",
+            "author": "Rinc\u00f3n-Zapatero",
+            "year": "2024",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200629-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "1519",
+            "DOI": "10.1111/1468-0262.00457",
+            "volume": "71",
+            "author": "Rinc\u00f3n-Zapatero",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200629-bib-0047",
+            "series-title": "Princeton Series in Finance",
+            "volume-title": "Asset Pricing Theory",
+            "author": "Skiadas",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200629-bib-0048",
+            "volume-title": "Economic Dynamics: Theory and Computation",
+            "author": "Stachurski",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200629-bib-0049",
+            "doi-asserted-by": "crossref",
+            "volume": "192",
+            "author": "Stachurski",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory",
+            "DOI": "10.1016/j.jet.2021.105190"
+        },
+        {
+            "key": "ecta200629-bib-0050",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Recursive Methods in Economic Dynamics",
+            "author": "Stokey",
+            "year": "1989",
+            "DOI": "10.2307/j.ctvjnrt76"
+        },
+        {
+            "key": "ecta200629-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "DOI": "10.2307/2297544",
+            "volume": "57",
+            "author": "Streufert",
+            "year": "1990",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200629-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "367",
+            "DOI": "10.2307/2298062",
+            "volume": "60",
+            "author": "Weil",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200629-bib-0053",
+            "doi-asserted-by": "crossref",
+            "volume": "123",
+            "author": "Wiszniewska-Matyszkiel",
+            "year": "2021",
+            "journal-title": "Automatica",
+            "DOI": "10.1016/j.automatica.2020.109332"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                29
+            ]
+        ],
+        "date-time": "2024-01-29T14:27:08Z",
+        "timestamp": 1706538428000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA20386"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA20386"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta20386",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}
