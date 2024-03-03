@@ -1,0 +1,663 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                27
+            ]
+        ],
+        "date-time": "2024-01-27T01:20:07Z",
+        "timestamp": 1706318407753
+    },
+    "reference-count": 41,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        22
+                    ]
+                ],
+                "date-time": "2022-08-22T00:00:00Z",
+                "timestamp": 1661126400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>To determine the welfare implications of price changes in demand data, we introduce a revealed preference relation over prices. We show that the absence of cycles in this relation characterizes a consumer who trades off the utility of consumption against the disutility of expenditure. Our model can be applied whenever a consumer\u2019s demand over a strict subset of all available goods is being analysed; it can also be extended to settings with discrete goods and non-linear prices. To illustrate its use, we apply our model to a single-agent data set and to a data set with repeated cross-sections. We develop a novel test of linear hypotheses on partially identified parameters to estimate the proportion of the population who are revealed better off due to a price change in the latter application. This new technique can be used for non-parametric counterfactual analysis more broadly.</jats:p>",
+    "DOI": "10.1093/restud/rdac041",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                22
+            ]
+        ],
+        "date-time": "2022-08-22T14:13:55Z",
+        "timestamp": 1661177635000
+    },
+    "page": "707-743",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Revealed Price Preference: Theory and Empirical Analysis"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Rahul",
+            "family": "Deb",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Toronto"
+                }
+            ]
+        },
+        {
+            "given": "Yuichi",
+            "family": "Kitamura",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University"
+                }
+            ]
+        },
+        {
+            "given": "John K H",
+            "family": "Quah",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Johns Hopkins University and National University of Singapore"
+                }
+            ]
+        },
+        {
+            "given": "J\u00f6rg",
+            "family": "Stoye",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                22
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023030719092632100_",
+            "first-page": "42",
+            "article-title": "Mutually Consistent Revealed Preference Bounds",
+            "volume": "12",
+            "author": "ADAMS",
+            "year": "2020",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.2307/2525382",
+            "article-title": "The Construction of Utility Functions from Expenditure Data",
+            "volume": "8",
+            "author": "AFRIAT",
+            "year": "1967",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "460",
+            "DOI": "10.2307/2525934",
+            "article-title": "On a System of Inequalities in Demand Analysis: An Extension of the Classical Method",
+            "volume": "14",
+            "author": "AFRIAT",
+            "year": "1973",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1111/j.1468-0262.2006.00666.x",
+            "article-title": "Commitment vs. Flexibility",
+            "volume": "74",
+            "author": "AMADOR",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.3982/ECTA13918",
+            "article-title": "Nonlinear Pricing in Village Economies",
+            "volume": "88",
+            "author": "ATTANASIO",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "article-title": "Automobile Prices in Market Equilibrium",
+            "volume": "63",
+            "author": "BERRY",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.3982/ECTA12574",
+            "article-title": "Nonparametric Welfare Analysis for Discrete Choice",
+            "volume": "83",
+            "author": "BHATTACHARYA",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1111/j.1467-937X.2008.00485.x",
+            "article-title": "Revealed Preference Analysis of Characteristics Models",
+            "volume": "75",
+            "author": "BLOW",
+            "year": "2008",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1227",
+            "DOI": "10.3982/ECTA6069",
+            "article-title": "Best Nonparametric Bounds on Demand Responses",
+            "volume": "76",
+            "author": "BLUNDELL",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "803",
+            "DOI": "10.1086/673885",
+            "article-title": "Salience and Consumer Choice",
+            "volume": "121",
+            "author": "BORDALO",
+            "year": "2013",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1146/annurev.economics.050708.142910",
+            "article-title": "Sufficient Statistics for Welfare Analysis: A Bridge between Structural and Reduced-Form Methods",
+            "volume": "1",
+            "author": "CHETTY",
+            "year": "2009",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1145",
+            "DOI": "10.1257/aer.99.4.1145",
+            "article-title": "Salience and Taxation: Theory and Evidence",
+            "volume": "99",
+            "author": "CHETTY",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA13564",
+            "article-title": "Identifying Preferences in Networks With Bounded Degree",
+            "volume": "86",
+            "author": "DE PAULA",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1138",
+            "DOI": "10.1257/aer.103.4.1138",
+            "article-title": "Why Don\u2019t the Poor Save More? Evidence from Health Savings Experiments",
+            "volume": "103",
+            "author": "DUPAS",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1162/rest.2009.11892",
+            "article-title": "Mental Accounting Effects of Income Tax Shifting",
+            "volume": "92",
+            "author": "FELDMAN",
+            "year": "2010",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1661",
+            "DOI": "10.1093/qje/qju024",
+            "article-title": "A Sparsity-Based Model of Bounded Rationality",
+            "volume": "129",
+            "author": "GABAIX",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1016/bs.hesbe.2018.11.001",
+            "article-title": "Behavioral Inattention",
+            "volume-title": "Handbook of Behavioral Economics: Applications and Foundations 1",
+            "author": "GABAIX",
+            "year": "2019"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1264",
+            "DOI": "10.1093/restud/rdr008",
+            "article-title": "Set Identification in Models with Multiple Equilibria",
+            "volume": "78",
+            "author": "GALICHON",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "3493",
+            "DOI": "10.1257/aer.20170866",
+            "article-title": "How are SNAP Benefits Spent? Evidence from a Retail Panel",
+            "volume": "108",
+            "author": "HASTINGS",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.1093/qje/qjt018",
+            "article-title": "Fungibility and Consumer Choice: Evidence from Commodity Price Shocks",
+            "volume": "128",
+            "author": "HASTINGS",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.3982/ECTA11899",
+            "article-title": "Individual Heterogeneity and Average Welfare",
+            "volume": "84",
+            "author": "HAUSMAN",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1245",
+            "DOI": "10.1257/aer.98.4.1245",
+            "article-title": "Competition and Price Variation when Consumers are Loss Averse",
+            "volume": "98",
+            "author": "HEIDHUES",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023030719092632100_",
+            "article-title": "The Impact of PROGRESA on Consumption: A Final Report",
+            "author": "HODDINOTT",
+            "year": "2000"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1162/REST_a_00397",
+            "article-title": "Revealed Preferences in a Heterogeneous Population",
+            "volume": "96",
+            "author": "HODERLEIN",
+            "year": "2014",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1093/acprof:oso/9780198737070.003.0007",
+            "article-title": "The Income Distribution in the UK",
+            "volume-title": "Social Advantage and Disadvantage",
+            "author": "JENKINS",
+            "year": "2016"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1883",
+            "DOI": "10.3982/ECTA14478",
+            "article-title": "Nonparametric Analysis of Random Utility Models",
+            "volume": "86",
+            "author": "KITAMURA",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "article-title": "Nonparametric Counterfactuals of Random Utility Models",
+            "author": "KITAMURA",
+            "year": "2019"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "515",
+            "DOI": "10.1146/annurev-economics-060220-023547",
+            "article-title": "Sufficient Statistics Revisited",
+            "volume": "13",
+            "author": "KLEVEN",
+            "year": "2021",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "first-page": "1133",
+            "article-title": "A Model of Reference-Dependent Preferences",
+            "volume": "121",
+            "author": "K\u0150SZEGI",
+            "year": "2006",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Nonparametric Analysis of Monotone Choice",
+            "author": "LAZZATI",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3301043"
+        },
+        {
+            "key": "2023030719092632100_",
+            "first-page": "161",
+            "article-title": "Stochastic Rationality and Revealed Stochastic Preference",
+            "volume-title": "Preferences, Uncertainty and Rationality",
+            "author": "MCFADDEN",
+            "year": "1991"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1007/s00199-004-0495-3",
+            "article-title": "Revealed Stochastic Preference: A Synthesis",
+            "volume": "26",
+            "author": "MCFADDEN",
+            "year": "2005",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2023030719092632100_",
+            "first-page": "513",
+            "article-title": "A Practitioner\u2019s Guide to Estimation of Random-Coefficients Logit Models of Demand",
+            "volume": "9",
+            "author": "NEVO",
+            "year": "2000",
+            "journal-title": "Journal of Economics and Management Strategy"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1537",
+            "DOI": "10.1111/caje.12054",
+            "article-title": "Imputing Rent in Consumption Mmeasures, with an Application to Consumption Poverty in Canada, 1997\u20132009",
+            "volume": "46",
+            "author": "NORRIS",
+            "year": "2013",
+            "journal-title": "Canadian Journal of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "773",
+            "DOI": "10.1111/caje.12143",
+            "article-title": "Consumption Inequality in Canada, 1997 to 2009",
+            "volume": "48",
+            "author": "NORRIS",
+            "year": "2015",
+            "journal-title": "Canadian Journal of Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1287/mksc.17.1.4",
+            "article-title": "The Red and the Black: Mental Accounting of Savings and Debt",
+            "volume": "17",
+            "author": "PRELEC",
+            "year": "1998",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/0022-0531(77)90087-4",
+            "article-title": "Revealed Favorability, Indirect Utility, and Direct Utility",
+            "volume": "14",
+            "author": "SAKAI",
+            "year": "1977",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1007/s11129-011-9104-5",
+            "article-title": "Reference Distorted Prices",
+            "volume": "9",
+            "author": "SAKOVICS",
+            "year": "2011",
+            "journal-title": "Quantitative Marketing and Economics"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.3982/ECTA17605",
+            "article-title": "Nonparametric Analysis of Random Utility Models: Computational Tools for Statistical Testing",
+            "volume": "89",
+            "author": "SMEULDERS",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "183",
+            "DOI": "10.1002/(SICI)1099-0771(199909)12:3<183::AID-BDM318>3.0.CO;2-F",
+            "article-title": "Mental Accounting Matters",
+            "volume": "12",
+            "author": "THALER",
+            "year": "1999",
+            "journal-title": "Journal of Behavioral Decision Making"
+        },
+        {
+            "key": "2023030719092632100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.2307/2296957",
+            "article-title": "Non-parametric Tests of Consumer Behaviour",
+            "volume": "50",
+            "author": "VARIAN",
+            "year": "1983",
+            "journal-title": "Review of Economic Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac041/45623927/rdac041.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/2/707/49435126/rdac041.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/2/707/49435126/rdac041.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                11,
+                26
+            ]
+        ],
+        "date-time": "2023-11-26T01:19:33Z",
+        "timestamp": 1700961573000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/2/707/6673163"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                22
+            ]
+        ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    22
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac041",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                22
+            ]
+        ]
+    }
+}

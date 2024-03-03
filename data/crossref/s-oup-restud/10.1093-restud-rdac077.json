@@ -1,0 +1,688 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                17
+            ]
+        ],
+        "date-time": "2024-02-17T02:44:36Z",
+        "timestamp": 1708137876543
+    },
+    "reference-count": 49,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        21
+                    ]
+                ],
+                "date-time": "2022-11-21T00:00:00Z",
+                "timestamp": 1668988800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Agents learn about a changing state using private signals and their neighbours\u2019 past estimates of the state. We present a model in which Bayesian agents in equilibrium use neighbours\u2019 estimates simply by taking weighted sums with time-invariant weights. The dynamics thus parallel those of the tractable DeGroot model of learning in networks, but arise as an equilibrium outcome rather than a behavioural assumption. We examine whether information aggregation is nearly optimal as neighbourhoods grow large. A key condition for this is signal diversity: each individual\u2019s neighbours have private signals that not only contain independent information, but also have sufficiently different distributions. Without signal diversity\u2014e.g. if private signals are i.i.d.\u2014learning is suboptimal in all networks and highly inefficient in some. Turning to social influence, we find it is much more sensitive to one\u2019s signal quality than to one\u2019s number of neighbours, in contrast to standard models with exogenous updating rules.</jats:p>",
+    "DOI": "10.1093/restud/rdac077",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                15
+            ]
+        ],
+        "date-time": "2022-11-15T21:49:35Z",
+        "timestamp": 1668548975000
+    },
+    "page": "2326-2369",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Learning from Neighbours about a Changing State"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Krishna",
+            "family": "Dasaratha",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Boston University"
+                }
+            ]
+        },
+        {
+            "given": "Benjamin",
+            "family": "Golub",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Northwestern University"
+                }
+            ]
+        },
+        {
+            "given": "Nir",
+            "family": "Hak",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Uber Technologies, Inc"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                21
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023090502430334700_rdac077-B1",
+            "first-page": "6446",
+            "article-title": "Community detection and stochastic block models: recent developments",
+            "volume": "18",
+            "author": "Abbe",
+            "year": "2017",
+            "journal-title": "The Journal of Machine Learning Research"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1201",
+            "DOI": "10.1093/restud/rdr004",
+            "article-title": "Bayesian learning in social networks",
+            "volume": "78",
+            "author": "Acemoglu",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1007/s13235-010-0004-1",
+            "article-title": "Opinion dynamics and learning in social networks",
+            "volume": "1",
+            "author": "Acemoglu",
+            "year": "2011",
+            "journal-title": "Dynamic Games and Applications"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1663",
+            "DOI": "10.1257/aer.20140705",
+            "article-title": "Network structure and the aggregation of information: theory and evidence from Indonesia",
+            "volume": "106",
+            "author": "Alatas",
+            "year": "2016",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1086/648301",
+            "article-title": "Noisy business cycles",
+            "volume": "24",
+            "author": "Angeletos",
+            "year": "2010",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2477",
+            "DOI": "10.1257/aer.20161996",
+            "article-title": "Forward guidance without common knowledge",
+            "volume": "108",
+            "author": "Angeletos",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "913",
+            "DOI": "10.1093/restud/rdy029",
+            "article-title": "Multidimensional social learning",
+            "volume": "86",
+            "author": "Arieli",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1727",
+            "DOI": "10.3982/ECTA12043",
+            "article-title": "Trading and information diffusion in over-the-counter markets",
+            "volume": "86",
+            "author": "Babus",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1111/1467-937X.00059",
+            "article-title": "Learning from neighbours",
+            "volume": "65",
+            "author": "Bala",
+            "year": "1998",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B10",
+            "author": "Banerjee",
+            "year": "2013"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0899-8256(03)00048-4",
+            "article-title": "Word-of-mouth learning",
+            "volume": "46",
+            "author": "Banerjee",
+            "year": "2004",
+            "journal-title": "Games and economic behavior"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B12",
+            "author": "Dasaratha",
+            "year": "2018"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1016/j.geb.2021.04.004",
+            "article-title": "An experiment on network density and sequential learning",
+            "volume": "128",
+            "author": "Dasaratha",
+            "year": "2021",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1080/01621459.1974.10480137",
+            "article-title": "Reaching a consensus",
+            "volume": "69",
+            "author": "DeGroot",
+            "year": "1974",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "909",
+            "DOI": "10.1162/00335530360698469",
+            "article-title": "Persuasion bias, social influence, and unidimensional opinions",
+            "volume": "118",
+            "author": "DeMarzo",
+            "year": "2003",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B16",
+            "volume-title": "Multivariate Statistics: A Vector Space Approach",
+            "author": "Eaton",
+            "year": "1983"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B17",
+            "first-page": "313",
+            "article-title": "Correlation neglect in belief formation",
+            "volume": "86",
+            "author": "Enke",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B18",
+            "first-page": "221",
+            "article-title": "Naive herding in rich-information settings",
+            "volume": "2",
+            "author": "Eyster",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1861",
+            "DOI": "10.1093/qje/qju021",
+            "article-title": "Extensive imitation is irrational and harmful",
+            "volume": "129",
+            "author": "Eyster",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B20",
+            "author": "Eyster",
+            "year": "2015"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1016/S0378-8733(96)00298-5",
+            "article-title": "Social positions in influence networks",
+            "volume": "19",
+            "author": "Friedkin",
+            "year": "1997",
+            "journal-title": "Social Networks"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B22",
+            "author": "Frongillo",
+            "year": "2011"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1007/s00199-005-0642-5",
+            "article-title": "Social learning with private and common values",
+            "volume": "28",
+            "author": "Goeree",
+            "year": "2006",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B24",
+            "first-page": "112",
+            "article-title": "Na\u00efve learning in social networks and the wisdom of crowds",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B25",
+            "author": "Golub",
+            "year": "2016"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "621",
+            "DOI": "10.1093/qje/qjaa026",
+            "article-title": "Rational groupthink",
+            "volume": "136",
+            "author": "Harel",
+            "year": "2021",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B27",
+            "first-page": "519",
+            "article-title": "The use of knowledge in society",
+            "volume": "35",
+            "author": "Hayek",
+            "year": "1945",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1016/0378-8733(83)90021-7",
+            "article-title": "Stochastic blockmodels: first steps",
+            "volume": "5",
+            "author": "Holland",
+            "year": "1983",
+            "journal-title": "Social Networks"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B29",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Social and Economic Networks",
+            "author": "Jackson",
+            "year": "2010",
+            "DOI": "10.2307/j.ctvcm4gh1"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1016/j.geb.2012.06.001",
+            "article-title": "Non-Bayesian social learning",
+            "volume": "76",
+            "author": "Jadbabaie",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B31",
+            "author": "Janson",
+            "year": "2011"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1119",
+            "DOI": "10.3982/ECTA12635",
+            "article-title": "Strategic trading in informationally complex environments",
+            "volume": "86",
+            "author": "Lambert",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "807",
+            "DOI": "10.3982/TE1549",
+            "article-title": "Information diffusion in networks through social learning",
+            "volume": "10",
+            "author": "Lobel",
+            "year": "2015",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "564",
+            "DOI": "10.1287/opre.2015.1364",
+            "article-title": "Preferences, homophily, and social learning",
+            "volume": "64",
+            "author": "Lobel",
+            "year": "2016",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B35",
+            "author": "Molavi",
+            "year": "2019"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.3982/ECTA14613",
+            "article-title": "A theory of non-Bayesian social learning",
+            "volume": "86",
+            "author": "Molavi",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "657",
+            "DOI": "10.1007/s001990050207",
+            "article-title": "Social learning in a changing world",
+            "volume": "11",
+            "author": "Moscarini",
+            "year": "1998",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1235",
+            "DOI": "10.3982/ECTA16465",
+            "article-title": "Social learning equilibria",
+            "volume": "88",
+            "author": "Mossel",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1214/14-PS230",
+            "article-title": "Opinion exchange dynamics",
+            "volume": "14",
+            "author": "Mossel",
+            "year": "2017",
+            "journal-title": "Probability Surveys"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "360",
+            "DOI": "10.1016/j.jet.2019.05.002",
+            "article-title": "Information acquisition and use by networked players",
+            "volume": "182",
+            "author": "Myatt",
+            "year": "2019",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B41",
+            "author": "Pinelis",
+            "year": "2018"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B42",
+            "first-page": "57",
+            "article-title": "Public disagreement",
+            "volume": "4",
+            "author": "Sethi",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "2029",
+            "DOI": "10.3982/ECTA13320",
+            "article-title": "Communication with unknown perspectives",
+            "volume": "84",
+            "author": "Sethi",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B44",
+            "author": "Sethi",
+            "year": "2019"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1006/game.2001.0881",
+            "article-title": "Optimizing information in the herd: guinea pigs, profits, and welfare",
+            "volume": "39",
+            "author": "Sgroi",
+            "year": "2002",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B46",
+            "first-page": "2013",
+            "article-title": "Online learning of dynamic parameters in social networks",
+            "volume": "26",
+            "author": "Shahrampour",
+            "year": "2013",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.2307/2298060",
+            "article-title": "How fast do rational agents learn?",
+            "volume": "60",
+            "author": "Vives",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "2340",
+            "DOI": "10.1257/aer.100.5.2340",
+            "article-title": "Do we follow others when we should? A simple test of rational expectations",
+            "volume": "100",
+            "author": "Weizs\u00e4cker",
+            "year": "2010",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2023090502430334700_rdac077-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "2763",
+            "DOI": "10.1257/aer.20170914",
+            "article-title": "Learning from others\u2019 outcomes",
+            "volume": "108",
+            "author": "Wolitzky",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac077/50448346/rdac077.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/5/2326/51347048/rdac077.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/5/2326/51347048/rdac077.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2023-09-05T02:44:05Z",
+        "timestamp": 1693881845000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/5/2326/6835695"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                21
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    11,
+                    21
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac077",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                11,
+                21
+            ]
+        ]
+    }
+}

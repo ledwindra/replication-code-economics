@@ -1,0 +1,919 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                29
+            ]
+        ],
+        "date-time": "2024-02-29T02:22:07Z",
+        "timestamp": 1709173327940
+    },
+    "reference-count": 73,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        27
+                    ]
+                ],
+                "date-time": "2023-05-27T00:00:00Z",
+                "timestamp": 1685145600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SES-1847555"
+            ]
+        },
+        {
+            "DOI": "10.13039/100021638",
+            "name": "Social Sciences and Humanities Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "430-2018-00540"
+            ]
+        },
+        {
+            "DOI": "10.13039/100006734",
+            "name": "Princeton University",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                26
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We explore efficiency and optimal policy in decentralized transport markets, such as taxis, trucks, and bulk shipping. We show that in these markets, search frictions distort the transportation network and the dynamic allocation of carriers over space. We derive explicit and intuitive conditions for efficiency and show how they translate into efficient pricing rules, or optimal taxes and subsidies for the planner who cannot set prices directly. The results imply that destination-based pricing is essential to attain efficiency. Then, using data from dry bulk shipping, we demonstrate that search frictions lead to a sizable social loss and substantial misallocation of ships over space. Optimal policy can eliminate about half of the welfare loss. Can a centralizing platform, often arising as a market-based solution to search frictions, do better? Interestingly, the answer is no; although the platform eradicates frictions, it exerts market power, thus eroding the welfare gains. Finally, we use two recent interventions in the industry (China\u2019s Belt and Road Initiative and the environmental initiative IMO 2020) to demonstrate that taking into account the efficiency properties of transport markets is germane to any proposed policy.</jats:p>",
+    "DOI": "10.1093/qje/qjad023",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                24
+            ]
+        ],
+        "date-time": "2023-05-24T20:33:04Z",
+        "timestamp": 1684960384000
+    },
+    "page": "2451-2503",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Search Frictions and Efficiency in Decentralized Transport Markets"
+    ],
+    "prefix": "10.1093",
+    "volume": "138",
+    "author": [
+        {
+            "given": "Giulia",
+            "family": "Brancaccio",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "New York University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Myrto",
+            "family": "Kalouptsidi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Theodore",
+            "family": "Papageorgiou",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Boston College , United States"
+                }
+            ]
+        },
+        {
+            "given": "Nicola",
+            "family": "Rosaia",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia Business School , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                27
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023092616531384500_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/209978",
+            "article-title": "\u201cGood Jobs versus Bad Jobs,\u201d",
+            "volume": "19",
+            "author": "Acemoglu",
+            "year": "2001",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2023092616531384500_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "827",
+            "DOI": "10.1111/1468-2354.00043",
+            "article-title": "\u201cHoldups and Efficiency with Search Frictions,\u201d",
+            "volume": "40",
+            "author": "Acemoglu",
+            "year": "1999",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.1016/j.red.2015.05.002",
+            "article-title": "\u201cDirected Search in the Housing Market,\u201d",
+            "volume": "19",
+            "author": "Albrecht",
+            "year": "2016",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2023092616531384500_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1550",
+            "DOI": "10.1086/701684",
+            "article-title": "\u201cSearch Frictions and Market Power in Negotiated-Price Markets,\u201d",
+            "volume": "127",
+            "author": "Allen",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023092616531384500_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2041",
+            "DOI": "10.3982/ECTA10984",
+            "article-title": "\u201cInformation Frictions in Trade,\u201d",
+            "volume": "82",
+            "author": "Allen",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2911",
+            "DOI": "10.1093/restud/rdac001",
+            "article-title": "\u201cThe Welfare Effects of Transportation Infrastructure Improvements,\u201d",
+            "volume": "89",
+            "author": "Allen",
+            "year": "2022",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023092616531384500_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1319",
+            "DOI": "10.1093/qje/qjr019",
+            "article-title": "\u201cIntermediated Trade,\u201d",
+            "volume": "126",
+            "author": "Antr\u00e0s",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023092616531384500_bib7a",
+            "doi-asserted-by": "crossref",
+            "first-page": "316",
+            "DOI": "10.1006/juec.1996.0035",
+            "article-title": "\u201cTaxi Travel Should Be Subsidized,\u201d",
+            "volume": "40",
+            "author": "Arnott",
+            "year": "1996",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2023092616531384500_bib8",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.euroecorev.2019.103366",
+            "article-title": "\u201cEndogenous Transportation Costs,\u201d",
+            "volume": "123",
+            "author": "Asturias",
+            "year": "2020",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2231",
+            "DOI": "10.3982/ECTA11477",
+            "article-title": "\u201cEntry and Exit in OTC Derivatives Markets,\u201d",
+            "volume": "83",
+            "author": "Atkeson",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib9a",
+            "doi-asserted-by": "crossref",
+            "first-page": "102467",
+            "DOI": "10.1016/j.jdeveco.2020.102467",
+            "article-title": "\u201cTrade Effects of the New Silk Road: A Gravity Analysis,\u201d",
+            "volume": "146",
+            "author": "Baniya",
+            "year": "2020",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "key": "2023092616531384500_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2369",
+            "DOI": "10.3982/ECTA9626",
+            "article-title": "\u201cSparse Models and Methods for Optimal Instruments with an Application to Eminent Domain,\u201d",
+            "volume": "80",
+            "author": "Belloni",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib11",
+            "author": "Bian",
+            "year": "2019"
+        },
+        {
+            "key": "2023092616531384500_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1507",
+            "DOI": "10.1093/qje/qjad010",
+            "article-title": "\u201cThe Geography of Unemployment,\u201d",
+            "volume": "138",
+            "author": "Bilal",
+            "year": "2023",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023092616531384500_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "657",
+            "DOI": "10.3982/ECTA15455",
+            "article-title": "\u201cGeography, Transportation, and Endogenous Trade Costs,\u201d",
+            "volume": "88",
+            "author": "Brancaccio",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib14",
+            "article-title": "\u201cReplication Data for: \u2018Search Frictions and Efficiency in Decentralized Transport Markets\u2019,\u201d",
+            "author": "Brancaccio",
+            "year": "2023"
+        },
+        {
+            "key": "2023092616531384500_bib15",
+            "author": "Brancaccio",
+            "year": "2020"
+        },
+        {
+            "key": "2023092616531384500_bib16",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jue.2021.103388",
+            "article-title": "\u201cThe Local Impact of Containerization,\u201d",
+            "volume": "126",
+            "author": "Brooks",
+            "year": "2021",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2023092616531384500_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "556",
+            "DOI": "10.1093/restud/rdab050",
+            "article-title": "\u201cSpatial Equilibrium, Search Frictions and Dynamic Efficiency in the Taxi Industry,\u201d",
+            "volume": "89",
+            "author": "Buchholz",
+            "year": "2022",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023092616531384500_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "778",
+            "DOI": "10.1111/1756-2171.12391",
+            "article-title": "\u201cMarket Expanding or Market Stealing? Competition with Network Effects in Bike-Sharing,\u201d",
+            "volume": "52",
+            "author": "Cao",
+            "year": "2021",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2023092616531384500_bib19",
+            "author": "Castillo",
+            "year": "2020"
+        },
+        {
+            "key": "2023092616531384500_bib20",
+            "article-title": "\u201cUnderstanding the Matching Function: The Role of Newspapers and Job Agencies,\u201d",
+            "author": "Coles",
+            "year": "1994"
+        },
+        {
+            "key": "2023092616531384500_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.2307/2527239",
+            "article-title": "\u201cMarketplaces and Matching,\u201d",
+            "volume": "39",
+            "author": "Coles",
+            "year": "1998",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.1016/j.jinteco.2018.07.008",
+            "article-title": "\u201cShipping inside the Box: Containerization and Trade,\u201d",
+            "volume": "114",
+            "author": "Co\u015far",
+            "year": "2018",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "2023092616531384500_bib23",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cThe Quality Distribution of Jobs and the Structure of Wages in Search Equilibrium,\u201d",
+            "author": "Davis",
+            "year": "2001",
+            "DOI": "10.3386/w8434"
+        },
+        {
+            "key": "2023092616531384500_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1067",
+            "DOI": "10.1111/j.1468-2354.2008.00506.x",
+            "article-title": "\u201cChoosy Search and the Mismatch of Talents,\u201d",
+            "volume": "49",
+            "author": "Decreuse",
+            "year": "2008",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2307/1882244",
+            "article-title": "\u201cThe Cost of Transacting,\u201d",
+            "volume": "82",
+            "author": "Demsetz",
+            "year": "1968",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023092616531384500_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.2307/2297271",
+            "article-title": "\u201cWage Determination and Efficiency in Search Equilibrium,\u201d",
+            "volume": "49",
+            "author": "Diamond",
+            "year": "1982",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023092616531384500_bib27",
+            "author": "Ducruet",
+            "year": "2022"
+        },
+        {
+            "key": "2023092616531384500_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1815",
+            "DOI": "10.1111/j.1468-0262.2005.00639.x",
+            "article-title": "\u201cOver-the-Counter Markets,\u201d",
+            "volume": "73",
+            "author": "Duffie",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1016/j.jebo.2020.06.017",
+            "article-title": "\u201cThe Daily Grind: Cash Needs and Labor Supply,\u201d",
+            "volume": "177",
+            "author": "Dupas",
+            "year": "2020",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2023092616531384500_bib30",
+            "article-title": "\u201cMicro-Foundations of Urban Agglomeration Economies,\u201d",
+            "volume-title": "Handbook of Regional and Urban Economics",
+            "author": "Duranton",
+            "year": "2004"
+        },
+        {
+            "key": "2023092616531384500_bib31",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cTwo-Sided Search in International Markets,\u201d",
+            "author": "Eaton",
+            "year": "2022",
+            "DOI": "10.3386/w29684"
+        },
+        {
+            "key": "2023092616531384500_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.2307/2297841",
+            "article-title": "\u201cMarkov-Perfect Industry Dynamics: A Framework for Empirical Work,\u201d",
+            "volume": "62",
+            "author": "Ericson",
+            "year": "1995",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023092616531384500_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1411",
+            "DOI": "10.3982/ECTA15213",
+            "article-title": "\u201cOptimal Transport Networks in Spatial Equilibrium,\u201d",
+            "volume": "88",
+            "author": "Fajgelbaum",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1093/restud/rdac014",
+            "article-title": "\u201cThe Emergence of Market Structure,\u201d",
+            "volume": "90",
+            "author": "Farboodi",
+            "year": "2023",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023092616531384500_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "2954",
+            "DOI": "10.1257/aer.20161720",
+            "article-title": "\u201cFrictions in a Competitive, Regulated Market: Evidence from Taxis,\u201d",
+            "volume": "109",
+            "author": "Fr\u00e9chette",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1106",
+            "DOI": "10.1257/aer.101.4.1106",
+            "article-title": "\u201cThe Role of Trading Frictions in Real Asset Markets,\u201d",
+            "volume": "101",
+            "author": "Gavazza",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1755",
+            "DOI": "10.3982/ECTA10847",
+            "article-title": "\u201cAn Empirical Equilibrium Model of a Decentralized Asset Market,\u201d",
+            "volume": "84",
+            "author": "Gavazza",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib38",
+            "author": "Ghili",
+            "year": "2021"
+        },
+        {
+            "key": "2023092616531384500_bib39",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cIndivisibilities in Distribution,\u201d",
+            "author": "Holmes",
+            "year": "2018",
+            "DOI": "10.3386/w24525"
+        },
+        {
+            "key": "2023092616531384500_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.2307/2951541",
+            "article-title": "\u201cEntry, Exit, and Firm Dynamics in Long Run Equilibrium,\u201d",
+            "volume": "60",
+            "author": "Hopenhayn",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.2307/2297382",
+            "article-title": "\u201cOn the Efficiency of Matching and Related Models of Search and Unemployment,\u201d",
+            "volume": "57",
+            "author": "Hosios",
+            "year": "1990",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023092616531384500_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1384",
+            "DOI": "10.1086/422562",
+            "article-title": "\u201cShipping the Good Apples Out? An Empirical Confirmation of the Alchian-Allen Conjecture,\u201d",
+            "volume": "112",
+            "author": "Hummels",
+            "year": "2004",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023092616531384500_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "564",
+            "DOI": "10.1257/aer.104.2.564",
+            "article-title": "\u201cTime to Build and Fluctuations in Bulk Shipping,\u201d",
+            "volume": "104",
+            "author": "Kalouptsidi",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib44",
+            "article-title": "\u201cBargaining and Welfare: A Dynamic Structural Analysis of the Autorickshaw Market,\u201d",
+            "author": "Keniston",
+            "year": "2011"
+        },
+        {
+            "key": "2023092616531384500_bib14a",
+            "article-title": "\u201cStrengthening MARPOL Implementation in African Ports through International Collaboration,,\u201d",
+            "volume-title": "Euroshore",
+            "author": "Koffi"
+        },
+        {
+            "key": "2023092616531384500_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.2307/1907301",
+            "article-title": "\u201cOptimum Utilization of the Transportation System,\u201d",
+            "volume": "17",
+            "author": "Koopmans",
+            "year": "1949",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib46",
+            "author": "Kreindler"
+        },
+        {
+            "key": "2023092616531384500_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "103411",
+            "DOI": "10.1016/j.jinteco.2020.103411",
+            "article-title": "\u201cGoods-Market Frictions and International Trade,\u201d",
+            "volume": "129",
+            "author": "Krolikowski",
+            "year": "2021",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "2023092616531384500_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "851",
+            "DOI": "10.1086/317674",
+            "article-title": "\u201cAn Alternative Approach to Search Frictions,\u201d",
+            "volume": "108",
+            "author": "Lagos",
+            "year": "2000",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023092616531384500_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1111/1468-2354.t01-2-00075",
+            "article-title": "\u201cAn Analysis of the Market for Taxicab Rides in New York City,\u201d",
+            "volume": "44",
+            "author": "Lagos",
+            "year": "2003",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib50",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cThe Welfare Cost of the Current Account Imbalance: A \u201cClean\u2019 Effect,\u201d",
+            "author": "Lee",
+            "year": "2020",
+            "DOI": "10.3386/w27276"
+        },
+        {
+            "key": "2023092616531384500_bib51",
+            "author": "Liu",
+            "year": "2019"
+        },
+        {
+            "key": "2023092616531384500_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1025",
+            "DOI": "10.1287/opre.2021.2178",
+            "article-title": "\u201cSpatio-Temporal Pricing for Ridesharing Platforms,\u201d",
+            "volume": "70",
+            "author": "Ma",
+            "year": "2022",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2023092616531384500_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.1086/262077",
+            "article-title": "\u201cCompetitive Search Equilibrium,\u201d",
+            "volume": "105",
+            "author": "Moen",
+            "year": "1997",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023092616531384500_bib54",
+            "first-page": "233",
+            "article-title": "\u201cThe Matching Process as a Noncooperative Bargaining Game,\u201d",
+            "volume-title": "The Economics of Information and Uncertainty",
+            "author": "Mortensen",
+            "year": "1982"
+        },
+        {
+            "key": "2023092616531384500_bib55",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Wage Dispersion: Why Are Similar Workers Paid Differently?",
+            "author": "Mortensen",
+            "year": "2003",
+            "DOI": "10.7551/mitpress/7147.001.0001"
+        },
+        {
+            "key": "2023092616531384500_bib56",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cCarpooling and the Economics of Self-Driving Cars,\u201d",
+            "author": "Ostrovsky",
+            "year": "2018",
+            "DOI": "10.3386/w24349"
+        },
+        {
+            "key": "2023092616531384500_bib57",
+            "volume-title": "Principles of Chartering",
+            "author": "Panayides",
+            "year": "2016"
+        },
+        {
+            "key": "2023092616531384500_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "390",
+            "DOI": "10.1257/jel.39.2.390",
+            "article-title": "\u201cLooking into the Black Box: A Survey of the Matching Function,\u201d",
+            "volume": "39",
+            "author": "Petrongolo",
+            "year": "2001",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023092616531384500_bib59",
+            "first-page": "676",
+            "article-title": "\u201cShort-Run Equilibrium Dynamics of Unemployment, Vacancies, and Real Wages,\u201d",
+            "volume": "75",
+            "author": "Pissarides",
+            "year": "1985",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023092616531384500_bib60",
+            "volume-title": "An Introduction to the World of Shipping through the Eyes of a Ship Management Company",
+            "author": "Plakantonaki",
+            "year": "2010"
+        },
+        {
+            "key": "2023092616531384500_bib60a",
+            "doi-asserted-by": "crossref",
+            "first-page": "1339",
+            "DOI": "10.1016/B978-0-444-59531-7.00020-X",
+            "article-title": "\u201cTransportation Costs and the Spatial Organization of Economic Activity,\u201d",
+            "author": "Redding",
+            "year": "2015",
+            "journal-title": "Handbook of Regional and Urban Economics"
+        },
+        {
+            "key": "2023092616531384500_bib61",
+            "author": "Rosaia",
+            "year": "2023"
+        },
+        {
+            "key": "2023092616531384500_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "999",
+            "DOI": "10.2307/1911259",
+            "article-title": "\u201cOptimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher,\u201d",
+            "volume": "55",
+            "author": "Rust",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023092616531384500_bib63",
+            "author": "Shapiro",
+            "year": "2018"
+        },
+        {
+            "key": "2023092616531384500_bib64",
+            "first-page": "153460131010",
+            "article-title": "\u201cMatching, Search, and Heterogeneity,\u201d",
+            "volume": "1",
+            "author": "Shimer",
+            "year": "2001",
+            "journal-title": "B.E. Journal of Macroeconomics"
+        },
+        {
+            "key": "2023092616531384500_bib65",
+            "volume-title": "Maritime Economics",
+            "author": "Stopford",
+            "year": "2009"
+        },
+        {
+            "key": "2023092616531384500_bib67",
+            "first-page": "127",
+            "article-title": "\u201cThe Round Trip Effect: Endogenous Transport Costs and International Trade,\u201d",
+            "volume": "14",
+            "author": "Wong",
+            "year": "2022",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2023092616531384500_bib66",
+            "author": "World Bank",
+            "year": "2018"
+        },
+        {
+            "key": "2023092616531384500_bib68",
+            "author": "WTO",
+            "year": "2015"
+        },
+        {
+            "key": "2023092616531384500_bib69",
+            "author": "Yang",
+            "year": "2022"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad023/51098907/qjad023.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/4/2451/51765302/qjad023.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/138/4/2451/51765302/qjad023.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                26
+            ]
+        ],
+        "date-time": "2023-09-26T16:53:43Z",
+        "timestamp": 1695747223000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/138/4/2451/7181331"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                27
+            ]
+        ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    27
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    26
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad023",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                27
+            ]
+        ]
+    }
+}

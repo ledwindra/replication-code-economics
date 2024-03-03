@@ -1,0 +1,710 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                26
+            ]
+        ],
+        "date-time": "2024-02-26T03:22:20Z",
+        "timestamp": 1708917740985
+    },
+    "reference-count": 48,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        9
+                    ]
+                ],
+                "date-time": "2022-07-09T00:00:00Z",
+                "timestamp": 1657324800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We present an approach to analyse learning outcomes in a broad class of misspecified environments, spanning both single-agent and social learning. We introduce a novel \u201cprediction accuracy\u201d order over subjective models and observe that this makes it possible to partially restore standard martingale convergence arguments that apply under correctly specified learning. Based on this, we derive general conditions to determine when beliefs in a given environment converge to some long-run belief either locally or globally (i.e. from some or all initial beliefs). We show that these conditions can be applied, first, to unify and generalize various convergence results in previously studied settings. Second, they enable us to analyse environments where learning is \u201cslow\u201d, such as costly information acquisition and sequential social learning. In such environments, we illustrate that even if agents learn the truth when they are correctly specified, vanishingly small amounts of misspecification can generate extreme failures of learning.</jats:p>",
+    "DOI": "10.1093/restud/rdac040",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                9
+            ]
+        ],
+        "date-time": "2022-07-09T14:03:21Z",
+        "timestamp": 1657375401000
+    },
+    "page": "781-814",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+        "Belief Convergence under Misspecified Learning: A Martingale Approach"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Mira",
+            "family": "Frick",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Ryota",
+            "family": "Iijima",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Yuhta",
+            "family": "Ishii",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Pennsylvania State University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023070901001624300_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.2307/2118364",
+            "article-title": "A Simple Model of Herd Behavior",
+            "volume": "107",
+            "author": "BANERJEE",
+            "year": "1992",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023070901001624300_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1214/aoms/1177699597",
+            "article-title": "Limiting Behavior of Posterior Distributions When the Model is Incorrect",
+            "volume": "37",
+            "author": "BERK",
+            "year": "1966",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2023070901001624300_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "992",
+            "DOI": "10.1086/261849",
+            "article-title": "A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades",
+            "volume": "100",
+            "author": "BIKHCHANDANI",
+            "year": "1992",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023070901001624300_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "222",
+            "DOI": "10.1016/j.jet.2016.01.011",
+            "article-title": "Informational Herding with Model Misspecification",
+            "volume": "163",
+            "author": "BOHREN",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023070901001624300_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "3025",
+            "DOI": "10.3982/ECTA15318",
+            "article-title": "Learning with Heterogeneous Misspecified Models: Characterization and Robustness",
+            "volume": "89",
+            "author": "BOHREN",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "3395",
+            "DOI": "10.1257/aer.20171829",
+            "article-title": "The Dynamics of Discrimination: Theory and Evidence",
+            "volume": "109",
+            "author": "BOHREN",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023070901001624300_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1111/1468-0262.00022",
+            "article-title": "Strategic Experimentation",
+            "volume": "67",
+            "author": "BOLTON",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B8",
+            "article-title": "Learning with Misattribution of Reference Dependence",
+            "author": "BUSHONG",
+            "year": "2019"
+        },
+        {
+            "key": "2023070901001624300_B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "421",
+            "DOI": "10.1006/jeth.2001.2960",
+            "article-title": "Another Look at the Radner\u2013Stiglitz Nonconcavity in the Value of Information",
+            "volume": "107",
+            "author": "CHADE",
+            "year": "2002",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023070901001624300_B10",
+            "volume-title": "Rational Herds: Economic Models of Social Learning",
+            "author": "CHAMLEY",
+            "year": "2004"
+        },
+        {
+            "key": "2023070901001624300_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "3589",
+            "DOI": "10.1257/aer.20160665",
+            "article-title": "Gresham\u2019s Law of Model Averaging",
+            "volume": "107",
+            "author": "CHO",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023070901001624300_B12",
+            "article-title": "A Bayesian Learning Model of Cyclical Actions under misspecification",
+            "author": "CONG",
+            "year": "2019"
+        },
+        {
+            "key": "2023070901001624300_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.3982/TE3388",
+            "article-title": "Network Structure and Naive Sequential Learning",
+            "volume": "15",
+            "author": "DASARATHA",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023070901001624300_B14",
+            "first-page": "114",
+            "article-title": "The Good News-Bad News effect: Asymmetric Processing of Objective Information about Yourself",
+            "volume": "3",
+            "author": "EIL",
+            "year": "2011",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023070901001624300_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1269",
+            "DOI": "10.1257/aer.98.4.1269",
+            "article-title": "Behavioral Equilibrium in Economies with Adverse Selection",
+            "volume": "98",
+            "author": "ESPONDA",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023070901001624300_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.3982/ECTA12609",
+            "article-title": "Berk\u2013Nash Equilibrium: A Framework for Modeling Agents with Misspecified Models",
+            "volume": "84",
+            "author": "ESPONDA",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "717",
+            "DOI": "10.3982/TE3843",
+            "article-title": "Equilibrium in Misspecified Markov Decision Processes",
+            "volume": "16",
+            "author": "ESPONDA",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023070901001624300_B18",
+            "doi-asserted-by": "crossref",
+            "article-title": "Asymptotic Behavior of Bayesian Learners with Misspecified Models",
+            "author": "ESPONDA",
+            "year": "2021",
+            "DOI": "10.1016/j.jet.2021.105260"
+        },
+        {
+            "key": "2023070901001624300_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1623",
+            "DOI": "10.1111/j.1468-0262.2005.00631.x",
+            "article-title": "Cursed Equilibrium",
+            "volume": "73",
+            "author": "EYSTER",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B20",
+            "first-page": "221",
+            "article-title": "Naive Herding in Rich-Information Settings",
+            "volume": "2",
+            "author": "EYSTER",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2023070901001624300_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2281",
+            "DOI": "10.3982/ECTA16981",
+            "article-title": "Misinterpreting Others and the Fragility of Social Learning",
+            "volume": "88",
+            "author": "FRICK",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B22",
+            "doi-asserted-by": "crossref",
+            "article-title": "Stability and Robustness in Misspecified Learning Models",
+            "author": "FRICK",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3600633"
+        },
+        {
+            "key": "2023070901001624300_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1065",
+            "DOI": "10.3982/ECTA18508",
+            "article-title": "Limit Points of Endogenous Misspecified Learning",
+            "volume": "89",
+            "author": "FUDENBERG",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B24",
+            "doi-asserted-by": "crossref",
+            "article-title": "Pathwise Concentration Bounds for Misspecified Bayesian Beliefs",
+            "author": "FUDENBERG",
+            "year": "2021",
+            "DOI": "10.2139/ssrn.3805083"
+        },
+        {
+            "key": "2023070901001624300_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1155",
+            "DOI": "10.3982/TE2480",
+            "article-title": "Active Learning with a Misspecified Prior",
+            "volume": "12",
+            "author": "FUDENBERG",
+            "year": "2017",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023070901001624300_B26",
+            "article-title": "Taste Projection in Models of Social Learning",
+            "author": "GAGNON-BARTSCH",
+            "year": "2017"
+        },
+        {
+            "key": "2023070901001624300_B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1007/s00199-005-0642-5",
+            "article-title": "Social Learning with Private and Common Values",
+            "volume": "28",
+            "author": "GOEREE",
+            "year": "2006",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2023070901001624300_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1016/j.jet.2017.11.009",
+            "article-title": "The Speed of Sequential Asymptotic Learning",
+            "volume": "173",
+            "author": "HANN-CARUTHERS",
+            "year": "2018",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023070901001624300_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1269",
+            "DOI": "10.3982/TE4657",
+            "article-title": "Mislearning from Censored Data: The Gambler\u2019s Fallacy in Optimal-Stopping Problems",
+            "volume": "17",
+            "author": "HE",
+            "year": "2022",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023070901001624300_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1159",
+            "DOI": "10.3982/ECTA14084",
+            "article-title": "Unrealistic Expectations and Misguided Learning",
+            "volume": "86",
+            "author": "HEIDHUES",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.3982/TE3558",
+            "article-title": "Convergence in Models of Misspecified Learning",
+            "volume": "16",
+            "author": "HEIDHUES",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2023070901001624300_B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.1016/j.jet.2003.12.003",
+            "article-title": "Analogy-based Expectation Equilibrium",
+            "volume": "123",
+            "author": "JEHIEL",
+            "year": "2005",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023070901001624300_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1016/j.geb.2017.12.020",
+            "article-title": "Information Diffusion in Networks with the Bayesian Peer Influence Heuristic",
+            "volume": "109",
+            "author": "LEVY",
+            "year": "2018",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2023070901001624300_B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.1016/0165-1889(84)90023-X",
+            "article-title": "Price Dispersion and Incomplete Learning in the Long Run",
+            "volume": "7",
+            "author": "MCLENNAN",
+            "year": "1984",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2023070901001624300_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1255",
+            "DOI": "10.2307/2938316",
+            "article-title": "Rationalizability, Learning, and Equilibrium in Games with Strategic Complementarities",
+            "volume": "58",
+            "author": "MILGROM",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B36",
+            "article-title": "Managing Self-Confidence: Theory and Experimental Evidence",
+            "author": "MOBIUS",
+            "year": "2014"
+        },
+        {
+            "key": "2023070901001624300_B37",
+            "article-title": "Macroeconomics with Learning and Misspecification: A General Theory and Applications",
+            "author": "MOLAVI",
+            "year": "2019"
+        },
+        {
+            "key": "2023070901001624300_B38",
+            "article-title": "Multi-player Bayesian Learning with Misspecified Models",
+            "author": "MUROOKA",
+            "year": "2021"
+        },
+        {
+            "key": "2023070901001624300_B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "416",
+            "DOI": "10.1016/0022-0531(91)90047-8",
+            "article-title": "Learning in Mis-specified Models and the Possibility of Cycles",
+            "volume": "55",
+            "author": "NYARKO",
+            "year": "1991",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2023070901001624300_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "504",
+            "DOI": "10.1257/aer.20130921",
+            "article-title": "Overconfidence in Political Behavior",
+            "volume": "105",
+            "author": "ORTOLEVA",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023070901001624300_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "775",
+            "DOI": "10.1162/003355302760193896",
+            "article-title": "Inference by Believers in the Law of Small Numbers",
+            "volume": "117",
+            "author": "RABIN",
+            "year": "2002",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023070901001624300_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "2141",
+            "DOI": "10.3982/ECTA15845",
+            "article-title": "On the Efficiency of Social Learning",
+            "volume": "87",
+            "author": "ROSENBERG",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1423",
+            "DOI": "10.1111/jeea.12104",
+            "article-title": "Selective Attention and Learning",
+            "volume": "12",
+            "author": "SCHWARTZSTEIN",
+            "year": "2014",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2023070901001624300_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1111/1468-0262.00113",
+            "article-title": "Pathological Outcomes of Observational Learning",
+            "volume": "68",
+            "author": "SMITH",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023070901001624300_B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1093/qje/qjw011",
+            "article-title": "Bayesian Networks and Boundedly Rational Expectations",
+            "volume": "131",
+            "author": "SPIEGLER",
+            "year": "2016",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023070901001624300_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.2307/2298060",
+            "article-title": "How Fast do Rational Agents Learn?",
+            "volume": "60",
+            "author": "VIVES",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2023070901001624300_B47",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Information and Learning in Markets: The Impact of Market Microstructure",
+            "author": "VIVES",
+            "year": "2010",
+            "DOI": "10.2307/j.ctt7tc3b"
+        },
+        {
+            "key": "2023070901001624300_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1007/s00182-007-0073-6",
+            "article-title": "A Fixed Point Characterization of the Dominance-Solvability of Lattice Games with Strategic Substitutes",
+            "volume": "36",
+            "author": "ZIMPER",
+            "year": "2007",
+            "journal-title": "International Journal of Game Theory"
+        }
+    ],
+    "container-title": [
+        "The Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac040/45195501/rdac040.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/2/781/49435102/rdac040.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/2/781/49435102/rdac040.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                9
+            ]
+        ],
+        "date-time": "2023-07-09T01:00:39Z",
+        "timestamp": 1688864439000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/2/781/6637526"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                9
+            ]
+        ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    7,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac040",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                7,
+                9
+            ]
+        ]
+    }
+}

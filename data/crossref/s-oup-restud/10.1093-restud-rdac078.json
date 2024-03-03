@@ -1,0 +1,860 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                27
+            ]
+        ],
+        "date-time": "2024-02-27T16:19:21Z",
+        "timestamp": 1709050761767
+    },
+    "reference-count": 65,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        13
+                    ]
+                ],
+                "date-time": "2022-12-13T00:00:00Z",
+                "timestamp": 1670889600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study whether long-term cumulative exposure to airborne small particulate matter (PM2.5) affects the probability that an individual receives a new diagnosis of Alzheimer's disease or related dementias. We track the health, residential location, and PM2.5 exposures of Americans aged sixty-five and above from 2001 through 2013. The expansion of Clean Air Act regulations led to quasi-random variation in individuals\u2019 subsequent exposures to PM2.5. We leverage these regulations to construct instrumental variables for individual-level decadal PM2.5 that we use within flexible probit models that also account for any potential sample selection based on survival. We find that a 1\u2005\u00b5g/m3 increase in decadal PM2.5 increases the probability of a new dementia diagnosis by an average of 2.15 percentage points (pp). All else equal, we find larger effects for women, older people, and people with more clinical risk factors for dementia. These effects persist below current regulatory thresholds.</jats:p>",
+    "DOI": "10.1093/restud/rdac078",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                13
+            ]
+        ],
+        "date-time": "2022-12-13T09:17:19Z",
+        "timestamp": 1670923039000
+    },
+    "page": "2188-2214",
+    "source": "Crossref",
+    "is-referenced-by-count": 9,
+    "title": [
+        "Hazed and Confused: The Effect of Air Pollution on Dementia"
+    ],
+    "prefix": "10.1093",
+    "volume": "90",
+    "author": [
+        {
+            "given": "Kelly C",
+            "family": "Bishop",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Arizona State University"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan D",
+            "family": "Ketcham",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Arizona State University"
+                }
+            ]
+        },
+        {
+            "given": "Nicolai V",
+            "family": "Kuminoff",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Arizona State University and NBER"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                13
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023090508161479800_rdac078-B1",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.envint.2021.106864",
+            "article-title": "Associations Between Air Pollution and Biomarkers of Alzheimer's Disease in Cognitively Unimpaired Individuals",
+            "volume": "157",
+            "author": "Alemany",
+            "year": "2021",
+            "journal-title": "Environment International"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B2",
+            "author": "Alzheimer's Association",
+            "year": "2019"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B3",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Mostly Harmless Econometrics: An Empiricist's Companion",
+            "author": "Angrist",
+            "year": "2009",
+            "DOI": "10.1515/9781400829828"
+        },
+        {
+            "issue": "4",
+            "key": "2023090508161479800_rdac078-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "827",
+            "DOI": "10.1086/698728",
+            "article-title": "Air Quality and Error Quantity: Pollution and Performance in a High-Skilled, Quality-Focused Occupation",
+            "volume": "5",
+            "author": "Archsmith",
+            "year": "2018",
+            "journal-title": "Journal of the Association of Environmental and Resource Economists"
+        },
+        {
+            "issue": "1",
+            "key": "2023090508161479800_rdac078-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "DOI": "10.1016/j.jeem.2008.12.004",
+            "article-title": "Measuring the Effects of the Clean Air Act Amendments on Ambient PM10 Concentrations: The Critical Importance of a Spatially Disaggregated Analysis",
+            "volume": "58",
+            "author": "Auffhammer",
+            "year": "2009",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "610",
+            "DOI": "10.1162/REST_a_00493",
+            "article-title": "Who Benefits from Environmental Regulation? Evidence from the Clean Air Act Amendments",
+            "volume": "97",
+            "author": "Bento",
+            "year": "2015",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "5",
+            "key": "2023090508161479800_rdac078-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "972",
+            "DOI": "10.1016/j.neuro.2012.08.014",
+            "article-title": "The Outdoor Air Pollution and Brain Health Workshop",
+            "volume": "33",
+            "author": "Block",
+            "year": "2012",
+            "journal-title": "NeuroToxicology"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B8",
+            "first-page": "312",
+            "article-title": "Endogeneity in Nonparametric and Semiparametric Regression Models",
+            "volume": "36",
+            "author": "Blundell",
+            "year": "2003",
+            "journal-title": "Econometric Society Monographs"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.1111/j.1467-937X.2004.00299.x",
+            "article-title": "Endogeneity in Semiparametric Binary Response Models",
+            "volume": "71",
+            "author": "Blundell",
+            "year": "2004",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "2023090508161479800_rdac078-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1038/tp.2016.280",
+            "article-title": "Particulate Air Pollutants, APOE Alleles and Their Contributions to Cognitive Impairment in Older Women and to Amyloidogenesis in Experimental Models",
+            "volume": "7",
+            "author": "Cacciottolo",
+            "year": "2017",
+            "journal-title": "Translational Psychiatry"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B11",
+            "author": "Centers for Medicare and Medicaid Services",
+            "year": "2022"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B12",
+            "author": "Centers for Medicare and Medicaid Services",
+            "year": "2022"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B13",
+            "author": "Centers for Medicare and Medicaid Services",
+            "year": "2022"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B14",
+            "author": "Centers for Medicare\u00a0 and Medicaid Services",
+            "year": "2012",
+            "journal-title": "Chronic Conditions among Medicare Beneficiaries, Chartbook"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B15",
+            "first-page": "141",
+            "article-title": "Particulate Pollution and the Productivity of Pear Packers",
+            "volume": "8",
+            "author": "Chang",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "376",
+            "DOI": "10.1086/427462",
+            "article-title": "Does Air Quality Matter? Evidence from the Housing Market",
+            "volume": "113",
+            "author": "Chay",
+            "year": "2005",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B17",
+            "first-page": "248",
+            "article-title": "Aging and Inequality in Income and Health",
+            "volume": "88",
+            "author": "Deaton",
+            "year": "1998",
+            "journal-title": "American Economic Review Papers and Proceedings"
+        },
+        {
+            "issue": "12",
+            "key": "2023090508161479800_rdac078-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "4178",
+            "DOI": "10.1257/aer.20180279",
+            "article-title": "The Mortality and Medical Costs of Air Pollution: Evidence from Changes in Wind Direction",
+            "volume": "109",
+            "author": "Deryugina",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "10",
+            "key": "2023090508161479800_rdac078-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2958",
+            "DOI": "10.1257/aer.20131002",
+            "article-title": "Defensive Investments and the Demand for Air Quality: Evidence from the NOx Budget Program",
+            "volume": "107",
+            "author": "Desch\u00eanes",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "26",
+            "key": "2023090508161479800_rdac078-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2513",
+            "DOI": "10.1056/NEJMoa1702747",
+            "article-title": "Air Pollution and Mortality in the Medicare Population",
+            "volume": "376",
+            "author": "Di",
+            "year": "2017",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "e1442",
+            "DOI": "10.1136/bmj.e1442",
+            "article-title": "Inverse Association Between Cancer and Alzheimer's Disease: Results from the Framingham Heart Study",
+            "volume": "344",
+            "author": "Driver",
+            "year": "2012",
+            "journal-title": "BMJ"
+        },
+        {
+            "issue": "4",
+            "key": "2023090508161479800_rdac078-B22",
+            "first-page": "36",
+            "article-title": "The Long Run Economic Consequences of High-Stakes Examinations: Evidence from Transitory Variation in Pollution",
+            "volume": "8",
+            "author": "Ebenstein",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "177",
+            "DOI": "10.1097/WAD.0000000000000086",
+            "article-title": "Cancer and Dementia: It's Complicated",
+            "volume": "29",
+            "author": "Ganguli",
+            "year": "2015",
+            "journal-title": "Alzheimer Disease and Associated Disorders"
+        },
+        {
+            "issue": "5",
+            "key": "2023090508161479800_rdac078-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.2307/1910996",
+            "article-title": "The Returns to Schooling: A Selectivity Bias Approach with a Continuous Choice Variable",
+            "volume": "52",
+            "author": "Garen",
+            "year": "1984",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "M117",
+            "DOI": "10.1093/gerona/52A.2.M117",
+            "article-title": "Heritability for Alzheimer\u2019s Disease: The Study of Dementia in Swedish Twins",
+            "volume": "52",
+            "author": "Gatz",
+            "year": "1997",
+            "journal-title": "The Journals of Gerontology Series A Biological Sciences and Medical Sciences"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B26",
+            "author": "Geolytics",
+            "year": "2022"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "689",
+            "DOI": "10.1257/jel.51.3.689",
+            "article-title": "Environment, Health, and Human Capital",
+            "volume": "51",
+            "author": "Graff-Zivin",
+            "year": "2013",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1257/pandp.20191063",
+            "article-title": "Discrimination in Ambient Air Pollution Monitoring?",
+            "volume": "109",
+            "author": "Grainger",
+            "year": "2019",
+            "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+            "issue": "7",
+            "key": "2023090508161479800_rdac078-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "801",
+            "DOI": "10.1001/jamaneurol.2019.4914",
+            "article-title": "Association Between Cardiovascular Disease and Long-Term Exposure to Air Pollution with the Risk of Dementia",
+            "volume": "77",
+            "author": "Grande",
+            "year": "2020",
+            "journal-title": "JAMA Neurology"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "e114",
+            "DOI": "10.1016/S2542-5196(18)30028-7",
+            "article-title": "Effect of Long-Term Exposure to Fine Particulate Matter on Lung Function Decline and Risk of Chronic Obstructive Pulmonary Disease in Taiwan: A Longitudinal, Cohort Study",
+            "volume": "2",
+            "author": "Guo",
+            "year": "2018",
+            "journal-title": "The Lancet Planetary Health"
+        },
+        {
+            "issue": "6",
+            "key": "2023090508161479800_rdac078-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.2307/1913827",
+            "article-title": "Specification Tests in Econometrics",
+            "volume": "46",
+            "author": "Hausman",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "2023090508161479800_rdac078-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "153",
+            "DOI": "10.2307/1912352",
+            "article-title": "Sample Selection Bias as a Specification Error",
+            "volume": "47",
+            "author": "Heckman",
+            "year": "1979",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "volume-title": "Drawing Inferences from Self-Selected Samples",
+            "author": "Heckman",
+            "year": "1986",
+            "DOI": "10.1007/978-1-4612-4976-4_7"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1001/jamaneurol.2020.3962",
+            "article-title": "Association Between Ambient Air Pollution and Amyloid Positron Emission Tomography Positivity in Older Adults with Cognitive Impairment",
+            "volume": "78",
+            "author": "Iaccarino",
+            "year": "2021",
+            "journal-title": "JAMA Neurology"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "849",
+            "DOI": "10.1086/691465",
+            "article-title": "Every Breath You Take-Every Dollar You\u2019ll Make: The Long-Term Consequences of the Clean Air Act of 1970",
+            "volume": "125",
+            "author": "Isen",
+            "year": "2017",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B36",
+            "volume-title": "A New Method for Identifying the Primary Care Treatability of Emergency Department Visits in a Medicare Population",
+            "author": "Jeffery",
+            "year": "2015"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B37",
+            "first-page": "1",
+            "article-title": "An Air Particulate Pollutant Induces Neuroinflammation and Neurodegeneration in Human Brain Models",
+            "volume": "8",
+            "author": "Kang",
+            "year": "2021",
+            "journal-title": "Advanced Science"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "105440",
+            "DOI": "10.1016/j.envint.2019.105440",
+            "article-title": "Long-Term Exposure to Ambient Air Pollution, APOE-\u03b54 Status, and Cognitive Decline in a Cohort of Older Adults in Northern Manhattan",
+            "volume": "136",
+            "author": "Kulick",
+            "year": "2020",
+            "journal-title": "Environment International"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1071",
+            "DOI": "10.1111/j.1467-937X.2009.00536.x",
+            "article-title": "Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects",
+            "volume": "76",
+            "author": "Lee",
+            "year": "2009",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.3233/JAD-181005",
+            "article-title": "Evaluation of Medicare Claims Data as a Tool to Identify Dementia",
+            "volume": "67",
+            "author": "Lee",
+            "year": "2019",
+            "journal-title": "Journal of Alzheimer\u2019s Disease"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B41",
+            "author": "Li",
+            "year": "2019"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B42",
+            "first-page": "100208",
+            "article-title": "Long-Term Effects of PM2.5 Components on Incident Dementia in the Northeastern United States",
+            "volume-title": "The Innovation",
+            "author": "Li",
+            "year": "2022"
+        },
+        {
+            "issue": "39",
+            "key": "2023090508161479800_rdac078-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "10797",
+            "DOI": "10.1073/pnas.1605941113",
+            "article-title": "Magnetite Pollution Nanoparticles in the Human Brain",
+            "volume": "113",
+            "author": "Maher",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B45",
+            "author": "McMillan",
+            "year": "2017"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "106376",
+            "DOI": "10.1016/j.envint.2020.106376",
+            "article-title": "Long-Term Exposure to Ambient Air Pollution and Risk of Dementia: Results of the Prospective Three-City Study",
+            "volume": "148",
+            "author": "Mortamais",
+            "year": "2021",
+            "journal-title": "Environmental International"
+        },
+        {
+            "issue": "3",
+            "key": "2023090508161479800_rdac078-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "659",
+            "DOI": "10.1162/REST_a_00171",
+            "article-title": "Identification with Imperfect Instruments",
+            "volume": "94",
+            "author": "Nevo",
+            "year": "2012",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "Supp. 5",
+            "key": "2023090508161479800_rdac078-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "e054700",
+            "DOI": "10.1002/alz.054700",
+            "article-title": "Associations Between Long-Term Air Pollution Exposure and Plasma Amyloid Beta in Very Old Adults",
+            "volume": "17",
+            "author": "Park",
+            "year": "2021",
+            "journal-title": "Alzheimer\u2019s & Dementia"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "S145",
+            "DOI": "10.3233/JAD-180631",
+            "article-title": "Air Pollution and Dementia: A Systematic Review",
+            "volume": "70",
+            "author": "Peters",
+            "year": "2019",
+            "journal-title": "Journal of Alzheimer\u2019s Disease"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "116303",
+            "DOI": "10.1016/j.envpol.2020.116303",
+            "article-title": "Long-Term Exposure to Fine Particulate Matter and Dementia Incidence: A Cohort Study in Hong Kong",
+            "volume": "271",
+            "author": "Ran",
+            "year": "2021",
+            "journal-title": "Environmental Pollution"
+        },
+        {
+            "issue": "200",
+            "key": "2023090508161479800_rdac078-B51",
+            "first-page": "e13",
+            "article-title": "Assessment of the Genetic Variance of Late-Onset Alzheimer\u2019s Disease",
+            "volume": "41",
+            "author": "Ridge",
+            "year": "2016",
+            "journal-title": "Neurobiology of Aging"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1016/0304-4076(88)90063-2",
+            "article-title": "Limited Information Estimators and Exogeneity Tests for Simultaneous Probit Models",
+            "volume": "39",
+            "author": "Rivers",
+            "year": "1988",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "768",
+            "DOI": "10.1093/restud/rdv043",
+            "article-title": "Airports, Air Pollution, and Contemporaneous Health",
+            "volume": "83",
+            "author": "Schlenker",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "6754",
+            "DOI": "10.1038/s41467-021-27049-2",
+            "article-title": "A National Cohort Study (2000\u20132018) of Long-Term Air Pollution Exposure and Incident Dementia in Older Adults in the United States",
+            "volume": "12",
+            "author": "Shi",
+            "year": "2021",
+            "journal-title": "Nature Communications"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "e557",
+            "DOI": "10.1016/S2542-5196(20)30227-8",
+            "article-title": "Long-Term Effects of PM2.5 on Neurological Disorders in the American Medicare Population: A Longitudinal Cohort Study",
+            "volume": "4",
+            "author": "Shi",
+            "year": "2020",
+            "journal-title": "The Lancet Planetary Health"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B56",
+            "author": "Shin",
+            "year": "2019"
+        },
+        {
+            "issue": "6323",
+            "key": "2023090508161479800_rdac078-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "342",
+            "DOI": "10.1126/science.355.6323.342",
+            "article-title": "The Polluted Brain",
+            "volume": "355",
+            "author": "Underwood",
+            "year": "2017",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B58",
+            "author": "United States Census Bureau",
+            "year": "2022"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B59",
+            "author": "United States Environmental Protection Agency",
+            "year": "2005"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B60",
+            "author": "United States Environmental Protection Agency",
+            "year": "2022"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B61",
+            "author": "United States Environmental Protection Agency",
+            "year": "2022"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1073/pnas.2107833119",
+            "article-title": "Association of Improved Air Quality with Lower Dementia Risk in Older Women",
+            "volume": "119",
+            "author": "Wang",
+            "year": "2022",
+            "journal-title": "PNAS"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1161",
+            "DOI": "10.1161/STROKEAHA.114.008348",
+            "article-title": "Long-Term Exposure to Fine Particulate Matter, Residential Proximity to Major Roads and Measures of Brain Structure",
+            "volume": "46",
+            "author": "Wilker",
+            "year": "2015",
+            "journal-title": "Stroke A Journal of Cerebral Circulation"
+        },
+        {
+            "issue": "2",
+            "key": "2023090508161479800_rdac078-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "420",
+            "DOI": "10.3368/jhr.50.2.420",
+            "article-title": "Control Function Methods in Applied Econometrics",
+            "volume": "50",
+            "author": "Wooldridge",
+            "year": "2015",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B65",
+            "volume-title": "International Statistical Classification of Diseases and Related Health Problems. 10th Rev. Vols. I\u2013III",
+            "author": "World Health Organization",
+            "year": "2011"
+        },
+        {
+            "key": "2023090508161479800_rdac078-B66",
+            "article-title": "Women\u2019s Health Initiative. PM2.5 Associated with Gray Matter Atrophy Reflecting Increased Alzheimer's risk in Older Women",
+            "author": "Younan",
+            "year": "2020",
+            "journal-title": "Neurology"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdac078/50448353/rdac078.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/5/2188/51355737/rdac078.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/90/5/2188/51355737/rdac078.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2023-09-05T08:17:02Z",
+        "timestamp": 1693901822000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/90/5/2188/6889625"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                13
+            ]
+        ]
+    },
+    "references-count": 65,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    12,
+                    13
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdac078",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                12,
+                13
+            ]
+        ]
+    }
+}
