@@ -1,0 +1,588 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2024-01-12T05:09:41Z",
+        "timestamp": 1705036181781
+    },
+    "reference-count": 39,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        4
+                    ]
+                ],
+                "date-time": "2023-03-04T00:00:00Z",
+                "timestamp": 1677888000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                12
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper is concerned with possible model misspecification in moment inequality models. Two issues are addressed. First, standard tests and confidence sets for the true parameter in the moment inequality literature are not robust to model misspecification in the sense that they exhibit spurious precision when the identified set is empty. This paper introduces tests and confidence sets that provide correct asymptotic inference for a pseudo-true parameter in such scenarios, and hence, do not suffer from spurious precision. Second, specification tests have relatively low power against a range of misspecified models. Thus, failure to reject the null of correct specification does not necessarily provide evidence of correct specification. That is, model specification tests are subject to the problem that absence of evidence is not evidence of absence. This paper develops new diagnostics for model misspecification in moment inequality models that do not suffer from this problem.</jats:p>",
+    "DOI": "10.1093/restud/rdad033",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                1
+            ]
+        ],
+        "date-time": "2023-03-01T22:16:13Z",
+        "timestamp": 1677708973000
+    },
+    "page": "45-76",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Misspecified Moment Inequality Models: Inference and Diagnostics"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Donald W K",
+            "family": "Andrews",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cowles Foundation, Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Soonwoo",
+            "family": "Kwon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Brown University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024011200243605900_rdad033-B1",
+            "author": "Allen",
+            "year": "2019"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1111/1468-0262.00114",
+            "article-title": "Inconsistency of the Bootstrap When a Parameter Is on the Boundary of the Parameter Space",
+            "volume": "68",
+            "author": "Andrews",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2805",
+            "DOI": "10.3982/ECTA8166",
+            "article-title": "Inference for Parameters Defined by Moment Inequalities: A Recommended Moment Selection Procedure",
+            "volume": "80",
+            "author": "Andrews",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1111/1468-0262.00092",
+            "article-title": "A Three-step Method for Choosing the Number of Bootstrap Repetitions",
+            "volume": "68",
+            "author": "Andrews",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/S0304-4076(01)00047-1",
+            "article-title": "Evaluation of a Three-step Method for Choosing the Number of Bootstrap Repetitions",
+            "volume": "103",
+            "author": "Andrews",
+            "year": "2001",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1017/S0266466608090257",
+            "article-title": "Validity of Subsampling and \u201cPlug-in Asymptotic\u201d Inference for Parameters Defined by Moment Inequalities",
+            "volume": "25",
+            "author": "Andrews",
+            "year": "2009",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B7",
+            "author": "Andrews",
+            "year": "2019"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.3982/ECTA7502",
+            "article-title": "Inference for Parameters Defined by Moment Inequalities Using Generalized Moment Selection",
+            "volume": "78",
+            "author": "Andrews",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "735",
+            "DOI": "10.3982/ECTA8056",
+            "article-title": "Bootstrap Inference in Partially Identified Models Defined by Moment Inequalities: Coverage of the Identified Set",
+            "volume": "78",
+            "author": "Bugni",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1741",
+            "DOI": "10.3982/ECTA9604",
+            "article-title": "Distortions of Asymptotic Confidence Size in Locally Misspecified Moment Inequality Models",
+            "volume": "80",
+            "author": "Bugni",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1016/j.jeconom.2014.10.013",
+            "article-title": "Specification Tests for Partially Identified Models Defined by Moment Inequalities",
+            "volume": "185",
+            "author": "Bugni",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE490",
+            "article-title": "Inference for Subvectors and Other Functions of Partially Identified Parameters",
+            "volume": "8",
+            "author": "Bugni",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1016/j.jeconom.2009.11.009",
+            "article-title": "EL Inference for Partially Identified Models: Large Deviations Optimality and Bootstrap Validity",
+            "volume": "156",
+            "author": "Canay",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B14",
+            "author": "Canay",
+            "year": "2016"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1965",
+            "DOI": "10.3982/ECTA14525",
+            "article-title": "Monte Carlo Confidence Sets for Identified Sets",
+            "volume": "86",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1867",
+            "DOI": "10.1093/restud/rdy065",
+            "article-title": "Inference on Causal and Structural Parameters Using Moment Inequalities",
+            "volume": "86",
+            "author": "Chernozhukov",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1111/j.1468-0262.2007.00794.x",
+            "article-title": "Estimation and Confidence Regions for Parameter Sets in Econometric Models",
+            "volume": "75",
+            "author": "Chernozhukov",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B18",
+            "author": "Chiburis",
+            "year": "2009"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B19",
+            "author": "Cox",
+            "year": "2019"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1753",
+            "DOI": "10.1093/qje/qjy015",
+            "article-title": "What Do Exporters Know?",
+            "volume": "133",
+            "author": "Dickstein",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B21",
+            "first-page": "54",
+            "article-title": "Bootstrap Methods for Standard Errors, Confidence Intervals, and Other Measures of Statistical Accuracy",
+            "volume": "1",
+            "author": "Efron",
+            "year": "1986",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "186",
+            "DOI": "10.1016/j.jeconom.2009.01.010",
+            "article-title": "A Test of Non-identifying Restrictions and Confidence Regions for Partially Identified Parameters",
+            "volume": "152",
+            "author": "Galichon",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1016/j.econlet.2007.09.002",
+            "article-title": "Specification Testing under Moment Inequalities",
+            "volume": "2",
+            "author": "Guggenberger",
+            "year": "2008",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "3841",
+            "DOI": "10.1257/aer.104.12.3841",
+            "article-title": "Hospital Choices, Hospital Prices, and Financial Incentives to Physicians",
+            "volume": "104",
+            "author": "Ho",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1397",
+            "DOI": "10.3982/ECTA14075",
+            "article-title": "Confidence Intervals for Projections of Partially Identified Parameters",
+            "volume": "87",
+            "author": "Kaido",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B26",
+            "author": "Kaido",
+            "year": "2013"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B27",
+            "author": "K\u00e9dagni",
+            "year": "2021"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.3982/QE399",
+            "article-title": "Bayesian Inference in a Class of Partially Identified Models",
+            "volume": "7",
+            "author": "Kline",
+            "year": "2016",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.3982/ECTA17969",
+            "article-title": "Salvaging Falsified Instrumental Variables Models",
+            "volume": "89",
+            "author": "Masten",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B30",
+            "author": "Molinari",
+            "year": "2020"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1783",
+            "DOI": "10.3982/ECTA7944",
+            "article-title": "Alternative Models for Moment Inequalities",
+            "volume": "78",
+            "author": "Pakes",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA6865",
+            "article-title": "Moment Inequalities and Their Application",
+            "volume": "83",
+            "author": "Pakes",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "186",
+            "DOI": "10.1111/j.1368-423X.2010.00332.x",
+            "article-title": "Misspecification in Moment Inequality Models: Back to Moment Equalities?",
+            "volume": "14",
+            "author": "Ponomareva",
+            "year": "2011",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2786",
+            "DOI": "10.1016/j.jspi.2008.03.015",
+            "article-title": "Inference for Identifiable Parameters in Partially Identified Econometric Models",
+            "volume": "138",
+            "author": "Romano",
+            "year": "2008",
+            "journal-title": "Journal of Statistical Inference and Planning"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.3982/ECTA6706",
+            "article-title": "Inference for the Identified Set in Partially Identified Econometric Models",
+            "volume": "78",
+            "author": "Romano",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1979",
+            "DOI": "10.3982/ECTA11011",
+            "article-title": "A Practical Two-Step Method for Testing Moment Inequalities",
+            "volume": "82",
+            "author": "Romano",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.jeconom.2008.08.001",
+            "article-title": "Confidence Sets for Partially Identified Parameters That Satisfy a Finite Number of Moment Inequalities",
+            "volume": "146",
+            "author": "Rosen",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.3982/ECTA7493",
+            "article-title": "Inference in Nonparametric Instrumental Variables with Partial Identification",
+            "volume": "80",
+            "author": "Santos",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011200243605900_rdad033-B39",
+            "author": "Stoye",
+            "year": "2020"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad033/50448769/rdad033.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/1/45/55388891/rdad033.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/1/45/55388891/rdad033.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                12
+            ]
+        ],
+        "date-time": "2024-01-12T00:26:14Z",
+        "timestamp": 1705019174000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/1/45/7069647"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                4
+            ]
+        ]
+    },
+    "references-count": 39,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    3,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    12
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad033",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                4
+            ]
+        ]
+    }
+}

@@ -1,0 +1,829 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                3
+            ]
+        ],
+        "date-time": "2024-04-03T21:40:33Z",
+        "timestamp": 1712180433534
+    },
+    "reference-count": 55,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        4,
+                        6
+                    ]
+                ],
+                "date-time": "2023-04-06T00:00:00Z",
+                "timestamp": 1680739200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "name": "Spanish Ministry of Economy and Competitiveness"
+        },
+        {
+            "name": "Severo Ochoa Programme"
+        },
+        {
+            "name": "Centres of Excellence in R&D",
+            "award": [
+                "CEX2019-000915-S"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100002809",
+            "name": "Generalitat de Catalunya",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "name": "CERCA and SGR Programme",
+            "award": [
+                "2017-SGR-1393"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100011033",
+            "name": "Spanish State Research Agency",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/501100004895",
+            "name": "European Social Fund",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "RYC2019-027607-I/AEI/10.13039/501100011033"
+            ]
+        },
+        {
+            "DOI": "10.13039/100010663",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "name": "European Union's Horizon 2020 research and innovation",
+            "award": [
+                "INFOMAK - 948432"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study the problem of a seller (e.g. a bank) who is privately informed about the quality of her asset and wants to exploit gains from trade with uninformed buyers (e.g. investors) by issuing securities backed by her asset cash flows. In our setting, buyers post menus of contracts to screen the seller, but the seller cannot commit to trade with only one buyer, i.e. markets are non-exclusive. We show that non-exclusive markets behave very differently from exclusive ones: (1) separating contracts are never part of equilibrium; (2) mispricing of claims faced by the seller is always greater than in exclusive markets; (3) there is always a semi-pooling equilibrium where all sellers issue the same debt contract priced at average-valuation, and sellers of low-quality assets issue remaining cash flows at low-valuation; (4) market liquidity can be higher or lower than in exclusive markets, but (5) the average quality of originated assets is always lower. Our model\u2019s predictions are consistent with empirical evidence on the issuance and pricing of mortgage-backed securities, and we use the theory to evaluate recent reforms aimed at enhancing transparency and exclusivity in markets.</jats:p>",
+    "DOI": "10.1093/restud/rdad038",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                6
+            ]
+        ],
+        "date-time": "2023-04-06T13:45:00Z",
+        "timestamp": 1680788700000
+    },
+    "page": "690-719",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Security Design in Non-Exclusive Markets with Asymmetric Information"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Vladimir",
+            "family": "Asriyan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "ICREA, CREI, UPF, and BSE"
+                }
+            ]
+        },
+        {
+            "given": "Victoria",
+            "family": "Vanasco",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CREI, UPF, and BSE"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                6
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024040321214259500_rdad038-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1111/jofi.12588",
+            "article-title": "The Leverage Ratchet Effect",
+            "volume": "73",
+            "author": "Admati",
+            "year": "2018",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "488",
+            "DOI": "10.2307/1879431",
+            "article-title": "The Market for Lemons: Quality Uncertainty and the Market Mechanism",
+            "volume": "84",
+            "author": "Akerlof",
+            "year": "1970",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B3",
+            "author": "Ales",
+            "year": "2009"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "362",
+            "DOI": "10.1016/j.jet.2016.09.006",
+            "article-title": "Non-Exclusive Dynamic Contracts, Competition, and the Limits of Insurance",
+            "volume": "166",
+            "author": "Ales",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B5",
+            "first-page": "179",
+            "article-title": "Moral Hazard and Nonmarket Institutions: Dysfunctional Crowding Out of Peer Monitoring?",
+            "volume": "81",
+            "author": "Arnott",
+            "year": "1991",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.1016/j.jfineco.2019.04.009",
+            "article-title": "Does Skin-in-the-Game Affect Security Performance?",
+            "volume": "134",
+            "author": "Ashcraft",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2007",
+            "DOI": "10.1257/aer.20151714",
+            "article-title": "Information Spillovers in Asset Markets with Correlated Values",
+            "volume": "107",
+            "author": "Asriyan",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "3813",
+            "DOI": "10.1257/aer.20180998",
+            "article-title": "Liquidity Sentiments",
+            "volume": "109",
+            "author": "Asriyan",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "105124",
+            "DOI": "10.1016/j.jet.2020.105124",
+            "article-title": "Aggregation and Design of Information in Asset Markets with Adverse Selection",
+            "volume": "191",
+            "author": "Asriyan",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1869",
+            "DOI": "10.3982/ECTA8665",
+            "article-title": "Nonexclusive Competition in the Market for Lemons",
+            "volume": "79",
+            "author": "Attar",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/TE1126",
+            "article-title": "Nonexclusive Competition Under Adverse Selection",
+            "volume": "9",
+            "author": "Attar",
+            "year": "2014",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2587",
+            "DOI": "10.1111/j.1540-6261.2007.01287.x",
+            "article-title": "Security Design with Investor Private Information",
+            "volume": "62",
+            "author": "Axelson",
+            "year": "2007",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1111/j.1467-937X.2005.00345.x",
+            "article-title": "Strategic Liquidity Supply and Security Design",
+            "volume": "72",
+            "author": "Biais",
+            "year": "2005",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1006/jeth.1999.2514",
+            "article-title": "Competitive Equilibria with Asymmetric Information",
+            "volume": "87",
+            "author": "Bisin",
+            "year": "1999",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1016/S1094-2025(02)00008-X",
+            "article-title": "Competitive Markets for Non-Exclusive Contracts with Adverse Selection: The Role of Entry Fees",
+            "volume": "6",
+            "author": "Bisin",
+            "year": "2003",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B16",
+            "author": "Caramp",
+            "year": "2023"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1597",
+            "DOI": "10.1111/jofi.12161",
+            "article-title": "Skin in the Game and Moral Hazard",
+            "volume": "64",
+            "author": "Chemla",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1037",
+            "DOI": "10.1111/jofi.12866",
+            "article-title": "Securitization, Ratings, and Credit Supply",
+            "volume": "75",
+            "author": "Daley",
+            "year": "2020",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B19",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/rfs/hhad013",
+            "article-title": "Designing Securities for Scrutiny",
+            "author": "Daley",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B20",
+            "author": "Dang",
+            "year": "2013"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1005",
+            "DOI": "10.1257/aer.20140782",
+            "article-title": "Banks as Secret Keepers",
+            "volume": "107",
+            "author": "Dang",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "367",
+            "DOI": "10.1111/j.1538-4616.2011.00491.x",
+            "article-title": "Credit Booms and Lending Standards: Evidence from the Subprime Mortgage Market",
+            "volume": "44",
+            "author": "Dell\u2019Ariccia",
+            "year": "2012",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/hhi008",
+            "article-title": "The Pooling and Tranching of Securities: A Model of Informed Intermediation",
+            "volume": "18",
+            "author": "DeMarzo",
+            "year": "2005",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1111/1468-0262.00004",
+            "article-title": "A Liquidity-Based Model of Security Design",
+            "volume": "67",
+            "author": "DeMarzo",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "5841",
+            "DOI": "10.1093/rfs/hhaa147",
+            "article-title": "Portfolio Liquidity and Security Design with Private Information",
+            "volume": "34",
+            "author": "DeMarzo",
+            "year": "2021",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1195",
+            "DOI": "10.1111/jofi.13001",
+            "article-title": "Leverage Dynamics Without Commitment",
+            "volume": "76",
+            "author": "DeMarzo",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.1016/j.jfineco.2019.05.005",
+            "article-title": "The Paradox of Pledgeability",
+            "volume": "137",
+            "author": "Donaldson",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B28",
+            "author": "Dubey",
+            "year": "2019"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1103",
+            "DOI": "10.3982/TE2237",
+            "article-title": "Transparency and Distressed Sales Under Asymmetric Information",
+            "volume": "11",
+            "author": "Fuchs",
+            "year": "2016",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1016/j.jmoneco.2018.02.006",
+            "article-title": "Asset Quality Cycles",
+            "volume": "95",
+            "author": "Fukui",
+            "year": "2018",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.1111/j.1540-6261.1994.tb02450.x",
+            "article-title": "Is the Electronic Open Limit Order Book Inevitable?",
+            "volume": "49",
+            "author": "Glosten",
+            "year": "1994",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1111/j.1540-6261.1990.tb05080.x",
+            "article-title": "Financial Intermediaries and Liquidity Creation",
+            "volume": "45",
+            "author": "Gorton",
+            "year": "1990",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1016/0022-0531(88)90155-X",
+            "article-title": "A Note on the Specification of Interfirm Communication in Insurance Markets with Adverse Selection",
+            "volume": "46",
+            "author": "Hellwig",
+            "year": "1988",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "394",
+            "DOI": "10.1016/0022-0531(78)90102-3",
+            "article-title": "Equilibria in Monopolistically Competitive Insurance Markets",
+            "volume": "19",
+            "author": "Jaynes",
+            "year": "1978",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1162/qjec.2010.125.1.307",
+            "article-title": "Did Securitization Lead to Lax Screening? Evidence from Subprime Loans",
+            "volume": "125",
+            "author": "Keys",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "144",
+            "DOI": "10.1016/j.jebo.2022.10.015",
+            "article-title": "Bilateral Information Disclosure in Adverse Selection Markets with Nonexclusive Competition",
+            "volume": "205",
+            "author": "Kosenko",
+            "year": "2023",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.3982/ECTA12099",
+            "article-title": "Asset Markets with Heterogeneous Information",
+            "volume": "84",
+            "author": "Kurlat",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.2307/2326770",
+            "article-title": "Informational Asymmetries, Financial Structure, and Financial Intermediation",
+            "volume": "32",
+            "author": "Leland",
+            "year": "1977",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "105381",
+            "DOI": "10.1016/j.jet.2021.105381",
+            "article-title": "Security Design Without Verifiable Retention",
+            "volume": "200",
+            "author": "Li",
+            "year": "2022",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.1162/qjec.2009.124.4.1449",
+            "article-title": "The Consequences of Mortgage Credit Expansion: Evidence from the US Mortgage Default Crisis",
+            "volume": "124",
+            "author": "Mian",
+            "year": "2009",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "875",
+            "DOI": "10.1007/s00199-018-1101-4",
+            "article-title": "Contract Withdrawals and Equilibrium in Competitive Markets with Adverse Selection",
+            "volume": "67",
+            "author": "Mimra",
+            "year": "2019",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "394",
+            "DOI": "10.2307/3003294",
+            "article-title": "The Rat Race and Internal Labor Markets",
+            "volume": "8",
+            "author": "Miyazaki",
+            "year": "1977",
+            "journal-title": "The Bell Journal of Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/7.1.1",
+            "article-title": "Optimal Design of Securities Under Asymmetric Information",
+            "volume": "7",
+            "author": "Nachman",
+            "year": "1994",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1111/iere.12054",
+            "article-title": "A Game Theoretic Foundation of Competitive Equilibria with Adverse Selection",
+            "volume": "55",
+            "author": "Netzer",
+            "year": "2014",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B45",
+            "author": "Neuhann",
+            "year": "2019"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1291",
+            "DOI": "10.1111/j.1540-6261.2008.01358.x",
+            "article-title": "Loan Sales and Relationship Banking",
+            "volume": "63",
+            "author": "Parlour",
+            "year": "2008",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1311",
+            "DOI": "10.1257/aer.91.5.1311",
+            "article-title": "Competition in Loan Contracts",
+            "volume": "91",
+            "author": "Parlour",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.2307/1881793",
+            "article-title": "Overinsurance and Public Provision of Insurance: The Roles of Moral Hazard and Adverse Selection",
+            "volume": "88",
+            "author": "Pauly",
+            "year": "1974",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.2307/1914187",
+            "article-title": "Informational Equilibrium",
+            "volume": "47",
+            "author": "Riley",
+            "year": "1979",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B50",
+            "author": "Rothschild",
+            "year": "1978"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1027",
+            "DOI": "10.1162/00335530152466304",
+            "article-title": "Competition Among Exchanges",
+            "volume": "116",
+            "author": "Santos",
+            "year": "2001",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "436",
+            "DOI": "10.1257/aer.91.2.436",
+            "article-title": "Financial Intermediation Without Exclusivity",
+            "volume": "91",
+            "author": "Santos",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1016/0047-2727(78)90055-5",
+            "article-title": "Product Differentiation and Performance in Insurance Markets",
+            "volume": "10",
+            "author": "Spence",
+            "year": "1978",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1937",
+            "DOI": "10.1111/jofi.12519",
+            "article-title": "The Downside of Asset Screening for Market Liquidity",
+            "volume": "72",
+            "author": "Vanasco",
+            "year": "2017",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2024040321214259500_rdad038-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1016/0022-0531(77)90004-7",
+            "article-title": "A Model of Insurance Markets with Incomplete Information",
+            "volume": "16",
+            "author": "Wilson",
+            "year": "1977",
+            "journal-title": "Journal of Economic Theory"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad038/50448831/rdad038.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/2/690/57146317/rdad038.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/2/690/57146317/rdad038.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                3
+            ]
+        ],
+        "date-time": "2024-04-03T21:22:22Z",
+        "timestamp": 1712179342000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/2/690/7109876"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                6
+            ]
+        ]
+    },
+    "references-count": 55,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    4,
+                    6
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad038",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                6
+            ]
+        ]
+    }
+}

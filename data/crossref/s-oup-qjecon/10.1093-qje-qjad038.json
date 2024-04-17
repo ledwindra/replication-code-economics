@@ -1,0 +1,503 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                25
+            ]
+        ],
+        "date-time": "2024-03-25T15:20:32Z",
+        "timestamp": 1711380032962
+    },
+    "reference-count": 28,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        5
+                    ]
+                ],
+                "date-time": "2023-09-05T00:00:00Z",
+                "timestamp": 1693872000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The money metric utility function is an essential tool for calculating welfare-relevant growth and inflation. We show how to recover it from repeated cross-sectional data without making parametric assumptions about preferences. We do this by solving the following recursive problem. Given compensated demand, we construct money metric utility by integration. Given money metric utility, we construct compensated demand by matching households over time whose money metric utility value is the same. We illustrate our method using household consumption survey data from the United Kingdom from 1974 to 2017 and find that real consumption calculated using official aggregate inflation statistics overstates money metric utility in 1974 pounds for the poorest households by around 0.5% a year and understates it by around a third of a percentage point per year for the richest households. We extend our method to allow for missing or mismeasured prices, assuming preferences are separable between goods with well-measured prices and the rest. We discuss how our results change if the prices of some service sectors are mismeasured.</jats:p>",
+    "DOI": "10.1093/qje/qjad038",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                4
+            ]
+        ],
+        "date-time": "2023-09-04T04:24:29Z",
+        "timestamp": 1693801469000
+    },
+    "page": "533-573",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Measuring Welfare by Matching Households across Time"
+    ],
+    "prefix": "10.1093",
+    "volume": "139",
+    "author": [
+        {
+            "given": "David R",
+            "family": "Baqaee",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California , Los Angeles, United States"
+                }
+            ]
+        },
+        {
+            "given": "Ariel T",
+            "family": "Burstein",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California , Los Angeles, United States"
+                }
+            ]
+        },
+        {
+            "given": "Yasutaka",
+            "family": "Koike-Mori",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California , Los Angeles, United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024010809114173900_bib1",
+            "first-page": "419",
+            "article-title": "Measuring Welfare and Inequality with Incomplete Price Information",
+            "volume": "139",
+            "author": "Atkin",
+            "year": "2024",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024010809114173900_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1162/003465397557015",
+            "article-title": "Quadratic Engel Curves and Consumer Demand",
+            "volume": "79",
+            "author": "Banks",
+            "year": "1997",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2024010809114173900_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.1093/qje/qjac042",
+            "article-title": "Welfare and Output with Income Effects and Taste Shocks",
+            "volume": "138",
+            "author": "Baqaee",
+            "year": "2023",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024010809114173900_bib4",
+            "article-title": "\u201cReplication Data for: \u2018Measuring Welfare by Matching Households across Time.\u201d",
+            "author": "Baqaee",
+            "year": "2023"
+        },
+        {
+            "key": "2024010809114173900_bib5",
+            "first-page": "51",
+            "article-title": "Separability: A Survey",
+            "volume": "1",
+            "author": "Blackorby",
+            "year": "1998",
+            "journal-title": "Handbook of Utility Theory"
+        },
+        {
+            "key": "2024010809114173900_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1111/1468-0262.00394",
+            "article-title": "Nonparametric Engel Curves and Revealed Preference",
+            "volume": "71",
+            "author": "Blundell",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1227",
+            "DOI": "10.3982/ECTA6069",
+            "article-title": "Best Nonparametric Bounds on Demand Responses",
+            "volume": "76",
+            "author": "Blundell",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2167",
+            "DOI": "10.3982/ECTA11354",
+            "article-title": "Structural Change and the Kaldor Facts in a Growth Model with Relative Price Effects and Non-Gorman Preferences",
+            "volume": "82",
+            "author": "Boppart",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1393",
+            "DOI": "10.2307/1913388",
+            "article-title": "\u201cThe Economic Theory of Index Numbers and the Measurement of Input, Output, and Productivity,\u201d",
+            "author": "Caves",
+            "year": "1982",
+            "journal-title": "Econometrica, 50"
+        },
+        {
+            "key": "2024010809114173900_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.3982/ECTA16317",
+            "article-title": "Structural Change with Long-Run Income and Price Effects",
+            "volume": "89",
+            "author": "Comin",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1288",
+            "DOI": "10.1086/323279",
+            "article-title": "Estimating Real Income in the United States from 1888 to 1994: Correcting CPI Bias using Engel Curves",
+            "volume": "109",
+            "author": "Costa",
+            "year": "2001",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024010809114173900_bib12",
+            "first-page": "312",
+            "article-title": "An Almost Ideal Demand System",
+            "volume": "70",
+            "author": "Deaton",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114173900_bib13",
+            "first-page": "49",
+            "article-title": "L\u2019indice Mon\u00e9taire et la Th\u00e9orie de la Monnaie",
+            "volume": "40",
+            "author": "Divisia",
+            "year": "1926",
+            "journal-title": "Revue d\u2019\u00e9conomie Politique"
+        },
+        {
+            "key": "2024010809114173900_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "721",
+            "DOI": "10.1086/662628",
+            "article-title": "Income Distribution, Product Quality, and International Trade",
+            "volume": "119",
+            "author": "Fajgelbaum",
+            "year": "2011",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024010809114173900_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "105471",
+            "DOI": "10.1016/j.jet.2022.105471",
+            "article-title": "Generalized Separability and Integrability: Consumer Demand with a Price Aggregator",
+            "volume": "203",
+            "author": "Fally",
+            "year": "2022",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024010809114173900_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1457",
+            "DOI": "10.3982/ECTA20964",
+            "article-title": "Growing Like India\u2014The Unequal Effects of Service-Led Growth",
+            "volume": "91",
+            "author": "Fan",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib17",
+            "first-page": "157",
+            "article-title": "\u201cNew Product Varieties and the Measurement of International Prices,\u201d",
+            "volume": "84",
+            "author": "Feenstra",
+            "year": "1994",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114173900_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1016/S0165-1765(99)00219-0",
+            "article-title": "An Exact Price Index for the Almost Ideal Demand System",
+            "volume": "66",
+            "author": "Feenstra",
+            "year": "2000",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2024010809114173900_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1257/aer.91.3.619",
+            "article-title": "Using Engel\u2019s Law to Estimate CPI Bias",
+            "volume": "91",
+            "author": "Hamilton",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114173900_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.2307/1914273",
+            "article-title": "\u201cProduction and Demand Models with Direct or Indirect Implicit Additivity,\u201d",
+            "volume": "43",
+            "author": "Hanoch",
+            "year": "1975",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib21",
+            "first-page": "662",
+            "article-title": "Exact Consumer\u2019s Surplus and Deadweight Loss",
+            "volume": "71",
+            "author": "Hausman",
+            "year": "1981",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114173900_bib22",
+            "first-page": "477",
+            "article-title": "Measuring Growth in Consumer Welfare with Income-Dependent Preferences: Nonparametric Methods and Estimates for the United States",
+            "volume": "139",
+            "author": "Jaravel",
+            "year": "2024",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024010809114173900_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.2307/1906997",
+            "article-title": "\u201cThe Problem of the True Index of the Cost of Living,\u201d",
+            "author": "Kon\u00fcs",
+            "year": "1939",
+            "journal-title": "Econometrica, 7"
+        },
+        {
+            "key": "2024010809114173900_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.1086/317684",
+            "article-title": "A Ricardian Model with a Continuum of Goods under Nonhomothetic Preferences: Demand Complementarities, Income Distribution, and North-South Trade",
+            "volume": "108",
+            "author": "Matsuyama",
+            "year": "2000",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024010809114173900_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.3982/ECTA13765",
+            "article-title": "Engel\u2019s Law in the Global Economy: Demand-Induced Patterns of Structural Change, Innovation, and Trade",
+            "volume": "87",
+            "author": "Matsuyama",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114173900_bib26",
+            "article-title": "Family Expenditure Survey and Living Costs and Food Survey Derived Variables, 1968\u20132017.\u201d [data collection]",
+            "author": "Oldfield",
+            "year": "2020",
+            "journal-title": "UK Data Service"
+        },
+        {
+            "key": "2024010809114173900_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "424",
+            "DOI": "10.1111/j.1475-4991.2012.00498.x",
+            "article-title": "How to Measure Living Standards and Productivity",
+            "volume": "58",
+            "author": "Oulton",
+            "year": "2012",
+            "journal-title": "Review of Income and Wealth"
+        },
+        {
+            "key": "2024010809114173900_bib28",
+            "article-title": "Consumption, Savings, and the Distribution of Permanent Income",
+            "author": "Straub",
+            "year": "2019"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad038/52031053/qjad038.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/1/533/55124643/qjad038.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/1/533/55124643/qjad038.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                8
+            ]
+        ],
+        "date-time": "2024-01-08T09:12:11Z",
+        "timestamp": 1704705131000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/139/1/533/7260870"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    5
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad038",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                5
+            ]
+        ]
+    }
+}

@@ -1,0 +1,959 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                15
+            ]
+        ],
+        "date-time": "2024-04-15T21:08:54Z",
+        "timestamp": 1713215334078
+    },
+    "reference-count": 76,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        12
+                    ]
+                ],
+                "date-time": "2023-06-12T00:00:00Z",
+                "timestamp": 1686528000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100010663",
+            "name": "ERC",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "IMD-101040122"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We propose an economic framework for determining the optimal allocation of a scarce supply of vaccines that become gradually available during a public health crisis, such as the COVID-19 pandemic. Agents differ in observable and unobservable characteristics, and the designer maximizes a social welfare function over all feasible mechanisms\u2014accounting for agents\u2019 characteristics, as well as their endogenous behavior in the face of the pandemic. The framework emphasizes the role of externalities and incorporates equity as well as efficiency concerns. Our results provide an economic justification for providing vaccines immediately and for free to some groups of agents, while at the same time showing that a carefully constructed pricing mechanism can improve outcomes by screening for individuals with the highest private and social benefits of receiving the vaccine. The solution casts light on the classic question of whether prices or priorities should be used to allocate scarce public resources under externalities and equity concerns.</jats:p>",
+    "DOI": "10.1093/qje/qjad022",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                10
+            ]
+        ],
+        "date-time": "2023-06-10T14:23:39Z",
+        "timestamp": 1686407019000
+    },
+    "page": "359-417",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "An Economic Framework for Vaccine Prioritization"
+    ],
+    "prefix": "10.1093",
+    "volume": "139",
+    "author": [
+        {
+            "given": "Mohammad",
+            "family": "Akbarpour",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Eric",
+            "family": "Budish",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago , United States"
+                }
+            ]
+        },
+        {
+            "given": "Piotr",
+            "family": "Dworczak",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Northwestern University, United States, and Group for Research in Applied Economics , Poland"
+                }
+            ]
+        },
+        {
+            "given": "Scott Duke",
+            "family": "Kominers",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard Business School, Harvard University , and a16z crypto , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                12
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024010809114010400_bib1",
+            "article-title": "\u201cRedistributive Allocation Mechanisms,\u201d",
+            "volume-title": "Journal of Political Economy",
+            "author": "Akbarpour",
+            "year": ""
+        },
+        {
+            "key": "2024010809114010400_bib2",
+            "first-page": "8",
+            "article-title": "\u201cThe Economics of \u2018Tagging\u2019 as Applied to the Optimal Income Tax, Welfare Programs, and Manpower Planning,\u201d",
+            "volume": "68",
+            "author": "Akerlof",
+            "year": "1978",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114010400_bib3",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cOptimal Dynamic Allocation: Simplicity through Information Design,\u201d",
+            "author": "Ashlagi",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3610386"
+        },
+        {
+            "key": "2024010809114010400_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "742",
+            "DOI": "10.1093/oxrep/grac037",
+            "article-title": "\u201cExpanding Capacity for Vaccines against Covid-19 and Future Pandemics: A Review of Economic Issues,\u201d",
+            "volume": "38",
+            "author": "Athey",
+            "year": "2022",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "key": "2024010809114010400_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "e210213",
+            "DOI": "10.1001/jamahealthforum.2021.0213",
+            "article-title": "\u201cTaking Vaccine to Where the Virus Is\u2014Equity and Effectiveness in Coronavirus Vaccinations,\u201d",
+            "volume": "2",
+            "author": "Bibbins-Domingo",
+            "year": "2021",
+            "journal-title": "JAMA Health Forum"
+        },
+        {
+            "key": "2024010809114010400_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1090",
+            "DOI": "10.1002/soej.12488",
+            "article-title": "\u201cThe Political Economy of the COVID-19 Pandemic,\u201d",
+            "volume": "87",
+            "author": "Boettke",
+            "year": "2021",
+            "journal-title": "Southern Economic Journal"
+        },
+        {
+            "key": "2024010809114010400_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "771",
+            "DOI": "10.1093/oxrep/grac026",
+            "article-title": "\u201cCovid-19 Vaccine Supply Chains and the Defense Production Act,\u201d",
+            "volume": "38",
+            "author": "Bown",
+            "year": "2022",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "issue": "1991",
+            "key": "2024010809114010400_bib8",
+            "first-page": "69",
+            "article-title": "\u201cExternalities and Compulsary Vaccinations,\u201d",
+            "volume": "45",
+            "author": "Brito",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024010809114010400_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "916",
+            "DOI": "10.1126/science.abe6959",
+            "article-title": "\u201cModel-Informed COVID-19 Vaccine Prioritization Strategies by Age and Serostatus,\u201d",
+            "volume": "371",
+            "author": "Bubar",
+            "year": "2021",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024010809114010400_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "941",
+            "DOI": "10.1093/oxrep/grac038",
+            "article-title": "\u201cDistributing a Billion Vaccines: COVAX Successes, Challenges, and Opportunities,\u201d",
+            "volume": "38",
+            "author": "Budish",
+            "year": "2022",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "key": "2024010809114010400_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1060",
+            "DOI": "10.1086/261643",
+            "article-title": "\u201cThe Simple Economics of Optimal Auctions,\u201d",
+            "volume": "97",
+            "author": "Bulow",
+            "year": "1989",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024010809114010400_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "879",
+            "DOI": "10.1126/science.abm0475",
+            "article-title": "\u201cMonetary Incentives Increase COVID-19 Vaccinations,\u201d",
+            "volume": "374",
+            "author": "Campos-Mercade",
+            "year": "2021",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024010809114010400_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1107",
+            "DOI": "10.1126/science.abg0889",
+            "article-title": "\u201cMarket Design to Accelerate COVID-19 Vaccine Supply,\u201d",
+            "volume": "371",
+            "author": "Castillo",
+            "year": "2021",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024010809114010400_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.geb.2012.08.006",
+            "article-title": "\u201cOptimal Allocation without Transfer Payments,\u201d",
+            "volume": "77",
+            "author": "Chakravarty",
+            "year": "2013",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "issue": "2013",
+            "key": "2024010809114010400_bib15",
+            "first-page": "47",
+            "article-title": "\u201cPandering to Persuade,\u201d",
+            "volume": "103",
+            "author": "Che",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114010400_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "613",
+            "DOI": "10.1016/j.geb.2012.02.018",
+            "article-title": "\u201cWhat Money Can\u2019t Buy: Efficient Mechanism Design with Costly Signals,\u201d",
+            "volume": "75",
+            "author": "Condorelli",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024010809114010400_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "582",
+            "DOI": "10.1016/j.geb.2013.08.008",
+            "article-title": "\u201cMarket and Non-Market Mechanisms for the Optimal Allocation of Scarce Resources,\u201d",
+            "volume": "82",
+            "author": "Condorelli",
+            "year": "2013",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024010809114010400_bib18",
+            "article-title": "\u201cProcessing Reserves Simultaneously,\u201d",
+            "author": "Delacr\u00e9taz",
+            "year": "2020"
+        },
+        {
+            "key": "2024010809114010400_bib19",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cEquitable Allocation of Vaccines in a Supply Network,\u201d",
+            "author": "Do\u011fan",
+            "year": "2022",
+            "DOI": "10.2139/ssrn.4310421"
+        },
+        {
+            "key": "2024010809114010400_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1665",
+            "DOI": "10.3982/ECTA16671",
+            "article-title": "\u201cRedistribution through Markets,\u201d",
+            "volume": "89",
+            "author": "Dworczak",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114010400_bib21",
+            "first-page": "242",
+            "article-title": "\u201cInternet Advertising and the Generalized Second-Price Auction: Selling Billions of Dollars Worth of Keywords,\u201d",
+            "volume-title": "American Economic Review",
+            "author": "Edelman",
+            "year": "2007"
+        },
+        {
+            "key": "2024010809114010400_bib22",
+            "first-page": "1309",
+            "article-title": "\u201cAn Ethical Framework for Global Vaccine Allocation,\u201d",
+            "volume-title": "Science",
+            "author": "Emanuel",
+            "year": "2020"
+        },
+        {
+            "key": "2024010809114010400_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2049",
+            "DOI": "10.1056/NEJMsb2005114",
+            "article-title": "\u201cFair Allocation of Scarce Medical Resources in the Time of Covid-19,\u201d",
+            "volume": "382",
+            "author": "Emanuel",
+            "year": "2020",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2024010809114010400_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.1002/hast.806",
+            "article-title": "\u201cCan Rationing through Inconvenience Be Ethical?,\u201d",
+            "volume": "48",
+            "author": "Eyal",
+            "year": "2018",
+            "journal-title": "Hastings Center Report"
+        },
+        {
+            "key": "2024010809114010400_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "912",
+            "DOI": "10.1093/oxrep/grac027",
+            "article-title": "\u201cOptimal Allocation of Vaccines in a Pandemic,\u201d",
+            "volume": "38",
+            "author": "Gans",
+            "year": "2022",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "key": "2024010809114010400_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "641",
+            "DOI": "10.1111/iere.12609",
+            "article-title": "\u201cVaccine Hesitancy, Passports and the Demand for Vaccination,\u201d",
+            "volume": "64",
+            "author": "Gans",
+            "year": "2023",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2024010809114010400_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "eabl9900",
+            "DOI": "10.1126/scitranslmed.abl9900",
+            "article-title": "\u201cNo One Is Safe Until We Are All Safe,\u201d",
+            "volume": "13",
+            "author": "Gilbert",
+            "year": "2021",
+            "journal-title": "Science Translational Medicine"
+        },
+        {
+            "key": "2024010809114010400_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "e2026322118",
+            "DOI": "10.1073/pnas.2026322118",
+            "article-title": "\u201cVaccinating the Oldest Against COVID-19 Saves both the Most Lives and Most Years of Life,\u201d",
+            "volume": "118",
+            "author": "Goldstein",
+            "year": "2021",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024010809114010400_bib29",
+            "article-title": "\u201cEffective, Fair and Equitable Pandemic Rationing,\u201d",
+            "author": "Grigoryan",
+            "year": "2021"
+        },
+        {
+            "key": "2024010809114010400_bib30",
+            "first-page": "75",
+            "article-title": "\u201cOptimal Mechanism Design and Money Burning,\u201d",
+            "volume-title": "Proceedings of the Fortieth Annual ACM Symposium on Theory of Computing",
+            "author": "Hartline"
+        },
+        {
+            "key": "2024010809114010400_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "74",
+            "DOI": "10.2307/3003320",
+            "article-title": "\u201cMoral Hazard and Observability,\u201d",
+            "volume": "10",
+            "author": "Holmstr\u00f6m",
+            "year": "1979",
+            "journal-title": "Bell Journal of Economics"
+        },
+        {
+            "key": "2024010809114010400_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/1468-0262.00240",
+            "article-title": "\u201cEfficient Design with Interdependent Valuations,\u201d",
+            "volume": "69",
+            "author": "Jehiel",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114010400_bib33",
+            "first-page": "814",
+            "article-title": "\u201cHow (Not) to Sell Nuclear Weapons,\u201d",
+            "volume": "86",
+            "author": "Jehiel",
+            "year": "1996",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114010400_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1141",
+            "DOI": "10.1007/s00199-022-01442-4",
+            "article-title": "\u201cOptimal Design for Redistributions among Endogenous Buyers and Sellers,\u201d",
+            "volume": "75",
+            "author": "Kang",
+            "year": "2023",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2024010809114010400_bib35",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cMarkets for Goods with Externalities,\u201d",
+            "author": "Kang",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3586050"
+        },
+        {
+            "issue": "1997",
+            "key": "2024010809114010400_bib36",
+            "first-page": "17",
+            "article-title": "\u201cThe Wisdom of Repugnance: Why We Should Ban the Cloning of Humans,\u201d",
+            "volume": "216",
+            "author": "Kass",
+            "journal-title": "New Republic"
+        },
+        {
+            "key": "2024010809114010400_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.3982/ECTA18312",
+            "article-title": "\u201cExtreme Points and Majorization: Economic Applications,\u201d",
+            "volume": "89",
+            "author": "Kleiner",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024010809114010400_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "719",
+            "DOI": "10.1093/oxrep/grac036",
+            "article-title": "\u201cVaccines and the Covid-19 Pandemic: Lessons from Failure and Success,\u201d",
+            "volume": "38",
+            "author": "Kominers",
+            "year": "2022",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "key": "2024010809114010400_bib39",
+            "article-title": "\u201cCan Hesitancy be Mitigated by Free Choice across COVID-19 Vaccine Types?,\u201d",
+            "author": "Kutasi",
+            "year": "2021"
+        },
+        {
+            "key": "2024010809114010400_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "534",
+            "DOI": "10.1001/jama.2020.27121",
+            "article-title": "\u201cProblems with Paying People to Be Vaccinated against COVID-19,\u201d",
+            "volume": "325",
+            "author": "Largent",
+            "year": "2021",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2024010809114010400_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "566",
+            "DOI": "10.1086/717894",
+            "article-title": "\u201cMonopoly Pricing, Optimal Randomization, and Resale,\u201d",
+            "volume": "130",
+            "author": "Loertscher",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024010809114010400_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1292",
+            "DOI": "10.1016/j.chest.2020.08.2042",
+            "article-title": "\u201cA Reserve System for the Equitable Allocation of a Severe Acute Respiratory Syndrome Coronavirus 2 Vaccine,\u201d",
+            "volume": "159",
+            "author": "Makhoul",
+            "year": "2021",
+            "journal-title": "Chest"
+        },
+        {
+            "key": "2024010809114010400_bib43",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Putting Auction Theory to Work",
+            "author": "Milgrom",
+            "year": "2004",
+            "DOI": "10.1017/CBO9780511813825"
+        },
+        {
+            "key": "2024010809114010400_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1287/moor.6.1.58",
+            "article-title": "\u201cOptimal Auction Design,\u201d",
+            "volume": "6",
+            "author": "Myerson",
+            "year": "1981",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2024010809114010400_bib45",
+            "volume-title": "Framework for Equitable Allocation of COVID-19 Vaccine",
+            "author": "National Academies of Sciences, Engineering, and Medicine",
+            "year": "2020"
+        },
+        {
+            "key": "2024010809114010400_bib46",
+            "volume-title": "Free for All?: Lessons from the RAND Health Insurance Experiment",
+            "author": "Newhouse",
+            "year": "1993"
+        },
+        {
+            "key": "2024010809114010400_bib47",
+            "article-title": "\u201cScreening while Controlling an Externality,\u201d",
+            "volume-title": "Games and Economic Behavior",
+            "author": "Ostrizek"
+        },
+        {
+            "key": "2024010809114010400_bib48",
+            "article-title": "\u201cCash for Shots? Studies Suggest Payouts Improve Vaccination Rates",
+            "author": "Oza",
+            "year": "2021",
+            "journal-title": "ScienceInsider"
+        },
+        {
+            "key": "2024010809114010400_bib49",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cTaxing Externalities without Hurting the Poor,\u201d",
+            "author": "Pai",
+            "year": "2022",
+            "DOI": "10.2139/ssrn.4180522"
+        },
+        {
+            "key": "2024010809114010400_bib50",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cA Vaccine Auction,\u201d",
+            "author": "Pancs",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3746231"
+        },
+        {
+            "key": "2024010809114010400_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "924",
+            "DOI": "10.1093/oxrep/grac034",
+            "article-title": "\u201cReserve System Design for Allocation of Scarce Medical Resources in a Pandemic: Some Perspectives from the Field",
+            "volume": "38",
+            "author": "Pathak",
+            "year": "2022",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "key": "2024010809114010400_bib52",
+            "first-page": "e2012838",
+            "article-title": "\u201cImproving Ventilator Rationing through Collaboration with Experts on Resource Allocation,\u201d",
+            "volume": "3",
+            "author": "Pathak",
+            "year": "2020",
+            "journal-title": "Journal of the American Medical Association Open"
+        },
+        {
+            "key": "2024010809114010400_bib53",
+            "article-title": "\u201cFair Allocation of Vaccines, Ventilators and Antiviral Treatments: Leaving No Ethical Value behind in Health Care Rationing,\u201d",
+            "author": "Pathak",
+            "year": "2022"
+        },
+        {
+            "key": "2024010809114010400_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1001/jama.2021.11045",
+            "article-title": "\u201cEthical Considerations of Offering Benefits to COVID-19 Vaccine Recipients,\u201d",
+            "volume": "326",
+            "author": "Persad",
+            "year": "2021",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2024010809114010400_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1601",
+            "DOI": "10.1001/jama.2020.18513",
+            "article-title": "\u201cFairly Prioritizing Groups for Access to COVID-19 Vaccines,\u201d",
+            "volume": "324",
+            "author": "Persad",
+            "year": "2020",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2024010809114010400_bib56",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/sdr.1714",
+            "article-title": "\u201cBehavioral Responses to Risk Promote Vaccinating High-Contact Individuals First,\u201d",
+            "volume-title": "System Dynamics Review",
+            "author": "Rahmandad",
+            "year": "2022"
+        },
+        {
+            "key": "2024010809114010400_bib57",
+            "article-title": "\u201cThe Best Way to Vaccinate Most Indians in the Least Time",
+            "author": "Rajagopalan",
+            "year": "2020",
+            "journal-title": "Mint"
+        },
+        {
+            "key": "2024010809114010400_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1257/aer.20161492",
+            "article-title": "\u201cCertified Random: A New Order for Coauthorship,\u201d",
+            "volume": "108",
+            "author": "Ray",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114010400_bib59",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1017/S0266267120000103",
+            "article-title": "\u201cRationing with Time: Time-Cost Ordeals\u2019 Burdens and Distributive Effects,\u201d",
+            "volume": "37",
+            "author": "Rose",
+            "year": "2021",
+            "journal-title": "Economics & Philosophy"
+        },
+        {
+            "key": "2024010809114010400_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1257/jep.21.3.37",
+            "article-title": "\u201cRepugnance as a Constraint on Markets,\u201d",
+            "volume": "21",
+            "author": "Roth",
+            "year": "2007",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024010809114010400_bib61",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.1257/aer.20141362",
+            "article-title": "\u201cGeneralized Social Marginal Welfare Weights for Optimal Tax Theory,\u201d",
+            "volume": "106",
+            "author": "Saez",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024010809114010400_bib62",
+            "volume-title": "What Money Can\u2019t Buy: The Moral Limits of Markets",
+            "author": "Sandel",
+            "year": "2012"
+        },
+        {
+            "key": "2024010809114010400_bib63",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Why Some Things Should Not Be for Sale: The Moral Limits of Markets",
+            "author": "Satz",
+            "year": "2010",
+            "DOI": "10.1093/acprof:oso/9780195311594.001.0001"
+        },
+        {
+            "key": "2024010809114010400_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1002/hast.1113",
+            "article-title": "\u201cVaccine Rationing and the Urgency of Social Justice in the Covid-19 Response,\u201d",
+            "volume": "50",
+            "author": "Schmidt",
+            "year": "2020",
+            "journal-title": "Hastings Center Report"
+        },
+        {
+            "key": "2024010809114010400_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "m3795",
+            "DOI": "10.1136/bmj.m3795",
+            "article-title": "\u201cCovid-19: How to Prioritize Worse-Off Populations in Allocating Safe and Effective Vaccines",
+            "volume": "371",
+            "author": "Schmidt",
+            "year": "2020",
+            "journal-title": "British Medical Journal"
+        },
+        {
+            "key": "2024010809114010400_bib66",
+            "article-title": "\u201cRationing Safe and Effective COVID-19 Vaccines: Allocating to States Proportionate to Population May Undermine Commitments to Mitigating Health Disparities,\u201d",
+            "author": "Schmidt",
+            "year": "2021"
+        },
+        {
+            "key": "2024010809114010400_bib67",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cWhat Prioritizing Worse-Off Minority Groups for COVID-19 Vaccines Means Quantitatively: Practical, Legal and Ethical Implications,\u201d",
+            "author": "Schmidt",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3716686"
+        },
+        {
+            "key": "2024010809114010400_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "1294",
+            "DOI": "10.1016/j.chest.2020.12.019",
+            "article-title": "\u201cCategorized Priority Systems: A New Tool for Fairly Allocating Scarce Medical Resources in the Face of Profound Social Inequities,\u201d",
+            "volume": "159",
+            "author": "S\u00f6nmez",
+            "year": "2021",
+            "journal-title": "Chest"
+        },
+        {
+            "key": "2024010809114010400_bib69",
+            "article-title": "\u201cThese Companies Are Paying Employees to Get Vaccinated",
+            "author": "Terrell",
+            "journal-title": "AARP.org"
+        },
+        {
+            "key": "2024010809114010400_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "1163",
+            "DOI": "10.1016/j.ijindorg.2006.10.002",
+            "article-title": "\u201cPosition Auctions,\u201d",
+            "volume": "25",
+            "author": "Varian",
+            "year": "2007",
+            "journal-title": "International Journal of Industrial Organization"
+        },
+        {
+            "key": "2024010809114010400_bib71",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cOptimal Vaccine Policies: Spillovers and Incentives",
+            "author": "Vellodi",
+            "DOI": "10.21144/wp21-06"
+        },
+        {
+            "key": "2024010809114010400_bib72",
+            "doi-asserted-by": "crossref",
+            "article-title": "\u201cTargeting Interacting Agents,\u201d",
+            "author": "Vellodi",
+            "year": "2021",
+            "DOI": "10.2139/ssrn.3921611"
+        },
+        {
+            "key": "2024010809114010400_bib73",
+            "volume-title": "Spheres of Justice: A Defense of Pluralism and Equality",
+            "author": "Walzer",
+            "year": "1983"
+        },
+        {
+            "key": "2024010809114010400_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "517",
+            "DOI": "10.2307/3003300",
+            "article-title": "\u201cIs the Price System or Rationing More Effective in Getting a Commodity to Those Who Need it Most?,\u201d",
+            "volume": "8",
+            "author": "Weitzman",
+            "year": "1977",
+            "journal-title": "Bell Journal of Economics"
+        },
+        {
+            "key": "2024010809114010400_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "eabj2099",
+            "DOI": "10.1126/sciadv.abj2099",
+            "article-title": "\u201cGeographically Targeted COVID-19 Vaccination is More Equitable and Averts More Deaths than Age-Based Thresholds Alone,\u201d",
+            "volume": "7",
+            "author": "Wrigley-Field",
+            "year": "2021",
+            "journal-title": "Science Advances"
+        },
+        {
+            "key": "2024010809114010400_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "64",
+            "DOI": "10.1017/S0266267120000139",
+            "article-title": "\u201cStrategic Sorting: The Role of Ordeals in Health Care,\u201d",
+            "volume": "37",
+            "author": "Zeckhauser",
+            "year": "2021",
+            "journal-title": "Economics & Philosophy"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad022/53860332/qjad022.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/1/359/55124604/qjad022.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/1/359/55124604/qjad022.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                8
+            ]
+        ],
+        "date-time": "2024-01-08T09:12:21Z",
+        "timestamp": 1704705141000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/139/1/359/7194251"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                12
+            ]
+        ]
+    },
+    "references-count": 76,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    6,
+                    12
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad022",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                12
+            ]
+        ]
+    }
+}

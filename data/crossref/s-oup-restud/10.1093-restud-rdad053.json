@@ -1,0 +1,477 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                6
+            ]
+        ],
+        "date-time": "2024-04-06T00:37:14Z",
+        "timestamp": 1712363834953
+    },
+    "reference-count": 28,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        11
+                    ]
+                ],
+                "date-time": "2023-05-11T00:00:00Z",
+                "timestamp": 1683763200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Many real-life settings of individual choice involve social interactions, causing targeted policies to have spillover effects. This article develops novel empirical tools for analysing demand and welfare effects of policy interventions in binary choice settings with social interactions. Examples include subsidies for health-product adoption and vouchers for attending a high-achieving school. We show that even with fully parametric specifications and unique equilibrium, choice data, that are sufficient for counterfactual demand prediction under interactions, are insufficient for welfare calculations. This is because distinct underlying mechanisms producing the same interaction coefficient can imply different welfare effects and deadweight-loss from a policy intervention. Standard index restrictions imply distribution-free bounds on welfare. We propose ways to identify and consistently estimate the structural parameters and welfare bounds allowing for unobserved group effects that are potentially correlated with observables and are possibly unbounded. We illustrate our results using experimental data on mosquito-net adoption in rural Kenya.</jats:p>",
+    "DOI": "10.1093/restud/rdad053",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ],
+        "date-time": "2023-05-11T19:17:54Z",
+        "timestamp": 1683832674000
+    },
+    "page": "748-784",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Demand and Welfare Analysis in Discrete Choice Models with Social Interactions"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Debopam",
+            "family": "Bhattacharya",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Faculty of Economics, University of Cambridge"
+                }
+            ]
+        },
+        {
+            "given": "Pascaline",
+            "family": "Dupas",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Shin",
+            "family": "Kanaya",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Essex and Kyoto University"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024040516404944900_rdad053-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "795",
+            "DOI": "10.1017/S0266466608080328",
+            "article-title": "A Permutation-Based Estimator for Monotone Index Models",
+            "volume": "24",
+            "author": "Bhattacharya",
+            "year": "2008",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.3982/ECTA12574",
+            "article-title": "Nonparametric Welfare Analysis for Discrete Choice",
+            "volume": "83",
+            "author": "Bhattacharya",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.3982/QE931",
+            "article-title": "Empirical Welfare Analysis for Discrete Choice: Some General Results",
+            "volume": "9",
+            "author": "Bhattacharya",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B4",
+            "author": "Bisin",
+            "year": "2011"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B5",
+            "author": "Blundell",
+            "year": "2004"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1111/1467-937X.00168",
+            "article-title": "Discrete Choice with Social Spillover",
+            "volume": "68",
+            "author": "Brock",
+            "year": "2001",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "52",
+            "DOI": "10.1016/j.jeconom.2006.09.002",
+            "article-title": "Identification of Binary Choice Models with Social Interactions",
+            "volume": "140",
+            "author": "Brock",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.2307/2297110",
+            "article-title": "Analysis of Covariance with Qualitative Data",
+            "volume": "47",
+            "author": "Chamberlain",
+            "year": "1980",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/0034-6527.00324",
+            "article-title": "Compensating Variation and Hicksian Choice Probabilities in Random Utility Models That Are Nonlinear in Income",
+            "volume": "72",
+            "author": "Dagsvik",
+            "year": "2005",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B10",
+            "author": "Daly",
+            "year": "1978"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B11",
+            "author": "De Paula",
+            "year": "2017"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B12",
+            "author": "Domencich",
+            "year": "1975",
+            "journal-title": "Urban Travel Demand: A Behavioral Analysis"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "838",
+            "DOI": "10.1017/S0266466605050425",
+            "article-title": "Some Convergence Theory for Iterative Estimation Procedures with an Application to Semiparametric Estimation",
+            "volume": "21",
+            "author": "Dominitz",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.3982/ECTA9508",
+            "article-title": "Short-Run Subsidies and Long-Run Adoption of New Health Products: Evidence from a Field Experiment",
+            "volume": "82",
+            "author": "Dupas",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1016/j.jeconom.2015.12.014",
+            "article-title": "Individual and Time Effects in Nonlinear Panel Models with Large N,T",
+            "volume": "192",
+            "author": "Fernandez-Val",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B16",
+            "doi-asserted-by": "publisher",
+            "author": "Gautam",
+            "year": "2023",
+            "DOI": "10.1016/j.jdeveco.2023.103083"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1152",
+            "DOI": "10.1017/S0266466611000028",
+            "article-title": "Bias Reduction for Dynamic Nonlinear Panel Models with Fixed Effects",
+            "volume": "27",
+            "author": "Hahn",
+            "year": "2011",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "863",
+            "DOI": "10.1017/S0266466609990132",
+            "article-title": "Panel Data Models with Finite Number of Multiple Equilibria",
+            "volume": "26",
+            "author": "Hahn",
+            "year": "2010",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.3982/ECTA11899",
+            "article-title": "Individual Heterogeneity and Welfare",
+            "volume": "84",
+            "author": "Hausman",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.2307/2298122",
+            "article-title": "Conditional Choice Probabilities and the Estimation of Dynamic Models",
+            "volume": "60",
+            "author": "Hotz",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B21",
+            "author": "Lengeler",
+            "year": "2004"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.2307/2298123",
+            "article-title": "Identification of Endogenous Social Effects: The Reflection Problem",
+            "volume": "60",
+            "author": "Manski",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B23",
+            "author": "McFadden",
+            "year": "2019"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B24",
+            "author": "Newey",
+            "year": "1994"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1198/073500103288619124",
+            "article-title": "Iterative and Recursive Estimation in Structural Nonadaptive Models",
+            "volume": "21",
+            "author": "Pastorello",
+            "year": "2003",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "901",
+            "DOI": "10.1111/j.1467-937X.2008.00496.x",
+            "article-title": "Asymptotic Least Squares Estimator for Dynamic Games",
+            "volume": "75",
+            "author": "Pesendorfer",
+            "year": "2008",
+            "journal-title": "The Reviews of Economics Studies"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.2307/1911129",
+            "article-title": "Applied Welfare Economics with Discrete Choice Models",
+            "volume": "49",
+            "author": "Small",
+            "year": "1981",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024040516404944900_rdad053-B28",
+            "volume-title": "Econometric Analysis of Cross Section and Panel Data",
+            "author": "Wooldridge",
+            "year": "2010"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad053/56421150/rdad053.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/2/748/57172911/rdad053.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/2/748/57172911/rdad053.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                5
+            ]
+        ],
+        "date-time": "2024-04-05T16:41:08Z",
+        "timestamp": 1712335268000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/2/748/7160364"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    11
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad053",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                11
+            ]
+        ]
+    }
+}

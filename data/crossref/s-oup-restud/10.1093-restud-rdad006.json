@@ -1,0 +1,548 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2024-04-02T13:40:43Z",
+        "timestamp": 1712065243514
+    },
+    "reference-count": 37,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        27
+                    ]
+                ],
+                "date-time": "2023-01-27T00:00:00Z",
+                "timestamp": 1674777600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                12
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>It is often desired to rank different populations according to the value of some feature of each population. For example, it may be desired to rank neighbourhoods according to some measure of intergenerational mobility or countries according to some measure of academic achievement. These rankings are invariably computed using estimates rather than the true values of these features. As a result, there may be considerable uncertainty concerning the rank of each population. In this paper, we consider the problem of accounting for such uncertainty by constructing confidence sets for the rank of each population. We consider both the problem of constructing marginal confidence sets for the rank of a particular population as well as simultaneous confidence sets for the ranks of all populations. We show how to construct such confidence sets under weak assumptions. An important feature of all of our constructions is that they remain computationally feasible even when the number of populations is very large. We apply our theoretical results to re-examine the rankings of both neighbourhoods in the U.S. in terms of intergenerational mobility and developed countries in terms of academic achievement. The conclusions about which countries do best and worst at reading, math, and science are fairly robust to accounting for uncertainty. The confidence sets for the ranking of the fifty most populous commuting zones by measures of mobility are also found to be small. These confidence sets, however, become much less informative if one includes all commuting zones, if one considers neighbourhoods at a more granular level (counties, census tracts), or if one uses movers across areas to address concerns about selection.</jats:p>",
+    "DOI": "10.1093/restud/rdad006",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                28
+            ]
+        ],
+        "date-time": "2023-01-28T08:37:19Z",
+        "timestamp": 1674895039000
+    },
+    "page": "476-518",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": [
+        "Inference for Ranks with Applications to Mobility across Neighbourhoods and Academic Achievement across Countries"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Magne",
+            "family": "Mogstad",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago, Statistics Norway and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Joseph P",
+            "family": "Romano",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Departments of Statistics and Economics, Stanford University"
+                }
+            ]
+        },
+        {
+            "given": "Azeem M",
+            "family": "Shaikh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "Wilhelm",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024011813424299600_rdad006-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "article-title": "Sampling-based versus Design-based Uncertainty in Regression Analysis",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B2",
+            "author": "Andrews",
+            "year": "2018"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B3",
+            "author": "Bai",
+            "year": "2019"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1007/BF01894737",
+            "article-title": "Multiple Testing of Pairs of One-sided Hypotheses",
+            "volume": "33",
+            "author": "Bauer",
+            "year": "1986",
+            "journal-title": "Metrika"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B5",
+            "author": "Bergman",
+            "year": "2019"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B6",
+            "author": "Breakspear",
+            "year": "2012"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2786",
+            "DOI": "10.1214/13-AOS1161",
+            "article-title": "Gaussian Approximations and Multiplier Bootstrap for Maxima of Sums of High-dimensional Random Vectors",
+            "volume": "41",
+            "author": "Chernozhukov",
+            "year": "2013",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "2309",
+            "DOI": "10.1214/16-AOP1113",
+            "article-title": "Central Limit Theorems and Bootstrap in High Dimensions",
+            "volume": "45",
+            "author": "Chernozhukov",
+            "year": "2017",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B9",
+            "author": "Chernozhukov",
+            "year": "2019"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B10",
+            "author": "Chetty",
+            "year": "2014"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B11",
+            "author": "Chetty",
+            "year": "2018"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B12",
+            "author": "Chetty",
+            "year": "2020"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1163",
+            "DOI": "10.1093/qje/qjy006",
+            "article-title": "The Impacts of Neighborhoods on Intergenerational Mobility ii: County-level Estimates",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qju022",
+            "article-title": "Where Is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States",
+            "volume": "129",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "30309",
+            "DOI": "10.1073/pnas.2010222117",
+            "article-title": "The Changing Geography of Social Mobility in the United States",
+            "volume": "117",
+            "author": "Connor",
+            "year": "2020",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1096",
+            "DOI": "10.1080/01621459.1955.10501294",
+            "article-title": "A Multiple Comparison Procedure for Comparing Several Treatments with a Control",
+            "volume": "50",
+            "author": "Dunnett",
+            "year": "1955",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "385",
+            "DOI": "10.2307/2983325",
+            "article-title": "League Tables and Their Limitations: Statistical Issues in Comparisons of Institutional Performance",
+            "volume": "159",
+            "author": "Goldstein",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society. Series A (Statistics in Society)"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B18",
+            "first-page": "1047",
+            "article-title": "Control of Directional Errors in Fixed Sequence Multiple Testing",
+            "volume": "29",
+            "author": "Grandhi",
+            "year": "2019",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B19",
+            "author": "Gu",
+            "year": "2020"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1016/j.jspi.2015.02.009",
+            "article-title": "On Stepwise Control of Directional Errors under Independence and Some Dependence",
+            "volume": "163",
+            "author": "Guo",
+            "year": "2015",
+            "journal-title": "Journal of Statistical Planning and Inference"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B21",
+            "author": "Gupta",
+            "year": "1956"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B22",
+            "volume-title": "Multiple Decision Procedures: Theory and Methodology of Selecting and Ranking Populations",
+            "author": "Gupta",
+            "year": "1979"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "3929",
+            "DOI": "10.1214/09-AOS699",
+            "article-title": "Using the Bootstrap to Quantify the Authority of an Empirical Ranking",
+            "volume": "37",
+            "author": "Hall",
+            "year": "2009",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "761",
+            "DOI": "10.1093/biomet/asp053",
+            "article-title": "Sinh-arcsinh distributions",
+            "volume": "96",
+            "author": "Jones",
+            "year": "2009",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B25",
+            "first-page": "589",
+            "article-title": "A Joint Confidence Region for an Overall Ranking of Populations",
+            "volume": "69",
+            "author": "Klein",
+            "year": "2020",
+            "journal-title": "Journal of the Royal Statistical Society: Series C (Applied Statistics)"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B26",
+            "volume-title": "Testing Statistical Hypotheses",
+            "author": "Lehmann",
+            "year": "2005"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1084",
+            "DOI": "10.1214/009053605000000066",
+            "article-title": "On Optimality of Stepdown and Stepup Multiple Test Procedures",
+            "volume": "33",
+            "author": "Lehmann",
+            "year": "2005",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B28",
+            "author": "OECD",
+            "year": "2017"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B29",
+            "doi-asserted-by": "crossref",
+            "volume-title": "PISA 2018 Results (Volume I): What Students Know and Can Do",
+            "author": "OECD",
+            "year": "2019",
+            "DOI": "10.1787/5f07c754-en"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "2798",
+            "DOI": "10.1214/12-AOS1051",
+            "article-title": "On the Uniform Asymptotic Validity of Subsampling and the Bootstrap",
+            "volume": "40",
+            "author": "Romano",
+            "year": "2012",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1979",
+            "DOI": "10.3982/ECTA11011",
+            "article-title": "A Practical Two-step Method for Testing Moment Inequalities",
+            "volume": "82",
+            "author": "Romano",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1468-0262.2005.00615.x",
+            "article-title": "Stepwise Multiple Testing as Formalized Data Snooping",
+            "volume": "73",
+            "author": "Romano",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1342",
+            "DOI": "10.1214/aos/1176345205",
+            "article-title": "Control of Directional Errors with Stagewise Multiple Test Procedures",
+            "volume": "8",
+            "author": "Shaffer",
+            "year": "1980",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "398",
+            "DOI": "10.1214/aoms/1177692621",
+            "article-title": "On the Optimality of Some Multiple Comparison Procedures",
+            "volume": "43",
+            "author": "Spj\u00f8tvoll",
+            "year": "1972",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B35",
+            "author": "Tukey",
+            "year": "1953"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B36",
+            "volume-title": "Multiple Comparisons and Multiple Tests",
+            "author": "Westfall",
+            "year": "1999"
+        },
+        {
+            "key": "2024011813424299600_rdad006-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "775",
+            "DOI": "10.1198/jasa.2009.0142",
+            "article-title": "Confidence Intervals for Population Ranks in the Presence of Ties and Near Ties",
+            "volume": "104",
+            "author": "Xie",
+            "year": "2009",
+            "journal-title": "Journal of the American Statistical Association"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad006/50949775/rdad006.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/1/476/56205143/rdad006.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/1/476/56205143/rdad006.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                18
+            ]
+        ],
+        "date-time": "2024-01-18T13:42:56Z",
+        "timestamp": 1705585376000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/1/476/7008541"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    1,
+                    27
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    12
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad006",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [
+        "Economics and Econometrics"
+    ],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                1,
+                27
+            ]
+        ]
+    }
+}
