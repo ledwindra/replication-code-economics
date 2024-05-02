@@ -1,0 +1,384 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ],
+        "date-time": "2024-05-01T00:31:18Z",
+        "timestamp": 1714523478822
+    },
+    "reference-count": 42,
+    "publisher": "American Economic Association",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> Binscatter is a popular method for visualizing bivariate relationships and conducting informal specification testing. We study the properties of this method formally and develop enhanced visualization and econometric binscatter tools. These include estimating conditional means with optimal binning and quantifying uncertainty. We also highlight a methodological problem related to covariate adjustment that can yield incorrect conclusions. We revisit two applications using our methodology and find substantially different results relative to those obtained using prior informal binscatter methods. General purpose software in Python, R, and Stata is provided. Our technical work is of independent interest for the nonparametric partition-based estimation literature. (JEL C13, C14, C18, C51, O31, R32) </jats:p>",
+    "DOI": "10.1257/aer.20221576",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                30
+            ]
+        ],
+        "date-time": "2024-04-30T12:12:10Z",
+        "timestamp": 1714479130000
+    },
+    "page": "1488-1514",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "On Binscatter"
+    ],
+    "prefix": "10.1257",
+    "volume": "114",
+    "author": [
+        {
+            "given": "Matias D.",
+            "family": "Cattaneo",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Operations Research and Financial Engineering, Princeton University (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Richard K.",
+            "family": "Crump",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Macrofinance Studies, Federal Reserve Bank of New York (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Max H.",
+            "family": "Farrell",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UC Santa Barbara (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Yingjie",
+            "family": "Feng",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Economics and Management, Tsinghua University (email: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aeri.20190252"
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-080217-053402"
+        },
+        {
+            "key": "p_3",
+            "unstructured": "Akcigit, Ufuk, John Grigsby, Tom Nicholas, and Stefanie Stantcheva. 2021. \"Replication Data for: Taxation and Innovation in the 20th Century.\" Harvard Dataverse, V1. https://doi.org/10.7910/ DVN/SR410I."
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjab022"
+        },
+        {
+            "key": "p_5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Angrist, Joshua D., and J\u00f6rn-Steffen Pischke. 2008. Mostly Harmless Econometrics: An Empiricist's Companion. Princeton, NJ: Princeton University Press.",
+            "DOI": "10.2307/j.ctvcm4j72"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2015.02.014"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/lnms/1215090065"
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.2017.1285776"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3150/21-BEJ1445"
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.2015.1017578"
+        },
+        {
+            "key": "p_11",
+            "unstructured": "Cattaneo, Matias D., Richard K. Crump, Max H. Farrell, and Yingjie Feng. 2023a. \"Binscatter Regressions.\" Unpublished."
+        },
+        {
+            "key": "p_12",
+            "unstructured": "Cattaneo, Matias D., Richard K. Crump, Max H. Farrell, and Yingjie Feng. 2023b. \"Nonlinear Binscatter Methods.\" Unpublished."
+        },
+        {
+            "key": "p_13",
+            "unstructured": "Cattaneo, Matias D., Richard K. Crump, Max H. Farrell, and Yingjie Feng. 2024. \"Replication Data for: On Binscatter.\" American Economic Association [Publisher], Inter-university Consortium for Political and Social Research [Distributor]. https://doi.org/10.3886/E195103V1."
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/rest_a_00883"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2013.02.002"
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/19-AOS1865"
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-051520-021409"
+        },
+        {
+            "key": "p_18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/14-AOS1230"
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/14-AOS1235"
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20151182"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/pol.20180688"
+        },
+        {
+            "key": "p_22",
+            "unstructured": "Freyaldenhoven, Simon, Christian Hansen, Jorge P\u00e9rez P\u00e9rez, and Jesse M. Shapiro. 2023. \"Visualization, Identi cation, and Estimation in the Linear Panel Event-Study Design.\" In Advances in Economics and Econometrics - Twelfth World Congress."
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/jofi.13105"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gy\u00f6rfi, L\u00e1szl\u00f3, Michael Kohler, Adam Krzyak, and Harro Walk. 2002. A Distribution-Free Theory of Nonparametric Regression. New York, NY: Springer-Verlag.",
+            "DOI": "10.1007/b97848"
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176348651"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1013203461"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1065705120"
+        },
+        {
+            "key": "p_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-080315-015234"
+        },
+        {
+            "key": "p_29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjad011"
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1030741083"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10485250802159198"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20191277"
+        },
+        {
+            "key": "p_33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Moretti, Enrico. 2021b. \"Replication Data and Code for: The Effect of High-Tech Clusters on the Productivity of Top Inventors.\" American Economic Association [publisher], Inter-university Consortium for Political and Social Research [distributor]. https://doi.org/10.3886/E140662V1.",
+            "DOI": "10.1257/aer.20191277"
+        },
+        {
+            "key": "p_34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.0906865106"
+        },
+        {
+            "key": "p_35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdab094"
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1024691356"
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smj.3199"
+        },
+        {
+            "key": "p_38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/09-STS313"
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tsybakov, Alexandre B. 2009. Introduction to Nonparametric Estimation. New York, NY: Springer.",
+            "DOI": "10.1007/b13794"
+        },
+        {
+            "key": "p_40",
+            "unstructured": "Tukey, John W. 1961. \"Curves As Parameters, and Touch Estimation.\" In Proceedings of the Fourth Berkeley Symposium on Mathematical Statistics and Probability, Vol. 1, edited by Jerzy Neyman, 681-94. Berkeley, CA: University of California Press."
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TVCG.2021.3106142"
+        },
+        {
+            "key": "p_42",
+            "unstructured": "Wooldridge, Jeffrey M. 2010. Econometric Analysis of Cross Section and Panel Data. Cambridge, MA: MIT Press."
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20221576",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                30
+            ]
+        ],
+        "date-time": "2024-04-30T12:13:48Z",
+        "timestamp": 1714479228000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.20221576"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "issue": "5",
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.20221576"
+    ],
+    "URL": "http://dx.doi.org/10.1257/aer.20221576",
+    "relation": {},
+    "ISSN": [
+        "0002-8282"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ]
+    }
+}
