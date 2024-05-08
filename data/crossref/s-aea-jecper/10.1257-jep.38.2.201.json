@@ -1,0 +1,628 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                7
+            ]
+        ],
+        "date-time": "2024-05-07T00:31:11Z",
+        "timestamp": 1715041871643
+    },
+    "reference-count": 114,
+    "publisher": "American Economic Association",
+    "issue": "2",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Perspectives"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> The U.S. Census Bureau implemented a new disclosure control strategy for the 2020 Census that adds deliberate error to every population statistic for every geographic unit smaller than a state, including metropolitan areas, cities, and counties. This article traces the evolving rationale for the new procedures and assesses the impact of the 2020 disclosure control on data quality. The Census Bureau argues that the traditional disclosure controls used for the 2010 and earlier censuses revealed the confidential responses of millions of Americans. I argue that this claim is unsupported, and that there is no evidence that anyone's responses were compromised. The new disclosure control strategies introduce unnecessary error with no clear benefit; in fact, the new procedures may actually be less effective for protecting confidentiality than the procedures they replaced. I conclude with recommendations for minimizing disclosure risk while maximizing data utility in future censuses. </jats:p>",
+    "DOI": "10.1257/jep.38.2.201",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                6
+            ]
+        ],
+        "date-time": "2024-05-06T13:56:13Z",
+        "timestamp": 1715003773000
+    },
+    "page": "201-226",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "When Privacy Protection Goes Wrong: How and Why the 2020 Census Confidentiality Program Failed"
+    ],
+    "prefix": "10.1257",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Steven",
+            "family": "Ruggles",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Steven Ruggles is Regents Professor of History and Population Studies, University of Minnesota, and Director of IPUMS, both in Minneapolis, Minnesota. ."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "unstructured": "Abowd, John M. 2017. \"Research Data Centers, Reproducible Science, and Confidentiality Protection:"
+        },
+        {
+            "key": "p_2",
+            "unstructured": "The Role of the 21st Century Statistical Agency.\" Presentation, Summer DemSem, Wisconsin Federal Statistical RDC, June 5, 2017. https://www2.census.gov/cac/sac/meetings/2017-09/role"
+        },
+        {
+            "key": "p_3",
+            "unstructured": "statistical-agency.pdf. Abowd, John M. 2018a. \"Staring-Down the Database Reconstruction Theorem.\" Presentation, Joint"
+        },
+        {
+            "key": "p_4",
+            "unstructured": "Statistical Meetings, Vancouver, BC, July 30, 2018. https://www.census.gov/content/dam/Census/"
+        },
+        {
+            "key": "p_5",
+            "unstructured": "newsroom/press-kits/2018/jsm/jsm-presentation-database-reconstruction.pdf. Abowd, John M. 2018b. \"The U.S. Census Bureau Adopts Differential Privacy.\" Speech, 24th ACM"
+        },
+        {
+            "key": "p_6",
+            "unstructured": "SIGKDD Conference on Knowledge Discovery and Data Mining, London, August 23, 2018."
+        },
+        {
+            "key": "p_7",
+            "first-page": "2018",
+            "volume": "30",
+            "year": "1981",
+            "journal-title": "Twitter"
+        },
+        {
+            "key": "p_8",
+            "unstructured": "https://twitter.com/john_abowd/status/1068645579872497664. Abowd, John M. 2019. \"Staring Down the Database Reconstruction Theorem.\" Presentation, American"
+        },
+        {
+            "key": "p_9",
+            "unstructured": "Association for the Advancement of Science Annual Meeting, Washington, DC, February 16, 2019. https://bpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/4/7616/files/2019/04/2019-02-16-"
+        },
+        {
+            "issue": "3",
+            "key": "p_10",
+            "first-page": "21",
+            "author": "Abowd",
+            "year": "2021",
+            "journal-title": "Abowd. Case"
+        },
+        {
+            "key": "p_12",
+            "unstructured": "Goldschlag et al. 2023. \"The 2010 Census Confidentiality Protections Failed, Here's How and Why.\""
+        },
+        {
+            "key": "p_13",
+            "unstructured": "NBER Working Paper 31995. Abowd, John M., Gary L. Benedetto, Simson L. Garfinkel, Scot A. Dahl, Aref N. Dajani, Matthew"
+        },
+        {
+            "key": "p_14",
+            "unstructured": "Graham, Michael B. Hawes et al. 2020. \"The Modernization of Statistical Disclosure Limitation at the U.S. Census Bureau.\" https://www2.census.gov/adrm/CED/Papers/CY20/2020-"
+        },
+        {
+            "key": "p_15",
+            "unstructured": "009-AbowdBenedettoGarfinkelDahletal-The%20modernization%20of.pdf. Abowd, John M., and Michael B. Hawes. 2023. \"Confidentiality Protection in the 2020 US Census of"
+        },
+        {
+            "key": "p_16",
+            "unstructured": "Population and Housing.\" Annual Review of Statistics and Its Application 10: 119-44. Abowd, John M., Ian M. Schmutte, William N. Sexton, and Lars Vilhuber. 2019. \"Why the Economics"
+        },
+        {
+            "key": "p_18",
+            "unstructured": "cornell.edu/handle/1813/60836. Asquith, Brian, Brad Hershbein, Tracy Kugler, Shane Reed, Steven Ruggles, Jonathan Schroeder, Steve"
+        },
+        {
+            "key": "p_19",
+            "unstructured": "Yesiltepe, and David Van Riper. 2022. \"Assessing the Impact of Differential Privacy on Measures of"
+        },
+        {
+            "key": "p_20",
+            "unstructured": "Population and Racial Residential Segregation.\" Harvard Data Science Review (S2). Bambauer, Jane, Krishnamurty Muralidhar and Rathindra Sarathy. 2014. \"Fool's Gold: An Illustrated"
+        },
+        {
+            "key": "p_21",
+            "unstructured": "Critique of Differential Privacy.\" Vanderbilt Journal of Entertainment and Technology Law 16 (4): 701-55. Barth-Jones, Daniel. 2012. \"The Debate over `Re-identification' of Health Information: What Do We"
+        },
+        {
+            "key": "p_22",
+            "unstructured": "Risk?\" Health Affairs Forefront. https://doi.org/10.1377/forefront.20120810.021952. Berman, John, Harriet McCombs, and Robert Boruch. 1977. \"Notes on the Contamination Method:"
+        },
+        {
+            "key": "p_23",
+            "unstructured": "Two Small Experiments in Assuring Confidentiality of Response.\" Sociological Methods and Research"
+        },
+        {
+            "key": "p_24",
+            "unstructured": "(1): 45-63. Cantwell, Pat. 2021. \"How We Complete the Census When Households or Group Quarters Don't"
+        },
+        {
+            "key": "p_25",
+            "unstructured": "Respond.\" US Census Bureau, April 16 2021. https://www.census.gov/newsroom/blogs/random"
+        },
+        {
+            "key": "p_26",
+            "unstructured": "samplings/2021/04/imputation-when-households-or-group-quarters-dont-respond.html. Capps, Kriston. 2021. \"Data Scientists Square Off Over Trust and Privacy in 2020 Census.\" Bloomberg"
+        },
+        {
+            "key": "p_27",
+            "unstructured": "News, August 12. https://www.bloomberg.com/news/articles/2021-08-12/data-scientists-ask-can"
+        },
+        {
+            "key": "p_28",
+            "unstructured": "we-trust-the-2020-census. Commission on Evidence-Based Policymaking. 2018. The Promise of Evidence-Based Policymaking. Wash"
+        },
+        {
+            "key": "p_29",
+            "unstructured": "ington, DC: Commission on Evidence-Based Policymaking. Committee on National Statistics. 2020. 2020 Census Data Products: Data Needs and Privacy Considerations:"
+        },
+        {
+            "key": "p_30",
+            "unstructured": "Proceedings of a Workshop. Washington, DC: National Academies Press. Committee on National Statistics. 2023a. Assessing the 2020 Census: Final Report. Washington, DC:"
+        },
+        {
+            "key": "p_31",
+            "unstructured": "National Academies Press. Committee on National Statistics. 2023b. 2020 Census Data Products: Demographic and Housing Character"
+        },
+        {
+            "key": "p_32",
+            "unstructured": "istics File: Proceedings of a Workshop. Washington, DC: National Academies Press. Daily, Donna. 2022. \"Disclosure Avoidance Protections for the American Community Survey.\" US Census"
+        },
+        {
+            "key": "p_33",
+            "unstructured": "Bureau, December 14. https://www.census.gov/newsroom/blogs/random-samplings/2022/12/"
+        },
+        {
+            "key": "p_35",
+            "unstructured": "Simson L. Garfinkel et al. 2017. \"The Modernization of Statistical Disclosure Limitation at the U.S. Census Bureau.\" United Nations Economic Commission for Europe, Joint UNECE/Eurostat work session on statistical data confidentiality, Skopje, September 20-22. https://unece.org/fileadmin/"
+        },
+        {
+            "key": "p_36",
+            "unstructured": "DAM/stats/documents/ece/ces/ge.46/2017/3_census_bureau.pdf. Dick, Travis, Cynthia Dwork, Michael Kearns, Terrance Liu, Aaron Roth, Giuseppe Vietri, and Zhiwei"
+        },
+        {
+            "key": "p_37",
+            "unstructured": "Steven Wu. 2023. \"Confidence-Ranked Reconstruction of Census Microdata from Published"
+        },
+        {
+            "key": "p_38",
+            "unstructured": "Statistics.\" Proceedings of the National Academy of Sciences 120 (8): e2218605120. Dillman, Don A., Eleanor Singer, Jon R. Clark, and James B. Treat. 1996. \"Effects of Benefits Appeals,"
+        },
+        {
+            "key": "p_39",
+            "unstructured": "Mandatory Appeals, and Variations in Statements of Confidentiality on Completion Rates for"
+        },
+        {
+            "key": "p_40",
+            "unstructured": "Census Questionnaires.\" Public Opinion Quarterly 60: 376-89. Dinur, Irit, and Kobbi Nissim. 2003. \"Revealing Information While Preserving Privacy.\" In Proceedings of"
+        },
+        {
+            "key": "p_41",
+            "unstructured": "the Twenty-Second ACM Sigmod-Sigact-Sigart Symposium on Principles of Database Systems, 202-10. New"
+        },
+        {
+            "key": "p_42",
+            "unstructured": "York: Association for Computing Machinery. Domingo-Ferrer, Josep, David S\u00e1nchez, and Alberto Blanco-Justicia. 2021. \"The Limits of Differential"
+        },
+        {
+            "key": "p_44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "33-35. Dwork, Cynthia. 2011. \"A Firm Foundation for Private Data Analysis.\" Communications of the ACM 54 (1):",
+            "DOI": "10.1145/1866739.1866758"
+        },
+        {
+            "key": "p_45",
+            "unstructured": "86-95. Dwork, Cynthia, Frank McSherry, Kobby Nissim, and Adam Smith. 2006. \"Calibrating Noise to Sensi"
+        },
+        {
+            "key": "p_46",
+            "unstructured": "tivity in Private Data Analysis.\" In Theory of Cryptography, edited by Shai Halevi, Tal Rabin, 265-84."
+        },
+        {
+            "key": "p_47",
+            "unstructured": "Heidelberg: Springer Berlin. Foundations for Evidence-Based Policymaking Act of 2018. P. L. No. 115-435. 132 Stat. 5529. (2019). Francis, Paul. 2022. \"A Note on the Misinterpretation of the US Census Re-identification Attack.\" In"
+        },
+        {
+            "key": "p_48",
+            "unstructured": "Privacy in Statistical Databases, edited by Josep Domingo-Ferrer and Maryline Laurent, 299-311."
+        },
+        {
+            "key": "p_49",
+            "unstructured": "Cham, Switzerland: Springer. Frey, James H. 1986. \"An Experiment with a Confidentiality Reminder in a Telephone Survey.\" Public"
+        },
+        {
+            "key": "p_50",
+            "unstructured": "Opinion Quarterly 50 (2): 267-69. Garfinkel, Simson. 2017. \"Modernizing Disclosure Avoidance: Report on the 2020 Disclosure Avoid"
+        },
+        {
+            "key": "p_51",
+            "unstructured": "ance Subsystem as Implemented for the 2018 End-to-End Test.\" Presentation, Census Scientific Advisory Committee, Suitland, MD, September 15, 2017. https://www2.census.gov/cac/sac/"
+        },
+        {
+            "key": "p_52",
+            "unstructured": "meetings/2017-09/garfinkel-modernizing-disclosure-avoidance.pdf. Garfinkel, Simson. 2023. \"Comment to Muralidhar and Domingo-Ferrer (2023)-Legacy Statistical"
+        },
+        {
+            "key": "p_53",
+            "unstructured": "Disclosure Limitation Techniques Were Not an Option for the 2020 US Census of Population and"
+        },
+        {
+            "key": "p_54",
+            "unstructured": "Housing.\" Journal of Official Statistics 39 (3): 399-410. Garfinkel, Simson L., John M. Abowd, and Sarah Powazek. 2018. \"Issues Encountered Deploying Differ"
+        },
+        {
+            "key": "p_55",
+            "unstructured": "ential Privacy.\" In WPES'18 Proceedings of the 2018 Workshop on Privacy in the Electronic Society, 133-37."
+        },
+        {
+            "key": "p_56",
+            "author": "New York: Association for Computing Machinery. Greenberg, Andy.",
+            "year": "2017",
+            "journal-title": "Wired Magazine"
+        },
+        {
+            "key": "p_57",
+            "unstructured": "September 15. https://www.wired.com/story/apple-differential-privacy-shortcomings/. Hansen, Mark. 2018. \"To Reduce Privacy Risks, the Census Plans to Report Less Accurate Data.\" New York"
+        },
+        {
+            "key": "p_58",
+            "unstructured": "Times, December 5. https://www.nytimes.com/2018/12/05/upshot/to-reduce-privacy-risks-the"
+        },
+        {
+            "key": "p_59",
+            "unstructured": "census-plans-to-report-less-accurate-data.html. Hauer, Mathew E., and Alexis R. Santos-Lozada. 2021. \"Differential Privacy in the 2020 Census Will"
+        },
+        {
+            "key": "p_60",
+            "unstructured": "Distort COVID-19 Rates.\" Socius 7: 2378023121994014. Hawes, Michael. 2022. \"Reconstruction and Re-identification of the Demographic and Housing Character"
+        },
+        {
+            "key": "p_61",
+            "unstructured": "istics File (DHC).\" Presentation, Census Scientific Advisory Committee, March 17-18, 2022. https:// www2.census.gov/about/partners/cac/sac/meetings/2022-03/presentation-reconstruction-and"
+        },
+        {
+            "key": "p_63",
+            "unstructured": "Nekipelov, Aaron Sojourner, and Bruce D. Spencer. 2022. \"Balancing Data Privacy and Usability in"
+        },
+        {
+            "key": "p_64",
+            "unstructured": "the Federal Statistical System. Proceedings of the National Academy of Sciences 119 (31): e2104906119. Jarmin, Ron. 2019. \"Census Bureau Adopts Cutting Edge Privacy Protections for 2020 Census.\" US Census"
+        },
+        {
+            "key": "p_65",
+            "unstructured": "Bureau, February 15. https://www.census.gov/newsroom/blogs/random-samplings/2019/02/"
+        },
+        {
+            "key": "p_67",
+            "unstructured": "B. Hawes, Sallie Ann Keller et al. 2023. \"An In-Depth Examination of Requirements for Disclosure"
+        },
+        {
+            "key": "p_68",
+            "unstructured": "Risk Assessment.\" Proceedings of the National Academy of Sciences 120 (43): e2220558120. JASON. 2022. Consistency of Data Products and Formal Privacy Methods for the 2020 Census. (JSR-21-02,"
+        },
+        {
+            "key": "p_69",
+            "unstructured": "January 11, 2022). The MITRE Corporation. https://perma.cc/XJS8-ADX6. Kenny, Christopher T., Shiro Kuriwaki, Cory McCartan, Evan T. R. Rosenman, Tyler Simko, and Kosuke"
+        },
+        {
+            "key": "p_70",
+            "unstructured": "Imai. 2021. \"The Use of Differential Privacy for Census Data and its Impact on Redistricting: The"
+        },
+        {
+            "key": "p_71",
+            "unstructured": "Case of the 2020 US Census.\" Science Advances 7 (41): eabk3283. Kenny, Christopher T., Shiro Kuriwaki, Cory McCartan, Evan T. R. Rosenman, Tyler Simko, and Kosuke"
+        },
+        {
+            "key": "p_72",
+            "unstructured": "Imai. 2023. \"Comment: The Essential Role of Policy Evaluation for the 2020 Census Disclosure"
+        },
+        {
+            "key": "p_73",
+            "unstructured": "Avoidance System.\" Harvard Data Science Review (S2). Lauger, Amy, Billy Wisniewski, and Laura McKenna. 2014. \"Disclosure Avoidance Techniques at the U.S."
+        },
+        {
+            "key": "p_75",
+            "unstructured": "#2014-02. Washington, DC: US Census Bureau. Lee, Jaewoo, and Chris Clifton. 2011. \"How Much Is Enough? Choosing \u03b5 for Differential Privacy.\" In"
+        },
+        {
+            "key": "p_76",
+            "unstructured": "International Conference on Information Security, edited by Xuejia Lai, Jianying Zhou, and Hui Li,"
+        },
+        {
+            "key": "p_77",
+            "unstructured": "325-40. Heidelberg: Springer Berlin. Manson, Steven, Jonathan Schroeder, David Van Riper, Tracy Kugler, and Steven Ruggles. 2022. \"IPUMS"
+        },
+        {
+            "key": "p_79",
+            "unstructured": "IPUMS. http://doi.org/10.18128/D050.V17.0 (accessed June 3, 2023). McKenna, Laura. 2018. \"Disclosure Avoidance Techniques Used for the 1970 through 2010 Decennial"
+        },
+        {
+            "key": "p_80",
+            "unstructured": "Censuses of Population and Housing.\" US Census Bureau Working Paper CES-18-47. McKenna, Laura. 2019. \"U.S. Census Bureau Reidentification Studies.\" US Census Bureau Working"
+        },
+        {
+            "key": "p_81",
+            "unstructured": "Paper CED-WP-2019-008. McKenna, Laura, and Matthew Haubach. 2019. \"Legacy Techniques and Current Research in Disclosure"
+        },
+        {
+            "key": "p_82",
+            "unstructured": "Avoidance at the US Census Bureau.\" US Census Bureau Working Paper CED-WP-2019-005. Menger, Elyse. 2021. \"Mermaids and Census Privacy Concerns.\" Applied Geographic Solutions September 2."
+        },
+        {
+            "key": "p_83",
+            "unstructured": "https://appliedgeographic.com/2021/09/mermaids-and-census-privacy-concerns/. Mueller, J. Tom, and Alexis R. Santos-Lozada. 2022. \"The 2020 US Census Differential Privacy Method"
+        },
+        {
+            "key": "p_85",
+            "unstructured": "Research and Policy Review 41 (4): 1417-30. Muralidhar, Krishnamurthy. 2022. \"A Re-examination of the Census Bureau Reconstruction and Reiden"
+        },
+        {
+            "key": "p_87",
+            "unstructured": "Laurent, 312-23. Cham, Switzerland: Springer. Muralidhar, Krishnamurthy, and Josep Domingo-Ferrer. 2023a. \"Database Reconstruction Is Not So Easy"
+        },
+        {
+            "key": "p_88",
+            "doi-asserted-by": "crossref",
+            "unstructured": "and Is Different from Reidentification.\" Journal of Official Statistics 39 (3): 381-98. Muralidhar, Krishnamurthy, and Josep Domingo-Ferrer. 2023b. \"A Rejoinder to Garfinkel (2023)-",
+            "DOI": "10.2478/jos-2023-0017"
+        },
+        {
+            "key": "p_89",
+            "unstructured": "Legacy Statistical Disclosure Limitation Techniques for Protecting 2020 Decennial US Census: Still"
+        },
+        {
+            "key": "p_90",
+            "doi-asserted-by": "crossref",
+            "unstructured": "a Viable Option.\" Journal of Official Statistics 39 (3): 411-20. Muralidhar, Krishnamurthy, Josep Domingo-Ferrer, David Sanchez, and Steven Ruggles. 2024.",
+            "DOI": "10.2478/jos-2023-0019"
+        },
+        {
+            "key": "p_92",
+            "unstructured": "2010 and 2020 Decennial Census.\" Unpublished. Ramachandran, Aditi, Lisa Singh, Edward Porter, and Frank Nagle. 2012. \"Exploring Re-Identification"
+        },
+        {
+            "key": "p_93",
+            "unstructured": "Risks in Public Domains.\" In Tenth Annual International Conference on Privacy, Security and Trust,"
+        },
+        {
+            "key": "p_94",
+            "unstructured": "35-42. Piscataway, NJ: Institute of Electrical and Electronics Engineers. Rastogi, Sonya and Amy O'Hara. 2012. 2010 Census Match Study: Final Report. 2010 Census Planning"
+        },
+        {
+            "key": "p_95",
+            "unstructured": "Memoranda Series 247. Washington, DC: US Census Bureau. Reamer, Frederic G. 1979. \"Protecting Research Subjects and Unintended Consequences: The Effect of"
+        },
+        {
+            "key": "p_96",
+            "unstructured": "Guarantees of Confidentiality.\" Public Opinion Quarterly 43 (4): 497-506. Rodr\u00edguez, Rolando A. 2021. \"Disclosure Avoidance and the American Community Survey.\" Presentation,"
+        },
+        {
+            "key": "p_97",
+            "unstructured": "2021 ACS Dara Users Conference, May 20. https://acsdatacommunity.prb.org/discussion-forum/"
+        },
+        {
+            "key": "p_98",
+            "unstructured": "m/2021-acs-conference-files/147/download. Ruggles, Steven, Catherine Fitch, Diana Magnuson, and Jonathan Schroeder. 2019. \"Differential Privacy"
+        },
+        {
+            "key": "p_99",
+            "unstructured": "and Census Data: Implications for Social and Economic Research.\" AEA Papers and Proceedings 109:"
+        },
+        {
+            "key": "p_100",
+            "unstructured": "403-08. Ruggles, Steven, and Diana L. Magnuson. 2023. \"`It's None of Their Damn Business': Privacy and Disclo"
+        },
+        {
+            "issue": "3",
+            "key": "p_101",
+            "first-page": "651",
+            "volume": "49",
+            "author": "Control U.S.",
+            "year": "2020",
+            "journal-title": "Population and Development Review"
+        },
+        {
+            "key": "p_102",
+            "unstructured": "struction Experiment.\" Population Research and Policy Review 41 (3): 781-88. Ruggles, Steven, and David Van Riper. 2023. \"Response to the Census Bureau Critique of `The Role of"
+        },
+        {
+            "key": "p_104",
+            "unstructured": "Working Paper. https://osf.io/my64r. S\u00e1nchez, David, Josep Domingo-Ferrer, Krishnamurty Muralidhar. 2023. \"Confidence-Ranked"
+        },
+        {
+            "key": "p_106",
+            "unstructured": "Reidentifiability\" Proceedings of the National Academy of Sciences 120 (18): e2303890120. Santos-Lozada, Alexis R., Jeffrey T. Howard, and Ashton M. Verdery. 2020. \"How Differential Privacy"
+        },
+        {
+            "key": "p_107",
+            "unstructured": "Will Affect our Understanding of Health Disparities in the United States.\" Proceedings of the National"
+        },
+        {
+            "key": "p_108",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Academy of Sciences 117 (24): 13405-12. Schneider, Mike. 2021. \"People, Homes Vanish Due to 2020 Census' New Privacy Method.\" Associated",
+            "DOI": "10.1073/pnas.2003714117"
+        },
+        {
+            "key": "p_110",
+            "unstructured": "7eb701da74ae7c8df3c3476705. Singer, Eleanor, Hans-J\u00fcrgen Hippier, and Norbert Schwarz. 1992. \"Confidentiality Assurances in"
+        },
+        {
+            "key": "p_111",
+            "unstructured": "Surveys: Reassurance or Threat?\" International Journal of Public Opinion Research 4 (3): 256-68. Sullivan, Teresa A., and Daniel L. Cork, eds. 2022. Understanding the Quality of the 2020 Census: Interim"
+        },
+        {
+            "key": "p_112",
+            "unstructured": "Report. Washington, DC: National Academies Press. State of Alabama et al. v. US Department of Commerce et al. 3:21-CV-211-RAH-ECM-KCN (2021). US Census Bureau. 2021. \"Census Bureau Sets Key Parameters to Protect Privacy in 2020 Census Results.\""
+        },
+        {
+            "key": "p_113",
+            "unstructured": "Press Release CB21-CN.42, June 9. https://www.census.gov/newsroom/press-releases/2021/2020-"
+        },
+        {
+            "key": "p_114",
+            "unstructured": "census-key-parameters.html. US Census Bureau. 2022. \"Privacy Loss Budget Allocation.\" https://www2.census.gov/programs-surveys/"
+        },
+        {
+            "key": "p_115",
+            "unstructured": "decennial/2020/program-management/data-product-planning/2010-demonstration-dataproducts/02-Demographic_and_Housing_Characteristics/2022-03-16_Summary_File/2022-"
+        },
+        {
+            "key": "p_116",
+            "unstructured": "03-16_Privacy-Loss_Budget_Allocations.pdf. US Census Bureau. 2023a. \"Detailed Demographic and Housing Characteristics File A (Detailed"
+        },
+        {
+            "key": "p_117",
+            "unstructured": "DHC-A) Proof of Concept.\" https://www2.census.gov/programs-surveys/decennial/2020/ program-management/data-product-planning/2010-demonstration-data-products/03-Detailed_"
+        },
+        {
+            "key": "p_118",
+            "unstructured": "DHC-A/2023-01-31/Proof_of_Concept.pdf. US Census Bureau. 2023b. \"2020 Census Data Table Guide.\" https://www2.census.gov/programs"
+        },
+        {
+            "key": "p_119",
+            "unstructured": "surveys/decennial/2020/program-management/data-table-guide-dhc-dp.xlsx. Vadukul, Alex. 2011. \"Relaxing under Liberty's Shadow.\" New York Times, August 12. https://www.nytimes."
+        },
+        {
+            "key": "p_120",
+            "unstructured": "com/2011/08/14/nyregion/on-sundays-david-luchsinger-relaxes-under-lady-libertys-shadow.html. Van Riper, David, Tracy Kugler, and Jonathan Schroeder. 2020-2023. \"IPUMS NHGIS Privacy-Protected"
+        },
+        {
+            "key": "p_122",
+            "unstructured": "privacy-protected-2010-census-demonstration-data (accessed June 3, 2023). Wagner, Deborah, and Mary Layne. 2014. \"The Person Identification Validation System (PVS): Applying"
+        },
+        {
+            "key": "p_124",
+            "unstructured": "Software.\" US Census Bureau CARRA Working Paper 2014-01. Wezerek, Gus, and Daniel Van Riper. 2020. \"Changes to the Census Could Make Small Towns Disappear.\""
+        },
+        {
+            "key": "p_125",
+            "unstructured": "New York Times, February 6. https://www.nytimes.com/interactive/2020/02/06/opinion/census"
+        },
+        {
+            "key": "p_126",
+            "unstructured": "algorithm-privacy.html. Wines, Michael. 2022. \"The 2020 Census Suggests That People Live Underwater. There's a Reason.\" New"
+        },
+        {
+            "key": "p_127",
+            "unstructured": "York Times, April 21. https://www.nytimes.com/2022/04/21/us/census-data-privacy-concerns."
+        },
+        {
+            "key": "p_128",
+            "unstructured": "html. Winkler, Richelle L., Jaclyn L. Butler, Katherine J. Curtis, and David Egan-Robertson. 2022. \"Differential"
+        },
+        {
+            "key": "p_130",
+            "unstructured": "Review 41 (2): 417-35. Zayatz, Laura, Jason Lucero, Paul Massell, and Asoka Ramanayake. 2009. \"Disclosure avoidance for"
+        },
+        {
+            "key": "p_131",
+            "first-page": "2009",
+            "author": "Census",
+            "year": "2010",
+            "journal-title": "Research Report Series"
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Perspectives"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jep.38.2.201",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                6
+            ]
+        ],
+        "date-time": "2024-05-06T13:57:02Z",
+        "timestamp": 1715003822000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jep.38.2.201"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ]
+    },
+    "references-count": 114,
+    "journal-issue": {
+        "issue": "2",
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jep.38.2.201"
+    ],
+    "URL": "http://dx.doi.org/10.1257/jep.38.2.201",
+    "relation": {},
+    "ISSN": [
+        "0895-3309"
+    ],
+    "issn-type": [
+        {
+            "value": "0895-3309",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                1
+            ]
+        ]
+    }
+}
