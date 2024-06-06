@@ -1,0 +1,1187 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                1
+            ]
+        ],
+        "date-time": "2024-06-01T04:36:57Z",
+        "timestamp": 1717216617381
+    },
+    "reference-count": 73,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        4
+                    ]
+                ],
+                "date-time": "2023-10-04T00:00:00Z",
+                "timestamp": 1696377600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                30
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We build a publicly available database that tracks economic activity in the United States at a granular level in real time using anonymized data from private companies. We report weekly statistics on consumer spending, business revenues, job postings, and employment rates disaggregated by county, sector, and income group. Using the publicly available data, we show how the COVID-19 pandemic affected the economy by analyzing heterogeneity in its effects across subgroups. High-income individuals reduced spending sharply in March 2020, particularly in sectors that require in-person interaction. This reduction in spending greatly reduced the revenues of small businesses in affluent, dense areas. Those businesses laid off many of their employees, leading to widespread job losses, especially among low-wage workers in such areas. High-wage workers experienced a V-shaped recession that lasted a few weeks, whereas low-wage workers experienced much larger, more persistent job losses. Even though consumer spending and job postings had recovered fully by December 2021, employment rates in low-wage jobs remained depressed in areas that were initially hard hit, indicating that the temporary fall in labor demand led to a persistent reduction in labor supply. Building on this diagnostic analysis, we evaluate the effects of fiscal stimulus policies designed to stem the downward spiral in economic activity. Cash stimulus payments led to sharp increases in spending early in the pandemic, but much smaller responses later in the pandemic, especially for high-income households. Real-time estimates of marginal propensities to consume provided better forecasts of the impacts of subsequent rounds of stimulus payments than historical estimates. Overall, our findings suggest that fiscal policies can stem secondary declines in consumer spending and job losses, but cannot restore full employment when the initial shock to consumer spending arises from health concerns. More broadly, our analysis demonstrates how public statistics constructed from private sector data can support many research and real-time policy analyses, providing a new tool for empirical macroeconomics.</jats:p>",
+    "DOI": "10.1093/qje/qjad048",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                5
+            ]
+        ],
+        "date-time": "2023-10-05T01:22:26Z",
+        "timestamp": 1696468946000
+    },
+    "page": "829-889",
+    "source": "Crossref",
+    "is-referenced-by-count": 15,
+    "title": [
+        "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data"
+    ],
+    "prefix": "10.1093",
+    "volume": "139",
+    "author": [
+        {
+            "given": "Raj",
+            "family": "Chetty",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard University , United States"
+                }
+            ]
+        },
+        {
+            "given": "John N",
+            "family": "Friedman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Brown University , United States"
+                }
+            ]
+        },
+        {
+            "given": "Michael",
+            "family": "Stepner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto , Canada"
+                }
+            ]
+        },
+        {
+            "given": "Hamidah",
+            "family": "Alatas",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Camille",
+            "family": "Baker",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Harvey",
+            "family": "Barnhard",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Matt",
+            "family": "Bell",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Gregory",
+            "family": "Bruich",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Tina",
+            "family": "Chelidze",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Lucas",
+            "family": "Chu",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Westley",
+            "family": "Cineus",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Sebi",
+            "family": "Devlin-Foltz",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Michael",
+            "family": "Droste",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Dhruv",
+            "family": "Gaur",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Federico",
+            "family": "Gonzalez",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Rayshauna",
+            "family": "Gray",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Abigail",
+            "family": "Hiller",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Matthew",
+            "family": "Jacob",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Tyler",
+            "family": "Jacobson",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Margaret",
+            "family": "Kallus",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Fiona",
+            "family": "Kastel",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Laura",
+            "family": "Kincaide",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Caitlin",
+            "family": "Kupsc",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Sarah",
+            "family": "LaBauve",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Luc\u00eda",
+            "family": "Lamas",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Maddie",
+            "family": "Marino",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Kai",
+            "family": "Matheson",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Jared",
+            "family": "Miller",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Christian",
+            "family": "Mott",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Kate",
+            "family": "Musen",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Danny",
+            "family": "Onorato",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Sarah",
+            "family": "Oppenheimer",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Trina",
+            "family": "Ott",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Lynn",
+            "family": "Overmann",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Max",
+            "family": "Pienkny",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Jeremiah",
+            "family": "Prince",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Sebastian",
+            "family": "Puerta",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Daniel",
+            "family": "Reuter",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Peter",
+            "family": "Ruhm",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Tom",
+            "family": "Rutter",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Emanuel",
+            "family": "Schertz",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Shannon Felton",
+            "family": "Spence",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Krista",
+            "family": "Stapleford",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Kamelia",
+            "family": "Stavreva",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Ceci",
+            "family": "Steyn",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "James",
+            "family": "Stratton",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Clare",
+            "family": "Suter",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Elizabeth",
+            "family": "Thach",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Nicolaj",
+            "family": "Thor",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Amanda",
+            "family": "Wahlers",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Kristen",
+            "family": "Watkins",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Alanna",
+            "family": "Williams",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "David",
+            "family": "Williams",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Chase",
+            "family": "Williamson",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Shady",
+            "family": "Yassin",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Ruby",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Austin",
+            "family": "Zheng",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "name": "Opportunity Insights Team",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024033009011400800_bib1",
+            "volume-title": "Big Data for 21st Century Economic Statistics,",
+            "author": "Abraham",
+            "year": "2019"
+        },
+        {
+            "key": "2024033009011400800_bib2",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Labor Market Impacts of the 2010 Deepwater Horizon Oil Spill and Offshore Oil Drilling Moratorium",
+            "author": "Aldy",
+            "year": "2014",
+            "DOI": "10.3386/w20409"
+        },
+        {
+            "key": "2024033009011400800_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1017",
+            "DOI": "10.1162/rest_a_01108",
+            "article-title": "Do Stay-at-Home Orders Cause People to Stay at Home? Effects of Stay-at-Home Orders on Consumer Behavior",
+            "volume": "105",
+            "author": "Alexander",
+            "year": "2023",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2024033009011400800_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "104254",
+            "DOI": "10.1016/j.jpubeco.2020.104254",
+            "article-title": "Polarization and Public Health: Partisan Differences in Social Distancing during the Coronavirus Pandemic",
+            "volume": "191",
+            "author": "Allcott",
+            "year": "2020",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024033009011400800_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "308",
+            "DOI": "10.1257/pandp.20221108",
+            "article-title": "More Than Shelter: The Effect of Rental Eviction Moratoria on Household Well-Being",
+            "volume": "112",
+            "author": "An",
+            "year": "2022",
+            "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+            "key": "2024033009011400800_bib6",
+            "doi-asserted-by": "crossref",
+            "article-title": "Disaggregated Economic Accounts",
+            "author": "Andersen",
+            "year": "2022",
+            "DOI": "10.3386/w30630"
+        },
+        {
+            "key": "2024033009011400800_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1353/eca.2018.0002",
+            "article-title": "Jobs for the Heartland: Place-Based Policies in 21st Century America",
+            "volume": "2018",
+            "author": "Austin",
+            "year": "2018",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2024033009011400800_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "104664",
+            "DOI": "10.1016/j.jpubeco.2022.104664",
+            "article-title": "An Evaluation of the Paycheck Protection Program Using Administrative Payroll Microdata",
+            "volume": "211",
+            "author": "Autor",
+            "year": "2022",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024033009011400800_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1257/jep.36.2.55",
+            "article-title": "The ${\\$}$800 Billion Paycheck Protection Program: Where Did the Money Go and Why Did It Go There?",
+            "volume": "36",
+            "author": "Autor",
+            "year": "2022",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011400800_bib11",
+            "doi-asserted-by": "crossref",
+            "article-title": "Income, Liquidity, and the Consumption Response to the 2020 Economic Stimulus Payments",
+            "volume-title": "Review of Finance",
+            "author": "Baker",
+            "DOI": "10.3386/w27097"
+        },
+        {
+            "key": "2024033009011400800_bib12",
+            "doi-asserted-by": "crossref",
+            "article-title": "Measuring the Labor Market at the Onset of the COVID-19 Crisis",
+            "author": "Bartik",
+            "year": "2020",
+            "DOI": "10.3386/w27613"
+        },
+        {
+            "key": "2024033009011400800_bib13",
+            "article-title": "S 3814-RESTART Act",
+            "author": "Bennet",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib14",
+            "article-title": "Countercyclical Restructuring and Jobless Recoveries",
+            "author": "Berger",
+            "year": "2012",
+            "journal-title": "Society for Economic Dynamics"
+        },
+        {
+            "key": "2024033009011400800_bib15",
+            "doi-asserted-by": "crossref",
+            "article-title": "Real-Time Inequality",
+            "author": "Blanchet",
+            "year": "2022",
+            "DOI": "10.3386/w30229"
+        },
+        {
+            "key": "2024033009011400800_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "S20",
+            "DOI": "10.1016/j.jmoneco.2014.09.002",
+            "article-title": "The Economic Stimulus Payments of 2008 and the Aggregate Demand for Consumption",
+            "volume": "68",
+            "author": "Broda",
+            "year": "2014",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024033009011400800_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1007",
+            "DOI": "10.1111/joes.12423",
+            "article-title": "A Literature Review of the Economics of COVID-19",
+            "volume": "35",
+            "author": "Brodeur",
+            "year": "2021",
+            "journal-title": "Journal of Economic Surveys"
+        },
+        {
+            "key": "2024033009011400800_bib19",
+            "article-title": "Daily Treasury Statement: Issues: Current and Archive",
+            "author": "Bureau of the Fiscal Service",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib20",
+            "doi-asserted-by": "crossref",
+            "article-title": "The U.S. Labor Market during the Beginning of the Pandemic Recession",
+            "author": "Cajner",
+            "year": "2020",
+            "DOI": "10.3386/w27159"
+        },
+        {
+            "key": "2024033009011400800_bib21",
+            "doi-asserted-by": "crossref",
+            "article-title": "2020 American Life Panel Survey on Impacts of COVID-19: Technical Documentation",
+            "author": "Carman",
+            "year": "2020",
+            "DOI": "10.7249/RRA308-1"
+        },
+        {
+            "key": "2024033009011400800_bib22",
+            "volume-title": "\u201cUnderstanding Online Job Ads Data,\u201d",
+            "author": "Carnevale",
+            "year": "2014"
+        },
+        {
+            "key": "2024033009011400800_bib23",
+            "article-title": "The Effect of Fiscal Stimulus: Evidence from COVID-19",
+            "author": "Casado",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib24",
+            "doi-asserted-by": "crossref",
+            "article-title": "Inflation with COVID Consumption Baskets",
+            "author": "Cavallo",
+            "year": "2020",
+            "DOI": "10.3386/w27352"
+        },
+        {
+            "key": "2024033009011400800_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1567",
+            "DOI": "10.1093/qje/qjaa005",
+            "article-title": "Income Segregation and Intergenerational Mobility across Colleges in the United States",
+            "volume": "135",
+            "author": "Chetty",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011400800_bib26",
+            "article-title": "Effects of January 2021 Stimulus Payments on Consumer Spending",
+            "author": "Chetty",
+            "year": "2021"
+        },
+        {
+            "key": "2024033009011400800_bib27",
+            "article-title": "Replication Data for: \u2018The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data\u2019",
+            "author": "Chetty",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011400800_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1257/pandp.20221009",
+            "article-title": "Early Withdrawal of Pandemic Unemployment Insurance: Effects on Employment and Earnings",
+            "volume": "112",
+            "author": "Coombs",
+            "year": "2022",
+            "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+            "key": "2024033009011400800_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1353/eca.2020.0006",
+            "article-title": "Initial Impacts of the Pandemic on Consumer Behavior: Evidence from Linked Income, Spending, and Savings Data",
+            "volume": "2020",
+            "author": "Cox",
+            "year": "2020",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2024033009011400800_bib33",
+            "article-title": "Measuring the Effects of the COVID-19 Pandemic on Consumer Spending Using Card Transaction Data",
+            "author": "Dunn",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib34",
+            "doi-asserted-by": "crossref",
+            "article-title": "Selection in Surveys",
+            "author": "Dutz",
+            "year": "2021",
+            "DOI": "10.2139/ssrn.3973631"
+        },
+        {
+            "key": "2024033009011400800_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "5149",
+            "DOI": "10.1093/rfs/hhab040",
+            "article-title": "The Macroeconomics of Epidemics",
+            "volume": "34",
+            "author": "Eichenbaum",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024033009011400800_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "3150",
+            "DOI": "10.1257/aer.20130954",
+            "article-title": "The Next Generation of the Penn World Table",
+            "volume": "105",
+            "author": "Feenstra",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011400800_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "102251",
+            "DOI": "10.1016/j.labeco.2022.102251",
+            "article-title": "Where Have All the Workers Gone? Recalls, Retirements, and Reallocation in the COVID Recovery",
+            "volume": "78",
+            "author": "Forsythe",
+            "year": "2022",
+            "journal-title": "Labour Economics"
+        },
+        {
+            "key": "2024033009011400800_bib39",
+            "doi-asserted-by": "crossref",
+            "article-title": "Spending and Job-Finding Impacts of Expanded Unemployment Benefits: Evidence from Administrative Micro Data",
+            "author": "Ganong",
+            "year": "2022",
+            "DOI": "10.3386/w30315"
+        },
+        {
+            "key": "2024033009011400800_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "104273",
+            "DOI": "10.1016/j.jpubeco.2020.104273",
+            "article-title": "US Unemployment Insurance Replacement Rates during the Pandemic",
+            "volume": "191",
+            "author": "Ganong",
+            "year": "2020",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024033009011400800_bib41",
+            "doi-asserted-by": "crossref",
+            "article-title": "The Consequences of Remote and Hybrid Instruction during the Pandemic",
+            "author": "Goldhaber",
+            "year": "2022",
+            "DOI": "10.3386/w30010"
+        },
+        {
+            "key": "2024033009011400800_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "104311",
+            "DOI": "10.1016/j.jpubeco.2020.104311",
+            "article-title": "Fear, Lockdown, and Diversion: Comparing Drivers of Pandemic Economic Decline 2020",
+            "volume": "193",
+            "author": "Goolsbee",
+            "year": "2021",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024033009011400800_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "725",
+            "DOI": "10.1016/j.jfineco.2022.05.006",
+            "article-title": "Did the Paycheck Protection Program Hit the Target?",
+            "volume": "145",
+            "author": "Granja",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024033009011400800_bib46",
+            "article-title": "Family Cash Balances, Income, and Expenditures Trends through 2021",
+            "author": "Greig",
+            "year": "2021"
+        },
+        {
+            "key": "2024033009011400800_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1437",
+            "DOI": "10.1257/aer.20201063",
+            "article-title": "Macroeconomic Implications of COVID-19: Can Negative Supply Shocks Cause Demand Shortages?",
+            "volume": "112",
+            "author": "Guerrieri",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011400800_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "335",
+            "DOI": "10.1353/eca.2020.0027",
+            "article-title": "Has the Paycheck Protection Program Succeeded?",
+            "volume": "2020",
+            "author": "Hubbard",
+            "year": "2020",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2024033009011400800_bib52",
+            "article-title": "Internal Revenue Service Data Book 2021",
+            "author": "Internal Revenue Service",
+            "year": "2022"
+        },
+        {
+            "key": "2024033009011400800_bib53",
+            "first-page": "173",
+            "article-title": "Pandemic Schooling Mode and Student Test Scores: Evidence from US School Districts",
+            "volume": "5",
+            "author": "Jack",
+            "year": "2023",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2024033009011400800_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1162/rest_a_00875",
+            "article-title": "Job Polarization and Jobless Recoveries",
+            "volume": "102",
+            "author": "Jaimovich",
+            "year": "2020",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2024033009011400800_bib55",
+            "first-page": "107",
+            "article-title": "Fiscal Policy and MPC Heterogeneity",
+            "volume": "6",
+            "author": "Jappelli",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2024033009011400800_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1589",
+            "DOI": "10.1257/aer.96.5.1589",
+            "article-title": "Household Expenditure and the Income Tax Rebates of 2001",
+            "volume": "96",
+            "author": "Johnson",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011400800_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.3982/ECTA10528",
+            "article-title": "A Model of the Consumption Response to Fiscal Stimulus Payments",
+            "volume": "82",
+            "author": "Kaplan",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024033009011400800_bib58",
+            "volume-title": "National Income and Its Composition, 1919\u20131938",
+            "author": "Kuznets",
+            "year": "1941"
+        },
+        {
+            "key": "2024033009011400800_bib59",
+            "article-title": "$1,400 Stimulus Checks Look Likely\u2014But the Recipients Might Change This Time",
+            "author": "Lambert",
+            "journal-title": "Fortune"
+        },
+        {
+            "key": "2024033009011400800_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "S333",
+            "DOI": "10.1086/682406",
+            "article-title": "Making Do with Less: Working Harder during Recessions",
+            "volume": "34",
+            "author": "Lazear",
+            "year": "2016",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2024033009011400800_bib61",
+            "doi-asserted-by": "crossref",
+            "article-title": "Workday, Holiday and Calendar Adjustment with 21st Century Data: Monthly Aggregates from Daily Diesel Fuel Purchases",
+            "author": "Leamer",
+            "year": "2011",
+            "DOI": "10.3386/w16897"
+        },
+        {
+            "key": "2024033009011400800_bib63",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2139/ssrn.3570731",
+            "article-title": "The Cost of Covid-19: A Rough Estimate of the 2020 US GDP Impact",
+            "volume-title": "Mercatus Center Policy Briefs",
+            "author": "Makridis",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib64",
+            "article-title": "Modeling of Holiday Effects and Seasonality in Daily Time Series",
+            "author": "McElroy",
+            "year": "2018"
+        },
+        {
+            "key": "2024033009011400800_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "286",
+            "DOI": "10.1016/j.jeconom.2020.03.026",
+            "article-title": "An Empirical Total Survey Error Decomposition Using Data Combination",
+            "volume": "224",
+            "author": "Meyer",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024033009011400800_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "30",
+            "DOI": "10.1126/science.1245317",
+            "article-title": "Promoting Transparency in Social Science Research",
+            "volume": "343",
+            "author": "Miguel",
+            "year": "2014",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024033009011400800_bib67",
+            "article-title": "Working Age Population: Aged 15\u201364: All Persons for the United States [LFWA64TTUSM647S]",
+            "author": "Organisation for Economic Co-operation and Development",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011400800_bib68",
+            "first-page": "273",
+            "article-title": "Reported Effects versus Revealed-Preference Estimates: Evidence from the Propensity to Spend Tax Rebates",
+            "volume": "1",
+            "author": "Parker",
+            "year": "2019",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2024033009011400800_bib69",
+            "article-title": "Small Business Employment Watch",
+            "author": "Paychex",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib70",
+            "article-title": "Consumption and the Great Recession: An Analysis of Trends, Perceptions, and Distributional Effects",
+            "volume-title": "The Great Recession",
+            "author": "Petev",
+            "year": "2011"
+        },
+        {
+            "key": "2024033009011400800_bib72",
+            "article-title": "Direct Stimulus Payments to Individuals",
+            "volume-title": "Recession Ready: Fiscal Policies to Stabilize the American Economy",
+            "author": "Sahm",
+            "year": "2019"
+        },
+        {
+            "key": "2024033009011400800_bib73",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1086/649829",
+            "article-title": "Household Response to the 2008 Tax Rebate: Survey Evidence and Aggregate Implications",
+            "volume": "24",
+            "author": "Sahm",
+            "year": "2010",
+            "journal-title": "Tax Policy and the Economy"
+        },
+        {
+            "key": "2024033009011400800_bib74",
+            "first-page": "216",
+            "article-title": "Check in the Mail or More in the Paycheck: Does the Effectiveness of Fiscal Stimulus Depend on How It Is Delivered?",
+            "volume": "4",
+            "author": "Sahm",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2024033009011400800_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1086/721705",
+            "article-title": "Are We #StayingHome to Flatten the Curve?",
+            "volume": "9",
+            "author": "Sears",
+            "year": "2023",
+            "journal-title": "American Journal of Health Economics"
+        },
+        {
+            "key": "2024033009011400800_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1111/j.1475-4991.1984.tb00486.x",
+            "article-title": "Improved International Comparisons of Real Product and Its Composition: 1950\u20131980",
+            "volume": "30",
+            "author": "Summers",
+            "year": "1984",
+            "journal-title": "Review of Income and Wealth"
+        },
+        {
+            "key": "2024033009011400800_bib78",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.2307/2937941",
+            "article-title": "The Penn World Table (Mark 5): An Expanded Set of International Comparisons, 1950\u20131988",
+            "volume": "106",
+            "author": "Summers",
+            "year": "1991",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011400800_bib79",
+            "article-title": "National Income and Product Accounts",
+            "author": "U.S. Bureau of Economic Analysis",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib80",
+            "article-title": "Employment Level\u2014All Industries Self-Employed, Unincorporated [LNU02027714]",
+            "author": "U.S. Bureau of Labor Statistics",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011400800_bib81",
+            "article-title": "Employment Level - Total Wage and Salary, Incorporated Self Employed [LNU02048984]",
+            "author": "U.S. Bureau of Labor Statistics",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011400800_bib82",
+            "article-title": "Population Level [CNP16OV]",
+            "author": "U.S. Bureau of Labor Statistics",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011400800_bib83",
+            "article-title": "2017 Statistics of U.S. Businesses (SUSB) Annual Data Tables by Establishment Industry",
+            "author": "U.S. Census Bureau",
+            "year": "2017"
+        },
+        {
+            "key": "2024033009011400800_bib84",
+            "article-title": "2020 Small Business Profile",
+            "author": "U.S. S.B.A Office of Advocacy",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011400800_bib85",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1257/jep.35.3.47",
+            "article-title": "Tracking the Pandemic in Real Time: Administrative Micro Data in Business Cycles Enters the Spotlight",
+            "volume": "35",
+            "author": "Vavra",
+            "year": "2021",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011400800_bib86",
+            "volume-title": "\u201cSenate Direct Payment Design Would Create High Implicit Marginal Tax Rates,\u201d",
+            "author": "Watson",
+            "year": "2021"
+        },
+        {
+            "key": "2024033009011400800_bib87",
+            "doi-asserted-by": "crossref",
+            "first-page": "2505",
+            "DOI": "10.1086/701809",
+            "article-title": "Employment Hysteresis from the Great Recession",
+            "volume": "127",
+            "author": "Yagan",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad048/54932756/qjad048.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/2/829/57123523/qjad048.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/2/829/57123523/qjad048.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                30
+            ]
+        ],
+        "date-time": "2024-03-30T09:01:56Z",
+        "timestamp": 1711789316000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/139/2/829/7289247"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                4
+            ]
+        ]
+    },
+    "references-count": 73,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    10,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    30
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad048",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                4
+            ]
+        ]
+    }
+}

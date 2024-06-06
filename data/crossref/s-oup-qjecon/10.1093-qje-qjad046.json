@@ -1,0 +1,968 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                31
+            ]
+        ],
+        "date-time": "2024-03-31T00:19:34Z",
+        "timestamp": 1711844374997
+    },
+    "reference-count": 81,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        18
+                    ]
+                ],
+                "date-time": "2023-09-18T00:00:00Z",
+                "timestamp": 1694995200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "101055295"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                30
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The article develops a model of nonmarket allocation of resources such as the awarding of grants to meritorious projects, honors to outstanding students, or journal slots to quality publications. On the supply side, the available budget of grants is awarded to applicants who are evaluated most favorably according to the noisy information available to reviewers. On the demand side, stronger candidates are more likely to obtain grants and thus self-select into applying, given that applications are costly. We establish that if evaluation is perfect, grading on a curve inefficiently discourages even the very best candidates from applying. More generally, when the budget is insufficient to award grants to all applicants, the equilibrium unravels if information is symmetric enough\u2014the paradox of relative evaluation. Leveraging a technique based on the quantile function pioneered by Lehmann, we characterize a broad set of nonmarket allocation rules under which an increase in evaluation noise in a field (or course) raises equilibrium applications in that field, and reduces applications in all other fields. We empirically confirm these comparative statics by exploiting a change in the rule for apportioning the total budget to applications in different fields at the European Research Council, showing that a 1 standard deviation increase in own evaluation noise leads to a 0.4 standard deviation increase in the number of applications and budget share. Moreover, we derive insights for the design of evaluation institutions, particularly regarding the endogenous choice of noise by fields or courses and the optimal aggregation of fields into panels.</jats:p>",
+    "DOI": "10.1093/qje/qjad046",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2023-09-18T16:20:01Z",
+        "timestamp": 1695054001000
+    },
+    "page": "1255-1319",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Grantmaking, Grading on a Curve, and the Paradox of Relative Evaluation in Nonmarkets"
+    ],
+    "prefix": "10.1093",
+    "volume": "139",
+    "author": [
+        {
+            "given": "J\u00e9r\u00f4me",
+            "family": "Adda",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Bocconi University , Italy"
+                }
+            ]
+        },
+        {
+            "given": "Marco",
+            "family": "Ottaviani",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Bocconi University , Italy"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                18
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024033009011378900_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.1257/jep.23.3.77",
+            "article-title": "What Are Grades Made Of?",
+            "volume": "23",
+            "author": "Achen",
+            "year": "2009",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011378900_bib2",
+            "article-title": "Replication Data for: \u2018Grantmaking, Grading on a Curve, and the Paradox of Relative Evaluation in Nonmarkets\u2019",
+            "author": "Adda",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011378900_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "488",
+            "DOI": "10.2307/1879431",
+            "article-title": "The Market for \u2018Lemons\u2019: Quality Uncertainty and the Market Mechanism",
+            "volume": "84",
+            "author": "Akerlof",
+            "year": "1970",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011378900_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "405",
+            "DOI": "10.1257/jel.20191573",
+            "article-title": "Sins of Omission and the Practice of Economics",
+            "volume": "58",
+            "author": "Akerlof",
+            "year": "2020",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024033009011378900_bib5",
+            "doi-asserted-by": "crossref",
+            "article-title": "Recruiting and Selecting for Fit",
+            "author": "Alonso",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3124315"
+        },
+        {
+            "key": "2024033009011378900_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1515/9781400879762-024",
+            "article-title": "Economic Welfare and the Allocation of Resources for Invention",
+            "volume-title": "The Rate and Direction of Inventive Activity: Economic and Social Factors",
+            "author": "Arrow",
+            "year": "1962"
+        },
+        {
+            "key": "2024033009011378900_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.7208/chicago/9780226805597.003.0005",
+            "article-title": "Scientific Grant Funding",
+            "volume-title": "Innovation and Public Policy",
+            "author": "Azoulay",
+            "year": "2022"
+        },
+        {
+            "key": "2024033009011378900_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1093/restud/rdy034",
+            "article-title": "Public R&D Investments and Private-Sector Patenting: Evidence from NIH Funding Rules",
+            "volume": "86",
+            "author": "Azoulay",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024033009011378900_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1007/s00199-004-0514-4",
+            "article-title": "Log-Concave Probability and Its Applications",
+            "volume": "26",
+            "author": "Bagnoli",
+            "year": "2005",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2024033009011378900_bib10",
+            "article-title": "Early-Career Discrimination: Spiraling or Self-Correcting?",
+            "author": "Bardhi",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011378900_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1177/007327539002800101",
+            "article-title": "Galileo\u2019s System of Patronage",
+            "volume": "28",
+            "author": "Biagioli",
+            "year": "1990",
+            "journal-title": "History of Science"
+        },
+        {
+            "key": "2024033009011378900_bib13",
+            "first-page": "93",
+            "article-title": "Comparison of Experiments",
+            "volume": "1",
+            "author": "Blackwell",
+            "year": "1951",
+            "journal-title": "Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability"
+        },
+        {
+            "key": "2024033009011378900_bib14",
+            "article-title": "Recruiting Talent",
+            "author": "Board",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011378900_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2765",
+            "DOI": "10.1287/mnsc.2015.2285",
+            "article-title": "Looking across and Looking beyond the Knowledge Frontier: Intellectual Distance, Novelty, and Resource Allocation in Science",
+            "volume": "62",
+            "author": "Boudreau",
+            "year": "2016",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024033009011378900_bib16",
+            "volume-title": "Science: The Endless Frontier",
+            "author": "Bush",
+            "year": "1945"
+        },
+        {
+            "key": "2024033009011378900_bib17",
+            "volume-title": "Creative Industries: Contracts between Art and Commerce",
+            "author": "Caves",
+            "year": "2000"
+        },
+        {
+            "key": "2024033009011378900_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "646",
+            "DOI": "10.1257/000282803322157025",
+            "article-title": "Optimal Design of Research Contests",
+            "volume": "93",
+            "author": "Che",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1257/aer.103.1.47",
+            "article-title": "Pandering to Persuade",
+            "volume": "103",
+            "author": "Che",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1177/001316446002000104",
+            "article-title": "A Coefficient of Agreement for Nominal Scales",
+            "volume": "20",
+            "author": "Cohen",
+            "year": "1960",
+            "journal-title": "Educational and Psychological Measurement"
+        },
+        {
+            "key": "2024033009011378900_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1037/h0026256",
+            "article-title": "Weighted Kappa: Nominal Scale Agreement with Provision for Scaled Disagreement or Partial Credit",
+            "volume": "70",
+            "author": "Cohen",
+            "year": "1968",
+            "journal-title": "Psychological Bulletin"
+        },
+        {
+            "key": "2024033009011378900_bib22",
+            "volume-title": "Peer Review in the National Science Foundation: Phase Two of a Study",
+            "author": "Cole",
+            "year": "1981"
+        },
+        {
+            "key": "2024033009011378900_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "542",
+            "DOI": "10.1086/262033",
+            "article-title": "Culture, Information, and Screening Discrimination",
+            "volume": "104",
+            "author": "Cornell",
+            "year": "1996",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024033009011378900_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1257/aer.103.1.501",
+            "article-title": "Submission Fees and Response Times in Academic Publishing",
+            "volume": "103",
+            "author": "Cotton",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1016/j.jpubeco.2012.08.012",
+            "article-title": "Jockeying for Position: Strategic High School Choice under Texas\u2019 Top Ten Percent Plan",
+            "volume": "97",
+            "author": "Cullen",
+            "year": "2013",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024033009011378900_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1177/030631289019001002",
+            "article-title": "The Emergence of Research Grants within the Prize System of the French Academy of Sciences, 1795\u20131914",
+            "volume": "19",
+            "author": "Crosland",
+            "year": "1989",
+            "journal-title": "Social Studies of Science"
+        },
+        {
+            "key": "2024033009011378900_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.2307/1952969",
+            "article-title": "A Theory of the Budgetary Process",
+            "volume": "60",
+            "author": "Davis",
+            "year": "1966",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "key": "2024033009011378900_bib28",
+            "article-title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+            "author": "Devlin",
+            "journal-title": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies"
+        },
+        {
+            "key": "2024033009011378900_bib29",
+            "first-page": "5746",
+            "author": "European Commission",
+            "year": "2007",
+            "journal-title": "ERC Work Programme 2008"
+        },
+        {
+            "key": "2024033009011378900_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1940",
+            "DOI": "10.1086/705670",
+            "article-title": "Turning Up the Heat: The Discouraging Effect of Competition in Contests",
+            "volume": "128",
+            "author": "Fang",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024033009011378900_bib31",
+            "first-page": "133",
+            "article-title": "Theories of Statistical Discrimination and Affirmative Action: A Survey",
+            "volume-title": "Handbook of Social Economics",
+            "author": "Fang",
+            "year": "2011"
+        },
+        {
+            "key": "2024033009011378900_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.3982/ECTA15510",
+            "article-title": "Selecting Applicants",
+            "volume": "89",
+            "author": "Frankel",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024033009011378900_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.7208/chicago/9780226473062.003.0005",
+            "article-title": "Funding Scientific Knowledge: Selection Disclosure and the Public-Private Portfolio",
+            "volume-title": "The Rate and Direction of Inventive Activity Revisited",
+            "author": "Gans",
+            "year": "2012"
+        },
+        {
+            "key": "2024033009011378900_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "e3000065",
+            "DOI": "10.1371/journal.pbio.3000065",
+            "article-title": "Contest Models Highlight Inherent Inefficiencies of Scientific Funding Competitions",
+            "volume": "17",
+            "author": "Gross",
+            "year": "2019",
+            "journal-title": "PLoS Biology"
+        },
+        {
+            "key": "2024033009011378900_bib35",
+            "author": "Gwet",
+            "year": "2014",
+            "journal-title": "Handbook of Inter-Rater Reliability: The Definitive Guide to Measuring the Extent of Agreement Among Raters"
+        },
+        {
+            "key": "2024033009011378900_bib36",
+            "volume-title": "Nonparametric Comparative Statics and Stability",
+            "author": "Hale",
+            "year": "2014"
+        },
+        {
+            "key": "2024033009011378900_bib37",
+            "volume-title": "Grade Inflation: A Crisis in College Education",
+            "author": "Johnson",
+            "year": "2013"
+        },
+        {
+            "key": "2024033009011378900_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "272",
+            "DOI": "10.1214/aoms/1177728259",
+            "article-title": "The Theory of Decision Procedures for Distributions with Monotone Likelihood Ratio",
+            "volume": "27",
+            "author": "Karlin",
+            "year": "1956",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2024033009011378900_bib40",
+            "first-page": "31",
+            "article-title": "The Arts Council: Its Policy and Hopes",
+            "volume": "34",
+            "author": "Keynes",
+            "year": "1945",
+            "journal-title": "Listener"
+        },
+        {
+            "key": "2024033009011378900_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1038/nrc3038",
+            "article-title": "Otto Warburg\u2019s Contributions to Current Concepts of Cancer Metabolism",
+            "volume": "11",
+            "author": "Koppenol",
+            "year": "2011",
+            "journal-title": "Nature Reviews Cancer"
+        },
+        {
+            "key": "2024033009011378900_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1086/209860",
+            "article-title": "Incentives in Basic Research",
+            "volume": "15",
+            "author": "Lazear",
+            "year": "1997",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2024033009011378900_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.1086/261010",
+            "article-title": "Rank-Order Tournaments as Optimum Labor Contracts",
+            "volume": "89",
+            "author": "Lazear",
+            "year": "1981",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024033009011378900_bib45",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Philanthropic Foundations, Public Good and Public Policy",
+            "author": "Leat",
+            "year": "2016",
+            "DOI": "10.1057/978-1-137-48289-1"
+        },
+        {
+            "key": "2024033009011378900_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.1214/aos/1176350818",
+            "article-title": "Comparing Location Experiments",
+            "volume": "16",
+            "author": "Lehmann",
+            "year": "1988",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024033009011378900_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "407",
+            "DOI": "10.1257/0002828053828608",
+            "article-title": "Are Delays in Academic Publishing Necessary?",
+            "volume": "95",
+            "author": "Leslie",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1017/S0018246X00009638",
+            "article-title": "The Royal Society and the Government Grant: Notes on the Administration of Scientific Research, 1849\u20131914",
+            "volume": "14",
+            "author": "MacLeod",
+            "year": "1971",
+            "journal-title": "Historical Journal"
+        },
+        {
+            "key": "2024033009011378900_bib48",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Half a Century of Peer Review, 1946\u20131996",
+            "author": "Mandel",
+            "year": "1996",
+            "DOI": "10.1037/e378742004-001"
+        },
+        {
+            "key": "2024033009011378900_bib49",
+            "volume-title": "Life Distributions",
+            "author": "Marshall",
+            "year": "2007"
+        },
+        {
+            "key": "2024033009011378900_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1016/j.amjmed.2008.03.031",
+            "article-title": "Why Are Peer Review Outcomes Less Favorable for Clinical Science than for Basic Science Grant Applications?",
+            "volume": "121",
+            "author": "Martin",
+            "year": "2008",
+            "journal-title": "American Journal of Medicine"
+        },
+        {
+            "key": "2024033009011378900_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.2307/2951479",
+            "article-title": "Monotone Comparative Statics",
+            "volume": "62",
+            "author": "Milgrom",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024033009011378900_bib52",
+            "article-title": "Cooptation: Meritocracy vs. Homophily in Organizations",
+            "author": "Moisson",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011378900_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "542",
+            "DOI": "10.1257/aer.91.3.542",
+            "article-title": "The Optimal Allocation of Prizes in Contests",
+            "volume": "91",
+            "author": "Moldovanu",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1634",
+            "DOI": "10.1111/ecoj.12473",
+            "article-title": "The Ponds Dilemma",
+            "volume": "128",
+            "author": "Morgan",
+            "year": "2018",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "2024033009011378900_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "2777",
+            "DOI": "10.1093/restud/rdaa020",
+            "article-title": "Top of the Class: The Importance of Ordinal Rank",
+            "volume": "87",
+            "author": "Murphy",
+            "year": "2020",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024033009011378900_bib55a",
+            "author": "National Institutes of Health",
+            "journal-title": "NIH Guide for Grants and Contracts 1988. Notice: New Basis for Priority Score Percentiles at NIH"
+        },
+        {
+            "key": "2024033009011378900_bib56",
+            "first-page": "372",
+            "article-title": "Targeting Transfers through Restrictions on Recipients",
+            "volume": "72",
+            "author": "Nichols",
+            "year": "1982",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1086/298022",
+            "article-title": "Economic Contests: Comparative Reward Schemes",
+            "volume": "2",
+            "author": "O\u2019Keeffe",
+            "year": "1984",
+            "journal-title": "Journal of Labor Economics"
+        },
+        {
+            "key": "2024033009011378900_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1145",
+            "DOI": "10.1016/j.respol.2015.03.004",
+            "article-title": "Project Selection in NIH: A Natural Experiment from ARRA",
+            "volume": "44",
+            "author": "Park",
+            "year": "2015",
+            "journal-title": "Research Policy"
+        },
+        {
+            "key": "2024033009011378900_bib59",
+            "first-page": "643",
+            "article-title": "Note on the Theory of the Economy of Research",
+            "volume": "15",
+            "author": "Peirce",
+            "year": "1967",
+            "journal-title": "United States Coast Survey"
+        },
+        {
+            "key": "2024033009011378900_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1111/1468-0262.00096",
+            "article-title": "Information Acquisition in Auctions",
+            "volume": "68",
+            "author": "Persico",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024033009011378900_bib61",
+            "first-page": "659",
+            "article-title": "The Statistical Theory of Racism and Sexism",
+            "volume": "62",
+            "author": "Phelps",
+            "year": "1972",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011378900_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1949",
+            "DOI": "10.3982/ECTA7583",
+            "article-title": "Comparative Statics, Informativeness, and the Interval Dominance Order",
+            "volume": "77",
+            "author": "Quah",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024033009011378900_bib63",
+            "volume-title": "The Universities of Europe in the Middle Ages: Volume I",
+            "author": "Rashdall",
+            "year": "1895"
+        },
+        {
+            "key": "2024033009011378900_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1093/oxfordjournals.oep.a041827",
+            "article-title": "Some Thoughts on the Distribution of Earnings",
+            "volume": "3",
+            "author": "Roy",
+            "year": "1951",
+            "journal-title": "Oxford Economic Papers"
+        },
+        {
+            "key": "2024033009011378900_bib65",
+            "volume-title": "Foundations of Economic Analysis",
+            "author": "Samuelson",
+            "year": "1947"
+        },
+        {
+            "key": "2024033009011378900_bib66",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Funding Science in America: Congress, Universities, and the Politics of the Academic Pork Barrel",
+            "author": "Savage",
+            "year": "1999",
+            "DOI": "10.1017/CBO9780511625558"
+        },
+        {
+            "key": "2024033009011378900_bib67",
+            "volume-title": "Innovation and Incentives",
+            "author": "Scotchmer",
+            "year": "2004"
+        },
+        {
+            "key": "2024033009011378900_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "628",
+            "DOI": "10.1002/(SICI)1097-4571(199210)43:9<628::AID-ASI5>3.0.CO;2-0",
+            "article-title": "The Skewness of Science",
+            "volume": "43",
+            "author": "Seglen",
+            "year": "1992",
+            "journal-title": "Journal of the American Society for Information Science"
+        },
+        {
+            "key": "2024033009011378900_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.3982/ECTA7537",
+            "article-title": "All-Pay Contests",
+            "volume": "77",
+            "author": "Siegel",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024033009011378900_bib70",
+            "doi-asserted-by": "crossref",
+            "volume-title": "How Economics Shapes Science",
+            "author": "Stephan",
+            "year": "2012",
+            "DOI": "10.4159/harvard.9780674062757"
+        },
+        {
+            "key": "2024033009011378900_bib71",
+            "doi-asserted-by": "crossref",
+            "first-page": "762",
+            "DOI": "10.1093/restud/rdq005",
+            "article-title": "Subjective Performance and the Value of Blind Evaluation",
+            "volume": "78",
+            "author": "Taylor",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024033009011378900_bib72",
+            "doi-asserted-by": "crossref",
+            "volume-title": "How to Divide When There Isn\u2019t Enough: From Aristotle, the Talmud, and Maimonides to the Axiomatics of Resource Allocation",
+            "author": "Thomson",
+            "year": "2019",
+            "DOI": "10.1017/9781108161107"
+        },
+        {
+            "key": "2024033009011378900_bib73",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The Origins of the Arts Council Movement: Philanthropy and Policy",
+            "author": "Upchurch",
+            "year": "2016",
+            "DOI": "10.1057/978-1-137-46163-6"
+        },
+        {
+            "key": "2024033009011378900_bib74",
+            "volume-title": "Convex Transformations of Random Variables",
+            "author": "van Zwet",
+            "year": "1964"
+        },
+        {
+            "key": "2024033009011378900_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "e0118494",
+            "DOI": "10.1371/journal.pone.0118494",
+            "article-title": "To Apply or Not to Apply: A Survey Analysis of Grant Writing Costs and Benefits",
+            "volume": "10",
+            "author": "von",
+            "year": "2015",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2024033009011378900_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/0047-2727(73)90002-9",
+            "article-title": "Critical Ratios and Efficient Allocation",
+            "volume": "2",
+            "author": "Weinstein",
+            "year": "1973",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024033009011378900_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "11",
+            "DOI": "10.1086/353735",
+            "article-title": "Science and Patronage: Galileo and the Telescope",
+            "volume": "76",
+            "author": "Westfall",
+            "year": "1985",
+            "journal-title": "Isis"
+        },
+        {
+            "key": "2024033009011378900_bib78",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Economics of Public Health",
+            "author": "Weisbrod",
+            "year": "1961",
+            "DOI": "10.9783/9781512808643"
+        },
+        {
+            "key": "2024033009011378900_bib79",
+            "volume-title": "The Politics of the Budgetary Process",
+            "author": "Wildavsky",
+            "year": "1964"
+        },
+        {
+            "key": "2024033009011378900_bib80",
+            "author": "Zeckhauser",
+            "year": "1967"
+        },
+        {
+            "key": "2024033009011378900_bib81",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1007/BF01553188",
+            "article-title": "Patterns of Evaluation in Science: Institutionalisation, Structure and Functions of the Referee System",
+            "volume": "9",
+            "author": "Zuckerman",
+            "year": "1971",
+            "journal-title": "Minerva"
+        },
+        {
+            "key": "2024033009011378900_bib82",
+            "volume-title": "Philanthropy in America: A History",
+            "author": "Zunz",
+            "year": "2012"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad046/53977955/qjad046.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/2/1255/57123585/qjad046.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/2/1255/57123585/qjad046.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                30
+            ]
+        ],
+        "date-time": "2024-03-30T09:02:11Z",
+        "timestamp": 1711789331000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/139/2/1255/7276492"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                18
+            ]
+        ]
+    },
+    "references-count": 81,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    18
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    30
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad046",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                18
+            ]
+        ]
+    }
+}

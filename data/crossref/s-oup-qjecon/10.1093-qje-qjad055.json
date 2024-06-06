@@ -1,0 +1,1135 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                28
+            ]
+        ],
+        "date-time": "2024-05-28T00:50:17Z",
+        "timestamp": 1716857417864
+    },
+    "reference-count": 99,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        10
+                    ]
+                ],
+                "date-time": "2024-01-10T00:00:00Z",
+                "timestamp": 1704844800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                30
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>While hypothesis testing is a highly formalized activity, hypothesis generation remains largely informal. We propose a systematic procedure to generate novel hypotheses about human behavior, which uses the capacity of machine learning algorithms to notice patterns people might not. We illustrate the procedure with a concrete application: judge decisions about whom to jail. We begin with a striking fact: the defendant\u2019s face alone matters greatly for the judge\u2019s jailing decision. In fact, an algorithm given only the pixels in the defendant\u2019s mug shot accounts for up to half of the predictable variation. We develop a procedure that allows human subjects to interact with this black-box algorithm to produce hypotheses about what in the face influences judge decisions. The procedure generates hypotheses that are both interpretable and novel: they are not explained by demographics (e.g., race) or existing psychology research, nor are they already known (even if tacitly) to people or experts. Though these results are specific, our procedure is general. It provides a way to produce novel, interpretable hypotheses from any high-dimensional data set (e.g., cell phones, satellites, online behavior, news headlines, corporate filings, and high-frequency time series). A central tenet of our article is that hypothesis generation is a valuable activity, and we hope this encourages future work in this largely \u201cprescientific\u201d stage of science.</jats:p>",
+    "DOI": "10.1093/qje/qjad055",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                11
+            ]
+        ],
+        "date-time": "2024-01-11T05:54:36Z",
+        "timestamp": 1704952476000
+    },
+    "page": "751-827",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Machine Learning as a Tool for Hypothesis Generation"
+    ],
+    "prefix": "10.1093",
+    "volume": "139",
+    "author": [
+        {
+            "given": "Jens",
+            "family": "Ludwig",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago and National Bureau of Economic Research , United States"
+                }
+            ]
+        },
+        {
+            "given": "Sendhil",
+            "family": "Mullainathan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago and National Bureau of Economic Research , United States"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024033009011046100_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2225",
+            "DOI": "10.1093/qje/qjad028",
+            "article-title": "What We Teach about Race and Gender: Representation in Images and Text of Children\u2019s Books",
+            "volume": "138",
+            "author": "Adukia",
+            "year": "2023",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011046100_bib2",
+            "doi-asserted-by": "crossref",
+            "article-title": "Algorithmic Recommendations and Human Discretion",
+            "author": "Angelova",
+            "DOI": "10.3386/w31747"
+        },
+        {
+            "key": "2024033009011046100_bib4",
+            "doi-asserted-by": "crossref",
+            "article-title": "Measuring Racial Discrimination in Bail Decisions",
+            "author": "Arnold",
+            "DOI": "10.3386/w26999"
+        },
+        {
+            "key": "2024033009011046100_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1885",
+            "DOI": "10.1093/qje/qjy012",
+            "article-title": "Racial Bias in Bail Decisions",
+            "volume": "133",
+            "author": "Arnold",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011046100_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.1126/science.aal4321",
+            "article-title": "Beyond Prediction: Using Big Data for Policy Problems",
+            "volume": "355",
+            "author": "Athey",
+            "year": "2017",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024033009011046100_bib6",
+            "first-page": "507",
+            "article-title": "The Impact of Machine Learning on Economics",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "The Economics of Artificial Intelligence: An Agenda"
+        },
+        {
+            "key": "2024033009011046100_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "685",
+            "DOI": "10.1146/annurev-economics-080217-053433",
+            "article-title": "Machine Learning Methods That Economists Should Know About",
+            "volume": "11",
+            "author": "Athey",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024033009011046100_bib8",
+            "article-title": "Using Wasserstein Generative Adversarial Networks for the Design of Monte Carlo Simulations",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024033009011046100_bib9",
+            "doi-asserted-by": "crossref",
+            "article-title": "Smiles in Profiles: Improving Fairness and Efficiency Using Estimates of User Preferences in Online Marketplaces",
+            "author": "Athey",
+            "year": "2022",
+            "DOI": "10.3386/w30633"
+        },
+        {
+            "key": "2024033009011046100_bib10",
+            "doi-asserted-by": "crossref",
+            "article-title": "Polanyi\u2019s Paradox and the Shape of Employment Growth",
+            "author": "Autor",
+            "year": "2014",
+            "DOI": "10.3386/w20485"
+        },
+        {
+            "key": "2024033009011046100_bib11",
+            "doi-asserted-by": "crossref",
+            "article-title": "On the Origins of Gender-Biased Behavior: The Role of Explicit and Implicit Stereotypes",
+            "author": "Avitzour",
+            "year": "2020",
+            "DOI": "10.3386/w27818"
+        },
+        {
+            "key": "2024033009011046100_bib12",
+            "first-page": "1803",
+            "article-title": "How to Explain Individual Classification Decisions",
+            "volume": "11",
+            "author": "Baehrens",
+            "year": "2010",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "2024033009011046100_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1109/TPAMI.2018.2798607",
+            "article-title": "Multimodal Machine Learning: A Survey and Taxonomy",
+            "volume": "41",
+            "author": "Baltru\u0161aitis",
+            "year": "2019",
+            "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        },
+        {
+            "key": "2024033009011046100_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "13451",
+            "DOI": "10.1073/pnas.0803650105",
+            "article-title": "Magnetic Alignment in Grazing and Resting Cattle and Deer",
+            "volume": "105",
+            "author": "Begall",
+            "year": "2008",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024033009011046100_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1257/jep.28.2.29",
+            "article-title": "High-Dimensional Methods and Inference on Structural and Treatment Effects",
+            "volume": "28",
+            "author": "Belloni",
+            "year": "2014",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011046100_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1177/0146167288141003",
+            "article-title": "What\u2019s in a Face? Facial Maturity and the Attribution of Legal Responsibility",
+            "volume": "14",
+            "author": "Berry",
+            "year": "1988",
+            "journal-title": "Personality and Social Psychology Bulletin"
+        },
+        {
+            "key": "2024033009011046100_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "991",
+            "DOI": "10.1257/0002828042002561",
+            "article-title": "Are Emily and Greg More Employable than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination",
+            "volume": "94",
+            "author": "Bertrand",
+            "year": "2004",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1525/sp.2010.57.2.269",
+            "article-title": "Race and Ethnic Representations of Lawbreakers and Victims in Crime News: A National Study of Television Coverage",
+            "volume": "57",
+            "author": "Bjornstrom",
+            "year": "2010",
+            "journal-title": "Social Problems"
+        },
+        {
+            "key": "2024033009011046100_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random Forests",
+            "volume": "45",
+            "author": "Breiman",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2024033009011046100_bib20",
+            "volume-title": "Classification and Regression Trees",
+            "author": "Breiman",
+            "year": "1984"
+        },
+        {
+            "key": "2024033009011046100_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2",
+            "article-title": "Verification of Forecasts Expressed in Terms of Probability",
+            "volume": "78",
+            "author": "Brier",
+            "year": "1950",
+            "journal-title": "Monthly Weather Review"
+        },
+        {
+            "key": "2024033009011046100_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "045002",
+            "DOI": "10.1103/RevModPhys.91.045002",
+            "article-title": "Machine Learning and the Physical Sciences",
+            "volume": "91",
+            "author": "Carleo",
+            "year": "2019",
+            "journal-title": "Reviews of Modern Physics"
+        },
+        {
+            "key": "2024033009011046100_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1181",
+            "DOI": "10.1093/qje/qjw017",
+            "article-title": "Decision Making under the Gambler\u2019s Fallacy: Evidence from Asylum Judges, Loan Officers, and Baseball Umpires",
+            "volume": "131",
+            "author": "Chen",
+            "year": "2016",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011046100_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "324",
+            "DOI": "10.1016/j.jebo.2023.05.002",
+            "article-title": "Clash of Norms: Judicial Leniency on Defendant Birthdays",
+            "volume": "211",
+            "author": "Chen",
+            "year": "2023",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2024033009011046100_bib25",
+            "doi-asserted-by": "crossref",
+            "article-title": "Age Discrimination across the Business Cycle",
+            "author": "Dahl",
+            "year": "2020",
+            "DOI": "10.3386/w27581"
+        },
+        {
+            "key": "2024033009011046100_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1038/s41586-021-04086-x",
+            "article-title": "Advancing Mathematics by Guiding Human Intuition with AI",
+            "volume": "600",
+            "author": "Davies",
+            "year": "2021",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2024033009011046100_bib27",
+            "article-title": "BERT: Pre-Training of Deep Bidirectional Transformers for Language Understanding",
+            "author": "Devlin",
+            "year": "2018"
+        },
+        {
+            "key": "2024033009011046100_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1257/aer.20161503",
+            "article-title": "The Effects of Pretrial Detention on Conviction, Future Crime, and Employment: Evidence from Randomly Assigned Judges",
+            "volume": "108",
+            "author": "Dobbie",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1257/jep.35.4.49",
+            "article-title": "The US Pretrial System: Balancing Individual Rights and Public Interests",
+            "volume": "35",
+            "author": "Dobbie",
+            "year": "2021",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011046100_bib30",
+            "article-title": "Towards a Rigorous Science of Interpretable Machine Learning",
+            "author": "Doshi-Velez",
+            "year": "2017"
+        },
+        {
+            "key": "2024033009011046100_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1111/j.1467-9280.2006.01716.x",
+            "article-title": "Looking Deathworthy: Perceived Stereotypicality of Black Defendants Predicts Capital-Sentencing Outcomes",
+            "volume": "17",
+            "author": "Eberhardt",
+            "year": "2006",
+            "journal-title": "Psychological Science"
+        },
+        {
+            "key": "2024033009011046100_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/674019",
+            "article-title": "The Data Revolution and Economic Analysis",
+            "volume": "14",
+            "author": "Einav",
+            "year": "2014",
+            "journal-title": "Innovation Policy and the Economy"
+        },
+        {
+            "key": "2024033009011046100_bib33",
+            "first-page": "171",
+            "article-title": "Emotional Judges and Unlucky Juveniles",
+            "volume": "10",
+            "author": "Eren",
+            "year": "2018",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2024033009011046100_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1039",
+            "DOI": "10.1111/j.1559-1816.1991.tb00458.x",
+            "article-title": "Attractiveness and Income for Men and Women in Management",
+            "volume": "21",
+            "author": "Frieze",
+            "year": "1991",
+            "journal-title": "Journal of Applied Social Psychology"
+        },
+        {
+            "key": "2024033009011046100_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "4003",
+            "DOI": "10.1086/710977",
+            "article-title": "An Empirical Analysis of Racial Differences in Police Use of Force: A Response",
+            "volume": "128",
+            "author": "Fryer",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024033009011046100_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "4112",
+            "DOI": "10.1257/aer.20180654",
+            "article-title": "Predicting and Understanding Initial Play",
+            "volume": "109",
+            "author": "Fudenberg",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1257/jel.20181020",
+            "article-title": "Text as Data",
+            "volume": "57",
+            "author": "Gentzkow",
+            "year": "2019",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024033009011046100_bib38",
+            "article-title": "DISSECT: Disentangled Simultaneous Explanations via Concept Traversals",
+            "author": "Ghandeharioun",
+            "year": "2022"
+        },
+        {
+            "key": "2024033009011046100_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1257/aer.90.4.715",
+            "article-title": "Orchestrating Impartiality: The Impact of \u2018Blind\u2019 Auditions on Female Musicians",
+            "volume": "90",
+            "author": "Goldin",
+            "year": "2000",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1406",
+            "DOI": "10.1257/aer.20181607",
+            "article-title": "A Few Bad Apples? Racial Bias in Policing",
+            "volume": "111",
+            "author": "Goncalves",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib41",
+            "first-page": "2672",
+            "article-title": "Generative Adversarial Nets",
+            "volume": "27",
+            "author": "Goodfellow",
+            "year": "2014",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "key": "2024033009011046100_bib42",
+            "article-title": "Explaining and Harnessing Adversarial Examples",
+            "author": "Goodfellow",
+            "year": "2014"
+        },
+        {
+            "key": "2024033009011046100_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "878",
+            "DOI": "10.1198/016214506000000168",
+            "article-title": "Testing for Racial Profiling in Traffic Stops from Behind a Veil of Darkness",
+            "volume": "101",
+            "author": "Grogger",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2024033009011046100_bib44",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-0-387-84858-7",
+            "volume": "2",
+            "author": "Hastie",
+            "year": "2009",
+            "journal-title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction"
+        },
+        {
+            "key": "2024033009011046100_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "13825",
+            "DOI": "10.1073/pnas.1821458116",
+            "article-title": "Learning to Predict the Cosmological Structure Formation",
+            "volume": "116",
+            "author": "He",
+            "year": "2019",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024033009011046100_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "298",
+            "DOI": "10.1257/aer.p20171118",
+            "article-title": "Abducting Economics",
+            "volume": "107",
+            "author": "Heckman",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib47",
+            "first-page": "238",
+            "article-title": "Temperature and Decisions: Evidence from 207,000 Court Cases",
+            "volume": "11",
+            "author": "Heyes",
+            "year": "2019",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2024033009011046100_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "827",
+            "DOI": "10.1257/aer.20201292",
+            "article-title": "Does Race Matter for Police Use of Force? Evidence from 911 Calls",
+            "volume": "112",
+            "author": "Hoekstra",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "237",
+            "DOI": "10.1111/j.1751-9020.2007.00006.x",
+            "article-title": "The Persistent Problem of Colorism: Skin Tone, Status, and Inequality",
+            "volume": "1",
+            "author": "Hunter",
+            "year": "2007",
+            "journal-title": "Sociology Compass"
+        },
+        {
+            "key": "2024033009011046100_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "255",
+            "DOI": "10.1126/science.aaa8415",
+            "article-title": "Machine Learning: Trends, Perspectives, and Prospects",
+            "volume": "349",
+            "author": "Jordan",
+            "year": "2015",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024033009011046100_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1038/s41586-021-03819-2",
+            "article-title": "Highly Accurate Protein Structure Prediction with AlphaFold",
+            "volume": "596",
+            "author": "Jumper",
+            "year": "2021",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2024033009011046100_bib52",
+            "doi-asserted-by": "crossref",
+            "article-title": "Simple Rules for Complex Decisions",
+            "author": "Jung",
+            "year": "2017",
+            "DOI": "10.2139/ssrn.2919024"
+        },
+        {
+            "key": "2024033009011046100_bib53",
+            "volume-title": "Noise",
+            "author": "Kahneman",
+            "year": "2022"
+        },
+        {
+            "key": "2024033009011046100_bib54",
+            "doi-asserted-by": "crossref",
+            "article-title": "An Adversarial Approach to Structural Estimation",
+            "author": "Kaji",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3706365"
+        },
+        {
+            "key": "2024033009011046100_bib55",
+            "article-title": "Auto-Encoding Variational Bayes",
+            "author": "Kingma",
+            "year": "2013"
+        },
+        {
+            "key": "2024033009011046100_bib56",
+            "first-page": "237",
+            "article-title": "Human Decisions and Machine Predictions",
+            "volume": "133",
+            "author": "Kleinberg",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011046100_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "10286",
+            "DOI": "10.1038/s41598-021-89743-x",
+            "article-title": "Predicting Sex from Retinal Fundus Photographs Using Automated Deep Learning",
+            "volume": "11",
+            "author": "Korot",
+            "year": "2021",
+            "journal-title": "Scientific Reports"
+        },
+        {
+            "key": "2024033009011046100_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.1109/JPROC.2015.2460697",
+            "article-title": "Multimodal Data Fusion: An Overview of Methods, Challenges, and Prospects",
+            "volume": "103",
+            "author": "Lahat",
+            "year": "2015",
+            "journal-title": "Proceedings of the IEEE"
+        },
+        {
+            "key": "2024033009011046100_bib59",
+            "doi-asserted-by": "crossref",
+            "article-title": "Explaining in Style: Training a GAN to Explain a Classifier in StyleSpace",
+            "author": "Lang",
+            "DOI": "10.1109/ICCV48922.2021.00073"
+        },
+        {
+            "key": "2024033009011046100_bib60",
+            "doi-asserted-by": "crossref",
+            "article-title": "Meme-Tracking and the Dynamics of the News Cycle",
+            "author": "Leskovec",
+            "DOI": "10.1145/1557019.1557077"
+        },
+        {
+            "key": "2024033009011046100_bib61",
+            "doi-asserted-by": "crossref",
+            "first-page": "1638",
+            "DOI": "10.1098/rstb.2010.0404",
+            "article-title": "Facial Attractiveness: Evolutionary Based Research",
+            "volume": "366",
+            "author": "Little",
+            "year": "2011",
+            "journal-title": "Philosophical Transactions of the Royal Society B: Biological Sciences"
+        },
+        {
+            "key": "2024033009011046100_bib62",
+            "doi-asserted-by": "crossref",
+            "article-title": "Generative Counterfactual Introspection for Explainable Deep Learning",
+            "author": "Liu",
+            "DOI": "10.1109/GlobalSIP45357.2019.8969491"
+        },
+        {
+            "key": "2024033009011046100_bib63",
+            "doi-asserted-by": "crossref",
+            "article-title": "Machine Learning as a Tool for Hypothesis Generation",
+            "author": "Ludwig",
+            "year": "2023",
+            "DOI": "10.3386/w31017"
+        },
+        {
+            "key": "2024033009011046100_bib64",
+            "article-title": "Replication Data for: \u2018Machine Learning as a Tool for Hypothesis Generation\u2019",
+            "author": "Ludwig",
+            "year": "2023"
+        },
+        {
+            "key": "2024033009011046100_bib65",
+            "article-title": "Interpretability and Explainability: A Machine Learning Zoo Mini-Tour",
+            "author": "Marcinkevi\u010ds",
+            "year": "2020"
+        },
+        {
+            "key": "2024033009011046100_bib66",
+            "article-title": "Discriminative Regularization for Latent Variable Models with Applications to Electrocardiography",
+            "author": "Miller"
+        },
+        {
+            "key": "2024033009011046100_bib67",
+            "doi-asserted-by": "crossref",
+            "first-page": "222",
+            "DOI": "10.1257/000282806776157515",
+            "article-title": "Why Beauty Matters",
+            "volume": "96",
+            "author": "Mobius",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib68",
+            "volume-title": "An Introduction to Predictive Maintenance",
+            "author": "Mobley",
+            "year": "2002"
+        },
+        {
+            "key": "2024033009011046100_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "679",
+            "DOI": "10.1093/qje/qjab046",
+            "article-title": "Diagnosing Physician Error: A Machine Learning Approach to Low-Value Health Care",
+            "volume": "137",
+            "author": "Mullainathan",
+            "year": "2022",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024033009011046100_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1257/jep.31.2.87",
+            "article-title": "Machine Learning: an Applied Econometric Approach",
+            "volume": "31",
+            "author": "Mullainathan",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011046100_bib71",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1175/1520-0450(1973)012<0595:ANVPOT>2.0.CO;2",
+            "article-title": "A New Vector Partition of the Probability Score",
+            "volume": "12",
+            "author": "Murphy",
+            "year": "1973",
+            "journal-title": "Journal of Applied Meteorology and Climatology"
+        },
+        {
+            "key": "2024033009011046100_bib72",
+            "article-title": "Do Deep Generative Models Know What They Don\u2019t Know?",
+            "author": "Nalisnick",
+            "year": "2018"
+        },
+        {
+            "key": "2024033009011046100_bib73",
+            "first-page": "273",
+            "article-title": "Scientific Discovery by Generating Counterfactuals Using Image Translation",
+            "volume-title": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+            "author": "Narayanaswamy"
+        },
+        {
+            "key": "2024033009011046100_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1257/aer.p20161008",
+            "article-title": "Experimental Age Discrimination Evidence and the Heckman Critique",
+            "volume": "106",
+            "author": "Neumark",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024033009011046100_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "E5716",
+            "DOI": "10.1073/pnas.1719367115",
+            "article-title": "Automatically Identifying, Counting, and Describing Wild Animals in Camera-Trap Images with Deep Learning",
+            "volume": "115",
+            "author": "Norouzzadeh",
+            "year": "2018",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024033009011046100_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "11087",
+            "DOI": "10.1073/pnas.0805664105",
+            "article-title": "The Functional Basis of Face Evaluation",
+            "volume": "105",
+            "author": "Oosterhof",
+            "year": "2008",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024033009011046100_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "1209",
+            "DOI": "10.1126/science.abe2629",
+            "article-title": "Using Large-Scale Experiments and Machine Learning to Discover Theories of Human Decision-Making",
+            "volume": "372",
+            "author": "Peterson",
+            "year": "2021",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024033009011046100_bib78",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1038/s41591-020-01192-7",
+            "article-title": "An Algorithmic Approach to Reducing Unexplained Pain Disparities in Underserved Populations",
+            "volume": "27",
+            "author": "Pierson",
+            "year": "2021",
+            "journal-title": "Nature Medicine"
+        },
+        {
+            "key": "2024033009011046100_bib79",
+            "article-title": "Learning from Learning Machines: A New Generation of AI Technology to Meet the Needs of Science",
+            "author": "Pion-Tonachini",
+            "year": "2021"
+        },
+        {
+            "key": "2024033009011046100_bib80",
+            "volume-title": "The Logic of Scientific Discovery",
+            "author": "Popper",
+            "year": "2002"
+        },
+        {
+            "key": "2024033009011046100_bib81",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0065-2601(08)00401-2",
+            "article-title": "The Introspection Illusion",
+            "volume": "41",
+            "author": "Pronin",
+            "year": "2009",
+            "journal-title": "Advances in Experimental Social Psychology"
+        },
+        {
+            "key": "2024033009011046100_bib82",
+            "doi-asserted-by": "crossref",
+            "first-page": "96",
+            "DOI": "10.1109/MSP.2017.2738401",
+            "article-title": "Deep Multimodal Learning: A Survey on Recent Advances and Trends",
+            "volume": "34",
+            "author": "Ramachandram",
+            "year": "2017",
+            "journal-title": "IEEE Signal Processing Magazine"
+        },
+        {
+            "key": "2024033009011046100_bib83",
+            "article-title": "Identifying Prediction Mistakes in Observational Data",
+            "author": "Rambachan",
+            "year": "2021"
+        },
+        {
+            "key": "2024033009011046100_bib84",
+            "doi-asserted-by": "crossref",
+            "first-page": "238",
+            "DOI": "10.1515/ctra-2017-0013",
+            "article-title": "Approaches to Measuring Creativity: A Systematic Literature Review",
+            "volume": "4",
+            "author": "Said-Metwaly",
+            "year": "2017",
+            "journal-title": "Creativity: Theories\u2013Research-Applications"
+        },
+        {
+            "key": "2024033009011046100_bib85",
+            "article-title": "Scientific Discovery",
+            "volume-title": "The Stanford Encyclopedia of Philosophy",
+            "author": "Schickore",
+            "edition": "2018"
+        },
+        {
+            "key": "2024033009011046100_bib86",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.2307/1342231",
+            "article-title": "Law and Phrenology",
+            "volume": "110",
+            "author": "Schlag",
+            "year": "1997",
+            "journal-title": "Harvard Law Review"
+        },
+        {
+            "key": "2024033009011046100_bib87",
+            "doi-asserted-by": "crossref",
+            "first-page": "1222",
+            "DOI": "10.1177/0956797620959594",
+            "article-title": "Using Machine Learning to Generate Novel Hypotheses: Increasing Optimism about COVID-19 Makes People Less Willing to Justify Unethical Behaviors",
+            "volume": "31",
+            "author": "Sheetal",
+            "year": "2020",
+            "journal-title": "Psychological Science"
+        },
+        {
+            "key": "2024033009011046100_bib88",
+            "article-title": "Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps",
+            "author": "Simonyan"
+        },
+        {
+            "key": "2024033009011046100_bib89",
+            "doi-asserted-by": "crossref",
+            "first-page": "519",
+            "DOI": "10.1364/JOSAA.4.000519",
+            "article-title": "Low-Dimensional Procedure for the Characterization of Human Faces",
+            "volume": "4",
+            "author": "Sirovich",
+            "year": "1987",
+            "journal-title": "Journal of the Optical Society of America A"
+        },
+        {
+            "key": "2024033009011046100_bib90",
+            "first-page": "1175",
+            "article-title": "Governing by Algorithm? No Noise and (Potentially) Less Bias",
+            "volume": "71",
+            "author": "Sunstein",
+            "year": "2021",
+            "journal-title": "Duke Law Journal"
+        },
+        {
+            "key": "2024033009011046100_bib91",
+            "doi-asserted-by": "crossref",
+            "first-page": "7",
+            "DOI": "10.1353/pbm.1986.0087",
+            "article-title": "Fish Oil, Raynaud\u2019s Syndrome, and Undiscovered Public Knowledge",
+            "volume": "30",
+            "author": "Swanson",
+            "year": "1986",
+            "journal-title": "Perspectives in Biology and Medicine"
+        },
+        {
+            "key": "2024033009011046100_bib92",
+            "doi-asserted-by": "crossref",
+            "first-page": "526",
+            "DOI": "10.1353/pbm.1988.0009",
+            "article-title": "Migraine and Magnesium: Eleven Neglected Connections",
+            "volume": "31",
+            "author": "Swanson",
+            "year": "1988",
+            "journal-title": "Perspectives in Biology and Medicine"
+        },
+        {
+            "key": "2024033009011046100_bib93",
+            "article-title": "Intriguing Properties of Neural Networks",
+            "author": "Szegedy",
+            "year": "2013"
+        },
+        {
+            "key": "2024033009011046100_bib94",
+            "article-title": "The Structure and Perceptual Basis of Social Judgments from Faces. in Advances in Experimental Social Psychology",
+            "author": "Todorov",
+            "year": "2021"
+        },
+        {
+            "key": "2024033009011046100_bib95",
+            "doi-asserted-by": "crossref",
+            "first-page": "519",
+            "DOI": "10.1146/annurev-psych-113011-143831",
+            "article-title": "Social Attributions from Faces: Determinants, Consequences, Accuracy, and Functional Significance",
+            "volume": "66",
+            "author": "Todorov",
+            "year": "2015",
+            "journal-title": "Annual Review of Psychology"
+        },
+        {
+            "key": "2024033009011046100_bib96",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1257/jep.28.2.3",
+            "article-title": "Big Data: New Tricks for Econometrics",
+            "volume": "28",
+            "author": "Varian",
+            "year": "2014",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024033009011046100_bib97",
+            "volume-title": "Strangers to Ourselves",
+            "author": "Wilson",
+            "year": "2004"
+        },
+        {
+            "key": "2024033009011046100_bib98",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1109/35.41402",
+            "article-title": "Integration of Acoustic and Visual Speech Signals Using Neural Networks",
+            "volume": "27",
+            "author": "Yuhas",
+            "year": "1989",
+            "journal-title": "IEEE Communications Magazine"
+        },
+        {
+            "key": "2024033009011046100_bib99",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/17470910701676236",
+            "article-title": "Neural Activation to Babyfaced Men Matches Activation to Babies",
+            "volume": "4",
+            "author": "Zebrowitz",
+            "year": "2009",
+            "journal-title": "Social Neuroscience"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjad055/56324173/qjad055.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/2/751/57123481/qjad055.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/2/751/57123481/qjad055.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                30
+            ]
+        ],
+        "date-time": "2024-03-30T09:01:51Z",
+        "timestamp": 1711789311000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/139/2/751/7515309"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                10
+            ]
+        ]
+    },
+    "references-count": 99,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    30
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjad055",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "value": "0033-5533",
+            "type": "print"
+        },
+        {
+            "value": "1531-4650",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                10
+            ]
+        ]
+    }
+}
