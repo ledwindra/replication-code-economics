@@ -1,0 +1,844 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                9
+            ]
+        ],
+        "date-time": "2024-05-09T02:10:07Z",
+        "timestamp": 1715220607708
+    },
+    "reference-count": 67,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        7,
+                        11
+                    ]
+                ],
+                "date-time": "2023-07-11T00:00:00Z",
+                "timestamp": 1689033600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                9
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article proposes a model of non-Bayesian social learning in networks that accounts for heuristics and biases in opinion aggregation. The updating rules are represented by non-linear opinion aggregators from which we extract two extreme networks capturing strong and weak links. We provide graph-theoretic conditions for these networks that characterize opinions\u2019 convergence, consensus formation, and efficient or biased information aggregation. Under these updating rules, agents may ignore some of their neighbours\u2019 opinions, reducing the number of effective connections and inducing long-run disagreement for finite populations. For the wisdom of the crowd in large populations, we highlight a trade-off between how connected the society is and the non-linearity of the opinion aggregator. Our framework bridges several models and phenomena in the non-Bayesian social learning literature, thereby providing a unifying approach to the field.</jats:p>",
+    "DOI": "10.1093/restud/rdad072",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                11
+            ]
+        ],
+        "date-time": "2023-07-11T19:06:38Z",
+        "timestamp": 1689102398000
+    },
+    "page": "1406-1447",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Dynamic Opinion Aggregation: Long-Run Stability and Disagreement"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Simone",
+            "family": "Cerreia-Vioglio",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Bocconi University , Milan , Italy"
+                }
+            ]
+        },
+        {
+            "given": "Roberto",
+            "family": "Corrao",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT , Cambridge , USA"
+                }
+            ]
+        },
+        {
+            "given": "Giacomo",
+            "family": "Lanzani",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "MIT , Cambridge , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                11
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024050901302172700_rdad072-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.3982/ECTA15899",
+            "article-title": "Endogenous Production Networks",
+            "volume": "88",
+            "author": "Acemoglu",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B2",
+            "first-page": "1977",
+            "article-title": "The Network Origins of Aggregate Fluctuations",
+            "volume": "80",
+            "author": "Acemoglu",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1007/s13235-010-0004-1",
+            "article-title": "Opinion Dynamics and Learning in Social Networks",
+            "volume": "1",
+            "author": "Acemoglu",
+            "year": "2011",
+            "journal-title": "Dynamic Games and Applications"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B4",
+            "author": "Angeli",
+            "year": "2005"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "105322",
+            "DOI": "10.1016/j.jet.2021.105322",
+            "article-title": "Virtually Additive Learning",
+            "volume": "197",
+            "author": "Arieli",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B6",
+            "first-page": "1",
+            "article-title": "On the Asymptotic Behavior of Nonexpansive Mappings and Semigroups in Banach Spaces",
+            "volume": "4",
+            "author": "Baillon",
+            "year": "1978",
+            "journal-title": "Houston Journal of Mathematics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.1111/j.1468-0262.2006.00709.x",
+            "article-title": "Who\u2019s Who in Networks. Wanted: The Key Player",
+            "volume": "74",
+            "author": "Ballester",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "3540",
+            "DOI": "10.1257/aer.20181151",
+            "article-title": "Naive Learning with Uninformed Agents",
+            "volume": "111",
+            "author": "Banerjee",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0899-8256(03)00048-4",
+            "article-title": "Word-of-Mouth Learning",
+            "volume": "46",
+            "author": "Banerjee",
+            "year": "2004",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1918",
+            "DOI": "10.1257/aer.20200295",
+            "article-title": "Can Network Theory-Based Targeting Increase Technology Adoption?",
+            "volume": "111",
+            "author": "Beaman",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B11",
+            "volume-title": "Probability and Measure",
+            "author": "Billingsley",
+            "year": "1995",
+            "edition": "3rd edn"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B12",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Concentration Inequalities: A Nonasymptotic Theory of Independence",
+            "author": "Boucheron",
+            "year": "2013",
+            "DOI": "10.1093/acprof:oso/9780199535255.001.0001"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "678",
+            "DOI": "10.1093/oxrep/grz025",
+            "article-title": "Networks in Economic Development",
+            "volume": "35",
+            "author": "Breza",
+            "year": "2019",
+            "journal-title": "Oxford Review of Economic Policy"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B14",
+            "doi-asserted-by": "crossref",
+            "article-title": "Seeing the Forest for the Trees? An Investigation of Network Knowledge",
+            "author": "Breza",
+            "year": "2018",
+            "DOI": "10.3386/w24359"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.1090/S0002-9904-1966-11544-6",
+            "article-title": "The Solution by Iteration of Nonlinear Functional Equations in Banach Spaces",
+            "volume": "72",
+            "author": "Browder",
+            "year": "1966",
+            "journal-title": "Bulletin of the American Mathematical Society"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/BF02760397",
+            "article-title": "On the Almost-Convergence of Iterates of a Nonexpansive Mapping in Hilbert Space and the Structure of the Weak \u03c9-Limit Set",
+            "volume": "29",
+            "author": "Bruck",
+            "year": "1978",
+            "journal-title": "Israel Journal of Mathematics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "649",
+            "DOI": "10.3982/TE1468",
+            "article-title": "Communication and Influence",
+            "volume": "10",
+            "author": "Calv\u00f3-Armengol",
+            "year": "2015",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "702",
+            "DOI": "10.1086/521848",
+            "article-title": "Complex Contagions and the Weakness of Long Ties",
+            "volume": "113",
+            "author": "Centola",
+            "year": "2007",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B19",
+            "author": "Cerreia-Vioglio",
+            "year": "2020"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B20",
+            "author": "Cerreia-Vioglio",
+            "year": "2022"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B21",
+            "author": "Cerreia-Vioglio",
+            "year": "2023"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/ECTA14407",
+            "article-title": "Testing Models of Social Learning on Networks: Evidence from two Experiments",
+            "volume": "88",
+            "author": "Chandrasekhar",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.2307/3213262",
+            "article-title": "Towards Consensus: Some Convergence Theorems on Repeated Averaging",
+            "volume": "14",
+            "author": "Chatterjee",
+            "year": "1977",
+            "journal-title": "Journal of Applied Probability"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1768",
+            "DOI": "10.1016/j.automatica.2013.02.021",
+            "article-title": "Consensus of Discrete-Time Multi-Agent Systems with Transmission Nonlinearity",
+            "volume": "49",
+            "author": "Chen",
+            "year": "2013",
+            "journal-title": "Automatica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B25",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Optimization and Nonsmooth Analysis",
+            "author": "Clarke",
+            "year": "1990",
+            "DOI": "10.1137/1.9781611971309"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "726",
+            "DOI": "10.1016/j.automatica.2007.07.022",
+            "article-title": "Distributed Algorithms for Reaching Consensus on General Functions",
+            "volume": "44",
+            "author": "Cort\u00e9s",
+            "year": "2008",
+            "journal-title": "Automatica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/restud/rdac077",
+            "article-title": "Learning from Neighbors about a Changing State",
+            "volume": "90",
+            "author": "Dasaratha",
+            "year": "2023",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "118",
+            "DOI": "10.1080/01621459.1974.10480137",
+            "article-title": "Reaching a Consensus",
+            "volume": "69",
+            "author": "DeGroot",
+            "year": "1974",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "909",
+            "DOI": "10.1162/00335530360698469",
+            "article-title": "Persuasion Bias, Social Influence, and Unidimensional Opinions",
+            "volume": "118",
+            "author": "DeMarzo",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B30",
+            "volume-title": "Foundations of Modern Analysis",
+            "author": "Dieudonne",
+            "year": "1960"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "547",
+            "DOI": "10.1112/jlms/s2-17.3.547",
+            "article-title": "Nonexpansive Mappings, Asymptotic Regularity and Successive Approximations",
+            "volume": "17",
+            "author": "Edelstein",
+            "year": "1978",
+            "journal-title": "Journal of the London Mathematical Society"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "730",
+            "DOI": "10.1086/701032",
+            "article-title": "A Network Approach to Public Goods",
+            "volume": "127",
+            "author": "Elliott",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "193",
+            "DOI": "10.1080/0022250X.1990.9990069",
+            "article-title": "Social Influence and Opinions",
+            "volume": "15",
+            "author": "Friedkin",
+            "year": "1990",
+            "journal-title": "The Journal of Mathematical Sociology"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2445",
+            "DOI": "10.3982/ECTA16173",
+            "article-title": "Targeting Interventions in Networks",
+            "volume": "88",
+            "author": "Galeotti",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.1111/j.1467-937X.2009.00570.x",
+            "article-title": "Network Games",
+            "volume": "77",
+            "author": "Galeotti",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B36",
+            "author": "Galperti",
+            "year": "2020"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "450",
+            "DOI": "10.1038/075450a0",
+            "article-title": "Vox Populi",
+            "volume": "75",
+            "author": "Galton",
+            "year": "1907",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.1016/j.jet.2003.12.004",
+            "article-title": "Differentiating Ambiguity and Ambiguity Attitude",
+            "volume": "118",
+            "author": "Ghirardato",
+            "year": "2004",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B39",
+            "first-page": "112",
+            "article-title": "Na\u00efve Learning in Social Networks and the Wisdom of Crowds",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1287",
+            "DOI": "10.1093/qje/qjs021",
+            "article-title": "How Homophily Affects the Speed of Learning and Best-Response Dynamics",
+            "volume": "127",
+            "author": "Golub",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B41",
+            "author": "Golub",
+            "year": "2018"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B42",
+            "author": "Golub",
+            "year": "2016"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1360",
+            "DOI": "10.1086/225469",
+            "article-title": "The Strength of Weak Ties",
+            "volume": "78",
+            "author": "Granovetter",
+            "year": "1973",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B44",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1103/PhysRevE.74.056108",
+            "article-title": "Nonequilibrium Phase Transition in the Coevolution of Networks and Opinions",
+            "volume": "74",
+            "author": "Holme",
+            "year": "2006",
+            "journal-title": "Physical Review E"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1214/aoms/1177703732",
+            "article-title": "Robust Estimation of a Location Parameter",
+            "volume": "35",
+            "author": "Huber",
+            "year": "1964",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1016/j.geb.2012.06.001",
+            "article-title": "Non-Bayesian Social Learning",
+            "volume": "76",
+            "author": "Jadbabaie",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B47",
+            "volume-title": "Finite Markov Chains",
+            "author": "Kemeny",
+            "year": "1976",
+            "edition": "2nd edn"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B48",
+            "author": "Kempe",
+            "year": "2003"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B49",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Positive Dynamical Systems in Discrete Time: Theory, Models, and Applications",
+            "author": "Krause",
+            "year": "2015",
+            "DOI": "10.1515/9783110365696"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B50",
+            "volume-title": "Ergodic Theorems",
+            "author": "Krengel",
+            "year": "1986"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1016/j.geb.2017.12.020",
+            "article-title": "Information Diffusion in Networks with the Bayesian Peer Influence Heuristic",
+            "volume": "109",
+            "author": "Levy",
+            "year": "2018",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1447",
+            "DOI": "10.1111/j.1468-0262.2006.00716.x",
+            "article-title": "Ambiguity Aversion, Robustness, and the Variational Representation of Preferences",
+            "volume": "74",
+            "author": "Maccheroni",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B53",
+            "author": "Marinacci",
+            "year": "2004"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.2307/2951479",
+            "article-title": "Monotone Comparative Statics",
+            "volume": "62",
+            "author": "Milgrom",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.3982/ECTA14613",
+            "article-title": "A Theory of Non-Bayesian Social Learning",
+            "volume": "86",
+            "author": "Molavi",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1109/TAC.2004.841888",
+            "article-title": "Stability of Multiagent Systems with Time-Dependent Communication Links",
+            "volume": "50",
+            "author": "Moreau",
+            "year": "2005",
+            "journal-title": "IEEE Transactions on Automatic Control"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/1467-937X.00121",
+            "article-title": "Contagion",
+            "volume": "67",
+            "author": "Morris",
+            "year": "2000",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B58",
+            "author": "Mossel",
+            "year": "2016"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/TE1015",
+            "article-title": "A General Framework for Rational Learning in Social Networks",
+            "volume": "8",
+            "author": "Mueller-Frank",
+            "year": "2013",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B60",
+            "author": "Mueller-Frank",
+            "year": "2018"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.3982/TE2974",
+            "article-title": "A General Analysis of Boundedly Rational Learning in Social Networks",
+            "volume": "16",
+            "author": "Mueller-Frank",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.2307/2998573",
+            "article-title": "The Probability Weighting Function",
+            "volume": "66",
+            "author": "Prelec",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B63",
+            "first-page": "271",
+            "article-title": "Influence Campaigns",
+            "volume": "15",
+            "author": "Sadler",
+            "year": "2023",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.2307/1911053",
+            "article-title": "Subjective Probability and Expected Utility Without Additivity",
+            "volume": "57",
+            "author": "Schmeidler",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B65",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/0-387-32792-4",
+            "volume-title": "Non-Negative Matrices and Markov Chains",
+            "author": "Seneta",
+            "year": "1981",
+            "edition": "2nd edn"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B66",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Monotone Dynamical Systems: An Introduction to the Theory of Competitive and Cooperative Systems",
+            "author": "Smith",
+            "year": "2008",
+            "DOI": "10.1090/surv/041"
+        },
+        {
+            "key": "2024050901302172700_rdad072-B67",
+            "author": "Tahbaz-Salehi",
+            "year": "2006"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad072/56677989/rdad072.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/3/1406/57452741/rdad072.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/3/1406/57452741/rdad072.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                9
+            ]
+        ],
+        "date-time": "2024-05-09T01:31:20Z",
+        "timestamp": 1715218280000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/3/1406/7222863"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                11
+            ]
+        ]
+    },
+    "references-count": 67,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    7,
+                    11
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    9
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad072",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                7,
+                11
+            ]
+        ]
+    }
+}

@@ -1,0 +1,617 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                9
+            ]
+        ],
+        "date-time": "2024-05-09T02:10:11Z",
+        "timestamp": 1715220611687
+    },
+    "reference-count": 40,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        27
+                    ]
+                ],
+                "date-time": "2023-06-27T00:00:00Z",
+                "timestamp": 1687824000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                9
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In many environments, including credit and online markets, records about participants are collected, published, and erased after some time. We study the effects of erasing past records in a dynamic market where the quality of sellers follows a Markov process, and buyers leave feedback about sellers to an information intermediary. When the average quality of sellers is low, unlimited records lead to a market breakdown in the long run. We consider the information design problem and characterize information policies that can sustain trade and that maximize social welfare. These policies hide some information from the market in order to foster socially desirable experimentation. We show that these outcomes can be implemented by appropriately deleting past records. Crucially, positive and negative records play opposite roles with different intensities and must have different lengths: negative records must be deleted sufficiently late, and positive ones sufficiently early.</jats:p>",
+    "DOI": "10.1093/restud/rdad067",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                27
+            ]
+        ],
+        "date-time": "2023-06-27T15:24:23Z",
+        "timestamp": 1687879463000
+    },
+    "page": "1775-1806",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Memory and Markets"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Sergey",
+            "family": "Kovbasyuk",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "New Economic School"
+                }
+            ]
+        },
+        {
+            "given": "Giancarlo",
+            "family": "Spagnolo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Rome Tor Vergata, EIEF, SITE & CEPR"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                27
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024050901294242300_rdad067-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "442",
+            "DOI": "10.1257/jel.54.2.442",
+            "article-title": "The Economics of Privacy",
+            "volume": "54",
+            "author": "Acquisti",
+            "year": "2016",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "312",
+            "DOI": "10.1016/j.jet.2008.04.003",
+            "article-title": "Repeated Games with One-Memory",
+            "volume": "144",
+            "author": "Barlo",
+            "year": "2009",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1125",
+            "DOI": "10.2307/2171959",
+            "article-title": "Learning and Strategic Pricing",
+            "volume": "64",
+            "author": "Bergemann",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1111/1467-937X.00128",
+            "article-title": "Experimentation in Markets",
+            "volume": "67",
+            "author": "Bergemann",
+            "year": "2000",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1010",
+            "DOI": "10.1093/restud/rdy048",
+            "article-title": "Community Enforcement of Trust with Bounded Memory",
+            "volume": "86",
+            "author": "Bhaskar",
+            "year": "2018",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B6",
+            "first-page": "179",
+            "article-title": "Dynamic Persuasion with outside Information",
+            "volume": "13",
+            "author": "Bizzotto",
+            "year": "2021",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2381",
+            "DOI": "10.3982/ECTA9039",
+            "article-title": "Reputation for Quality",
+            "volume": "81",
+            "author": "Board",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1111/1468-0262.00022",
+            "article-title": "Strategic Experimentation",
+            "volume": "67",
+            "author": "Bolton",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2005",
+            "DOI": "10.1093/rfs/hhy006",
+            "article-title": "The Labor Market Effects of Credit Market Information",
+            "volume": "31",
+            "author": "Bos",
+            "year": "2018",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B10",
+            "author": "Bos",
+            "year": "2014"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1093/qje/qjx044",
+            "article-title": "Recommender Systems as Mechanisms for Social Learning",
+            "volume": "133",
+            "author": "Che",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B12",
+            "author": "Che",
+            "year": "2020"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "969",
+            "DOI": "10.1093/restud/rdw014",
+            "article-title": "Trading Dynamics with Adverse Selection and Search: Market Freeze, Intervention and Recovery",
+            "volume": "83",
+            "author": "Chiu",
+            "year": "2016",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1287/isre.1060.0092",
+            "article-title": "Research Note: How Often Should Reputation Mechanisms Update a Trader\u2019s Reputation Profile?",
+            "volume": "17",
+            "author": "Dellarocas",
+            "year": "2006",
+            "journal-title": "Information Systems Research"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "142",
+            "DOI": "10.1016/j.jet.2011.11.013",
+            "article-title": "Restricted Feedback in Long Term Relationships",
+            "volume": "147",
+            "author": "Doraszelski",
+            "year": "2012",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1016/j.jet.2010.02.015",
+            "article-title": "Sustainable Reputations with Rating Systems",
+            "volume": "146",
+            "author": "Ekmekci",
+            "year": "2011",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B17",
+            "first-page": "294",
+            "article-title": "Bankruptcy: Is it Enough to Forgive or Must we Also Forget?",
+            "volume": "7",
+            "author": "Elul",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1086/677350",
+            "article-title": "Suspense and Surprise",
+            "volume": "123",
+            "author": "Ely",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1257/aer.20150218",
+            "article-title": "Beeps",
+            "volume": "107",
+            "author": "Ely",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "802",
+            "DOI": "10.1257/aer.100.3.802",
+            "article-title": "Bargaining with Arrival of new Traders",
+            "volume": "100",
+            "author": "Fuchs",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1875",
+            "DOI": "10.1257/aer.104.7.1875",
+            "article-title": "Dynamic Adverse Selection: A Theory of Illiquidity, Fire Sales, and Flight to Quality",
+            "volume": "104",
+            "author": "Guerrieri",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "911",
+            "DOI": "10.1257/aer.20171919",
+            "article-title": "Research and the Approval Process: The Organization of Persuasion",
+            "volume": "109",
+            "author": "Henry",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1111/1467-937X.00083",
+            "article-title": "Managerial Incentive Problems: A Dynamic Perspective",
+            "volume": "66",
+            "author": "Holmstr\u00f6m",
+            "year": "1999",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1892",
+            "DOI": "10.1093/restud/rdaa070",
+            "article-title": "Motivational Ratings",
+            "volume": "88",
+            "author": "H\u00f6rner",
+            "year": "2020",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "article-title": "Bayesian Persuasion",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.1111/1467-937X.00095",
+            "article-title": "Optimal Experimentation in a Changing Environment",
+            "volume": "66",
+            "author": "Keller",
+            "year": "1999",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1111/j.1468-0262.2005.00564.x",
+            "article-title": "Strategic Experimentation with Exponential Bandits",
+            "volume": "73",
+            "author": "Keller",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "988",
+            "DOI": "10.1086/676597",
+            "article-title": "Implementing the \u201cwisdom of the Crowd\u201d",
+            "volume": "122",
+            "author": "Kremer",
+            "year": "2014",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B29",
+            "author": "Liberman",
+            "year": "2018"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1016/j.jet.2013.12.014",
+            "article-title": "Limited Records and Reputation Bubbles",
+            "volume": "151",
+            "author": "Liu",
+            "year": "2014",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1111/1467-937X.00175",
+            "article-title": "Who Wants a Good Reputation?",
+            "volume": "68",
+            "author": "Mailath",
+            "year": "2001",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "725",
+            "DOI": "10.1086/422437",
+            "article-title": "What Happens When Information Leaves a Market? Evidence from Postbankruptcy Consumers",
+            "volume": "77",
+            "author": "Musto",
+            "year": "2004",
+            "journal-title": "The Journal of Business"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B33",
+            "volume-title": "The Costs of Privacy: Surveillance and Reputation in America",
+            "author": "Nock",
+            "year": "1993"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2542",
+            "DOI": "10.1086/706687",
+            "article-title": "Persuading the Principal to Wait",
+            "volume": "128",
+            "author": "Orlov",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B35",
+            "first-page": "34",
+            "article-title": "Information Disclosure and Unraveling in Matching Markets",
+            "volume": "2",
+            "author": "Ostrovsky",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1951",
+            "DOI": "10.1016/S0014-2921(00)00055-6",
+            "article-title": "Sharing Default Information as a Borrower Discipline Device",
+            "volume": "44",
+            "author": "Padilla",
+            "year": "2000",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B37",
+            "volume-title": "The Economics of Justice",
+            "author": "Posner",
+            "year": "1983"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "949",
+            "DOI": "10.1086/657922",
+            "article-title": "Optimal Information Disclosure",
+            "volume": "118",
+            "author": "Rayo",
+            "year": "2010",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B39",
+            "first-page": "250",
+            "article-title": "Cream Skimming and Information Design in Matching Markets",
+            "volume": "11",
+            "author": "Romanyuk",
+            "year": "2019",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024050901294242300_rdad067-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "461",
+            "DOI": "10.2307/2554671",
+            "article-title": "Credit Bureau Policy and Sustainable Reputation Effects in Credit Markets",
+            "volume": "62",
+            "author": "Vercammen",
+            "year": "1995",
+            "journal-title": "Economica"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad067/56678244/rdad067.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/3/1775/57452668/rdad067.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/3/1775/57452668/rdad067.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                9
+            ]
+        ],
+        "date-time": "2024-05-09T01:30:00Z",
+        "timestamp": 1715218200000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/3/1775/7208634"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                27
+            ]
+        ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    6,
+                    27
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    9
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad067",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                6,
+                27
+            ]
+        ]
+    }
+}

@@ -1,0 +1,589 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                18
+            ]
+        ],
+        "date-time": "2024-06-18T00:12:50Z",
+        "timestamp": 1718669570344
+    },
+    "reference-count": 42,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "7",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        5
+                    ]
+                ],
+                "date-time": "2024-01-05T00:00:00Z",
+                "timestamp": 1704412800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                17
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We analyze how interdependencies in financial networks can lead to self-fulfilling insolvencies and multiple possible equilibrium outcomes. Multiplicity arises if a certain type of dependency cycle exists in the network. We show that finding the cheapest bailout policy that prevents self-fulfilling insolvencies is computationally hard, but that the optimal policy has intuitive features in some typical network structures. Leveraging indirect benefits ensures systemic solvency at a cost that never exceeds half of the overall shortfall. In core-periphery networks, it is optimal to bail out peripheral banks first as opposed to core banks.</jats:p>",
+    "DOI": "10.1093/rfs/hhad096",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                5
+            ]
+        ],
+        "date-time": "2024-01-05T17:53:44Z",
+        "timestamp": 1704477224000
+    },
+    "page": "2017-2062",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Credit Freezes, Equilibrium Multiplicity, and Optimal Bailouts in Financial Networks"
+    ],
+    "prefix": "10.1093",
+    "volume": "37",
+    "author": [
+        {
+            "given": "Matthew O",
+            "family": "Jackson",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University , Stanford, USA"
+                }
+            ]
+        },
+        {
+            "given": "Agathe",
+            "family": "Pernoud",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago , Chicago, USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                5
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024061707512065300_hhad096-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "564",
+            "DOI": "10.1257/aer.20130456",
+            "article-title": "Systemic risk and stability in financial networks",
+            "volume": "105",
+            "author": "Acemoglu",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "787",
+            "DOI": "10.1016/j.jfineco.2006.05.011",
+            "article-title": "Does industry-wide distress affect defaulted firms? evidence from creditor recoveries",
+            "volume": "85",
+            "author": "Acharya",
+            "year": "2007",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1805",
+            "DOI": "10.1086/719758",
+            "article-title": "Bail-ins and bailouts: Incentives, connectivity, and systemic stability",
+            "volume": "130",
+            "author": "Bernard",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "62",
+            "DOI": "10.1016/j.dam.2014.06.001",
+            "article-title": "On the max min vertex cover problem",
+            "volume": "196",
+            "author": "Boria",
+            "year": "2015",
+            "journal-title": "Discrete Applied Mathematics"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B5",
+            "author": "Bo\u017ei\u0107",
+            "year": "2023"
+        },
+        {
+            "issue": "1",
+            "key": "2024061707512065300_hhad096-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/S1057-5219(01)00068-0",
+            "article-title": "The costs of bankruptcy: A",
+            "volume": "11",
+            "author": "Branch",
+            "year": "2002",
+            "journal-title": "review. International Review of Financial Analysis"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1016/j.jmoneco.2022.03.004",
+            "article-title": "Optimal bailouts and the doom loop with a financial network",
+            "volume": "128",
+            "author": "Capponi",
+            "year": "2022",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1830",
+            "DOI": "10.1093/rfs/hhu023",
+            "article-title": "Heterogeneity and stability: Bolster the strong, not the weak",
+            "volume": "27",
+            "author": "Choi",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B9",
+            "author": "Craig",
+            "year": "2023"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "4681",
+            "DOI": "10.1287/mnsc.2017.2847",
+            "article-title": "Decentralized clearing in financial networks",
+            "volume": "64",
+            "author": "Cs\u00f3ka",
+            "year": "2018",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2959",
+            "DOI": "10.1093/rfs/hhs091",
+            "article-title": "A market-based study of the cost of default",
+            "volume": "25",
+            "author": "Davydenko",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "955",
+            "DOI": "10.1287/mnsc.2016.2592",
+            "article-title": "Contagion in financial networks: a threat index",
+            "volume": "64",
+            "author": "Demange",
+            "year": "2016",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1660",
+            "DOI": "10.1287/opre.2021.2107",
+            "article-title": "Compressing over-the-counter markets",
+            "volume": "69",
+            "author": "D\u2019Errico",
+            "year": "2021",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1086/261155",
+            "article-title": "Bank runs, deposit insurance, and liquidity",
+            "volume": "91",
+            "author": "Diamond",
+            "year": "1983",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B15",
+            "author": "Donaldson",
+            "year": "2017"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B16",
+            "author": "Duarte",
+            "year": "2017"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B17",
+            "author": "Duffie",
+            "year": "2020"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "74",
+            "DOI": "10.1093/rapstu/rar001",
+            "article-title": "Does a central clearing counterparty reduce counterparty risk?",
+            "volume": "1",
+            "author": "Duffie",
+            "year": "2011",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "514",
+            "DOI": "10.1016/j.jet.2006.06.001",
+            "article-title": "Finding all equilibria in games of strategic complements",
+            "volume": "135",
+            "author": "Echenique",
+            "year": "2007",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B20",
+            "author": "Economist",
+            "year": "2008"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B21",
+            "author": "Egressy",
+            "year": "2021"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "236",
+            "DOI": "10.1287/mnsc.47.2.236.9835",
+            "article-title": "Systemic risk in financial systems",
+            "volume": "47",
+            "author": "Eisenberg",
+            "year": "2001",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "3115",
+            "DOI": "10.1257/aer.104.10.3115",
+            "article-title": "Financial networks and contagion",
+            "volume": "104",
+            "author": "Elliott",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B24",
+            "author": "Erol",
+            "year": "2019"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B25",
+            "author": "Erol",
+            "year": "2018"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B26",
+            "author": "Fleming",
+            "year": "2021"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2401",
+            "DOI": "10.1098/rspa.2009.0410",
+            "article-title": "Contagion in financial networks",
+            "volume": "466",
+            "author": "Gai",
+            "year": "2010",
+            "journal-title": "Proceedings of the Royal Society A"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B28",
+            "author": "Glode",
+            "year": "2023"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1146/annurev-economics-083120-111540",
+            "article-title": "Systemic risk in financial networks: A survey",
+            "volume": "13",
+            "author": "Jackson",
+            "year": "2021",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B30",
+            "author": "Jackson",
+            "year": "2021"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "845",
+            "DOI": "10.1093/rfs/11.4.845",
+            "article-title": "Payment system settlement and bank incentives",
+            "volume": "11",
+            "author": "Kahn",
+            "year": "1998",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B32",
+            "author": "Kanik",
+            "year": "2019"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B33",
+            "author": "Kiyotaki",
+            "year": "1998"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1136",
+            "DOI": "10.1016/j.ejor.2021.10.042",
+            "article-title": "Optimal intervention in economic networks using influence maximization methods",
+            "volume": "300",
+            "author": "Klages-Mundt",
+            "year": "2022",
+            "journal-title": "European Journal of Operational Research"
+        },
+        {
+            "issue": "6",
+            "key": "2024061707512065300_hhad096-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "2925",
+            "DOI": "10.1111/j.1540-6261.2005.00821.x",
+            "article-title": "Financial networks: Contagion, commitment, and private sector bailouts",
+            "volume": "60",
+            "author": "Leitner",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1146/annurev-financial-110217-022532",
+            "article-title": "Measuring the cost of bailouts",
+            "volume": "11",
+            "author": "Lucas",
+            "year": "2019",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B37",
+            "author": "Martin",
+            "year": "2008"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "882",
+            "DOI": "10.1287/mnsc.1120.1569",
+            "article-title": "Failure and rescue in an interbank network",
+            "volume": "59",
+            "author": "Rogers",
+            "year": "2013",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1016/j.jfs.2016.12.003",
+            "article-title": "Interconnectedness as a source of uncertainty in systemic risk",
+            "volume": "35",
+            "author": "Roukny",
+            "year": "2018",
+            "journal-title": "Journal of Financial Stability"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B40",
+            "author": "Schuldenzucker",
+            "year": "2019"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/S0022-0531(03)00114-5",
+            "article-title": "Coordination and discrimination in contracting with externalities: Divide and conquer?",
+            "volume": "113",
+            "author": "Segal",
+            "year": "2003",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024061707512065300_hhad096-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "764",
+            "DOI": "10.1257/0002828041464434",
+            "article-title": "Incentives and discrimination",
+            "volume": "94",
+            "author": "Winter",
+            "year": "2004",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhad096/56151132/hhad096.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/7/2017/58237270/hhad096.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/7/2017/58237270/hhad096.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                17
+            ]
+        ],
+        "date-time": "2024-06-17T08:55:44Z",
+        "timestamp": 1718614544000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/37/7/2017/7511864"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                5
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "issue": "7",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    5
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    6,
+                    17
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhad096",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                5
+            ]
+        ]
+    }
+}
