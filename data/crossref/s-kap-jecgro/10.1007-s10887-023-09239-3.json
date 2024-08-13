@@ -1,0 +1,811 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                10
+            ]
+        ],
+        "date-time": "2024-08-10T18:40:38Z",
+        "timestamp": 1723315238312
+    },
+    "reference-count": 50,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        25
+                    ]
+                ],
+                "date-time": "2024-01-25T00:00:00Z",
+                "timestamp": 1706140800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        25
+                    ]
+                ],
+                "date-time": "2024-01-25T00:00:00Z",
+                "timestamp": 1706140800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100002642",
+            "name": "Korea University",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "K2110021"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "link.springer.com"
+        ],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "J Econ Growth"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                9
+            ]
+        ]
+    },
+    "DOI": "10.1007/s10887-023-09239-3",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                25
+            ]
+        ],
+        "date-time": "2024-01-25T19:02:43Z",
+        "timestamp": 1706209363000
+    },
+    "page": "361-389",
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Educational quality and disparities in income and growth across countries"
+    ],
+    "prefix": "10.1007",
+    "volume": "29",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0003-2292-0919",
+            "authenticated-orcid": false,
+            "given": "Hanol",
+            "family": "Lee",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-3152-4961",
+            "authenticated-orcid": false,
+            "given": "Jong-Wha",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "297",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                25
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "9239_CR1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Altinok, N., Angrist, N., & Patrinos, H. A. (2018). Global data set on education quality (1965\u20132015). Policy Research Working Paper; No. 8314, Washington, DC: World Bank",
+            "DOI": "10.1596/1813-9450-8314"
+        },
+        {
+            "issue": "11",
+            "key": "9239_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "1212",
+            "DOI": "10.1080/00036846.2013.868592",
+            "volume": "46",
+            "author": "N Altinok",
+            "year": "2014",
+            "unstructured": "Altinok, N., Diebolt, C., & Demeulemeester, J. L. (2014). A new international database on education quality: 1965\u20132010. Applied Economics, 46(11), 1212\u20131247.",
+            "journal-title": "Applied Economics"
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "237",
+            "DOI": "10.1016/j.econlet.2007.01.009",
+            "volume": "96",
+            "author": "N Altinok",
+            "year": "2007",
+            "unstructured": "Altinok, N., & Murseli, H. (2007). International database on human capital quality. Economics Letters, 96(2), 237\u2013244.",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "issue": "7854",
+            "key": "9239_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "403",
+            "DOI": "10.1038/s41586-021-03323-7",
+            "volume": "592",
+            "author": "N Angrist",
+            "year": "2021",
+            "unstructured": "Angrist, N., Djankov, S., Goldberg, P. K., & Patrinos, H. A. (2021). Measuring human capital using global learning data. Nature, 592(7854), 403\u2013408.",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "9239_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "685",
+            "DOI": "10.1146/annurev-economics-080217-053433",
+            "volume": "11",
+            "author": "S Athey",
+            "year": "2019",
+            "unstructured": "Athey, S., & Imbens, G. W. (2019). Machine learning methods economists should know about. Annual Review of Economics, 11, 685\u2013725.",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "9239_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "184",
+            "DOI": "10.1016/j.jdeveco.2012.10.001",
+            "volume": "104",
+            "author": "RJ Barro",
+            "year": "2013",
+            "unstructured": "Barro, R. J., & Lee, J. W. (2013). A new data set of educational attainment in the world, 1950\u20132010. Journal of Development Economics, 104, 184\u2013198.",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "key": "9239_CR7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/acprof:oso/9780199379231.001.0001",
+            "volume-title": "Education Matters: Global Schooling Gains from the 19th to the 21st Century",
+            "author": "RJ Barro",
+            "year": "2015",
+            "unstructured": "Barro, R. J., & Lee, J. W. (2015). Education Matters: Global Schooling Gains from the 19th to the 21st Century. Oxford University Press."
+        },
+        {
+            "key": "9239_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "101749",
+            "DOI": "10.1016/j.labeco.2019.101749",
+            "volume": "61",
+            "author": "S Bertoli",
+            "year": "2019",
+            "unstructured": "Bertoli, S., & Stillman, S. (2019). All that glitters is not gold: Wages and education for US immigrants. Labour Economics, 61, 101749.",
+            "journal-title": "Labour Economics"
+        },
+        {
+            "issue": "5",
+            "key": "9239_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "1160",
+            "DOI": "10.1257/aer.90.5.1160",
+            "volume": "90",
+            "author": "M Bils",
+            "year": "2000",
+            "unstructured": "Bils, M., & Klenow, P. J. (2000). Does schooling cause growth? American Economic Review, 90(5), 1160\u20131183.",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "9239_CR11",
+            "first-page": "1697",
+            "volume-title": "Handbook of Labor Economics",
+            "author": "GJ Borjas",
+            "year": "1999",
+            "unstructured": "Borjas, G. J. (1999). The Economic Analysis of Immigration. In O. C. Ashenfelter & D. Card (Eds.), Handbook of Labor Economics (Vol. 3, pp. 1697\u20131760). Elsevier."
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "177",
+            "DOI": "10.1093/ei/40.2.177",
+            "volume": "40",
+            "author": "B Bratsberg",
+            "year": "2002",
+            "unstructured": "Bratsberg, B., & Terrell, D. (2002). School quality and returns to education of US immigrants. Economic Inquiry, 40(2), 177\u2013198.",
+            "journal-title": "Economic Inquiry"
+        },
+        {
+            "key": "9239_CR13",
+            "first-page": "9",
+            "volume-title": "Test Equating",
+            "author": "HI Braun",
+            "year": "1982",
+            "unstructured": "Braun, H. I., & Holland, P. W. (1982). Observed-Score Test Equating: A Mathematical Analysis of Some ETS Equating Procedures. In P. W. Holland & D. B. Rubin (Eds.), Test Equating (pp. 9\u201349). Academic Press."
+        },
+        {
+            "key": "9239_CR14",
+            "first-page": "1801",
+            "volume-title": "Handbook of Labor Economics",
+            "author": "D Card",
+            "year": "1999",
+            "unstructured": "Card, D. (1999). The Causal Effect of Education on Earnings. In O. C. Ashenfelter & D. Card (Eds.), Handbook of Labor Economics (Vol. 3, pp. 1801\u20131863). Elsevier."
+        },
+        {
+            "issue": "1",
+            "key": "9239_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1086/261805",
+            "volume": "100",
+            "author": "D Card",
+            "year": "1992",
+            "unstructured": "Card, D., & Krueger, A. B. (1992). Does school quality matter? Returns to education and the characteristics of public schools in the United States. Journal of Political Economy, 100(1), 1\u201340.",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "9239_CR16",
+            "first-page": "679",
+            "volume-title": "Handbook of Economic Growth",
+            "author": "F Caselli",
+            "year": "2005",
+            "unstructured": "Caselli, F. (2005). Accounting for Cross-Country Income Differences. In P. Aghion & S. N. Durlauf (Eds.), Handbook of Economic Growth (Vol. 1, pp. 679\u2013741). Elsevier."
+        },
+        {
+            "issue": "4",
+            "key": "9239_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "1421",
+            "DOI": "10.1111/j.1467-937X.2010.00610.x",
+            "volume": "77",
+            "author": "A Erosa",
+            "year": "2010",
+            "unstructured": "Erosa, A., Koreshkova, T., & Restuccia, D. (2010). How important is human capital? A quantitative theory assessment of world income inequality. Review of Economic Studies, 77(4), 1421\u20131449.",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "9239_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "3150",
+            "DOI": "10.1257/aer.20130954",
+            "volume": "105",
+            "author": "RC Feenstra",
+            "year": "2015",
+            "unstructured": "Feenstra, R. C., Inklaar, R., & Timmer, M. P. (2015). The next generation of the Penn World Table. American Economic Review, 105(1), 3150\u20133182.",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "9239_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "101971",
+            "DOI": "10.1016/j.econedurev.2020.101971",
+            "volume": "77",
+            "author": "D Filmer",
+            "year": "2020",
+            "unstructured": "Filmer, D., Rogers, H., Angrist, N., & Sabarwal, S. (2020). Learning-adjusted years of schooling (LAYS): Defining a new macro measure of education. Economics of Education Review, 77, 101971.",
+            "journal-title": "Economics of Education Review"
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "171",
+            "DOI": "10.1037/0033-2909.101.2.171",
+            "volume": "101",
+            "author": "JR Flynn",
+            "year": "1987",
+            "unstructured": "Flynn, J. R. (1987). Massive IQ gains in 14 nations: What IQ tests really measure. Psychological Bulletin, 101(2), 171\u2013191.",
+            "journal-title": "Psychological Bulletin"
+        },
+        {
+            "key": "9239_CR21",
+            "doi-asserted-by": "publisher",
+            "first-page": "39",
+            "DOI": "10.1016/B978-0-12-815391-8.00003-3",
+            "volume-title": "The Economics of Education",
+            "author": "M Gunderson",
+            "year": "2020",
+            "unstructured": "Gunderson, M., & Oreopolous, P. (2020). Returns to education in developed countries. In S. Bradley & C. Green (Eds.), The Economics of Education (2nd ed., pp. 39\u201351). Academic Press.",
+            "edition": "2"
+        },
+        {
+            "issue": "1",
+            "key": "9239_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "83",
+            "DOI": "10.1162/003355399555954",
+            "volume": "114",
+            "author": "RE Hall",
+            "year": "1999",
+            "unstructured": "Hall, R. E., & Jones, C. I. (1999). Why do some countries produce so much more output per worker than others? Quarterly Journal of Economics, 114(1), 83\u2013116.",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "5",
+            "key": "9239_CR23",
+            "doi-asserted-by": "publisher",
+            "first-page": "1184",
+            "DOI": "10.1257/aer.90.5.1184",
+            "volume": "90",
+            "author": "EA Hanushek",
+            "year": "2000",
+            "unstructured": "Hanushek, E. A., & Kimko, D. D. (2000). Schooling, labor-force quality, and the growth of nations. American Economic Review, 90(5), 1184\u20131208.",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "9239_CR24",
+            "first-page": "184",
+            "volume": "9",
+            "author": "EA Hanushek",
+            "year": "2017",
+            "unstructured": "Hanushek, E. A., Ruhose, J., & Woessmann, L. (2017). Knowledge capital and aggregate income differences: Development accounting for US States. American Economic Journal: Macroeconomics, 9(4), 184\u2013224.",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "issue": "3",
+            "key": "9239_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "607",
+            "DOI": "10.1257/jel.46.3.607",
+            "volume": "46",
+            "author": "EA Hanushek",
+            "year": "2008",
+            "unstructured": "Hanushek, E. A., & Woessmann, L. (2008). The role of cognitive skills in economic development. Journal of Economic Literature, 46(3), 607\u2013668.",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "9239_CR27",
+            "first-page": "89",
+            "volume-title": "Handbook of the Economics of Education",
+            "author": "EA Hanushek",
+            "year": "2011",
+            "unstructured": "Hanushek, E. A., & Woessmann, L. (2011). The economics of international differences in educational achievement. In E. A. Hanushek, S. Machin, & L. Woessmann (Eds.), Handbook of the Economics of Education (Vol. 3, pp. 89\u2013200). North Holland."
+        },
+        {
+            "issue": "4",
+            "key": "9239_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "267",
+            "DOI": "10.1007/s10887-012-9081-x",
+            "volume": "17",
+            "author": "EA Hanushek",
+            "year": "2012",
+            "unstructured": "Hanushek, E. A., & Woessmann, L. (2012). Do better schools lead to more growth? Cognitive skills, economic outcomes, and causation. Journal of Economic Growth, 17(4), 267\u2013321.",
+            "journal-title": "Journal of Economic Growth"
+        },
+        {
+            "key": "9239_CR29",
+            "doi-asserted-by": "publisher",
+            "first-page": "153",
+            "DOI": "10.2307/1912352",
+            "volume": "47",
+            "author": "JJ Heckman",
+            "year": "1979",
+            "unstructured": "Heckman, J. J. (1979). Sample selection bias as a specification error. Econometrica, 47, 153\u2013161.",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "9239_CR30",
+            "doi-asserted-by": "publisher",
+            "first-page": "198",
+            "DOI": "10.1257/000282802760015676",
+            "volume": "92",
+            "author": "L Hendricks",
+            "year": "2002",
+            "unstructured": "Hendricks, L. (2002). How important is human capital for development? Evidence from immigrant earnings. American Economic Review, 92(1), 198\u2013219.",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "665",
+            "DOI": "10.1093/qje/qjx047",
+            "volume": "133",
+            "author": "L Hendricks",
+            "year": "2018",
+            "unstructured": "Hendricks, L., & Schoellman, T. (2018). Human capital and development accounting: New evidence from wage gains at migration. Quarterly Journal of Economics, 133(2), 665\u2013700.",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "9239_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "65",
+            "DOI": "10.1016/B978-0-12-815391-8.00005-7",
+            "volume-title": "The Economics of Education",
+            "author": "M Hoekstra",
+            "year": "2020",
+            "unstructured": "Hoekstra, M. (2020). Returns to education quality. In S. Bradley & C. Green (Eds.), The Economics of Education (2nd ed., pp. 65\u201373). Academic Press.",
+            "edition": "2"
+        },
+        {
+            "key": "9239_CR33",
+            "unstructured": "Islam, A., Jedwab, R., Romer, P., & Pereira, D. (2019). \u201cReturns to Experience and the Sectoral and Spatial Allocation of Labor.\u201d https://files.webservices.illinois.edu/6984/returnstoexperienceandthesectoralallocationoflabor.pdf"
+        },
+        {
+            "issue": "3",
+            "key": "9239_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "191",
+            "DOI": "10.1257/mac.20210002",
+            "volume": "15",
+            "author": "R Jedwab",
+            "year": "2022",
+            "unstructured": "Jedwab, R., Islam, A., Romer, P., & Samaniego, R. (2022). Human capital accumulation at work: estimates for the world and implications for development. American Economic Journal Macroeconomics, Forthcoming., 15(3), 191\u2013223.",
+            "journal-title": "American Economic Journal Macroeconomics, Forthcoming."
+        },
+        {
+            "issue": "11",
+            "key": "9239_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "3752",
+            "DOI": "10.1257/aer.104.11.3752",
+            "volume": "104",
+            "author": "BF Jones",
+            "year": "2014",
+            "unstructured": "Jones, B. F. (2014). The human capital stock: A generalized approach. American Economic Review, 104(11), 3752\u20133777.",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "9239_CR36",
+            "doi-asserted-by": "publisher",
+            "first-page": "215",
+            "DOI": "10.1016/j.jdeveco.2013.11.005",
+            "volume": "107",
+            "author": "N Kaarsen",
+            "year": "2014",
+            "unstructured": "Kaarsen, N. (2014). Cross-country differences in the quality of schooling. Journal of Development Economics, 107, 215\u2013224.",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "key": "9239_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "73",
+            "DOI": "10.1086/654324",
+            "volume": "12",
+            "author": "PJ Klenow",
+            "year": "1997",
+            "unstructured": "Klenow, P. J., & Rodriguez-Clare, A. (1997). The neoclassical revival in growth economics: Has it gone too far? NBER Macroeconomics Annual, 12, 73\u2013103.",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR38",
+            "doi-asserted-by": "publisher",
+            "first-page": "305",
+            "DOI": "10.1086/697245",
+            "volume": "12",
+            "author": "D Lagakos",
+            "year": "2018",
+            "unstructured": "Lagakos, D., Moll, B., Porzio, T., Qian, N., & Schoellman, T. (2018a). Life-cycle human capital accumulation across countries: Lessons from US immigrants. Journal of Human Capital, 12(2), 305\u2013342.",
+            "journal-title": "Journal of Human Capital"
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR39",
+            "doi-asserted-by": "publisher",
+            "first-page": "797",
+            "DOI": "10.1086/696225",
+            "volume": "126",
+            "author": "D Lagakos",
+            "year": "2018",
+            "unstructured": "Lagakos, D., Moll, B., Porzio, T., Qian, N., & Schoellman, T. (2018b). Life cycle wage growth across countries. Journal of Political Economy, 126(2), 797\u2013849.",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "272",
+            "key": "9239_CR40",
+            "doi-asserted-by": "publisher",
+            "first-page": "465",
+            "DOI": "10.1111/1468-0335.00257",
+            "volume": "68",
+            "author": "JW Lee",
+            "year": "2001",
+            "unstructured": "Lee, J. W., & Barro, R. J. (2001). Schooling quality in a cross-section of countries. Economica, 68(272), 465\u2013488.",
+            "journal-title": "Economica"
+        },
+        {
+            "key": "9239_CR41",
+            "doi-asserted-by": "publisher",
+            "first-page": "147",
+            "DOI": "10.1016/j.jdeveco.2016.05.006",
+            "volume": "122",
+            "author": "JW Lee",
+            "year": "2016",
+            "unstructured": "Lee, J. W., & Lee, H. (2016). Human capital in the long run. Journal of Development Economics, 122, 147\u2013169.",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "key": "9239_CR42",
+            "doi-asserted-by": "publisher",
+            "first-page": "81",
+            "DOI": "10.1016/j.labeco.2013.12.003",
+            "volume": "26",
+            "author": "Q Li",
+            "year": "2014",
+            "unstructured": "Li, Q., & Sweetman, A. (2014). The quality of immigrant source country educational outcomes: Do they matter in the receiving country? Labour Economics, 26, 81\u201393.",
+            "journal-title": "Labour Economics"
+        },
+        {
+            "issue": "5863",
+            "key": "9239_CR43",
+            "doi-asserted-by": "publisher",
+            "first-page": "222",
+            "DOI": "10.1038/297222a0",
+            "volume": "297",
+            "author": "R Lynn",
+            "year": "1982",
+            "unstructured": "Lynn, R. (1982). IQ in Japan and the United States shows a growing disparity. Nature, 297(5863), 222\u2013223.",
+            "journal-title": "Nature"
+        },
+        {
+            "issue": "9",
+            "key": "9239_CR44",
+            "doi-asserted-by": "publisher",
+            "first-page": "2736",
+            "DOI": "10.1257/aer.104.9.2736",
+            "volume": "104",
+            "author": "RE Manuelli",
+            "year": "2014",
+            "unstructured": "Manuelli, R. E., & Seshadri, A. (2014). Human capital and the wealth of nations. American Economic Review, 104(9), 2736\u20132762.",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "Schooling, Experience, and Earnings",
+            "year": "1974",
+            "author": "JA Mincer",
+            "key": "9239_CR45",
+            "unstructured": "Mincer, J. A. (1974). Schooling, Experience, and Earnings. Columbia University Press."
+        },
+        {
+            "issue": "2",
+            "key": "9239_CR46",
+            "doi-asserted-by": "publisher",
+            "first-page": "87",
+            "DOI": "10.1257/jep.31.2.87",
+            "volume": "31",
+            "author": "S Mullainathan",
+            "year": "2017",
+            "unstructured": "Mullainathan, S., & Spiess, J. (2017). Machine learning: An applied econometric approach. Journal of Economic Perspectives, 31(2), 87\u2013106.",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "issue": "S6",
+            "key": "9239_CR47",
+            "doi-asserted-by": "publisher",
+            "first-page": "S184",
+            "DOI": "10.1086/250108",
+            "volume": "107",
+            "author": "CB Mulligan",
+            "year": "1999",
+            "unstructured": "Mulligan, C. B. (1999). Galton versus the human capital approach to inheritance. Journal of Political Economy, 107(S6), S184\u2013S224.",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "9239_CR49",
+            "unstructured": "Patel, D. & Sandefur, J. (2020). A rosetta stone for human capital. CGD Working Paper 550. Washington, DC: Center for Global Development. https://www.cgdev.org/publication/rosetta-stone-human-capital"
+        },
+        {
+            "key": "9239_CR50",
+            "unstructured": "Provasnik, S., Kastberg, D., Ferraro, D., Lemanski, N., Roey, S., and Jenkins, F. (2012). Highlights From TIMSS 2011: Mathematics and Science Achievement of U.S. Fourth- and Eighth-Grade Students in an International Context (NCES 2013\u2013009). National Center for Education Statistics, Institute of Education Sciences, U.S. Department of Education. Washington, DC."
+        },
+        {
+            "key": "9239_CR51",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Ruggles, S., Flood, S., Goeken, R., Grover, J., Meyer, E., Pacas, J., & Sobek, M. (2020). IPUMS USA: Version 10.0 . Minneapolis, MN: IPUMS, https://doi.org/10.18128/D010.V10.0 (last accessed: July 20, 2020).",
+            "DOI": "10.18128/D010.V10.0"
+        },
+        {
+            "issue": "1",
+            "key": "9239_CR52",
+            "doi-asserted-by": "publisher",
+            "first-page": "388",
+            "DOI": "10.1093/restud/rdr025",
+            "volume": "79",
+            "author": "T Schoellman",
+            "year": "2012",
+            "unstructured": "Schoellman, T. (2012). Education quality and development accounting. The Review of Economic Studies, 79(1), 388\u2013417.",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "9239_CR53",
+            "first-page": "813",
+            "volume-title": "Handbook of the Economics of Education",
+            "author": "R Speakman",
+            "year": "2006",
+            "unstructured": "Speakman, R., & Welch, F. (2006). Chapter 13 Using Wages to Infer School Quality. In E. Hanushek & F. Welch (Eds.), Handbook of the Economics of Education (Vol. 2, pp. 813\u2013864). Elsevier."
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Growth"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10887-023-09239-3.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://link.springer.com/article/10.1007/s10887-023-09239-3/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s10887-023-09239-3.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                10
+            ]
+        ],
+        "date-time": "2024-08-10T18:05:25Z",
+        "timestamp": 1723313125000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://link.springer.com/10.1007/s10887-023-09239-3"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                25
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "3",
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    9
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "9239"
+    ],
+    "URL": "http://dx.doi.org/10.1007/s10887-023-09239-3",
+    "relation": {},
+    "ISSN": [
+        "1381-4338",
+        "1573-7020"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "1381-4338"
+        },
+        {
+            "type": "electronic",
+            "value": "1573-7020"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                25
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "10 December 2023",
+            "order": 1,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "25 January 2024",
+            "order": 2,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "16 February 2024",
+            "order": 3,
+            "name": "change_date",
+            "label": "Change Date",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "Update",
+            "order": 4,
+            "name": "change_type",
+            "label": "Change Type",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "The original online version of this article was revised: Supplementary file 3 has been included.",
+            "order": 5,
+            "name": "change_details",
+            "label": "Change Details",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+                "name": "EthicsHeading",
+                "label": "Declarations"
+            }
+        },
+        {
+            "value": "The authors declare that they have no conflict of interest.",
+            "order": 2,
+            "name": "Ethics",
+            "group": {
+                "name": "EthicsHeading",
+                "label": "Conflict of interest"
+            }
+        }
+    ]
+}
