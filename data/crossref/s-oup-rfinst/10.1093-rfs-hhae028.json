@@ -1,0 +1,887 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                27
+            ]
+        ],
+        "date-time": "2024-08-27T04:35:57Z",
+        "timestamp": 1724733357122
+    },
+    "reference-count": 60,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "9",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        7,
+                        5
+                    ]
+                ],
+                "date-time": "2024-07-05T00:00:00Z",
+                "timestamp": 1720137600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "NSF",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "2018923"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "name": "Financial Approach to Climate Risk"
+        },
+        {
+            "name": "Interamerican Development Bank",
+            "award": [
+                "#C- RG-T3555-P001"
+            ]
+        },
+        {
+            "name": "Volatility and Risk Institute"
+        },
+        {
+            "DOI": "10.13039/100006720",
+            "name": "NYU Stern",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100006720",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>A two-sided \u201ccredit-line channel\u201d\u2014relating to drawdowns and repayments\u2014explains the severe drop and partial subsequent recovery in bank stock prices during the COVID-19 pandemic. Banks with greater exposure to undrawn credit lines saw larger stock price declines but performed better outside of crises periods. Despite deposit inflows, high drawdowns led to reduced bank lending, suggestive of capital encumbrance upon drawdowns. Repayments of credit lines unencumbered capital which explains the stock price recovery starting Q2 2020. Bank provision of credit lines resembles writing put options on aggregate risk, and we propose how to incorporate this feature into bank stress tests.</jats:p>",
+    "DOI": "10.1093/rfs/hhae028",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                7,
+                6
+            ]
+        ],
+        "date-time": "2024-07-06T08:05:53Z",
+        "timestamp": 1720253153000
+    },
+    "page": "2627-2684",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Why Did Bank Stocks Crash during COVID-19?"
+    ],
+    "prefix": "10.1093",
+    "volume": "37",
+    "author": [
+        {
+            "given": "Viral V",
+            "family": "Acharya",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stern School of Business, New York University , USA"
+                }
+            ]
+        },
+        {
+            "given": "Robert",
+            "family": "Engle",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stern School of Business, New York University , USA"
+                }
+            ]
+        },
+        {
+            "given": "Maximilian",
+            "family": "Jager",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Frankfurt School of Finance & Management , Germany"
+                }
+            ]
+        },
+        {
+            "given": "Sascha",
+            "family": "Steffen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Frankfurt School of Finance & Management , Germany"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                7,
+                5
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024081907513433700_hhae028-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.1016/j.jfineco.2014.02.001",
+            "article-title": "Credit lines as monitored liquidity insurance: Theory and evidence",
+            "volume": "112",
+            "author": "Acharya",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2059",
+            "DOI": "10.1111/jofi.12056",
+            "article-title": "Aggregate risk and the choice between cash and lines of credit",
+            "volume": "68",
+            "author": "Acharya",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1257/aer.102.3.59",
+            "article-title": "Capital shortfall: A new approach to ranking and regulating systemic risks",
+            "volume": "102",
+            "author": "Acharya",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/jofi.12182",
+            "article-title": "A crisis of banks as liquidity providers",
+            "volume": "70",
+            "author": "Acharya",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1093/rfs/hhw088",
+            "article-title": "Measuring systemic risk",
+            "volume": "30",
+            "author": "Acharya",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/j.jfineco.2014.11.004",
+            "article-title": "The \u201cgreatest\u201d carry trade ever? Understanding eurozone bank risk",
+            "volume": "115",
+            "author": "Acharya",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "430",
+            "DOI": "10.1093/rcfs/cfaa013",
+            "article-title": "The risk of being a fallen angel and the corporate dash for cash in the midst of COVID",
+            "volume": "9",
+            "author": "Acharya",
+            "year": "2020",
+            "journal-title": "Review of Corporate Finance Studies"
+        },
+        {
+            "year": "2020",
+            "author": "Acharya",
+            "key": "2024081907513433700_hhae028-B8"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1705",
+            "DOI": "10.1257/aer.20120555",
+            "volume": "106",
+            "author": "Adrian",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1023",
+            "DOI": "10.1111/j.1468-0262.2004.00525.x",
+            "article-title": "Financial intermediaries and markets",
+            "volume": "72",
+            "author": "Allen",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1461",
+            "DOI": "10.1016/S0378-4266(97)00032-0",
+            "article-title": "The theory of financial intermediation",
+            "volume": "21",
+            "author": "Allen",
+            "year": "1998",
+            "journal-title": "Journal of Banking and Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1111/jofi.12591",
+            "article-title": "Measuring liquidity mismatch in the banking sector",
+            "volume": "73",
+            "author": "Bai",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2021",
+            "author": "Balyuk",
+            "key": "2024081907513433700_hhae028-B13"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2011.12.005",
+            "article-title": "The credit crisis around the globe: Why did some banks perform better?",
+            "volume": "105",
+            "author": "Beltratti",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1357",
+            "DOI": "10.1111/jofi.12281",
+            "article-title": "The total cost of borrowing in the loan market\u2014Don\u2019t ignore the fees",
+            "volume": "71",
+            "author": "Berg",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "948",
+            "DOI": "10.1093/rfs/hhw097",
+            "article-title": "Mind the gap: The difference between U.S. and European loan rates",
+            "volume": "30",
+            "author": "Berg",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "3779",
+            "DOI": "10.1093/rfs/hhn104",
+            "article-title": "Bank liquidity creation",
+            "volume": "22",
+            "author": "Berger",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1006/jfin.1993.1001",
+            "article-title": "Contemporary banking theory",
+            "volume": "3",
+            "author": "Bhattacharya",
+            "year": "1993",
+            "journal-title": "Journal of Financial Intermediation"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "695",
+            "DOI": "10.1016/j.jfineco.2022.03.001",
+            "article-title": "It\u2019s what you say and what you buy: A holistic evaluation of the corporate credit facilities",
+            "volume": "144",
+            "author": "Boyarchenko",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.1093/rfs/hhw060",
+            "article-title": "SRISK: A conditional capital shortfall measure of systemic risk",
+            "volume": "30",
+            "author": "Brownlees",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "470",
+            "DOI": "10.1016/j.jfineco.2010.02.009",
+            "article-title": "The real effects of financial constraints: Evidence from a financial crisis",
+            "volume": "97",
+            "author": "Campello",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1944",
+            "DOI": "10.1093/rfs/hhq131",
+            "article-title": "Liquidity management and firm investment in a financial crisis",
+            "volume": "24",
+            "author": "Campello",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1016/j.jfs.2017.12.005",
+            "article-title": "Syndication, interconnectedness, and systemic risk",
+            "volume": "34",
+            "author": "Cai",
+            "year": "2018",
+            "journal-title": "Journal of Financial Stability"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1111/jofi.13074",
+            "article-title": "The loan covenant channel: How bank health transmits to the real economy",
+            "volume": "77",
+            "author": "Chodorow-Reich",
+            "year": "2022",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "908",
+            "DOI": "10.1016/j.jfineco.2021.06.035",
+            "article-title": "Bank liquidity provision across the firm size distribution",
+            "volume": "144",
+            "author": "Chodorow-Reich",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1016/j.jfineco.2004.02.005",
+            "article-title": "Financial intermediation as a beliefs-bridge between optimists and pessimists",
+            "volume": "75",
+            "author": "Coval",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2020",
+            "author": "Darmouni",
+            "key": "2024081907513433700_hhae028-B27"
+        },
+        {
+            "year": "2004",
+            "author": "Deep",
+            "key": "2024081907513433700_hhae028-B28"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "DOI": "10.2307/2953695",
+            "article-title": "Diversification, size, and risk at bank holding companies",
+            "volume": "29",
+            "author": "Demsetz",
+            "year": "1997",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "106305",
+            "DOI": "10.1016/j.jbankfin.2021.106305",
+            "article-title": "Banking sector performance during the COVID-19 crisis",
+            "volume": "133",
+            "author": "Demirguc-Kunt",
+            "year": "2021",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "2093",
+            "DOI": "10.1111/jofi.13055",
+            "article-title": "The cross section of MBS returns",
+            "volume": "76",
+            "author": "Diep",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "802",
+            "DOI": "10.1016/j.jfineco.2021.03.005",
+            "article-title": "Corporate immunity to the COVID-19 pandemic",
+            "volume": "141",
+            "author": "Ding",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2018",
+            "author": "Dubois",
+            "key": "2024081907513433700_hhae028-B33"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "80",
+            "DOI": "10.1016/j.jmoneco.2018.04.010",
+            "article-title": "Interest rate risk and bank equity valuations",
+            "volume": "98",
+            "author": "English",
+            "year": "2018",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1016/j.jfineco.2022.05.004",
+            "article-title": "Can FinTech reduce disparities in access to finance? Evidence from the Paycheck Protection Program",
+            "volume": "146",
+            "author": "Erel",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "2139",
+            "DOI": "10.1111/j.1540-6261.2012.01783.x",
+            "article-title": "This time is the same: Using bank performance in 1998 to explain bank performance during the recent financial crisis",
+            "volume": "67",
+            "author": "Fahlenbrach",
+            "year": "2012",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "5474",
+            "DOI": "10.1093/rfs/hhaa134",
+            "article-title": "How valuable is financial flexibility when revenue stops? Evidence from the Covid-19 crisis",
+            "volume": "34",
+            "author": "Fahlenbrach",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.1111/j.1540-6261.2006.00857.x",
+            "article-title": "Banks\u2019 advantage in hedging liquidity risk: Theory and evidence from the commercial paper market",
+            "volume": "61",
+            "author": "Gatev",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "574",
+            "DOI": "10.1093/rapstu/raaa013",
+            "article-title": "Coronavirus: Impact on stock prices and growth expectations",
+            "volume": "10",
+            "author": "Gormsen",
+            "year": "2020",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "year": "2023",
+            "author": "Greenwald",
+            "key": "2024081907513433700_hhae028-B40"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "5309",
+            "DOI": "10.1093/rfs/hhaa145",
+            "article-title": "When selling becomes viral: Disruptions in debt markets in the COVID-19 crisis and the Fed\u2019s response",
+            "volume": "34",
+            "author": "Haddad",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1016/j.jfineco.2015.11.004",
+            "article-title": "Double bank runs and liquidity risk management",
+            "volume": "122",
+            "author": "Ippolito",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "DOI": "10.1016/j.jfineco.2008.06.003",
+            "article-title": "Asymmetric information effects on loan spreads",
+            "volume": "92",
+            "author": "Ivashina",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1016/j.jfineco.2009.12.001",
+            "article-title": "Bank lending during the financial crisis of 2008",
+            "volume": "97",
+            "author": "Ivashina",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "5069",
+            "DOI": "10.1093/rfs/hhp061",
+            "article-title": "Empirical analysis of corporate credit lines",
+            "volume": "22",
+            "author": "Jim\u00e9nez",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2021",
+            "author": "Kapan",
+            "key": "2024081907513433700_hhae028-B46"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1111/1540-6261.00415",
+            "article-title": "Banks as liquidity providers: An explanation for the coexistence of lending and deposit-taking",
+            "volume": "57",
+            "author": "Kashyap",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2020",
+            "author": "Kovner",
+            "key": "2024081907513433700_hhae028-B48"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1413",
+            "DOI": "10.1257/aer.98.4.1413",
+            "article-title": "Tracing the impact of bank liquidity shocks: Evidence from an emerging market",
+            "volume": "98",
+            "author": "Khwaja",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "598",
+            "DOI": "10.1093/rapstu/raaa016",
+            "article-title": "Earnings expectations in the COVID crisis",
+            "volume": "10",
+            "author": "Landier",
+            "year": "2020",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "472",
+            "DOI": "10.1093/rcfs/cfaa009",
+            "article-title": "Banks as lenders of first resort: Evidence from the COVID-19 crisis",
+            "volume": "9",
+            "author": "Li",
+            "year": "2020",
+            "journal-title": "Review of Corporate Finance Studies"
+        },
+        {
+            "year": "2021",
+            "author": "Minoiu",
+            "key": "2024081907513433700_hhae028-B52"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "76",
+            "DOI": "10.1016/j.jfineco.2017.06.018",
+            "article-title": "Dynamic corporate liquidity",
+            "volume": "132",
+            "author": "Nikolov",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1016/j.jfineco.2021.05.052",
+            "article-title": "Anatomy of a liquidity crisis: Corporate bonds in the Covid-19 crisis",
+            "volume": "142",
+            "author": "O\u2019Hara",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "103712",
+            "DOI": "10.1016/j.jfineco.2023.103712",
+            "article-title": "Disaster resilience and asset prices",
+            "volume": "150",
+            "author": "Pagano",
+            "year": "2023",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "622",
+            "DOI": "10.1093/rcfs/cfaa012",
+            "article-title": "Feverish stock price reactions to COVID-19",
+            "volume": "9",
+            "author": "Ramelli",
+            "year": "2020",
+            "journal-title": "Review of Corporate Finance Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "156",
+            "DOI": "10.1016/j.jfi.2003.08.005",
+            "article-title": "Capital requirements, market power, and risk-taking in banking",
+            "volume": "13",
+            "author": "Repullo",
+            "year": "2004",
+            "journal-title": "Journal of Financial Intermediation"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1057",
+            "DOI": "10.1093/revfin/hhm007",
+            "article-title": "Bank lines of credit in corporate finance: An empirical analysis",
+            "volume": "22",
+            "author": "Sufi",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1016/j.jmoneco.2021.10.007",
+            "article-title": "The Treasury market in Spring 2020 and the response of the Federal Reserve",
+            "volume": "124",
+            "author": "Vissing-Jorgensen",
+            "year": "2021",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024081907513433700_hhae028-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1016/j.jfi.2003.04.002",
+            "article-title": "Bank capital adequacy regulation under the New Basel Accord",
+            "volume": "13",
+            "author": "Von Thadden",
+            "year": "2004",
+            "journal-title": "Journal of Financial Intermediation"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae028/58654982/hhae028.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae028/58820884/hhae028.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae028/58820884/hhae028.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                19
+            ]
+        ],
+        "date-time": "2024-08-19T07:52:50Z",
+        "timestamp": 1724053970000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/37/9/2627/7708408"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                7,
+                5
+            ]
+        ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+        "issue": "9",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    7,
+                    5
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhae028",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                9
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                7,
+                5
+            ]
+        ]
+    }
+}
