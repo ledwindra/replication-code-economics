@@ -1,0 +1,661 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                28
+            ]
+        ],
+        "date-time": "2024-09-28T04:19:43Z",
+        "timestamp": 1727497183369
+    },
+    "reference-count": 54,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>This paper proposes a model for, and investigates the consequences of, strong spatial dependence in economic variables. Our findings echo those of the corresponding \u201cunit root\u201d time series literature: Spatial unit root processes induce spuriously significant regression results, even with clustered standard errors or spatial HAC corrections. We develop large\u2010sample valid unit root and stationarity tests that can detect such strong spatial dependence. Finally, we use simulations to study strategies for valid inference in regressions with persistent spatial data, such as spatial analogues of first\u2010differencing transformations. Regressions from Chetty, Hendren, Kline, and Saez (2014) are used to illustrate the issues and methods.</jats:p>",
+    "DOI": "10.3982/ecta21654",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                20
+            ]
+        ],
+        "date-time": "2024-09-20T11:17:38Z",
+        "timestamp": 1726831058000
+    },
+    "page": "1661-1695",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Spatial Unit Roots and Spurious Regression"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Ulrich K.",
+            "family": "M\u00fcller",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Mark W.",
+            "family": "Watson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200718-bib-0001",
+            "series-title": "Classics in Applied Mathematics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1137/1.9780898718980",
+            "volume-title": "The Geometry of Random Fields",
+            "author": "Adler",
+            "year": "2010"
+        },
+        {
+            "volume-title": "Random Fields and Geometry",
+            "year": "2007",
+            "series-title": "Springer Monographs in Mathematics",
+            "author": "Adler",
+            "key": "ecta200718-bib-0002"
+        },
+        {
+            "volume-title": "Spatial Econometrics: Methods and Models",
+            "year": "1988",
+            "author": "Anselin",
+            "key": "ecta200718-bib-0003",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-94-015-7799-1"
+        },
+        {
+            "key": "ecta200718-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1017/S0266466614000814",
+            "volume": "32",
+            "author": "Bester",
+            "year": "2016",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200718-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1016/0304-3932(81)90040-4",
+            "volume": "7",
+            "author": "Beveridge",
+            "year": "1981",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200718-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "1050",
+            "DOI": "10.1214/aos/1176350492",
+            "volume": "15",
+            "author": "Chan",
+            "year": "1987",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200718-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qju022",
+            "volume": "129",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "volume-title": "Spatial Autocorrelation",
+            "year": "1974",
+            "author": "Cliff",
+            "key": "ecta200718-bib-0008"
+        },
+        {
+            "key": "ecta200718-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0304-4076(98)00084-0",
+            "volume": "92",
+            "author": "Conley",
+            "year": "1999",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200718-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "708",
+            "DOI": "10.1214/aop/1176996310",
+            "volume": "3",
+            "author": "Deo",
+            "year": "1975",
+            "journal-title": "The Annals of Probability"
+        },
+        {
+            "volume-title": "Real Analysis and Probability",
+            "year": "2002",
+            "author": "Dudley",
+            "key": "ecta200718-bib-0011",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511755347"
+        },
+        {
+            "key": "ecta200718-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "149",
+            "DOI": "10.2307/2998544",
+            "volume": "66",
+            "author": "Elliott",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "767",
+            "DOI": "10.1111/1468-2354.00039",
+            "volume": "40",
+            "author": "Elliott",
+            "year": "1999",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "ecta200718-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.1111/j.1467-937X.2006.00402.x",
+            "volume": "73",
+            "author": "Elliott",
+            "year": "2006",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200718-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.2307/2171846",
+            "volume": "64",
+            "author": "Elliott",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.2307/1913236",
+            "volume": "55",
+            "author": "Engle",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/1467-9787.00121",
+            "volume": "39",
+            "author": "Fingleton",
+            "year": "1999",
+            "journal-title": "Journal of Regional Science"
+        },
+        {
+            "key": "ecta200718-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.2307/2986645",
+            "volume": "5",
+            "author": "Geary",
+            "year": "1954",
+            "journal-title": "The Incorporated Statistician"
+        },
+        {
+            "volume-title": "Handbook of Spatial Statistics",
+            "year": "2010",
+            "author": "Gelfand",
+            "key": "ecta200718-bib-0019",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1201/9781420072884"
+        },
+        {
+            "key": "ecta200718-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1016/0304-4076(74)90034-7",
+            "volume": "2",
+            "author": "Granger",
+            "year": "1974",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200718-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "268",
+            "DOI": "10.1016/j.jeconom.2019.02.001",
+            "volume": "210",
+            "author": "Hansen",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "volume-title": "Statistical Analysis of Random Fields",
+            "year": "1989",
+            "author": "Ivanov",
+            "key": "ecta200718-bib-0022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-94-009-1183-3"
+        },
+        {
+            "volume-title": "Foundations of Modern Probability",
+            "year": "2021",
+            "author": "Kallenberg",
+            "key": "ecta200718-bib-0023",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-030-61871-1"
+        },
+        {
+            "key": "ecta200718-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kelly, Morgan (2019): \u201cThe Standard Errors of Persistence,\u201d University College Dublin WP19/13.",
+            "DOI": "10.2139/ssrn.3398303"
+        },
+        {
+            "key": "ecta200718-bib-0025",
+            "unstructured": "Kelly, Morgan (2020): \u201cUnderstanding Persistence,\u201d CPER Discussion Paper DP15246."
+        },
+        {
+            "key": "ecta200718-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1080/07474938708800129",
+            "volume": "6",
+            "author": "King",
+            "year": "1987",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "ecta200718-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1016/0304-4076(92)90104-Y",
+            "volume": "54",
+            "author": "Kwiatkowski",
+            "year": "1992",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200718-bib-0028",
+            "first-page": "356",
+            "volume": "65",
+            "author": "Lahiri",
+            "year": "2003",
+            "journal-title": "Sankhya"
+        },
+        {
+            "key": "ecta200718-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1080/17421770903114703",
+            "volume": "4",
+            "author": "Lee",
+            "year": "2009",
+            "journal-title": "Spatial Economic Analysis"
+        },
+        {
+            "key": "ecta200718-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "314",
+            "DOI": "10.1080/17421772.2012.760134",
+            "volume": "8",
+            "author": "Lee",
+            "year": "2013",
+            "journal-title": "Spatial Economic Analysis"
+        },
+        {
+            "volume-title": "Processus stochastiques et mouvement brownien",
+            "year": "1948",
+            "author": "L\u00e9vy",
+            "key": "ecta200718-bib-0031"
+        },
+        {
+            "key": "ecta200718-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1112/blms/25.1.83",
+            "volume": "25",
+            "author": "Lindstr\u00f8m",
+            "year": "1993",
+            "journal-title": "Bulletin of the London Mathematical Society"
+        },
+        {
+            "key": "ecta200718-bib-0033",
+            "series-title": "Lecture Notes in Statistics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4615-7892-5",
+            "volume-title": "Spatial Variation",
+            "volume": "36",
+            "author": "Mat\u00e9rn",
+            "year": "1986"
+        },
+        {
+            "key": "ecta200718-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1093/biomet/37.1-2.17",
+            "volume": "37",
+            "author": "Moran",
+            "year": "1950",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200718-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "979",
+            "DOI": "10.3982/ECTA6814",
+            "volume": "76",
+            "author": "M\u00fcller",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1016/j.jeconom.2012.09.006",
+            "volume": "174",
+            "author": "M\u00fcller",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200718-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1711",
+            "DOI": "10.1093/restud/rdw003",
+            "volume": "83",
+            "author": "M\u00fcller",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200718-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "2901",
+            "DOI": "10.3982/ECTA19465",
+            "volume": "90",
+            "author": "M\u00fcller",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200718-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1050",
+            "DOI": "10.1080/07350015.2022.2127737",
+            "volume": "41",
+            "author": "M\u00fcller",
+            "year": "2023",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "ecta200718-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "volume": "55",
+            "author": "Newey",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1080/01621459.1989.10478759",
+            "volume": "84",
+            "author": "Nyblom",
+            "year": "1989",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200718-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1016/0304-4076(86)90001-1",
+            "volume": "33",
+            "author": "Phillips",
+            "year": "1986",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200718-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1093/biomet/74.3.535",
+            "volume": "74",
+            "author": "Phillips",
+            "year": "1987",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200718-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "1299",
+            "DOI": "10.2307/2999618",
+            "volume": "66",
+            "author": "Phillips",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.2307/2938339",
+            "volume": "58",
+            "author": "Phillips",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200718-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1080/01621459.1961.10480644",
+            "volume": "56",
+            "author": "Pratt",
+            "year": "1961",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "30",
+            "key": "ecta200718-bib-0047",
+            "first-page": "905",
+            "volume": "11",
+            "author": "Rosasco",
+            "year": "2010",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "ecta200718-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "1770",
+            "DOI": "10.1016/j.jeconom.2022.11.010",
+            "volume": "235",
+            "author": "Rossi",
+            "year": "2023",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "volume-title": "Theory of Reproducing Kernels and Applications",
+            "year": "2016",
+            "author": "Saitoh",
+            "key": "ecta200718-bib-0049",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-981-10-0530-5"
+        },
+        {
+            "key": "ecta200718-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.1198/106186002466",
+            "volume": "11",
+            "author": "Stein",
+            "year": "2002",
+            "journal-title": "Journal of Computational and Graphical Statistics"
+        },
+        {
+            "key": "ecta200718-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1016/0304-3932(91)90034-L",
+            "volume": "28",
+            "author": "Stock",
+            "year": "1991",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200718-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1162/REST_a_00441",
+            "volume": "91",
+            "author": "Sun",
+            "year": "2012",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200718-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1080/07350015.2000.10524863",
+            "volume": "18",
+            "author": "Wright",
+            "year": "2000",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "ecta200718-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.1093/biomet/asv008",
+            "volume": "102",
+            "author": "Yu",
+            "year": "2015",
+            "journal-title": "Biometrika"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                27
+            ]
+        ],
+        "date-time": "2024-09-27T08:51:05Z",
+        "timestamp": 1727427065000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21654"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21654"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta21654",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0012-9682"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}

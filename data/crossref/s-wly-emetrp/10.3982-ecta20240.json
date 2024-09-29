@@ -1,0 +1,460 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                27
+            ]
+        ],
+        "date-time": "2024-09-27T09:40:15Z",
+        "timestamp": 1727430015168
+    },
+    "reference-count": 35,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2024-01-01T00:00:00Z",
+                "timestamp": 1704067200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We study the design of optimal mechanisms when the designer is uncertain both about the form of information held by the agents and also about which equilibrium will be played. The \n            <jats:italic>guarantee</jats:italic> of a mechanism is its worst performance across all information structures and equilibria. The \n            <jats:italic>potential</jats:italic> of an information structure is its best performance across all mechanisms and equilibria. We formulate a pair of linear programs, one of which is a lower bound on the maximum guarantee across all mechanisms, and the other of which is an upper bound on the minimum potential across all information structures. In applications to public expenditure, bilateral trade, and optimal auctions, we use the bounding programs to characterize guarantee\u2010maximizing mechanisms and potential\u2010minimizing information structures and show that the max guarantee is equal to the min potential.\n          </jats:p>",
+    "DOI": "10.3982/ecta20240",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                20
+            ]
+        ],
+        "date-time": "2024-09-20T11:17:38Z",
+        "timestamp": 1726831058000
+    },
+    "page": "1391-1438",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "On the Structure of Informationally Robust Optimal Mechanisms"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Benjamin",
+            "family": "Brooks",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Songzi",
+            "family": "Du",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of California San Diego"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200714-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "488",
+            "DOI": "10.2307/1879431",
+            "author": "Akerlof",
+            "year": "1970",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bachrach, Nir, Yi-Chun Chen Inbal Talgam-Cohen, Xiangqian Yang, and Wanchang Zhang (2022): \u201cDistributionally Robust Auction Design,\u201d Working paper.",
+            "key": "ecta200714-bib-0002",
+            "DOI": "10.1145/3490486.3538273"
+        },
+        {
+            "key": "ecta200714-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1771",
+            "DOI": "10.1111/j.1468-0262.2005.00638.x",
+            "author": "Bergemann",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200714-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "487",
+            "DOI": "10.3982/TE1808",
+            "volume": "11",
+            "author": "Bergemann",
+            "year": "2016",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bergemann, Dirk, Benjamin Brooks, and Stephen Morris (2016): \u201cInformationally Robust Optimal Auction Design,\u201d Technical Report, Princeton University and the University of Chicago and Yale University. Working paper.",
+            "key": "ecta200714-bib-0005",
+            "DOI": "10.2139/ssrn.2886456"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200714-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.3982/ECTA13958",
+            "volume": "85",
+            "author": "Bergemann",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200714-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1911",
+            "DOI": "10.1257/aer.20180773",
+            "volume": "109",
+            "author": "Bergemann",
+            "year": "2019",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200714-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1399",
+            "DOI": "10.3982/TE3797",
+            "volume": "15",
+            "author": "Bergemann",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "unstructured": "Brooks, Benjamin, and Songzi Du (2021)a: \u201cMaxmin Auction Design With Known Expected Values,\u201d Technical Report, The University of Chicago and University of California\u2013San. Diego. Working paper.",
+            "key": "ecta200714-bib-0009"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200714-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1313",
+            "DOI": "10.3982/ECTA16297",
+            "volume": "89",
+            "author": "Brooks",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Brooks, Benjamin, and Songzi Du (2023): \u201cRobust Mechanisms for the Financing of Public Goods,\u201d Technical Report, The University of Chicago and University of California\u2013San. Diego. Working paper.",
+            "key": "ecta200714-bib-0011",
+            "DOI": "10.2139/ssrn.4482541"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Brooks, Benjamin, and Songzi Du (2024): \u201cSupplement to \u2018On the Structure of Informationally Robust Optimal Mechanisms\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA20240.",
+            "key": "ecta200714-bib-0012",
+            "DOI": "10.3982/ECTA20240"
+        },
+        {
+            "year": "1996",
+            "author": "Bulow",
+            "journal-title": "The American Economic Review",
+            "first-page": "180",
+            "key": "ecta200714-bib-0013"
+        },
+        {
+            "year": "2019",
+            "author": "Cai",
+            "journal-title": "SIAM Journal on Computing",
+            "key": "ecta200714-bib-0014"
+        },
+        {
+            "key": "ecta200714-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "334",
+            "DOI": "10.1016/j.jet.2016.09.003",
+            "volume": "166",
+            "author": "Carroll",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "unstructured": "Che, Ethan (2020): \u201cDistributionally Robust Optimal Auction Design Under Mean Constraints,\u201d arXiv:1911.07103.",
+            "key": "ecta200714-bib-0016"
+        },
+        {
+            "key": "ecta200714-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "314",
+            "DOI": "10.1145/3465456.3467570",
+            "volume-title": "Proceedings of the 22nd ACM Conference on Economics and Computation",
+            "author": "Che",
+            "year": "2021"
+        },
+        {
+            "key": "ecta200714-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "294",
+            "DOI": "10.1016/j.jet.2018.10.001",
+            "volume": "178",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200714-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1111/j.1467-937X.2007.00427.x",
+            "volume": "74",
+            "author": "Chung",
+            "year": "2007",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200714-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1247",
+            "DOI": "10.2307/1913096",
+            "author": "Cr\u00e9mer",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200714-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.2307/2297045",
+            "volume": "46",
+            "author": "Dasgupta",
+            "year": "1979",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Deb, Rahul, and Anne-Katrin Roesler (2023): \u201cMulti-Dimensional Screening: Buyer-Optimal Learning and Informational Robustness,\u201d arXiv preprint. arXiv:2105.12304.",
+            "key": "ecta200714-bib-0022",
+            "DOI": "10.1093/restud/rdad100"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200714-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1569",
+            "DOI": "10.3982/ECTA14993",
+            "volume": "86",
+            "author": "Du",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200714-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1007/BF03051789",
+            "volume": "46",
+            "author": "G\u00fcth",
+            "year": "1986",
+            "journal-title": "Journal of Economics"
+        },
+        {
+            "key": "ecta200714-bib-0025",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jet.2021.105403",
+            "volume": "200",
+            "author": "He",
+            "year": "2022",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200714-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "585",
+            "DOI": "10.1111/j.1468-0262.2006.00675.x",
+            "volume": "74",
+            "author": "Jehiel",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200714-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "2749",
+            "DOI": "10.1016/j.jet.2013.07.016",
+            "volume": "148",
+            "author": "Luz",
+            "year": "2013",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "doi-asserted-by": "publisher",
+            "key": "ecta200714-bib-0028",
+            "DOI": "10.1111/1467-937X.00076"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200714-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.2307/2951601",
+            "volume": "60",
+            "author": "McAfee",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200714-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1287/moor.6.1.58",
+            "volume": "6",
+            "author": "Myerson",
+            "year": "1981",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "ecta200714-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.2307/1925895",
+            "author": "Samuelson",
+            "year": "1954",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200714-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "775",
+            "DOI": "10.1016/j.jmateco.2010.06.002",
+            "volume": "46",
+            "author": "Serrano",
+            "year": "2010",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "volume": "47",
+            "volume-title": "Mechanism Design: A Linear Programming Approach",
+            "year": "2011",
+            "author": "Vohra",
+            "key": "ecta200714-bib-0033"
+        },
+        {
+            "unstructured": "Yamashita, Takuro (2016): \u201cRevenue Guarantee in Auction With a (Correlated) Common Prior and Additional Information,\u201d Working paper.",
+            "key": "ecta200714-bib-0034"
+        },
+        {
+            "year": "2018",
+            "author": "Yamashita",
+            "journal-title": "American Economic Journal: Microeconomics",
+            "key": "ecta200714-bib-0035"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                27
+            ]
+        ],
+        "date-time": "2024-09-27T08:47:52Z",
+        "timestamp": 1727426872000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA20240"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA20240"
+    ],
+    "URL": "http://dx.doi.org/10.3982/ecta20240",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0012-9682"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}
