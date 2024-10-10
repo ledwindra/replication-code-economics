@@ -1,0 +1,791 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                7
+            ]
+        ],
+        "date-time": "2024-09-07T01:13:04Z",
+        "timestamp": 1725671584189
+    },
+    "reference-count": 58,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        9
+                    ]
+                ],
+                "date-time": "2022-08-09T00:00:00Z",
+                "timestamp": 1660003200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                20
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Violations of no-arbitrage conditions measure the shadow cost of intermediary constraints. Intermediary asset pricing and intertemporal hedging together imply that the risk of these constraints tightening is priced. We describe a \u201cforward CIP trading strategy\u201d that bets on CIP violations shrinking and show that its returns help identify the price of this risk. This strategy yields the highest returns for currency pairs associated with the carry trade. The strategy\u2019s risk substantially contributes to the volatility of the stochastic discount factor, is correlated with both other near-arbitrages and intermediary wealth measures, and appears to be consistently priced across various asset classes.</jats:p><jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhac050",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                9
+            ]
+        ],
+        "date-time": "2022-08-09T20:00:19Z",
+        "timestamp": 1660075219000
+    },
+    "page": "1464-1507",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": [
+        "Are Intermediary Constraints Priced?"
+    ],
+    "prefix": "10.1093",
+    "volume": "36",
+    "author": [
+        {
+            "given": "Wenxin",
+            "family": "Du",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago, Federal Reserve Bank of New York, and NBER , USA"
+                }
+            ]
+        },
+        {
+            "given": "Benjamin",
+            "family": "H\u00e9bert",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and NBER , USA"
+                }
+            ]
+        },
+        {
+            "given": "Amy Wang",
+            "family": "Huber",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "2557",
+            "DOI": "10.1111/jofi.12189",
+            "article-title": "Financial intermediaries and the cross-section of asset returns",
+            "volume": "69",
+            "author": "Adrian,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Arbitrage capital of global banks",
+            "author": "Anderson,",
+            "year": "2019"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "article-title": "The term structure of cip violations",
+            "author": "Augustin,",
+            "year": "2020",
+            "DOI": "10.3386/w27231"
+        },
+        {
+            "key": "2023032007562526200_",
+            "first-page": "193",
+            "article-title": "The dollar, bank leverage, and deviations from covered interest parity",
+            "volume": "1",
+            "author": "Avdjiev,",
+            "year": "2019",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "417",
+            "DOI": "10.1111/fima.12252",
+            "article-title": "The cds-bond basis",
+            "volume": "48",
+            "author": "Bai,",
+            "year": "2019",
+            "journal-title": "Financial Management"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1111/jofi.12607",
+            "article-title": "Comparing asset pricing models",
+            "volume": "73",
+            "author": "Barillas,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1016/j.jmoneco.2011.05.007",
+            "article-title": "The mechanics of a graceful exit: Interest on reserves and segmentation in the federal funds market",
+            "volume": "58",
+            "author": "Bech,",
+            "year": "2011",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Covered interest parity lost: Understanding the cross-currency basis",
+            "author": "Borio,",
+            "year": "2016",
+            "journal-title": "BIS Quarterly Review September"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Sovereign risk premia",
+            "author": "Borri,",
+            "year": "2015"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Bank-intermediated arbitrage",
+            "author": "Boyarchenko,",
+            "year": "2018",
+            "journal-title": "New york fed staff report"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "2201",
+            "DOI": "10.1093/rfs/hhn098",
+            "article-title": "Market liquidity and funding liquidity",
+            "volume": "22",
+            "author": "Brunnermeier,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Spurious factors in linear asset pricing models",
+            "author": "Bryzgalova,",
+            "year": "2020"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "853",
+            "DOI": "10.1093/rfs/hhq138",
+            "article-title": "Do peso problems explain the returns to the carry trade?",
+            "volume": "24",
+            "author": "Burnside,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.1146/annurev-financial-102710-144913",
+            "article-title": "Carry trade and momentum in currency markets",
+            "volume": "3",
+            "author": "Burnside,",
+            "year": "2011",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "first-page": "487",
+            "article-title": "Intertemporal asset pricing without consumption data",
+            "volume": "83",
+            "author": "Campbell,",
+            "year": "1993",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1016/j.jfineco.2018.02.011",
+            "article-title": "An intertemporal capm with stochastic volatility",
+            "volume": "128",
+            "author": "Campbell,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.2307/2298008",
+            "article-title": "Yield spreads and interest rate movements: A bird\u2019s eye view",
+            "volume": "58",
+            "author": "Campbell,",
+            "year": "1991",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "551",
+            "DOI": "10.1111/jofi.12854",
+            "article-title": "On comparing asset pricing models",
+            "volume": "75",
+            "author": "Chib,",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "volume-title": "Asset pricing: revised edition",
+            "author": "Cochrane,",
+            "year": "2009"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1093/rapstu/rat004",
+            "article-title": "The puzzle of index option returns",
+            "volume": "3",
+            "author": "Constantinides,",
+            "year": "2013",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Us banks and global liquidity",
+            "author": "Correa,",
+            "year": "2020"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1016/j.jinteco.2018.01.001",
+            "article-title": "The us treasury premium",
+            "volume": "112",
+            "author": "Du,",
+            "year": "2018",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "CIP deviations, the dollar, and frictions in international capital markets",
+            "volume-title": "Handbook of International Economics",
+            "author": "Du,",
+            "year": "2021"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "915",
+            "DOI": "10.1111/jofi.12620",
+            "article-title": "Deviations from covered interest rate parity",
+            "volume": "73",
+            "author": "Du,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.1093/rfs/hhl026",
+            "article-title": "Risk and return in fixed-income arbitrage: Nickels in front of a steamroller?",
+            "volume": "20",
+            "author": "Duarte,",
+            "year": "2007",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1540-6261.2010.01569.x",
+            "article-title": "Presidential address: Asset price dynamics with slow-moving capital",
+            "volume": "65",
+            "author": "Duffie,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Post-crisis bank regulations and financial market liquidity",
+            "author": "Duffie,",
+            "year": "2017"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Intermediary leverage and currency risk premium",
+            "author": "Fang,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3290317"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Shadow funding costs: Measuring the cost of balance sheet constraints",
+            "author": "Fleckenstein,",
+            "year": "2018",
+            "DOI": "10.3386/w24224"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "2151",
+            "DOI": "10.1111/jofi.12032",
+            "article-title": "The tips-treasury bond puzzle",
+            "volume": "69",
+            "author": "Fleckenstein,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1369",
+            "DOI": "10.1093/qje/qjv016",
+            "article-title": "International liquidity and exchange rate dynamics",
+            "volume": "130",
+            "author": "Gabaix,",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1980",
+            "DOI": "10.1093/rfs/hhr027",
+            "article-title": "Margin-based asset pricing and deviations from the law of one price",
+            "volume": "24",
+            "author": "Garleanu,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "7219",
+            "DOI": "10.1111/jofi.13086",
+            "article-title": "Do intermediaries matter for aggregate asset prices",
+            "volume": "76",
+            "author": "Haddad,",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "When leverage ratio meets derivatives: Running out of options?",
+            "author": "Haynes,",
+            "year": "2018"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2017.08.002",
+            "article-title": "Intermediary asset pricing: New evidence from many asset classes",
+            "volume": "126",
+            "author": "He,",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "735",
+            "DOI": "10.1093/restud/rdr036",
+            "article-title": "A model of capital and crises",
+            "volume": "79",
+            "author": "He,",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "first-page": "173",
+            "article-title": "Intermediary asset pricing and the financial crisis",
+            "author": "He,",
+            "year": "2017",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1016/j.jfineco.2021.05.044",
+            "article-title": "Treasury inconvenience yields during the covid-19 crisis",
+            "volume": "143",
+            "author": "He,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Externalities as arbitrage",
+            "author": "H\u00e9bert,",
+            "year": "2018"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "2341",
+            "DOI": "10.1111/jofi.12083",
+            "article-title": "Noise as information for illiquidity",
+            "volume": "68",
+            "author": "Hu,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "DOI": "10.1093/rfs/hhz030",
+            "article-title": "Negative swap spreads and limited arbitrage",
+            "volume": "33",
+            "author": "Jermann,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1049",
+            "DOI": "10.1111/jofi.13003",
+            "article-title": "Foreign safe asset demand and the dollar exchange rate",
+            "volume": "76",
+            "author": "Jiang,",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1111/jofi.12855",
+            "article-title": "Robust inference for consumption-based asset pricing",
+            "volume": "75",
+            "author": "Kleibergen,",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.1111/jofi.12757",
+            "article-title": "Liquidity risk and the dynamics of arbitrage capital",
+            "volume": "74",
+            "author": "Kondor,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Mind the gap in sovereign debt markets: The us treasury basis and the dollar risk factor",
+            "author": "Krishnamurthy,",
+            "year": "2019",
+            "journal-title": "2019 Jackson Hole Economic Symposium"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "504",
+            "DOI": "10.1016/j.jfineco.2020.06.002",
+            "article-title": "Credit migration and covered interest rate parity",
+            "volume": "138",
+            "author": "Liao,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "611",
+            "DOI": "10.1093/rfs/hhg029",
+            "article-title": "Losing money on arbitrage: Optimal dynamic portfolio choice in markets with arbitrage opportunities",
+            "volume": "17",
+            "author": "Liu,",
+            "year": "2003",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "36",
+            "DOI": "10.2469/faj.v58.n4.2453",
+            "article-title": "The statistics of sharpe ratios",
+            "volume": "58",
+            "author": "Lo,",
+            "year": "2002",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.1086/386528",
+            "article-title": "The flight-to-liquidity premium in us treasury bond prices",
+            "volume": "77",
+            "author": "Longstaff,",
+            "year": "2004",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "3731",
+            "DOI": "10.1093/rfs/hhr068",
+            "article-title": "Common risk factors in currency markets",
+            "volume": "24",
+            "author": "Lustig,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1257/aer.97.1.89",
+            "article-title": "The cross section of foreign currency risk premia and consumption growth risk",
+            "volume": "97",
+            "author": "Lustig,",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "631",
+            "DOI": "10.2307/2297912",
+            "article-title": "Automatic lag selection in covariance matrix estimation",
+            "volume": "61",
+            "author": "Newey,",
+            "year": "1994",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1868",
+            "DOI": "10.1093/rfs/hhu007",
+            "article-title": "Financial market dislocations",
+            "volume": "27",
+            "author": "Pasquariello,",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhac026",
+            "article-title": "Covered interest parity arbitrage",
+            "author": "Rime,",
+            "year": "2022",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.1093/rof/rfy034",
+            "article-title": "Mind the gap: Disentangling credit and liquidity in risk spreads",
+            "volume": "23",
+            "author": "Schwarz,",
+            "year": "2018",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1111/j.1540-6261.1997.tb03807.x",
+            "article-title": "The limits of arbitrage",
+            "volume": "52",
+            "author": "Shleifer,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023032007562526200_",
+            "article-title": "Markups to financial intermediation in foreign exchange markets",
+            "author": "Wallen,",
+            "year": "2020"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhac050/45476032/hhac050.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/4/1464/49543966/hhac050.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/4/1464/49543966/hhac050.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                11,
+                25
+            ]
+        ],
+        "date-time": "2023-11-25T12:49:10Z",
+        "timestamp": 1700916550000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/36/4/1464/6659112"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stefano",
+            "family": "Giglio",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                9
+            ]
+        ]
+    },
+    "references-count": 58,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    3,
+                    20
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhac050",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                4,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                9
+            ]
+        ]
+    }
+}

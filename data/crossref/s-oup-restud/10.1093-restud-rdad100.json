@@ -1,0 +1,490 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                20
+            ]
+        ],
+        "date-time": "2024-09-20T17:03:37Z",
+        "timestamp": 1726851817698
+    },
+    "reference-count": 28,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        17
+                    ]
+                ],
+                "date-time": "2023-10-17T00:00:00Z",
+                "timestamp": 1697500800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>A monopolist seller of multiple goods screens a buyer whose type vector is initially unknown to both but drawn from a commonly known prior distribution. The seller chooses a mechanism to maximize her worst-case profits against all possible signals from which the buyer can learn about his values for the goods. We show that it is robustly optimal for the seller to bundle goods with identical demands (these are goods that can be permuted without changing the buyer\u2019s prior type distribution). Consequently, pure bundling is robustly optimal for exchangeable prior distributions. For exchangeable priors, pure bundling is also optimal for the seller in the information environment (with the reverse timing) where an information designer, with the objective of maximizing consumer surplus, first selects a signal for the buyer, and then the seller chooses an optimal mechanism in response. We derive a formal relationship between the seller\u2019s problem in both information environments.</jats:p>",
+    "DOI": "10.1093/restud/rdad100",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                17
+            ]
+        ],
+        "date-time": "2023-10-17T19:45:56Z",
+        "timestamp": 1697571956000
+    },
+    "page": "2744-2770",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Multi-Dimensional Screening: Buyer-Optimal Learning and Informational Robustness"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Rahul",
+            "family": "Deb",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Toronto , Canada"
+                }
+            ]
+        },
+        {
+            "given": "Anne-Katrin",
+            "family": "Roesler",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Toronto , Canada"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024090423523985700_rdad100-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.2307/1886045",
+            "article-title": "Commodity Bundling and the Burden of Monopoly",
+            "volume": "90",
+            "author": "Adams",
+            "year": "1976",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1146/annurev-economics-080614-115650",
+            "article-title": "Nonlinear Pricing",
+            "volume": "8",
+            "author": "Armstrong",
+            "year": "2016",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1613",
+            "DOI": "10.1287/mnsc.45.12.1613",
+            "article-title": "Bundling Information Goods: Pricing, Profits, and Efficiency",
+            "volume": "45",
+            "author": "Bakos",
+            "year": "1999",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.1006/jeth.1996.0007",
+            "article-title": "On the Existence of Optimal Contract Mechanisms for Incomplete Information Principal-Agent Models",
+            "volume": "68",
+            "author": "Balder",
+            "year": "1996",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "year": "2022",
+            "author": "Ben Moshe",
+            "key": "2024090423523985700_rdad100-B5"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1257/aer.20130848",
+            "article-title": "The Limits of Price Discrimination",
+            "volume": "105",
+            "author": "Bergemann",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1257/jel.20181489",
+            "article-title": "Information Design: A Unified Perspective",
+            "volume": "57",
+            "author": "Bergemann",
+            "year": "2019",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1007",
+            "DOI": "10.1111/1468-0262.00317",
+            "article-title": "Information Acquisition and Efficient Mechanism Design",
+            "volume": "70",
+            "author": "Bergemann",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2021",
+            "author": "Brooks",
+            "key": "2024090423523985700_rdad100-B9"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.3982/ECTA14165",
+            "article-title": "Robustness and Separation in Multidimensional Screening",
+            "volume": "85",
+            "author": "Carroll",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2022",
+            "author": "Che",
+            "key": "2024090423523985700_rdad100-B11"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "735",
+            "DOI": "10.3982/ECTA12618",
+            "article-title": "Strong Duality for a Multiple-Good Monopolist",
+            "volume": "85",
+            "author": "Daskalakis",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2021",
+            "author": "Deb",
+            "key": "2024090423523985700_rdad100-B13"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1569",
+            "DOI": "10.3982/ECTA14993",
+            "article-title": "Robust Mechanisms Under Common Valuation",
+            "volume": "86",
+            "author": "Du",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "662",
+            "DOI": "10.1287/mnsc.1040.0344",
+            "article-title": "Bundling Information Goods of Decreasing Value",
+            "volume": "51",
+            "author": "Geng",
+            "year": "2005",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.1093/restud/rdaa053",
+            "article-title": "When is Pure Bundling Optimal?",
+            "volume": "88",
+            "author": "Haghpanah",
+            "year": "2021",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B17",
+            "first-page": "443",
+            "article-title": "The Limits of Multiproduct Price Discrimination",
+            "volume": "4",
+            "author": "Haghpanah",
+            "year": "2022",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "991",
+            "DOI": "10.1016/j.jet.2019.07.006",
+            "article-title": "Selling Multiple Correlated Goods: Revenue Maximization and Menu-Size Complexity",
+            "volume": "183",
+            "author": "Hart",
+            "year": "2019",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "893",
+            "DOI": "10.3982/TE1517",
+            "article-title": "Maximal Revenue with Multiple Goods: Nonmonotonicity and Other Observations",
+            "volume": "10",
+            "author": "Hart",
+            "year": "2015",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1146/annurev-economics-080218-025739",
+            "article-title": "Bayesian Persuasion and Information Design",
+            "volume": "11",
+            "author": "Kamenica",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.2307/2937852",
+            "article-title": "Multiproduct Monopoly, Commodity Bundling, and Correlation of Values",
+            "volume": "104",
+            "author": "McAfee",
+            "year": "1989",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B22",
+            "first-page": "Article 3",
+            "article-title": "Optimal Mechanism for Selling Two Goods",
+            "volume": "11",
+            "author": "Pavlov",
+            "year": "2011",
+            "journal-title": "BE Journal of Theoretical Economics"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1111/1468-0262.00096",
+            "article-title": "Information Acquisition in Auctions",
+            "volume": "68",
+            "author": "Persico",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "346",
+            "DOI": "10.1086/717350",
+            "article-title": "Learning Before Trading: On the Inefficiency of Ignoring Free Information",
+            "volume": "130",
+            "author": "Ravid",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "2072",
+            "DOI": "10.1257/aer.20160145",
+            "article-title": "Buyer-Optimal Learning and Monopoly Pricing",
+            "volume": "107",
+            "author": "Roesler",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1086/296654",
+            "article-title": "A Graphical Analysis of Bundling",
+            "volume": "68",
+            "author": "Salinger",
+            "year": "1995",
+            "journal-title": "The Journal of Business"
+        },
+        {
+            "volume-title": "Stochastic Orders",
+            "year": "2007",
+            "author": "Shaked",
+            "key": "2024090423523985700_rdad100-B27",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-0-387-34675-5"
+        },
+        {
+            "key": "2024090423523985700_rdad100-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "666",
+            "DOI": "10.1016/j.geb.2011.08.015",
+            "article-title": "Optimal Auctions with Information Acquisition",
+            "volume": "74",
+            "author": "Shi",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad100/56684405/rdad100.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/5/2744/58995623/rdad100.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/5/2744/58995623/rdad100.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2024-09-05T19:01:16Z",
+        "timestamp": 1725562876000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/5/2744/7320043"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                17
+            ]
+        ]
+    },
+    "references-count": 28,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    10,
+                    17
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad100",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                17
+            ]
+        ]
+    }
+}

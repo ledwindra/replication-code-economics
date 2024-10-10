@@ -1,0 +1,735 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                6
+            ]
+        ],
+        "date-time": "2024-09-06T00:14:38Z",
+        "timestamp": 1725581678900
+    },
+    "reference-count": 54,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        7
+                    ]
+                ],
+                "date-time": "2023-09-07T00:00:00Z",
+                "timestamp": 1694044800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000006",
+            "name": "ONR",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "N00014-17-1-2131",
+                "N00014-19-1-2468"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100000006",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a new approach for estimating average treatment effects in observational studies with unobserved group-level heterogeneity. We consider a general model with group-level unconfoundedness and provide conditions under which aggregate balancing statistics\u2014group-level averages of functions of treatments and covariates\u2014are sufficient to eliminate differences between groups. Building on these results, we re-interpret commonly used linear fixed-effect regression estimators by writing them in the Mundlak form as linear regression estimators without fixed effects but including group averages. We use this representation to develop Generalized Mundlak Estimators that capture group differences through group averages of (functions of) the unit-level variables and adjust for these group differences in flexible and robust ways in the spirit of the modern causal literature.</jats:p>",
+    "DOI": "10.1093/restud/rdad089",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                7
+            ]
+        ],
+        "date-time": "2023-09-07T09:39:27Z",
+        "timestamp": 1694079567000
+    },
+    "page": "2545-2571",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Fixed Effects and the Generalized Mundlak Estimator"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Dmitry",
+            "family": "Arkhangelsky",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "CEMFI; CEPR , Spain"
+                }
+            ]
+        },
+        {
+            "given": "Guido W",
+            "family": "Imbens",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University; SIEPR; and NBER , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024090423524781700_rdad089-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "article-title": "Sampling-Based Versus Design-Based Uncertainty in Regression Analysis",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "465",
+            "DOI": "10.1146/annurev-economics-080217-053402",
+            "article-title": "Econometric Methods for Program Evaluation",
+            "volume": "10",
+            "author": "Abadie",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "3099",
+            "DOI": "10.1214/09-AOS689",
+            "article-title": "Identifiability of Parameters in Latent Structure Models with Many Observed Variables",
+            "volume": "37",
+            "author": "Allman",
+            "year": "2009",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1111/j.1468-0262.2005.00609.x",
+            "article-title": "Cross Section and Panel Data Estimators for Nonseparable Models with Endogenous Regressors",
+            "volume": "73",
+            "author": "Altonji",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "volume-title": "Mostly Harmless Econometrics: An Empiricist\u2019s Companion",
+            "year": "2008",
+            "author": "Angrist",
+            "key": "2024090423524781700_rdad089-B9",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctvcm4j72"
+        },
+        {
+            "volume-title": "Panel Data Econometrics",
+            "year": "2003",
+            "author": "Arellano",
+            "key": "2024090423524781700_rdad089-B10",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/0199245282.001.0001"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.1146/annurev-economics-111809-125139",
+            "article-title": "Nonlinear Panel Data Analysis",
+            "volume": "3",
+            "author": "Arellano",
+            "year": "2011",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "C61",
+            "DOI": "10.1111/ectj.12062",
+            "article-title": "Nonlinear Panel Data Estimation via Quantile Regressions",
+            "volume": "19",
+            "year": "2016",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "year": "2018",
+            "author": "Arkhangelsky",
+            "key": "2024090423524781700_rdad089-B13"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1770",
+            "DOI": "10.1016/j.csda.2010.11.008",
+            "article-title": "The Specification of the Propensity Score in Multilevel Observational Studies",
+            "volume": "55",
+            "author": "Arpino",
+            "year": "2011",
+            "journal-title": "Computational Statistics & Data Analysis"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1111/rssb.12268",
+            "article-title": "Approximate Residual Balancing: Debiased Inference of Average Treatment Effects in High Dimensions",
+            "volume": "80",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B16",
+            "first-page": "1347",
+            "article-title": "Approximation of Density Functions by Sequences of Exponential Families",
+            "volume": "19",
+            "author": "Barron",
+            "year": "1991",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "540",
+            "DOI": "10.1214/15-AOS1376",
+            "article-title": "Estimating Multivariate Latent-Structure Models",
+            "volume": "44",
+            "author": "Bonhomme",
+            "year": "2016",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "625",
+            "DOI": "10.3982/ECTA15238",
+            "article-title": "Discretizing Unobserved Heterogeneity",
+            "volume": "90",
+            "author": "Bonhomme",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1147",
+            "DOI": "10.3982/ECTA11319",
+            "article-title": "Grouped Patterns of Heterogeneity in Panel Data",
+            "volume": "83",
+            "author": "Bonhomme",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random Forests",
+            "volume": "45",
+            "author": "Breiman",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1247",
+            "DOI": "10.1016/S1573-4412(84)02014-6",
+            "article-title": "Panel Data",
+            "volume": "2",
+            "author": "Chamberlain",
+            "year": "1984",
+            "journal-title": "Handbook of Econometrics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.3982/ECTA8419",
+            "article-title": "Binary Response Models for Panel Data: Identification and Information",
+            "volume": "78",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1257/aer.p20171038",
+            "article-title": "Double/Debiased/Neyman Machine Learning of Treatment Effects",
+            "volume": "107",
+            "author": "Chernozhukov",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "article-title": "Double/Debiased Machine Learning for Treatment and Structural Parameters",
+            "volume": "21",
+            "year": "2018",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "year": "2018",
+            "author": "Chernozhukov",
+            "key": "2024090423524781700_rdad089-B23"
+        },
+        {
+            "volume-title": "Theoretical Statistics",
+            "year": "1979",
+            "author": "Cox",
+            "key": "2024090423524781700_rdad089-B24",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1201/b14832"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1093/biomet/asn055",
+            "article-title": "Dealing with Limited Overlap in Estimation of Average Treatment Effects",
+            "volume": "96",
+            "author": "Crump",
+            "year": "2009",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2964",
+            "DOI": "10.1257/aer.20181169",
+            "article-title": "Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects",
+            "volume": "110",
+            "author": "De Chaisemartin",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2019",
+            "author": "De Paula",
+            "key": "2024090423524781700_rdad089-B27"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1111/j.1468-0262.2007.00738.x",
+            "article-title": "Efficient Semiparametric Estimation of Quantile Treatment Effects",
+            "volume": "75",
+            "author": "Firpo",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "254",
+            "DOI": "10.1016/j.jeconom.2021.03.014",
+            "article-title": "Difference-In-Differences with Variation in Treatment Timing",
+            "volume": "225",
+            "author": "Goodman-Bacon",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.2307/2998560",
+            "article-title": "On the Role of the Propensity Score in Efficient Semiparametric Estimation of Average Treatment Effects",
+            "volume": "66",
+            "author": "Hahn",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "863",
+            "DOI": "10.1017/S0266466609990132",
+            "article-title": "Panel Data Models with Finite Number of Multiple Equilibria",
+            "volume": "26",
+            "author": "Hahn",
+            "year": "2010",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "volume-title": "Econometrics",
+            "year": "2022",
+            "author": "Hansen",
+            "key": "2024090423524781700_rdad089-B32"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "3206",
+            "DOI": "10.1214/21-AOS2080",
+            "article-title": "Augmented Minimax Linear Estimation",
+            "volume": "49",
+            "author": "Hirshberg",
+            "year": "2021",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1111/j.0012-9682.2008.00823.x",
+            "article-title": "Instrumental Variable Treatment of Nonclassical Measurement Error Models",
+            "volume": "76",
+            "author": "Hu",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1111/ajps.12417",
+            "article-title": "When Should we use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data?",
+            "volume": "63",
+            "author": "Imai",
+            "year": "2019",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "volume-title": "Causal Inference in Statistics, Social, and Biomedical Sciences",
+            "year": "2015",
+            "author": "Imbens",
+            "key": "2024090423524781700_rdad089-B36",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781139025751"
+        },
+        {
+            "year": "2019",
+            "author": "Johannemann",
+            "key": "2024090423524781700_rdad089-B37"
+        },
+        {
+            "year": "2012",
+            "author": "Lacetera",
+            "key": "2024090423524781700_rdad089-B38"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B3",
+            "first-page": "186",
+            "article-title": "Will There be Blood? Incentives and Displacement Effects in Pro-Social Behavior",
+            "volume": "4",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "year": "2023",
+            "key": "2024090423524781700_rdad089-B55",
+            "article-title": "Replication Data for: Will There Be Blood? Incentives and Displacement Effects in Pro-Social Behavior"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1016/S0304-4076(99)00044-5",
+            "article-title": "The Incidental Parameter Problem Since 1948",
+            "volume": "95",
+            "author": "Lancaster",
+            "year": "2000",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "volume-title": "Nonparametrics: Statistical Methods Based on Ranks",
+            "year": "2006",
+            "author": "Leo Lehmann",
+            "key": "2024090423524781700_rdad089-B40"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.2307/1913646",
+            "article-title": "On the Pooling of Time Series and Cross Section Data",
+            "volume": "46",
+            "author": "Mundlak",
+            "year": "1978",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "year": "2018",
+            "author": "Newey",
+            "key": "2024090423524781700_rdad089-B42"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B43",
+            "first-page": "465",
+            "article-title": "On the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9",
+            "volume": "5",
+            "author": "Neyman",
+            "year": "1923/1990",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1914288",
+            "article-title": "Consistent Estimates Based on Partially Consistent Observations",
+            "volume": "16",
+            "author": "Neyman",
+            "year": "1948",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1080/01621459.1995.10476494",
+            "article-title": "Semiparametric Efficiency in Multivariate Regression Models with Missing Data",
+            "volume": "90",
+            "author": "Robins",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "volume-title": "Observational Studies",
+            "year": "2002",
+            "author": "Rosenbaum",
+            "key": "2024090423524781700_rdad089-B47",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4757-3692-2"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "article-title": "The Central Role of the Propensity Score in Observational Studies for Causal Effects",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "688",
+            "DOI": "10.1037/h0037350",
+            "article-title": "Estimating Causal Effects of Treatments in Randomized and Nonrandomized Studies",
+            "volume": "66",
+            "author": "Rubin",
+            "year": "1974",
+            "journal-title": "Journal of Educational Psychology"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3102/10769986002001001",
+            "article-title": "Assignment to Treatment Group on the Basis of a Covariate",
+            "volume": "2",
+            "year": "1977",
+            "journal-title": "Journal of Educational Statistics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+            "article-title": "Regression Shrinkage and Selection via the Lasso",
+            "volume": "58",
+            "author": "Tibshirani",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "volume-title": "Econometric Analysis of Cross Section and Panel Data",
+            "year": "2010",
+            "author": "Wooldridge",
+            "key": "2024090423524781700_rdad089-B52"
+        },
+        {
+            "year": "2021",
+            "key": "2024090423524781700_rdad089-B51"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1733",
+            "DOI": "10.1214/08-AOS625",
+            "article-title": "On the Adaptive Elastic-Net with a Diverging Number of Parameters",
+            "volume": "37",
+            "author": "Zou",
+            "year": "2009",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024090423524781700_rdad089-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "910",
+            "DOI": "10.1080/01621459.2015.1023805",
+            "article-title": "Stable Weights That Balance Covariates for Estimation with Incomplete Outcome Data",
+            "volume": "110",
+            "author": "Zubizarreta",
+            "year": "2015",
+            "journal-title": "Journal of the American Statistical Association"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad089/51772773/rdad089.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/5/2545/58995638/rdad089.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/5/2545/58995638/rdad089.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2024-09-05T19:01:27Z",
+        "timestamp": 1725562887000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/5/2545/7262519"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                7
+            ]
+        ]
+    },
+    "references-count": 54,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    7
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad089",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                7
+            ]
+        ]
+    }
+}

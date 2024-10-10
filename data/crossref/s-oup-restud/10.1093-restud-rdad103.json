@@ -1,0 +1,606 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                6
+            ]
+        ],
+        "date-time": "2024-09-06T00:26:59Z",
+        "timestamp": 1725582419468
+    },
+    "reference-count": 38,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        26
+                    ]
+                ],
+                "date-time": "2023-10-26T00:00:00Z",
+                "timestamp": 1698278400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>An agent\u2019s preferences depend on an ordered parameter or type. We characterize the set of utility functions with single-crossing differences (SCD) in convex environments. These include preferences over lotteries, both in expected utility and rank-dependent utility frameworks, and preferences over bundles of goods and over consumption streams. Our notion of SCD does not presume an order on the choice space. This unordered SCD is necessary and sufficient for \u201cinterval choice\u201d comparative statics. We present applications to cheap talk, observational learning, and collective choice, showing how convex environments arise in these problems and how SCD/interval choice are useful. Methodologically, our main characterization stems from a result on linear aggregations of single-crossing functions.</jats:p>",
+    "DOI": "10.1093/restud/rdad103",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                26
+            ]
+        ],
+        "date-time": "2023-10-26T17:38:53Z",
+        "timestamp": 1698341933000
+    },
+    "page": "2981-3012",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Single-Crossing Differences in Convex Environments"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Navin",
+            "family": "Kartik",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Columbia University , USA"
+                }
+            ]
+        },
+        {
+            "given": "SangMok",
+            "family": "Lee",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Washington University in St. Louis , USA"
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "Rappoport",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                26
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024090423524004500_rdad103-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "764",
+            "DOI": "10.1287/opre.1100.0911",
+            "article-title": "One-Switch Independence for Multiattribute Utility Functions",
+            "volume": "59",
+            "author": "Abbas",
+            "year": "2011",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1527",
+            "DOI": "10.3982/ECTA20658",
+            "article-title": "Sequential Veto Bargaining with Incomplete Information",
+            "volume": "91",
+            "author": "Ali",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1541",
+            "DOI": "10.3982/ECTA9288",
+            "article-title": "The Theory of Optimal Delegation with an Application to Tariff Caps",
+            "volume": "81",
+            "author": "Amador",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1162/003355302753399481",
+            "article-title": "Monotone Comparative Statics Under Uncertainty",
+            "volume": "117",
+            "author": "Athey",
+            "year": "2002",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.2307/2118364",
+            "article-title": "A Simple Model of Herd Behavior",
+            "volume": "107",
+            "author": "Banerjee",
+            "year": "1992",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1007/s00355-006-0090-6",
+            "article-title": "A Social Choice Lemma on Voting over Lotteries with Applications to a Class of Dynamic Games",
+            "volume": "26",
+            "author": "Banks",
+            "year": "2006",
+            "journal-title": "Social Choice and Welfare"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1257/jel.20181489",
+            "article-title": "Information Design: A Unified Perspective",
+            "volume": "57",
+            "author": "Bergemann",
+            "year": "2019",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "992",
+            "DOI": "10.1086/261849",
+            "article-title": "A Theory of Fads, Fashion, Custom, and Cultural Change as Informational Cascades",
+            "volume": "100",
+            "author": "Bikhchandani",
+            "year": "1992",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B9",
+            "first-page": "395",
+            "article-title": "Noisy Talk",
+            "volume": "2",
+            "author": "Blume",
+            "year": "2007",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.3982/ECTA9454",
+            "article-title": "When are Local Incentive Constraints Sufficient?",
+            "volume": "80",
+            "author": "Carroll",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1111/1756-2171.12086",
+            "article-title": "Implementation by Gradual Revelation",
+            "volume": "46",
+            "author": "Celik",
+            "year": "2015",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1431",
+            "DOI": "10.2307/1913390",
+            "article-title": "Strategic Information Transmission",
+            "volume": "50",
+            "author": "Crawford",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "281",
+            "DOI": "10.1023/A:1011877808366",
+            "article-title": "On the Intuition of Rank-Dependent Utility",
+            "volume": "23",
+            "author": "Diecidue",
+            "year": "2001",
+            "journal-title": "Journal of Risk and Uncertainty"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B14",
+            "first-page": "263",
+            "article-title": "Majority Voting Over Lotteries: Conditions for Existence of a Decisive Voter",
+            "volume": "34",
+            "author": "Duggan",
+            "year": "2014",
+            "journal-title": "Economics Bulletin"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1287/opre.22.1.35",
+            "article-title": "von Neumann\u2013Morgenstern Utility Functions on Two Attributes",
+            "volume": "22",
+            "author": "Fishburn",
+            "year": "1974",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "219",
+            "DOI": "10.1016/0047-2727(95)01503-5",
+            "article-title": "Majority Voting with Single-Crossing Preferences",
+            "volume": "59",
+            "author": "Gans",
+            "year": "1996",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1086/257678",
+            "article-title": "Cardinal Welfare, Individualistic Ethics, and Interpersonal Comparisons of Utility",
+            "volume": "63",
+            "author": "Harsanyi",
+            "year": "1955",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B18",
+            "first-page": "150",
+            "article-title": "Collective Dynamic Choice: The Necessity of Time Inconsistency",
+            "volume": "7",
+            "author": "Jackson",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.1016/0304-4068(75)90005-1",
+            "article-title": "Semicontinuous Extension of a Partial Order",
+            "volume": "2",
+            "author": "Jaffray",
+            "year": "1975",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "article-title": "Bayesian Persuasion",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "Total Positivity",
+            "year": "1968",
+            "author": "Karlin",
+            "key": "2024090423524004500_rdad103-B21"
+        },
+        {
+            "year": "2023",
+            "author": "Kartik",
+            "key": "2024090423524004500_rdad103-B22"
+        },
+        {
+            "year": "2019",
+            "author": "Kartik",
+            "key": "2024090423524004500_rdad103-B23"
+        },
+        {
+            "year": "2022",
+            "author": "Kleiner",
+            "key": "2024090423524004500_rdad103-B24"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1007/s00199-018-1124-x",
+            "article-title": "On the Equivalence of Bayesian and Dominant Strategy Implementation for Environments with Nonlinear Utilities",
+            "volume": "67",
+            "author": "Kushnir",
+            "year": "2018",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.2307/2601016",
+            "article-title": "Communication in Settings with No Transfers",
+            "volume": "22",
+            "author": "Melumad",
+            "year": "1991",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "380",
+            "DOI": "10.2307/3003562",
+            "article-title": "Good News and Bad News: Representation Theorems and Applications",
+            "volume": "12",
+            "author": "Milgrom",
+            "year": "1981",
+            "journal-title": "Bell Journal of Economics"
+        },
+        {
+            "volume-title": "Putting Auction Theory to Work",
+            "year": "2004",
+            "author": "Milgrom",
+            "key": "2024090423524004500_rdad103-B28",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511813825"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.2307/2951479",
+            "article-title": "Monotone Comparative Statics",
+            "volume": "62",
+            "author": "Milgrom",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "volume-title": "Real Analysis with Economic Applications",
+            "year": "2007",
+            "author": "Ok",
+            "key": "2024090423524004500_rdad103-B30",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/9781400840892"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "2333",
+            "DOI": "10.3982/ECTA9869",
+            "article-title": "Aggregating the Single Crossing Property",
+            "volume": "80",
+            "author": "Quah",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1016/0167-2681(82)90008-7",
+            "article-title": "A Theory of Anticipated Utility",
+            "volume": "3",
+            "author": "Quiggin",
+            "year": "1982",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "331",
+            "DOI": "10.1007/BF01376281",
+            "article-title": "Order Restricted Preferences and Majority Rule",
+            "volume": "7",
+            "author": "Rothstein",
+            "year": "1990",
+            "journal-title": "Social Choice and Welfare"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1016/0022-0531(90)90012-9",
+            "article-title": "Effective Cheap Talk with Conflicting Interests",
+            "volume": "50",
+            "author": "Seidmann",
+            "year": "1990",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.2307/1957799",
+            "article-title": "The Strategy of Ambiguity: Uncertainty and Electoral Competition",
+            "volume": "66",
+            "author": "Shepsle",
+            "year": "1972",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1146/annurev-economics-111809-125046",
+            "article-title": "Frictional Matching Models",
+            "volume": "3",
+            "author": "Smith",
+            "year": "2011",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1287/opre.26.2.305",
+            "article-title": "Minimizing a Submodular Function on a Lattice",
+            "volume": "26",
+            "author": "Topkis",
+            "year": "1978",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024090423524004500_rdad103-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "696",
+            "DOI": "10.2307/1885458",
+            "article-title": "Majority Rule with Lotteries on Alternatives",
+            "volume": "83",
+            "author": "Zeckhauser",
+            "year": "1969",
+            "journal-title": "The Quarterly Journal of Economics"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad103/54092237/rdad103.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/5/2981/58995616/rdad103.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/5/2981/58995616/rdad103.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2024-09-05T19:01:18Z",
+        "timestamp": 1725562878000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/5/2981/7330557"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                26
+            ]
+        ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    10,
+                    26
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/restud/rdad103",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                10,
+                26
+            ]
+        ]
+    }
+}

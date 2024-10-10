@@ -1,0 +1,559 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                19
+            ]
+        ],
+        "date-time": "2024-09-19T04:11:23Z",
+        "timestamp": 1726719083404
+    },
+    "reference-count": 34,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "10",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        24
+                    ]
+                ],
+                "date-time": "2024-01-24T00:00:00Z",
+                "timestamp": 1706054400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We estimate short-term dividend strip prices from 27 years of S&amp;P 500 index options data (1996-2022). We use option-implied interest rates when estimating strip prices and longer holding period returns to mitigate measurement error. We find that Sharpe ratios for short-term strips are similar to or higher than Sharpe ratios for the market. Short-term strips also have a low market beta and a positive alpha. Over the business cycle, realized term premiums (ie, the difference between market and strip returns) and the term structure of Sharpe ratios move countercyclically, whereas the term structure of alphas moves procyclically.</jats:p>",
+    "DOI": "10.1093/rfs/hhae002",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                25
+            ]
+        ],
+        "date-time": "2024-01-25T08:38:41Z",
+        "timestamp": 1706171921000
+    },
+    "page": "3188-3215",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Holding Period Effects in Dividend Strip Returns"
+    ],
+    "prefix": "10.1093",
+    "volume": "37",
+    "author": [
+        {
+            "given": "Benjamin",
+            "family": "Golez",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Notre Dame , USA"
+                }
+            ]
+        },
+        {
+            "given": "Jens",
+            "family": "Jackwerth",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Konstanz , Germany"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024091807514604600_hhae002-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/2938229",
+            "article-title": "Heteroskedasticity and autocorrelation consistent covariance matrix estimation",
+            "volume": "59",
+            "author": "Andrews",
+            "year": "1991",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1209",
+            "DOI": "10.1016/j.jfineco.2021.05.043",
+            "article-title": "The term structure of equity risk premia",
+            "volume": "142",
+            "author": "Bansal",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1111/j.1540-6261.2004.00670.x",
+            "article-title": "Risks for the long run: A potential resolution of asset pricing puzzles",
+            "volume": "59",
+            "author": "Bansal",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.1016/0304-405X(83)90056-9",
+            "article-title": "Biases in computed returns: An application to the size effect",
+            "volume": "12",
+            "author": "Blume",
+            "year": "1983",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1155",
+            "DOI": "10.1093/rof/rfac062",
+            "article-title": "The term structure of equity risk premia: Levered noise and new estimates",
+            "volume": "27",
+            "author": "Boguth",
+            "year": "2023",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "first-page": "1231",
+            "volume-title": "Handbook of macroeconomics",
+            "year": "1999",
+            "author": "Campbell",
+            "key": "2024091807514604600_hhae002-B6"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1086/250059",
+            "article-title": "By force of habit: A consumption-based explanation of aggregate stock market behavior",
+            "volume": "107",
+            "author": "Campbell",
+            "year": "1999",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1093/rfs/1.3.195",
+            "article-title": "The dividend-price ratio and expectations of future dividends and discount factors",
+            "volume": "1",
+            "author": "Campbell",
+            "year": "1988",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1253",
+            "DOI": "10.1093/rfs/hhac032",
+            "article-title": "Horizon bias and the term structure of equity returns",
+            "volume": "36",
+            "author": "Cassella",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.1017/S0022109019000309",
+            "article-title": "Dividend risk premia",
+            "volume": "55",
+            "author": "Cejnek",
+            "year": "2020",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "first-page": "70",
+            "volume-title": "Advances in investment analysis and portfolio management",
+            "year": "1998",
+            "author": "Demaskey",
+            "key": "2024091807514604600_hhae002-B11"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "645",
+            "DOI": "10.1093/qje/qjs001",
+            "article-title": "Variable rare disasters: An exactly solved framework for ten puzzles in macro-finance",
+            "volume": "127",
+            "author": "Gabaix",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "5268",
+            "DOI": "10.1287/mnsc.2018.3065",
+            "article-title": "Financial market misconduct and public enforcement: The case of Libor manipulation",
+            "volume": "65",
+            "author": "Gandhi",
+            "year": "2019",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2020",
+            "author": "Giglio",
+            "key": "2024091807514604600_hhae002-B14"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "790",
+            "DOI": "10.1093/rfs/hht131",
+            "article-title": "Expected returns and dividend growth rates implied by derivative markets",
+            "volume": "27",
+            "author": "Golez",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2023",
+            "author": "Golez",
+            "key": "2024091807514604600_hhae002-B16"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2153",
+            "DOI": "10.1111/jofi.13035",
+            "article-title": "Reinvestment risk and the equity term structure",
+            "volume": "76",
+            "author": "Gon\u00e7alves",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "919",
+            "DOI": "10.1016/j.jfineco.2021.04.019",
+            "article-title": "The short duration premium",
+            "volume": "141",
+            "author": "Gon\u00e7alves",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1959",
+            "DOI": "10.1111/jofi.13020",
+            "article-title": "Time variation of the equity term structure",
+            "volume": "76",
+            "author": "Gormsen",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1393",
+            "DOI": "10.1111/jofi.13216",
+            "article-title": "Duration-driven returns",
+            "volume": "78",
+            "author": "Gormsen",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "850",
+            "DOI": "10.1016/j.jempfin.2008.03.002",
+            "article-title": "Robust performance hypothesis testing with the Sharpe ratio",
+            "volume": "15",
+            "author": "Ledoit",
+            "year": "2008",
+            "journal-title": "Journal of Empirical Finance"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1111/j.1540-6261.2007.01201.x",
+            "article-title": "Why is long-horizon equity less risky? A duration-based explanation of the value premium",
+            "volume": "62",
+            "author": "Lettau",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2018",
+            "author": "Li",
+            "key": "2024091807514604600_hhae002-B23"
+        },
+        {
+            "first-page": "263",
+            "volume-title": "Exploring the limits of bootstrap",
+            "year": "1992",
+            "author": "Politis",
+            "key": "2024091807514604600_hhae002-B24"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "3185",
+            "DOI": "10.1257/aer.20131416",
+            "article-title": "On the timing and pricing of dividends: Comment",
+            "volume": "106",
+            "author": "Schulz",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1356",
+            "DOI": "10.1257/aer.99.4.1356",
+            "article-title": "Tax changes and asset pricing",
+            "volume": "99",
+            "author": "Sialm",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2016",
+            "author": "Song",
+            "key": "2024091807514604600_hhae002-B27"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1289",
+            "DOI": "10.1093/rfs/hhac035",
+            "article-title": "A model-free term structure of US dividend premiums",
+            "volume": "36",
+            "author": "Ulrich",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1596",
+            "DOI": "10.1257/aer.102.4.1596",
+            "article-title": "On the timing and pricing of dividends",
+            "volume": "102",
+            "author": "Van Binsbergen",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.1016/j.jfineco.2013.08.017",
+            "article-title": "Equity yields",
+            "volume": "110",
+            "author": "Van Binsbergen",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1439",
+            "DOI": "10.1111/j.1540-6261.2010.01575.x",
+            "article-title": "Predictive regressions: A present-value approach",
+            "volume": "65",
+            "author": "Van Binsbergen",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "3224",
+            "DOI": "10.1257/aer.20160698",
+            "article-title": "On the timing and pricing of dividends: Reply",
+            "volume": "106",
+            "author": "Van Binsbergen",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2017.01.009",
+            "article-title": "The term structure of returns: Facts and theory",
+            "volume": "124",
+            "author": "Van Binsbergen",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024091807514604600_hhae002-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2021.06.012",
+            "article-title": "Risk-free interest rates",
+            "volume": "143",
+            "author": "Van Binsbergen",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae002/56618373/hhae002.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/10/3188/59142222/hhae002.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/10/3188/59142222/hhae002.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2024-09-18T07:52:28Z",
+        "timestamp": 1726645948000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/37/10/3188/7588885"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                24
+            ]
+        ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+        "issue": "10",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    10,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhae002",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                24
+            ]
+        ]
+    }
+}

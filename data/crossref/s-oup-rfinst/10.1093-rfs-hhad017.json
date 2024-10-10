@@ -1,0 +1,1398 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                6
+            ]
+        ],
+        "date-time": "2024-10-06T01:15:04Z",
+        "timestamp": 1728177304707
+    },
+    "reference-count": 117,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "9",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        2,
+                        24
+                    ]
+                ],
+                "date-time": "2023-02-24T00:00:00Z",
+                "timestamp": 1677196800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                8,
+                21
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Drawing upon more than 12 million observations over the period from 1996 to 2020, we find that allowing for nonlinearities significantly increases the out-of-sample performance of option and stock characteristics in predicting future option returns. The nonlinear machine learning models generate statistically and economically sizable profits in the long-short portfolios of equity options even after accounting for transaction costs. Although option-based characteristics are the most important standalone predictors, stock-based measures offer substantial incremental predictive power when considered alongside option-based characteristics. Finally, we provide compelling evidence that option return predictability is driven by informational frictions and option mispricing.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhad017",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                2,
+                24
+            ]
+        ],
+        "date-time": "2023-02-24T13:07:00Z",
+        "timestamp": 1677244020000
+    },
+    "page": "3548-3602",
+    "source": "Crossref",
+    "is-referenced-by-count": 66,
+    "title": [
+        "Option Return Predictability with Machine Learning and Big Data"
+    ],
+    "prefix": "10.1093",
+    "volume": "36",
+    "author": [
+        {
+            "given": "Turan G",
+            "family": "Bali",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Georgetown University , USA"
+                }
+            ]
+        },
+        {
+            "given": "Heiner",
+            "family": "Beckmeyer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of M\u00fcnster , Germany"
+                }
+            ]
+        },
+        {
+            "given": "Mathis",
+            "family": "M\u00f6rke",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of St.Gallen , Switzerland"
+                }
+            ]
+        },
+        {
+            "given": "Florian",
+            "family": "Weigert",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Neuch\u00e2tel , Switzerland"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                2,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023082109031332500_B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "63",
+            "DOI": "10.1093/rfs/hhg044",
+            "article-title": "Risks and portfolio decisions involving hedge funds",
+            "volume": "17",
+            "author": "Agarwal,",
+            "year": "2004",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/S1386-4181(01)00024-6",
+            "article-title": "Illiquidity and stock returns: Cross-section and time-series effects",
+            "volume": "5",
+            "author": "Amihud,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2023082109031332500_B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2279",
+            "DOI": "10.1111/jofi.12181",
+            "article-title": "The joint cross section of stocks and options",
+            "volume": "69",
+            "author": "An,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "6679",
+            "DOI": "10.1609/aaai.v35i8.16826",
+            "article-title": "Tabnet: Attentive interpretable tabular learning",
+            "volume": "35",
+            "author": "Arik,",
+            "year": "2021",
+            "journal-title": "Proceedings of the AAAI Conference on Artificial Intelligence"
+        },
+        {
+            "key": "2023082109031332500_B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "725",
+            "DOI": "10.1016/j.jfineco.2019.07.006",
+            "article-title": "Left-tail momentum: Underreaction to bad news, costly arbitrage and equity returns",
+            "volume": "135",
+            "author": "Atilgan,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2003",
+            "DOI": "10.1111/j.1540-6261.1997.tb02749.x",
+            "article-title": "Empirical performance of alternative option pricing models",
+            "volume": "52",
+            "author": "Bakshi,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1093/rfs/hhg002",
+            "article-title": "Delta-hedged gains and the negative market volatility risk premium",
+            "volume": "16",
+            "author": "Bakshi,",
+            "year": "2003",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B8",
+            "article-title": "A factor model for stock returns based on option prices",
+            "author": "Bali,",
+            "year": "2022"
+        },
+        {
+            "key": "2023082109031332500_B9",
+            "article-title": "Predicting corporate bond returns: Merton meets machine learning",
+            "author": "Bali,",
+            "year": "2021"
+        },
+        {
+            "key": "2023082109031332500_B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1797",
+            "DOI": "10.1287/mnsc.1090.1063",
+            "article-title": "Volatility spreads and expected stock returns",
+            "volume": "55",
+            "author": "Bali,",
+            "year": "2009",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023082109031332500_B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1145",
+            "DOI": "10.1017/S0022109013000410",
+            "article-title": "Does risk-neutral skewness predict the cross-section of equity option portfolio returns?",
+            "volume": "48",
+            "author": "Bali,",
+            "year": "2013",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023082109031332500_B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1615",
+            "DOI": "10.1017/S0022109018000480",
+            "article-title": "Unknown unknowns: Uncertainty about risk and stock returns",
+            "volume": "53",
+            "author": "Baltussen,",
+            "year": "2018",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023082109031332500_B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1057/jors.1969.103",
+            "article-title": "The combination of forecasts",
+            "volume": "20",
+            "author": "Bates,",
+            "year": "1969",
+            "journal-title": "Journal of the Operational Research Society"
+        },
+        {
+            "key": "2023082109031332500_B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "3975",
+            "DOI": "10.1287/mnsc.2021.4068",
+            "article-title": "The time variation in risk appetite and uncertainty",
+            "volume": "68",
+            "author": "Bekaert,",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023082109031332500_B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1046",
+            "DOI": "10.1093/rfs/hhaa062",
+            "article-title": "Bond risk premiums with machine learning",
+            "volume": "34",
+            "author": "Bianchi,",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1086/260062",
+            "article-title": "The pricing of options and corporate liabilities",
+            "volume": "81",
+            "author": "Black,",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023082109031332500_B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "711",
+            "DOI": "10.1111/j.1540-6261.2004.00647.x",
+            "article-title": "Does net buying pressure affect the shape of implied volatility functions?",
+            "volume": "59",
+            "author": "Bollen,",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/j.jfineco.2015.02.010",
+            "article-title": "Tail risk premia and return predictability",
+            "volume": "118",
+            "author": "Bollerslev,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman,",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "key": "2023082109031332500_B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1140",
+            "DOI": "10.1016/j.jfineco.2021.12.007",
+            "article-title": "A factor model for option returns",
+            "volume": "143",
+            "author": "B\u00fcchner,",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "495",
+            "DOI": "10.1093/rfs/14.2.495",
+            "article-title": "The price of a smile: Hedging and spanning in option markets",
+            "volume": "14",
+            "author": "Buraschi,",
+            "year": "2001",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1016/j.jfineco.2016.06.004",
+            "article-title": "Gambling preference and individual equity option returns",
+            "volume": "122",
+            "author": "Byun,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/j.jfineco.2012.11.010",
+            "article-title": "Cross section of option returns and idiosyncratic stock volatility",
+            "volume": "108",
+            "author": "Cao,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B24",
+            "author": "Cao,"
+        },
+        {
+            "key": "2023082109031332500_B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1311",
+            "DOI": "10.1093/rfs/hhn038",
+            "article-title": "Variance risk premiums",
+            "volume": "22",
+            "author": "Carr,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B27",
+            "article-title": "Deep learning in asset pricing",
+            "author": "Chen,",
+            "year": "",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023082109031332500_B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1093/rfs/hhx089",
+            "article-title": "The factor structure in equity options",
+            "volume": "31",
+            "author": "Christoffersen,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "811",
+            "DOI": "10.1093/rfs/hhx113",
+            "article-title": "Illiquidity premia in the equity options market",
+            "volume": "31",
+            "author": "Christoffersen,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1016/j.jeconom.2006.05.023",
+            "article-title": "Approximately normal tests for equal predictive accuracy in nested models",
+            "volume": "138",
+            "author": "Clark,",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2023082109031332500_B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "577",
+            "DOI": "10.1111/jofi.12220",
+            "article-title": "Aggregate jump and volatility risk in the cross-section of stock returns",
+            "volume": "70",
+            "author": "Cremers,",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B32",
+            "doi-asserted-by": "crossref",
+            "article-title": "Can machine learning help to select portfolios of mutual funds",
+            "author": "DeMiguel,",
+            "year": "2021",
+            "DOI": "10.2139/ssrn.3768753"
+        },
+        {
+            "key": "2023082109031332500_B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "471",
+            "DOI": "10.2307/3594989",
+            "article-title": "Risk-neutral skewness: Evidence from stock options",
+            "volume": "37",
+            "author": "Dennis,",
+            "year": "2002",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023082109031332500_B34",
+            "doi-asserted-by": "crossref",
+            "article-title": "Cross-sectional uncertainty and the business cycle: Evidence from 40 years of options data",
+            "author": "Dew-Becker,",
+            "year": "2020",
+            "DOI": "10.3386/w27864"
+        },
+        {
+            "key": "2023082109031332500_B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1016/j.jfineco.2021.05.053",
+            "article-title": "Hedging macroeconomic and financial uncertainty and volatility",
+            "volume": "142",
+            "author": "Dew-Becker,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/07350015.2014.983236",
+            "article-title": "Comparing predictive accuracy, twenty years later: A personal perspective on the use and abuse of Diebold-Mariano tests",
+            "volume": "33",
+            "author": "Diebold,",
+            "year": "2015",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023082109031332500_B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "134",
+            "DOI": "10.1198/073500102753410444",
+            "article-title": "Comparing predictive accuracy",
+            "volume": "20",
+            "author": "Diebold,",
+            "year": "1995",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023082109031332500_B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "369",
+            "DOI": "10.1111/1540-6261.00425",
+            "article-title": "Nonlinear pricing kernels, kurtosis preference, and evidence from the cross section of equity returns",
+            "volume": "57",
+            "author": "Dittmar,",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B39",
+            "article-title": "Limited attention and option prices",
+            "author": "Eisdorfer,",
+            "year": "2022"
+        },
+        {
+            "key": "2023082109031332500_B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1971",
+            "DOI": "10.1111/jofi.12718",
+            "article-title": "Anomalies and news",
+            "volume": "73",
+            "author": "Engelberg,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama,",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama,",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1016/j.jfineco.2018.02.012",
+            "article-title": "Choosing factors",
+            "volume": "128",
+            "author": "Fama,",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1327",
+            "DOI": "10.1111/jofi.12883",
+            "article-title": "Taming the factor zoo: A test of new factors",
+            "volume": "75",
+            "author": "Feng,",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B45",
+            "article-title": "Exchange rate prediction with machine learning and a smart carry portfolio",
+            "author": "Filippou,",
+            "year": "2020"
+        },
+        {
+            "key": "2023082109031332500_B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rapstu/raab022",
+            "article-title": "Embedded leverage",
+            "volume": "12",
+            "author": "Frazzini,",
+            "year": "2022",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2023082109031332500_B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/rfs/hhz123",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "volume": "33",
+            "author": "Freyberger,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1189",
+            "DOI": "10.1214/aos/1013203451",
+            "article-title": "Greedy function approximation: A gradient boosting machine",
+            "volume": "29",
+            "author": "Friedman,",
+            "year": "2001",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2023082109031332500_B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1980",
+            "DOI": "10.1093/rfs/hhr027",
+            "article-title": "Margin-based asset pricing and deviations from the law of one price",
+            "volume": "24",
+            "author": "Garleanu,",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "4259",
+            "DOI": "10.1093/rfs/hhp005",
+            "article-title": "Demand-based option pricing",
+            "volume": "22",
+            "author": "Garleanu,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "3456",
+            "DOI": "10.1093/rfs/hhaa111",
+            "article-title": "Thousands of alpha tests",
+            "volume": "34",
+            "author": "Giglio,",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "310",
+            "DOI": "10.1016/j.jfineco.2009.01.001",
+            "article-title": "Cross-section of option returns and volatility",
+            "volume": "94",
+            "author": "Goyal,",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "A comprehensive look at the empirical performance of equity premium prediction",
+            "volume": "21",
+            "author": "Goyal,",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B54",
+            "article-title": "The joint cross section of option and stock returns predictability with big data and machine learning",
+            "author": "Goyenko,",
+            "year": "2021"
+        },
+        {
+            "key": "2023082109031332500_B55",
+            "doi-asserted-by": "crossref",
+            "article-title": "Diverging roads: Theory-based vs. machine learning-implied stock risk premia",
+            "author": "Grammig,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3536835"
+        },
+        {
+            "key": "2023082109031332500_B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "4389",
+            "DOI": "10.1093/rfs/hhx019",
+            "article-title": "The characteristics that provide independent information about average U.S. monthly stock returns",
+            "volume": "30",
+            "author": "Green,",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B57",
+            "article-title": "Option-based intermediary leverage",
+            "author": "Gr\u00fcnthaler,",
+            "year": "",
+            "journal-title": "Journal of Banking & Finance"
+        },
+        {
+            "key": "2023082109031332500_B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B59",
+            "article-title": "Cross-sectional out-of-sample stock return prediction with many characteristics",
+            "author": "Han,",
+            "year": "2021"
+        },
+        {
+            "key": "2023082109031332500_B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.1093/rfs/6.2.327",
+            "article-title": "A closed-form solution for options with stochastic volatility with applications to bond and currency options",
+            "volume": "6",
+            "author": "Heston,",
+            "year": "1993",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B61",
+            "article-title": "Option momentum",
+            "author": "Heston,",
+            "year": "",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "585",
+            "DOI": "10.1093/rfs/13.3.585",
+            "article-title": "A closed-form Garch option valuation model",
+            "volume": "13",
+            "author": "Heston,",
+            "year": "2000",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "418",
+            "DOI": "10.1016/j.jfineco.2007.02.003",
+            "article-title": "Seasonality in the cross-section of stock returns",
+            "volume": "87",
+            "author": "Heston,",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "337",
+            "DOI": "10.1016/j.jacceco.2003.10.002",
+            "article-title": "Limited attention, information disclosure, and financial reporting",
+            "volume": "36",
+            "author": "Hirshleifer,",
+            "year": "2003",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2023082109031332500_B65",
+            "article-title": "Margin requirements and equity option returns",
+            "author": "Hitzemann,",
+            "year": "2021"
+        },
+        {
+            "key": "2023082109031332500_B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1080/00401706.1970.10488634",
+            "article-title": "Ridge regression: Biased estimation for nonorthogonal problems",
+            "volume": "12",
+            "author": "Hoerl,",
+            "year": "1970",
+            "journal-title": "Technometrics"
+        },
+        {
+            "key": "2023082109031332500_B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "2143",
+            "DOI": "10.1111/0022-1082.00184",
+            "article-title": "A unified theory of underreaction, momentum trading, and overreaction in asset markets",
+            "volume": "54",
+            "author": "Hong,",
+            "year": "1999",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.1016/0893-6080(89)90020-8",
+            "article-title": "Multilayer feedforward networks are universal approximators",
+            "volume": "2",
+            "author": "Hornik,",
+            "year": "1989",
+            "journal-title": "Neural Networks"
+        },
+        {
+            "key": "2023082109031332500_B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1080/0015198X.2022.2100234",
+            "article-title": "Option pricing via breakeven volatility",
+            "volume": "79",
+            "author": "Hull,",
+            "year": "2023",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2023082109031332500_B70",
+            "article-title": "Is there a replication crisis in finance",
+            "author": "Jensen,",
+            "year": "",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "1457",
+            "DOI": "10.1016/S0165-1889(99)00082-2",
+            "article-title": "Gram\u2013Charlier densities",
+            "volume": "25",
+            "author": "Jondeau,",
+            "year": "2001",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2023082109031332500_B72",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.finmar.2022.100765",
+            "article-title": "Stock illiquidity and option returns",
+            "author": "Kanne,",
+            "year": "2022",
+            "journal-title": "Journal of Financial Markets."
+        },
+        {
+            "key": "2023082109031332500_B73",
+            "article-title": "Modeling corporate bond returns",
+            "author": "Kelly,",
+            "year": "",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "volume": "134",
+            "author": "Kelly,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B75",
+            "article-title": "Instrumented principal component analysis",
+            "author": "Kelly,",
+            "year": "2020"
+        },
+        {
+            "key": "2023082109031332500_B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.1111/jofi.12398",
+            "article-title": "Return seasonalities",
+            "volume": "71",
+            "author": "Keloharju,",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "589",
+            "DOI": "10.2307/2951719",
+            "article-title": "Standard risk aversion",
+            "volume": "61",
+            "author": "Kimball,",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023082109031332500_B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.1016/j.jfineco.2019.06.008",
+            "article-title": "Shrinking the cross-section",
+            "volume": "135",
+            "author": "Kozak,",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B79",
+            "first-page": "1097",
+            "article-title": "Imagenet classification with deep convolutional neural networks",
+            "volume": "25",
+            "author": "Krizhevsky,",
+            "year": "2012",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "key": "2023082109031332500_B80",
+            "first-page": "6405",
+            "article-title": "Simple and scalable predictive uncertainty estimation using deep ensembles",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "author": "Lakshminarayanan,",
+            "year": "2017"
+        },
+        {
+            "key": "2023082109031332500_B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "64",
+            "DOI": "10.1016/j.jfineco.2021.08.017",
+            "article-title": "Machine-learning in the Chinese factor zoo",
+            "volume": "145",
+            "author": "Leippold,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "1113",
+            "DOI": "10.1093/rfs/12.5.1113",
+            "article-title": "A new estimate of transaction costs",
+            "volume": "12",
+            "author": "Lesmond,",
+            "year": "1999",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "2274",
+            "DOI": "10.1093/rfs/hhaa020",
+            "article-title": "Factors that fit the time series and cross-section of stock returns",
+            "volume": "33",
+            "author": "Lettau,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B84",
+            "article-title": "Selecting mutual funds from the stocks they hold: A machine learning approach",
+            "author": "Li,",
+            "year": "2020"
+        },
+        {
+            "key": "2023082109031332500_B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "736",
+            "DOI": "10.1016/j.jfineco.2018.09.006",
+            "article-title": "Bear beta",
+            "volume": "131",
+            "author": "Lu,",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B86",
+            "first-page": "4768",
+            "article-title": "A unified approach to interpreting model predictions",
+            "author": "Lundberg,",
+            "year": "2017",
+            "journal-title": "Proceedings of the 31st International Conference on Neural Information Processing Systems"
+        },
+        {
+            "key": "2023082109031332500_B87",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1016/j.jfineco.2021.10.006",
+            "article-title": "Market efficiency in the age of big data",
+            "volume": "145",
+            "author": "Martin,",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B88",
+            "author": "Moritz,"
+        },
+        {
+            "key": "2023082109031332500_B89",
+            "doi-asserted-by": "crossref",
+            "first-page": "4973",
+            "DOI": "10.1093/rfs/hhaa010",
+            "article-title": "Options trading costs are lower than you think",
+            "volume": "33",
+            "author": "Muravyev,",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B90",
+            "doi-asserted-by": "crossref",
+            "article-title": "Charting by machines",
+            "author": "Murray,",
+            "year": "2021",
+            "DOI": "10.2139/ssrn.3853436"
+        },
+        {
+            "key": "2023082109031332500_B91",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1016/j.jfineco.2004.08.008",
+            "article-title": "Short sales, institutional investors and the cross-section of stock returns",
+            "volume": "78",
+            "author": "Nagel,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B92",
+            "volume-title": "Machine learning in asset pricing",
+            "author": "Nagel,",
+            "year": "2021",
+            "edition": "1st ed"
+        },
+        {
+            "key": "2023082109031332500_B93",
+            "article-title": "Option characteristics as cross-sectional predictors",
+            "author": "Neuhierl,",
+            "year": "2021"
+        },
+        {
+            "key": "2023082109031332500_B94",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+            "volume": "55",
+            "author": "Newey,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023082109031332500_B95",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1016/j.jfineco.2003.05.008",
+            "article-title": "Limited arbitrage and short sales restrictions: Evidence from the options markets",
+            "volume": "74",
+            "author": "Ofek,",
+            "year": "2004",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B96",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/374184",
+            "article-title": "Liquidity risk and expected stock returns",
+            "volume": "111",
+            "author": "P\u00e1stor,",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023082109031332500_B97",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1016/j.jacceco.2006.04.002",
+            "article-title": "Costly arbitrage and the myth of idiosyncratic risk",
+            "volume": "42",
+            "author": "Pontiff,",
+            "year": "2006",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2023082109031332500_B98",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.2307/1911160",
+            "article-title": "Proper risk aversion",
+            "volume": "55",
+            "author": "Pratt,",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023082109031332500_B99",
+            "article-title": "Comparing forecasting performance with panel data",
+            "author": "Qu,",
+            "year": "2022"
+        },
+        {
+            "key": "2023082109031332500_B100",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1016/j.jfineco.2021.03.006",
+            "article-title": "Mispricing, short-sale constraints, and the cross-section of option returns",
+            "volume": "141",
+            "author": "Ramachandran,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B101",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.1093/rfs/hhp063",
+            "article-title": "Out-of-sample equity premium prediction: Combination forecasts and links to the real economy",
+            "volume": "23",
+            "author": "Rapach,",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B102",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.1111/jofi.12041",
+            "article-title": "International stock return predictability: What is the role of the United States?",
+            "volume": "68",
+            "author": "Rapach,",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B103",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2009.11.004",
+            "article-title": "O/S: The relative trading activity in options and stock",
+            "volume": "96",
+            "author": "Roll,",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023082109031332500_B104",
+            "doi-asserted-by": "crossref",
+            "first-page": "611",
+            "DOI": "10.1016/j.jedc.2012.10.001",
+            "article-title": "Option pricing where the underlying assets follow a Gram/Charlier density of arbitrary order",
+            "volume": "37",
+            "author": "Schl\u00f6gl,",
+            "year": "2013",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2023082109031332500_B105",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1111/j.1540-6261.1997.tb03807.x",
+            "article-title": "The limits of arbitrage",
+            "volume": "52",
+            "author": "Shleifer,",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B106",
+            "doi-asserted-by": "crossref",
+            "first-page": "644",
+            "DOI": "10.1257/jel.20191385",
+            "article-title": "Model averaging and its use in economics",
+            "volume": "58",
+            "author": "Steel,",
+            "year": "2020",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023082109031332500_B107",
+            "article-title": "Limits of arbitrage and primary risk taking in derivative securities",
+            "author": "Tian,",
+            "year": "",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2023082109031332500_B108",
+            "first-page": "267",
+            "article-title": "Regression shrinkage and selection via the lasso",
+            "volume": "58",
+            "author": "Tibshirani,",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "key": "2023082109031332500_B109",
+            "doi-asserted-by": "crossref",
+            "first-page": "2727",
+            "DOI": "10.1017/S002210901700076X",
+            "article-title": "Equity volatility term structures and the cross section of option returns",
+            "volume": "52",
+            "author": "Vasquez,",
+            "year": "2017",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023082109031332500_B110",
+            "article-title": "Default risk and option returns",
+            "author": "Vasquez,",
+            "year": "2021"
+        },
+        {
+            "key": "2023082109031332500_B111",
+            "doi-asserted-by": "crossref",
+            "article-title": "Option-implied information and predictability of extreme returns",
+            "author": "Vilkov,",
+            "year": "2012",
+            "DOI": "10.2139/ssrn.2147437"
+        },
+        {
+            "key": "2023082109031332500_B112",
+            "first-page": "489",
+            "article-title": "Dart: Dropouts meet multiple additive regression trees",
+            "volume": "38",
+            "author": "Vinayak,",
+            "year": "2015",
+            "journal-title": "Proceedings of Machine Learning Research"
+        },
+        {
+            "key": "2023082109031332500_B113",
+            "doi-asserted-by": "crossref",
+            "first-page": "4577",
+            "DOI": "10.1287/mnsc.2020.3696",
+            "article-title": "A cross-sectional machine learning approach for hedge fund return prediction and selection",
+            "volume": "67",
+            "author": "Wu,",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2023082109031332500_B114",
+            "doi-asserted-by": "crossref",
+            "first-page": "641",
+            "DOI": "10.1017/S0022109010000220",
+            "article-title": "What does the individual option volatility smirk tell us about future equity returns?",
+            "volume": "45",
+            "author": "Xing,",
+            "year": "2010",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023082109031332500_B115",
+            "doi-asserted-by": "crossref",
+            "first-page": "1394",
+            "DOI": "10.1093/rfs/hhab067",
+            "article-title": "Option return predictability",
+            "volume": "35",
+            "author": "Zhan,",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023082109031332500_B116",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1111/j.1540-6261.2006.00831.x",
+            "article-title": "Information uncertainty and stock returns",
+            "volume": "61",
+            "author": "Zhang,",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023082109031332500_B117",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1111/j.1467-9868.2005.00503.x",
+            "article-title": "Regularization and variable selection via the elastic net",
+            "volume": "67",
+            "author": "Zou,",
+            "year": "2005",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhad017/49504436/hhad017.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/9/3548/51142028/hhad017.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/9/3548/51142028/hhad017.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                8,
+                21
+            ]
+        ],
+        "date-time": "2023-08-21T09:08:01Z",
+        "timestamp": 1692608881000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/36/9/3548/7056660"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Stefano",
+            "family": "Giglio",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                2,
+                24
+            ]
+        ]
+    },
+    "references-count": 117,
+    "journal-issue": {
+        "issue": "9",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    2,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    8,
+                    21
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhad017",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                2,
+                24
+            ]
+        ]
+    }
+}

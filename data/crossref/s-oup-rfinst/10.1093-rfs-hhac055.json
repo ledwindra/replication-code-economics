@@ -1,0 +1,676 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                20
+            ]
+        ],
+        "date-time": "2024-09-20T16:55:54Z",
+        "timestamp": 1726851354820
+    },
+    "reference-count": 47,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        13
+                    ]
+                ],
+                "date-time": "2022-08-13T00:00:00Z",
+                "timestamp": 1660348800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                2,
+                21
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Benchmarking incentivizes fund managers to invest a fraction of their funds\u2019 assets in their benchmark indexes, and such demand is inelastic. We construct a measure of inelastic demand a stock attracts, benchmarking intensity (BMI), computed as its cumulative weight in all benchmarks, weighted by assets following each benchmark. Exploiting the Russell 1000/2000 cutoff, we show that changes in stocks\u2019 BMIs instrument for changes in ownership of benchmarked investors. The resultant demand elasticities are low. We document that both active and passive fund managers buy additions to their benchmarks and sell deletions. Finally, an increase in BMI lowers future stock returns.</jats:p><jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online.</jats:p>",
+    "DOI": "10.1093/rfs/hhac055",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                13
+            ]
+        ],
+        "date-time": "2022-08-13T18:08:10Z",
+        "timestamp": 1660414090000
+    },
+    "page": "859-903",
+    "source": "Crossref",
+    "is-referenced-by-count": 57,
+    "title": [
+        "Benchmarking Intensity"
+    ],
+    "prefix": "10.1093",
+    "volume": "36",
+    "author": [
+        {
+            "given": "Anna",
+            "family": "Pavlova",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "London Business School and CEPR , UK"
+                }
+            ]
+        },
+        {
+            "given": "Taisiya",
+            "family": "Sikorskaya",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "London Business School , UK"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                13
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/S1386-4181(01)00024-6",
+            "article-title": "Illiquidity and stock returns: Cross-section and time-series effects",
+            "volume": "5",
+            "author": "Amihud,",
+            "year": "2002",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1016/j.jfineco.2016.03.003",
+            "article-title": "Passive investors, not passive owners",
+            "volume": "121",
+            "author": "Appel,",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "2720",
+            "DOI": "10.1093/rfs/hhy106",
+            "article-title": "Standing on the shoulders of giants: The effect of passive investors on activism",
+            "volume": "32",
+            "author": "Appel,",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Identification using Russell 1000/2000 index assignments: A discussion of methodologies",
+            "author": "Appel,",
+            "year": "",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1016/S0304-405X(03)00064-3",
+            "article-title": "Style investing",
+            "volume": "68",
+            "author": "Barberis,",
+            "year": "2003",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1728",
+            "DOI": "10.1257/aer.103.5.1728",
+            "article-title": "Asset prices and institutional investors",
+            "volume": "103",
+            "author": "Basak,",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "2471",
+            "DOI": "10.1111/jofi.12727",
+            "article-title": "Do ETFs increase volatility?",
+            "volume": "73",
+            "author": "Ben-David,",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "A note to \u201cDo ETFs increase volatility?\u201d : An improved method to predict assignment of stocks into russell indexes",
+            "author": "Ben-David,",
+            "year": "2019",
+            "journal-title": "Journal of Finance Replications and Corrigenda"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1849",
+            "DOI": "10.1111/j.1540-6261.2008.01376.x",
+            "article-title": "Optimal decentralized investment management",
+            "volume": "63",
+            "author": "van Binsbergen,",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Agency and asset pricing",
+            "author": "Brennan,",
+            "year": "1993"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Institutional investors, heterogeneous benchmarks and the comovement of asset prices",
+            "author": "Buffa,",
+            "year": "2018",
+            "DOI": "10.2139/ssrn.3255217"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Asset management contracts and equilibrium prices",
+            "author": "Buffa,",
+            "year": "",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "DOI": "10.1093/rfs/hhu041",
+            "article-title": "Regression discontinuity and the price effects of stock market indexing",
+            "volume": "28",
+            "author": "Chang,",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Index changes and unexpected losses to investors in S&P 500 and Russell 2000 index funds",
+            "author": "Chen,",
+            "year": "2005",
+            "DOI": "10.2139/ssrn.651950"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1377",
+            "DOI": "10.1093/rfs/hhw012",
+            "article-title": "The effect of institutional ownership on payout policy: Evidence from index thresholds",
+            "volume": "29",
+            "author": "Crane,",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "3329",
+            "DOI": "10.1093/rfs/hhp057",
+            "article-title": "How active is your fund manager? a new measure that predicts performance",
+            "volume": "22",
+            "author": "Cremers,",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "264",
+            "DOI": "10.1016/j.jfineco.2011.02.012",
+            "article-title": "Equilibrium prices in the presence of delegated portfolio management",
+            "volume": "101",
+            "author": "Cuoco,",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "793",
+            "DOI": "10.1111/j.1540-6261.1985.tb05004.x",
+            "article-title": "Does the stock market overreact?",
+            "volume": "40",
+            "author": "De Bondt,",
+            "year": "1985",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1540-6261.2010.01569.x",
+            "article-title": "Presidential address: Asset price dynamics with slow-moving capital",
+            "volume": "65",
+            "author": "Duffie,",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Peer versus pure benchmarks in the compensation of mutual fund managers",
+            "author": "Evans,",
+            "year": "2020"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "In search of the origins of financial fluctuations: The inelastic markets hypothesis",
+            "author": "Gabaix,",
+            "year": "2020",
+            "DOI": "10.2139/ssrn.3686935"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "End of era: Passive equity funds surpass active in epic shift",
+            "author": "Gittelsohn,",
+            "year": "2019",
+            "journal-title": "Bloomberg, September 11."
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "The effects of institutional investors on firm outcomes: Empirical pitfalls of quasi-experiments using Russell 1000/2000 index reconstitutions",
+            "author": "Glossner,",
+            "year": "",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1162/003355301556392",
+            "article-title": "Institutional investors and equity prices",
+            "volume": "116",
+            "author": "Gompers,",
+            "year": "2001",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1016/j.jfineco.2004.03.007",
+            "article-title": "Short- and long-term demand curves for stocks: theory and evidence on the dynamics of arbitrage",
+            "volume": "75",
+            "author": "Greenwood,",
+            "year": "2005",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Limits of arbitrage: The state of the theory",
+            "author": "Gromb,",
+            "year": "2010",
+            "DOI": "10.3386/w15821"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "617",
+            "DOI": "10.1111/j.1540-6261.1988.tb04594.x",
+            "article-title": "Liquidity and market structure",
+            "volume": "43",
+            "author": "Grossman,",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Do emerging markets benefit from index inclusion?",
+            "author": "Hacibedel,",
+            "year": "2007",
+            "journal-title": "Money Macro and Finance (MMF) Research Group Conference 2006 128 Money Macro and Finance Research Group"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/j.1540-6261.1986.tb04550.x",
+            "article-title": "Price and volume effects associated with changes in the S&P 500 list: New evidence for the existence of price pressures",
+            "volume": "41",
+            "author": "Harris,",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.1016/j.jfineco.2012.08.010",
+            "article-title": "Delegated asset management, investment mandates, and capital immobility",
+            "volume": "107",
+            "author": "He,",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1093/rfs/hhab023",
+            "article-title": "Do index funds monitor?",
+            "volume": "35",
+            "author": "Heath,",
+            "year": "2021",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1093/rfs/hhx105",
+            "article-title": "Are mutual fund managers paid for investment skill?",
+            "volume": "31",
+            "author": "Ibert,",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Is there too much benchmarking in asset management?",
+            "author": "Kashyap,",
+            "year": "2020",
+            "DOI": "10.3386/w28020"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "756",
+            "DOI": "10.1016/j.jfineco.2021.04.021",
+            "article-title": "The benchmark inclusion subsidy",
+            "volume": "142",
+            "author": "Kashyap,",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Which investors matter for equity valuations and expected returns?",
+            "author": "Koijen,",
+            "year": "2021"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.1086/701683",
+            "article-title": "A demand system approach to asset pricing",
+            "volume": "127",
+            "author": "Koijen,",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.1111/jofi.12749",
+            "article-title": "Portfolio manager compensation in the U.S. mutual fund industry",
+            "volume": "74",
+            "author": "Ma,",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/374184",
+            "article-title": "Liquidity risk and expected stock returns",
+            "volume": "111",
+            "author": "Pastor,",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.1017/S0022109009990317",
+            "article-title": "Why do demand curves for stocks slope down?",
+            "volume": "44",
+            "author": "Petajisto,",
+            "year": "2009",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2023022117304127100_",
+            "first-page": "3",
+            "article-title": "The long-run performance of initial public offerings",
+            "volume": "46",
+            "author": "Ritter,",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1016/j.jfineco.2017.01.005",
+            "article-title": "Do exogenous changes in passive institutional ownership affect corporate governance and firm value?",
+            "volume": "124",
+            "author": "Schmidt,",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "579",
+            "DOI": "10.1111/j.1540-6261.1986.tb04518.x",
+            "article-title": "Do demand curves for stocks slope down?",
+            "volume": "41",
+            "author": "Shleifer,",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "1415",
+            "DOI": "10.1111/jofi.12174",
+            "article-title": "Presidential address: Investment noise and trends",
+            "volume": "69",
+            "author": "Stambaugh,",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "article-title": "Testing for weak instruments in linear IV regression",
+            "author": "Stock,",
+            "year": "2002",
+            "DOI": "10.3386/t0284"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/ECTA17440",
+            "article-title": "A preferred-habitat model of the term structure of interest rates",
+            "volume": "89",
+            "author": "Vayanos,",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023022117304127100_",
+            "article-title": "Selection bias or treatment effect? A re-examination of Russell 1000/2000 index reconstitution",
+            "author": "Wei,",
+            "year": "",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2023022117304127100_",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1086/341636",
+            "article-title": "Does arbitrage flatten demand curves for stocks?",
+            "volume": "75",
+            "author": "Wurgler,",
+            "year": "2002",
+            "journal-title": "Journal of Business"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhac055/45688726/hhac055.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/3/859/49288477/hhac055.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/3/859/49288477/hhac055.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                11,
+                25
+            ]
+        ],
+        "date-time": "2023-11-25T19:27:16Z",
+        "timestamp": 1700940436000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/36/3/859/6665907"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                13
+            ]
+        ]
+    },
+    "references-count": 47,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022,
+                    8,
+                    13
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    2,
+                    21
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhac055",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                3,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                8,
+                13
+            ]
+        ]
+    }
+}

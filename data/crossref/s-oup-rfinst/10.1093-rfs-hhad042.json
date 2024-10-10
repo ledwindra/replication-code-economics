@@ -1,0 +1,710 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                23
+            ]
+        ],
+        "date-time": "2024-09-23T04:31:13Z",
+        "timestamp": 1727065873470
+    },
+    "reference-count": 49,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "12",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        15
+                    ]
+                ],
+                "date-time": "2023-05-15T00:00:00Z",
+                "timestamp": 1684108800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2023,
+                11,
+                20
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We estimate a narrative factor pricing model from news text of The Wall Street Journal. Our empirical method integrates topic modeling (LDA), latent factor analysis (IPCA), and variable selection (group lasso). Narrative factors achieve higher out-of-sample Sharpe ratios and smaller pricing errors than standard characteristic-based factor models and predict future investment opportunities in a manner consistent with the ICAPM. We derive an interpretation of the estimated risk factors from narratives in the underlying article text.</jats:p>\n               <jats:p>Authors have furnished an Internet Appendix, which is available on the Oxford University Press Web site next to the link to the final published paper online</jats:p>",
+    "DOI": "10.1093/rfs/hhad042",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                15
+            ]
+        ],
+        "date-time": "2023-05-15T16:06:11Z",
+        "timestamp": 1684166771000
+    },
+    "page": "4759-4787",
+    "source": "Crossref",
+    "is-referenced-by-count": 18,
+    "title": [
+        "Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text"
+    ],
+    "prefix": "10.1093",
+    "volume": "36",
+    "author": [
+        {
+            "given": "Leland",
+            "family": "Bybee",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale University , USA"
+                }
+            ]
+        },
+        {
+            "given": "Bryan",
+            "family": "Kelly",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yale University, AQR Capital Management, and NBER , USA"
+                }
+            ]
+        },
+        {
+            "given": "Yinan",
+            "family": "Su",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Johns Hopkins University , USA"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                15
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2023112009425919500_hhad042-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1593",
+            "DOI": "10.1093/qje/qjw024",
+            "article-title": "Measuring economic policy uncertainty",
+            "volume": "131",
+            "author": "Baker",
+            "year": "2016",
+            "journal-title": "Q. J. Econ"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "377",
+            "DOI": "10.1016/j.jmoneco.2010.03.002",
+            "article-title": "The intertemporal capital asset pricing model with dynamic conditional correlations",
+            "volume": "57",
+            "author": "Bali",
+            "year": "2010",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1111/j.1540-6261.2004.00670.x",
+            "article-title": "Risks for the long run: A potential resolution of asset pricing puzzles",
+            "volume": "59",
+            "author": "Bansal",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B4",
+            "first-page": "993",
+            "article-title": "Latent dirichlet allocation",
+            "volume": "3",
+            "author": "Blei",
+            "year": "2003",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B5",
+            "author": "Bryzgalova",
+            "year": "2015"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B6",
+            "author": "Bybee",
+            "year": "2021"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.1086/296344",
+            "article-title": "Economic forces and the stock market",
+            "volume": "59",
+            "author": "Chen",
+            "year": "1986",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "572",
+            "DOI": "10.1086/262034",
+            "article-title": "A cross-sectional test of an investment-based asset pricing model",
+            "volume": "104",
+            "author": "Cochrane",
+            "year": "1996",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B9",
+            "volume-title": "revised edition",
+            "author": "Cochrane",
+            "year": "2009"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B10",
+            "author": "Cong",
+            "year": "2019"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1184",
+            "DOI": "10.1093/rfs/hhz072",
+            "article-title": "Hedging climate change news",
+            "volume": "33",
+            "author": "Engle",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1111/j.1540-6261.1996.tb05202.x",
+            "article-title": "Multifactor explanations of asset pricing anomalies",
+            "volume": "51",
+            "author": "Fama",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1093/rfs/hhv043",
+            "article-title": "Dissecting anomalies with a five-factor model",
+            "volume": "29",
+            "author": "Fama",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2326",
+            "DOI": "10.1093/rfs/hhz123",
+            "article-title": "Dissecting characteristics nonparametrically",
+            "volume": "33",
+            "author": "Freyberger",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1267",
+            "DOI": "10.1111/jofi.12027",
+            "article-title": "Sentiment during recessions",
+            "volume": "68",
+            "author": "Garc\u00eda",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1257/jel.20181020",
+            "article-title": "Text as data",
+            "volume": "57",
+            "author": "Gentzkow",
+            "year": "2019",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.3982/ECTA7195",
+            "article-title": "What drives media slant? Evidence from US daily newspapers",
+            "volume": "78",
+            "author": "Gentzkow",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1947",
+            "DOI": "10.1086/714090",
+            "article-title": "Asset pricing with omitted factors",
+            "volume": "129",
+            "author": "Giglio",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B22",
+            "first-page": "3",
+            "article-title": "The conditional CAPM and the cross-section of expected returns",
+            "volume": "51",
+            "author": "Jagannathan",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2021.08.002",
+            "article-title": "News as sources of jumps in stock returns: Evidence from 21 million news articles for 9000 companies",
+            "volume": "145",
+            "author": "Jeon",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B24",
+            "author": "Julliard",
+            "year": "2007"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B25",
+            "author": "Ke",
+            "year": "2020"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "859",
+            "DOI": "10.1080/07350015.2021.1947843",
+            "article-title": "Text selection",
+            "volume": "39",
+            "author": "Kelly",
+            "year": "2021",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B27",
+            "author": "Kelly",
+            "year": "2017"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "volume": "134",
+            "author": "Kelly",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "2274",
+            "DOI": "10.1093/rfs/hhaa020",
+            "article-title": "Factors that fit the time series and cross-section of stock returns",
+            "volume": "33",
+            "author": "Lettau",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B30",
+            "author": "Liu",
+            "year": "2021"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1587",
+            "DOI": "10.1111/jofi.13126",
+            "article-title": "Long run risk: Is it there?",
+            "volume": "77",
+            "author": "Liu",
+            "year": "2022",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B32",
+            "author": "Lopez-Lira",
+            "year": "2020"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1111/1475-679X.12123",
+            "article-title": "Textual analysis in accounting and finance: A survey",
+            "volume": "54",
+            "author": "Loughran",
+            "year": "2016",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "586",
+            "DOI": "10.1016/j.jfineco.2012.07.001",
+            "article-title": "Multifactor models and their consistency with the ICAPM",
+            "volume": "106",
+            "author": "Maio",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1016/j.jfineco.2016.01.032",
+            "article-title": "News implied volatility and disaster concerns",
+            "volume": "123",
+            "author": "Manela",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "574",
+            "DOI": "10.1080/07350015.2015.1086655",
+            "article-title": "Fred-Md: A monthly database for macroeconomic research",
+            "volume": "34",
+            "author": "McCracken",
+            "year": "2016",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.2307/1913811",
+            "article-title": "An intertemporal capital asset pricing model",
+            "volume": "41",
+            "author": "Merton",
+            "year": "1973",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1031",
+            "DOI": "10.1257/0002828054825619",
+            "article-title": "The market for news",
+            "volume": "95",
+            "author": "Mullainathan",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1642",
+            "DOI": "10.1080/07350015.2021.1961786",
+            "article-title": "Interpretable sparse proximate factors for large dimensions",
+            "volume": "40",
+            "author": "Pelger",
+            "year": "2021",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1016/0304-405X(77)90009-5",
+            "article-title": "A critique of the asset pricing theory\u2019s tests part i: On past and potential testability of the theory",
+            "volume": "4",
+            "author": "Roll",
+            "year": "1977",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1428",
+            "DOI": "10.1093/rfs/hhv015",
+            "article-title": "Modeling covariance risk in Merton\u2019s ICAPM",
+            "volume": "28",
+            "author": "Rossi",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B42",
+            "first-page": "424",
+            "article-title": "Probabilistic topic models",
+            "volume": "427",
+            "author": "Steyvers",
+            "year": "2007",
+            "journal-title": "Handbook of Latent Semantic Analysis"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1257/jep.15.4.101",
+            "article-title": "Vector autoregressions",
+            "volume": "15",
+            "author": "Stock",
+            "year": "2001",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.1111/j.1540-6261.2007.01232.x",
+            "article-title": "Giving content to investor sentiment: The role of media in the stock market",
+            "volume": "62",
+            "author": "Tetlock",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1093/rfs/hhq141",
+            "article-title": "All the news that\u2019s fit to reprint: Do investors react to stale information?",
+            "volume": "24",
+            "author": "Tetlock",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B46",
+            "first-page": "267",
+            "article-title": "Regression shrinkage and selection via the lasso",
+            "volume": "58",
+            "author": "Tibshirani",
+            "year": "1996",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1129",
+            "DOI": "10.1007/s11222-014-9498-5",
+            "article-title": "A fast unified algorithm for solving group-lasso penalize learning problems",
+            "volume": "25",
+            "author": "Yang",
+            "year": "2015",
+            "journal-title": "Statistics and Computing"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1111/j.1467-9868.2005.00532.x",
+            "article-title": "Model selection and estimation in regression with grouped variables",
+            "volume": "68",
+            "author": "Yuan",
+            "year": "2006",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2023112009425919500_hhad042-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1198/106186006X113430",
+            "article-title": "Sparse principal component analysis",
+            "volume": "15",
+            "author": "Zou",
+            "year": "2012",
+            "journal-title": "Journal of Computational and Graphical Statistics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhad042/50454220/hhad042.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/12/4759/53522792/hhad042.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/36/12/4759/53522792/hhad042.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2023,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2023-11-20T09:43:48Z",
+        "timestamp": 1700473428000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/36/12/4759/7162712"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Tarun",
+            "family": "Ramadorai",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                15
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "12",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    5,
+                    15
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2023,
+                    11,
+                    20
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhad042",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                5,
+                15
+            ]
+        ]
+    }
+}
