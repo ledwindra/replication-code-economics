@@ -1,0 +1,663 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                31
+            ]
+        ],
+        "date-time": "2024-10-31T04:27:50Z",
+        "timestamp": 1730348870886,
+        "version": "3.28.0"
+    },
+    "reference-count": 98,
+    "publisher": "American Economic Association",
+    "issue": "11",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> This study examines the link between credit supply and hospital health outcomes. We use bank stress tests as exogenous shocks to credit access for hospitals that have lending relationships with tested banks. We find that affected hospitals shift their operations to increase resource utilization following a negative credit shock but reduce the quality of their care to patients across a variety of measures, including a significant increase in risk-adjusted readmission and mortality rates. The results indicate that access to credit can affect the quality of health care hospitals deliver, pointing to important spillover effects of credit market frictions on health outcomes. (JEL G21, G32, I11, I18) </jats:p>",
+    "DOI": "10.1257/aer.20221705",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                30
+            ]
+        ],
+        "date-time": "2024-10-30T13:42:47Z",
+        "timestamp": 1730295767000
+    },
+    "page": "3623-3668",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Merchants of Death: The Effect of Credit Supply Shocks on Hospital Outcomes"
+    ],
+    "prefix": "10.1257",
+    "volume": "114",
+    "author": [
+        {
+            "given": "Cyrus",
+            "family": "Aghamolla",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Rice University (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Pinar",
+            "family": "Karaca-Mandic",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Minnesota and NBER (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Xuelin",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia University (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Richard T.",
+            "family": "Thakor",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Minnesota and MIT LFE (email: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20140260"
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfi.2018.01.004"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1287/mnsc.2020.3944"
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/jofi.12234"
+        },
+        {
+            "key": "p_5",
+            "unstructured": "Aghamolla, Cyrus, Pinar Karaca-Mandic, Xuelin Li, and Richard T. Thakor. 2024 Data and Code for: \"Merchants of Death: The Effect of Credit Supply Shocks on Hospital Outcomes.\" Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research, Ann Arbor, MI. https://doi.org/10.3886/E198402 V1."
+        },
+        {
+            "key": "p_6",
+            "unstructured": "AHA. 2010-2016. Annual Survey of Hospitals (AHA). American Hospital Association (AHA). https:// www.nber.org/research/annual-survey-hospitals."
+        },
+        {
+            "key": "p_7",
+            "unstructured": "AHRQ. 2010-2017. Healthcare Cost and Utilization Project (HCUP) State Inpatient Databases (SID). Agency for Healthcare Research and Quality. https://hcup-us.ahrq.gov/sidoverview.jsp."
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1377/hlthaff.2019.01545"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.2009.01492.x"
+        },
+        {
+            "key": "p_10",
+            "unstructured": "Baumgaertner, Emily. 2022. \"As Hospitals Close Children's Units, Where Does That Leave Lachlan?\" New York Times, October 11. https://www.nytimes.com/2022/10/11/health/pediatric-closureshospitals.html."
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJMsa1901383"
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jep.9.4.27"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2005.08.003"
+        },
+        {
+            "key": "p_14",
+            "unstructured": "Board of Governors of the Federal Reserve System 2020. \"Dodd-Frank Act Stress Test 2020: Supervisory Stress Test Results.\" Federal Reserve Board. https://www.federalreserve.gov/publications/ june-2020-supervisory-scenarios.htm."
+        },
+        {
+            "key": "p_15",
+            "unstructured": "Board of Governors of the Federal Reserve System. 2021. \"Dodd-Frank Act Stress Test 2021: Supervisory Stress Test Results.\" Federal Reserve Board. https://www.federalreserve.gov/publications/ files/2021-dfast-results-20210624.pdf."
+        },
+        {
+            "key": "p_16",
+            "unstructured": "Board of Governors of the Federal Reserve System. 2022. \"Stress Test Results, 2013-2021.\" Federal Reserve Board. https://www.federalreserve.gov/supervisionreg/dfa-stress-tests.htm."
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1006/jfin.2000.0282"
+        },
+        {
+            "key": "p_18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/0022-1082.00223"
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfi.2018.03.002"
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.12.001"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2010.02.009"
+        },
+        {
+            "key": "p_22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/13.1.155"
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhealeco.2009.10.006"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20151080"
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjz040"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chandra, Amitabh, David Cutler, and Zirui Song. 2011. \"Who Ordered That? The Economics of Treatment Choices in Medical Care.\" In Handbook of Health Economics, Vol. 2, edited by Mark V. Pauly, Thomas G. Mcguire, and Pedro P. Barros, 397-432. Amsterdam: Elsevier.",
+            "DOI": "10.1016/B978-0-444-53592-4.00006-2"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.2008.01391.x"
+        },
+        {
+            "key": "p_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.104.4.1320"
+        },
+        {
+            "key": "p_29",
+            "unstructured": "CMS. 2010-2016a. CMS Casemix File Hospital IPPS. Centers for Medicare and Medicaid Services (CMS). https://www.nber.org/research/data/centers-medicare-medicaid-services-cms-casemixfile-hospital-ipps."
+        },
+        {
+            "key": "p_30",
+            "unstructured": "CMS. 2010-2016b. CMS Hospital Compare Data. Centers for Medicare and Medicaid Services (CMS). https://www.nber.org/research/data/centers-medicare-medicaid-services-cms-hospital-compare-data."
+        },
+        {
+            "key": "p_31",
+            "unstructured": "CMS. 2010-2016c. Hospital Cost Reports - HCRIS HOSP. Centers for Medicare and Medicaid Services (CMS). https://www.nber.org/research/data/hcris-hosp."
+        },
+        {
+            "key": "p_32",
+            "unstructured": "CMS. 2010-2016d. MS-DRG Classifications and Software. Centers for Medicare & Medicaid Services. https://www.cms.gov/medicare/payment/prospective-payment-systems/acute-inpatient-pps/ ms-drg-classifications-and-software."
+        },
+        {
+            "key": "p_33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjy020"
+        },
+        {
+            "key": "p_34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2019.08.008"
+        },
+        {
+            "key": "p_35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/tpe.12.20061853"
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.2005.00729.x"
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.2008.01392.x"
+        },
+        {
+            "key": "p_38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0167-6296(88)90004-5"
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1756-2171.12184"
+        },
+        {
+            "key": "p_40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhn067"
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2009.12.008"
+        },
+        {
+            "key": "p_42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/003355300555097"
+        },
+        {
+            "key": "p_43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfi.2018.01.003"
+        },
+        {
+            "key": "p_44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA15022"
+        },
+        {
+            "key": "p_45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/rest_a_01092"
+        },
+        {
+            "key": "p_46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconbus.2004.03.003"
+        },
+        {
+            "issue": "199",
+            "key": "p_47",
+            "first-page": "62417",
+            "volume": "77",
+            "author": "Federal Register",
+            "year": "2012",
+            "journal-title": "Federal Register"
+        },
+        {
+            "key": "p_48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.7326/0003-4819-138-4-200302180-00006"
+        },
+        {
+            "key": "p_49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0009.2011.00621.x"
+        },
+        {
+            "key": "p_50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhm045"
+        },
+        {
+            "key": "p_51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2018.10.009"
+        },
+        {
+            "key": "p_52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2021.09.003"
+        },
+        {
+            "key": "p_53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.53.2.235"
+        },
+        {
+            "key": "p_54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/704756"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhy052"
+        },
+        {
+            "key": "p_56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20171825"
+        },
+        {
+            "key": "p_57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhad082"
+        },
+        {
+            "key": "p_58",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhw069"
+        },
+        {
+            "key": "p_59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfi.2010.07.001"
+        },
+        {
+            "key": "p_60",
+            "unstructured": "IQVIA. n.d. \"The OneKey Solution.\" IQVIA, https://www.onekeydata.com/onekey/overview (accessed July 2019)."
+        },
+        {
+            "key": "p_61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2008.06.003"
+        },
+        {
+            "key": "p_62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJMsa0803563"
+        },
+        {
+            "key": "p_63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(03)12113-7"
+        },
+        {
+            "key": "p_64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA11182"
+        },
+        {
+            "key": "p_65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0167-6296(00)00076-X"
+        },
+        {
+            "key": "p_66",
+            "unstructured": "Laughlin, Lynda, Augustus Anderson, Anthony Martinez, and Asiah Gayfield. 2021. \"Who Are Our Health Care Workers?\" United States Census Bureau, April 5. https://www.census.gov/library/stories/2021/04/who-are-our-health-care-workers.html."
+        },
+        {
+            "key": "p_67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0022109010000256"
+        },
+        {
+            "key": "p_68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/467338"
+        },
+        {
+            "key": "p_69",
+            "unstructured": "Medicaid and CHIP Payment and Access Commission. 2021. Report to Congress on Medicaid and CHIP. Washington, DC: Medicaid and CHIP Payment and Access Commission."
+        },
+        {
+            "key": "p_70",
+            "unstructured": "MedPAC. 2007. Report to the Congress: Promoting Greater Efficiency in Medicare. Washington, DC: Medicare Payment Advisory Commission."
+        },
+        {
+            "key": "p_71",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhealeco.2006.10.002"
+        },
+        {
+            "key": "p_72",
+            "unstructured": "Mergent Inc. n.d. \"Mergent Fixed Income Securities Database.\" Wharton Research Data Services, https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/vendor-partner-mergent-inc (accessed September 2020)."
+        },
+        {
+            "issue": "4",
+            "key": "p_73",
+            "first-page": "995",
+            "volume": "16",
+            "author": "Nakamura Sayaka",
+            "year": "2007",
+            "journal-title": "Journal of Economics and Management Strategy"
+        },
+        {
+            "key": "p_74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0304-405X(99)00003-3"
+        },
+        {
+            "key": "p_75",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ostromogolsky, Philip. 2016. \"Lender-Borrower Relationships and Loan Origination Costs.\" Unpublished.",
+            "DOI": "10.2139/ssrn.2886457"
+        },
+        {
+            "key": "p_76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.1994.tb04418.x"
+        },
+        {
+            "key": "p_77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2118445"
+        },
+        {
+            "key": "p_78",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJM199209033271001"
+        },
+        {
+            "key": "p_79",
+            "unstructured": "Pomorski, Chris. 2021. \"Death of Hahnemann Hospital.\" New Yorker, May 31. https://www.newyorker. com/magazine/2021/06/07/the-death-of-hahnemann-hospital."
+        },
+        {
+            "key": "p_80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.1992.tb04662.x"
+        },
+        {
+            "key": "p_81",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdad018"
+        },
+        {
+            "key": "p_82",
+            "unstructured": "Refinitiv. n.d. WRDS-Reuters DealScan. Wharton Research Data Services, https://wrds-www. wharton.upenn.edu/pages/support/manuals-and-overviews/thomson-reuters/wrds-reuters-dealscan (accessed July 2020)."
+        },
+        {
+            "key": "p_83",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0899823X00194073"
+        },
+        {
+            "key": "p_84",
+            "unstructured": "Sacarny, Adam. n.d.a. CMS Hospital Compare Data 2004-2016. https://github.com/asacarny/hospitalcompare (accessed July 2020)."
+        },
+        {
+            "key": "p_85",
+            "unstructured": "Sacarny, Adam. n.d.b. CMS Hospital Cost Report (HCRIS) Data 1996-2022. https://github.com/ asacarny/hospital-cost-reports (accessed July 2020)."
+        },
+        {
+            "key": "p_86",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJM199610033351401"
+        },
+        {
+            "issue": "8934",
+            "key": "p_87",
+            "first-page": "1383",
+            "volume": "344",
+            "author": "Scandinavian Simvastatin Survival Study Group",
+            "year": "1994",
+            "journal-title": "Lancet"
+        },
+        {
+            "key": "p_88",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/eurheartj/ehy004"
+        },
+        {
+            "key": "p_89",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdaa054"
+        },
+        {
+            "key": "p_90",
+            "unstructured": "Silver-Greenberg, Jessica, and Katie Thomas. 2022. \"They Were Entitled to Free Care. Hospitals Hounded Them to Pay.\" New York Times, September 24. https://www.nytimes.com/2022/09/24/ business/nonprofit-hospitals-poor-patients.html."
+        },
+        {
+            "key": "p_91",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhealeco.2003.09.007"
+        },
+        {
+            "key": "p_92",
+            "unstructured": "Standard and Poor's. n.d. S&P Compustat-Capital IQ. Wharton Research Data Services. https:// wrds-www.wharton.upenn.edu/pages/about/data-vendors/sp-global-market-intelligence (accessed November 2021)."
+        },
+        {
+            "key": "p_93",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Strahan, Philip E. 1999. \"Borrower Risk and the Price and Nonprice Terms of Bank Loans.\" Unpublished.",
+            "DOI": "10.2139/ssrn.192769"
+        },
+        {
+            "key": "p_94",
+            "unstructured": "US Department of Justice. 2016. \"Hospital Chain Will Pay over $513 Million for Defrauding the United States and Making Illegal Payments in Exchange for Patient Referrals; Two Subsidiaries Agree to Plead Guilty.\" Washington, DC: US Department of Justice."
+        },
+        {
+            "key": "p_95",
+            "unstructured": "US Department of Justice. 2018. \"Hospital Chain Will Pay Over $260 Million to Resolve False Billing and Kickback Allegations; One Subsidiary Agrees to Plead Guilty.\" Washington, DC: US Department of Justice."
+        },
+        {
+            "key": "p_96",
+            "unstructured": "US Department of Justice. 2020. \"West Virginia Hospital Agrees to Pay $50 Million To Settle Allegations Concerning Improper Compensation to Referring Physicians.\" Washington, DC: US Department of Justice."
+        },
+        {
+            "key": "p_97",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJMsa1513024"
+        },
+        {
+            "key": "p_98",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1377/hlthaff.25.1.197"
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20221705",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                30
+            ]
+        ],
+        "date-time": "2024-10-30T13:44:44Z",
+        "timestamp": 1730295884000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.20221705"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                1
+            ]
+        ]
+    },
+    "references-count": 98,
+    "journal-issue": {
+        "issue": "11",
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    11,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.20221705"
+    ],
+    "URL": "http://dx.doi.org/10.1257/aer.20221705",
+    "relation": {},
+    "ISSN": [
+        "0002-8282",
+        "1944-7981"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        },
+        {
+            "value": "1944-7981",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                1
+            ]
+        ]
+    }
+}
