@@ -1,0 +1,985 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                18
+            ]
+        ],
+        "date-time": "2024-10-18T04:23:51Z",
+        "timestamp": 1729225431013,
+        "version": "3.27.0"
+    },
+    "reference-count": 69,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "11",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        9,
+                        4
+                    ]
+                ],
+                "date-time": "2024-09-04T00:00:00Z",
+                "timestamp": 1725408000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Our paper reexamines whether 29 variables from 26 papers published after Goyal and Welch 2008, as well as the original 17 variables, were useful in predicting the equity premium in-sample and out-of-sample as of the end of 2021. Our samples include the original periods in which these variables were identified, but end later. More than one-third of these new variables no longer have empirical significance even in-sample. Of those that do, half have poor out-of-sample performance. A small number of variables still perform reasonably well both in-sample and out-of-sample.</jats:p>",
+    "DOI": "10.1093/rfs/hhae044",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2024-09-05T07:42:56Z",
+        "timestamp": 1725522176000
+    },
+    "page": "3490-3557",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "A Comprehensive 2022 Look at the Empirical Performance of Equity Premium Prediction"
+    ],
+    "prefix": "10.1093",
+    "volume": "37",
+    "author": [
+        {
+            "given": "Amit",
+            "family": "Goyal",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Swiss Finance Institute ,",
+                    "place": [
+                        "Switzerland"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Ivo",
+            "family": "Welch",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UCLA Anderson ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Athanasse",
+            "family": "Zafirov",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024101709142246400_hhae044-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1677",
+            "DOI": "10.1111/jofi.12870",
+            "article-title": "Consumption fluctuations and expected returns",
+            "volume": "75",
+            "author": "Atanasov",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1111/jofi.12090",
+            "article-title": "Sources of entropy in representative agent models",
+            "volume": "69",
+            "author": "Backus",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2219",
+            "DOI": "10.1111/0022-1082.00285",
+            "article-title": "The equity share in new issues and aggregate stock returns",
+            "volume": "55",
+            "author": "Baker",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1257/jep.21.2.129",
+            "article-title": "Investor sentiment in the stock market",
+            "volume": "21",
+            "author": "Baker",
+            "year": "2007",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "475",
+            "DOI": "10.1016/j.jfineco.2011.01.002",
+            "article-title": "Improving the predictability of real economic activity and asset returns with forward variances inferred from option portfolios",
+            "volume": "100",
+            "author": "Bakshi",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1016/j.jeconom.2014.05.008",
+            "article-title": "The VIX, the variance premium and stock market volatility",
+            "volume": "183",
+            "author": "Bekaert",
+            "year": "2014",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1016/j.jmoneco.2013.01.004",
+            "article-title": "Government investment and the stock market",
+            "volume": "60",
+            "author": "Belo",
+            "year": "2013",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.2517-6161.1995.tb02031.x",
+            "article-title": "Controlling the false discovery rate: A practical and powerful approach to multiple testing",
+            "volume": "57",
+            "author": "Benjamini",
+            "year": "1995",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1165",
+            "DOI": "10.1214/aos/1013699998",
+            "article-title": "The control of the false discovery rate in multiple testing under dependency",
+            "volume": "29",
+            "author": "Benjamini",
+            "year": "2001",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "4463",
+            "DOI": "10.1093/rfs/hhp008",
+            "article-title": "Expected stock returns and variance risk premia",
+            "volume": "22",
+            "author": "Bollerslev",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1111/j.1540-6261.2007.01226.x",
+            "article-title": "On the importance of measuring payout yield: Implications for empirical asset pricing",
+            "volume": "62",
+            "author": "Boudoukh",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/0304-405X(87)90045-6",
+            "article-title": "Stock returns and the term structure",
+            "volume": "18",
+            "author": "Campbell",
+            "year": "1987",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "661",
+            "DOI": "10.1111/j.1540-6261.1988.tb04598.x",
+            "article-title": "Stock prices, earnings, and expected dividends",
+            "volume": "43",
+            "author": "Campbell",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1509",
+            "DOI": "10.1093/rfs/hhm055",
+            "article-title": "Predicting excess stock returns out of sample: Can anything beat the historical average?",
+            "volume": "21",
+            "author": "Campbell",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1093/rof/rfac035",
+            "article-title": "On the economic significance of stock return predictability",
+            "volume": "27",
+            "author": "Cederburg",
+            "year": "2023",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1016/j.jmoneco.2015.06.004",
+            "article-title": "Credit conditions and stock return predictability",
+            "volume": "74",
+            "author": "Chava",
+            "year": "2015",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.1016/j.jfineco.2018.05.011",
+            "article-title": "Micro (structure) before macro? the predictive power of aggregate illiquidity for stock returns and economic activity",
+            "volume": "130",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1016/S0304-4076(01)00071-9",
+            "article-title": "Tests of forecast accuracy and encompassing for nested models",
+            "volume": "105",
+            "author": "Clark",
+            "year": "2001",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B19",
+            "first-page": "209",
+            "article-title": "Production-based asset pricing and the link between stock returns and economic fluctuations",
+            "volume": "46",
+            "author": "Cochrane",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2069",
+            "DOI": "10.1093/rfs/hhw009",
+            "article-title": "Skewness in expected macro fundamentals and the predictability of equity returns: Evidence and theory",
+            "volume": "29",
+            "author": "Colacito",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2801",
+            "DOI": "10.1093/rfs/hhn087",
+            "article-title": "Time-varying risk premiums and the output gap",
+            "volume": "22",
+            "author": "Cooper",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "361",
+            "DOI": "10.1561/104.00000116",
+            "article-title": "Dissecting market expectations in the cross-section of book-to-market ratios",
+            "volume": "11",
+            "author": "de Oliveira",
+            "year": "2022",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1915",
+            "DOI": "10.1093/rfs/hhm075",
+            "article-title": "Optimal versus naive diversification: How inefficient is the 1/n portfolio strategy?",
+            "volume": "22",
+            "author": "DeMiguel",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1080/07350015.1995.10524599",
+            "article-title": "Comparing predictive accuracy",
+            "volume": "13",
+            "author": "Diebold",
+            "year": "1995",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1016/j.jfineco.2007.07.008",
+            "article-title": "Striking oil: Another puzzle?",
+            "volume": "89",
+            "author": "Driesprong",
+            "year": "2008",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1016/0304-405X(89)90095-0",
+            "article-title": "Business conditions and expected returns on stocks and bonds",
+            "volume": "25",
+            "author": "Fama",
+            "year": "1989",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1016/0304-405X(77)90014-9",
+            "article-title": "Asset returns and inflation",
+            "volume": "5",
+            "author": "Fama",
+            "year": "1977",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1545",
+            "DOI": "10.1111/j.1468-0262.2006.00718.x",
+            "article-title": "Tests of conditional predictive ability",
+            "volume": "74",
+            "author": "Giacomini",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1287/mnsc.49.5.639.15149",
+            "article-title": "Predicting the equity premium with dividend ratios",
+            "volume": "49",
+            "author": "Goyal",
+            "year": "2003",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "A comprehensive look at the empirical performance of equity premium prediction",
+            "volume": "21",
+            "author": "Goyal",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "645",
+            "DOI": "10.1086/499134",
+            "article-title": "On the out-of-sample predictability of stock market returns",
+            "volume": "79",
+            "author": "Guo",
+            "year": "2006",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "\u2026 and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1016/j.jfineco.2007.11.009",
+            "article-title": "Accruals, cash flows, and aggregate stock returns",
+            "volume": "91",
+            "author": "Hirshleifer",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "791",
+            "DOI": "10.1093/rfs/hhu080",
+            "article-title": "Investor sentiment aligned: A powerful predictor of stock returns",
+            "volume": "28",
+            "author": "Huang",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1623",
+            "DOI": "10.1111/j.1540-6261.2007.01253.x",
+            "article-title": "Lazy investors, discretionary consumption, and the cross-section of stock returns",
+            "volume": "62",
+            "author": "Jagannathan",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1016/j.jfineco.2019.03.003",
+            "article-title": "Average skewness matters",
+            "volume": "134",
+            "author": "Jondeau",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1093/rfs/hhs098",
+            "article-title": "New orders and asset prices",
+            "volume": "26",
+            "author": "Jones",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "2841",
+            "DOI": "10.1093/rfs/hhu039",
+            "article-title": "Tail risk and asset prices",
+            "volume": "27",
+            "author": "Kelly",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1721",
+            "DOI": "10.1111/jofi.12060",
+            "article-title": "Market expectations in the cross-section of present values",
+            "volume": "68",
+            "author": "Kelly",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1561/104.00000114",
+            "article-title": "Dissecting market expectations in the cross-section of book-to-market ratios: A comment",
+            "volume": "11",
+            "author": "Kelly",
+            "year": "2022",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1506",
+            "DOI": "10.1093/rfs/hhu139",
+            "article-title": "Robust econometric inference for stock return predictability",
+            "volume": "28",
+            "author": "Kostakis",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/S0304-405X(97)00002-0",
+            "article-title": "Book-to-market, dividend yield, and expected market returns: A time-series analysis",
+            "volume": "44",
+            "author": "Kothari",
+            "year": "1997",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/0022-1082.00347",
+            "article-title": "Consumption, aggregate wealth, and expected stock returns",
+            "volume": "56",
+            "author": "Lettau",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1016/j.jfineco.2011.04.003",
+            "article-title": "Investor attention, psychological anchors, and stock return predictability",
+            "volume": "104",
+            "author": "Li",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "36",
+            "DOI": "10.2469/faj.v58.n4.2453",
+            "article-title": "The statistics of sharpe ratios",
+            "volume": "58",
+            "author": "Lo",
+            "year": "2002",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1093/rfs/3.3.431",
+            "article-title": "Data-snooping biases in tests of financial asset pricing models",
+            "volume": "3",
+            "author": "Lo",
+            "year": "1990",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.1561/104.00000110",
+            "article-title": "Equity premium forecasts tend to perform worse against a buy-and-hold benchmark",
+            "volume": "11",
+            "author": "L\u00f6ffler",
+            "year": "2022",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1489",
+            "DOI": "10.1093/rof/rfs025",
+            "article-title": "The \u201cfed model\u201d and the predictability of stock returns",
+            "volume": "17",
+            "author": "Maio",
+            "year": "2013",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1016/j.finmar.2015.09.001",
+            "article-title": "Cross-sectional return dispersion and the equity premium",
+            "volume": "29",
+            "author": "Maio",
+            "year": "2016",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "year": "2011",
+            "author": "Martin",
+            "key": "2024101709142246400_hhae044-B50"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "367",
+            "DOI": "10.1093/qje/qjw034",
+            "article-title": "What is the expected return on the market?",
+            "volume": "132",
+            "author": "Martin",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1016/j.jfineco.2021.10.006",
+            "article-title": "Market efficiency in the age of big data",
+            "volume": "145",
+            "author": "Martin",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "719",
+            "DOI": "10.1016/j.jeconom.2006.07.020",
+            "article-title": "Asymptotics for out of sample tests of granger causality",
+            "volume": "140",
+            "author": "McCracken",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.12365",
+            "article-title": "Does academic research destroy stock return predictability?",
+            "volume": "71",
+            "author": "McLean",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1016/j.jfineco.2014.08.006",
+            "article-title": "End-of-the-year economic growth and time-varying expected returns",
+            "volume": "115",
+            "author": "M\u00f8ller",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1772",
+            "DOI": "10.1287/mnsc.2013.1838",
+            "article-title": "Forecasting the equity risk premium: The role of technical indicators",
+            "volume": "60",
+            "author": "Neely",
+            "year": "2014",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.1016/j.jfineco.2006.01.006",
+            "article-title": "Housing, consumption and asset pricing",
+            "volume": "83",
+            "author": "Piazzesi",
+            "year": "2007",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "364",
+            "DOI": "10.1016/j.jfineco.2010.02.011",
+            "article-title": "Average correlation and stock market returns",
+            "volume": "96",
+            "author": "Pollet",
+            "year": "2010",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1016/S0304-405X(98)00020-8",
+            "article-title": "Book-to-market ratios as predictors of market returns",
+            "volume": "49",
+            "author": "Pontiff",
+            "year": "1998",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1016/j.jfineco.2016.03.004",
+            "article-title": "Short interest and aggregate stock returns",
+            "volume": "121",
+            "author": "Rapach",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.1093/rfs/hhp063",
+            "article-title": "Out-of-sample equity premium prediction: Combination forecasts and links to the real economy",
+            "volume": "23",
+            "author": "Rapach",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1468-0262.2005.00615.x",
+            "article-title": "Stepwise multiple testing as formalized data snooping",
+            "volume": "73",
+            "author": "Romano",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "3449",
+            "DOI": "10.1287/mnsc.2017.2978",
+            "article-title": "Option prices in a model with stochastic disaster risk",
+            "volume": "65",
+            "author": "Seo",
+            "year": "2019",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1439",
+            "DOI": "10.1111/j.1540-6261.2010.01575.x",
+            "article-title": "Predictive regressions: A present-value approach",
+            "volume": "65",
+            "author": "Van Binsbergen",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "2773",
+            "DOI": "10.1093/rfs/hhu029",
+            "article-title": "Referee recommendations",
+            "volume": "27",
+            "author": "Welch",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.2469/faj.v72.n5.3",
+            "article-title": "The (time-varying) importance of disaster risk",
+            "volume": "72",
+            "author": "Welch",
+            "year": "2016",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1097",
+            "DOI": "10.1111/1468-0262.00152",
+            "article-title": "A reality check for data snooping",
+            "volume": "68",
+            "author": "White",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "162",
+            "DOI": "10.1016/j.jfineco.2010.08.004",
+            "article-title": "Disagreement and return predictability of stock portfolios",
+            "volume": "99",
+            "author": "Yu",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2024101709142246400_hhae044-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.1086/261473",
+            "article-title": "Consensus and uncertainty in economic prediction",
+            "volume": "95",
+            "author": "Zarnowitz",
+            "year": "1987",
+            "journal-title": "Journal of Political Economy"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae044/59214194/hhae044.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/11/3490/59762851/hhae044.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/11/3490/59762851/hhae044.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                17
+            ]
+        ],
+        "date-time": "2024-10-17T09:20:13Z",
+        "timestamp": 1729156813000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/37/11/3490/7749383"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                4
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "11",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    11,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhae044",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                4
+            ]
+        ]
+    }
+}

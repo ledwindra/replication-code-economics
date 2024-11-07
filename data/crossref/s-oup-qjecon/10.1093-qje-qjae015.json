@@ -1,0 +1,870 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                10
+            ]
+        ],
+        "date-time": "2024-10-10T04:17:24Z",
+        "timestamp": 1728533844906
+    },
+    "reference-count": 59,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        3
+                    ]
+                ],
+                "date-time": "2024-05-03T00:00:00Z",
+                "timestamp": 1714694400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/journals/pages/open_access/funder_policies/chorus/standard_publication_model"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000049",
+            "name": "National Institute on Aging",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "P01AG005842"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100000049",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                9
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>What happens when patients suddenly stop their medications? We study the health consequences of drug interruptions caused by large, abrupt, and arbitrary changes in price. Medicare\u2019s prescription drug benefit as-if-randomly assigns 65-year-olds a drug budget as a function of their birth month, beyond which out-of-pocket costs suddenly increase. Those facing smaller budgets consume fewer drugs and die more: mortality increases 0.0164 percentage points per month (13.9%) for each $100 per month budget decrease (24.4%). This estimate is robust to a range of falsification checks and lies in the 97.8th percentile of 544 placebo estimates from similar populations that lack the same idiosyncratic budget policy. Several facts help make sense of this large effect. First, patients stop taking drugs that are both high value and suspected to cause life-threatening withdrawal syndromes when stopped. Second, using machine learning, we identify patients at the highest risk of drug-preventable adverse events. Contrary to the predictions of standard economic models, high-risk patients (e.g., those most likely to have a heart attack) cut back more than low-risk patients on exactly those drugs that would benefit them the most (e.g., statins). Finally, patients appear unaware of these risks. In a survey of 65-year-olds, only one-third believe that stopping their drugs for up to a month could have any serious consequences. We conclude that far from curbing waste, cost sharing is itself highly inefficient, resulting in missed opportunities to buy health at very low cost ($11,321 per life-year).</jats:p>",
+    "DOI": "10.1093/qje/qjae015",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                4
+            ]
+        ],
+        "date-time": "2024-05-04T03:23:55Z",
+        "timestamp": 1714793035000
+    },
+    "page": "2037-2082",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "The Health Costs of Cost Sharing"
+    ],
+    "prefix": "10.1093",
+    "volume": "139",
+    "author": [
+        {
+            "given": "Amitabh",
+            "family": "Chandra",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard Kennedy School, Harvard Business School, and National Bureau of Economic Research ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Evan",
+            "family": "Flack",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Ziad",
+            "family": "Obermeyer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California, Berkeley School of Public Health and National Bureau of Economic Research ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                3
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024100906061614500_bib1",
+            "doi-asserted-by": "publisher",
+            "first-page": "1557",
+            "DOI": "10.1093/qje/qjab017",
+            "article-title": "Mortality Effects and Choice across Private Health Insurance Plans",
+            "volume": "136",
+            "author": "Abaluck",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib2",
+            "doi-asserted-by": "publisher",
+            "first-page": "607",
+            "DOI": "10.1016/j.tics.2017.05.004",
+            "article-title": "Meta-Reasoning: Monitoring and Control of Thinking and Reasoning",
+            "volume": "21",
+            "author": "Ackerman",
+            "year": "2017",
+            "journal-title": "Trends in Cognitive Sciences"
+        },
+        {
+            "key": "2024100906061614500_bib3",
+            "doi-asserted-by": "publisher",
+            "first-page": "725",
+            "DOI": "10.1162/REST_a_00518",
+            "article-title": "Moral Hazard in Health Insurance: Do Dynamic Incentives Matter?",
+            "volume": "97",
+            "author": "Aron-Dine",
+            "year": "2015",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2024100906061614500_bib4",
+            "doi-asserted-by": "publisher",
+            "first-page": "460",
+            "DOI": "10.1093/restud/rdv047",
+            "article-title": "Ballot Position, Choice Fatigue, and Voter Behaviour",
+            "volume": "83",
+            "author": "Augenblick",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024100906061614500_bib5",
+            "doi-asserted-by": "publisher",
+            "first-page": "1623",
+            "DOI": "10.1093/qje/qjv029",
+            "article-title": "Behavioral Hazard in Health Insurance",
+            "volume": "130",
+            "author": "Baicker",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib6",
+            "doi-asserted-by": "publisher",
+            "first-page": "1946",
+            "DOI": "10.1111/j.1532-5415.2008.01916.x",
+            "article-title": "Discontinuing Medications: A Novel Approach for Revising the Prescribing Stage of the Medication-Use Process",
+            "volume": "56",
+            "author": "Bain",
+            "year": "2008",
+            "journal-title": "Journal of the American Geriatrics Society"
+        },
+        {
+            "key": "2024100906061614500_bib7",
+            "doi-asserted-by": "publisher",
+            "first-page": "1997",
+            "DOI": "10.1001/jama.2016.15450",
+            "article-title": "Statin Use for the Primary Prevention of Cardiovascular Disease in Adults: US Preventive Services Task Force Recommendation Statement",
+            "volume": "316",
+            "author": "Bibbins-Domingo",
+            "year": "2016",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2024100906061614500_bib8",
+            "doi-asserted-by": "publisher",
+            "first-page": "293",
+            "DOI": "10.1016/j.coph.2012.01.006",
+            "article-title": "Antibiotics as Immunomodulant Agents in COPD",
+            "volume": "12",
+            "author": "Blasi",
+            "year": "2012",
+            "journal-title": "Current Opinion in Pharmacology"
+        },
+        {
+            "key": "2024100906061614500_bib10",
+            "doi-asserted-by": "publisher",
+            "first-page": "1399",
+            "DOI": "10.1093/qje/qjaa007",
+            "article-title": "Memory, Attention, and Choice",
+            "volume": "135",
+            "author": "Bordalo",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib9",
+            "doi-asserted-by": "publisher",
+            "first-page": "803",
+            "DOI": "10.1086/673885",
+            "article-title": "Salience and Consumer Choice",
+            "volume": "121",
+            "author": "Bordalo",
+            "year": "2013",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024100906061614500_bib11",
+            "doi-asserted-by": "publisher",
+            "first-page": "1261",
+            "DOI": "10.1093/qje/qjx013",
+            "article-title": "What Does a Deductible Do? The Impact of Cost-Sharing on Health Care Prices, Quantities, and Spending Dynamics",
+            "volume": "132",
+            "author": "Brot-Goldberg",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib12",
+            "doi-asserted-by": "publisher",
+            "first-page": "711",
+            "DOI": "10.1162/REST_a_00314",
+            "article-title": "Season of Birth and Later Outcomes: Old Questions, New Answers",
+            "volume": "95",
+            "author": "Buckles",
+            "year": "2013",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2024100906061614500_bib14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chandra Amitabh, Flack Evan, and Obermeyer Ziad , \u201cReplication Data for: \u2018The Health Costs of Cost Sharing\u2019,\u201d 2024, Harvard Dataverse, 10.7910/DVN/F6X52R.",
+            "DOI": "10.1093/qje/qjae015"
+        },
+        {
+            "key": "2024100906061614500_bib16",
+            "doi-asserted-by": "publisher",
+            "first-page": "645",
+            "DOI": "10.1257/jel.50.3.645",
+            "article-title": "Technology Growth and Expenditure Growth in Health Care",
+            "volume": "50",
+            "author": "Chandra",
+            "year": "2012",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024100906061614500_bib17",
+            "doi-asserted-by": "publisher",
+            "first-page": "785",
+            "DOI": "10.1093/qje/qjz040",
+            "article-title": "Identifying Sources of Inefficiency in Healthcare",
+            "volume": "135",
+            "author": "Chandra",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib15",
+            "doi-asserted-by": "publisher",
+            "first-page": "193",
+            "DOI": "10.1257/aer.100.1.193",
+            "article-title": "Patient Cost-Sharing and Hospitalization Offsets in the Elderly",
+            "volume": "100",
+            "author": "Chandra",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024100906061614500_bib18",
+            "doi-asserted-by": "publisher",
+            "first-page": "2088",
+            "DOI": "10.1056/NEJMsa1107913",
+            "article-title": "Full Coverage for Preventive Medications after Myocardial Infarction",
+            "volume": "365",
+            "author": "Choudhry",
+            "year": "2011",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "article-title": "Costs in the Coverage Gap",
+            "year": "2024",
+            "author": "CMS",
+            "key": "2024100906061614500_bib19"
+        },
+        {
+            "key": "2024100906061614500_bib20",
+            "doi-asserted-by": "publisher",
+            "first-page": "12265",
+            "DOI": "10.1073/pnas.1307582110",
+            "article-title": "Within-Mother Analysis of Seasonal Patterns in Health at Birth",
+            "volume": "110",
+            "author": "Currie",
+            "year": "2013",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024100906061614500_bib21",
+            "doi-asserted-by": "publisher",
+            "first-page": "28",
+            "DOI": "10.1002/jhm.393",
+            "article-title": "Evaluation of Glycemic Control Following Discontinuation of an Intensive Insulin Protocol",
+            "volume": "4",
+            "author": "Czosnowski",
+            "year": "2009",
+            "journal-title": "Journal of Hospital Medicine"
+        },
+        {
+            "key": "2024100906061614500_bib22",
+            "doi-asserted-by": "publisher",
+            "first-page": "2934",
+            "DOI": "10.1073/pnas.041431898",
+            "article-title": "Lifespan Depends on Month of Birth",
+            "volume": "98",
+            "author": "Doblhammer",
+            "year": "2001",
+            "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+        },
+        {
+            "key": "2024100906061614500_bib23",
+            "doi-asserted-by": "publisher",
+            "first-page": "537",
+            "DOI": "10.1208/s12248-008-9056-1",
+            "article-title": "Opioid Tolerance Development: A Pharmacokinetic/Pharmacodynamic Perspective",
+            "volume": "10",
+            "author": "Dumas",
+            "year": "2008",
+            "journal-title": "AAPS Journal"
+        },
+        {
+            "key": "2024100906061614500_bib24",
+            "doi-asserted-by": "publisher",
+            "first-page": "957",
+            "DOI": "10.1093/jeea/jvy017",
+            "article-title": "Moral Hazard in Health Insurance: What We Know and How We Know It",
+            "volume": "16",
+            "author": "Einav",
+            "year": "2018",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "key": "2024100906061614500_bib25",
+            "doi-asserted-by": "publisher",
+            "first-page": "122",
+            "DOI": "10.1257/pol.20160355",
+            "article-title": "Private Provision of Social Insurance: Drug-Specific Price Elasticities and Cost Sharing in Medicare Part D",
+            "volume": "10",
+            "author": "Einav",
+            "year": "2018",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2024100906061614500_bib26",
+            "doi-asserted-by": "publisher",
+            "first-page": "841",
+            "DOI": "10.1093/qje/qjv005",
+            "article-title": "The Response of Drug Expenditure to Nonlinear Contract Design: Evidence from Medicare Part D",
+            "volume": "130",
+            "author": "Einav",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib27",
+            "doi-asserted-by": "publisher",
+            "first-page": "938",
+            "DOI": "10.1257/aer.96.4.938",
+            "article-title": "Multiple Dimensions of Private Information: Evidence from the Long-Term Care Insurance Market",
+            "volume": "96",
+            "author": "Finkelstein",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024100906061614500_bib28",
+            "doi-asserted-by": "publisher",
+            "first-page": "261",
+            "DOI": "10.1016/bs.hesbe.2018.11.001",
+            "article-title": "Behavioral Inattention",
+            "volume-title": "Handbook of Behavioral Economics: Applications and Foundations",
+            "author": "Gabaix",
+            "year": "2019"
+        },
+        {
+            "key": "2024100906061614500_bib29",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1093/qje/qjaa029",
+            "article-title": "Health Insurance and Mortality: Experimental Evidence from Taxpayer Outreach",
+            "volume": "136",
+            "author": "Goldin",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib30",
+            "doi-asserted-by": "publisher",
+            "first-page": "155",
+            "DOI": "10.1257/jep.32.1.155",
+            "article-title": "Frictions or Mental Gaps: What\u2019s behind the Information We (Don\u2019t) Use and When Do We Care?",
+            "volume": "32",
+            "author": "Handel",
+            "year": "2018",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024100906061614500_bib31",
+            "doi-asserted-by": "publisher",
+            "first-page": "1446",
+            "DOI": "10.1161/01.CIR.0000012530.68333.C8",
+            "article-title": "Withdrawal of Statins Increases Event Rates in Patients with Acute Coronary Syndromes",
+            "volume": "105",
+            "author": "Heeschen",
+            "year": "2002",
+            "journal-title": "Circulation"
+        },
+        {
+            "key": "2024100906061614500_bib32",
+            "doi-asserted-by": "publisher",
+            "first-page": "1713",
+            "DOI": "10.3982/ECTA10931",
+            "article-title": "Private Information and Insurance Rejections",
+            "volume": "81",
+            "author": "Hendren",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024100906061614500_bib33",
+            "doi-asserted-by": "publisher",
+            "first-page": "1116",
+            "DOI": "10.1093/schbul/sbab017",
+            "article-title": "A Method for Tapering Antipsychotic Treatment That May Minimize the Risk of Relapse",
+            "volume": "47",
+            "author": "Horowitz",
+            "year": "2021",
+            "journal-title": "Schizophrenia Bulletin"
+        },
+        {
+            "key": "2024100906061614500_bib34",
+            "doi-asserted-by": "publisher",
+            "first-page": "530",
+            "DOI": "10.1016/j.jpubeco.2010.03.006",
+            "article-title": "Choice Proliferation, Simplicity Seeking, and Asset Allocation",
+            "volume": "94",
+            "author": "Iyengar",
+            "year": "2010",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2024100906061614500_bib35",
+            "doi-asserted-by": "publisher",
+            "first-page": "161",
+            "DOI": "10.1016/s0954-6111(99)90001-x",
+            "article-title": "An Observational Study of Inhaled Corticosteroid Withdrawal in Stable Chronic Obstructive Pulmonary Disease",
+            "volume": "93",
+            "author": "Jarad",
+            "year": "1999",
+            "journal-title": "Respiratory Medicine"
+        },
+        {
+            "key": "2024100906061614500_bib36",
+            "doi-asserted-by": "publisher",
+            "first-page": "263",
+            "DOI": "10.2307/1914185",
+            "article-title": "Prospect Theory: An Analysis of Decision under Risk",
+            "volume": "47",
+            "author": "Kahneman",
+            "year": "1979",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024100906061614500_bib37",
+            "doi-asserted-by": "publisher",
+            "first-page": "338",
+            "DOI": "10.1002/hec.3311",
+            "article-title": "Anticipatory Behavior in Response to Medicare Part D\u2019s Coverage Gap",
+            "volume": "26",
+            "author": "Kaplan",
+            "year": "2017",
+            "journal-title": "Health Economics"
+        },
+        {
+            "article-title": "An Overview of the Medicare Part D Prescription Drug Benefit",
+            "year": "2023",
+            "author": "KFF",
+            "key": "2024100906061614500_bib38"
+        },
+        {
+            "key": "2024100906061614500_bib39",
+            "doi-asserted-by": "publisher",
+            "first-page": "591",
+            "DOI": "10.1038/s41440-020-0449-6",
+            "article-title": "Beta Blocker Rebound Phenomenon Is Important, but We Do Not Know Its Definition, Incidence or Optimal Prevention Strategies",
+            "volume": "43",
+            "author": "Koracevic",
+            "year": "2020",
+            "journal-title": "Hypertension Research"
+        },
+        {
+            "key": "2024100906061614500_bib40",
+            "doi-asserted-by": "publisher",
+            "first-page": "15",
+            "DOI": "10.1016/j.cmet.2020.04.001",
+            "article-title": "Benefits of Metformin in Attenuating the Hallmarks of Aging",
+            "volume": "32",
+            "author": "Kulkarni",
+            "year": "2020",
+            "journal-title": "Cell Metabolism"
+        },
+        {
+            "key": "2024100906061614500_bib41",
+            "doi-asserted-by": "publisher",
+            "first-page": "443",
+            "DOI": "10.1162/003355397555253",
+            "article-title": "Golden Eggs and Hyperbolic Discounting",
+            "volume": "112",
+            "author": "Laibson",
+            "year": "1997",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib42",
+            "doi-asserted-by": "publisher",
+            "first-page": "416",
+            "DOI": "10.1056/NEJM197508282930902",
+            "article-title": "Propranolol-Withdrawal Rebound Phenomenon\u2014Exacerbation of Coronary Events after Abrupt Cessation of Antianginal Therapy",
+            "volume": "293",
+            "author": "Miller",
+            "year": "1975",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2024100906061614500_bib43",
+            "doi-asserted-by": "publisher",
+            "first-page": "1783",
+            "DOI": "10.1093/qje/qjab004",
+            "article-title": "Medicaid and Mortality: New Evidence From Linked Survey and Administrative Data",
+            "volume": "136",
+            "author": "Miller",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib44",
+            "doi-asserted-by": "publisher",
+            "first-page": "679",
+            "DOI": "10.1093/qje/qjab046",
+            "article-title": "Diagnosing Physician Error: A Machine Learning Approach to Low-Value Health Care",
+            "volume": "137",
+            "author": "Mullainathan",
+            "year": "2022",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024100906061614500_bib45",
+            "doi-asserted-by": "publisher",
+            "first-page": "2091",
+            "DOI": "10.1161/CIRCULATIONAHA.116.024436",
+            "article-title": "Polygenic Risk Score Identifies Subgroup with Higher Burden of Atherosclerosis and Greater Relative Benefit from Statin Therapy in the Primary Prevention Setting",
+            "volume": "135",
+            "author": "Natarajan",
+            "year": "2017",
+            "journal-title": "Circulation"
+        },
+        {
+            "key": "2024100906061614500_bib46",
+            "doi-asserted-by": "publisher",
+            "first-page": "796",
+            "DOI": "10.1056/NEJMp1405158",
+            "article-title": "Updating Cost-Effectiveness\u2014The Curious Resilience of the $50,000-per-QALY Threshold",
+            "volume": "371",
+            "author": "Neumann",
+            "year": "2014",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2024100906061614500_bib47",
+            "doi-asserted-by": "publisher",
+            "first-page": "103",
+            "DOI": "10.1257/aer.89.1.103",
+            "article-title": "Doing It Now or Later",
+            "volume": "89",
+            "author": "O\u2019Donoghue",
+            "year": "1999",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024100906061614500_bib48",
+            "doi-asserted-by": "publisher",
+            "first-page": "229",
+            "DOI": "10.1161/CIRCRESAHA.116.308537",
+            "article-title": "Pleiotropic Effects of Statins on the Cardiovascular System",
+            "volume": "120",
+            "author": "Oesterle",
+            "year": "2017",
+            "journal-title": "Circulation Research"
+        },
+        {
+            "key": "2024100906061614500_bib49",
+            "doi-asserted-by": "publisher",
+            "first-page": "283",
+            "DOI": "10.1111/j.0887-378X.2004.00311.x",
+            "article-title": "A Political History of Medicare and Prescription Drug Coverage",
+            "volume": "82",
+            "author": "Oliver",
+            "year": "2004",
+            "journal-title": "Milbank Quarterly"
+        },
+        {
+            "key": "2024100906061614500_bib50",
+            "doi-asserted-by": "publisher",
+            "first-page": "487",
+            "DOI": "10.1056/NEJMra050100",
+            "article-title": "Adherence to Medication",
+            "volume": "353",
+            "author": "Osterberg",
+            "year": "2005",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2024100906061614500_bib51",
+            "first-page": "531",
+            "article-title": "The Economics of Moral Hazard: Comment",
+            "volume": "58",
+            "author": "Pauly",
+            "year": "1968",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024100906061614500_bib52",
+            "first-page": "219",
+            "article-title": "Improving Mortality: A Rule of Thumb and Regulatory Tool",
+            "volume": "10",
+            "author": "Pollard",
+            "year": "2002",
+            "journal-title": "Journal of Actuarial Practice"
+        },
+        {
+            "key": "2024100906061614500_bib53",
+            "doi-asserted-by": "publisher",
+            "first-page": "1653",
+            "DOI": "10.1001/jama.1990.03440120075040",
+            "article-title": "The Relative Risk of Incident Coronary Heart Disease Associated with Recently Stopping the Use of \u03b2-Blockers",
+            "volume": "263",
+            "author": "Psaty",
+            "year": "1990",
+            "journal-title": "Journal of the American Medical Association"
+        },
+        {
+            "key": "2024100906061614500_bib54",
+            "doi-asserted-by": "publisher",
+            "first-page": "496",
+            "DOI": "10.3122/jabfm.2016.04.150317",
+            "article-title": "A Primary Care Panel Size of 2500 Is Neither Accurate Nor Reasonable",
+            "volume": "29",
+            "author": "Raffoul",
+            "year": "2016",
+            "journal-title": "Journal of the American Board of Family Medicine"
+        },
+        {
+            "key": "2024100906061614500_bib55",
+            "doi-asserted-by": "publisher",
+            "first-page": "2195",
+            "DOI": "10.1056/NEJMoa0807646",
+            "article-title": "Rosuvastatin to Prevent Vascular Events in Men and Women with Elevated C-Reactive Protein",
+            "volume": "359",
+            "author": "Ridker",
+            "year": "2008",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "article-title": "Low Density Lipoprotein-Cholesterol (LDL-C) Lowering after An Acute Coronary Syndrome",
+            "volume-title": "UpToDate",
+            "year": "2023",
+            "author": "Rosenson",
+            "key": "2024100906061614500_bib13"
+        },
+        {
+            "article-title": "Deprescribing",
+            "volume-title": "UpToDate",
+            "year": "2023",
+            "author": "Steinman",
+            "key": "2024100906061614500_bib56"
+        },
+        {
+            "key": "2024100906061614500_bib57",
+            "doi-asserted-by": "publisher",
+            "first-page": "1124",
+            "DOI": "10.1126/science.185.4157.1124",
+            "article-title": "Judgment under Uncertainty: Heuristics and Biases",
+            "volume": "185",
+            "author": "Tversky",
+            "year": "1974",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024100906061614500_bib58",
+            "doi-asserted-by": "publisher",
+            "first-page": "464",
+            "DOI": "10.1136/bmj.315.7106.464",
+            "article-title": "Withdrawal of Long Term Diuretic Medication in Elderly Patients: A Double Blind Randomised Trial",
+            "volume": "315",
+            "author": "Walma",
+            "year": "1997",
+            "journal-title": "BMJ"
+        },
+        {
+            "key": "2024100906061614500_bib59",
+            "doi-asserted-by": "publisher",
+            "first-page": "l6058",
+            "DOI": "10.1136/bmj.l6058",
+            "article-title": "Birth Month, Birth Season, and Overall and Cardiovascular Disease Mortality in US Women: Prospective Cohort Study",
+            "volume": "367",
+            "author": "Zhang",
+            "year": "2019",
+            "journal-title": "BMJ"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjae015/58197814/qjae015.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/4/2037/59645538/qjae015.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/139/4/2037/59645538/qjae015.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                9
+            ]
+        ],
+        "date-time": "2024-10-09T06:06:33Z",
+        "timestamp": 1728453993000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/139/4/2037/7664375"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                3
+            ]
+        ]
+    },
+    "references-count": 59,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    3
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    10,
+                    9
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/qje/qjae015",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0033-5533"
+        },
+        {
+            "type": "electronic",
+            "value": "1531-4650"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                3
+            ]
+        ]
+    }
+}

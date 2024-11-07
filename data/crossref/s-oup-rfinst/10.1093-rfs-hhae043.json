@@ -1,0 +1,1059 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                18
+            ]
+        ],
+        "date-time": "2024-10-18T04:24:41Z",
+        "timestamp": 1729225481854,
+        "version": "3.27.0"
+    },
+    "reference-count": 91,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "11",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        9,
+                        4
+                    ]
+                ],
+                "date-time": "2024-09-04T00:00:00Z",
+                "timestamp": 1725408000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop an algorithm for solving a large class of nonlinear high-dimensional continuous-time models in finance. We approximate value and policy functions using deep learning and show that a combination of automatic differentiation and Ito\u2019s lemma allows for the computation of exact expectations, resulting in a negligible computational cost that is independent of the number of state variables. We illustrate the applicability of our method to problems in asset pricing, corporate finance, and portfolio choice and show that the ability to solve high-dimensional problems allows us to derive new economic insights.</jats:p>",
+    "DOI": "10.1093/rfs/hhae043",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2024-09-05T07:46:54Z",
+        "timestamp": 1725522414000
+    },
+    "page": "3217-3271",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Machine Learning for Continuous-Time Finance"
+    ],
+    "prefix": "10.1093",
+    "volume": "37",
+    "author": [
+        {
+            "given": "Victor",
+            "family": "Duarte",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Illinois at Urbana-Champaign ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Diogo",
+            "family": "Duarte",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Florida International University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Dejanir H",
+            "family": "Silva",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Purdue University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024101709142218300_hhae043-B1",
+            "article-title": "Partial differential equation models in macroeconomics",
+            "volume": "372",
+            "author": "Achdou",
+            "year": "2014",
+            "journal-title": "Philosophical Transactions of the Royal Society of London A: Mathematical, Physical and Engineering Sciences"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1093/restud/rdab002",
+            "article-title": "Income and wealth distribution in macroeconomics: A continuous-time approach",
+            "volume": "89",
+            "author": "Achdou",
+            "year": "2022",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/696046",
+            "article-title": "When inequality matters for macro and macro matters for inequality",
+            "volume": "32",
+            "author": "Ahn",
+            "year": "2018",
+            "journal-title": "NBER macroeconomics annual"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qjx023",
+            "article-title": "Measuring the sensitivity of parameter estimates to estimation moments",
+            "volume": "132",
+            "author": "Andrews",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "711",
+            "DOI": "10.1080/07350015.2020.1796395",
+            "article-title": "Transparency in structural research",
+            "volume": "38",
+            "author": "Andrews",
+            "year": "2020",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "volume-title": "Mostly harmless econometrics: An empiricist\u2019s companion",
+            "year": "2008",
+            "author": "Angrist",
+            "key": "2024101709142218300_hhae043-B6",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctvcm4j72"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/QE1609",
+            "article-title": "Sensitivity analysis using approximate moment condition models",
+            "volume": "12",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1471",
+            "DOI": "10.1111/iere.12575",
+            "article-title": "Deep equilibrium nets",
+            "volume": "63",
+            "author": "Azinovic",
+            "year": "2022",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "first-page": "30",
+            "volume-title": "Machine Learning Proceedings",
+            "year": "1995",
+            "author": "Baird",
+            "key": "2024101709142218300_hhae043-B9"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "3548",
+            "DOI": "10.1093/rfs/hhad017",
+            "article-title": "Option return predictability with machine learning and big data",
+            "volume": "36",
+            "author": "Bali",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "first-page": "1502",
+            "year": "2015",
+            "author": "Baydin",
+            "key": "2024101709142218300_hhae043-B11"
+        },
+        {
+            "edition": "1st ed",
+            "volume-title": "Dynamic programming",
+            "year": "1957",
+            "author": "Bellman",
+            "key": "2024101709142218300_hhae043-B12"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1046",
+            "DOI": "10.1093/rfs/hhaa062",
+            "article-title": "Bond risk premiums with machine learning",
+            "volume": "34",
+            "author": "Bianchi",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2022",
+            "author": "Bretscher",
+            "key": "2024101709142218300_hhae043-B14"
+        },
+        {
+            "journal-title": "In: Oxford Research Encyclopedia of Economics and Finance",
+            "article-title": "Sparse Grids for Dynamic Economic Models",
+            "year": "2022",
+            "author": "Brumm",
+            "key": "2024101709142218300_hhae043-B15"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1575",
+            "DOI": "10.3982/ECTA12216",
+            "article-title": "Using adaptive sparse grids to solve high- dimensional dynamic models",
+            "volume": "85",
+            "author": "Brumm",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "first-page": "1497",
+            "volume-title": "of Handbook of Macroeconomics",
+            "year": "2016",
+            "author": "Brunnermeier",
+            "key": "2024101709142218300_hhae043-B17"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.1257/aer.104.2.379",
+            "article-title": "A macroeconomic model with a financial sector",
+            "volume": "104",
+            "author": "Brunnermeier",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2021",
+            "author": "Bybee",
+            "key": "2024101709142218300_hhae043-B19"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2195",
+            "DOI": "10.1016/j.jedc.2003.09.005",
+            "article-title": "Strategic asset allocation in a continuous-time var model",
+            "volume": "28",
+            "author": "Campbell",
+            "year": "2004",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1162/003355399556043",
+            "article-title": "Consumption and portfolio decisions when expected returns are time varying",
+            "volume": "114",
+            "author": "Campbell",
+            "year": "1999",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "3603",
+            "DOI": "10.1093/rfs/hhad021",
+            "article-title": "How to talk When a machine is listening: Corporate disclosure in the age of AI",
+            "volume": "36",
+            "author": "Cao",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2022",
+            "author": "Catherine",
+            "key": "2024101709142218300_hhae043-B23"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B24",
+            "first-page": "536",
+            "article-title": "M\u2019ethode g\u2019en\u2019erale pour la r\u2019esolution des systemes d\u201dequations simultan\u2019ees. Comptes rendus de l\u2019Acad\u2019emie",
+            "volume": "25",
+            "author": "Cauchy",
+            "year": "1847",
+            "journal-title": "des Sciences"
+        },
+        {
+            "year": "2021",
+            "author": "Chen",
+            "key": "2024101709142218300_hhae043-B25"
+        },
+        {
+            "journal-title": "Management Science",
+            "article-title": "Deep learning in asset pricing",
+            "year": "2023",
+            "author": "Chen",
+            "key": "2024101709142218300_hhae043-B26"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B27",
+            "first-page": "209",
+            "article-title": "Production-based asset pricing and the link between stock returns and economic fluctuations",
+            "volume": "46",
+            "author": "Cochrane",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1093/rfs/hhm059",
+            "article-title": "Two trees",
+            "volume": "21",
+            "author": "Cochrane",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "journal-title": "In Viscosity Solutions and Applications",
+            "article-title": "Viscosity solutions: A primer",
+            "year": "1995",
+            "author": "Crandall",
+            "key": "2024101709142218300_hhae043-B29"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1007/BF02551274",
+            "article-title": "Approximation by superposition of sigmoidal functions",
+            "volume": "2",
+            "author": "Cybenko",
+            "year": "1989",
+            "journal-title": "Mathematics of Control, Signals and Systems"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1605",
+            "DOI": "10.1111/j.1540-6261.2006.00884.x",
+            "article-title": "Market reactions to tangible and intangible information",
+            "volume": "61",
+            "author": "Daniel",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.1111/jofi.12539",
+            "article-title": "A model of monetary policy and risk premia",
+            "volume": "73",
+            "author": "Drechsler",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2018",
+            "author": "Duarte",
+            "key": "2024101709142218300_hhae043-B33"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "103796",
+            "DOI": "10.1016/j.jedc.2019.103796",
+            "article-title": "Benchmarking machine-learning software and hardware for quantitative economics",
+            "volume": "111",
+            "author": "Duarte",
+            "year": "2020",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "year": "2021",
+            "author": "Duarte",
+            "key": "2024101709142218300_hhae043-B35"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1080/00029890.1987.12000642",
+            "article-title": "On the runge example",
+            "volume": "94",
+            "author": "Epperson",
+            "year": "1987",
+            "journal-title": "The American Mathematical Monthly"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "869",
+            "DOI": "10.3982/ECTA18180",
+            "article-title": "Financial frictions and the wealth distribution",
+            "volume": "91",
+            "author": "Fernandez-Villaverde",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "903",
+            "DOI": "10.3982/QE744",
+            "article-title": "Solution methods for models with rare disasters",
+            "volume": "9",
+            "author": "Fernandez-Villaverde",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B39",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/restud/rdae011",
+            "article-title": "The Climate in Climate Economics*. The",
+            "author": "Folini",
+            "year": "2024",
+            "journal-title": "Review of Economic Studies rdae011"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.13090",
+            "article-title": "Predictably unequal? the effects of machine learning on credit markets",
+            "volume": "77",
+            "author": "Fuster",
+            "year": "2022",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "2309",
+            "DOI": "10.1111/jofi.12080",
+            "article-title": "Dynamic trading with predictable returns and transaction costs",
+            "volume": "68",
+            "author": "G\u00e2rleanu",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "Deep learning",
+            "year": "2016",
+            "author": "Goodfellow",
+            "key": "2024101709142218300_hhae043-B42"
+        },
+        {
+            "first-page": "21",
+            "volume-title": "Aliens and continuous time economies",
+            "year": "2021",
+            "author": "Gopalakrishna",
+            "key": "2024101709142218300_hhae043-B43"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B44",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1137/1.9780898717761",
+            "volume-title": "Evaluating derivatives: Principles and techniques of algorithmic differentiation",
+            "author": "Griewank",
+            "year": "2008",
+            "edition": "2nd ed"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2022",
+            "author": "Han",
+            "key": "2024101709142218300_hhae043-B46"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "258",
+            "DOI": "10.1287/opre.1030.0070",
+            "article-title": "Pricing american options: A duality approach",
+            "volume": "52",
+            "author": "Haugh",
+            "year": "2004",
+            "journal-title": "Operations Research"
+        },
+        {
+            "year": "2017",
+            "author": "Heess",
+            "key": "2024101709142218300_hhae043-B48"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1705",
+            "DOI": "10.1111/j.1540-6261.2007.01255.x",
+            "article-title": "How costly is external financing? evidence from a structural estimation",
+            "volume": "62",
+            "author": "Hennessy",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1016/0893-6080(91)90009-T",
+            "article-title": "Approximation capabilities of multilayer feedforward networks",
+            "volume": "4",
+            "author": "Hornik",
+            "year": "1991",
+            "journal-title": "Neural Networks"
+        },
+        {
+            "volume-title": "Dynamic programming and markov processes",
+            "year": "1960",
+            "author": "Howard",
+            "key": "2024101709142218300_hhae043-B51"
+        },
+        {
+            "year": "2009",
+            "author": "Jarrett",
+            "key": "2024101709142218300_hhae043-B52"
+        },
+        {
+            "year": "2019",
+            "author": "Jiang",
+            "key": "2024101709142218300_hhae043-B53"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "92",
+            "DOI": "10.1016/j.jedc.2014.03.003",
+            "article-title": "Smolyak method for solving dynamic economic models: Lagrange interpolation, anisotropic grid and adaptive domain",
+            "volume": "44",
+            "author": "Judd",
+            "year": "2014",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1016/j.jfineco.2021.04.012",
+            "article-title": "Heterogeneous intermediary asset pricing",
+            "volume": "141",
+            "author": "Kargar",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2022",
+            "author": "Kase",
+            "key": "2024101709142218300_hhae043-B56"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.1146/annurev-financial-102710-144905",
+            "article-title": "Predictability of returns and cash flows",
+            "volume": "3",
+            "author": "Koijen",
+            "year": "2011",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "first-page": "1097",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "year": "2012",
+            "author": "Krizhevsky",
+            "key": "2024101709142218300_hhae043-B58"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B59",
+            "first-page": "110",
+            "article-title": "Honey, I shrunk the sample covariance matrix",
+            "volume": "30",
+            "author": "Ledoit",
+            "year": "2004",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/0022-1082.00347",
+            "article-title": "Consumption, aggregate wealth, and expected stock returns",
+            "volume": "56",
+            "author": "Lettau",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/104.00000024",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "4",
+            "author": "Lewellen",
+            "year": "2015",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "3265",
+            "DOI": "10.1093/rfs/hhaa079",
+            "article-title": "Measuring corporate culture using machine learning",
+            "volume": "34",
+            "author": "Li",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "article-title": "Tune: A research platform for distributed model selection and training. arXiv, preprint",
+            "year": "2018",
+            "author": "Liaw",
+            "key": "2024101709142218300_hhae043-B63"
+        },
+        {
+            "year": "2015",
+            "author": "Lillicrap",
+            "key": "2024101709142218300_hhae043-B64"
+        },
+        {
+            "volume-title": "Recursive macroeconomic theory",
+            "year": "2000",
+            "author": "Ljungqvist",
+            "key": "2024101709142218300_hhae043-B65"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1093/rfs/14.1.113",
+            "article-title": "Valuing American options by simulation: A simple least-squares approach",
+            "volume": "14",
+            "author": "Longstaff",
+            "year": "2001",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1429",
+            "DOI": "10.2307/1913837",
+            "article-title": "Asset prices in an exchange economy",
+            "volume": "46",
+            "author": "Lucas",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "104295",
+            "DOI": "10.1016/j.jedc.2021.104295",
+            "article-title": "Deep learning classification: Modeling discrete labor choice",
+            "volume": "135",
+            "author": "Maliar",
+            "year": "2022",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "76",
+            "DOI": "10.1016/j.jmoneco.2021.07.004",
+            "article-title": "Deep learning for solving dynamic economic models",
+            "volume": "122",
+            "author": "Maliar",
+            "year": "2021",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.3982/ECTA8446",
+            "article-title": "The Lucas orchard",
+            "volume": "81",
+            "author": "Martin",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.1038/nature14236",
+            "article-title": "Human-level control through deep reinforcement learning",
+            "volume": "518",
+            "author": "Mnih",
+            "year": "2015",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "2381",
+            "DOI": "10.1111/jofi.12540",
+            "article-title": "The macroeconomics of shadow banking",
+            "volume": "72",
+            "author": "Moreira",
+            "year": "2017",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "Machine learning in asset pricing",
+            "year": "2021",
+            "author": "Nagel",
+            "key": "2024101709142218300_hhae043-B73"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "84",
+            "DOI": "10.1080/07474938.2011.607089",
+            "article-title": "Estimation of dynamic discrete choice models using artificial neural network approximations",
+            "volume": "31",
+            "author": "Norets",
+            "year": "2012",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "1555",
+            "DOI": "10.1017/S1365100516000821",
+            "article-title": "A comparison of numerical methods for the solution of continuous-time dsge models",
+            "volume": "22",
+            "author": "Parra-Alvarez",
+            "year": "2018",
+            "journal-title": "Macroeconomic Dynamics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "124",
+            "DOI": "10.1080/0015198X.2020.1854543",
+            "article-title": "Enhanced portfolio optimization",
+            "volume": "77",
+            "author": "Pedersen",
+            "year": "2021",
+            "journal-title": "Financial Analysts Journal"
+        },
+        {
+            "volume-title": "Approximate dynamic programming: Solving the curses of dimensionality (wiley series in probability and statistics).",
+            "year": "2007",
+            "author": "Powell",
+            "key": "2024101709142218300_hhae043-B77",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/9780470182963"
+        },
+        {
+            "year": "2018",
+            "author": "Rapin",
+            "key": "2024101709142218300_hhae043-B78"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.2307/1886087",
+            "article-title": "Options and efficiency",
+            "volume": "90",
+            "author": "Ross",
+            "year": "1976",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "696",
+            "DOI": "10.7551/mitpress/4943.003.0042",
+            "volume-title": "Neurocomputing: Foundations of research. chap. Learning Representations by Back-propagating Errors",
+            "author": "Rumelhart",
+            "year": "1988"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1093/jjfinec/nbaa025",
+            "article-title": "Deep learning for mortgage risk",
+            "volume": "19",
+            "author": "Sadhwani",
+            "year": "2021",
+            "journal-title": "Journal of Financial Econometrics"
+        },
+        {
+            "volume-title": "Projection methods via neural networks for continuous-time models",
+            "year": "2021",
+            "author": "Sauzet",
+            "key": "2024101709142218300_hhae043-B82",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2139/ssrn.3981838"
+        },
+        {
+            "year": "2015",
+            "author": "Schaul",
+            "key": "2024101709142218300_hhae043-B83"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1016/j.jocs.2019.03.004",
+            "article-title": "Machine learning for high-dimensional dynamic stochastic economies",
+            "volume": "33",
+            "author": "Scheidegger",
+            "year": "2019",
+            "journal-title": "Journal of Computational Science"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "484",
+            "DOI": "10.1038/nature16961",
+            "article-title": "Mastering the game of Go with deep neural networks and tree search",
+            "volume": "529",
+            "author": "Silver",
+            "year": "2016",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B86",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1038/nature24270",
+            "article-title": "Mastering the game of Go without human knowledge",
+            "volume": "550",
+            "author": "Silver",
+            "year": "2017",
+            "journal-title": "Nature"
+        },
+        {
+            "year": "2023",
+            "author": "Song",
+            "key": "2024101709142218300_hhae043-B87"
+        },
+        {
+            "volume-title": "Recursive methods in economic dynamics",
+            "year": "1989",
+            "author": "Stokey",
+            "key": "2024101709142218300_hhae043-B88",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctvjnrt76"
+        },
+        {
+            "edition": "1st ed",
+            "volume-title": "Introduction to reinforcement learning",
+            "year": "1998",
+            "author": "Sutton",
+            "key": "2024101709142218300_hhae043-B89"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B90",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1111/jofi.12018",
+            "article-title": "Can time-varying risk of rare disasters explain aggregate stock market volatility?",
+            "volume": "68",
+            "author": "Wachter",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2024101709142218300_hhae043-B91",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.1093/rfs/hhm014",
+            "article-title": "A comprehensive look at the empirical performance of equity premium prediction",
+            "volume": "21",
+            "author": "Welch",
+            "year": "2008",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae043/59172222/hhae043.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/11/3217/59762832/hhae043.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/37/11/3217/59762832/hhae043.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                17
+            ]
+        ],
+        "date-time": "2024-10-17T09:20:42Z",
+        "timestamp": 1729156842000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/37/11/3217/7749384"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                4
+            ]
+        ]
+    },
+    "references-count": 91,
+    "journal-issue": {
+        "issue": "11",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    11,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1093/rfs/hhae043",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                4
+            ]
+        ]
+    }
+}
