@@ -1,0 +1,615 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                28
+            ]
+        ],
+        "date-time": "2024-11-28T05:28:45Z",
+        "timestamp": 1732771725943,
+        "version": "3.29.0"
+    },
+    "reference-count": 85,
+    "publisher": "American Economic Association",
+    "issue": "12",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> We study regressions with multiple treatments and a set of controls that is flexible enough to purge omitted variable bias. We show these regressions generally fail to estimate convex averages of heterogeneous treatment effects\u2014instead, estimates of each treatment\u2019s effect are contaminated by nonconvex averages of the effects of other treatments. We discuss three estimation approaches that avoid such contamination bias, including the targeting of easiest-to-estimate weighted average effects. A reanalysis of nine empirical applications finds economically and statistically meaningful contamination bias in observational studies; contamination bias in experimental studies is more limited due to smaller variability in propensity scores. (JEL C21, C31, C51, H75, I21, I28) </jats:p>",
+    "DOI": "10.1257/aer.20221116",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                27
+            ]
+        ],
+        "date-time": "2024-11-27T13:25:17Z",
+        "timestamp": 1732713917000
+    },
+    "page": "4015-4051",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Contamination Bias in Linear Regressions"
+    ],
+    "prefix": "10.1257",
+    "volume": "114",
+    "author": [
+        {
+            "given": "Paul",
+            "family": "Goldsmith-Pinkham",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale University (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Hull",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Brown University (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Michal",
+            "family": "Koles\u00e1r",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Princeton University (email: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-080217-053402"
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA12675"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjab017"
+        },
+        {
+            "key": "p_4",
+            "unstructured": "Achilles, C. M., Helen Pate Bain, Fred Bellott, Jayne Boyd-Zaharias, Jeremy Finn, John Folger, John Johnston, and Elizabeth Word. 2008. Tennessee's Student Teacher Achievement Ratio (STAR) project (Version V1). Harvard Dataverse. https://doi.org/10.7910/DVN/SIWH9F."
+        },
+        {
+            "key": "p_5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2998558"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjx001"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/rest_a_01149"
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/(SICI)1099-1255(199901/02)14:1<57::AID-JAE501>3.0.CO;2-G"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Angrist, Joshua D., and Alan B. Krueger. 1999. \"Empirical Strategies in Labor Economics.\" In Handbook of Labor Economics, Vol. 3A, edited by Orley C. Ashenfelter and David Card, 1277-1366. Amsterdam: Elsevier.",
+            "DOI": "10.1016/S1573-4463(99)03004-7"
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Angrist, Joshua D., and J\u00f6rn-Steffen Pischke. 2009. Mostly Harmless Econometrics: An Empiricist's Companion. Princeton, NJ: Princeton University Press.",
+            "DOI": "10.1515/9781400829828"
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ajps.12185"
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.10.012"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Behaghel, Luc, Bruno Cr\u00e9pon, and Marc Gurgand. 2013. \"Robustness of the Encouragement Design in a Two-Treatment Randomized Control Trial.\" Unpublished.",
+            "DOI": "10.2139/ssrn.2283562"
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/pol.20130225"
+        },
+        {
+            "key": "p_15",
+            "unstructured": "Benhassine, Najy, Florencia Devoto, Esther Duflo, Pascaline Dupas, and Victor Pouliquen. 2024. Replication data for: \"Turning a Shove Into a Nudge? A \"Labeled Cash Transfer\" for Education (Version V2).\" Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E114579V2co."
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2024.105785"
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Blandhol, Christine, John Bonney, Magne Mogstad, and Alexander Torgovitsky. 2022. \"When is TSLS actually LATE?\" Unpublished.",
+            "DOI": "10.3386/w29709"
+        },
+        {
+            "key": "p_18",
+            "author": "Borusyak Kirill",
+            "year": "2024",
+            "journal-title": "Review of Economic Studies. https://doi.org/10.1093/restud/rdae007."
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.12.001"
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2009.09.023"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chattopadhyay, Ambarish, and Jose R. Zubizarreta. 2021. \"On the Implied Weights of Linear Regression for Causal Inference.\" Unpublished.",
+            "DOI": "10.1093/biomet/asac058"
+        },
+        {
+            "key": "p_22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/009053607000000947"
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ectj.12097"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA16294"
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA18515"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.104.9.2593"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/app.5.1.104"
+        },
+        {
+            "key": "p_28",
+            "unstructured": "Cole, Shawn, Xavier Gin\u00e9, Jeremy Tobacman, Petia Topalova, Robert Townsend, and James Vickery. 2019. Replication data for: \"Barriers to Household Risk Management: Evidence from India. (Version V1).\"Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E116379V1."
+        },
+        {
+            "key": "p_29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Crump, Richard K., V. Joseph Hotz, Guido W. Imbens, and Oscar A. Mitnik. 2006. \"Moving the Goalposts: Addressing Limited Overlap in the Estimation of Average Treatment Effects by Changing the Estimand.\" NBER Working Paper 0330.",
+            "DOI": "10.3386/t0330"
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/biomet/asn055"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2023.105480"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20181169"
+        },
+        {
+            "key": "p_33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/rssa.12561"
+        },
+        {
+            "key": "p_34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/app.5.2.122"
+        },
+        {
+            "key": "p_35",
+            "unstructured": "de Mel, Suresh, David McKenzie, and Christopher Woodruff. 2019. Replication data for: \"The Demand For, and Consequences of, Formalization Among Informal Firms in Sri Lanka (Version V1).\" Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E113847V1."
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20130612"
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/app.6.2.1"
+        },
+        {
+            "key": "p_38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Drexler, Alejandro, Greg Fischer, and Antoinette Schoar. 2019. Replication data for: \"Keeping it simple: Financial Literacy and Rules of Thumb (Version V1).\" Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https:// doi.org/10.3886/E113888V1.",
+            "DOI": "10.1257/app.6.2.1"
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20121607"
+        },
+        {
+            "key": "p_40",
+            "unstructured": "Duflo, Esther, Pascaline Dupas, and Michael Kremer. 2019. Replication data for: \"Education, HIV, and Early Fertility: Experimental Evidence from Kenya (Version V1).\"Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E112899V1."
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20201860"
+        },
+        {
+            "key": "p_42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.103.2.981"
+        },
+        {
+            "key": "p_43",
+            "unstructured": "Fryer, Roland G., and Steven D. Levitt. 2019. Replication data for: \"Testing for racial differences in the mental ability of young children (Version V1).\"Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi. org/10.3886/E112609V1."
+        },
+        {
+            "key": "p_44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Geruso, Michael, Timothy J. Layton, and Jacob Wallace. 2020. \"What Difference Does a Health Plan Make? Evidence from Random Plan Assignment in Medicaid.\" NBER Working Paper 27762.",
+            "DOI": "10.3386/w27762"
+        },
+        {
+            "key": "p_45",
+            "unstructured": "Goldsmith-Pinkham, Paul, Peter Hull, and Michal Koles\u00e1r. 2024. Data and Code for: \"Contamination Bias in Linear Regressions.\" Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research, Ann Arbor, MI. https://doi. org/10.3886/E207983V1."
+        },
+        {
+            "key": "p_46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2021.03.014"
+        },
+        {
+            "key": "p_47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2021.07.008"
+        },
+        {
+            "key": "p_48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hull, Peter D. 2018a. \"Isolateing: Identifying Counterfactual-Speci c Treatment Effects with Cross-Stratum Comparisons.\" https://dx.doi.org/10.2139/ssrn.2705108.",
+            "DOI": "10.2139/ssrn.2705108"
+        },
+        {
+            "key": "p_49",
+            "unstructured": "Hull, Peter D. 2018b. \"Estimating Treatment Effects in Mover Designs.\" https://doi.org/10.48550/ arXiv.1804.06721."
+        },
+        {
+            "key": "p_50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2951620"
+        },
+        {
+            "key": "p_51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Imbens, Guido W., Whitney Newey, and Geert Ridder. 2007. \"Mean-Squared-Error Calculations for Average Treatment Effects.\" Unpublished.",
+            "DOI": "10.2139/ssrn.954748"
+        },
+        {
+            "key": "p_52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.47.1.5"
+        },
+        {
+            "key": "p_53",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kane, Thomas J., and Douglas O. Staiger. 2008. \"Estimating Teacher Impacts on Student Achievement: An Experimental Evaluation.\" NBER Working Paper 14607.",
+            "DOI": "10.3386/w14607"
+        },
+        {
+            "key": "p_54",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Keogh-Brown, M. R., M. O. Bachmann, L. Shepstone, C. Hewitt, A. Howe, C. R. Ramsay, F. Song, J. N. V. Miles, D. J. Torgerson, S. Miles, D. Elbourne, I. Harvey, and M. J. Campbell. 2007. \"Contamination in Trials of Educational Interventions.\" Health Technology Assessment 11 (43).",
+            "DOI": "10.3310/hta11430"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA7372"
+        },
+        {
+            "key": "p_56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjw019"
+        },
+        {
+            "key": "p_57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjw027"
+        },
+        {
+            "key": "p_58",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.96.3.863"
+        },
+        {
+            "key": "p_59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/003355399556052"
+        },
+        {
+            "key": "p_60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA14269"
+        },
+        {
+            "key": "p_61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/19-AOAS1282"
+        },
+        {
+            "key": "p_62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.2016.1260466"
+        },
+        {
+            "key": "p_63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.103.5.1797"
+        },
+        {
+            "issue": "3",
+            "key": "p_64",
+            "first-page": "251",
+            "volume": "77",
+            "author": "Manning Willard G",
+            "year": "1987",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "p_65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA15463"
+        },
+        {
+            "key": "p_66",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20190221"
+        },
+        {
+            "key": "p_67",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mountjoy, Jack, and Brent R. Hickman. 2021. \"The Returns to College(S): Estimating Value-Added and Match Effects in Higher Education.\" NBER Working Paper 29276.",
+            "DOI": "10.3386/w29276"
+        },
+        {
+            "key": "p_68",
+            "unstructured": "Mueller-Smith, Michael. 2015. \"The Criminal and Labor Market Impacts of Incarceration.\" Unpublished."
+        },
+        {
+            "key": "p_69",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Norris, Samuel. 2019. \"Examiner Inconsistency: Evidence from Refugee Appeals.\" Unpublished.",
+            "DOI": "10.2139/ssrn.3267611"
+        },
+        {
+            "key": "p_70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/pandp.20201118"
+        },
+        {
+            "key": "p_71",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rim, Nayoung, Bocar Ba, and Roman Rivera. 2020b. Replication data for: \"Disparities In Police Award Nominations: Evidence from Chicago (Version V1).\"Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https:// doi.org/10.3886/E120749V1.",
+            "DOI": "10.1257/pandp.20201118"
+        },
+        {
+            "issue": "4",
+            "key": "p_72",
+            "first-page": "544",
+            "volume": "22",
+            "author": "Robins James",
+            "year": "2007",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "p_73",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2532304"
+        },
+        {
+            "key": "p_74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.1994.10476818"
+        },
+        {
+            "key": "p_75",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1912705"
+        },
+        {
+            "key": "p_76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466617000056"
+        },
+        {
+            "key": "p_77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/17-STS623"
+        },
+        {
+            "key": "p_78",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.09.006"
+        },
+        {
+            "key": "p_79",
+            "doi-asserted-by": "crossref",
+            "unstructured": "van der Vaart, A. W. 1998. Asymptotic Statistics. Cambridge: Cambridge University Press.",
+            "DOI": "10.1017/CBO9780511802256"
+        },
+        {
+            "key": "p_80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/pandp.20191028"
+        },
+        {
+            "key": "p_81",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Weisburst, Emily K. 2019b. Replication data for: \"Police Use of Force as an Extension of Arrests: Examining Disparities across Civilian and Officer Race (Version V1).\"Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E114511V1.",
+            "DOI": "10.1257/pandp.20191028"
+        },
+        {
+            "key": "p_82",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2007.02.002"
+        },
+        {
+            "key": "p_83",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wooldridge, Jeffrey M. 2021. \"Two-Way Fixed Effects, The Two-Way Mundlak Regression, and Difference-in-Differences Estimators.\" Unpublished.",
+            "DOI": "10.2139/ssrn.3906345"
+        },
+        {
+            "key": "p_84",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/biom.12505"
+        },
+        {
+            "key": "p_85",
+            "unstructured": "Zhou, Xiang, and Aleksei Opacic. 2022. \"Marginal Interventional Effects.\" Unpublished."
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20221116",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                27
+            ]
+        ],
+        "date-time": "2024-11-27T13:29:14Z",
+        "timestamp": 1732714154000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.20221116"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                1
+            ]
+        ]
+    },
+    "references-count": 85,
+    "journal-issue": {
+        "issue": "12",
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    12,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.20221116"
+    ],
+    "URL": "http://dx.doi.org/10.1257/aer.20221116",
+    "relation": {},
+    "ISSN": [
+        "0002-8282",
+        "1944-7981"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        },
+        {
+            "value": "1944-7981",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                1
+            ]
+        ]
+    }
+}
