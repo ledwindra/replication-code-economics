@@ -1,0 +1,982 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                7,
+                26
+            ]
+        ],
+        "date-time": "2024-07-26T07:48:54Z",
+        "timestamp": 1721980134783
+    },
+    "reference-count": 104,
+    "publisher": "Copernicus GmbH",
+    "issue": "18",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        9,
+                        29
+                    ]
+                ],
+                "date-time": "2022-09-29T00:00:00Z",
+                "timestamp": 1664409600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100013209",
+            "name": "Hellenic Foundation for Research and Innovation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "544"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100013209",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100001655",
+            "name": "Deutscher Akademischer Austauschdienst",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "57370121"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100001655",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000305",
+            "name": "Sight Research UK",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "NE/M018288/1"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100000305",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100010663",
+            "name": "H2020 European Research Council",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100010663",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Atmos. Chem. Phys."
+    ],
+    "abstract": "<jats:p>Abstract. Dust particles larger than 20\u2009\u00b5m in diameter have been\nregularly observed to remain airborne during long-range transport. In this\nwork, we modify the parameterization of the mineral dust cycle in the\nGOCART-AFWA dust scheme of WRFV4.2.1 to also include such coarse and giant particles, and we further discuss the underlying misrepresented physical\nmechanisms which hamper the model in reproducing adequately the transport of\nthe coarse and giant mineral particles. The initial particle size\ndistribution is constrained by observations over desert dust sources.\nFurthermore, the Stokes drag coefficient has been updated to account for realistic dust particle sizes (Re\u2009&lt;\u2009105). The new code was\napplied to simulate dust transport over Cabo Verde in August 2015 (AER-D campaign). Model results are evaluated against airborne dust measurements\nand the CALIPSO-LIVAS pure dust product. The results show that the modeled lifetimes of the coarser particles are shorter than those observed. Several\nsensitivity runs are performed by reducing artificially the particles'\nsettling velocities in order to compensate underrepresented mechanisms, such\nas the non-spherical aerodynamics, in the relevant parameterization schemes.\nOur simulations reveal that particles with diameters of 5.5\u201317 and\n40\u2013100\u2009\u00b5m are better represented under the assumption of an 80\u2009% reduction in the settling velocity (UR80), while particles with sizes ranging between 17 and 40\u2009\u00b5m are better represented in a 60\u2009%\nreduction in settling velocity (UR60) scenario. The overall statistical\nanalysis indicates that the best agreement with airborne in situ measurements downwind (Cabo Verde) is achieved with a 40\u2009% reduction in settling velocity (UR40). Moreover, the UR80 experiment improves the\nrepresentation of the vertical structure of the dust layers as those are\ncaptured by the CALIPSO-LIVAS vertically resolved pure dust observations. The current study highlights the necessity of upgrading the existing model\nparameterization schemes of the dust life-cycle components towards improving\nthe assessment of the dust-related impacts within the Earth\u2013atmosphere system.\n                    </jats:p>",
+    "DOI": "10.5194/acp-22-12727-2022",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                29
+            ]
+        ],
+        "date-time": "2022-09-29T11:13:11Z",
+        "timestamp": 1664449991000
+    },
+    "page": "12727-12748",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": [
+        "Modeling coarse and giant desert dust particles"
+    ],
+    "prefix": "10.5194",
+    "volume": "22",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0001-8568-5114",
+            "authenticated-orcid": false,
+            "given": "Eleni",
+            "family": "Drakaki",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Vassilis",
+            "family": "Amiridis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Alexandra",
+            "family": "Tsekeri",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-4137-0724",
+            "authenticated-orcid": false,
+            "given": "Antonis",
+            "family": "Gkikas",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-9547-3019",
+            "authenticated-orcid": false,
+            "given": "Emmanouil",
+            "family": "Proestakis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-9504-6786",
+            "authenticated-orcid": false,
+            "given": "Sotirios",
+            "family": "Mallios",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Stavros",
+            "family": "Solomos",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-3074-3230",
+            "authenticated-orcid": false,
+            "given": "Christos",
+            "family": "Spyrou",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-2631-6057",
+            "authenticated-orcid": false,
+            "given": "Eleni",
+            "family": "Marinou",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-9892-6113",
+            "authenticated-orcid": false,
+            "given": "Claire L.",
+            "family": "Ryder",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Demetri",
+            "family": "Bouris",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Petros",
+            "family": "Katsafados",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "3145",
+    "published-online": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                29
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Amiridis, V., Wandinger, U., Marinou, E., Giannakaki, E., Tsekeri, A.,\nBasart, S., Kazadzis, S., Gkikas, A., Taylor, M., Baldasano, J., and Ansmann,\nA.: Optimizing CALIPSO Saharan dust retrievals, Atmos. Chem. Phys., 13,\n12089\u201312106, https://doi.org/10.5194/acp-13-12089-2013, 2013.",
+            "DOI": "10.5194/acp-13-12089-2013"
+        },
+        {
+            "key": "ref2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Amiridis, V., Marinou, E., Tsekeri, A., Wandinger, U., Schwarz, A.,\nGiannakaki, E., Mamouri, R., Kokkalis, P., Binietoglou, I., Solomos, S.,\nHerekakis, T., Kazadzis, S., Gerasopoulos, E., Proestakis, E., Kottas, M.,\nBalis, D., Papayannis, A., Kontoes, C., Kourtidis, K., Papagiannopoulos, N.,\nMona, L., Pappalardo, G., Le Rille, O., and Ansmann, A.: LIVAS: a 3-D\nmulti-wavelength aerosol/cloud database based on CALIPSO and EARLINET,\nAtmos. Chem. Phys., 15, 7127\u20137153, https://doi.org/10.5194/acp-15-7127-2015, 2015.",
+            "DOI": "10.5194/acp-15-7127-2015"
+        },
+        {
+            "key": "ref3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Basart, S., Vendrell, L., and Baldasano, J. M.: High-resolution dust\nmodelling over complex terrains in West Asia, Aeolian Res., 23, 37\u201350,\nhttps://doi.org/10.1016/j.aeolia.2016.09.005, 2016.",
+            "DOI": "10.1016/j.aeolia.2016.09.005"
+        },
+        {
+            "key": "ref4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bullard, J. E., Baddock, M., Bradwell, T., Crusius, J., Darlington, E.,\nGaiero, D., Gass\u00f3, S., Gisladottir, G., Hodgkins, R., McCulloch, R.,\nMcKenna-Neuman, C., Mockford, T., Stewart, H., and Thorsteinsson, T.:\nHigh-latitude dust in the Earth system, Rev. Geophys., 54, 447\u2013485, 2016.",
+            "DOI": "10.1002/2016RG000518"
+        },
+        {
+            "key": "ref5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chimot, J., Veefkind, J. P., Vlemmix, T., de Haan, J. F., Amiridis, V., Proestakis, E., Marinou, E., and Levelt, P. F.: An exploratory study on the aerosol height retrieval from OMI measurements of the 477\u2009nm O2\u2009\u2212\u2009O2 spectral band using a neural network approach, Atmos. Meas. Tech., 10, 783\u2013809, https://doi.org/10.5194/amt-10-783-2017, 2017.",
+            "DOI": "10.5194/amt-10-783-2017"
+        },
+        {
+            "key": "ref6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Clift, R. and Gauvin, W. H.: Motion of entrained particles in gas streams,\nCan. J. Chem. Eng., 49, 439\u2013448, https://doi.org/10.1002/cjce.5450490403, 1971.",
+            "DOI": "10.1002/cjce.5450490403"
+        },
+        {
+            "key": "ref7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cowie, S. M., Knippertz, P., and Marsham, J. H.: A climatology of dust\nemission events from Northern Africa using long-term surface observations,\nAtmos. Chem. Phys., 14, 8579\u20138597, https://doi.org/10.5194/acp-14-8579-2014, 2014.",
+            "DOI": "10.5194/acp-14-8579-2014"
+        },
+        {
+            "key": "ref8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Danielson, J. J. and Gesch, D. B.: Global multi-resolution terrain elevation\ndata 2010 (GMTED2010), Open-File Report,\nhttps://doi.org/10.3133/ofr20111073, 2011.",
+            "DOI": "10.3133/ofr20111073"
+        },
+        {
+            "key": "ref9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daskalopoulou, V., Mallios, S. A., Ulanowski, Z., Hloupis, G., Gialitaki,\nA., Tsikoudi, I., Tassis, K., and Amiridis, V.: The electrical activity of\nSaharan dust as perceived from surface electric field observations, Atmos.\nChem. Phys., 21, 927\u2013949, https://doi.org/10.5194/acp-21-927-2021, 2021.",
+            "DOI": "10.5194/acp-21-927-2021"
+        },
+        {
+            "key": "ref10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Davies, C. N.: Definitive equations for the fluid resistance of spheres,\nProc. Phys. Soc., 57, 259\u2013270, https://doi.org/10.1088/0959-5309/57/4/301, 1945.",
+            "DOI": "10.1088/0959-5309/57/4/301"
+        },
+        {
+            "key": "ref11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Diehl, K., Debertsh\u00e4user, M., Eppers, O., Schmith\u00fcsen, H., Mitra, S.\nK., and Borrmann, S.: Particle surface area dependence of mineral dust in\nimmersion freezing mode: Investigations with freely suspended drops in an\nacoustic levitator and a vertical wind tunnel, Atmos. Chem. Phys., 14,\n12343\u201312355, https://doi.org/10.5194/acp-14-12343-2014, 2014.",
+            "DOI": "10.5194/acp-14-12343-2014"
+        },
+        {
+            "key": "ref12",
+            "unstructured": "Du, Y., Xu, X., Chu, M., Guo, Y., and Wang, J.: Air particulate matter and\ncardiovascular disease: The epidemiological, biomedical and clinical\nevidence, J. Thorac. Dis., 8, E8\u2013E19,\nhttps://doi.org/10.3978/j.issn.2072-1439.2015.11.37, 2016."
+        },
+        {
+            "key": "ref13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dubovik, O., Holben, B. N., Lapyonok, T., Sinyuk, A., Mishchenko, M. I.,\nYang, P., and Slutsker, I.: Non-spherical aerosol retrieval method employing\nlight scattering by spheroids, Geophys. Res. Lett., 29, 54-1\u201354-4, 2002.",
+            "DOI": "10.1029/2001GL014506"
+        },
+        {
+            "key": "ref14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Eden, H. F. and Vonnegut, B.: Electrical Breakdown Caused by Dust Motion in\nLow-Pressure Atmospheres: Considerations for Mars, Science,\n180, 962\u2013963, https://doi.org/10.1126/science.180.4089.962, 1973.",
+            "DOI": "10.1126/science.180.4089.962"
+        },
+        {
+            "key": "ref15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Escribano, J., Di Tomaso, E., Jorba, O., Klose, M., Gon\u00e7alves Ageitos, M., Macchia, F., Amiridis, V., Baars, H., Marinou, E., Proestakis, E., Urbanneck, C., Althausen, D., B\u00fchl, J., Mamouri, R.-E., and P\u00e9rez Garc\u00eda-Pando, C.: Assimilating spaceborne lidar dust extinction can improve dust forecasts, Atmos. Chem. Phys., 22, 535\u2013560, https://doi.org/10.5194/acp-22-535-2022, 2022.",
+            "DOI": "10.5194/acp-22-535-2022"
+        },
+        {
+            "key": "ref16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ette, A. I. I.: The effect of the Harmattan dust on atmospheric electric\nparameters, J. Atmos.-Terr. Phys., 33, 295\u2013300,\nhttps://doi.org/10.1016/0021-9169(71)90208-X, 1971.",
+            "DOI": "10.1016/0021-9169(71)90208-X"
+        },
+        {
+            "key": "ref17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gasteiger, J., Gro\u00df, S., Sauer, D., Haarig, M., Ansmann, A., and\nWeinzierl, B.: Particle settling and vertical mixing in the Saharan Air\nLayer as seen from an integrated model, lidar, and in situ perspective,\nAtmos. Chem. Phys., 17, 297\u2013311, https://doi.org/10.5194/acp-17-297-2017, 2017.",
+            "DOI": "10.5194/acp-17-297-2017"
+        },
+        {
+            "key": "ref18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Georgoulias, A. K., Alexandri, G., Kourtidis, K. A., Lelieveld, J., Zanis, P., P\u00f6schl, U., Levy, R., Amiridis, V., Marinou, E., and Tsikerdekis, A.: Spatiotemporal variability and contribution of different aerosol types to the aerosol optical depth over the Eastern Mediterranean, Atmos. Chem. Phys., 16, 13853\u201313884, https://doi.org/10.5194/acp-16-13853-2016, 2016.",
+            "DOI": "10.5194/acp-16-13853-2016"
+        },
+        {
+            "key": "ref19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Georgoulias, A. K., Tsikerdekis, A., Amiridis, V., Marinou, E., Benedetti,\nA., Zanis, P., Alexandri, G., Mona, L., Kourtidis, K. A., and Lelieveld, J.:\nA 3-D evaluation of the MACC reanalysis dust product over Europe, northern\nAfrica and Middle East using CALIOP/CALIPSO dust satellite observations,\nAtmos. Chem. Phys., 18, 8601\u20138620, https://doi.org/10.5194/acp-18-8601-2018, 2018.",
+            "DOI": "10.5194/acp-18-8601-2018"
+        },
+        {
+            "key": "ref20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Georgoulias, A. K., Boersma, K. F., Van Vliet, J., Zhang, X., Van Der A, R.,\nZanis, P., and De Laat, J.: Detection of NO2 pollution plumes from individual\nships with the TROPOMI/S5P satellite sensor, Environ. Res. Lett., 15, 124037,\nhttps://doi.org/10.1088/1748-9326/abc445, 2020.",
+            "DOI": "10.1088/1748-9326/abc445"
+        },
+        {
+            "key": "ref21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Giannadaki, D., Pozzer, A., and Lelieveld, J.: Modeled global effects of\nairborne desert dust on air quality and premature mortality, Atmos. Chem.\nPhys., 14, 957\u2013968, https://doi.org/10.5194/acp-14-957-2014, 2014.",
+            "DOI": "10.5194/acp-14-957-2014"
+        },
+        {
+            "key": "ref22",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Giles, D. M., Sinyuk, A., Sorokin, M. G., Schafer, J. S., Smirnov, A.,\nSlutsker, I., Eck, T. F., Holben, B. N., Lewis, J. R., Campbell, J. R.,\nWelton, E. J., Korkin, S. V., and Lyapustin, A. I.: Advancements in the\nAerosol Robotic Network (AERONET) Version 3 database \u2013 Automated\nnear-real-time quality control algorithm with improved cloud screening for\nSun photometer aerosol optical depth (AOD) measurements, Atmos. Meas. Tech.,\n12, 169\u2013209, https://doi.org/10.5194/amt-12-169-2019, 2019.",
+            "DOI": "10.5194/amt-12-169-2019"
+        },
+        {
+            "key": "ref23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gilliam, R. C. and Pleim, J. E.: Performance Assessment of New Land Surface\nand Planetary Boundary Layer Physics in the WRF-ARW, J. Appl. Meteorol.\nClimatol., 49, 760\u2013774, https://doi.org/10.1175/2009JAMC2126.1, 2010.",
+            "DOI": "10.1175/2009JAMC2126.1"
+        },
+        {
+            "key": "ref24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ginoux, P.: Effects of nonsphericity on mineral dust modeling, J. Geophys.\nRes., 108, 4052, https://doi.org/10.1029/2002jd002516, 2003.",
+            "DOI": "10.1029/2002JD002516"
+        },
+        {
+            "key": "ref25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ginoux, P., Chin, M., Tegen, I., Goddard, T., and In, G.: Sources and\ndistributions of dust aerosols simulated with the GOCART model, J. Geophys.\nRes., 106, 20255\u201320273, 2001.",
+            "DOI": "10.1029/2000JD000053"
+        },
+        {
+            "key": "ref26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ginoux, P., Prospero, J. M., Gill, T. E., Hsu, N. C., and Zhao, M.:\nGlobal-scale attribution of anthropogenic and natural dust sources and their\nemission rates based on MODIS Deep Blue aerosol products, Rev. Geophys.,\n50, 1\u201336, https://doi.org/10.1029/2012RG000388, 2012.",
+            "DOI": "10.1029/2012RG000388"
+        },
+        {
+            "key": "ref27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gkikas, A., Proestakis, E., Amiridis, V., Kazadzis, S., Di Tomaso, E.,\nTsekeri, A., Marinou, E., Hatzianastassiou, N., and P\u00e9rez\nGarci\u00e1-Pando, C.: ModIs Dust AeroSol (MIDAS): A global fine-resolution\ndust optical depth data set, Atmos. Meas. Tech., 14, 309\u2013334,\nhttps://doi.org/10.5194/amt-14-309-2021, 2021.",
+            "DOI": "10.5194/amt-14-309-2021"
+        },
+        {
+            "key": "ref28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gli\u00df, J., Mortier, A., Schulz, M., Andrews, E., Balkanski, Y., Bauer, S.\nE., Benedictow, A. M. K., Bian, H., Checa-Garcia, R., Chin, M., Ginoux, P.,\nGriesfeller, J. J., Heckel, A., Kipling, Z., Kirkev\u00e4g, A., Kokkola, H.,\nLaj, P., Le Sager, P., Tronstad Lund, M., Lund Myhre, C., Matsui, H., Myhre,\nG., Neubauer, D., Van Noije, T., North, P., Olivi\u00e9, D. J. L., R\u00e9my,\nS., Sogacheva, L., Takemura, T., Tsigaridis, K., and Tsyro, S. G.: AeroCom\nphase III multi-model evaluation of the aerosol life cycle and optical\nproperties using ground- And space-based remote sensing as well as surface\nin situ observations, Atmos. Chem. Phys., 21, 87\u2013128,\nhttps://doi.org/10.5194/acp-21-87-2021, 2021.",
+            "DOI": "10.5194/acp-21-87-2021"
+        },
+        {
+            "key": "ref29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goudie, A. S.: Desert dust and human health disorders, Environ. Int., 63,\n101\u2013113, https://doi.org/10.1016/j.envint.2013.10.011, 2014.",
+            "DOI": "10.1016/j.envint.2013.10.011"
+        },
+        {
+            "key": "ref30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goudie, A. S. and Middleton, N. J.: Desert Dust in the Global System, Springer, Berlin, Heidelberg, https://doi.org/10.1007/3-540-32355-4, 2006.",
+            "DOI": "10.1007/3-540-32355-4"
+        },
+        {
+            "key": "ref31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grell, G. A., Peckham, S. E., Schmitz, R., McKeen, S. A., Frost, G.,\nSkamarock, W. C., and Eder, B.: Fully coupled \u201conline\u201d chemistry within the\nWRF model, Atmos. Environ., 39, 6957\u20136975,\nhttps://doi.org/10.1016/j.atmosenv.2005.04.027, 2005.",
+            "DOI": "10.1016/j.atmosenv.2005.04.027"
+        },
+        {
+            "key": "ref32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gu, Z., He, Y., Zhang, Y., Su, J., Zhang, R., Yu, C. W., and Zhang, D.: An\noverview of triggering mechanisms and characteristics of local strong\nsandstorms in china and haboobs, Atmosphere, 12, 1\u201317,\nhttps://doi.org/10.3390/atmos12060752, 2021.",
+            "DOI": "10.3390/atmos12060752"
+        },
+        {
+            "key": "ref33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hansen, J. E. and Travis, L. D.: Light scattering in planetary atmospheres,\nSpace Sci. Rev., 16, 527\u2013610, https://doi.org/10.1007/BF00168069, 1974.",
+            "DOI": "10.1007/BF00168069"
+        },
+        {
+            "key": "ref34",
+            "unstructured": "Harb, K., Butt, O., Abdul-jauwad, S., and Al-yami, A. M.: Systems Adaptation\nfor Satellite Signal under Dust, Sand and Gaseous Attenuations, J. Wirel.\nNetw. Commun., 3, 39\u201349, 2013."
+        },
+        {
+            "key": "ref35",
+            "unstructured": "Hilsenrath J. , Beckett C. W., Benedict W. S., Fano L., Hoge H. J., Masi J. F., Nuttall R. L., Touloukian Y. S., and Woolley H. W.: Tables of thermal properties of gases: comprising tables of thermodynamic and transport properties of air argon carbon dioxide carbon monoxide hydrogen nitrogen oxygen and steam, U.S. Government Printing Office, 1955."
+        },
+        {
+            "key": "ref36",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Huang, Y., Kok, J. F., Kandler, K., Lindqvist, H., Nousiainen, T., Sakai,\nT., Adebiyi, A., and Jokinen, O.: Climate Models and Remote Sensing\nRetrievals Neglect Substantial Desert Dust Asphericity, Geophys. Res. Lett.,\n47, 1\u201311, https://doi.org/10.1029/2019GL086592, 2020,",
+            "DOI": "10.1029/2019GL086592"
+        },
+        {
+            "key": "ref37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Huneeus, N., Schulz, M., Balkanski, Y., Griesfeller, J., Prospero, J.,\nKinne, S., Bauer, S., Boucher, O., Chin, M., Dentener, F., Diehl, T.,\nEaster, R., Fillmore, D., Ghan, S., Ginoux, P., Grini, A., Horowitz, L.,\nKoch, D., Krol, M. C., Landing, W., Liu, X., Mahowald, N., Miller, R.,\nMorcrette, J.-J., Myhre, G., Penner, J., Perlwitz, J., Stier, P., Takemura,\nT., and Zender, C. S.: Global dust model intercomparison in AeroCom phase I,\nAtmos. Chem. Phys., 11, 7781\u20137816, https://doi.org/10.5194/acp-11-7781-2011, 2011.",
+            "DOI": "10.5194/acp-11-7781-2011"
+        },
+        {
+            "key": "ref38",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jayaratne, E. R.: Charge separation during the impact of sand on ice and its\nrelevance to theories of thunderstrom electrification, Atmos. Res., 26,\n407\u2013424, https://doi.org/https://doi.org/10.1016/0169-8095(91)90061-Z, 1991.",
+            "DOI": "10.1016/0169-8095(91)90061-Z"
+        },
+        {
+            "key": "ref39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jennings, S. G.: The mean free path in air, J. Aerosol Sci., 19,\n159\u2013166, https://doi.org/10.1016/0021-8502(88)90219-4, 1988.",
+            "DOI": "10.1016/0021-8502(88)90219-4"
+        },
+        {
+            "key": "ref40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jickells, T., Boyd, P., and Hunter, K. A.: Biogeochemical Impacts of Dust on\nthe Global Carbon Cycle, in: Mineral Dust: A Key Player in the Earth System,\nedited by: Knippertz, P. and Stuut, J.-B. W., 359\u2013384, Springer\nNetherlands, Dordrecht,\nISBN 978-940178978-3, 2014.",
+            "DOI": "10.1007/978-94-017-8978-3_14"
+        },
+        {
+            "key": "ref41",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jickells, T. D., An, Z. S., Andersen, K. K., Baker, A. R., Bergametti, C.,\nBrooks, N., Cao, J. J., Boyd, P. W., Duce, R. A., Hunter, K. A., Kawahata,\nH., Kubilay, N., LaRoche, J., Liss, P. S., Mahowald, N., Prospero, J. M.,\nRidgwell, A. J., Tegen, I., and Torres, R.: Global iron connections between\ndesert dust, ocean biogeochemistry, and climate, Science,\n308, 67\u201371, https://doi.org/10.1126/science.1105959, 2005.",
+            "DOI": "10.1126/science.1105959"
+        },
+        {
+            "key": "ref42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kandler, K., Sch\u00fcTZ, L., Deutscher, C., Ebert, M., Hofmann, H., J\u00e4CKEL, S., Jaenicke, R., Knippertz, P., Lieke, K., Massling, A., Petzold, A., Schladitz, A., Weinzierl, B., Wiedensohler, A., Zorn, S., and Weinbruch, S.: Size distribution, mass concentration, chemical and\nmineralogical composition and derived optical parameters of the boundary\nlayer aerosol at Tinfou, Morocco, during SAMUM 2006, Tellus B, 61,\n32\u201350, https://doi.org/10.1111/j.1600-0889.2008.00385.x, 2009.",
+            "DOI": "10.1111/j.1600-0889.2008.00385.x"
+        },
+        {
+            "key": "ref43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Knippertz, P. and Stuut, W. J.-B. (Eds.): Mineral Dust: A Key Player\nin the Earth System, Springer Science, 2014.",
+            "DOI": "10.1007/978-94-017-8978-3"
+        },
+        {
+            "key": "ref44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kok, J. F.: An improved parameterization of wind-blown sand flux on Mars\nthat includes the effect of hysteresis, Geophys. Res. Lett., 37,\nhttps://doi.org/10.1029/2010GL043646, 2010.",
+            "DOI": "10.1029/2010GL043646"
+        },
+        {
+            "key": "ref45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kok, J. F.: A scaling theory for the size distribution of emitted dust\naerosols suggests climate models underestimate the size of the global dust\ncycle, P. Natl. Acad. Sci. USA, 108, 1016\u20131021,\nhttps://doi.org/10.1073/pnas.1014798108, 2011.",
+            "DOI": "10.1073/pnas.1014798108"
+        },
+        {
+            "key": "ref46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kok, J. F., Adebiyi, A. A., Albani, S., Balkanski, Y., Checa-Garcia, R.,\nChin, M., Colarco, P. R., Hamilton, D. S., Huang, Y., Ito, A., Klose, M.,\nLeung, D. M., Li, L., Mahowald, N. M., Miller, R. L., Obiso, V., P\u00e9rez\nGarc\u00eda-Pando, C., Rocha-Lima, A., Wan, J. S., and Whicker, C. A.:\nImproved representation of the global dust cycle using observational\nconstraints on dust properties and abundance, Atmos. Chem. Phys., 21,\n8127\u20138167, https://doi.org/10.5194/acp-21-8127-2021, 2021.",
+            "DOI": "10.5194/acp-21-8127-2021"
+        },
+        {
+            "key": "ref47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Konsta, D., Binietoglou, I., Gkikas, A., Solomos, S., Marinou, E.,\nProestakis, E., Basart, S., Garc\u00eda-Pando, C. P., El-Askary, H., and\nAmiridis, V.: Evaluation of the BSC-DREAM8b regional dust model using the 3D\nLIVAS-CALIPSO product, Atmos. Environ., 195, 46\u201362,\nhttps://doi.org/10.1016/j.atmosenv.2018.09.047, 2018.",
+            "DOI": "10.1016/j.atmosenv.2018.09.047"
+        },
+        {
+            "key": "ref48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kosmopoulos, P. G., Kazadzis, S., El-Askary, H., Taylor, M., Gkikas, A.,\nProestakis, E., Kontoes, C., and El-Khayat, M. M.: Earth-observation-based\nestimation and forecasting of particulate matter impact on solar energy in\nEgypt, Remote Sens., 10, 1\u201323, https://doi.org/10.3390/rs10121870, 2018.",
+            "DOI": "10.3390/rs10121870"
+        },
+        {
+            "key": "ref49",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Krauss, C. E., Hor\u00e1nyi, M., and Robertson, S.: Experimental evidence for\nelectrostatic discharging of dust near the surface of Mars, New J. Phys., 5, 70 pp.,\nhttps://doi.org/10.1088/1367-2630/5/1/370, 2003.",
+            "DOI": "10.1088/1367-2630/5/1/370"
+        },
+        {
+            "key": "ref50",
+            "doi-asserted-by": "crossref",
+            "unstructured": "LeGrand, S. L., Polashenski, C., Letcher, T. W., Creighton, G. A., Peckham,\nS. E., and Cetola, J. D.: The AFWA dust emission scheme for the GOCART\naerosol model in WRF-Chem v3.8.1, Geosci. Model Dev., 12, 131\u2013166,\nhttps://doi.org/10.5194/gmd-12-131-2019, 2019.",
+            "DOI": "10.5194/gmd-12-131-2019"
+        },
+        {
+            "key": "ref51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Li, J. and Osada, K.: Preferential settling of elongated mineral dust\nparticles in the atmosphere, Geophys. Res. Lett., 34, 17807, https://doi.org/10.1029/2007GL030262, 2007.",
+            "DOI": "10.1029/2007GL030262"
+        },
+        {
+            "key": "ref52",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Liu, D., Taylor, J. W., Crosier, J., Marsden, N., Bower, K. N., Lloyd, G.,\nRyder, C. L., Brooke, J. K., Cotton, R., Marenco, F., Blyth, A., Cui, Z.,\nEstelles, V., Gallagher, M., Coe, H., and Choularton, T. W.: Aircraft and\nground measurements of dust aerosols over the west African coast in summer\n2015 during ICE-D and AER-D, Atmos. Chem. Phys., 18, 3817\u20133838,\nhttps://doi.org/10.5194/acp-18-3817-2018, 2018.",
+            "DOI": "10.5194/acp-18-3817-2018"
+        },
+        {
+            "key": "ref53",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Loth, E.: Drag of non-spherical solid particles of regular and irregular\nshape, Powder Technol., 182, 342\u2013353, https://doi.org/10.1016/j.powtec.2007.06.001,\n2008.",
+            "DOI": "10.1016/j.powtec.2007.06.001"
+        },
+        {
+            "key": "ref54",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mahowald, N., Albani, S., Kok, J. F., Engelstaeder, S., Scanza, R., Ward, D.\nS., and Flanner, M. G.: The size distribution of desert dust aerosols and its\nimpact on the Earth system, Aeolian Res., 15, 53\u201371,\nhttps://doi.org/10.1016/j.aeolia.2013.09.002, 2014.",
+            "DOI": "10.1016/j.aeolia.2013.09.002"
+        },
+        {
+            "key": "ref55",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mallios, S. A., Drakaki, E., and Amiridis, V.: Effects of dust particle\nsphericity and orientation on their gravitational settling in the earth's\natmosphere, J. Aerosol Sci., 150, 105634,\nhttps://doi.org/10.1016/j.jaerosci.2020.105634, 2020.",
+            "DOI": "10.1016/j.jaerosci.2020.105634"
+        },
+        {
+            "key": "ref56",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mallios, S. A., Papangelis, G., Hloupis, G., Papaioannou, A., Daskalopoulou,\nV., and Amiridis, V.: Modeling of Spherical Dust Particle Charging due to Ion\nAttachment, Front. Earth Sci., 9, 1\u201322,\nhttps://doi.org/10.3389/feart.2021.709890, 2021a.",
+            "DOI": "10.3389/feart.2021.709890"
+        },
+        {
+            "key": "ref57",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mallios, S. A., Daskalopoulou, V., and Amiridis, V.: Orientation of non\nspherical prolate dust particles moving vertically in the Earth's\natmosphere, J. Aerosol Sci., 151, 105657,\nhttps://doi.org/10.1016/j.jaerosci.2020.105657, 2021b.",
+            "DOI": "10.1016/j.jaerosci.2020.105657"
+        },
+        {
+            "key": "ref58",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mallios, S. A., Daskalopoulou, V., and Amiridis, V.: Modeling of the\nelectrical interaction between desert dust particles and the Earth's\natmosphere, J. Aerosol Sci., 165, 106044,\nhttps://doi.org/https://doi.org/10.1016/j.jaerosci.2022.106044, 2022.",
+            "DOI": "10.1016/j.jaerosci.2022.106044"
+        },
+        {
+            "key": "ref59",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Maring, H.: Mineral dust aerosol size distribution change during atmospheric\ntransport, J. Geophys. Res., 108, 8592, https://doi.org/10.1029/2002JD002536, 2003.",
+            "DOI": "10.1029/2002JD002536"
+        },
+        {
+            "key": "ref60",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Marinou, E., Amiridis, V., Binietoglou, I., Tsikerdekis, A., Solomos, S.,\nProestakis, E., Konsta, Di., Papagiannopoulos, N., Tsekeri, A., Vlastou, G.,\nZanis, P., Balis, Di., Wandinger, U., and Ansmann, A.: Three-dimensional\nevolution of Saharan dust transport towards Europe based on a 9-year\nEARLINET-optimized CALIPSO dataset, Atmos. Chem. Phys., 17, 5893\u20135919,\nhttps://doi.org/10.5194/acp-17-5893-2017, 2017.",
+            "DOI": "10.5194/acp-17-5893-2017"
+        },
+        {
+            "key": "ref61",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Marinou, E., Tesche, M., Nenes, A., Ansmann, A., Schrod, J., Mamali, D.,\nTsekeri, A., Pikridas, M., Baars, H., Engelmann, R., Voudouri, K. A.,\nSolomos, S., Sciare, J., Gro\u00df, S., Ewald, F., and Amiridis, V.: Retrieval\nof ice-nucleating particle concentrations from lidar observations and\ncomparison with UAV in situ measurements, Atmos. Chem. Phys., 19,\n11315\u201311342, https://doi.org/10.5194/acp-19-11315-2019, 2019.",
+            "DOI": "10.5194/acp-19-11315-2019"
+        },
+        {
+            "key": "ref62",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Meng, J., Huang, Y., Leung, D. M., Li, L., Adebiyi, A. A., Ryder, C. L.,\nMahowald, N. M., and Kok, J. F.: Improved Parameterization for the Size\nDistribution of Emitted Dust Aerosols Reduces Model Underestimation of Super\nCoarse Dust, Geophys. Res. Lett., 49, e2021GL097287,\nhttps://doi.org/https://doi.org/10.1029/2021GL097287, 2022.",
+            "DOI": "10.1029/2021GL097287"
+        },
+        {
+            "key": "ref63",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mie, G.: Beitr\u00e4ge zur Optik tr\u00fcber Medien, speziell kolloidaler\nMetall\u00f6sungen, Ann. Phys., 330, 377\u2013445,\nhttps://doi.org/https://doi.org/10.1002/andp.19083300302, 1908.",
+            "DOI": "10.1002/andp.19083300302"
+        },
+        {
+            "key": "ref64",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mills, A. A.: Dust clouds and frictional generation of glow discharges on\nMars, Nature, 268, 614, https://doi.org/10.1038/268614a0, 1977.",
+            "DOI": "10.1038/268614a0"
+        },
+        {
+            "key": "ref65",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nakanishi, M. and Niino, H.: An improved Mellor-Yamada Level-3 model: Its\nnumerical stability and application to a regional prediction of advection\nfog, Bound. Lay. Meteorol., 119, 397\u2013407,\nhttps://doi.org/10.1007/s10546-005-9030-8, 2006.",
+            "DOI": "10.1007/s10546-005-9030-8"
+        },
+        {
+            "key": "ref66",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nickovic, S., Cvetkovic, B., Petkovi\u0107, S., Amiridis, V., Pejanovi\u0107,\nG., Solomos, S., Marinou, E., and Nikolic, J.: Cloud icing by mineral dust\nand impacts to aviation safety, Sci. Rep., 11, 6411,\nhttps://doi.org/10.1038/s41598-021-85566-y, 2021.",
+            "DOI": "10.1038/s41598-021-85566-y"
+        },
+        {
+            "key": "ref67",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nicoll, K. A., Harrison, R. G., and Ulanowski, Z.: Observations of Saharan\ndust layer electrification, Environ. Res. Lett., 6, 1\u20138,\nhttps://doi.org/10.1088/1748-9326/6/1/014001, 2011.",
+            "DOI": "10.1088/1748-9326/6/1/014001"
+        },
+        {
+            "key": "ref68",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Okin, G. S., Mahowald, N., Chadwick, O. A., and Artaxo, P.: Impact of desert\ndust on the biogeochemistry of phosphorus in terrestrial ecosystems, Global\nBiogeochem. Cy., 18, https://doi.org/10.1029/2003GB002145, 2004.",
+            "DOI": "10.1029/2003GB002145"
+        },
+        {
+            "key": "ref69",
+            "doi-asserted-by": "crossref",
+            "unstructured": "O'Sullivan, D., Marenco, F., Ryder, C. L., Pradhan, Y., Kipling, Z., Johnson, B., Benedetti, A., Brooks, M., McGill, M., Yorks, J., and Selmer, P.: Models transport Saharan dust too low in the atmosphere: a comparison of the MetUM and CAMS forecasts with observations, Atmos. Chem. Phys., 20, 12955\u201312982, https://doi.org/10.5194/acp-20-12955-2020, 2020.",
+            "DOI": "10.5194/acp-20-12955-2020"
+        },
+        {
+            "key": "ref70",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Petters, M. D. and Kreidenweis, S. M.: A single parameter representation of\nhygroscopic growth and cloud condensation nucleus activity-Part 3: Including\nsurfactant partitioning, Atmos. Chem. Phys., 13, 1081\u20131091,\nhttps://doi.org/10.5194/acp-13-1081-2013, 2013.",
+            "DOI": "10.5194/acp-13-1081-2013"
+        },
+        {
+            "key": "ref71",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Proestakis, E., Amiridis, V., Marinou, E., Georgoulias, A. K., Solomos, S.,\nKazadzis, S., Chimot, J., Che, H., Alexandri, G., Binietoglou, I.,\nDaskalopoulou, V., Kourtidis, K. A., De Leeuw, G., and Van Der A, R. J.:\nNine-year spatial and temporal evolution of desert dust aerosols over South\nand East Asia as revealed by CALIOP, Atmos. Chem. Phys., 18, 1337\u20131362,\nhttps://doi.org/10.5194/acp-18-1337-2018, 2018.",
+            "DOI": "10.5194/acp-18-1337-2018"
+        },
+        {
+            "key": "ref72",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Prospero, J. M., Bonatti, E., Schubert, C., and Carlson, T. N.: Dust in the\nCaribbean atmosphere traced to an African dust storm, Earth Planet. Sc.\nLett., 9, 287\u2013293, https://doi.org/10.1016/0012-821X(70)90039-7, 1970.",
+            "DOI": "10.1016/0012-821X(70)90039-7"
+        },
+        {
+            "key": "ref73",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Prospero, J. M., Ginoux, P., Torres, O., Nicholson, S. E., and Gill, T. E.:\nEnvironmental characterization of global sources of atmospheric soil dust\nidentified with the Nimbus 7 Total Ozone Mapping Spectrometer (TOMS)\nabsorbing aerosol product, Rev. Geophys., 40, 1002,\nhttps://doi.org/10.1029/2000RG000095, 2002.",
+            "DOI": "10.1029/2000RG000095"
+        },
+        {
+            "key": "ref74",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Renard, J. B., Dulac, F., Durand, P., Bourgeois, Q., Denjean, C., Vignelles,\nD., Cout\u00e9, B., Jeannot, M., Verdier, N., and Mallet, M.: In situ\nmeasurements of desert dust particles above the western Mediterranean Sea\nwith the balloon-borne Light Optical Aerosol Counter/sizer (LOAC) during the\nChArMEx campaign of summer 2013, Atmos. Chem. Phys., 18, 3677\u20133699,\nhttps://doi.org/10.5194/acp-18-3677-2018, 2018.",
+            "DOI": "10.5194/acp-18-3677-2018"
+        },
+        {
+            "key": "ref75",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Roberts, A. J., Marsham, J. H., Knippertz, P., Parker, D. J., Bart, M.,\nGarcia-Carreras, L., Hobby, M., McQuaid, J. B., Rosenberg, P. D., and Walker,\nD.: New Saharan wind observations reveal substantial biases in analysed\ndust-generating winds, Atmos. Sci. Lett., 18, 366\u2013372,\nhttps://doi.org/10.1002/asl.765, 2017.",
+            "DOI": "10.1002/asl.765"
+        },
+        {
+            "key": "ref76",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rycroft, M. J., Harrison, R. G., Nicoll, K. A., and Mareev, E. A.: An\nOverview of Earth's Global Electric Circuit and Atmospheric Conductivity,\nSpace Sci. Rev., 137, 83\u2013105, https://doi.org/10.1007/s11214-008-9368-6, 2008.",
+            "DOI": "10.1007/978-0-387-87664-1_6"
+        },
+        {
+            "key": "ref77",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ryder, C. L., Highwood, E. J., Lai, T. M., Sodemann, H., and Marsham, J. H.:\nImpact of atmospheric transport on the evolution of microphysical and\noptical properties of Saharan dust, Geophys. Res. Lett., 40, 2433\u20132438,\nhttps://doi.org/10.1002/grl.50482, 2013a.",
+            "DOI": "10.1002/grl.50482"
+        },
+        {
+            "key": "ref78",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ryder, C. L., Highwood, E. J., Rosenberg, P. D., Trembath, J., Brooke, J.\nK., Bart, M., Dean, A., Crosier, J., Dorsey, J., Brindley, H., Banks, J.,\nMarsham, J. H., McQuaid, J. B., Sodemann, H., and Washington, R.: Optical\nproperties of Saharan dust aerosol and contribution from the coarse mode as\nmeasured during the Fennec 2011 aircraft campaign, Atmos. Chem. Phys.,\n13, 303\u2013325, https://doi.org/10.5194/acp-13-303-2013, 2013b.",
+            "DOI": "10.5194/acp-13-303-2013"
+        },
+        {
+            "key": "ref79",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ryder, C. L., Marenco, F., Brooke, J. K., Estelles, V., Cotton, R.,\nFormenti, P., McQuaid, J. B., Price, H. C., Liu, D., Ausset, P., Rosenberg,\nP. D., Taylor, J. W., Choularton, T., Bower, K., Coe, H., Gallagher, M.,\nCrosier, J., Lloyd, G., Highwood, E. J., and Murray, B. J.: Coarse-mode\nmineral dust size distributions, composition and optical properties from\nAER-D aircraft measurements over the tropical eastern Atlantic, Atmos. Chem.\nPhys., 18, 17225\u201317257, https://doi.org/10.5194/acp-18-17225-2018, 2018.",
+            "DOI": "10.5194/acp-18-17225-2018"
+        },
+        {
+            "key": "ref80",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ryder, C. L., Highwood, E. J., Walser, A., Seibert, P., Philipp, A., and\nWeinzierl, B.: Coarse and giant particles are ubiquitous in Saharan dust\nexport regions and are radiatively significant over the Sahara, Atmos. Chem.\nPhys., 19, 15353\u201315376, https://doi.org/10.5194/acp-19-15353-2019, 2019.",
+            "DOI": "10.5194/acp-19-15353-2019"
+        },
+        {
+            "key": "ref81",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sanjeevi, S. K. P., Kuipers, J. A. M., and Padding, J. T.: Drag, lift and\ntorque correlations for non-spherical particles from Stokes limit to high\nReynolds numbers, Int. J. Multiph. Flow, 106, 325\u2013337,\nhttps://doi.org/10.1016/j.ijmultiphaseflow.2018.05.011, 2018.",
+            "DOI": "10.1016/j.ijmultiphaseflow.2018.05.011"
+        },
+        {
+            "key": "ref82",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shao, B., Liu, G. R., Lin, T., Xu, G. X., and Yan, X.: Rotation and\norientation of irregular particles in viscous fluids using the gradient\nsmoothed method (GSM), Eng. Appl. Comput. Fluid Mech., 11, 557\u2013575,\nhttps://doi.org/10.1080/19942060.2017.1329169, 2017.",
+            "DOI": "10.1080/19942060.2017.1329169"
+        },
+        {
+            "key": "ref83",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sinyuk, A., Holben, B. N., Eck, T. F., Giles, D. M., Slutsker, I., Korkin,\nS., Schafer, J. S., Smirnov, A., Sorokin, M., and Lyapustin, A.: The AERONET\nVersion 3 aerosol retrieval algorithm, associated uncertainties and\ncomparisons to Version 2, Atmos. Meas. Tech., 13, 3375\u20133411,\nhttps://doi.org/10.5194/amt-13-3375-2020, 2020.",
+            "DOI": "10.5194/amt-13-3375-2020"
+        },
+        {
+            "key": "ref84",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Solomos, S., Kallos, G., Kushta, J., Astitha, M., Tremback, C., Nenes, A.,\nand Levin, Z.: An integrated modeling study on the effects of mineral dust\nand sea salt particles on clouds and precipitation, Atmos. Chem. Phys.,\n11, 873\u2013892, https://doi.org/10.5194/acp-11-873-2011, 2011.",
+            "DOI": "10.5194/acp-11-873-2011"
+        },
+        {
+            "key": "ref85",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Solomos, S., Ansmann, A., Mamouri, R. E., Binietoglou, I., Patlakas, P.,\nMarinou, E., and Amiridis, V.: Remote sensing and modelling analysis of the\nextreme dust storm hitting the Middle East and eastern Mediterranean in\nSeptember 2015, Atmos. Chem. Phys., 17, 4063\u20134079,\nhttps://doi.org/10.5194/acp-17-4063-2017, 2017.",
+            "DOI": "10.5194/acp-17-4063-2017"
+        },
+        {
+            "key": "ref86",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Solomos, S., Kalivitis, N., Mihalopoulos, N., Amiridis, V., Kouvarakis, G.,\nGkikas, A., Binietoglou, I., Tsekeri, A., Kazadzis, S., Kottas, M., Pradhan,\nY., Proestakis, E., Nastos, P. T., and Marenco, F.: From tropospheric folding\nto Khamsin and Foehn winds: How atmospheric dynamics advanced a\nrecord-breaking dust episode in Crete, Atmosphere, 9, 240,\nhttps://doi.org/10.3390/atmos9070240, 2018.",
+            "DOI": "10.3390/atmos9070240"
+        },
+        {
+            "key": "ref87",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stockdale, A., Krom, M. D., Mortimer, R. J. G., Benning, L. G., Carslaw, K.\nS., Herbert, R. J., Shi, Z., Myriokefalitakis, S., Kanakidou, M., and Nenes,\nA.: Understanding the nature of atmospheric acid processing of mineral dusts\nin supplying bioavailable phosphorus to the oceans, P. Natl. Acad. Sci.\nUSA, 113, 14639\u201314644, https://doi.org/10.1073/pnas.1608136113, 2016.",
+            "DOI": "10.1073/pnas.1608136113"
+        },
+        {
+            "key": "ref88",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tagliabue, A., Bowie, A. R., Boyd, P. W., Buck, K. N., Johnson, K. S., and\nSaito, M. A.: The integral role of iron in ocean biogeochemistry, Nature,\n543, 51\u201359, https://doi.org/10.1038/nature21058, 2017.",
+            "DOI": "10.1038/nature21058"
+        },
+        {
+            "key": "ref89",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tesche, M., Ansmann, A., M\u00fcller, D., Althausen, D., Mattis, I., Heese,\nB., Freudenthaler, V., Wiegner, M., Esselborn, M., Pisani, G., and Knippertz,\nP.: Vertical profiling of Saharan dust with Raman lidars and airborne HSRL\nin southern Morocco during SAMUM, Tellus B,\n61, 144\u2013164, https://doi.org/10.1111/j.1600-0889.2008.00390.x, 2009.",
+            "DOI": "10.1111/j.1600-0889.2008.00390.x"
+        },
+        {
+            "key": "ref90",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Textor, C., Schulz, M., Guibert, S., Kinne, S., Balkanski, Y., Bauer, S.,\nBerntsen, T., Berglen, T., Boucher, O., Chin, M., Dentener, F., Diehl, T.,\nEaster, R., Feichter, H., Fillmore, D., Ghan, S., Ginoux, P., Gong, S.,\nGrini, A., Hendricks, J., Horowitz, L., Huang, P., Isaksen, I., Iversen, T.,\nKloster, S., Koch, D., Kirkev\u00e5g, A., Kristjansson, J. E., Krol, M.,\nLauer, A., Lamarque, J. F., Liu, X., Montanaro, V., Myhre, G., Penner, J.,\nPitari, G., Reddy, S., Seland, Stier, P., Takemura, T., and Tie, X.: Analysis\nand quantification of the diversities of aerosol life cycles within AeroCom,\nAtmos. Chem. Phys., 6, 1777\u20131813, https://doi.org/10.5194/acp-6-1777-2006, 2006.",
+            "DOI": "10.5194/acp-6-1777-2006"
+        },
+        {
+            "key": "ref91",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Toth III, J. R., Rajupet, S., Squire, H., Volbers, B., Zhou, J., Xie, L., Sankaran, R. M., and Lacks, D. J.: Electrostatic forces alter particle size distributions in atmospheric dust, Atmos. Chem. Phys., 20, 3181\u20133190, https://doi.org/10.5194/acp-20-3181-2020, 2020.",
+            "DOI": "10.5194/acp-20-3181-2020"
+        },
+        {
+            "key": "ref92",
+            "unstructured": "Tsekeri, A., Amiridis, V., Tsichla, M., Fountoulakis, I., Nersesian, A.,\nProestakis, E., Gkikas, A., Papachristopoulou, K., Barlakas, V., and\nKazadzis, S.: The effect of large dust size on solar radiation\nfluxes, Oral presentation at the International Radiation Symposium, Thessaloniki, Greece, 4\u20138 July 2022."
+        },
+        {
+            "key": "ref93",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tsikerdekis, A., Zanis, P., Steiner, A. L., Solmon, F., Amiridis, V.,\nMarinou, E., Katragkou, E., Karacostas, T., and Foret, G.: Impact of dust\nsize parameterizations on aerosol burden and radiative forcing in RegCM4,\nAtmos. Chem. Phys., 17, 769\u2013791, https://doi.org/10.5194/acp-17-769-2017, 2017.",
+            "DOI": "10.5194/acp-17-769-2017"
+        },
+        {
+            "key": "ref94",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Twohy, C. H., Kreidenweis, S. M., Eidhammer, T., Browell, E. V., Heymsfield,\nA. J., Bansemer, A. R., Anderson, B. E., Chen, G., Ismail, S., DeMott, P. J.,\nand Van Den Heever, S. C.: Saharan dust particles nucleate droplets in\neastern Atlantic clouds, Geophys. Res. Lett., 36, 1\u20136,\nhttps://doi.org/10.1029/2008GL035846, 2009.",
+            "DOI": "10.1029/2008GL035846"
+        },
+        {
+            "key": "ref95",
+            "unstructured": "United States Committee on Extension to the Standard Atmosphere.: U.S. standard atmosphere, 1976, National Oceanic and Amospheric Administration\u2009: For sale by the Supt. of Docs., U.S. Govt. Print. Off., Washington., 1976."
+        },
+        {
+            "key": "ref96",
+            "doi-asserted-by": "crossref",
+            "unstructured": "van Der Does, M., Korte, L. F., Munday, C. I., Brummer, G. J. A., and Stuut, J. B. W.: Particle size traces modern Saharan dust transport and deposition across the equatorial North Atlantic, Atmos. Chem. Phys., 16, 13697\u201313710, https://doi.org/10.5194/acp-16-13697-2016, 2016.",
+            "DOI": "10.5194/acp-16-13697-2016"
+        },
+        {
+            "key": "ref97",
+            "doi-asserted-by": "crossref",
+            "unstructured": "van der Does, M., Knippertz, P., Zschenderlein, P., Giles Harrison, R., and\nStuut, J. B. W.: The mysterious long-range transport of giant mineral dust\nparticles, Sci. Adv., 4, eaau2768, https://doi.org/10.1126/sciadv.aau2768, 2018.",
+            "DOI": "10.1126/sciadv.aau2768"
+        },
+        {
+            "key": "ref98",
+            "unstructured": "Versteeg, H. K. and Malalasekera, W.: An introduction to computational\nfluid dynamics : the finite volume method, 2nd Edn., Pearson Education, ISBN\u00a0978-0-13-127498-3, 2007."
+        },
+        {
+            "key": "ref99",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Weinzierl, B., Petzold, A., Esselborn, M., Wirth, M., Rasp, K., Kandler, K.,\nSch\u00fcTZ, L., Koepke, P., and Fiebig, M.: Airborne measurements of dust\nlayer properties, particle size distribution and mixing state of Saharan\ndust during SAMUM 2006, Tellus B, 61, 96\u2013117,\nhttps://doi.org/10.1111/j.1600-0889.2008.00392.x, 2009.",
+            "DOI": "10.1111/j.1600-0889.2008.00392.x"
+        },
+        {
+            "key": "ref100",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Weinzierl, B., Sauer, D., Esselborn, M., Petzold, A., Veira, A., Rose, M.,\nMund, S., Wirth, M., Ansmann, A., Tesche, M., Gross, S., and Freudenthaler,\nV.: Microphysical and optical properties of dust and tropical biomass\nburning aerosol layers in the Cape Verde region-an overview of the airborne\nin situ and lidar measurements during SAMUM-2, Tellus B, 63, 589\u2013618, https://doi.org/10.1111/j.1600-0889.2011.00566.x, 2011.",
+            "DOI": "10.1111/j.1600-0889.2011.00566.x"
+        },
+        {
+            "key": "ref101",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Weinzierl, B., Sauer, D., Minikin, A., Reitebuch, O., Dahlk\u00f6tter, F.,\nMayer, B., Emde, C., Tegen, I., Gasteiger, J., Petzold, A., Veira, A.,\nKueppers, U., and Schumann, U.: On the visibility of airborne volcanic ash\nand mineral dust from the pilot's perspective in flight, Phys. Chem. Earth,\n45/46, 87\u2013102, https://doi.org/10.1016/j.pce.2012.04.003, 2012.",
+            "DOI": "10.1016/j.pce.2012.04.003"
+        },
+        {
+            "key": "ref102",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Weinzierl, B., Ansmann, A., Prospero, J. M., Althausen, D., Benker, N.,\nChouza, F., Dollner, M., Farrell, D., Fomba, W. K., Freudenthaler, V.,\nGasteiger, J., Gro\u00df, S., Haarig, M., Heinold, B., Kandler, K.,\nKristensen, T. B., Mayol-Bracero, O. L., M\u00fcller, T., Reitebuch, O.,\nSauer, D., Sch\u00e4fler, A., Schepanski, K., Spanu, A., Tegen, I., Toledano,\nC., and Walser, A.: The Saharan aerosol long-range transport and\naerosol-cloud-interaction experiment: Overview and selected highlights,\nBull. Am. Meteorol. Soc., 98, 1427\u20131451, https://doi.org/10.1175/BAMS-D-15-00142.1,\n2017.",
+            "DOI": "10.1175/BAMS-D-15-00142.1"
+        },
+        {
+            "key": "ref103",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Winker, D. M., Vaughan, M. A., Omar, A., Hu, Y., Powell, K. A., Liu, Z.,\nHunt, W. H., and Young, S. A.: Overview of the CALIPSO Mission and CALIOP\nData Processing Algorithms, J. Atmos. Ocean. Technol., 26, 2310\u20132323,\nhttps://doi.org/10.1175/2009JTECHA1281.1, 2009.",
+            "DOI": "10.1175/2009JTECHA1281.1"
+        },
+        {
+            "key": "ref104",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zastawny, M., Mallouppas, G., Zhao, F., and van Wachem, B.: Derivation of\ndrag and lift force and torque coefficients for non-spherical particles in\nflows, Int. J. Multiph. Flow, 39, 227\u2013239,\nhttps://doi.org/10.1016/j.ijmultiphaseflow.2011.09.004, 2012.",
+            "DOI": "10.1016/j.ijmultiphaseflow.2011.09.004"
+        }
+    ],
+    "container-title": [
+        "Atmospheric Chemistry and Physics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://acp.copernicus.org/articles/22/12727/2022/acp-22-12727-2022.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                29
+            ]
+        ],
+        "date-time": "2022-09-29T11:13:49Z",
+        "timestamp": 1664450029000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://acp.copernicus.org/articles/22/12727/2022/"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                29
+            ]
+        ]
+    },
+    "references-count": 104,
+    "journal-issue": {
+        "issue": "18",
+        "published-online": {
+            "date-parts": [
+                [
+                    2022
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.5194/acp-22-12727-2022",
+    "relation": {
+        "has-preprint": [
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94",
+                "asserted-by": "object"
+            }
+        ],
+        "has-review": [
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-RC1",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-AC1",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-RC2",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-AC2",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-RC3",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-AC3",
+                "asserted-by": "subject"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-AC2",
+                "asserted-by": "object"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-AC3",
+                "asserted-by": "object"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-AC1",
+                "asserted-by": "object"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-RC1",
+                "asserted-by": "object"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-RC2",
+                "asserted-by": "object"
+            },
+            {
+                "id-type": "doi",
+                "id": "10.5194/acp-2022-94-RC3",
+                "asserted-by": "object"
+            }
+        ]
+    },
+    "ISSN": [
+        "1680-7324"
+    ],
+    "issn-type": [
+        {
+            "value": "1680-7324",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2022,
+                9,
+                29
+            ]
+        ]
+    }
+}
