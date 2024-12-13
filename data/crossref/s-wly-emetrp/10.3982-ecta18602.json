@@ -1,0 +1,466 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2024-11-20T05:32:43Z",
+        "timestamp": 1732080763690,
+        "version": "3.28.0"
+    },
+    "reference-count": 34,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose a new adaptive hypothesis test for inequality (e.g., monotonicity, convexity) and equality (e.g., parametric, semiparametric) restrictions on a structural function in a nonparametric instrumental variables (NPIV) model. Our test statistic is based on a modified leave\u2010one\u2010out sample analog of a quadratic distance between the restricted and unrestricted sieve two\u2010stage least squares estimators. We provide computationally simple, data\u2010driven choices of sieve tuning parameters and Bonferroni adjusted chi\u2010squared critical values. Our test adapts to the unknown smoothness of alternative functions in the presence of unknown degree of endogeneity and unknown strength of the instruments. It attains the adaptive minimax rate of testing in \n            <jats:italic>L</jats:italic>\n            <jats:sup>2</jats:sup>. That is, the sum of the supremum of type I error over the composite null and the supremum of type II error over nonparametric alternative models cannot be minimized by any other tests for NPIV models of unknown regularities. Confidence sets in \n            <jats:italic>L</jats:italic>\n            <jats:sup>2</jats:sup> are obtained by inverting the adaptive test. Simulations confirm that, across different strength of instruments and sample sizes, our adaptive test controls size and its finite\u2010sample power greatly exceeds existing non\u2010adaptive tests for monotonicity and parametric restrictions in NPIV models. Empirical applications to test for shape restrictions of differentiated products demand and of Engel curves are presented.\n          </jats:p>",
+    "DOI": "10.3982/ecta18602",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2024-11-19T14:21:59Z",
+        "timestamp": 1732026119000
+    },
+    "page": "2027-2067",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Adaptive, Rate\u2010Optimal Hypothesis Testing in Nonparametric IV Models"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Christoph",
+            "family": "Breunig",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Bonn"
+                }
+            ]
+        },
+        {
+            "given": "Xiaohong",
+            "family": "Chen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cowles Foundation for Research in Economics, Yale University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "4",
+            "key": "ecta200734-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1162/003465397557015",
+            "volume": "79",
+            "author": "Banks",
+            "year": "1997",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200734-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1007/BF01027691",
+            "volume": "1",
+            "author": "Bauschke",
+            "year": "1993",
+            "journal-title": "Set-Valued Analysis"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200734-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1749",
+            "DOI": "10.3982/ECTA9027",
+            "volume": "82",
+            "author": "Berry",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200734-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1443",
+            "DOI": "10.2307/2938323",
+            "volume": "58",
+            "author": "Bierens",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200734-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1613",
+            "DOI": "10.1111/j.1468-0262.2007.00808.x",
+            "volume": "75",
+            "author": "Blundell",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1162/REST_a_00636",
+            "volume": "99",
+            "author": "Blundell",
+            "year": "2017",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "328",
+            "DOI": "10.1016/j.jeconom.2014.09.006",
+            "volume": "184",
+            "author": "Breunig",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200734-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Breunig, Christoph, and Xiaohong Chen (2020): \u201cAdaptive, Rate-Optimal Testing in Instrumental Variables Models,\u201d. arXiv preprint arXiv:2006.09587v1.",
+            "DOI": "10.2139/ssrn.3628886"
+        },
+        {
+            "key": "ecta200734-bib-0009",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Breunig, Christoph, and Xiaohong Chen (2024): \u201cSupplement to \u2018Adaptive, Rate-Optimal Hypothesis Testing in Nonparametric IV Models\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA18602.",
+            "DOI": "10.3982/ECTA18602"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200734-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.3982/QE722",
+            "volume": "9",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200734-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.3982/ECTA10771",
+            "volume": "83",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "03",
+            "key": "ecta200734-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1017/S0266466610000381",
+            "volume": "27",
+            "author": "Chen",
+            "year": "2011",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200734-bib-0013",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, Xiaohong, Timothy M. Christensen, and Sid Kankanala (2024): \u201cAdaptive Estimation and Uniform Confidence Bands for Nonparametric Structural Functions and Elasticities,\u201d The Review of Economic Studies. (forthcoming).",
+            "DOI": "10.1093/restud/rdae025"
+        },
+        {
+            "key": "ecta200734-bib-0014",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Whitney K. Newey, and Andres Santos (2015): \u201cConstrained Conditional Moment Restriction Models,\u201d. arXiv preprint arXiv:1509.06311.",
+            "DOI": "10.1920/wp.cem.2015.5915"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200734-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1017/S0266466618000282",
+            "volume": "35",
+            "author": "Chetverikov",
+            "year": "2019",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200734-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.3982/ECTA13639",
+            "volume": "85",
+            "author": "Chetverikov",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200734-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1146/annurev-economics-080217-053417",
+            "volume": "10",
+            "author": "Chetverikov",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200734-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "923",
+            "DOI": "10.1214/15-AOS1432",
+            "volume": "45",
+            "author": "Collier",
+            "year": "2017",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200734-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "545",
+            "DOI": "10.3982/QE1653",
+            "volume": "13",
+            "author": "Compiani",
+            "year": "2022",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200734-bib-0020",
+            "unstructured": "Deaton, Angus, and John Muellbauer (1980): \u201cAn Almost Ideal Demand System,\u201d American Economic Review, 312\u2013326."
+        },
+        {
+            "issue": "5",
+            "key": "ecta200734-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "2439",
+            "DOI": "10.3982/ECTA17764",
+            "volume": "89",
+            "author": "Fang",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200734-bib-0022",
+            "unstructured": "Freyberger, Joachim, and Brandon Reeves (2019): \u201cInference Under Shape Restrictions,\u201d Working paper, University of Wisconsin."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "840",
+            "DOI": "10.1214/009053604000001200",
+            "volume": "33",
+            "author": "Guerre",
+            "year": "2005",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200734-bib-0024",
+            "first-page": "2904",
+            "volume": "33",
+            "author": "Hall",
+            "year": "2005",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.1111/j.1468-0262.2006.00670.x",
+            "volume": "74",
+            "author": "Horowitz",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jeconom.2011.12.001",
+            "volume": "168",
+            "author": "Horowitz",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200734-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "599",
+            "DOI": "10.1111/1468-0262.00207",
+            "volume": "69",
+            "author": "Horowitz",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0028",
+            "first-page": "85",
+            "volume": "2",
+            "author": "Ingster",
+            "year": "1993",
+            "journal-title": "Math. Methods Statist"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200734-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1957",
+            "DOI": "10.1214/07-AOS525",
+            "volume": "36",
+            "author": "Rei\u00df",
+            "year": "2008",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200734-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.3982/ECTA7493",
+            "volume": "80",
+            "author": "Santos",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200734-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "2477",
+            "DOI": "10.1214/aos/1032181163",
+            "volume": "24",
+            "author": "Spokoiny",
+            "year": "1996",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200734-bib-0032",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Introduction to Nonparametric Estimation",
+            "author": "Tsybakov",
+            "year": "2009",
+            "DOI": "10.1007/b13794"
+        },
+        {
+            "key": "ecta200734-bib-0033",
+            "series-title": "With Applications to Statistics (Springer Series in Statistics)",
+            "volume-title": "Weak Convergence and Empirical Processes",
+            "author": "Vaart",
+            "year": "2000"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200734-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.3982/QE1023",
+            "volume": "11",
+            "author": "Zhu",
+            "year": "2020",
+            "journal-title": "Quantitative Economics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2024-11-19T14:24:32Z",
+        "timestamp": 1732026272000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18602"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18602"
+    ],
+    "URL": "https://doi.org/10.3982/ecta18602",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}

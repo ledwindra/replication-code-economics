@@ -1,0 +1,566 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2024-11-20T05:31:56Z",
+        "timestamp": 1732080716167,
+        "version": "3.28.0"
+    },
+    "reference-count": 45,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2024-01-01T00:00:00Z",
+                "timestamp": 1704067200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100011033",
+            "name": "Agencia Estatal de Investigaci\u00f3n",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100011033",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Consider a bipartite network where \n            <jats:italic>N</jats:italic> consumers choose to buy or not to buy \n            <jats:italic>M</jats:italic> different products. This paper considers the properties of the logit fit of the \n            <jats:italic>N</jats:italic>\u2009\u00d7\u2009\n            <jats:italic>M</jats:italic> array of \u201c\n            <jats:italic>i</jats:italic>\u2010buys\u2010\n            <jats:italic>j</jats:italic>\u201d purchase decisions, \n            <a:math xmlns:a=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\">\n              <a:mi mathvariant=\"bold\">Y</a:mi>\n              <a:mo>=</a:mo>\n              <a:msub>\n                <a:mrow>\n                  <a:mo stretchy=\"false\">[</a:mo>\n                  <a:msub>\n                    <a:mrow>\n                      <a:mi>Y</a:mi>\n                    </a:mrow>\n                    <a:mrow>\n                      <a:mi>i</a:mi>\n                      <a:mi>j</a:mi>\n                    </a:mrow>\n                  </a:msub>\n                  <a:mo stretchy=\"false\">]</a:mo>\n                </a:mrow>\n                <a:mrow>\n                  <a:mn>1</a:mn>\n                  <a:mo>\u2264</a:mo>\n                  <a:mi>i</a:mi>\n                  <a:mo>\u2264</a:mo>\n                  <a:mi>N</a:mi>\n                  <a:mo>,</a:mo>\n                  <a:mn>1</a:mn>\n                  <a:mo>\u2264</a:mo>\n                  <a:mi>j</a:mi>\n                  <a:mo>\u2264</a:mo>\n                  <a:mi>M</a:mi>\n                </a:mrow>\n              </a:msub>\n            </a:math>, onto a vector of known functions of consumer and product attributes under asymptotic sequences where (i) both \n            <jats:italic>N</jats:italic> and \n            <jats:italic>M</jats:italic> grow large, (ii) the average number of products purchased per consumer is finite in the limit, (iii) there exists dependence across elements in the same row or same column of \n            <jats:bold>Y</jats:bold> (i.e., dyadic dependence), and (iv) the true conditional probability of making a purchase may, or may not, take the assumed logit form. Condition (ii) implies that the limiting network of purchases is \n            <jats:italic>sparse</jats:italic>: only a vanishing fraction of all possible purchases are actually made. Under sparse network asymptotics, I show that the parameter indexing the logit approximation solves a particular Kullback\u2013Leibler Information Criterion (KLIC) minimization problem (defined with respect to a certain Poisson population). This finding provides a simple characterization of the logit pseudo\u2010true parameter under general misspecification (analogous to a (mean squared error (MSE) minimizing) linear predictor approximation of a general conditional expectation function (CEF)). With respect to sampling theory, sparseness implies that the first and last terms in an extended Hoeffding\u2010type variance decomposition of the score of the logit pseudo composite log\u2010likelihood are of equal order. In contrast, under dense network asymptotics, the last term is asymptotically negligible. Asymptotic normality of the logistic regression coefficients is shown using a martingale central limit theorem (CLT) for triangular arrays. Unlike in the dense case, the normality result derived here also holds under degeneracy of the network graphon. Relatedly, when there \u201chappens to be\u201d no dyadic dependence in the data set in hand, it specializes to recently derived results on the behavior of logistic regression with rare events and i.i.d. data. Simulation results suggest that sparse network asymptotics better approximate the finite network distribution of the logit estimator. A short empirical illustration, and additional calibrated Monte Carlo experiments, further illustrate the main theoretical ideas.\n          </jats:p>",
+    "DOI": "10.3982/ecta19051",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2024-11-19T14:21:59Z",
+        "timestamp": 1732026119000
+    },
+    "page": "1837-1868",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Sparse Network Asymptotics for Logistic Regression Under Possible Misspecification"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Bryan S.",
+            "family": "Graham",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of California\u2014Berkeley"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "4",
+            "key": "ecta200728-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "581",
+            "DOI": "10.1016/0047-259X(81)90099-3",
+            "volume": "11",
+            "author": "Aldous",
+            "year": "1981",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "key": "ecta200728-bib-0002",
+            "volume-title": "Advanced Econometrics",
+            "author": "Amemiya",
+            "year": "1985"
+        },
+        {
+            "key": "ecta200728-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "727",
+            "DOI": "10.1146/annurev-economics-080218-025643",
+            "volume": "11",
+            "author": "Andrews",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200728-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "564",
+            "DOI": "10.1093/pan/mpv018",
+            "volume": "23",
+            "author": "Aronow",
+            "year": "2017",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200728-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "2280",
+            "DOI": "10.1214/11-AOS904",
+            "volume": "39",
+            "author": "Bickel",
+            "year": "2011",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200728-bib-0006",
+            "unstructured": "Cameron, A. C., and D. L. Miller (2014): \u201cRobust Inference for Dyadic Data,\u201d Technical report, University of California\u2014Davis."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200728-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "176",
+            "DOI": "10.1017/S0266466613000169",
+            "volume": "30",
+            "author": "Cattaneo",
+            "year": "2014",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200728-bib-0008",
+            "volume-title": "A First Course in Graph Theory",
+            "author": "Chartrand",
+            "year": "2012"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200728-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1016/j.ijindorg.2012.12.002",
+            "volume": "31",
+            "author": "Chen",
+            "year": "2013",
+            "journal-title": "International Journal of Industrial Organization"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1046",
+            "DOI": "10.1080/07350015.2021.1895815",
+            "volume": "40",
+            "author": "Chiang",
+            "year": "2022",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "ecta200728-bib-0011",
+            "unstructured": "Chiang, H. D., Y. Matsushita, and T. Otsu (2022b): \u201cMultiway Empirical Likelohood,\u201d Technical report, London School of Economics."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200728-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "695",
+            "DOI": "10.1111/jfir.12261",
+            "volume": "44",
+            "author": "Cohen",
+            "year": "2021",
+            "journal-title": "Journal of Financial Research"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1093/biomet/91.3.729",
+            "volume": "91",
+            "author": "Cox",
+            "year": "2004",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200728-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "416",
+            "DOI": "10.1017/jsl.2017.61",
+            "volume": "83",
+            "author": "Crane",
+            "year": "2018",
+            "journal-title": "Journal of Symbolic Logic"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200728-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "845",
+            "DOI": "10.1214/20-AOS1981",
+            "volume": "49",
+            "author": "Davezies",
+            "year": "2021",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200728-bib-0016",
+            "first-page": "251",
+            "volume": "4",
+            "author": "Finetti",
+            "year": "1931",
+            "journal-title": "Atti della R. Academia Nazionale dei Lincei, Serie 6. Memorie, Classe di Scienze Fisiche, Mathematice e Naturale"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "586",
+            "DOI": "10.1214/aos/1176345462",
+            "volume": "9",
+            "author": "Efron",
+            "year": "1981",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200728-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "326",
+            "DOI": "10.1016/j.jdeveco.2006.05.005",
+            "volume": "83",
+            "author": "Fafchamps",
+            "year": "2007",
+            "journal-title": "Journal of Development Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200728-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE823",
+            "volume": "9",
+            "author": "Fox",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "10",
+            "key": "ecta200728-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1027",
+            "DOI": "10.1002/smj.692",
+            "volume": "29",
+            "author": "Garc\u00eda-Canal",
+            "year": "2008",
+            "journal-title": "Strategic Management Journal"
+        },
+        {
+            "key": "ecta200728-bib-0021",
+            "first-page": "25",
+            "volume-title": "The Econometrics of Social and Economic Networks",
+            "author": "Graham",
+            "year": "2020"
+        },
+        {
+            "key": "ecta200728-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1016/bs.hoe.2020.05.001",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "7",
+            "author": "Graham",
+            "year": "2020",
+            "edition": "first"
+        },
+        {
+            "key": "ecta200728-bib-0023",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Graham, B. S. (2024): \u201cSupplement to \u2018Sparse Network Asymptotics for Logistic Regression Under Possible Misspecification\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA19051.",
+            "DOI": "10.3982/ECTA19051"
+        },
+        {
+            "key": "ecta200728-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Graham, B. S., G. W. Imbens, and G. Ridder (2018): \u201cIdentification and Efficiency Bounds for the Average Match Function Under Conditionally Exogenous Matching,\u201d Journal of Business and Economic Statistics. 38 (2), 303\u2013316.",
+            "DOI": "10.1080/07350015.2018.1497509"
+        },
+        {
+            "key": "ecta200728-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Graham, B. S., F. Niu, and J. L. Powell (2022): \u201cKernel Density Estimation for Undirected Dyadic Data,\u201d Journal of Econometrics. 240 (2), 105336.",
+            "DOI": "10.1016/j.jeconom.2022.06.011"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "443",
+            "DOI": "10.2307/3094871",
+            "volume": "46",
+            "author": "Henisz",
+            "year": "2001",
+            "journal-title": "Administrative Science Quarterly"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "737",
+            "DOI": "10.1214/aoms/1177705799",
+            "volume": "31",
+            "author": "Hodges",
+            "year": "1960",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200728-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/270703",
+            "volume": "7",
+            "author": "Holland",
+            "year": "1976",
+            "journal-title": "Sociological Methodology"
+        },
+        {
+            "key": "ecta200728-bib-0029",
+            "unstructured": "Hoover, D. N. (1979): \u201cRelations on Probability Spaces and Arrays of Random Variables,\u201d Technical report, Institute for Advanced Study, Princeton, NJ."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200728-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1093/oxfordjournals.pan.a004868",
+            "volume": "9",
+            "author": "King",
+            "year": "2001",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "key": "ecta200728-bib-0031",
+            "unstructured": "Lanier, J., J. Large, and J. Quah (2023): \u201cEstimating Very Large Demand Systems,\u201d INET Oxford Working Paper 2023-01, INET Institute, University of Oxford."
+        },
+        {
+            "key": "ecta200728-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1090/conm/080/999014",
+            "volume": "80",
+            "author": "Lindsey",
+            "year": "1988",
+            "journal-title": "Contemporary Mathematics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "897",
+            "DOI": "10.3982/ECTA12299",
+            "volume": "83",
+            "author": "Menzel",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200728-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "306",
+            "DOI": "10.1093/restud/rdv038",
+            "volume": "83",
+            "author": "Menzel",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200728-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "2143",
+            "DOI": "10.3982/ECTA15383",
+            "volume": "89",
+            "author": "Menzel",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200728-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1002/zamm.19210010206",
+            "volume": "1",
+            "author": "Mises",
+            "year": "1921",
+            "journal-title": "ZAMM\u2014Journal of Applied Mathematics and Mechanics / Zeitschrift f\u00fcr Angewandte Mathematik und Mechanik"
+        },
+        {
+            "key": "ecta200728-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "2111",
+            "DOI": "10.1016/S1573-4412(05)80005-4",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "4",
+            "author": "Newey",
+            "year": "1994"
+        },
+        {
+            "key": "ecta200728-bib-0038",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Networks: An Introduction",
+            "author": "Newman",
+            "year": "2010",
+            "DOI": "10.1093/acprof:oso/9780199206650.001.0001"
+        },
+        {
+            "key": "ecta200728-bib-0039",
+            "first-page": "761",
+            "volume": "8",
+            "author": "Owen",
+            "year": "2007",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "ecta200728-bib-0040",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Roussille, N., and B. Scuderi (2023): \u201cBidding for Talent: A Test of Conduct in a High-Wage Labor Market,\u201d Working paper, The MIT.",
+            "DOI": "10.2139/ssrn.4536978"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200728-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.2307/2171753",
+            "volume": "65",
+            "author": "Staiger",
+            "year": "1997",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200728-bib-0042",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Tabord-Meehan, M. (2018): \u201cInference With Dyadic Data: Asymptotic Behavior of the Dyadic-Robust t-Statistic,\u201d Journal of Business and Economic Statistics. 37 (4), 671\u2013680.",
+            "DOI": "10.1080/07350015.2017.1409630"
+        },
+        {
+            "key": "ecta200728-bib-0043",
+            "volume-title": "Asymptotic Statistics",
+            "author": "Vaart",
+            "year": "2000"
+        },
+        {
+            "key": "ecta200728-bib-0044",
+            "first-page": "9829",
+            "volume-title": "Proceedings of the 37th International Conference on Machine Learning",
+            "volume": "119",
+            "author": "Wang",
+            "year": "2020"
+        },
+        {
+            "key": "ecta200728-bib-0045",
+            "volume-title": "Asymptotic Theory for Econometricians",
+            "author": "White",
+            "year": "2001"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2024-11-19T14:22:59Z",
+        "timestamp": 1732026179000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19051"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19051"
+    ],
+    "URL": "https://doi.org/10.3982/ecta19051",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}

@@ -1,0 +1,566 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2024-11-20T05:32:32Z",
+        "timestamp": 1732080752277,
+        "version": "3.28.0"
+    },
+    "reference-count": 51,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>A signal is \n            <jats:italic>privacy\u2010preserving</jats:italic> with respect to a collection of \n            <jats:italic>privacy sets</jats:italic> if the posterior probability assigned to every privacy set remains unchanged conditional on any signal realization. We characterize the privacy\u2010preserving signals for arbitrary state space and arbitrary privacy sets. A signal is privacy\u2010preserving if and only if it is a garbling of a \n            <jats:italic>reordered quantile signal</jats:italic>. Furthermore, distributions of posterior means induced by privacy\u2010preserving signals are exactly mean\u2010preserving contractions of that induced by the \n            <jats:italic>quantile signal</jats:italic>. We discuss the economic implications of our characterization for statistical discrimination, the revelation of sensitive information in auctions and price discrimination.\n          </jats:p>",
+    "DOI": "10.3982/ecta22017",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2024-11-19T14:21:59Z",
+        "timestamp": 1732026119000
+    },
+    "page": "1907-1938",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Privacy\u2010Preserving Signals"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Philipp",
+            "family": "Strack",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Yale University"
+                }
+            ]
+        },
+        {
+            "given": "Kai Hao",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Management, Yale University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta200729-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1093/qje/qjab024",
+            "volume": "137",
+            "author": "Ali",
+            "year": "2022",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200729-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "DOI": "10.3982/TE4663",
+            "volume": "18",
+            "author": "Arieli",
+            "year": "2023",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200729-bib-0003",
+            "volume-title": "Fairness and Machine Learning: Limitations and Oppurtunities",
+            "author": "Barocas",
+            "year": "2019"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200729-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1257/aer.20130848",
+            "volume": "105",
+            "author": "Bergemann",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200729-bib-0005",
+            "first-page": "371",
+            "volume": "4",
+            "author": "Bergemann",
+            "year": "2022",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "ecta200729-bib-0006",
+            "unstructured": "Bergemann, Dirk, Tibor Heumann, and Stephen Morris (2023): \u201cScreening With Persuasion,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200729-bib-0007",
+            "unstructured": "Bergemann, Dirk, Tibor Heumann, and Stephen Morris (2024): \u201cBidder-Optimal Information Structures in Auctions,\u201d Working Paper."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200729-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1214/aoms/1177729032",
+            "volume": "24",
+            "author": "Blackwell",
+            "year": "1953",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200729-bib-0009",
+            "unstructured": "Bohren, J. Aislinn, Peter Hull, and Alex Imas (2024): \u201cSystemic Discrimination: Theory and Measurement,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200729-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1007/s10618-010-0190-x",
+            "volume": "21",
+            "author": "Calders",
+            "year": "2010",
+            "journal-title": "Data Mining and Knowledge Discovery"
+        },
+        {
+            "key": "ecta200729-bib-0011",
+            "first-page": "13",
+            "volume-title": "IEEE International Conference on Data Mining Workshops",
+            "author": "Calders",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200729-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/s43681-022-00183-3",
+            "volume": "3",
+            "author": "Carey",
+            "year": "2023",
+            "journal-title": "AI and Ethics"
+        },
+        {
+            "key": "ecta200729-bib-0013",
+            "unstructured": "Che, Yeon-Koo, Kyungmin Kim, and Weijie Zhong (2021): \u201cStatistical Discrimination in Ratings-Guided Markets,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200729-bib-0014",
+            "volume-title": "Probability and Stochastics",
+            "author": "\u00c7inlar",
+            "year": "2010"
+        },
+        {
+            "key": "ecta200729-bib-0015",
+            "first-page": "797",
+            "volume-title": "23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+            "author": "Corbett-Davies",
+            "year": "2017"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200729-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1111/j.1745-3984.1971.tb00908.x",
+            "volume": "8",
+            "author": "Darlington",
+            "year": "1971",
+            "journal-title": "Journal of Educational Measurement"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200729-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "2451",
+            "DOI": "10.1086/729067",
+            "volume": "132",
+            "author": "Doval",
+            "year": "2024",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200729-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1993",
+            "DOI": "10.1086/701813",
+            "volume": "127",
+            "author": "Dworczak",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200729-bib-0019",
+            "first-page": "214",
+            "volume-title": "ACM ITCS Proceedings",
+            "author": "Dwork",
+            "year": "2012"
+        },
+        {
+            "key": "ecta200729-bib-0020",
+            "series-title": "Proceedings",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1007/11681878_14",
+            "volume-title": "Theory of Cryptography: Third Theory of Cryptography Conference, TCC 2006, New York, NY, USA, March 4-7, 2006",
+            "volume": "3",
+            "author": "Dwork",
+            "year": "2006"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200729-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.3982/TE4390",
+            "volume": "16",
+            "author": "Eilat",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200729-bib-0022",
+            "first-page": "259",
+            "volume-title": "21st ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+            "author": "Feldman",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200729-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.1007/BF01075202",
+            "volume": "35",
+            "author": "Forges",
+            "year": "1993",
+            "journal-title": "Theory and Decision"
+        },
+        {
+            "key": "ecta200729-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1007/s11238-006-9005-3",
+            "volume": "61",
+            "author": "Forges",
+            "year": "2006",
+            "journal-title": "Theory and Decision"
+        },
+        {
+            "key": "ecta200729-bib-0025",
+            "first-page": "197",
+            "volume": "113",
+            "author": "Galperti",
+            "year": "2023",
+            "journal-title": "American Economic Association: Paper and Proceedings"
+        },
+        {
+            "key": "ecta200729-bib-0026",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gillis, Talia, Bryce McLaughlin, and Jann Spiess (2023): \u201cOn the Fairness of Machine-Assisted Human Decisions,\u201d Working Paper.",
+            "DOI": "10.1145/3531146.3533152"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200729-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.1007/s10203-022-00379-6",
+            "volume": "45",
+            "author": "Green",
+            "year": "2022",
+            "journal-title": "Decisions in Economics and Finance"
+        },
+        {
+            "key": "ecta200729-bib-0028",
+            "unstructured": "Hardt, Moritz, Eric Price, and Nathan Srebro (2016): \u201cEquality of Opportunity in Supervised Learning,\u201d arXiv:1610.02413. arXiv preprint."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200729-bib-0029",
+            "first-page": "145",
+            "volume": "58",
+            "author": "Hardy",
+            "year": "1929",
+            "journal-title": "Messenger Math"
+        },
+        {
+            "key": "ecta200729-bib-0030",
+            "unstructured": "He, Kevin, Fedor Sandomirskiy, and Omer Tamuz (2024): \u201cPrivate Private Information,\u201d arXiv:2112.14356. arXiv preprint."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200729-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "569",
+            "DOI": "10.1257/aer.20181052",
+            "volume": "110",
+            "author": "Ichihashi",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200729-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "2560",
+            "DOI": "10.1257/aer.101.6.2590",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200729-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "613",
+            "DOI": "10.1007/s10115-012-0584-8",
+            "volume": "35",
+            "author": "Kamiran",
+            "year": "2013",
+            "journal-title": "Knowledge and Information Systems"
+        },
+        {
+            "key": "ecta200729-bib-0034",
+            "first-page": "643",
+            "volume-title": "IEEE International Conference on Data Mining Workshops",
+            "author": "Kamishima",
+            "year": "2011"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200729-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.3982/ECTA18312",
+            "volume": "89",
+            "author": "Kleiner",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200729-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.3982/TE1805",
+            "volume": "13",
+            "author": "Kolotilin",
+            "year": "2018",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200729-bib-0037",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kolotilin, Anton, and Alexander Wolitzky (2023): \u201cThe Economics of Partisan Gerrymandering,\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.4998165"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200729-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "1949",
+            "DOI": "10.3982/ECTA13251",
+            "volume": "85",
+            "author": "Kolotilin",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200729-bib-0039",
+            "unstructured": "Liang, Annie, Jay Lu, Xiaosheng Mu, and Kyohei Okumura (2024): \u201cAlgorithm Design: A Fairness-Accuracy Frontier,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200729-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1016/j.jet.2014.09.010",
+            "volume": "157",
+            "author": "Liu",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200729-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "485",
+            "DOI": "10.1214/15-STS525",
+            "volume": "30",
+            "author": "Puccetti",
+            "year": "2015",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200729-bib-0042",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rhodes, Andrew, and Jidong Zhou (2024): \u201cPersonalization and Privacy Choice,\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.4795118"
+        },
+        {
+            "key": "ecta200729-bib-0043",
+            "volume-title": "On the Fundamental Ideas of Measure Theory:(Matematiceskiui Sbornik (ns) 25 (67) 107-150 (1949))",
+            "volume": "71",
+            "author": "Rokhlin",
+            "year": "1952"
+        },
+        {
+            "key": "ecta200729-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1016/0022-247X(70)90038-7",
+            "volume": "31",
+            "author": "Ryff",
+            "year": "1970",
+            "journal-title": "Journal of Mathematical Analysis and Applications"
+        },
+        {
+            "key": "ecta200729-bib-0045",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schmutte, Ian M., and Nathan Yoder (2022): \u201cInformation Design for Differential Privacy,\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.3810266"
+        },
+        {
+            "key": "ecta200729-bib-0046",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Stochastic Orders",
+            "author": "Shaked",
+            "year": "2007",
+            "DOI": "10.1007/978-0-387-34675-5"
+        },
+        {
+            "key": "ecta200729-bib-0047",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Strack, Philipp, and Kai Hao Yang (2024): \u201cSupplement to \u2018Privacy-Preserving Signals\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA22017.",
+            "DOI": "10.2139/ssrn.4467608"
+        },
+        {
+            "key": "ecta200729-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1214/aoms/1177700153",
+            "volume": "36",
+            "author": "Strassen",
+            "year": "1965",
+            "journal-title": "Annuals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200729-bib-0049",
+            "unstructured": "The White House (2015): \u201cBig Data and Differential Pricing.\u201d"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200729-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "574",
+            "DOI": "10.2307/1968536",
+            "volume": "33",
+            "author": "Neumann",
+            "year": "1932",
+            "journal-title": "Ann. of Math. (2)"
+        },
+        {
+            "key": "ecta200729-bib-0051",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Calculating Race: Racial Riscrimination in Risk Assessment",
+            "author": "Wiggins",
+            "year": "2020",
+            "DOI": "10.1093/oso/9780197504000.001.0001"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                19
+            ]
+        ],
+        "date-time": "2024-11-19T14:23:37Z",
+        "timestamp": 1732026217000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22017"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 51,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22017"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22017",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}
