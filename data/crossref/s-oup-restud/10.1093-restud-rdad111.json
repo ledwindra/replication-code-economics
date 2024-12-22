@@ -1,0 +1,885 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2024-11-08T05:28:43Z",
+        "timestamp": 1731043723621,
+        "version": "3.28.0"
+    },
+    "reference-count": 70,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        12
+                    ]
+                ],
+                "date-time": "2023-12-12T00:00:00Z",
+                "timestamp": 1702339200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We present a model of online content sharing where agents sequentially observe an article and decide whether to share it with others. This content may or may not contain misinformation. Each agent starts with an ideological bias and gains utility from positive social media interactions but does not want to be called out for propagating misinformation. We characterize the (Bayesian\u2013Nash) equilibria of this social media game and establish that it exhibits strategic complementarities. Under this framework, we study how a platform interested in maximizing engagement would design its algorithm. Our main result establishes that when the relevant articles have low-reliability and are thus likely to contain misinformation, the engagement-maximizing algorithm takes the form of a \u201cfilter bubble\u201d\u2014creating an echo chamber of like-minded users. Moreover, filter bubbles become more likely when there is greater polarization in society and content is more divisive. Finally, we discuss various regulatory solutions to such platform-manufactured misinformation.</jats:p>",
+    "DOI": "10.1093/restud/rdad111",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                12
+            ]
+        ],
+        "date-time": "2023-12-12T22:50:46Z",
+        "timestamp": 1702421446000
+    },
+    "page": "3117-3150",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "A Model of Online Misinformation"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Daron",
+            "family": "Acemoglu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology, NBER, and CEPR ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Asuman",
+            "family": "Ozdaglar",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Massachusetts Institute of Technology ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "James",
+            "family": "Siderius",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Tuck School of Business at Dartmouth College ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                12
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "volume-title": "The Disappearing Center: Engaged Citizens, Polarization, and American Democracy",
+            "year": "2010",
+            "author": "Abramowitz",
+            "key": "2024110723533630300_rdad111-B1"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.3982/TE436",
+            "article-title": "Fragility of Asymptotic Agreement Under Bayesian Learning",
+            "volume": "11",
+            "author": "Acemoglu",
+            "year": "2016",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1287/moor.1120.0570",
+            "article-title": "Opinion Fluctuations and Disagreement in Social Networks",
+            "volume": "38",
+            "author": "Acemoglu",
+            "year": "2013",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "194",
+            "DOI": "10.1016/j.geb.2010.01.005",
+            "article-title": "Spread of (Mis)information in Social Networks",
+            "volume": "70",
+            "author": "Acemoglu",
+            "year": "2010",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1257/jep.31.2.211",
+            "article-title": "Social Media and Fake News in the 2016 Election",
+            "volume": "31",
+            "author": "Allcott",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "eaay3539",
+            "DOI": "10.1126/sciadv.aay3539",
+            "article-title": "Evaluating the Fake News Problem at the Scale of the Information Ecosystem",
+            "volume": "6",
+            "author": "Allen",
+            "year": "2020",
+            "journal-title": "Science Advances"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1784",
+            "DOI": "10.1287/opre.2021.2119",
+            "article-title": "Information Inundation on Platforms and Implications",
+            "volume": "69",
+            "author": "Allon",
+            "year": "2021",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.1177/1461444820969893",
+            "article-title": "Why Do So Few People Share Fake News? It Hurts Their Reputation",
+            "volume": "24",
+            "author": "Altay",
+            "year": "2020",
+            "journal-title": "New Media & Society"
+        },
+        {
+            "year": "2012",
+            "author": "Andrews",
+            "key": "2024110723533630300_rdad111-B9"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1038/s41562-018-0346-z",
+            "article-title": "Social Influence Maximization Under Empirical Influence Models",
+            "volume": "2",
+            "author": "Aral",
+            "year": "2018",
+            "journal-title": "Nature Human Behaviour"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "595",
+            "DOI": "10.1111/1467-937X.00059",
+            "article-title": "Learning From Neighbours",
+            "volume": "65",
+            "author": "Bala",
+            "year": "1998",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "797",
+            "DOI": "10.2307/2118364",
+            "article-title": "A Simple Model of Herd Behavior",
+            "volume": "107",
+            "author": "Banerjee",
+            "year": "1992",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "year": "2020",
+            "author": "Bickert",
+            "key": "2024110723533630300_rdad111-B13"
+        },
+        {
+            "year": "2021",
+            "author": "Bikhchandani",
+            "key": "2024110723533630300_rdad111-B14"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "e0239666",
+            "DOI": "10.1371/journal.pone.0239666",
+            "article-title": "Why Do People Spread False Information Online? The Effects of Message and Viewer Characteristics on Self-Reported Likelihood of Sharing Social Media Disinformation",
+            "volume": "15",
+            "author": "Buchanan",
+            "year": "2020",
+            "journal-title": "PLoS One"
+        },
+        {
+            "year": "2011",
+            "author": "Budak",
+            "key": "2024110723533630300_rdad111-B16"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B17",
+            "first-page": "497",
+            "article-title": "Optimal Signaling of Content Accuracy: Engagement vs. Misinformation",
+            "volume": "68",
+            "author": "Candogan",
+            "year": "2020",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B18",
+            "first-page": "6997",
+            "article-title": "Regulating Algorithmic Filtering on Social Media",
+            "volume": "34",
+            "author": "Cen",
+            "year": "2021",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1194",
+            "DOI": "10.1126/science.1185231",
+            "article-title": "The Spread of Behavior in an Online Social Network Experiment",
+            "volume": "329",
+            "author": "Centola",
+            "year": "2010",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "702",
+            "DOI": "10.1086/521848",
+            "article-title": "Complex Contagions and the Weakness of Long Ties",
+            "volume": "113",
+            "author": "Centola",
+            "year": "2007",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "6734",
+            "DOI": "10.1287/mnsc.2020.3849",
+            "article-title": "Seeding the Herd: Pricing and Welfare Effects of Social Learning Manipulation",
+            "volume": "67",
+            "author": "Chen",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1073",
+            "DOI": "10.1007/s11109-019-09533-0",
+            "article-title": "Real Solutions for Fake News? Measuring the Effectiveness of General Warnings and Fact-Check Tags in Reducing Belief in False Stories on Social Media",
+            "volume": "42",
+            "author": "Clayton",
+            "year": "2020",
+            "journal-title": "Political Behavior"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "554",
+            "DOI": "10.1073/pnas.1517441113",
+            "article-title": "The Spreading of Misinformation Online",
+            "volume": "113",
+            "author": "Del Vicario",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "year": "2022",
+            "author": "Eckles",
+            "key": "2024110723533630300_rdad111-B24"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "7316",
+            "DOI": "10.1073/pnas.1511201113",
+            "article-title": "Estimating Peer Effects in Networks With Peer Encouragement Designs",
+            "volume": "113",
+            "author": "Eckles",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1080/23808985.2019.1602782",
+            "article-title": "Fake News as a Two-Dimensional Phenomenon: A Framework and Research Agenda",
+            "volume": "43",
+            "author": "Egelhofer",
+            "year": "2019",
+            "journal-title": "Annals of the International Communication Association"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "556",
+            "DOI": "10.1017/S002238160808050X",
+            "article-title": "Polarization in the American Public: Misconceptions and Misreadings",
+            "volume": "70",
+            "author": "Fiorina",
+            "year": "2008",
+            "journal-title": "The Journal of Politics"
+        },
+        {
+            "volume-title": "An Ugly Truth: Inside Facebook\u2019s Battle for Domination",
+            "year": "2021",
+            "author": "Frenkel",
+            "key": "2024110723533630300_rdad111-B28"
+        },
+        {
+            "year": "2020",
+            "author": "Garimella",
+            "key": "2024110723533630300_rdad111-B29"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "280",
+            "DOI": "10.1086/499414",
+            "article-title": "Media Bias and Reputation",
+            "volume": "114",
+            "author": "Gentzkow",
+            "year": "2006",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B31",
+            "first-page": "112",
+            "article-title": "Naive Learning in Social Networks and the Wisdom of Crowds",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "587",
+            "DOI": "10.1080/09658211.2021.1923754",
+            "article-title": "Misremembering Brexit: Partisan Bias and Individual Predictors of False Memories for Fake News Stories Among Brexit Voters",
+            "volume": "29",
+            "author": "Greene",
+            "year": "2021",
+            "journal-title": "Memory"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "374",
+            "DOI": "10.1126/science.aau2706",
+            "article-title": "Fake News on Twitter During the 2016 U.S. Presidential Election",
+            "volume": "363",
+            "author": "Grinberg",
+            "year": "2019",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "eaau4586",
+            "DOI": "10.1126/sciadv.aau4586",
+            "article-title": "Less Than You Think: Prevalence and Predictors of Fake News Dissemination on Facebook",
+            "volume": "5",
+            "author": "Guess",
+            "year": "2019",
+            "journal-title": "Science Advances"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B35",
+            "first-page": "4",
+            "article-title": "Selective Exposure to Misinformation: Evidence From the Consumption of Fake News During the 2016 US Presidential Campaign",
+            "volume": "9",
+            "author": "Guess",
+            "year": "2018",
+            "journal-title": "European Research Council"
+        },
+        {
+            "year": "2020",
+            "author": "Hsu",
+            "key": "2024110723533630300_rdad111-B36"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1146/annurev-economics-080218-025739",
+            "article-title": "Bayesian Persuasion and Information Design",
+            "volume": "11",
+            "author": "Kamenica",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "article-title": "Bayesian Persuasion",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "3490",
+            "DOI": "10.1287/opre.2021.2209",
+            "article-title": "Learning Manipulation Through Information Dissemination",
+            "volume": "70",
+            "author": "Keppo",
+            "year": "2022",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B40",
+            "first-page": "1",
+            "article-title": "Why Do People Share Political Information on Social Media?",
+            "volume": "9",
+            "author": "Kim",
+            "year": "2020",
+            "journal-title": "Digital Journalism"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1177/1529100620946707",
+            "article-title": "Citizens Versus the Internet: Confronting Digital Challenges With Cognitive Tools",
+            "volume": "21",
+            "author": "Kozyreva",
+            "year": "2020",
+            "journal-title": "Psychological Science in the Public Interest"
+        },
+        {
+            "year": "2022",
+            "author": "Kranton",
+            "key": "2024110723533630300_rdad111-B42"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1094",
+            "DOI": "10.1126/science.aao2998",
+            "article-title": "The Science of Fake News",
+            "volume": "359",
+            "author": "Lazer",
+            "year": "2018",
+            "journal-title": "Science"
+        },
+        {
+            "year": "2011",
+            "author": "Lee",
+            "key": "2024110723533630300_rdad111-B44"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B45",
+            "first-page": "467",
+            "article-title": "Debunking Rumors in Networks",
+            "volume": "15",
+            "author": "Merlino",
+            "year": "2023",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.1177/0002764219878224",
+            "article-title": "\u201cFake News\u201d Is Not Simply False Information: A Concept Explication and Taxonomy of Online Content",
+            "volume": "65",
+            "author": "Molina",
+            "year": "2021",
+            "journal-title": "American Behavioral Scientist"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "7153",
+            "DOI": "10.1287/mnsc.2021.4265",
+            "article-title": "When is Society Susceptible to Manipulation?",
+            "volume": "68",
+            "author": "Mostagir",
+            "year": "2022",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "2860",
+            "DOI": "10.1287/mnsc.2022.4340",
+            "article-title": "Learning in a Post-Truth World",
+            "volume": "68",
+            "author": "Mostagir",
+            "year": "2022",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2022",
+            "author": "Mostagir",
+            "key": "2024110723533630300_rdad111-B49"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "968",
+            "DOI": "10.1287/mnsc.2022.4380",
+            "article-title": "Social Inequality and the Spread of Misinformation",
+            "volume": "69",
+            "author": "Mostagir",
+            "year": "2023",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2012",
+            "author": "Nguyen",
+            "key": "2024110723533630300_rdad111-B51"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "205395171881184",
+            "DOI": "10.1177/2053951718811844",
+            "article-title": "Social Media and Microtargeting: Political Data Processing and the Consequences for Germany",
+            "volume": "5",
+            "author": "Papakyriakopoulos",
+            "year": "2018",
+            "journal-title": "Big Data & Society"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1826",
+            "DOI": "10.1287/mnsc.2019.3295",
+            "article-title": "Fake News Propagation and Detection: A Sequential Model",
+            "volume": "66",
+            "author": "Papanastasiou",
+            "year": "2020",
+            "journal-title": "Management Science"
+        },
+        {
+            "volume-title": "The Filter Bubble: What The Internet Is Hiding From You",
+            "year": "2011",
+            "author": "Pariser",
+            "key": "2024110723533630300_rdad111-B54"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "4944",
+            "DOI": "10.1287/mnsc.2019.3478",
+            "article-title": "The Implied Truth Effect: Attaching Warnings to a Subset of Fake News Headlines Increases Perceived Accuracy of Headlines Without Warnings",
+            "volume": "66",
+            "author": "Pennycook",
+            "year": "2020",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1865",
+            "DOI": "10.1037/xge0000465",
+            "article-title": "Prior Exposure Increases Perceived Accuracy of Fake News",
+            "volume": "147",
+            "author": "Pennycook",
+            "year": "2018",
+            "journal-title": "Journal of Experimental Psychology. General"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "590",
+            "DOI": "10.1038/s41586-021-03344-2",
+            "article-title": "Shifting Attention to Accuracy Can Reduce Misinformation Online",
+            "volume": "592",
+            "author": "Pennycook",
+            "year": "2021",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "770",
+            "DOI": "10.1177/0956797620939054",
+            "article-title": "Fighting COVID-19 Misinformation on Social Media: Experimental Evidence for a Scalable Accuracy-Nudge Intervention",
+            "volume": "31",
+            "author": "Pennycook",
+            "year": "2020",
+            "journal-title": "Psychological Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/j.cognition.2018.06.011",
+            "article-title": "Lazy, Not Biased: Susceptibility to Partisan Fake News is Better Explained by Lack of Reasoning Than by Motivated Reasoning",
+            "volume": "188",
+            "author": "Pennycook",
+            "year": "2019",
+            "journal-title": "Cognition"
+        },
+        {
+            "year": "2014",
+            "author": "Pew Research Center",
+            "key": "2024110723533630300_rdad111-B60"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1146/annurev-polisci-100711-135242",
+            "article-title": "Media and Political Polarization",
+            "volume": "16",
+            "author": "Prior",
+            "year": "2013",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "831",
+            "DOI": "10.1257/aer.20191777",
+            "article-title": "Social Media, News Consumption, and Polarization: Evidence From a Field Experiment",
+            "volume": "111",
+            "author": "Ro\u2019ee",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2018",
+            "author": "Sunstein",
+            "key": "2024110723533630300_rdad111-B63"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.2140/pjm.1955.5.285",
+            "article-title": "A Lattice-Theoretical Fixpoint Theorem and its Applications",
+            "volume": "5",
+            "author": "Tarski",
+            "year": "1955",
+            "journal-title": "Pacific Journal of Mathematics"
+        },
+        {
+            "year": "2018",
+            "author": "Taylor",
+            "key": "2024110723533630300_rdad111-B65"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B66",
+            "volume-title": "Supermodularity and Complementarity",
+            "author": "Topkis",
+            "year": "1998",
+            "edition": "1st edn"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "e0203958",
+            "DOI": "10.1371/journal.pone.0203958",
+            "article-title": "Echo Chambers and Viral Misinformation: Modeling Fake News as Complex Contagion",
+            "volume": "13",
+            "author": "T\u00f6rnberg",
+            "year": "2018",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "1146",
+            "DOI": "10.1126/science.aap9559",
+            "article-title": "The Spread of True and False News Online",
+            "volume": "359",
+            "author": "Vosoughi",
+            "year": "2018",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1111/rego.12158",
+            "article-title": "Algorithmic Regulation: A Critical Interrogation",
+            "volume": "12",
+            "author": "Yeung",
+            "year": "2018",
+            "journal-title": "Regulation & Governance"
+        },
+        {
+            "key": "2024110723533630300_rdad111-B70",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/oso/9780198838494.001.0001",
+            "volume-title": "Algorithmic Regulation",
+            "author": "Yeung",
+            "year": "2019"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad111/58905348/rdad111.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/6/3117/60441642/rdad111.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/6/3117/60441642/rdad111.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                7
+            ]
+        ],
+        "date-time": "2024-11-07T23:54:50Z",
+        "timestamp": 1731023690000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/6/3117/7470762"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                12
+            ]
+        ]
+    },
+    "references-count": 70,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    12,
+                    12
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    11,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdad111",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                12
+            ]
+        ]
+    }
+}

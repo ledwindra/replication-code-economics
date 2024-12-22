@@ -1,0 +1,631 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2024-11-08T05:28:43Z",
+        "timestamp": 1731043723456,
+        "version": "3.28.0"
+    },
+    "reference-count": 43,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        24
+                    ]
+                ],
+                "date-time": "2024-01-24T00:00:00Z",
+                "timestamp": 1706054400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>In matching models, pairwise-stable outcomes do not generally exist without substantial restrictions on both preferences and the topology of the network of contracts. We address the foundations of matching markets by developing a matching model with a continuum of agents that allows for arbitrary preferences and network structures. We show that pairwise-stable outcomes are guaranteed to exist. When agents can interact with multiple other counterparties, pairwise stability is too weak of a solution concept, and we argue that a refinement of it called tree stability is the most appropriate solution concept in this setting. Our main results show that tree-stable outcomes exist for arbitrary preferences and network topologies.</jats:p>",
+    "DOI": "10.1093/restud/rdae008",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                25
+            ]
+        ],
+        "date-time": "2024-01-25T05:25:50Z",
+        "timestamp": 1706160350000
+    },
+    "page": "3532-3568",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Stability in Large Markets"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Ravi",
+            "family": "Jagadeesan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Karolina",
+            "family": "Vocke",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Innsbruck ,",
+                    "place": [
+                        "Austria"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2024110723533741700_rdae008-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1016/S0165-1765(99)00241-4",
+            "article-title": "On a Characterization of Stable Matchings",
+            "volume": "68",
+            "author": "Adachi",
+            "year": "2000",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "72",
+            "DOI": "10.1016/S0095-8956(02)00028-X",
+            "article-title": "On a Lemma of Scarf",
+            "volume": "87",
+            "author": "Aharoni",
+            "year": "2003",
+            "journal-title": "Journal of Combinatorial Theory, Series B"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.2307/1913732",
+            "article-title": "Markets with a Continuum of Traders",
+            "volume": "32",
+            "author": "Aumann",
+            "year": "1964",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1909854",
+            "article-title": "Existence of Competitive Equilibria in Markets with a Continuum of Traders",
+            "volume": "34",
+            "year": "1966",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2018",
+            "author": "Azevedo",
+            "key": "2024110723533741700_rdae008-B8"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.3982/ECTA13693",
+            "article-title": "Understanding Preferences: \u201cDemand Types,\u201d and the Existence of Equilibrium with Indivisibilities",
+            "volume": "87",
+            "author": "Baldwin",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "105292",
+            "DOI": "10.1016/j.jet.2021.105292",
+            "article-title": "Stability and Venture Structures in Multilateral Matching",
+            "volume": "196",
+            "author": "Bando",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "volume-title": "Graphs and Hypergraphs",
+            "year": "1973",
+            "author": "Berge",
+            "key": "2024110723533741700_rdae008-B11"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1287/moor.13.4.619",
+            "article-title": "The Lattice Structure of the set of Stable Matchings with Multiple Partners",
+            "volume": "13",
+            "author": "Blair",
+            "year": "1988",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1261",
+            "DOI": "10.3982/TE5915",
+            "article-title": "Stable Matching in Large Markets with Occupational Choice",
+            "volume": "19",
+            "author": "Carmona",
+            "year": "2024",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.3982/ECTA13547",
+            "article-title": "Stable Matching in Large Economies",
+            "volume": "87",
+            "author": "Che",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2021",
+            "key": "2024110723533741700_rdae008-B15"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "437",
+            "DOI": "10.2307/1913320",
+            "article-title": "Job Matching with Heterogeneous Firms and Workers",
+            "volume": "49",
+            "author": "Crawford",
+            "year": "1981",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "643",
+            "DOI": "10.1093/restud/rdaa062",
+            "article-title": "Trade and Domestic Production Networks",
+            "volume": "88",
+            "author": "Dhyne",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "358",
+            "DOI": "10.1016/S0022-0531(04)00042-1",
+            "article-title": "Core Many-To-One Matchings by Fixed-Point Methods",
+            "volume": "115",
+            "author": "Echenique",
+            "year": "2004",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B2",
+            "first-page": "233",
+            "article-title": "A Theory of Stability in Many-To-Many Matching Markets",
+            "volume": "1",
+            "year": "2006",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1287/moor.28.1.103.14256",
+            "article-title": "A Fixed-Point Approach to Stable Matchings and Some Applications",
+            "volume": "28",
+            "author": "Fleiner",
+            "year": "2003",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1633",
+            "DOI": "10.3982/ECTA14159",
+            "article-title": "Trading Networks with Frictions",
+            "volume": "87",
+            "author": "Fleiner",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2018",
+            "author": "Fleiner",
+            "key": "2024110723533741700_rdae008-B21"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1080/00029890.1962.11989827",
+            "article-title": "College Admissions and the Stability of Marriage",
+            "volume": "69",
+            "author": "Gale",
+            "year": "1962",
+            "journal-title": "American Mathematical Monthly"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2929",
+            "DOI": "10.3982/ECTA16228",
+            "article-title": "Pairwise Stable Matching in Large Economies",
+            "volume": "89",
+            "author": "Greinecker",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B24",
+            "first-page": "176",
+            "article-title": "Matching in Networks with Bilateral Contracts",
+            "volume": "4",
+            "author": "Hatfield",
+            "year": "2012",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1016/j.geb.2016.01.002",
+            "article-title": "Contract Design and Stability in Many-To-many Matching",
+            "volume": "101",
+            "year": "2017",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "966",
+            "DOI": "10.1086/673402",
+            "article-title": "Stability and Competitive Equilibrium in Trading Networks",
+            "volume": "121",
+            "author": "Hatfield",
+            "year": "2013",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1535",
+            "DOI": "10.3982/TE3240",
+            "article-title": "Full Substitutability",
+            "volume": "14",
+            "year": "2019",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "913",
+            "DOI": "10.1257/0002828054825466",
+            "article-title": "Matching with Contracts",
+            "volume": "95",
+            "author": "Hatfield",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2017",
+            "author": "Jagadeesan",
+            "key": "2024110723533741700_rdae008-B27"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1483",
+            "DOI": "10.2307/1913392",
+            "article-title": "Job Matching, Coalition Formation, and Gross Substitutes",
+            "volume": "50",
+            "author": "Kelso",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "422",
+            "DOI": "10.1016/j.jmateco.2009.03.007",
+            "article-title": "Stable Many-To-Many Matchings with Contracts",
+            "volume": "45",
+            "author": "Klaus",
+            "year": "2009",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "984",
+            "DOI": "10.1016/j.geb.2011.12.002",
+            "article-title": "On the Correspondence of Contracts to Salaries in (Many-To-Many) Matching",
+            "volume": "75",
+            "author": "Kominers",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1016/j.jet.2005.02.001",
+            "article-title": "Credible Group-Stability in Many-To-Many Matching Problems",
+            "volume": "129",
+            "author": "Konishi",
+            "year": "2006",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B32",
+            "first-page": "511",
+            "article-title": "The Economics of Modern Manufacturing: Technology, Strategy, and Organization",
+            "volume": "80",
+            "author": "Milgrom",
+            "year": "1990",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "290",
+            "DOI": "10.1287/moor.3.4.290",
+            "article-title": "Values of Large Games II: Oceanic Games",
+            "volume": "3",
+            "author": "Milnor",
+            "year": "1978",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "897",
+            "DOI": "10.1257/aer.98.3.897",
+            "article-title": "Stability in Supply Chain Networks",
+            "volume": "98",
+            "author": "Ostrovsky",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1793",
+            "DOI": "10.3982/ECTA16686",
+            "article-title": "Matching with Complementary Contracts",
+            "volume": "88",
+            "author": "Rostek",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.2307/1911460",
+            "article-title": "Stability and Polarization of Interests in Job Matching",
+            "volume": "52",
+            "author": "Roth",
+            "year": "1984",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B37",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CCOL052139015X",
+            "volume-title": "Two-Sided Matching: A Study in Game-Theoretic Modeling and Analysis",
+            "author": "Roth",
+            "year": "1990"
+        },
+        {
+            "year": "1962",
+            "author": "Scarf",
+            "key": "2024110723533741700_rdae008-B38"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1016/S0165-4896(98)00048-1",
+            "article-title": "Three Remarks on the Many-To-Many Stable Matching Problem",
+            "volume": "38",
+            "author": "Sotomayor",
+            "year": "1999",
+            "journal-title": "Mathematical Social Sciences"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "154",
+            "DOI": "10.1016/0196-6774(91)90028-W",
+            "article-title": "A Necessary and Sufficient Condition for the Existence of a Complete Stable Matching",
+            "volume": "12",
+            "author": "Tan",
+            "year": "1991",
+            "journal-title": "Journal of Algorithms"
+        },
+        {
+            "year": "2022",
+            "author": "Vocke",
+            "key": "2024110723533741700_rdae008-B41"
+        },
+        {
+            "year": "2024",
+            "key": "2024110723533741700_rdae008-B42"
+        },
+        {
+            "key": "2024110723533741700_rdae008-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1724",
+            "DOI": "10.1016/j.jet.2010.04.001",
+            "article-title": "Market Structure and Matching with Contracts",
+            "volume": "145",
+            "author": "Westkamp",
+            "year": "2010",
+            "journal-title": "Journal of Economic Theory"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae008/58854109/rdae008.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/6/3532/60441649/rdae008.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/6/3532/60441649/rdae008.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                7
+            ]
+        ],
+        "date-time": "2024-11-07T23:54:17Z",
+        "timestamp": 1731023657000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/6/3532/7588778"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                24
+            ]
+        ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    11,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae008",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                24
+            ]
+        ]
+    }
+}

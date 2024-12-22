@@ -1,0 +1,759 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2024-11-08T05:28:16Z",
+        "timestamp": 1731043696618,
+        "version": "3.28.0"
+    },
+    "reference-count": 56,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        18
+                    ]
+                ],
+                "date-time": "2023-12-18T00:00:00Z",
+                "timestamp": 1702857600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article introduces a measure of the diffusion of binary outcomes over a large, sparse network, when the diffusion is observed in two time periods. The measure captures the aggregated spillover effect of the state-switches in the initial period on their neighbours\u2019 outcomes in the second period. This article introduces a causal network that captures the causal connections among the cross-sectional units over the two periods. It shows that when the researcher\u2019s observed network contains the causal network as a subgraph, the measure of diffusion is identified as a simple, spatio-temporal dependence measure of observed outcomes. When the observed network does not satisfy this condition, but the spillover effect is non-negative, the spatio-temporal dependence measure serves as a lower bound for diffusion. Using this, a lower confidence bound for diffusion is proposed, and its asymptotic validity is established. The Monte Carlo simulation studies demonstrate the finite sample stability of the inference across a range of network configurations. The article applies the method to data on Indian villages to measure the diffusion of microfinancing decisions over households\u2019 social networks.</jats:p>",
+    "DOI": "10.1093/restud/rdad115",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                18
+            ]
+        ],
+        "date-time": "2023-12-18T22:38:12Z",
+        "timestamp": 1702939092000
+    },
+    "page": "3468-3503",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Measuring Diffusion Over a Large Network"
+    ],
+    "prefix": "10.1093",
+    "volume": "91",
+    "author": [
+        {
+            "given": "Xiaoqi",
+            "family": "He",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Central University of Finance and Economics ,",
+                    "place": [
+                        "China"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Kyungchul",
+            "family": "Song",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of British Columbia ,",
+                    "place": [
+                        "Canada"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                18
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "year": "2011",
+            "author": "Acemoglu",
+            "key": "2024110723533766700_rdad115-B1"
+        },
+        {
+            "year": "2020",
+            "author": "Akbarpour",
+            "key": "2024110723533766700_rdad115-B2"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "21544",
+            "DOI": "10.1073/pnas.0908800106",
+            "article-title": "Distinguishing Influence-Based Contagion from Homophily-Driven Diffusion in Dynamic Networks",
+            "volume": "106",
+            "author": "Aral",
+            "year": "2009",
+            "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1912",
+            "DOI": "10.1214/16-AOAS1005",
+            "article-title": "Estimating Average Causal Effects under General Interference, with Application to a Social Network Experiment",
+            "volume": "11",
+            "author": "Aronow",
+            "year": "2017",
+            "journal-title": "Annals of Applied Statistics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "230",
+            "DOI": "10.1080/01621459.2016.1241178",
+            "article-title": "Exact P-Values for Network Interference",
+            "volume": "113",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1236498",
+            "DOI": "10.1126/science.1236498",
+            "article-title": "The Diffusion of Microfinance",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2453",
+            "DOI": "10.1093/restud/rdz008",
+            "article-title": "Using Gossips to Spread Information: Theory and Evidence from Two Randomized Controlled Trials",
+            "volume": "86",
+            "author": "Banerjee",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1918",
+            "DOI": "10.1257/aer.20200295",
+            "article-title": "Can Network Theory-Based Targeting Increase Technology Adoption?",
+            "volume": "111",
+            "author": "Beaman",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1016/j.jeconom.2008.12.021",
+            "article-title": "Identification of Peer Effects Through Social Networks",
+            "volume": "150",
+            "author": "Bramoull\u00e9",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2018",
+            "author": "Breza",
+            "key": "2024110723533766700_rdad115-B10"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2466",
+            "DOI": "10.1257/aer.103.6.2466",
+            "article-title": "Word-of-Mouth Communication and Percolation in Social Networks",
+            "volume": "103",
+            "author": "Campbell",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1147",
+            "DOI": "10.1080/01621459.2016.1194845",
+            "article-title": "Estimation of Monotone Treatment Effects in Network Experiments",
+            "volume": "112",
+            "author": "Choi",
+            "year": "2017",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.2307/2785979",
+            "article-title": "The Diffusion of an Innovation Among Physicians",
+            "volume": "20",
+            "author": "Coleman",
+            "year": "1957",
+            "journal-title": "Sociometry"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "668",
+            "DOI": "10.1111/0002-9092.00188",
+            "article-title": "Social Learning Through Networks: The Adoption of New Agricultural Technologies in Ghana",
+            "volume": "83",
+            "author": "Conley",
+            "year": "2001",
+            "journal-title": "American Journal of Agricultural Economics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1257/aer.100.1.35",
+            "article-title": "Learning about a New Technology: Pineapple in Ghana",
+            "volume": "100",
+            "author": "Conley",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1103",
+            "DOI": "10.25300/MISQ/2014/38.4.08",
+            "article-title": "Peer Influence in the Diffusion of the iPhone 3G over a Large Social Network",
+            "volume": "38",
+            "author": "de Matos",
+            "year": "2014",
+            "journal-title": "Management Information System Quarterly"
+        },
+        {
+            "year": "2020",
+            "author": "de Paula",
+            "key": "2024110723533766700_rdad115-B17"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "909",
+            "DOI": "10.1162/00335530360698469",
+            "article-title": "Persuasion Bias, Social Influence, and Unidimensional Opinions",
+            "volume": "118",
+            "author": "DeMarzo",
+            "year": "2003",
+            "journal-title": "Quartely Journal of Economics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "377",
+            "DOI": "10.1016/j.jeconom.2009.11.007",
+            "article-title": "Testing Single-Index Restrictions with a Focus on Average Derivatives",
+            "volume": "156",
+            "author": "Escanciano",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1023/A:1011122126881",
+            "article-title": "Talk of the Network: A Complex Systems Look at the Underlying Process of Word-of-Mouth",
+            "volume": "12",
+            "author": "Goldenberg",
+            "year": "2001",
+            "journal-title": "Marketing Letters"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B21",
+            "first-page": "112",
+            "article-title": "Na\u00efve Learning in Social Networks and the Wisdom of Crowds",
+            "volume": "2",
+            "author": "Golub",
+            "year": "2010",
+            "journal-title": "American Economic Journal"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1420",
+            "DOI": "10.1086/226707",
+            "article-title": "Threshold Models of Collective Behavior",
+            "volume": "83",
+            "author": "Granovetter",
+            "year": "1978",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1161",
+            "DOI": "10.1111/1468-0262.00442",
+            "article-title": "Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score",
+            "volume": "71",
+            "author": "Hirano",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B24",
+            "first-page": "65",
+            "article-title": "A Simple Sequentially Rejective Multiple Test Procedure",
+            "volume": "6",
+            "author": "Holm",
+            "year": "1979",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/j.jeconom.2007.12.001",
+            "article-title": "Identification and Estimation of Nonlinear Models with Misclassification Error Using Instrumental Variables: A General Solution",
+            "volume": "144",
+            "author": "Hu",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "volume-title": "Causal Inference: For Statistics, Social, and Biomedical Sciences. An Introduction",
+            "year": "2015",
+            "author": "Imbens",
+            "key": "2024110723533766700_rdad115-B26"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1257/jel.47.1.5",
+            "article-title": "Recent Developments in the Econometrics of Program Evaluation",
+            "volume": "47",
+            "author": "Imbens",
+            "year": "2009",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "890",
+            "DOI": "10.1257/aer.97.3.890",
+            "article-title": "Meeting Strangers and Friends of Friends: How Random Are Social Networks?",
+            "volume": "97",
+            "author": "Jackson",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "92",
+            "DOI": "10.1257/aer.97.2.92",
+            "article-title": "Diffusion of Behavior and Equilibrium Properties in Network Games",
+            "volume": "97",
+            "author": "Jackson",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.1214/aos/1016120371",
+            "article-title": "Global Power Function of Goodness of Fit Tests",
+            "volume": "28",
+            "author": "Janssen",
+            "year": "2000",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "year": "2003",
+            "author": "Kempe",
+            "key": "2024110723533766700_rdad115-B31"
+        },
+        {
+            "year": "2021",
+            "author": "Kojevnikov",
+            "key": "2024110723533766700_rdad115-B32"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "882",
+            "DOI": "10.1016/j.jeconom.2020.05.019",
+            "article-title": "Limit Theorems for Network Dependent Random Variables",
+            "volume": "222",
+            "author": "Kojevnikov",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.jeconom.2013.02.004",
+            "article-title": "Limit Theory for Panel Data Models with Cross Sectional Dependence and Sequential Exogeneity",
+            "volume": "174",
+            "author": "Kuersteiner",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "volume-title": "Testing Statistical Hypotheses",
+            "year": "2005",
+            "author": "Lehmann",
+            "key": "2024110723533766700_rdad115-B35"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "5\u2013es",
+            "DOI": "10.1145/1232722.1232727",
+            "article-title": "The Dynamics of Viral Marketing",
+            "volume": "1",
+            "author": "Leskovec",
+            "year": "2007",
+            "journal-title": "ACM Transactions on the Web (TWEB)"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1016/j.jeconom.2015.04.001",
+            "article-title": "Two-Step Estimation of Network-Formation Models with Incomplete Information",
+            "volume": "188",
+            "author": "Leung",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "368",
+            "DOI": "10.1162/rest_a_00818",
+            "article-title": "Treatment and Spillover Effects Under Network Interference",
+            "volume": "102",
+            "author": "Leung",
+            "year": "2020",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.3982/ECTA17841",
+            "article-title": "Causal Inference Under Approximate Neighborhood Interference",
+            "volume": "90",
+            "author": "Leung",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2021",
+            "author": "Lewbel",
+            "key": "2024110723533766700_rdad115-B40"
+        },
+        {
+            "year": "2021",
+            "author": "Li",
+            "key": "2024110723533766700_rdad115-B41"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.2307/2298123",
+            "article-title": "Identification of Endogenous Social Effects: The Reflection Problem",
+            "volume": "60",
+            "author": "Manski",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1311",
+            "DOI": "10.2307/2171738",
+            "article-title": "Monotone Treatment Response",
+            "volume": "65",
+            "author": "Manski",
+            "year": "1997",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/1467-937X.00121",
+            "article-title": "Contagion",
+            "volume": "67",
+            "author": "Morris",
+            "year": "2000",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B45",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/acprof:oso/9780199206650.001.0001",
+            "volume-title": "Networks: An Introduction",
+            "author": "Newman",
+            "year": "2010"
+        },
+        {
+            "year": "2020",
+            "author": "Ridder",
+            "key": "2024110723533766700_rdad115-B46"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.3982/ECTA6706",
+            "article-title": "Inference for the Identified Set in Partially Identified Econometric Models",
+            "volume": "78",
+            "author": "Romano",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1237",
+            "DOI": "10.1111/j.1468-0262.2005.00615.x",
+            "article-title": "Stepwise Multiple Testing as Formalized Data Snooping",
+            "volume": "73",
+            "author": "Romano",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1198/016214506000001112",
+            "article-title": "Interference Between Units in Randomized Experiments",
+            "volume": "102",
+            "author": "Rosenbaum",
+            "year": "2007",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1257/aer.20180601",
+            "article-title": "Diffusion Games",
+            "volume": "110",
+            "author": "Sadler",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1177/0049124111404820",
+            "article-title": "Homophily and Contagion Are Generically Confounded in Observational Social Newtwork Studies",
+            "volume": "40",
+            "author": "Shalizi",
+            "year": "2011",
+            "journal-title": "Sociological Methods and Research"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.1017/S026646662200024X",
+            "article-title": "A Decomposition Analysis of Diffusion Over a Large Network",
+            "volume": "38",
+            "author": "Song",
+            "year": "2022",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "613",
+            "DOI": "10.1214/aos/1031833666",
+            "article-title": "Nonparametric Model Checks for Regression",
+            "volume": "25",
+            "author": "Stute",
+            "year": "1997",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "13",
+            "DOI": "10.1515/jci-2013-0002",
+            "article-title": "Causal Inference for a Population of Causally Connected Units",
+            "volume": "2",
+            "author": "van der Laan",
+            "year": "2014",
+            "journal-title": "Journal of Causal Inference"
+        },
+        {
+            "key": "2024110723533766700_rdad115-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1899",
+            "DOI": "10.1257/aer.99.5.1899",
+            "article-title": "Innovation Diffusion in Heterogeneous Populations: Contagion, Social Influence, and Social Learning",
+            "volume": "99",
+            "author": "Young",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2020",
+            "author": "Zhang",
+            "key": "2024110723533766700_rdad115-B56"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdad115/55145514/rdad115.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/6/3468/60441657/rdad115.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/91/6/3468/60441657/rdad115.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                11,
+                7
+            ]
+        ],
+        "date-time": "2024-11-07T23:54:10Z",
+        "timestamp": 1731023650000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/91/6/3468/7477820"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                18
+            ]
+        ]
+    },
+    "references-count": 56,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    12,
+                    18
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2024,
+                    11,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdad115",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2024,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                12,
+                18
+            ]
+        ]
+    }
+}
