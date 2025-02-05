@@ -1,0 +1,385 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                31
+            ]
+        ],
+        "date-time": "2025-01-31T05:15:43Z",
+        "timestamp": 1738300543740,
+        "version": "3.35.0"
+    },
+    "reference-count": 30,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>I propose a method for selecting seeds to maximize contagion. First, fit a random graph model using a coarse categorization of individuals. Next, compute a \n            <jats:italic>seed multiplier</jats:italic> for each category\u2014this is the average number of new infections a seed generates. Finally, seed the category with the highest multiplier. Relative to the most common methods, my approach requires far less granular data, and it consumes less computing power\u2014the problem scales with the number of categories, not the number of individuals. I validate the methodology through simulations using real network data.\n          </jats:p>",
+    "DOI": "10.3982/ecta22448",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2025-01-30T13:25:43Z",
+        "timestamp": 1738243543000
+    },
+    "page": "71-93",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Seeding a Simple Contagion"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Evan",
+            "family": "Sadler",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Columbia University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200743-bib-0001",
+            "unstructured": "Akbarpour, Mohammad, Suraj Malladi, and Amin Saberi (2020): \u201cJust a few Seeds More: Value of Network Information for Diffusion,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200743-bib-0002",
+            "unstructured": "Alidaee, Hossein, Eric Auerbach, and Michael Leung (2020): \u201cRecovering Network Structure From Aggregated Relational Data Using Penalized Regression,\u201d Working Paper."
+        },
+        {
+            "key": "ecta200743-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "2097",
+            "DOI": "10.1214/13-AOS1138",
+            "volume": "41",
+            "author": "Amini",
+            "year": "2013",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200743-bib-0004",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-642-65371-1",
+            "volume-title": "Branching Processes",
+            "author": "Athreya",
+            "year": "1972"
+        },
+        {
+            "key": "ecta200743-bib-0005",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1126/science.1236498",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "ecta200743-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "2453",
+            "DOI": "10.1093/restud/rdz008",
+            "volume": "86",
+            "author": "Banerjee",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200743-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1918",
+            "DOI": "10.1257/aer.20200295",
+            "volume": "111",
+            "author": "Beaman",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200743-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1922",
+            "DOI": "10.1214/13-AOS1124",
+            "volume": "41",
+            "author": "Bickel",
+            "year": "2013",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200743-bib-0009",
+            "first-page": "946",
+            "volume-title": "Proceedings of the 25th ACM-SIAM Symposium on Discrete Algorithms",
+            "author": "Borgs",
+            "year": "2014"
+        },
+        {
+            "key": "ecta200743-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "2454",
+            "DOI": "10.1257/aer.20170861",
+            "volume": "110",
+            "author": "Breza",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200743-bib-0011",
+            "first-page": "1",
+            "volume-title": "Synthesis Lectures on Data Management",
+            "author": "Chen",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200743-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "795",
+            "DOI": "10.1145/2939672.2939745",
+            "volume-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+            "author": "Chen",
+            "year": "2016"
+        },
+        {
+            "key": "ecta200743-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1145/1557019.1557047",
+            "volume-title": "Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+            "author": "Chen",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200743-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1714",
+            "DOI": "10.1287/mnsc.2021.3963",
+            "volume": "68",
+            "author": "Chin",
+            "year": "2022",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "ecta200743-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.1287/mnsc.2015.2158",
+            "volume": "62",
+            "author": "Goel",
+            "year": "2016",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "ecta200743-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "623",
+            "DOI": "10.1145/2229012.2229058",
+            "volume-title": "Proceedings of the 13th ACM Conference on Electronic Commerce",
+            "author": "Goel",
+            "year": "2012"
+        },
+        {
+            "key": "ecta200743-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "256",
+            "DOI": "10.1214/088342306000000222",
+            "volume": "21",
+            "author": "Hill",
+            "year": "2006",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200743-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1287/mksc.1100.0566",
+            "volume": "30",
+            "author": "Iyengar",
+            "year": "2011",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "ecta200743-bib-0019",
+            "volume-title": "KDD Conference Proceedings",
+            "author": "Kempe",
+            "year": "2003"
+        },
+        {
+            "key": "ecta200743-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1016/S0140-6736(15)60095-2",
+            "volume": "386",
+            "author": "Kim",
+            "year": "2015",
+            "journal-title": "Lancet"
+        },
+        {
+            "key": "ecta200743-bib-0021",
+            "unstructured": "Kumar, Vineet, and Karunakaran Sudhir (2019): \u201cCan Friends Seed More Buzz and Adoption?\u201d Cowles Foundation Working Paper Number 2178."
+        },
+        {
+            "key": "ecta200743-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "380",
+            "DOI": "10.1007/11731139_44",
+            "volume-title": "Proceedings of the 10th Pacific-Asia Conference on Advances in Knowledge Discovery and Data Mining",
+            "author": "Leskovec",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200743-bib-0023",
+            "first-page": "1",
+            "volume": "24",
+            "author": "Li",
+            "year": "2023",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "ecta200743-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1257/aer.20180601",
+            "volume": "110",
+            "author": "Sadler",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200743-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sadler, Evan (2024): \u201cSupplement to \u2018Seeding a Simple Contagion\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA22448.",
+            "DOI": "10.3982/ECTA22448"
+        },
+        {
+            "key": "ecta200743-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "459",
+            "DOI": "10.1109/FOCS.2013.56",
+            "volume-title": "IEEE 54th Annual Symposium on Foundations of Computer Science",
+            "author": "Seeman",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200743-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "455",
+            "DOI": "10.1080/01621459.2018.1562934",
+            "volume": "115",
+            "author": "Tabouy",
+            "year": "2020",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200743-bib-0028",
+            "first-page": "500",
+            "volume": "45",
+            "author": "Wang",
+            "year": "2017",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200743-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "5766",
+            "DOI": "10.1073/pnas.082090499",
+            "volume": "99",
+            "author": "Watts",
+            "year": "2002",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "ecta200743-bib-0030",
+            "first-page": "1305",
+            "volume-title": "Proceedings of the 16th International Conference on Autonomous Agents and Multiagent Systems",
+            "author": "Wilder",
+            "year": "2017"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2025-01-30T13:26:55Z",
+        "timestamp": 1738243615000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22448"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22448"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22448",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

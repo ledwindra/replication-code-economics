@@ -1,0 +1,794 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2025-01-30T14:10:21Z",
+        "timestamp": 1738246221718,
+        "version": "3.34.0"
+    },
+    "reference-count": 64,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100020792",
+            "name": "Fama-Miller Center for Research in Finance, Booth School of Business, University of Chicago",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100020792",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100008086",
+            "name": "Global Down Syndrome Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100008086",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100007618",
+            "name": "Booth School of Business, University of Chicago",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100007618",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Using randomized control trials (RCTs) applied over time in different countries, we study whether the economic environment affects how agents learn from new information. We show that as inflation rose in advanced economies, both households and firms became more attentive and informed about publicly available news about inflation, leading them to respond less to exogenously provided information about inflation and monetary policy. We also study the effects of RCTs in countries where inflation has been consistently high (Uruguay) and low (New Zealand) as well as what happens when the same agents are repeatedly provided information in both low\u2010 and high\u2010inflation environments (Italy). Our results broadly support models in which inattention is an endogenous outcome that depends on the economic environment.</jats:p>",
+    "DOI": "10.3982/ecta22764",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2025-01-30T13:25:43Z",
+        "timestamp": 1738243543000
+    },
+    "page": "229-264",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Tell Me Something I Don't Already Know: Learning in Low\u2010 and High\u2010Inflation Settings"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Michael",
+            "family": "Weber",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, U. Chicago"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Bernardo",
+            "family": "Candia",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of California - Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Hassan",
+            "family": "Afrouzi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Columbia University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Tiziano",
+            "family": "Ropele",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Directorate General for Economics, Statistics and Research, Bank of Italy"
+                }
+            ]
+        },
+        {
+            "given": "Rodrigo",
+            "family": "Lluberas",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facultad de Ciencias Empresariales y Economia, Department of Economics, Universidad ORT Uruguay"
+                }
+            ]
+        },
+        {
+            "given": "Serafin",
+            "family": "Frache",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Facultad de Ciencias Empresariales y Economia, Universidad de Montevideo"
+                }
+            ]
+        },
+        {
+            "given": "Brent",
+            "family": "Meyer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Research Department, Federal Reserve Bank of Atlanta"
+                }
+            ]
+        },
+        {
+            "given": "Saten",
+            "family": "Kumar",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Economics, Auckland University of Technology"
+                }
+            ]
+        },
+        {
+            "given": "Yuriy",
+            "family": "Gorodnichenko",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of California - Berkeley"
+                },
+                {
+                    "name": "CEPR"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Dimitris",
+            "family": "Georgarakos",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Directorate General Research, European Central Bank"
+                },
+                {
+                    "name": "CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Olivier",
+            "family": "Coibion",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Texas - Austin"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Geoff",
+            "family": "Kenny",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Directorate General Research, European Central Bank"
+                }
+            ]
+        },
+        {
+            "given": "Jorge",
+            "family": "Ponce",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Research Department, Banco Central del Uruguay"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200738-bib-0001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Afrouzi, Hassan, and Choongryul Yang (2021): \u201cDynamic Rational Inattention and the Phillips Curve,\u201d report.",
+            "DOI": "10.2139/ssrn.3770462"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200738-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "623",
+            "DOI": "10.1002/jae.2960",
+            "volume": "38",
+            "author": "An",
+            "year": "2023",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200738-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.1162/REST_a_00499",
+            "volume": "98",
+            "author": "Armantier",
+            "year": "2016",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200738-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1371",
+            "DOI": "10.1093/restud/rdy038",
+            "volume": "86",
+            "author": "Armona",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200738-bib-0005",
+            "unstructured": "Banca d'Italia (2022): \u201cSIGE\u2014the Bank of Italy's Survey of Inflation and Growth Expectations. Banca d'Italia Indagine sulle aspettative di inflazione e crescita,\u201d Various waves: 2012Q3-2023Q1. https://www.bancaditalia.it/statistiche/tematiche/indagini-famiglie-imprese/aspettative-inflazione/index.html."
+        },
+        {
+            "key": "ecta200738-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Beutel, Johannes, and Michael Weber (2022): \u201cBeliefs and Portfolios: Causal Evidence,\u201d Chicago Booth Research Paper No. 22-08.",
+            "DOI": "10.2139/ssrn.4029090"
+        },
+        {
+            "issue": "C",
+            "key": "ecta200738-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jmoneco.2017.06.001",
+            "volume": "90",
+            "author": "Binder",
+            "year": "2017",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200738-bib-0008",
+            "unstructured": "Borraz, Fernando, and Miguel Mello (2020): \u201cCommunication, Information and Inflation Expectations,\u201d Working Paper of the Banco Central de Uruguay No. 005-2020."
+        },
+        {
+            "key": "ecta200738-bib-0009",
+            "unstructured": "Borraz, Fernando, Anna Orlik, and Laura Zacheo (2023): \u201cOn Firms' Inflation Expectations, (in)Attention and Inflation Targeting: Survey Evidence for Uruguay,\u201d Manuscript."
+        },
+        {
+            "key": "ecta200738-bib-0010",
+            "author": "Bracha",
+            "year": "2019",
+            "journal-title": "Review of Economics Studies"
+        },
+        {
+            "key": "ecta200738-bib-0011",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bryan, Michael, Bruce Meyer, and Nicholas Parker (2015): \u201cThe Inflation Expectations of Firms: What Do They Look Like, Are They Accurate, and Do They Matter?\u201d Federal Reserve Bank of Atlanta Working Paper 2014-27a.",
+            "DOI": "10.2139/ssrn.2580491"
+        },
+        {
+            "key": "ecta200738-bib-0012",
+            "series-title": "Economic Policy Symposium (Jackson Hole, WY) Proceedings",
+            "volume-title": "Navigating the Decade Ahead: Implications for Monetary Policy",
+            "author": "Candia",
+            "year": "2020"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200738-bib-0013",
+            "first-page": "1",
+            "volume": "9",
+            "author": "Cavallo",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "ecta200738-bib-0014",
+            "unstructured": "Chicago Booth Kilts center (2024): \u201cNielsen\u2014Nielsen Homescan Panel,\u201d Various waves: 2018Q2\u20132023Q4. https://www.chicagobooth.edu/research/kilts."
+        },
+        {
+            "key": "ecta200738-bib-0015",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chopra, Felix, Christopher Roth, and Johannes Wohlfart (2023): \u201cHome Price Expectations and Spending: Evidence From a Field Experiment,\u201d Manuscript.",
+            "DOI": "10.2139/ssrn.4472776"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200738-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "2644",
+            "DOI": "10.1257/aer.20110306",
+            "volume": "105",
+            "author": "Coibion",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200738-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "645",
+            "DOI": "10.1257/aer.20221167",
+            "volume": "114",
+            "author": "Coibion",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200738-bib-0018",
+            "first-page": "109",
+            "volume": "15",
+            "author": "Coibion",
+            "year": "2023",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200738-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "2131",
+            "DOI": "10.1093/jeea/jvad003",
+            "volume": "21",
+            "author": "Coibion",
+            "year": "2023",
+            "journal-title": "Journal of European Economic Association"
+        },
+        {
+            "issue": "9",
+            "key": "ecta200738-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "2671",
+            "DOI": "10.1257/aer.20151299",
+            "volume": "108",
+            "author": "Coibion",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200738-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1387",
+            "DOI": "10.1093/qje/qjab005",
+            "volume": "136",
+            "author": "Coibion",
+            "year": "2021",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200738-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "165",
+            "DOI": "10.1093/qje/qjz029",
+            "volume": "135",
+            "author": "Coibion",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200738-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1537",
+            "DOI": "10.1086/718982",
+            "volume": "130",
+            "author": "Coibion",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200738-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D'Acunto, Francesco, Daniel Hoang, Maritta Paloviita, and Michael Weber (2020): \u201cEffective Policy Communication: Targets versus Instrument,\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.3764722"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200738-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "1615",
+            "DOI": "10.1086/713192",
+            "volume": "129",
+            "author": "D'Acunto",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "11",
+            "key": "ecta200738-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "3266",
+            "DOI": "10.1257/aer.20171330",
+            "volume": "108",
+            "author": "Quidt",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200738-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ehrmann, Michael, Dimitris Georgarakos, and Geoff Kenny (2022): \u201cCredibility Gains From Communicating With the Public: Evidence From the ECB's New Monetary Policy Strategy,\u201d ECB WP No. 2785.",
+            "DOI": "10.1257/rct.10710"
+        },
+        {
+            "key": "ecta200738-bib-0028",
+            "unstructured": "European Central Bank (2021): \u201cECB Consumer Expectations Survey: An Overview and First Evaluation,\u201d Occasional Paper Series, No 287."
+        },
+        {
+            "key": "ecta200738-bib-0029",
+            "unstructured": "European Central Bank (2024a): \u201cECB Data Portal,\u201d Data accessed 2024Q1. https://data.ecb.europa.eu/."
+        },
+        {
+            "key": "ecta200738-bib-0030",
+            "unstructured": "European Central Bank (2024b): \u201cECB-CES\u2014Consumer Expectations Survey,\u201d Data accessed 2024Q1. https://www.ecb.europa.eu/stats/ecb_surveys/consumer_exp_survey/html/index.en.html."
+        },
+        {
+            "key": "ecta200738-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1016/j.jbef.2017.12.008",
+            "volume": "17",
+            "author": "Fajardo",
+            "year": "2018",
+            "journal-title": "Journal of Behavioral and Experimental Finance"
+        },
+        {
+            "key": "ecta200738-bib-0032",
+            "unstructured": "Federal Reserve Bank of Atlanta (2024): \u201cBIE\u2014Business Inflation Expectations,\u201d https://www.atlantafed.org/research/inflationproject/bie."
+        },
+        {
+            "key": "ecta200738-bib-0033",
+            "unstructured": "Federal Reserve Bank of New York (2024): \u201cSCE\u2014Survey of Consumer Expectations,\u201d Data accessed 2024Q1. https://www.newyorkfed.org/microeconomics/sce.html#/."
+        },
+        {
+            "key": "ecta200738-bib-0034",
+            "unstructured": "Federal Reserve Bank of Philadelphia (2024): \u201cSPF\u2014Survey of Professional Forecasters,\u201d Data accessed 2024Q1. https://www.philadelphiafed.org/surveys-and-data/data-files."
+        },
+        {
+            "key": "ecta200738-bib-0035",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Flynn, Joel, and Karthik Sastry (2023): \u201cAttention Cycles,\u201d manuscript.",
+            "DOI": "10.3386/w32553"
+        },
+        {
+            "key": "ecta200738-bib-0036",
+            "unstructured": "Frache, Serafin, and Rodrigo Lluberas (2019): \u201cNew Information and Inflation Expectations Among Firms,\u201d BIS working paper No. 781."
+        },
+        {
+            "key": "ecta200738-bib-0037",
+            "unstructured": "FRED, Federal Reserve Bank of St. Louis (2024a): \u201cOECD\u2014Organization for Economic co-Operation and Development, Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for New Zealand [NZLCPIALLQINMEI],\u201d Data Accessed 2024Q1. https://fred.stlouisfed.org/series/NZLCPIALLQINMEI."
+        },
+        {
+            "key": "ecta200738-bib-0038",
+            "unstructured": "FRED, Federal Reserve Bank of St. Louis (2024b), \u201cBLS\u2014U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items in U.S. City Average [CPIAUCSL],\u201d Accessed 2024Q1. https://fred.stlouisfed.org/series/CPIAUCSL."
+        },
+        {
+            "key": "ecta200738-bib-0039",
+            "volume-title": "Gallup Poll Social Series: Economy and Personal Finance",
+            "year": "2023"
+        },
+        {
+            "issue": "S",
+            "key": "ecta200738-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "S1",
+            "DOI": "10.1016/j.jmoneco.2022.02.007",
+            "volume": "129",
+            "author": "Georgarakos",
+            "year": "2022",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200738-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "2682",
+            "DOI": "10.1093/jeea/jvad022",
+            "volume": "21",
+            "author": "Goldstein",
+            "year": "2022",
+            "journal-title": "Journal of European Economic Association"
+        },
+        {
+            "key": "ecta200738-bib-0042",
+            "unstructured": "Google Trends (2024): \u201cInflation: (United States)\" \u201cInflation Forecasts,\u201d Data accessed 2024Q1."
+        },
+        {
+            "key": "ecta200738-bib-0043",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Grasso, Adriana, and Tiziano Ropele (2018): \u201cFirms' Inflation Expectations and Investment Plans,\u201d Bank of Italy Working Paper Series 1203.",
+            "DOI": "10.2139/ssrn.3429181"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200738-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1257/jel.20211658",
+            "volume": "61",
+            "author": "Haaland",
+            "year": "2023",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "ecta200738-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1214/aoms/1177703732",
+            "volume": "35",
+            "author": "Huber",
+            "year": "1964",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200738-bib-0046",
+            "unstructured": "Instituto Nacional de Estad\u00edstica de Uruguay (2024a): \u201cEEE\u2014Encuesta de Expectativas Empresariales,\u201d Data accessed 2024Q1. https://www.gub.uy/instituto-nacional-estadistica/encuesta-expectativas-empresariales."
+        },
+        {
+            "key": "ecta200738-bib-0047",
+            "unstructured": "Instituto Nacional de Estad\u00edstica de Uruguay (2024b): \u201cIPC\u2014\u00cdndice de Precios del Consumo,\u201d Data accessed 2024Q1. https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consumo."
+        },
+        {
+            "key": "ecta200738-bib-0048",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kiley, Michael (2021): \u201cPolicy Paradoxes in the New Keynesian Model,\u201d FEDS WP No. 2014-29.",
+            "DOI": "10.2139/ssrn.2426184"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200738-bib-0049",
+            "first-page": "254",
+            "volume": "15",
+            "author": "Kim",
+            "year": "2023",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "ecta200738-bib-0050",
+            "author": "Korenok",
+            "year": "2023",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200738-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "1297",
+            "DOI": "10.3982/ECTA21004",
+            "volume": "91",
+            "author": "Kumar",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200738-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/j.jmoneco.2023.01.005",
+            "volume": "135",
+            "author": "Link",
+            "year": "2023",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200738-bib-0053",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Link, Sebastian, Andreas Peichl, Christopher Roth, and Johannes Wohlfart (2023b): \u201cAttention to the Macroeconomy,\u201d report.",
+            "DOI": "10.2139/ssrn.4669798"
+        },
+        {
+            "key": "ecta200738-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1016/S0167-2231(76)80003-6",
+            "volume": "1",
+            "author": "Lucas",
+            "year": "1976",
+            "journal-title": "Carnegie-Rochester Conference Series on Public Policy"
+        },
+        {
+            "key": "ecta200738-bib-0055",
+            "unstructured": "Mackowiak, Bartosz, and Mirko Wiederholt (2024): \u201cRational Inattention During an RCT,\u201d manuscript."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200738-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "DOI": "10.1257/jel.20211524",
+            "volume": "61",
+            "author": "Mackowiak",
+            "year": "2023",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200738-bib-0057",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1093/qje/qjq004",
+            "volume": "126",
+            "author": "Malmendier",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200738-bib-0058",
+            "unstructured": "Meyer, Bruce, and Xuguang Sheng (2022): \u201cUnit Cost Expectations and Uncertainty: Firms' Perspectives on Inflation,\u201d Manuscript."
+        },
+        {
+            "key": "ecta200738-bib-0059",
+            "author": "Pf\u00e4uti",
+            "year": "2023",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "ecta200738-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "731",
+            "DOI": "10.1162/rest_a_00867",
+            "volume": "102",
+            "author": "Roth",
+            "year": "2020",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200738-bib-0061",
+            "unstructured": "Schwartzman, Felipe, and Sonya Waddell (2024): \u201cInflation Expectations and Price-Setting Among Fifth-District Firms,\u201d Federal Reserve Bank of Richmond Economic Brief No. 24-03."
+        },
+        {
+            "key": "ecta200738-bib-0062",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Song, Wenting, and Samuel Stern (2023): \u201cFirm Inattention and the Efficacy of Monetary Policy: A Text-Based Approach,\u201d manuscript.",
+            "DOI": "10.1093/restud/rdae102"
+        },
+        {
+            "key": "ecta200738-bib-0063",
+            "unstructured": "Survey Research Center University of Michigan (2024): \u201cMSC\u2014University of Michigan Survey of Consumers,\u201d Data accessed 2024Q1 https://data.sca.isr.umich.edu/."
+        },
+        {
+            "key": "ecta200738-bib-0064",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Weber, Michael, Bernardo Candia, Hassan Afrouzi, Tiziano Ropele, Rodrigo Lluberas, Serafin Frache, Brent Meyer, Saten Kumar, Yuriy Gorodnichenko, Dimitris Georgarakos, Olivier Coibion, Geoff Kenny, and Jorge Ponce (2024): \u201cSupplement to \u2018Tell Me Something I Don't Already Know: Learning in Low- and High-Inflation Settings\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA22764.",
+            "DOI": "10.2139/ssrn.4756099"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2025-01-30T13:28:47Z",
+        "timestamp": 1738243727000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22764"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22764"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22764",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}
