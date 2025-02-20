@@ -1,0 +1,598 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                7,
+                12
+            ]
+        ],
+        "date-time": "2024-07-12T15:55:41Z",
+        "timestamp": 1720799741443
+    },
+    "reference-count": 42,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2024-01-01T00:00:00Z",
+                "timestamp": 1704067200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Measuring the effect of peers on individuals' outcomes is a challenging problem, in part because individuals often select peers who are similar in both observable and unobservable ways. Group formation experiments avoid this problem by randomly assigning individuals to groups and observing their responses; for example, do first\u2010year students have better grades when they are randomly assigned roommates who have stronger academic backgrounds? In this paper, we propose randomization\u2010based permutation tests for group formation experiments, extending classical Fisher Randomization Tests to this setting. The proposed tests are justified by the randomization itself, require relatively few assumptions, and are exact in finite samples. This approach can also complement existing strategies, such as linear\u2010in\u2010means models, by using a regression coefficient as the test statistic. We apply the proposed tests to two recent group formation experiments.</jats:p>",
+    "DOI": "10.3982/ecta20134",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2024-03-15T12:46:27Z",
+        "timestamp": 1710506787000
+    },
+    "page": "567-590",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Randomization Tests for Peer Effects in Group Formation Experiments"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Guillaume",
+            "family": "Basse",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Citadel Securities"
+                }
+            ]
+        },
+        {
+            "given": "Peng",
+            "family": "Ding",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, University of California, Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Avi",
+            "family": "Feller",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, University of California, Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Panos",
+            "family": "Toulis",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Booth School of Business, University of Chicago"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200635-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200635-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/qje/qjac038",
+            "volume": "138",
+            "author": "Abadie",
+            "year": "2023",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200635-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "98",
+            "DOI": "10.1016/j.labeco.2014.05.008",
+            "volume": "30",
+            "author": "Angrist",
+            "year": "2014",
+            "journal-title": "Labour Economics"
+        },
+        {
+            "key": "ecta200635-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1177/0049124112437535",
+            "volume": "41",
+            "author": "Aronow",
+            "year": "2012",
+            "journal-title": "Sociological Methods & Research"
+        },
+        {
+            "key": "ecta200635-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1912",
+            "DOI": "10.1214/16-AOAS1005",
+            "volume": "11",
+            "author": "Aronow",
+            "year": "2017",
+            "journal-title": "The Annals of Applied Statistics"
+        },
+        {
+            "key": "ecta200635-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "230",
+            "DOI": "10.1080/01621459.2016.1241178",
+            "volume": "113",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200635-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "487",
+            "DOI": "10.1093/biomet/asy072",
+            "volume": "106",
+            "author": "Basse",
+            "year": "2019",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200635-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Basse, Guillaume, Peng Ding, Avi Feller, and Panos Toulis (2024): \u201cSupplement to \u2018Randomization Tests for Peer Effects in Group Formation Experiments\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA20134.",
+            "DOI": "10.3982/ECTA20134"
+        },
+        {
+            "key": "ecta200635-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "486",
+            "DOI": "10.1198/jasa.2009.0015",
+            "volume": "104",
+            "author": "Bhattacharya",
+            "year": "2009",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200635-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "603",
+            "DOI": "10.1146/annurev-economics-020320-033926",
+            "volume": "12",
+            "author": "Bramoull\u00e9",
+            "year": "2020",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "ecta200635-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "3297",
+            "DOI": "10.1016/S1573-4412(01)05007-3",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "5",
+            "author": "Brock",
+            "year": "2001"
+        },
+        {
+            "key": "ecta200635-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "1229",
+            "DOI": "10.1093/qje/qjx049",
+            "volume": "133",
+            "author": "Cai",
+            "year": "2017",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200635-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.3982/ECTA13081",
+            "volume": "85",
+            "author": "Canay",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200635-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "855",
+            "DOI": "10.3982/ECTA10168",
+            "volume": "81",
+            "author": "Carrell",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200635-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "425",
+            "DOI": "10.1257/aer.20141300",
+            "volume": "107",
+            "author": "Cornelissen",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200635-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1093/biomet/asx059",
+            "volume": "105",
+            "author": "Ding",
+            "year": "2018",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200635-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1007/s10802-005-3576-2",
+            "volume": "33",
+            "author": "Duncan",
+            "year": "2005",
+            "journal-title": "Journal of Abnormal Child Psychology"
+        },
+        {
+            "key": "ecta200635-bib-0018",
+            "first-page": "656",
+            "volume": "32",
+            "author": "Fafchamps",
+            "year": "2018",
+            "journal-title": "The World Bank Economic Review"
+        },
+        {
+            "key": "ecta200635-bib-0019",
+            "volume-title": "The Design of Experiments",
+            "author": "Fisher",
+            "year": "1935",
+            "edition": "first"
+        },
+        {
+            "key": "ecta200635-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1257/aer.20201860",
+            "volume": "113",
+            "author": "Frandsen",
+            "year": "2023",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200635-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1080/07350015.2013.801251",
+            "volume": "31",
+            "author": "Goldsmith-Pinkham",
+            "year": "2013",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200635-bib-0022",
+            "first-page": "34",
+            "volume": "1",
+            "author": "Guryan",
+            "year": "2009",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "ecta200635-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1515/jci-2015-0018",
+            "volume": "4",
+            "author": "Hennessy",
+            "year": "2016",
+            "journal-title": "Journal of Causal Inference"
+        },
+        {
+            "key": "ecta200635-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "545",
+            "DOI": "10.1126/science.aac9555",
+            "volume": "350",
+            "author": "Herbst",
+            "year": "2015",
+            "journal-title": "Science"
+        },
+        {
+            "key": "ecta200635-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "832",
+            "DOI": "10.1198/016214508000000292",
+            "volume": "103",
+            "author": "Hudgens",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200635-bib-0026",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781139025751",
+            "volume-title": "Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction",
+            "author": "Imbens",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200635-bib-0027",
+            "volume-title": "Testing Statistical Hypotheses",
+            "author": "Lehmann",
+            "year": "2005"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200635-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.3982/ECTA17841",
+            "volume": "90",
+            "author": "Leung",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200635-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1651",
+            "DOI": "10.1080/01621459.2018.1512863",
+            "volume": "114",
+            "author": "Li",
+            "year": "2019",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200635-bib-0030",
+            "first-page": "69",
+            "volume": "1",
+            "author": "Lyle",
+            "year": "2009",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "ecta200635-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.2307/2298123",
+            "volume": "60",
+            "author": "Manski",
+            "year": "1993",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200635-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "S1",
+            "DOI": "10.1111/j.1368-423X.2012.00368.x",
+            "volume": "16",
+            "author": "Manski",
+            "year": "2013",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "ecta200635-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "174",
+            "DOI": "10.1111/rssb.12478",
+            "volume": "84",
+            "author": "Puelz",
+            "year": "2022",
+            "journal-title": "Journal of the Royal Statistical Society Series B"
+        },
+        {
+            "key": "ecta200635-bib-0034",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4757-3692-2",
+            "volume-title": "Observational Studies",
+            "author": "Rosenbaum",
+            "year": "2002",
+            "edition": "second"
+        },
+        {
+            "key": "ecta200635-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1198/016214506000001112",
+            "volume": "102",
+            "author": "Rosenbaum",
+            "year": "2007",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200635-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "681",
+            "DOI": "10.1162/00335530151144131",
+            "volume": "116",
+            "author": "Sacerdote",
+            "year": "2001",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200635-bib-0037",
+            "first-page": "249",
+            "volume-title": "Handbook of the Economics of Education",
+            "volume": "3",
+            "author": "Sacerdote",
+            "year": "2011"
+        },
+        {
+            "key": "ecta200635-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1146/annurev-economics-071813-104217",
+            "volume": "6",
+            "author": "Sacerdote",
+            "year": "2014",
+            "journal-title": "Annual Reviews of Economics"
+        },
+        {
+            "key": "ecta200635-bib-0039",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S\u00e4vje, Fredrik (2023): \u201cCausal Inference With Misspecified Exposure Mappings,\u201d Biometrika.",
+            "DOI": "10.1093/biomet/asad071"
+        },
+        {
+            "key": "ecta200635-bib-0040",
+            "first-page": "1489",
+            "volume-title": "International Conference on Machine Learning",
+            "author": "Toulis",
+            "year": "2013"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200635-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "557",
+            "DOI": "10.1093/qje/qjy029",
+            "volume": "134",
+            "author": "Young",
+            "year": "2019",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200635-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "278",
+            "DOI": "10.1016/j.jeconom.2021.04.007",
+            "volume": "225",
+            "author": "Zhao",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2024-03-15T12:50:47Z",
+        "timestamp": 1710507047000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA20134"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA20134"
+    ],
+    "URL": "https://doi.org/10.3982/ecta20134",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}

@@ -1,0 +1,648 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                16
+            ]
+        ],
+        "date-time": "2024-03-16T00:18:29Z",
+        "timestamp": 1710548309421
+    },
+    "reference-count": 50,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>An agent selectively samples attributes of a complex project so as to influence the decision of a principal. The players disagree about the weighting, or relevance, of attributes. The correlation across attributes is modeled through a Gaussian process, the covariance function of which captures pairwise attribute similarity. The key trade\u2010off in sampling is between the alignment of the players' posterior values for the project and the variability of the principal's decision. Under a natural property of the attribute correlation\u2014the \n            <jats:italic>nearest\u2010attribute property</jats:italic> (NAP)\u2014each optimal attribute is relevant for some player and at most two optimal attributes are relevant for only one player. We derive comparative statics in the strength of attribute correlation and examine the robustness of our findings to violations of NAP for a tractable class of distance\u2010based covariances. The findings carry testable implications for attribute\u2010based product evaluation and strategic selection of pilot sites.\n          </jats:p>",
+    "DOI": "10.3982/ecta18355",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2024-03-15T12:46:27Z",
+        "timestamp": 1710506787000
+    },
+    "page": "311-353",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Attributes: Selective Learning and Influence"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Arjada",
+            "family": "Bardhi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, New York University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "621",
+            "DOI": "10.2307/2297825",
+            "volume": "58",
+            "author": "Aghion",
+            "year": "1991",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200663-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1117",
+            "DOI": "10.1093/qje/qjv015",
+            "volume": "130",
+            "author": "Allcott",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1206",
+            "DOI": "10.1257/aer.20171634",
+            "volume": "110",
+            "author": "Banerjee",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200663-bib-0004",
+            "unstructured": "Bardhi, Arjada (2018): \u201cOptimal Discovery and Influence Through Selective Sampling.\u201d"
+        },
+        {
+            "key": "ecta200663-bib-0005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bardhi, Arjada (2024): \u201cSupplement to \u2018Attributes: Selective Learning and Influence\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA18355.",
+            "DOI": "10.3982/ECTA18355"
+        },
+        {
+            "issue": "99",
+            "key": "ecta200663-bib-0006",
+            "first-page": "2402",
+            "volume": "131",
+            "author": "Bardhi",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200663-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "514",
+            "DOI": "10.2307/3213114",
+            "volume": "15",
+            "author": "Barrett",
+            "year": "1978",
+            "journal-title": "Journal of Applied Probability"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200663-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "127",
+            "DOI": "10.1037/h0025470",
+            "volume": "75",
+            "author": "Beals",
+            "year": "1968",
+            "journal-title": "Psychological Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200663-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.mathsocsci.2007.08.002",
+            "volume": "55",
+            "author": "Billot",
+            "year": "2008",
+            "journal-title": "Mathematical Social Sciences"
+        },
+        {
+            "issue": "11",
+            "key": "ecta200663-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "2037",
+            "DOI": "10.1287/mnsc.1120.1535",
+            "volume": "58",
+            "author": "Branco",
+            "year": "2012",
+            "journal-title": "Management Science"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.1111/j.0741-6261.2007.00119.x",
+            "volume": "38",
+            "author": "Brocas",
+            "year": "2007",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "ecta200663-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "2277",
+            "DOI": "10.1257/aer.101.6.2277",
+            "volume": "101",
+            "author": "Callander",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200663-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "184",
+            "DOI": "10.1017/S0003055416000587",
+            "volume": "111",
+            "author": "Callander",
+            "year": "2017",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1509",
+            "DOI": "10.3982/ECTA10616",
+            "volume": "82",
+            "author": "Callander",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "420",
+            "DOI": "10.1016/0047-259X(73)90031-6",
+            "volume": "3",
+            "author": "Cambanis",
+            "year": "1973",
+            "journal-title": "Journal of Multivariate Analysis"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200663-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1086/648432",
+            "volume": "117",
+            "author": "Che",
+            "year": "2009",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200663-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1287/opre.33.2.427",
+            "volume": "33",
+            "author": "Clemen",
+            "year": "1985",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "ecta200663-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "266",
+            "DOI": "10.1111/ecoj.12515",
+            "volume": "127",
+            "author": "Di Tillio",
+            "year": "2017",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200663-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "911",
+            "DOI": "10.3982/ECTA17288",
+            "volume": "89",
+            "author": "Di Tillio",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200663-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "380",
+            "DOI": "10.1016/j.geb.2017.10.026",
+            "volume": "107",
+            "author": "Eliaz",
+            "year": "2018",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1579",
+            "DOI": "10.1093/restud/rdw008",
+            "volume": "83",
+            "author": "Garfagnini",
+            "year": "2016",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200663-bib-0022",
+            "unstructured": "Geng, Sen, Leonardo Pejsachowicz, and Michael Richter (2018): \u201cBreadth versus Depth.\u201d"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200663-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "433",
+            "DOI": "10.1162/rest.88.3.433",
+            "volume": "88",
+            "author": "Gilboa",
+            "year": "2006",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200663-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "1715",
+            "DOI": "10.1111/j.1468-0262.2004.00551.x",
+            "volume": "72",
+            "author": "Glazer",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200663-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "911",
+            "DOI": "10.1257/aer.20171919",
+            "volume": "109",
+            "author": "Henry",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200663-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1017/S0003055415000568",
+            "volume": "110",
+            "author": "Hirsch",
+            "year": "2016",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200663-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "324",
+            "DOI": "10.1177/002224378201900305",
+            "volume": "19",
+            "author": "Huber",
+            "year": "1982",
+            "journal-title": "Journal of Marketing Research"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200663-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1093/qje/qjac027",
+            "volume": "138",
+            "author": "Ilut",
+            "year": "2023",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200663-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1391",
+            "DOI": "10.2307/2938321",
+            "volume": "58",
+            "author": "Jovanovic",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200663-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200663-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "3576",
+            "DOI": "10.1287/mnsc.2015.2316",
+            "volume": "62",
+            "author": "Ke",
+            "year": "2016",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "ecta200663-bib-0032",
+            "volume-title": "Decisions With Multiple Objectives: Preferences and Value Tradeoffs",
+            "author": "Keeney",
+            "year": "1976"
+        },
+        {
+            "key": "ecta200663-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "190",
+            "DOI": "10.1016/j.geb.2014.09.003",
+            "volume": "88",
+            "author": "Klabjan",
+            "year": "2014",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200663-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "132",
+            "DOI": "10.1086/259131",
+            "volume": "74",
+            "author": "Lancaster",
+            "year": "1966",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200663-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.3982/ECTA18324",
+            "volume": "90",
+            "author": "Liang",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200663-bib-0036",
+            "author": "Mason",
+            "year": "1998",
+            "journal-title": "Journal of Consumer Marketing"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200663-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "308",
+            "DOI": "10.1177/03079459994650",
+            "volume": "29",
+            "author": "Mason",
+            "year": "2001",
+            "journal-title": "Journal of the Academy of Marketing Science"
+        },
+        {
+            "key": "ecta200663-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1016/0165-4896(94)00764-Y",
+            "volume": "29",
+            "author": "Neeman",
+            "year": "1995",
+            "journal-title": "Mathematical Social Sciences"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200663-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1111/1468-0262.00194",
+            "volume": "69",
+            "author": "Nevo",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200663-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1016/j.jet.2015.11.004",
+            "volume": "161",
+            "author": "Olszewski",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200663-bib-0041",
+            "volume-title": "Gaussian Processes for Machine Learning",
+            "author": "Rasmussen",
+            "year": "2006"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200663-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "949",
+            "DOI": "10.1086/657922",
+            "volume": "118",
+            "author": "Rayo",
+            "year": "2010",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200663-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "535",
+            "DOI": "10.1016/j.geb.2017.05.009",
+            "volume": "104",
+            "author": "Sanjurjo",
+            "year": "2017",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200663-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/j.joep.2014.11.006",
+            "volume": "46",
+            "author": "Scheibehenne",
+            "year": "2015",
+            "journal-title": "Journal of Economic Psychology"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200663-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "20",
+            "DOI": "10.2307/2555851",
+            "volume": "25",
+            "author": "Shavell",
+            "year": "1994",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "issue": "4820",
+            "key": "ecta200663-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "1317",
+            "DOI": "10.1126/science.3629243",
+            "volume": "237",
+            "author": "Shepard",
+            "year": "1987",
+            "journal-title": "Science"
+        },
+        {
+            "key": "ecta200663-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "409",
+            "DOI": "10.1016/j.geb.2010.05.008",
+            "volume": "71",
+            "author": "Sher",
+            "year": "2011",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta200663-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1146/annurev-economics-070615-115216",
+            "volume": "8",
+            "author": "Spiegler",
+            "year": "2016",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200663-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1007/BF02291490",
+            "volume": "38",
+            "author": "Srinivasan",
+            "year": "1973",
+            "journal-title": "Psychometrika"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200663-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "56",
+            "DOI": "10.1093/jcr/ucz053",
+            "volume": "47",
+            "author": "Walters",
+            "year": "2020",
+            "journal-title": "Journal of Consumer Research"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                15
+            ]
+        ],
+        "date-time": "2024-03-15T12:47:05Z",
+        "timestamp": 1710506825000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18355"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18355"
+    ],
+    "URL": "https://doi.org/10.3982/ecta18355",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}

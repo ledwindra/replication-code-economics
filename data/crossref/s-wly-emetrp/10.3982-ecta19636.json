@@ -1,0 +1,562 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                4
+            ]
+        ],
+        "date-time": "2024-06-04T00:24:06Z",
+        "timestamp": 1717460646710
+    },
+    "reference-count": 41,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2024-01-01T00:00:00Z",
+                "timestamp": 1704067200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001665",
+            "name": "Agence Nationale de la Recherche",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100001665",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>In a setting of many\u2010to\u2010one two\u2010sided matching with nontransferable utilities, for example, college admissions, we study conditions under which preferences of both sides are identified with data on one single market. Regardless of whether the market is centralized or decentralized, assuming that the observed matching is stable, we show nonparametric identification of preferences of both sides under certain exclusion restrictions. To take our results to the data, we use Monte Carlo simulations to evaluate different estimators, including the ones that are directly constructed from the identification. We find that a parametric Bayesian approach with a Gibbs sampler works well in realistically sized problems. Finally, we illustrate our methodology in decentralized admissions to public and private schools in Chile and conduct a counterfactual analysis of an affirmative action policy.</jats:p>",
+    "DOI": "10.3982/ecta19636",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                3
+            ]
+        ],
+        "date-time": "2024-06-03T05:21:40Z",
+        "timestamp": 1717392100000
+    },
+    "page": "749-774",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Identification and Estimation in Many\u2010to\u2010One Two\u2010Sided Matching Without Transfers"
+    ],
+    "prefix": "10.3982",
+    "volume": "92",
+    "author": [
+        {
+            "given": "YingHua",
+            "family": "He",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Rice University"
+                }
+            ]
+        },
+        {
+            "given": "Shruti",
+            "family": "Sinha",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Toulouse School of Economics, University of Toulouse Capitole"
+                }
+            ]
+        },
+        {
+            "given": "Xiaoting",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Simon Fraser University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "3",
+            "key": "ecta200680-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1257/000282803322157061",
+            "volume": "93",
+            "author": "Abdulkadiroglu",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200680-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "3635",
+            "DOI": "10.1257/aer.20151425",
+            "volume": "107",
+            "author": "Abdulkadiroglu",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200680-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1939",
+            "DOI": "10.1257/aer.20131006",
+            "volume": "105",
+            "author": "Agarwal",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200680-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.3982/ECTA13615",
+            "volume": "86",
+            "author": "Agarwal",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200680-bib-0005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Agarwal, Nikhil, and Paulo Somaini (2022): \u201cDemand Analysis Under Latent Choice Constraints,\u201d NBER Working Paper No. w29993.",
+            "DOI": "10.3386/w29993"
+        },
+        {
+            "key": "ecta200680-bib-0006",
+            "first-page": "530",
+            "author": "Agarwal",
+            "year": "2023",
+            "journal-title": "Online and Matching-Based Market Design"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200680-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "270",
+            "DOI": "10.1086/722978",
+            "volume": "1",
+            "author": "Artemov",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy Microeconomics"
+        },
+        {
+            "key": "ecta200680-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Aue, Robert, Thilo Klein, and Josu\u00e9 Ortega (2020): \u201cWhat Happens When Separate and Unequal School Districts Merge?\u201d ZEW Discussion Paper, (20-032).",
+            "DOI": "10.2139/ssrn.3636103"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200680-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1235",
+            "DOI": "10.1086/687476",
+            "volume": "124",
+            "author": "Azevedo",
+            "year": "2016",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200680-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "2087",
+            "DOI": "10.3982/ECTA10135",
+            "volume": "81",
+            "author": "Berry",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200680-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "642",
+            "DOI": "10.1086/704573",
+            "volume": "128",
+            "author": "Calsamiglia",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200680-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "1787",
+            "DOI": "10.3982/QE1139",
+            "volume": "10",
+            "author": "Chen",
+            "year": "2019",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200680-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "832",
+            "DOI": "10.1257/jel.20140917",
+            "volume": "54",
+            "author": "Chiappori",
+            "year": "2016",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200680-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1086/498585",
+            "volume": "114",
+            "author": "Choo",
+            "year": "2006",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200680-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1016/j.jeconom.2020.07.024",
+            "volume": "222",
+            "author": "Crawford",
+            "year": "2021",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200680-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1111/1468-2354.00054",
+            "volume": "41",
+            "author": "Dagsvik",
+            "year": "2000",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200680-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "685",
+            "DOI": "10.3982/QE736",
+            "volume": "8",
+            "author": "Diamond",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200680-bib-0018",
+            "unstructured": "Ederer, Tim (2022): \u201cTwo-Sided Matching Without Transfers: A Unifying Empirical Framework,\u201d Working Paper, Toulouse School of Economics."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200680-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1486",
+            "DOI": "10.1257/aer.20151422",
+            "volume": "109",
+            "author": "Fack",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200680-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.3982/QE3",
+            "volume": "1",
+            "author": "Fox",
+            "year": "2010",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200680-bib-0021",
+            "author": "Fox",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200680-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1080/00029890.1962.11989827",
+            "volume": "69",
+            "author": "Gale",
+            "year": "1962",
+            "journal-title": "The American Mathematical Monthly"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200680-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "2600",
+            "DOI": "10.1093/restud/rdab090",
+            "volume": "89",
+            "author": "Galichon",
+            "year": "2022",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200680-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "2875",
+            "DOI": "10.1086/702020",
+            "volume": "127",
+            "author": "Galichon",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200680-bib-0025",
+            "unstructured": "Gazmuri, Ana (2017): \u201cSchool Segregation in the Presence of Student Sorting and Cream-Skimming,\u201d Working paper, Toulouse School of Economics."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200680-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1427",
+            "DOI": "10.1086/718983",
+            "volume": "130",
+            "author": "Grenet",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200680-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1109",
+            "DOI": "10.1086/722415",
+            "volume": "131",
+            "author": "Gualdani",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200680-bib-0028",
+            "unstructured": "He, Yinghua (2017): \u201cGaming the Boston School Choice Mechanism in Beijing,\u201d Working Paper, Rice University and Toulouse School of Economics."
+        },
+        {
+            "issue": "648",
+            "key": "ecta200680-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "2918",
+            "DOI": "10.1093/ej/ueac038",
+            "volume": "132",
+            "author": "He",
+            "year": "2022",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "key": "ecta200680-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "He, YingHua, Shruti Sinha, and Xiaoting Sun (2024): \u201cSupplement to \u2018Identification and Estimation in Many-to-One Two-Sided Matching Without Transfers\u2019,\u201d Econometrica Supplemental Material, 92, https://doi.org/10.3982/ECTA19636.",
+            "DOI": "10.3982/ECTA19636"
+        },
+        {
+            "issue": "482",
+            "key": "ecta200680-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "559",
+            "DOI": "10.1198/016214507000000996",
+            "volume": "103",
+            "author": "Logan",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200680-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/j.jeconom.2018.12.007",
+            "volume": "211",
+            "author": "Matzkin",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200680-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "897",
+            "DOI": "10.3982/ECTA12299",
+            "volume": "83",
+            "author": "Menzel",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200680-bib-0034",
+            "unstructured": "Menzel, Konrad (2022): \u201cStrategic Network Formation With Many Agents,\u201d Working Paper, NYU."
+        },
+        {
+            "key": "ecta200680-bib-0035",
+            "unstructured": "Ministry of Education of Chile (n.d.): \u201cBase de Datos de la Agencia de Calidad de la Educaci\u00f3n,\u201d Santiago, Chile."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200680-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "DOI": "10.1007/s10683-019-09606-1",
+            "volume": "23",
+            "author": "Pais",
+            "year": "2020",
+            "journal-title": "Experimental Economics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200680-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.2307/1913713",
+            "volume": "57",
+            "author": "Powell",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200680-bib-0038",
+            "volume-title": "Bayesian Statistics and Marketing",
+            "author": "Rossi",
+            "year": "2012"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200680-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "991",
+            "DOI": "10.1086/261272",
+            "volume": "92",
+            "author": "Roth",
+            "year": "1984",
+            "journal-title": "Journal of political Economy"
+        },
+        {
+            "key": "ecta200680-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "485",
+            "DOI": "10.1016/S1574-0005(05)80019-0",
+            "volume": "1",
+            "author": "Roth",
+            "year": "1992",
+            "journal-title": "Handbook of game theory with economic applications"
+        },
+        {
+            "key": "ecta200680-bib-0041",
+            "unstructured": "Sinha, Shruti (2015): \u201cIdentification and Estimation in One-to-One Matching Models With Nonparametric Unobservables,\u201d Working Paper, Toulouse School of Economics."
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2024,
+                6,
+                3
+            ]
+        ],
+        "date-time": "2024-06-03T05:23:53Z",
+        "timestamp": 1717392233000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19636"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    },
+    "references-count": 41,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19636"
+    ],
+    "URL": "https://doi.org/10.3982/ecta19636",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2024
+            ]
+        ]
+    }
+}
