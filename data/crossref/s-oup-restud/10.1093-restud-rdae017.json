@@ -1,0 +1,668 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                21
+            ]
+        ],
+        "date-time": "2025-02-21T13:37:41Z",
+        "timestamp": 1740145061723,
+        "version": "3.37.3"
+    },
+    "reference-count": 45,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        24
+                    ]
+                ],
+                "date-time": "2024-05-24T00:00:00Z",
+                "timestamp": 1716508800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100008982",
+            "name": "NSF",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "grant 1851707"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100008982",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a theory of information spillovers in sovereign bond markets in which investors can learn about default risk before trading in primary and secondary markets. If primary markets are structured as multi-unit discriminatory-price auctions, an endogenous winner\u2019s curse leads to strategic complementarities in information acquisition. Shocks to default risk in one country may trigger crisis episodes with widespread information acquisition, sharp increases in the level and volatility of yields in risky countries, low and stable yields in safe countries, market segmentation, and arbitrage profits between primary and secondary markets. These predictions are consistent with the dynamics of auction informativeness during the Eurozone Sovereign Debt Crisis, which we measure using the reaction of secondary market yields to primary market yields.</jats:p>",
+    "DOI": "10.1093/restud/rdae017",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                24
+            ]
+        ],
+        "date-time": "2024-05-24T23:10:00Z",
+        "timestamp": 1716592200000
+    },
+    "page": "197-237",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Information Spillovers and Sovereign Debt: Theory Meets the Eurozone Crisis"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Harold L",
+            "family": "Cole",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania , Philadelphia, PA ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Daniel",
+            "family": "Neuhann",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Texas at Austin , Austin, TX ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Guillermo",
+            "family": "Ordo\u00f1ez",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania , Philadelphia, PA ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                24
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025011315202107200_rdae017-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1727",
+            "DOI": "10.1093/qje/qjv022",
+            "article-title": "Coordination and Crisis in Monetary Unions",
+            "volume": "130",
+            "author": "Aguiar",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1093/rof/rfac025",
+            "article-title": "A Wake-Up Call Theory of Contagion",
+            "volume": "26",
+            "author": "Ahnert",
+            "year": "2022",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "year": "2017",
+            "author": "Arellano",
+            "key": "2025011315202107200_rdae017-B3"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "116",
+            "DOI": "10.1016/j.jmoneco.2019.01.006",
+            "article-title": "Sovereign Spreads in the Euro Area: Cross Border Transmission and Macroeconomic Implications",
+            "volume": "110",
+            "author": "Bahaj",
+            "year": "2020",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B5",
+            "first-page": "1287",
+            "article-title": "Designing Effective Auctions for Treasury Securities",
+            "volume": "98",
+            "author": "Bartolini",
+            "year": "2001",
+            "journal-title": "Handbook of Fiscal Policy"
+        },
+        {
+            "year": "2015",
+            "author": "Bocola",
+            "key": "2025011315202107200_rdae017-B6"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1016/j.jmoneco.2008.12.012",
+            "article-title": "Sovereign Debt Auctions: Uniform or Discriminatory?",
+            "volume": "56",
+            "author": "Brenner",
+            "year": "2009",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "year": "2011",
+            "author": "Britain",
+            "key": "2025011315202107200_rdae017-B8"
+        },
+        {
+            "year": "2004",
+            "author": "Broner",
+            "key": "2025011315202107200_rdae017-B9"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1523",
+            "DOI": "10.1257/aer.100.4.1523",
+            "article-title": "Sovereign Risk and Secondary Markets",
+            "volume": "100",
+            "author": "Broner",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1093/rfs/2.3.311",
+            "article-title": "Auctions with Resale Markets: An Exploratory Model of Treasury Bill Markets",
+            "volume": "2",
+            "author": "Bukchandani",
+            "year": "1989",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B12",
+            "first-page": "647",
+            "article-title": "Servicing the Public Debt: The Role of Expectations",
+            "volume": "78",
+            "author": "Calvo",
+            "year": "1988",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "79",
+            "DOI": "10.1016/S0022-1996(99)00038-0",
+            "article-title": "Rational Contagion and the Globalization of Securities Markets",
+            "volume": "51",
+            "author": "Calvo",
+            "year": "1999",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "year": "2021",
+            "author": "Chaumont",
+            "key": "2025011315202107200_rdae017-B14"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1111/1467-937X.00123",
+            "article-title": "Self-Fulfilling Debt Crises",
+            "volume": "67",
+            "author": "Cole",
+            "year": "2000",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2055",
+            "DOI": "10.1086/720139",
+            "article-title": "Asymmetric Information and Sovereign Debt: Theory Meets Mexican Data",
+            "volume": "130",
+            "author": "Cole",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "year": "2022",
+            "author": "Cole",
+            "key": "2025011315202107200_rdae017-B17"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1016/j.jbankfin.2014.06.001",
+            "article-title": "The Pricing of G7 Sovereign Bond Spreads - The Times, They are A-Changin",
+            "volume": "47",
+            "author": "D\u2019Agostino",
+            "year": "2014",
+            "journal-title": "Journal of Banking and Finance"
+        },
+        {
+            "year": "2022",
+            "author": "D\u00e1vila",
+            "key": "2025011315202107200_rdae017-B19"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "26",
+            "DOI": "10.1016/j.jimonfin.2016.08.005",
+            "article-title": "Euro Area Government Bonds - Fragmentation and Contagion During the Sovereign Debt Crisis",
+            "volume": "70",
+            "author": "Ehrmann",
+            "year": "2017",
+            "journal-title": "Journal of International Money and Finance"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "227",
+            "DOI": "10.1007/s001990050220",
+            "article-title": "Multi-Unit Auctions with Uniform Prices",
+            "volume": "12",
+            "author": "Engelbrecht-Wiggans",
+            "year": "1998",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.1111/j.1468-0262.2004.00478.x",
+            "article-title": "Precautionary Bidding in Auctions",
+            "volume": "72",
+            "author": "Es\u00f6",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "550",
+            "DOI": "10.1016/j.jet.2005.07.014",
+            "article-title": "Existence of Equilibrium in Large Double Auctions",
+            "volume": "133",
+            "author": "Fudenberg",
+            "year": "2007",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "131",
+            "DOI": "10.1111/j.1468-2362.2013.12033.x",
+            "article-title": "Pure or Wake-Up-Call Contagion? Another Look at the EMU Sovereign Debt Crisis",
+            "volume": "16",
+            "author": "Giordano",
+            "year": "2013",
+            "journal-title": "International Finance"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1016/j.jet.2004.03.004",
+            "article-title": "Contagion of Self-Fulfilling Financial Crises due to Diversification of Investment Portfolios",
+            "volume": "119",
+            "author": "Goldstein",
+            "year": "2004",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "volume-title": "The Asian Financial Crisis: Causes, Cures, and Systematic Implications",
+            "year": "1998",
+            "author": "Goldstein",
+            "key": "2025011315202107200_rdae017-B26"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B27",
+            "first-page": "393",
+            "article-title": "On the Impossibility of Informationally Efficient Markets",
+            "volume": "70",
+            "author": "Grossman",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "833",
+            "DOI": "10.1086/657948",
+            "article-title": "Mechanism Choice and Strategic Bidding in Divisible Good Auctions: An Empirical Analysis of the Turkish Treasury Auction Market",
+            "volume": "118",
+            "author": "Horta\u00e7su",
+            "year": "2010",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "DOI": "10.1111/1468-0262.00197",
+            "article-title": "Behavior in Multi-Unit Demand Auctions: Experiments with Uniform Price and Dynamic Vickrey Auctions",
+            "volume": "69",
+            "author": "Kagel",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "974",
+            "DOI": "10.1093/restud/rdq024",
+            "article-title": "Discrete Bids and Empirical Inference in Divisible Good Auctions",
+            "volume": "78",
+            "author": "Kastl",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.1111/1540-6261.00441",
+            "article-title": "A Rational Expectations Model of Financial Contagion",
+            "volume": "57",
+            "author": "Kodres",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1401",
+            "DOI": "10.1111/0022-1082.00373",
+            "article-title": "Contagion as a Wealth Effect",
+            "volume": "56",
+            "author": "Kyle",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1257/jep.26.3.49",
+            "article-title": "The European Sovereign Debt Crisis",
+            "volume": "26",
+            "author": "Lane",
+            "year": "2012",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.1016/j.jinteco.2012.08.006",
+            "article-title": "Default Risk and Risk Averse International Investors",
+            "volume": "89",
+            "author": "Lizarazo",
+            "year": "2013",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "year": "2013",
+            "author": "Lorenzoni",
+            "key": "2025011315202107200_rdae017-B35"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1039",
+            "DOI": "10.1111/j.1467-937X.2006.00407.x",
+            "article-title": "Monotone Equilibrium in Multi-Unit Auctions",
+            "volume": "73",
+            "author": "McAdams",
+            "year": "2006",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "year": "2014",
+            "author": "Moghadam",
+            "key": "2025011315202107200_rdae017-B37"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1111/j.1468-0297.2012.02530.x",
+            "article-title": "Financial Contagion and Attention Allocation",
+            "volume": "123",
+            "author": "Mondria",
+            "year": "2013",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "year": "2021",
+            "author": "Moretti",
+            "key": "2025011315202107200_rdae017-B39"
+        },
+        {
+            "year": "2020",
+            "author": "Passadore",
+            "key": "2025011315202107200_rdae017-B40"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "895",
+            "DOI": "10.1111/1468-0262.00056",
+            "article-title": "On the Failure of the Linkage Principle in Multi-Unit Auctions",
+            "volume": "67",
+            "author": "Perry",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1231",
+            "DOI": "10.1111/j.1468-0262.2006.00703.x",
+            "article-title": "Toward a Strategic Foundation for Rational Expectations Equilibrium",
+            "volume": "74",
+            "author": "Reny",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1111/j.1540-6261.2009.01462.x",
+            "article-title": "Information Immobility and the Home Bias Puzzle",
+            "volume": "64",
+            "author": "Van Nieuwerburgh",
+            "year": "2009",
+            "journal-title": "The Journal of Finance"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "675",
+            "DOI": "10.2307/1884475",
+            "article-title": "Auctions of Shares",
+            "volume": "93",
+            "author": "Wilson",
+            "year": "1979",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025011315202107200_rdae017-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.1111/j.1540-6261.2005.00733.x",
+            "article-title": "Asymmetric Price Movements and Borrowing Constraints: A Rational Expectations Equilibrium Model of Crises, Contagion and Confusion",
+            "volume": "60",
+            "author": "Yuan",
+            "year": "2005",
+            "journal-title": "Journal of Finance"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae017/57890523/rdae017.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/197/57890523/rdae017.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/197/57890523/rdae017.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2025-01-13T15:20:54Z",
+        "timestamp": 1736781654000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/1/197/7681930"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                24
+            ]
+        ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    24
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae017",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                24
+            ]
+        ]
+    }
+}

@@ -1,0 +1,687 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                14
+            ]
+        ],
+        "date-time": "2025-01-14T05:24:17Z",
+        "timestamp": 1736832257435,
+        "version": "3.33.0"
+    },
+    "reference-count": 48,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2024-03-29T00:00:00Z",
+                "timestamp": 1711670400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study partially linear models when the outcome of interest and some of the covariates are observed in two different datasets that cannot be linked. This type of data combination problem arises very frequently in empirical microeconomics. Using recent tools from optimal transport theory, we derive a constructive characterization of the sharp identified set. We then build on this result and develop a novel inference method that exploits the specific geometric properties of the identified set. Our method exhibits good performances in finite samples, while remaining very tractable. We apply our approach to study intergenerational income mobility over the period 1850\u20131930 in the U.S. Our method allows us to relax the exclusion restrictions used in earlier work, while delivering confidence regions that are informative.</jats:p>",
+    "DOI": "10.1093/restud/rdae022",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ],
+        "date-time": "2024-03-29T19:21:51Z",
+        "timestamp": 1711740111000
+    },
+    "page": "238-267",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Partially Linear Models under Data Combination"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "X",
+            "family": "D\u2019Haultf\u0153uille",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "CREST-ENSAE and Institut Polytechnique de Paris ,",
+                    "place": [
+                        "France"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "C",
+            "family": "Gaillac",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Nuffield College and the University of Oxford ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "A",
+            "family": "Maurel",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Duke University , NBER and IZA ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025011315201443100_rdae022-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1198/073500104000000316",
+            "article-title": "Unobservable Selection and Coefficient Stability: Theory and Evidence",
+            "volume": "23",
+            "author": "Abrevaya",
+            "year": "2005",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1086/426036",
+            "article-title": "Selection on Observed and Unobserved Variables: Assessing the Effectiveness of Catholic Schools",
+            "volume": "113",
+            "author": "Altonji",
+            "year": "2005",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1016/j.jeconom.2016.09.010",
+            "article-title": "Inference Based on Many Conditional Moment Inequalities",
+            "volume": "196",
+            "author": "Andrews",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2020",
+            "author": "Athey",
+            "key": "2025011315201443100_rdae022-B4"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/s00526-019-1624-y",
+            "article-title": "Existence, Duality, and Cyclical Monotonicity for Weak Transport Costs",
+            "volume": "58",
+            "author": "Backhoff-Veraguas",
+            "year": "2019",
+            "journal-title": "Calculus of Variations and Partial Differential Equations"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "DOI": "10.1145/235815.235821",
+            "article-title": "The Quickhull Algorithm for Convex Hulls",
+            "volume": "22",
+            "author": "Barber",
+            "year": "1996",
+            "journal-title": "ACM Transactions on Mathematical Software (TOMS)"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1146/annurev-economics-063016-103658",
+            "article-title": "Set Identification, Moment Restrictions, and Inference",
+            "volume": "9",
+            "author": "Bontemps",
+            "year": "2017",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "80",
+            "DOI": "10.1016/j.jeconom.2020.10.011",
+            "article-title": "Estimation and Inference of Semiparametric Models Using Data from Several Sources",
+            "volume": "226",
+            "author": "Buchinsky",
+            "year": "2022",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2019",
+            "author": "Bureau of Labor Statistics, U.S. Department of Labor",
+            "key": "2025011315201443100_rdae022-B9"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2143",
+            "DOI": "10.3150/19-BEJ1188",
+            "article-title": "Directional Differentiability for Supremum-type Functionals: Statistical Applications",
+            "volume": "26",
+            "author": "C\u00e1rcamo",
+            "year": "2020",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "667",
+            "DOI": "10.3982/ECTA8718",
+            "article-title": "Intersection Bounds: Estimation and Inference",
+            "volume": "81",
+            "author": "Chernozhukov",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1146/annurev-economics-080217-053417",
+            "article-title": "The Econometrics of Shape Restrictions",
+            "volume": "10",
+            "author": "Chetverikov",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.1111/1468-0262.00279",
+            "article-title": "Regressions, Short and Long",
+            "volume": "70",
+            "author": "Cross",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1277",
+            "DOI": "10.1002/jae.2921",
+            "article-title": "Regression with an Imputed Dependent Variable",
+            "volume": "37",
+            "author": "Crossley",
+            "year": "2022",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "704",
+            "DOI": "10.1239/jap/1158784940",
+            "article-title": "Stochastic Orders and Majorization of Mean Order Statistics",
+            "volume": "43",
+            "author": "De la Cal",
+            "year": "2006",
+            "journal-title": "Journal of Applied Probability"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.3982/QE1724",
+            "article-title": "Rationalizing Rational Expectations: Characterizations and Tests",
+            "volume": "12",
+            "author": "D\u2019Haultf\u0153uille",
+            "year": "2021",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "year": "2023",
+            "author": "D\u2019Haultf\u0153uille",
+            "key": "2025011315201443100_rdae022-B17"
+        },
+        {
+            "year": "2022",
+            "author": "Diegert",
+            "key": "2025011315201443100_rdae022-B18"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "811",
+            "DOI": "10.3982/ECTA10601",
+            "article-title": "Identifying Treatment Effects Under Data Combination",
+            "volume": "82",
+            "author": "Fan",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1515/jem-2015-0006",
+            "article-title": "Estimation and Inference in an Ecological Inference Model",
+            "volume": "5",
+            "author": "Fan",
+            "year": "2016",
+            "journal-title": "Journal of Econometric Methods"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1680",
+            "DOI": "10.1016/j.jeconom.2022.11.009",
+            "article-title": "Uniform Inference for Value Functions",
+            "volume": "235",
+            "author": "Firpo",
+            "year": "2023",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B22",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.23943/princeton/9780691172767.001.0001",
+            "volume-title": "Optimal Transport Methods in Economics",
+            "author": "Galichon",
+            "year": "2016"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1264",
+            "DOI": "10.1093/restud/rdr008",
+            "article-title": "Set Identification in Models with Multiple Equilibria",
+            "volume": "78",
+            "author": "Galichon",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "2502",
+            "DOI": "10.1086/705718",
+            "article-title": "Quantifying the Life-cycle Benefits of an Influential Early-Childhood Program",
+            "volume": "128",
+            "author": "Garcia",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "2290",
+            "DOI": "10.1093/ej/ueab105",
+            "article-title": "Culture and Student Achievement: The Intertwined Roles of Patience and Risk-taking",
+            "volume": "132",
+            "author": "Hanushek",
+            "year": "2021",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1100",
+            "DOI": "10.1257/aer.20130957",
+            "article-title": "Fiscal Policy and Economic Recovery: The Case of the 1936 Veterans\u2019 Bonus",
+            "volume": "106",
+            "author": "Hausman",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "Fundamentals of Convex Analysis",
+            "year": "2012",
+            "author": "Hiriart-Urruty",
+            "key": "2025011315201443100_rdae022-B27"
+        },
+        {
+            "year": "2023",
+            "author": "Hwang",
+            "key": "2025011315201443100_rdae022-B28"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.3982/QE778",
+            "article-title": "Credible Ecological Inference for Medical Decisions with Personalized Risk Assessment",
+            "volume": "9",
+            "author": "Manski",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.3982/ECTA14481",
+            "article-title": "Identification of Treatment Effects Under Conditional Partial Independence",
+            "volume": "86",
+            "author": "Masten",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "1994",
+            "author": "Matzkin",
+            "key": "2025011315201443100_rdae022-B31"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B32",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4471-7349-6",
+            "volume-title": "Theory of Random Sets",
+            "author": "Molchanov",
+            "year": "2017"
+        },
+        {
+            "year": "2020",
+            "author": "Molinari",
+            "key": "2025011315201443100_rdae022-B33"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.1017/S0266466606060063",
+            "article-title": "Generalization of a Result on \u201cRegressions, Short and Long\u201d",
+            "volume": "22",
+            "author": "Molinari",
+            "year": "2006",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "869",
+            "DOI": "10.1086/262045",
+            "article-title": "The Role of Premarket Factors in Black-White Wage Differences",
+            "volume": "104",
+            "author": "Neal",
+            "year": "1996",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "2695",
+            "DOI": "10.1257/aer.20130821",
+            "article-title": "In the Name of the Son (and the Daughter): Intergenerational Mobility in the United States, 1850\u20131940",
+            "volume": "105",
+            "author": "Olivetti",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2019",
+            "author": "Olivetti",
+            "key": "2025011315201443100_rdae022-B37"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1080/07350015.2016.1227711",
+            "article-title": "Unobservable Selection and Coefficient Stability: Theory and Evidence",
+            "volume": "37",
+            "author": "Oster",
+            "year": "2019",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "DOI": "10.1080/07474938.2016.1222068",
+            "article-title": "Two-sample Least Squares Projection",
+            "volume": "38",
+            "author": "Pacini",
+            "year": "2019",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "734",
+            "DOI": "10.1002/jae.2456",
+            "article-title": "Maintaining (Locus of) Control? Data Combination for the Identification and Inference of Factor Structure Models",
+            "volume": "31",
+            "author": "Piatek",
+            "year": "2016",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B41",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4612-1554-7",
+            "volume-title": "Subsampling",
+            "author": "Politis",
+            "year": "1999"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "5469",
+            "DOI": "10.1016/S1573-4412(07)06075-8",
+            "article-title": "The Econometrics of Data Combination",
+            "volume": "6",
+            "author": "Ridder",
+            "year": "2007",
+            "journal-title": "Handbook of Econometrics"
+        },
+        {
+            "year": "2022",
+            "author": "Robbins",
+            "key": "2025011315201443100_rdae022-B43"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.2307/1912705",
+            "article-title": "Root-n-consistent Semiparametric Regression",
+            "volume": "56",
+            "author": "Robinson",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "510",
+            "DOI": "10.3368/jhr.48.3.510",
+            "article-title": "Permanent Income and the Black-White Test Score Gap",
+            "volume": "48",
+            "author": "Rothstein",
+            "year": "2013",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "year": "2022",
+            "author": "Santavirta",
+            "key": "2025011315201443100_rdae022-B46"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1214/aoms/1177700153",
+            "article-title": "The Existence of Probability Measures with Given Marginals",
+            "volume": "36",
+            "author": "Strassen",
+            "year": "1965",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2025011315201443100_rdae022-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "729",
+            "DOI": "10.1017/S0266466600165053",
+            "article-title": "Local Semiparametric Efficiency Bounds Under Shape Restrictions",
+            "volume": "16",
+            "author": "Tripathi",
+            "year": "2000",
+            "journal-title": "Econometric Theory"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae022/57929123/rdae022.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/238/57929123/rdae022.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/238/57929123/rdae022.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2025-01-13T15:20:30Z",
+        "timestamp": 1736781630000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/1/238/7637571"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    29
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae022",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ]
+    }
+}

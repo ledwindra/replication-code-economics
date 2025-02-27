@@ -1,0 +1,1064 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2025-01-13T15:40:09Z",
+        "timestamp": 1736782809725,
+        "version": "3.33.0"
+    },
+    "reference-count": 83,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        30
+                    ]
+                ],
+                "date-time": "2024-01-30T00:00:00Z",
+                "timestamp": 1706572800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>To analyse climate change mitigation strategies, economists rely on simplified climate models\u2014so-called climate emulators\u2014that provide a realistic quantitative link between CO2 emissions and global warming at low computational costs. In this paper, we propose a generic and transparent calibration and evaluation strategy for these climate emulators that are based on freely and easily accessible state-of-the-art benchmark data from climate sciences. We demonstrate that the appropriate choice of the free model parameters can be of key relevance for the predicted social cost of carbon. The key idea we put forward is to calibrate the simplified climate models to benchmark data from comprehensive global climate models that took part in the coupled model intercomparison project, phase 5 (CMIP5). In particular, we propose to use four different test cases that are considered pivotal in the climate science literature: two highly idealized tests to separately calibrate and evaluate the carbon cycle and temperature response, an idealized test to quantify the transient climate response, and a final test to evaluate the performance for scenarios close to those arising from economic models, and that include exogenous forcing. As a concrete example, we re-calibrate the climate part of the widely used DICE-2016, fathoming the CMIP5 uncertainty range of model responses: the multi-model mean as well as extreme, but still permissible climate sensitivities and carbon cycle responses. We demonstrate that the functional form of the climate emulator of the DICE-2016 model is fit for purpose, despite its simplicity, but its carbon cycle and temperature equations are miscalibrated, leading to the conclusion that one may want to be skeptical about predictions derived from DICE-2016. We examine the importance of the calibration for the social cost of carbon in the context of a partial equilibrium setting where interest rates are exogenous, as well as the simple general equilibrium setting from DICE-2016. We find that the model uncertainty from different consistent calibrations of the climate system can change the social cost of carbon by a factor of 4 if one assumes a quadratic damage function. When calibrated to the multi-model mean, our model predicts similar values for the social cost of carbon as the original DICE-2016, but with a strongly reduced sensitivity to the discount rate and about 1 degree less long-term warming. The social cost of carbon in DICE-2016 is oversensitive to the discount rate, leading to extreme comparative statics responses to changes in preferences.</jats:p>",
+    "DOI": "10.1093/restud/rdae011",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                30
+            ]
+        ],
+        "date-time": "2024-01-30T22:30:45Z",
+        "timestamp": 1706653845000
+    },
+    "page": "299-338",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+        "The Climate in Climate Economics"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Doris",
+            "family": "Folini",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Institute for Atmospheric and Climate Science, ETHZ ,",
+                    "place": [
+                        "Switzerland"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Aleksandra",
+            "family": "Friedl",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Lausanne ,",
+                    "place": [
+                        "Switzerland"
+                    ]
+                },
+                {
+                    "name": "ifo Institute \u2013 Leibniz Institute for Economic Research, University of Munich ,",
+                    "place": [
+                        "Germany"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Felix",
+            "family": "K\u00fcbler",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department for Banking and Finance, University of Z\u00fcrich; Swiss Finance Institute (SFI) ,",
+                    "place": [
+                        "Switzerland"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Simon",
+            "family": "Scheidegger",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Lausanne; Enterprise for Society (E4S) ,",
+                    "place": [
+                        "Switzerland"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025011315202362100_rdae011-B1",
+            "doi-asserted-by": "publisher",
+            "first-page": "271",
+            "DOI": "10.1111/risa.12117",
+            "article-title": "Uncertainty in Climate Change Modeling: Can Global Sensitivity Analysis Be of Help?",
+            "volume": "34",
+            "author": "Anderson",
+            "year": "2014",
+            "journal-title": "Risk Analysis"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B2",
+            "doi-asserted-by": "publisher",
+            "first-page": "e2022JD036675",
+            "DOI": "10.1029/2022JD036675",
+            "article-title": "On the Effect of Historical SST Patterns on Radiative Feedback",
+            "volume": "127",
+            "author": "Andrews",
+            "year": "2022",
+            "journal-title": "Journal of Geophysical Research (Atmospheres)"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B3",
+            "doi-asserted-by": "publisher",
+            "first-page": "5289",
+            "DOI": "10.1175/JCLI-D-12-00494.1",
+            "article-title": "Carbon-Concentration and Carbon-Climate Feedbacks in CMIP5 Earth System Models",
+            "volume": "26",
+            "author": "Arora",
+            "year": "2013",
+            "journal-title": "Journal of Climate"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B4",
+            "doi-asserted-by": "publisher",
+            "first-page": "4173",
+            "DOI": "10.5194/bg-17-4173-2020",
+            "article-title": "Carbon-Concentration and Carbon-Climate Feedbacks in CMIP6 Models and Their Comparison to CMIP5 Models",
+            "volume": "17",
+            "author": "Arora",
+            "year": "2020",
+            "journal-title": "Biogeosciences"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B5",
+            "doi-asserted-by": "publisher",
+            "first-page": "1471",
+            "DOI": "10.1111/iere.12575",
+            "article-title": "Deep Equilibrium Nets",
+            "volume": "63",
+            "author": "Azinovic",
+            "year": "2022",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1024",
+            "DOI": "10.1093/rfs/hhz144",
+            "article-title": "Pricing Uncertainty Induced by Climate Change",
+            "volume": "33",
+            "author": "Barnett",
+            "year": "2020",
+            "journal-title": "The Review of Financial Studies"
+        },
+        {
+            "year": "2022",
+            "author": "Barnett",
+            "key": "2025011315202362100_rdae011-B7"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1016/j.jpubeco.2018.02.012",
+            "article-title": "Be Careful What You Calibrate for: Social Discounting in General Equilibrium",
+            "volume": "160",
+            "author": "Barrage",
+            "year": "2018",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "105",
+            "key": "2025011315202362100_rdae011-B9",
+            "first-page": "1",
+            "article-title": "The Rising Cost of Climate Change: Evidence from the Bond Market",
+            "author": "Bauer",
+            "year": "2021",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B10",
+            "doi-asserted-by": "publisher",
+            "first-page": "139",
+            "DOI": "10.5194/esd-11-139-2020",
+            "article-title": "Emulating Earth System Model Temperatures with Mesmer: From Global Mean Temperature Trajectories to Grid-Point-Level Realizations on Land",
+            "volume": "11",
+            "author": "Beusch",
+            "year": "2020",
+            "journal-title": "Earth System Dynamics"
+        },
+        {
+            "year": "2007",
+            "author": "Bosetti",
+            "key": "2025011315202362100_rdae011-B11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.960746"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B12",
+            "doi-asserted-by": "publisher",
+            "first-page": "372",
+            "DOI": "10.1016/j.econlet.2012.05.032",
+            "article-title": "How Sensitive Is Nordhaus to Weitzman? Climate Policy in DICE with an Alternative Damage Function",
+            "volume": "117",
+            "author": "Botzen",
+            "year": "2012",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "year": "2019",
+            "author": "Cai",
+            "key": "2025011315202362100_rdae011-B13"
+        },
+        {
+            "year": "2012",
+            "author": "Cai",
+            "key": "2025011315202362100_rdae011-B14"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B15",
+            "doi-asserted-by": "publisher",
+            "first-page": "2684",
+            "DOI": "10.1086/701890",
+            "article-title": "The Social Cost of Carbon with Economic and Climate Risks",
+            "volume": "127",
+            "author": "Cai",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B16",
+            "doi-asserted-by": "publisher",
+            "first-page": "1199",
+            "DOI": "10.1175/BAMS-D-16-0034.1",
+            "article-title": "On the Physics of Three Integrated Assessment Models",
+            "volume": "98",
+            "author": "Calel",
+            "year": "2017",
+            "journal-title": "Bulletin of the American Meteorological Society"
+        },
+        {
+            "year": "2021",
+            "author": "Calvet",
+            "key": "2025011315202362100_rdae011-B17"
+        },
+        {
+            "year": "2020",
+            "author": "Carleton",
+            "key": "2025011315202362100_rdae011-B18"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B19",
+            "doi-asserted-by": "publisher",
+            "first-page": "S64",
+            "DOI": "10.1016/j.eneco.2009.10.013",
+            "article-title": "International Climate Policy Architectures: Overview of the EMF 22 International Scenarios",
+            "volume": "31",
+            "author": "Clarke",
+            "year": "2009",
+            "journal-title": "Energy Economics"
+        },
+        {
+            "year": "2014",
+            "author": "Climate Change 2014 Synthesis Report IPCC",
+            "key": "2025011315202362100_rdae011-B20"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B21",
+            "doi-asserted-by": "publisher",
+            "first-page": "e01916",
+            "DOI": "10.1029/2019MS001916",
+            "article-title": "The Community Earth System Model Version 2 (CESM2)",
+            "volume": "12",
+            "author": "Danabasoglu",
+            "year": "2020",
+            "journal-title": "Journal of Advances in Modeling Earth Systems"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B22",
+            "doi-asserted-by": "publisher",
+            "first-page": "895",
+            "DOI": "10.1086/713977",
+            "article-title": "Are Economists Getting Climate Dynamics Right and Does It Matter?",
+            "volume": "8",
+            "author": "Dietz",
+            "year": "2021",
+            "journal-title": "Journal of the Association of Environmental and Resource Economists"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-030-03152-7",
+            "volume-title": "Understanding Risks and Uncertainties in Energy and Climate Policy",
+            "author": "Doukas",
+            "year": "2019"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B24",
+            "doi-asserted-by": "publisher",
+            "first-page": "1937",
+            "DOI": "10.5194/gmd-9-1937-2016",
+            "article-title": "Overview of the Coupled Model Intercomparison Project Phase 6 (CMIP6) Experimental Design and Organization",
+            "volume": "9",
+            "author": "Eyring",
+            "year": "2016",
+            "journal-title": "Geoscientific Model Development"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B25",
+            "doi-asserted-by": "publisher",
+            "first-page": "e2023GL102916",
+            "DOI": "10.1029/2023GL102916",
+            "article-title": "21st Century Scenario Forcing Increases More for CMIP6 Than CMIP5 Models",
+            "volume": "50",
+            "author": "Fredriksen",
+            "year": "2023",
+            "journal-title": "Geophysical Research Letters,"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B26",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.3390/en10050602",
+            "article-title": "The Contribution of Non-CO2 Greenhouse Gas Mitigation to Achieving Long-Term Temperature Goals",
+            "volume": "10",
+            "author": "Gambhir",
+            "year": "2017",
+            "journal-title": "Energies"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B27",
+            "doi-asserted-by": "publisher",
+            "first-page": "1859",
+            "DOI": "10.1175/JCLI-D-12-00196.1",
+            "article-title": "Transient Climate Response in a Two-Layer Energy\u2014Balance Model. Part II: Representation of the Efficacy of Deep-Ocean Heat Uptake and Validation for CMIP5 AOGCMs",
+            "volume": "26",
+            "author": "Geoffroy",
+            "year": "2013",
+            "journal-title": "Journal of Climate"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B28",
+            "doi-asserted-by": "publisher",
+            "first-page": "41",
+            "DOI": "10.3982/ECTA10217",
+            "article-title": "Optimal Taxes on Fossil Fuel in General Equilibrium",
+            "volume": "82",
+            "author": "Golosov",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B29",
+            "doi-asserted-by": "publisher",
+            "first-page": "103642",
+            "DOI": "10.1016/j.euroecorev.2020.103642",
+            "article-title": "Optimal Carbon Abatement in a Stochastic Equilibrium Model with Climate Change",
+            "volume": "132",
+            "author": "Hambel",
+            "year": "2021",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B30",
+            "doi-asserted-by": "publisher",
+            "first-page": "781",
+            "DOI": "10.1038/s41558-020-0833-x",
+            "article-title": "Climate Economics Support for the UN Climate Targets",
+            "volume": "10",
+            "author": "H\u00e4nsel",
+            "year": "2020",
+            "journal-title": "Nature Climate Change"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B31",
+            "doi-asserted-by": "publisher",
+            "first-page": "520",
+            "DOI": "10.1016/j.ecolecon.2017.11.024",
+            "article-title": "Intertemporal Distribution, Sufficiency, and the Social Cost of Carbon",
+            "volume": "146",
+            "author": "H\u00e4nsel",
+            "year": "2018",
+            "journal-title": "Ecological Economics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B32",
+            "first-page": "1",
+            "article-title": "Integrated Assessment Models : What Are They and How Do They Arrive at Their Conclusions?",
+            "author": "Hare",
+            "year": "2018",
+            "journal-title": "Climate Analytics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/bs.hesenv.2018.08.003",
+            "volume-title": "Environmental Macroeconomics: The Case of Climate Change",
+            "author": "Hassler",
+            "year": "2018"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B34",
+            "doi-asserted-by": "publisher",
+            "first-page": "189",
+            "DOI": "10.1146/annurev-economics-080217-053229",
+            "article-title": "The Consequences of Uncertainty: Climate Sensitivity and Economic Sensitivity to the Climate",
+            "volume": "10",
+            "author": "Hassler",
+            "year": "2018",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B35",
+            "doi-asserted-by": "publisher",
+            "first-page": "1893",
+            "DOI": "10.1016/bs.hesmac.2016.04.007",
+            "article-title": "Environmental Macroeconomics",
+            "volume": "2",
+            "author": "Hassler",
+            "year": "2016",
+            "journal-title": "Handbook of Macroeconomics"
+        },
+        {
+            "year": "2019",
+            "author": "Hassler",
+            "key": "2025011315202362100_rdae011-B36"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B37",
+            "doi-asserted-by": "publisher",
+            "first-page": "531",
+            "DOI": "10.1007/s10584-012-0633-z",
+            "article-title": "Critical Issues for the Calculation of the Social Cost of CO2: Why the Estimates from PAGE09 are Higher Than Those from PAGE2002",
+            "volume": "117",
+            "author": "Hope",
+            "year": "2013",
+            "journal-title": "Climatic Change"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1007/s10640-017-0166-z",
+            "article-title": "Few and Not So Far Between: A Meta-Analysis of Climate Damage Estimates",
+            "volume": "68",
+            "author": "Howard",
+            "year": "2017",
+            "journal-title": "Environmental and Resource Economics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B39",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1016/j.reseneeco.2017.01.001",
+            "article-title": "The Effect of Learning on Climate Policy under Fat-Tailed Risk",
+            "volume": "48",
+            "author": "Hwang",
+            "year": "2017",
+            "journal-title": "Resource and Energy Economics"
+        },
+        {
+            "year": "2015",
+            "author": "Intergovernmental Panel on Climate Change and Intergovernmental Panel on Climate Change",
+            "key": "2025011315202362100_rdae011-B40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/cbo9781107415416.012"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B41",
+            "doi-asserted-by": "publisher",
+            "first-page": "e98808",
+            "DOI": "10.1029/2022GL098808",
+            "article-title": "Errors in Simple Climate Model Emulations of Past and Future Global Temperature Change",
+            "volume": "49",
+            "author": "Jackson",
+            "year": "2022",
+            "journal-title": "Geophysical Research Letters"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B42",
+            "doi-asserted-by": "publisher",
+            "first-page": "423",
+            "DOI": "10.5194/cp-16-423-2020",
+            "article-title": "Modeling the Evolution of Pulse-Like Perturbations in Atmospheric Carbon and Carbon Isotopes: The Role of Weathering-Sedimentation Imbalances",
+            "volume": "16",
+            "author": "Jeltsch-Th\u00f6mmes",
+            "year": "2020",
+            "journal-title": "Climate of the Past"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B43",
+            "doi-asserted-by": "publisher",
+            "first-page": "891",
+            "DOI": "10.1029/2000GB001375",
+            "article-title": "Global Warming Feedbacks on Terrestrial Carbon Uptake Under the Intergovernmental Panel on Climate Change (IPCC) Emission Scenarios",
+            "volume": "15",
+            "author": "Joos",
+            "year": "2001",
+            "journal-title": "Global Biogeochemical Cycles"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "2793",
+            "DOI": "10.5194/acp-13-2793-2013",
+            "article-title": "Carbon Dioxide and Climate Impulse Response Functions for the Computation of Greenhouse Gas Metrics: A Multi-Model Analysis",
+            "volume": "13",
+            "author": "Joos",
+            "year": "2013",
+            "journal-title": "Atmospheric Chemistry and Physics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B45",
+            "doi-asserted-by": "publisher",
+            "first-page": "174",
+            "DOI": "10.1111/j.2153-3490.1973.tb01604.x",
+            "article-title": "Industrial Production of Carbon Dioxide from Fossil Fuels and Limestone",
+            "volume": "25",
+            "author": "Keeling",
+            "year": "1973",
+            "journal-title": "Tellus"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B46",
+            "doi-asserted-by": "publisher",
+            "first-page": "1133",
+            "DOI": "10.5194/gmd-11-1133-2018",
+            "article-title": "The Carbon Dioxide Removal Model Intercomparison Project (CDRMIP): Rationale and Experimental Protocol for cmip6",
+            "volume": "11",
+            "author": "Keller",
+            "year": "2018",
+            "journal-title": "Geoscientific Model Development"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B47",
+            "doi-asserted-by": "publisher",
+            "first-page": "727",
+            "DOI": "10.1038/ngeo3017",
+            "article-title": "Beyond Equilibrium Climate Sensitivity",
+            "volume": "10",
+            "author": "Knutti",
+            "year": "2017",
+            "journal-title": "Nature Geoscience"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B48",
+            "doi-asserted-by": "publisher",
+            "first-page": "551",
+            "DOI": "10.1093/epolic/eiab008",
+            "article-title": "Pareto-Improving Carbon-Risk Taxation",
+            "volume": "36",
+            "author": "Kotlikoff",
+            "year": "2021",
+            "journal-title": "Economic Policy"
+        },
+        {
+            "year": "2021",
+            "author": "Kotlikoff",
+            "key": "2025011315202362100_rdae011-B49"
+        },
+        {
+            "year": "2021",
+            "author": "Kotlikoff",
+            "key": "2025011315202362100_rdae011-B50"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B52",
+            "doi-asserted-by": "publisher",
+            "first-page": "2141",
+            "DOI": "10.5194/essd-10-2141-2018",
+            "article-title": "Global Carbon Budget 2018",
+            "volume": "10",
+            "author": "Le Qu\u00e9r\u00e9",
+            "year": "2018",
+            "journal-title": "Earth System Science Data"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B51",
+            "doi-asserted-by": "publisher",
+            "first-page": "137",
+            "DOI": "10.1257/pol.6.1.137",
+            "article-title": "Watch Your Step: Optimal Policy in a Tipping Climate",
+            "volume": "6",
+            "author": "Lemoine",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "441",
+            "DOI": "10.1038/nclimate2570",
+            "article-title": "Stochastic Integrated Assessment of Climate Tipping Points Indicates the Need for Strict Climate Policy",
+            "volume": "5",
+            "author": "Lontzek",
+            "year": "2015",
+            "journal-title": "Nature Climate Change"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B54",
+            "doi-asserted-by": "publisher",
+            "first-page": "9563",
+            "DOI": "10.1175/JCLI-D-12-00751.1",
+            "article-title": "If Anthropogenic CO2Emissions Cease, Will Atmospheric CO2 Concentration Continue to Increase?",
+            "volume": "26",
+            "author": "MacDougall",
+            "year": "2013",
+            "journal-title": "Journal of Climate"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B55",
+            "doi-asserted-by": "publisher",
+            "first-page": "213",
+            "DOI": "10.1007/s10584-011-0156-z",
+            "article-title": "The RCP Greenhouse Gas Concentrations and Their Extensions from 1765 to 2300",
+            "volume": "109",
+            "author": "Meinshausen",
+            "year": "2011",
+            "journal-title": "Climatic Change"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1038/s41612-020-0123-3",
+            "article-title": "Non-CO2 Forcing Changes Will Likely Decrease the Remaining Carbon Budget for 1.5\u2009C",
+            "volume": "3",
+            "author": "Mengis",
+            "year": "2020",
+            "journal-title": "npj Climate and Atmospheric Science"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B57",
+            "doi-asserted-by": "publisher",
+            "first-page": "555",
+            "DOI": "10.1007/s10018-020-00269-4",
+            "article-title": "DICE-RD: An Implementation of Rate-Related Damages in the DICE Model",
+            "volume": "22",
+            "author": "Michaelis",
+            "year": "2020",
+            "journal-title": "Environmental Economics and Policy Studies"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B58",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.2139/ssrn.3215873",
+            "article-title": "Global Sensitivity Analysis in Integrated Assessment Modeling",
+            "volume": "2018",
+            "author": "Miftakhova",
+            "year": "2018",
+            "journal-title": "SSRN Electronic Journal"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/j.jeconom.2019.05.005",
+            "article-title": "Statistical Approximation of High-Dimensional Climate Models",
+            "volume": "214",
+            "author": "Miftakhova",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B60",
+            "doi-asserted-by": "publisher",
+            "first-page": "20160449",
+            "DOI": "10.1098/rsta.2016.0449",
+            "article-title": "The Utility of the Historical Record for Assessing the Transient Climate Response to Cumulative Emissions",
+            "volume": "376",
+            "author": "Millar",
+            "year": "2018",
+            "journal-title": "Philosophical Transactions of the Royal Society of London Series A"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B61",
+            "doi-asserted-by": "publisher",
+            "first-page": "5175",
+            "DOI": "10.5194/gmd-13-5175-2020",
+            "article-title": "Reduced Complexity Model Intercomparison Project Phase 1: Introduction and Evaluation of Global-Mean Temperature Response",
+            "volume": "13",
+            "author": "Nicholls",
+            "year": "2020",
+            "journal-title": "Geoscientific Model Development"
+        },
+        {
+            "volume-title": "Efficient Use of Energy Resources",
+            "year": "1979",
+            "author": "Nordhaus",
+            "key": "2025011315202362100_rdae011-B62"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B63",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctt1npzkh",
+            "volume-title": "A Question of Balance: Weighing the Options on Global Warming Policies",
+            "author": "Nordhaus",
+            "year": "2008"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B64",
+            "doi-asserted-by": "publisher",
+            "first-page": "273",
+            "DOI": "10.2139/ssrn.1945844",
+            "article-title": "Estimates of the Social Cost of Carbon: Background and Results from the Rice-2011 Model",
+            "volume": "1",
+            "author": "Nordhaus",
+            "year": "2012",
+            "journal-title": "SSRN Electronic Journal"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/B978-0-444-59568-3.00016-X",
+            "volume-title": "Integrated Economic and Climate Modeling",
+            "author": "Nordhaus",
+            "year": "2013"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B66",
+            "doi-asserted-by": "publisher",
+            "first-page": "623",
+            "DOI": "10.1007/s10584-018-2218-y",
+            "article-title": "Evolution of Modeling of the Economics of Global Warming: Changes in the DICE Model, 1992\u20132017",
+            "volume": "148",
+            "author": "Nordhaus",
+            "year": "2018",
+            "journal-title": "Climatic Change"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B67",
+            "doi-asserted-by": "publisher",
+            "first-page": "333",
+            "DOI": "10.1257/pol.20170046",
+            "article-title": "Projections and Uncertainties about Climate Change in an Era of Minimal Climate Policies",
+            "volume": "10",
+            "author": "Nordhaus",
+            "year": "2018",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "year": "1920",
+            "author": "Pigou",
+            "key": "2025011315202362100_rdae011-B68"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B69",
+            "doi-asserted-by": "publisher",
+            "first-page": "742",
+            "DOI": "10.1016/j.jeem.2003.09.002",
+            "article-title": "ENTICE: Endogenous Technological Change in the DICE Model of Global Warming",
+            "volume": "48",
+            "author": "Popp",
+            "year": "2004",
+            "journal-title": "Journal of Environmental Economics and Management"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B70",
+            "doi-asserted-by": "publisher",
+            "first-page": "565",
+            "DOI": "10.1002/2017EF000724",
+            "article-title": "Integrated Assessment of Carbon Dioxide Removal",
+            "volume": "6",
+            "author": "Rickels",
+            "year": "2018",
+            "journal-title": "Earth\u2019s Future"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B71",
+            "doi-asserted-by": "publisher",
+            "first-page": "2711",
+            "DOI": "10.5194/bg-18-2711-2021",
+            "article-title": "Ocean Carbon Uptake under Aggressive Emission Mitigation",
+            "volume": "18",
+            "author": "Ridge",
+            "year": "2021",
+            "journal-title": "Biogeosciences"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B72",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511817434",
+            "volume-title": "The Economics of Climate Change: The Stern Review",
+            "author": "Stern",
+            "year": "2007"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B73",
+            "doi-asserted-by": "publisher",
+            "first-page": "034019",
+            "DOI": "10.1088/1748-9326/aa61dc",
+            "article-title": "The Effect of Climate-Carbon Cycle Feedbacks on Emission Metrics",
+            "volume": "12",
+            "author": "Sterner",
+            "year": "2017",
+            "journal-title": "Environmental Research Letters"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B74",
+            "doi-asserted-by": "publisher",
+            "first-page": "485",
+            "DOI": "10.1175/BAMS-D-11-00094.1",
+            "article-title": "An Overview of CMIP5 and the Experiment Design",
+            "volume": "93",
+            "author": "Taylor",
+            "year": "2012",
+            "journal-title": "Bulletin of the American Meteorological Society"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B75",
+            "doi-asserted-by": "publisher",
+            "first-page": "253",
+            "DOI": "10.5194/esd-12-253-2021",
+            "article-title": "Climate Model Projections from the Scenario Model Intercomparison Project (ScenarioMIP) of CMIP6",
+            "volume": "12",
+            "author": "Tebaldi",
+            "year": "2021",
+            "journal-title": "Earth System Dynamics"
+        },
+        {
+            "year": "2021",
+            "author": "Thao",
+            "key": "2025011315202362100_rdae011-B76"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B77",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1002/wcc.532",
+            "article-title": "Modeling the Climate and Carbon Systems to Estimate the Social Cost of Carbon",
+            "volume": "9",
+            "author": "Thompson",
+            "year": "2018",
+            "journal-title": "Wiley Interdisciplinary Reviews: Climate Change"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B78",
+            "doi-asserted-by": "publisher",
+            "first-page": "eaaz9549",
+            "DOI": "10.1126/sciadv.aaz9549",
+            "article-title": "Past Warming Trend Constrains Future Warming in cmip6 Models",
+            "volume": "6",
+            "author": "Tokarska",
+            "year": "2020",
+            "journal-title": "Science Advances"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B79",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1007/s10640-014-9776-x",
+            "article-title": "A 4-Stated DICE: Quantitatively Addressing Uncertainty Effects in Climate Change",
+            "volume": "59",
+            "author": "Traeger",
+            "year": "2014",
+            "journal-title": "Environmental and Resource Economics"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.3307622",
+            "article-title": "ACE \u2013 Analytic Climate Economy (with Temperature and Uncertainty)",
+            "author": "Traeger",
+            "year": "2019",
+            "journal-title": "SSRN Electronic Journal"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1111/j.1467-9779.2011.01539.x",
+            "article-title": "GHG Targets as Insurance Against Catastrophic Climate Damages",
+            "volume": "14",
+            "author": "Weitzman",
+            "year": "2012",
+            "journal-title": "Journal of Public Economic Theory"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B82",
+            "doi-asserted-by": "publisher",
+            "first-page": "115",
+            "DOI": "10.1093/reep/rew018",
+            "article-title": "Some Contributions of Integrated Assessment Models of Global Climate Change",
+            "volume": "11",
+            "author": "Weyant",
+            "year": "2017",
+            "journal-title": "Review of Environmental Economics and Policy"
+        },
+        {
+            "key": "2025011315202362100_rdae011-B83",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1029/2019GL085782",
+            "article-title": "Causes of Higher Climate Sensitivity in CMIP6 Models",
+            "volume": "47",
+            "author": "Zelinka",
+            "year": "2020",
+            "journal-title": "Geophysical Research Letters"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae011/56663801/rdae011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae011/56663801/rdae011.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae011/56663801/rdae011.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2025-01-13T15:21:23Z",
+        "timestamp": 1736781683000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/1/299/7593489"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                30
+            ]
+        ]
+    },
+    "references-count": 83,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    1,
+                    30
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae011",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                1,
+                30
+            ]
+        ]
+    }
+}

@@ -1,0 +1,557 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                14
+            ]
+        ],
+        "date-time": "2025-01-14T05:24:04Z",
+        "timestamp": 1736832244872,
+        "version": "3.33.0"
+    },
+    "reference-count": 38,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        7
+                    ]
+                ],
+                "date-time": "2024-02-07T00:00:00Z",
+                "timestamp": 1707264000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study non-monetary markets where objects that arrive over time are allocated to unit-demand agents with private types, such as in the allocation of public housing or deceased-donor organs. An agent\u2019s value for an object is supermodular in her type and the object quality, and her payoff is her value minus her waiting cost. The social planner\u2019s objective is a weighted sum of allocative efficiency (i.e. the sum of values) and welfare (i.e. the sum of payoffs). We identify optimal mechanisms in the class of direct-revelation mechanisms. When the social planner can design the information disclosed to the agents about the objects, the optimal mechanism has a simple implementation: a first-come first-served waitlist with deferrals. In this implementation, the object qualities are partitioned into intervals; only the interval containing the object quality is disclosed to agents. When the planner places a higher weight on welfare, optimal disclosure policies become coarser.</jats:p>",
+    "DOI": "10.1093/restud/rdae013",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                7
+            ]
+        ],
+        "date-time": "2024-02-07T22:07:56Z",
+        "timestamp": 1707343676000
+    },
+    "page": "40-68",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Optimal Allocation via Waitlists: Simplicity Through Information Design"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Itai",
+            "family": "Ashlagi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MS&E, Stanford University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Faidra",
+            "family": "Monachou",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Management, Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Afshin",
+            "family": "Nikzad",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Economics, University of Southern California ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025011315201725900_rdae013-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.3982/ECTA17017",
+            "article-title": "Equilibrium Allocations Under Alternative Waitlist Designs: Evidence from Deceased Donor Kidneys",
+            "volume": "89",
+            "author": "Agarwal",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "783",
+            "DOI": "10.1086/704761",
+            "article-title": "Thickness and Information in Dynamic Matching Markets",
+            "volume": "128",
+            "author": "Akbarpour",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.1007/s40096-019-0283-7",
+            "article-title": "A New Uniform Distribution with Bathtub-Shaped Failure Rate with Simulation and Application",
+            "volume": "13",
+            "author": "Al Abbasi",
+            "year": "2019",
+            "journal-title": "Mathematical Sciences"
+        },
+        {
+            "year": "2020",
+            "author": "Anunrojwong",
+            "key": "2025011315201725900_rdae013-B4"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "2291",
+            "DOI": "10.1287/mnsc.2019.3311",
+            "article-title": "Design of Lotteries and Wait-Lists for Affordable Housing Allocation",
+            "volume": "66",
+            "author": "Arnosti",
+            "year": "2020",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2022",
+            "author": "Ashlagi",
+            "key": "2025011315201725900_rdae013-B6"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1084",
+            "DOI": "10.1093/restud/rdac044",
+            "article-title": "Matching in Dynamic Imbalanced Markets",
+            "volume": "90",
+            "author": "Ashlagi",
+            "year": "2023",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.3982/TE3740",
+            "article-title": "Optimal Dynamic Matching",
+            "volume": "15",
+            "author": "Baccara",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1007/BF01898615",
+            "article-title": "Minimalstellen von Funktionen und Extremalpunkte",
+            "volume": "9",
+            "author": "Bauer",
+            "year": "1958",
+            "journal-title": "Archiv der Mathematik"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1214/aoms/1177729032",
+            "article-title": "Equivalent Comparisons of Experiments",
+            "volume": "24",
+            "author": "Blackwell",
+            "year": "1953",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B11",
+            "first-page": "88",
+            "article-title": "Dynamic Assignment of Objects to Queuing Agents",
+            "volume": "9",
+            "author": "Bloch",
+            "year": "2017",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "year": "2020",
+            "author": "Che",
+            "key": "2025011315201725900_rdae013-B12"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "613",
+            "DOI": "10.1016/j.geb.2012.02.018",
+            "article-title": "What Money Can\u2019t Buy: Efficient Mechanism Design with Costly Signals",
+            "volume": "75",
+            "author": "Condorelli",
+            "year": "2012",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "year": "2019",
+            "author": "Doval",
+            "key": "2025011315201725900_rdae013-B14"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1665",
+            "DOI": "10.3982/ECTA16671",
+            "article-title": "Redistribution Through Markets",
+            "volume": "89",
+            "author": "Dworczak",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1257/aer.p20161049",
+            "article-title": "A Rothschild-Stiglitz Approach to Bayesian Persuasion",
+            "volume": "106",
+            "author": "Gentzkow",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1011",
+            "DOI": "10.1086/712735",
+            "article-title": "A Theory of Auctions with Endogenous Valuations",
+            "volume": "129",
+            "author": "Gershkov",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B19",
+            "first-page": "145",
+            "article-title": "Some Simple Inequalities Satisfied by Convex Functions",
+            "volume": "58",
+            "author": "Hardy",
+            "year": "1929",
+            "journal-title": "Messenger of Mathematics"
+        },
+        {
+            "year": "2008",
+            "author": "Hartline",
+            "key": "2025011315201725900_rdae013-B20"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.3982/ECTA18312",
+            "article-title": "Extreme Points and Majorization: Economic Applications",
+            "volume": "89",
+            "author": "Kleiner",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "1970",
+            "author": "Leithead",
+            "key": "2025011315201725900_rdae013-B23"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "3876",
+            "DOI": "10.1257/aer.20201111",
+            "article-title": "Dynamic Matching in Overloaded Waiting Lists",
+            "volume": "112",
+            "author": "Leshno",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2017",
+            "author": "Lingenbrink",
+            "key": "2025011315201725900_rdae013-B25"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/1468-0262.00296",
+            "article-title": "Envelope Theorems for Arbitrary Choice Sets",
+            "volume": "70",
+            "author": "Milgrom",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1287/moor.6.1.58",
+            "article-title": "Optimal Auction Design",
+            "volume": "6",
+            "author": "Myerson",
+            "year": "1981",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "year": "2023",
+            "author": "Nikzad",
+            "key": "2025011315201725900_rdae013-B28"
+        },
+        {
+            "year": "2014",
+            "author": "OPTN",
+            "key": "2025011315201725900_rdae013-B29"
+        },
+        {
+            "year": "2015",
+            "author": "OPTN",
+            "key": "2025011315201725900_rdae013-B30"
+        },
+        {
+            "year": "2018",
+            "author": "OPTN",
+            "key": "2025011315201725900_rdae013-B31"
+        },
+        {
+            "year": "2022",
+            "author": "OPTN",
+            "key": "2025011315201725900_rdae013-B32"
+        },
+        {
+            "year": "2021",
+            "author": "Ortoleva",
+            "key": "2025011315201725900_rdae013-B33"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "397",
+            "DOI": "10.1681/ASN.2020040464",
+            "article-title": "Assessment of the Utility of Kidney Histology as a Basis for Discarding Organs in the United States: A Comparison of International Transplant Practices and Outcomes",
+            "volume": "32",
+            "author": "Reese",
+            "year": "2021",
+            "journal-title": "Journal of the American Society of Nephrology"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1016/j.orl.2015.12.005",
+            "article-title": "Optimal Information Disclosure Policies in Strategic Queueing Games",
+            "volume": "44",
+            "author": "Simhon",
+            "year": "2016",
+            "journal-title": "Operations Research Letters"
+        },
+        {
+            "year": "2022",
+            "author": "Stanford R&DE",
+            "key": "2025011315201725900_rdae013-B36"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B37",
+            "doi-asserted-by": "publisher",
+            "first-page": "1647",
+            "DOI": "10.1287/mnsc.1060.0541",
+            "article-title": "Recipient Choice can Address the Efficiency-Equity Trade-Off in Kidney Transplantation: A Mechanism Design Model",
+            "volume": "52",
+            "author": "Su",
+            "year": "2006",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1455",
+            "DOI": "10.3390/sym14071455",
+            "article-title": "A Three-Component Additive Weibull Distribution and its Reliability Implications",
+            "volume": "14",
+            "author": "Thach",
+            "year": "2022",
+            "journal-title": "Symmetry"
+        },
+        {
+            "year": "2019",
+            "author": "Thakral",
+            "key": "2025011315201725900_rdae013-B39"
+        },
+        {
+            "key": "2025011315201725900_rdae013-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2510",
+            "DOI": "10.1016/j.jet.2011.06.003",
+            "article-title": "Ironing Without Control",
+            "volume": "146",
+            "author": "Toikka",
+            "year": "2011",
+            "journal-title": "Journal of Economic Theory"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae013/57021169/rdae013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/40/57021169/rdae013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/40/57021169/rdae013.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2025-01-13T15:20:30Z",
+        "timestamp": 1736781630000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/1/40/7603125"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                7
+            ]
+        ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    2,
+                    7
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae013",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                2,
+                7
+            ]
+        ]
+    }
+}

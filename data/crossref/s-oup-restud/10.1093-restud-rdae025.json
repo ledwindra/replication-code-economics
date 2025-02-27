@@ -1,0 +1,723 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                14
+            ]
+        ],
+        "date-time": "2025-01-14T05:23:49Z",
+        "timestamp": 1736832229987,
+        "version": "3.33.0"
+    },
+    "reference-count": 49,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        7
+                    ]
+                ],
+                "date-time": "2024-03-07T00:00:00Z",
+                "timestamp": 1709769600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We introduce two data-driven procedures for optimal estimation and inference in nonparametric models using instrumental variables. The first is a data-driven choice of sieve dimension for a popular class of sieve two-stage least-squares estimators. When implemented with this choice, estimators of both the structural function h0 and its derivatives (such as elasticities) converge at the fastest possible (i.e. minimax) rates in sup-norm. The second is for constructing uniform confidence bands (UCBs) for h0 and its derivatives. Our UCBs guarantee coverage over a generic class of data-generating processes and contract at the minimax rate, possibly up to a logarithmic factor. As such, our UCBs are asymptotically more efficient than UCBs based on the usual approach of undersmoothing. As an application, we estimate the elasticity of the intensive margin of firm exports in a monopolistic competition model of international trade. Simulations illustrate the good performance of our procedures in empirically calibrated designs. Our results provide evidence against common parameterizations of the distribution of unobserved firm heterogeneity.</jats:p>",
+    "DOI": "10.1093/restud/rdae025",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                7
+            ]
+        ],
+        "date-time": "2024-03-07T19:22:51Z",
+        "timestamp": 1709839371000
+    },
+    "page": "162-196",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": [
+        "Adaptive Estimation and Uniform Confidence Bands for Nonparametric Structural Functions and Elasticities"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Xiaohong",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Cowles Foundation for Research in Economics, Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Timothy",
+            "family": "Christensen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Sid",
+            "family": "Kankanala",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "year": "2020",
+            "author": "Adao",
+            "key": "2025011315201860300_rdae025-B1"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "633",
+            "DOI": "10.1257/aer.20150956",
+            "article-title": "Nonparametric Counterfactual Predictions in Neoclassical Models of International Trade",
+            "volume": "107",
+            "author": "Adao",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1111/1468-0262.00470",
+            "article-title": "Efficient Estimation of Models With Conditional Moment Restrictions Containing Unknown Functions",
+            "volume": "71",
+            "author": "Ai",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1016/j.jeconom.2017.05.011",
+            "article-title": "Examples of L2-Complete and Boundedly-Complete Distributions",
+            "volume": "199",
+            "author": "Andrews",
+            "year": "2017",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "693",
+            "DOI": "10.3982/ECTA13795",
+            "article-title": "Earnings and Consumption Dynamics: A Nonlinear Panel Data Framework",
+            "volume": "85",
+            "author": "Arellano",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1348",
+            "DOI": "10.3150/20-BEJ1277",
+            "article-title": "Adaptation Bounds for Confidence Bands Under Self-Similarity",
+            "volume": "27",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "658",
+            "DOI": "10.1017/S0266466619000380",
+            "article-title": "Honest Confidence Sets in Nonparametric IV Regression and Other Ill-Posed Models",
+            "volume": "36",
+            "author": "Babii",
+            "year": "2020",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/j.jeconom.2015.02.014",
+            "article-title": "Some New Asymptotic Theory for Least Squares Series: Pointwise and Uniform Results",
+            "volume": "186",
+            "author": "Belloni",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1749",
+            "DOI": "10.3982/ECTA9027",
+            "article-title": "Identification in Differentiated Products Markets Using Market Level Data",
+            "volume": "82",
+            "author": "Berry",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1613",
+            "DOI": "10.1111/j.1468-0262.2007.00808.x",
+            "article-title": "Semi-Nonparametric IV Estimation of Shape-Invariant Engel Curves",
+            "volume": "75",
+            "author": "Blundell",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.1162/REST_a_00636",
+            "article-title": "Nonparametric Estimation of a Nonseparable Demand Function Under the Slutsky Inequality Restriction",
+            "volume": "99",
+            "author": "Blundell",
+            "year": "2017",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "year": "2020",
+            "author": "Breunig",
+            "key": "2025011315201860300_rdae025-B12"
+        },
+        {
+            "year": "2021",
+            "author": "Breunig",
+            "key": "2025011315201860300_rdae025-B13"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "612",
+            "DOI": "10.1017/S0266466614000966",
+            "article-title": "Adaptive Estimation of Functionals in Nonparametric Instrumental Regression",
+            "volume": "32",
+            "author": "Breunig",
+            "year": "2016",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1490",
+            "DOI": "10.1214/12-EJS720",
+            "article-title": "Honest Adaptive Confidence Bands and Self-Similar Functions",
+            "volume": "6",
+            "author": "Bull",
+            "year": "2012",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1707",
+            "DOI": "10.1257/aer.98.4.1707",
+            "article-title": "Distorted Gravity: The Intensive and Extensive Margins of International Trade",
+            "volume": "98",
+            "author": "Chaney",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2015",
+            "author": "Chen",
+            "key": "2025011315201860300_rdae025-B17"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "447",
+            "DOI": "10.1016/j.jeconom.2015.03.010",
+            "article-title": "Optimal Uniform Convergence Rates and Asymptotic Normality for Series Estimators Under Weak Dependence and Weak Conditions",
+            "volume": "188",
+            "author": "Chen",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.3982/QE722",
+            "article-title": "Optimal Sup-Norm Rates and Uniform Inference On Nonlinear Functionals of Nonparametric IV Regression",
+            "volume": "9",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "year": "2022",
+            "author": "Chen",
+            "key": "2025011315201860300_rdae025-B20"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1017/S0266466610000381",
+            "article-title": "On Rate Optimality for Ill-Posed Inverse Problems in Econometrics",
+            "volume": "27",
+            "author": "Chen",
+            "year": "2011",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B22",
+            "first-page": "1",
+            "article-title": "On Instrumental Variable Regression for Deep Offline Policy Evaluation",
+            "volume": "23",
+            "author": "Chen",
+            "year": "2022",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1787",
+            "DOI": "10.1214/14-AOS1235",
+            "article-title": "Anti-Concentration and Honest, Adaptive Confidence Bands",
+            "volume": "42",
+            "author": "Chernozhukov",
+            "year": "2014",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "709",
+            "DOI": "10.3982/ECTA13830",
+            "article-title": "Constrained Conditional Moment Restriction Models",
+            "volume": "91",
+            "author": "Chernozhukov",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.3982/ECTA13639",
+            "article-title": "Nonparametric Instrumental Variable Estimation Under Monotonicity",
+            "volume": "85",
+            "author": "Chetverikov",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "545",
+            "DOI": "10.3982/QE1653",
+            "article-title": "Market Counterfactuals and the Specification of Multiproduct Demand: A Nonparametric Approach",
+            "volume": "13",
+            "author": "Compiani",
+            "year": "2022",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1541",
+            "DOI": "10.3982/ECTA6539",
+            "article-title": "Nonparametric Instrumental Regression",
+            "volume": "79",
+            "author": "Darolles",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1453",
+            "DOI": "10.3982/ECTA8318",
+            "article-title": "An Anatomy of International Trade: Evidence From French Firms",
+            "volume": "79",
+            "author": "Eaton",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2019",
+            "author": "Freyberger",
+            "key": "2025011315201860300_rdae025-B29"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1122",
+            "DOI": "10.1214/09-AOS738",
+            "article-title": "Confidence Bands in Density Estimation",
+            "volume": "38",
+            "author": "Gin\u00e9",
+            "year": "2010",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "volume-title": "Mathematical Foundations of Infinite-Dimensional Statistical Models",
+            "year": "2016",
+            "author": "Gin\u00e9",
+            "key": "2025011315201860300_rdae025-B31"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2904",
+            "DOI": "10.1214/009053605000000714",
+            "article-title": "Nonparametric Methods for Inference in the Presence of Instrumental Variables",
+            "volume": "33",
+            "author": "Hall",
+            "year": "2005",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "310",
+            "DOI": "10.1257/aer.104.5.310",
+            "article-title": "Welfare and Trade Without Pareto",
+            "volume": "104",
+            "author": "Head",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.3982/ECTA8662",
+            "article-title": "Applied Nonparametric Instrumental Variables Estimation",
+            "volume": "79",
+            "author": "Horowitz",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "158",
+            "DOI": "10.1016/j.jeconom.2014.03.006",
+            "article-title": "Adaptive Nonparametric Instrumental Variables Estimation: Empirical Choice of the Regularization Parameter",
+            "volume": "180",
+            "author": "Horowitz",
+            "year": "2014",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jeconom.2011.12.001",
+            "article-title": "Uniform Confidence Bands for Functions Estimated Nonparametrically With Instrumental Variables",
+            "volume": "168",
+            "author": "Horowitz",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "958",
+            "DOI": "10.1214/aos/1176350486",
+            "article-title": "Asymptotic Optimality for Cp, CL, Cross-Validation and Generalized Cross-Validation: Discrete Index Set",
+            "volume": "15",
+            "author": "Li",
+            "year": "1987",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "2547",
+            "DOI": "10.1214/aos/1030741084",
+            "article-title": "On Nonparametric Confidence Intervals",
+            "volume": "25",
+            "author": "Low",
+            "year": "1997",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "202",
+            "DOI": "10.1016/0021-9045(78)90052-7",
+            "article-title": "A Note on the Condition Numbers of the B-Spline Bases",
+            "volume": "22",
+            "author": "Lyche",
+            "year": "1978",
+            "journal-title": "Journal of Approximation Theory"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1695",
+            "DOI": "10.1111/1468-0262.00467",
+            "article-title": "The Impact of Trade on Intra-Industry Reallocations and Aggregate Industry Productivity",
+            "volume": "71",
+            "author": "Melitz",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2014",
+            "author": "Melitz",
+            "key": "2025011315201860300_rdae025-B41"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.1257/aer.20130351",
+            "article-title": "New Trade Models, New Welfare Implications",
+            "volume": "105",
+            "author": "Melitz",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1093/biomet/asy038",
+            "article-title": "Identifying Causal Effects With Proxy Variables of An Unmeasured Confounder",
+            "volume": "105",
+            "author": "Miao",
+            "year": "2018",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1565",
+            "DOI": "10.1111/1468-0262.00459",
+            "article-title": "Instrumental Variable Estimation of Nonparametric Models",
+            "volume": "71",
+            "author": "Newey",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "298",
+            "DOI": "10.1214/aos/1016120374",
+            "article-title": "Adaptive Confidence Interval for Pointwise Curve Estimation",
+            "volume": "28",
+            "author": "Picard",
+            "year": "2000",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.2307/1912705",
+            "article-title": "Root-N-Consistent Semiparametric Regression",
+            "volume": "56",
+            "author": "Robinson",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.1006/jath.1998.3310",
+            "article-title": "New Upper Bound for the B-Spline Basis Condition Number: Ii. A Proof of de Boor\u2019s 2k-Conjecture",
+            "volume": "99",
+            "author": "Scherer",
+            "year": "1999",
+            "journal-title": "Journal of Approximation Theory"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "1351",
+            "DOI": "10.1214/18-AOS1717",
+            "article-title": "Bootstrap Tuning in Gaussian Ordered Model Selection",
+            "volume": "47",
+            "author": "Spokoiny",
+            "year": "2019",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025011315201860300_rdae025-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "689",
+            "DOI": "10.1214/aos/1176349548",
+            "article-title": "Additive Regression and Other Nonparametric Models",
+            "volume": "13",
+            "author": "Stone",
+            "year": "1985",
+            "journal-title": "The Annals of Statistics"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae025/57021176/rdae025.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/162/57021176/rdae025.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/1/162/57021176/rdae025.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2025-01-13T15:20:45Z",
+        "timestamp": 1736781645000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/1/162/7624036"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                7
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    7
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae025",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                7
+            ]
+        ]
+    }
+}
