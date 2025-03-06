@@ -1,0 +1,989 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                5
+            ]
+        ],
+        "date-time": "2025-03-05T05:39:16Z",
+        "timestamp": 1741153156178,
+        "version": "3.38.0"
+    },
+    "reference-count": 140,
+    "publisher": "American Economic Association",
+    "issue": "1",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> Deep learning provides powerful methods to impute structured information from large-scale, unstructured text and image datasets. For example, economists might wish to detect the presence of economic activity in satellite images or measure the topics or entities mentioned in social media, the congressional record, or firm filings. This review introduces deep neural networks, covering methods such as classifiers, regression models, generative artificial intelligence (AI), and embedding models. Applications include classification, document digitization, record linkage, and methods for data exploration in massive-scale text and image corpora. When suitable methods are used, deep learning models can be cheap to tune and can scale affordably to problems involving millions or billions of data points. The review is accompanied by a regularly updated companion website, EconDL ( https://econdl.github.io/ ), with user-friendly demo notebooks, software resources, and a knowledge base that provides technical details and additional applications. (JEL C38, C45, C88, D83) </jats:p>",
+    "DOI": "10.1257/jel.20241733",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                4
+            ]
+        ],
+        "date-time": "2025-03-04T14:42:46Z",
+        "timestamp": 1741099366000
+    },
+    "page": "5-58",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Deep Learning for Economists"
+    ],
+    "prefix": "10.1257",
+    "volume": "63",
+    "author": [
+        {
+            "given": "Melissa",
+            "family": "Dell",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard University Department of Economics and NBER."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.20201599"
+        },
+        {
+            "key": "p_2",
+            "unstructured": "Alammar, Jay. 2018a. \"The Illustrated Bert, Elmo, and co. (How NLP Cracked Transfer Learning).\" Blog post. https://jalammar.github.io/illustrated-bert/."
+        },
+        {
+            "key": "p_3",
+            "unstructured": "Alammar, Jay. 2018b. \"The Illustrated Transformer.\" Blog post. https://jalammar.github.io/illustrated-transformer/."
+        },
+        {
+            "key": "p_4",
+            "unstructured": "Alammar, Jay. 2019. \"The Illustrated GPT-2 (Visualizing Transformer Language Models).\" Blog post. http:// jalammar.github.io/illustrated-gpt2/."
+        },
+        {
+            "key": "p_5",
+            "unstructured": "Alammar, Jay. 2020. \"Works-Visualizations and Animations.\" Blog post. https://jalammar.github.io/ how-gpt3-works-visualizations-animations/."
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/rs15071860"
+        },
+        {
+            "key": "p_7",
+            "unstructured": "Ali, Alaaeldin, Hugo Touvron, Mathilde Caron, Piotr Bojanowski, Matthijs Douze, Armand Joulin, Ivan Laptev, etal 2021. \"XCiT: Cross-Covariance Image Transformers.\" In Advances in Neural Information Processing Systems, Vol. 34, edited by M. Ranzato, A. Beygelzimer, Y. Dauphin, P. S. Liang, and J. Wortman Vaughan, 20014-27. Curran Associates, Inc."
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.adi6000"
+        },
+        {
+            "key": "p_9",
+            "first-page": "221",
+            "volume": "3",
+            "author": "Dell Melissa",
+            "year": "2024",
+            "journal-title": "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics"
+        },
+        {
+            "key": "p_10",
+            "first-page": "15576",
+            "volume": "2406",
+            "author": "Silcock Emily",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_11",
+            "first-page": "03464",
+            "volume": "2304",
+            "author": "Yang Xinmei",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-080217-053433"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.20191526"
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bandara, Wele Gedara Chaminda, and Vishal M. Patel. 2022. \"A Transformer-Based Siamese Network for Change Detection.\" In IGARSS 2022-2022 IEEE International Geoscience and Remore Sensing Symposium, 207-210. IEEE.",
+            "DOI": "10.1109/IGARSS46834.2022.9883686"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Beach, Brian, and W. Walker Hanlon. 2022. \"Historical Newspaper Data: A Researcher's Guide and Toolkit.\" NBER Working Paper 30135.",
+            "DOI": "10.3386/w30135"
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/72.279181"
+        },
+        {
+            "key": "p_17",
+            "first-page": "1086",
+            "author": "Kumar Ankan",
+            "year": "2021",
+            "journal-title": "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)"
+        },
+        {
+            "key": "p_18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Binette, Olivier, and Rebecca C. Steorts. 2022. \"(Almost) All of Entity Resolution.\" Science Advances 8 (12): eabi8021.",
+            "DOI": "10.1126/sciadv.abi8021"
+        },
+        {
+            "key": "p_19",
+            "first-page": "1877",
+            "volume": "33",
+            "author": "Mann Benjamin",
+            "year": "2020",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bryan, Tom, Jacob Carlson, Abhishek Arora, and Melissa Dell. 2023. \"EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge.\" In Proceedings of the 2023 Conference on Empirical Methods on Natural Language Processing: Systems Demonstrations, 579-596. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/2023.emnlp-demo.52"
+        },
+        {
+            "key": "p_21",
+            "first-page": "6154",
+            "author": "Vasconcelos Nuno",
+            "year": "2018",
+            "journal-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+        },
+        {
+            "issue": "5",
+            "key": "p_22",
+            "first-page": "1483",
+            "volume": "43",
+            "author": "Vasconcelos Nuno",
+            "year": "2019",
+            "journal-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+        },
+        {
+            "key": "p_23",
+            "first-page": "01607",
+            "volume": "2406",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Carion, Nicolas, Francisco Massa, Gabriel Synnaeve, Nicolas Usunier, Alexander Kirillov, and Sergey Zagoruyko. 2020. \"End-to-End Object Detection with Transformers.\" In Computer Vision-ECCV 2020, edited by Andrea Vedaldi, Horst Bischof, Thomas Brox, and Jan-Michael Frahm, 213-229. Springer.",
+            "DOI": "10.1007/978-3-030-58452-8_13"
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Carlson, Jacob., Tom Bryan, and Melissa Dell. 2024. \"Efficient OCR for Building a Diverse Digital History.\" In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, Vol. 1, edited by Lun-Wei Ku, Andre Martins, and Vivek Srikumar, 8105-15. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/2024.acl-long.440"
+        },
+        {
+            "key": "p_26",
+            "first-page": "9650",
+            "author": "Touvron Hugo",
+            "year": "2021",
+            "journal-title": "Proccedings of the IEEE/CVF International Conference on Computer Vision"
+        },
+        {
+            "key": "p_27",
+            "first-page": "05026",
+            "volume": "2210",
+            "author": "Matias",
+            "year": "2022",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_28",
+            "first-page": "9640",
+            "author": "Xie Saining",
+            "year": "2021",
+            "journal-title": "Proceedings of the IEEE/CVF International Conference on Computer Vision"
+        },
+        {
+            "key": "p_29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ectj.12097"
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA18515"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.2021.1920957"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chopra, Sumit, Raia Hadsell, and Yann LeCun. 2005. \"Learning a Similarity Met RIC Discriminatively, with Application to Face Verification.\" In 2025 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 539-546. IEEE.",
+            "DOI": "10.1109/CVPR.2005.202"
+        },
+        {
+            "key": "p_33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s42256-022-00445-z"
+        },
+        {
+            "key": "p_34",
+            "first-page": "00904",
+            "volume": "2010",
+            "author": "Cao De",
+            "year": "2020",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_35",
+            "unstructured": "Dell, Melissa. 2024. Data and Code for: \"Deep Learning for Economists.\" American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E210922V1."
+        },
+        {
+            "key": "p_36",
+            "unstructured": "Dell, Melissa, Jacob Carlson, Tom Bryan, Emily Silcock, Abhishek Arora, Zejiang Shen, Luca D'Amico-Wong, Quan Le, Pablo Querubin, and Leander Heldring. 2023. \"American Stories: A Large-Scale Structured Text Dataset of Historical US Newspapers.\" In Advances in Neural Information and Processing Systems, Vol. 36, edited by A. Oh, T. Naumann, A. Globerson, K. Saenko, M. Hardt, and S. Levine. Curran Associates, Inc."
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Deng, Jia, Wei Dong, Richard Socher, Li-Jia Li, Kai Li, and Li Fei-Fei. 2009. \"ImageNet: A Large-Scale Hierarchical Image Database.\" In 2009 IEEE Conference on Computer Vision and Pattern Recognition, 248-255. IEEE.",
+            "DOI": "10.1109/CVPR.2009.5206848"
+        },
+        {
+            "key": "p_38",
+            "first-page": "4171",
+            "volume": "2019",
+            "author": "Chang Ming-Wei",
+            "year": "2019",
+            "journal-title": "Proceedings of NAACL-HLT"
+        },
+        {
+            "key": "p_39",
+            "first-page": "08758",
+            "volume": "2104",
+            "author": "Sap Maarten",
+            "year": "2021",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_40",
+            "first-page": "11929",
+            "volume": "2010",
+            "author": "Beyer Lucas",
+            "year": "2020",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_41",
+            "first-page": "00512",
+            "volume": "1909",
+            "year": "2019",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_42",
+            "first-page": "1437",
+            "author": "Klein Aaron",
+            "year": "2018",
+            "journal-title": "Proceedings of the 35th International Conference on Machine Learning"
+        },
+        {
+            "key": "p_43",
+            "unstructured": "Fern\u00e1ndez-Villaverde, Jes\u00fas. 2024. \"Deep Learning for Macroeconomists.\" https://www.sas.upenn.edu/~jesusfv/ teaching.html."
+        },
+        {
+            "key": "p_44",
+            "first-page": "99",
+            "author": "Silcock Emily",
+            "year": "2024",
+            "journal-title": "Proceedings of the Sixth Workshop on Natural Language Processing and Computational Social Science"
+        },
+        {
+            "key": "p_45",
+            "first-page": "14969",
+            "volume": "2209",
+            "author": "Millard Koreen",
+            "year": "2022",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3458723"
+        },
+        {
+            "key": "p_47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.20181020"
+        },
+        {
+            "key": "p_48",
+            "unstructured": "Gissin, Daniel, and Shai Shalev-Shwartz. 2019. \"Discriminative Active Learning.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.1907.06347."
+        },
+        {
+            "issue": "4",
+            "key": "p_49",
+            "first-page": "e6",
+            "volume": "2",
+            "year": "2017",
+            "journal-title": "Distill"
+        },
+        {
+            "key": "p_50",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gong, Yuan, Yu-An Chung, and James Glass. 2021. \"AST: Audio Spectrogram Transformer.\" Preprint, arXiv. https:// doi.org/10.48550/arXiv.2104.01778.",
+            "DOI": "10.21437/Interspeech.2021-698"
+        },
+        {
+            "key": "p_51",
+            "unstructured": "Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. 2016. Deep Learning. MIT Press."
+        },
+        {
+            "issue": "10",
+            "key": "p_52",
+            "first-page": "2222",
+            "volume": "28",
+            "author": "Srivastava Rupesh K.",
+            "year": "2016",
+            "journal-title": "IEEE Transactions on Neural Networks and Learning Systems"
+        },
+        {
+            "key": "p_53",
+            "unstructured": "Grill, Jean-Bastien, Florian Strub, Florent Altch\u00e9, Corentin Tallec, Pierre Richemond, Elena Buchatskaya, Carl Doersch, etal 2020. \"Bootstrap Your Own Latent-A New Approach to Self-Supervised Learning.\" In Advances in Neural Information Processing Systems, Vol. 33, edited by H. Larochelle, M. Ranzato, R. Hadsell, and M. F. Balcan, and H. Lin, 21271-84. Curran Associates, Inc."
+        },
+        {
+            "key": "p_54",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Guarneri, Julia. 2017. Newsprint Metropolis: City Papers and the Making of Modern Americans. University of Chicago Press.",
+            "DOI": "10.7208/chicago/9780226341477.001.0001"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gururangan, Suchin, Ana Marasovi\u0107, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A. Smith. 2020. \"Don't Stop Pretraining: Adapt Language Models to Domains and Tasks.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.2004.10964.",
+            "DOI": "10.18653/v1/2020.acl-main.740"
+        },
+        {
+            "key": "p_56",
+            "first-page": "16000",
+            "author": "Chen Xinlei",
+            "year": "2022",
+            "journal-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+        },
+        {
+            "key": "p_57",
+            "first-page": "2961",
+            "author": "Gkioxari Georgia",
+            "year": "2017",
+            "journal-title": "Proceedings of the IEEE International Conference on Computer Vision"
+        },
+        {
+            "key": "p_58",
+            "first-page": "1026",
+            "author": "Zhang Xiangyu",
+            "year": "2015",
+            "journal-title": "Proceedings of the IEEE International Conference on Computer Vision"
+        },
+        {
+            "key": "p_59",
+            "first-page": "770",
+            "author": "Zhang Xiangyu",
+            "year": "2016",
+            "journal-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+        },
+        {
+            "key": "p_60",
+            "first-page": "03654",
+            "volume": "2006",
+            "author": "Liu Xiaodong",
+            "year": "2020",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_61",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hedderich, Michael A., Lukas Lange, Heike Adel, Jannik Str\u00f6tgen, and Dietrich Klakow. 2021. \"A Survey on Recent Approaches for Natural Language Processing in Low-Resource Scenarios.\" In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, 2545-2568. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/2021.naacl-main.201"
+        },
+        {
+            "key": "p_62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s42001-021-00149-1"
+        },
+        {
+            "key": "p_63",
+            "first-page": "07737",
+            "volume": "1703",
+            "author": "Beyer Lucas",
+            "year": "2017",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/neco.1997.9.8.1735"
+        },
+        {
+            "key": "p_65",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Holland, Sarah, Ahmed Hosny, Sara Newman, Josh Joseph, and Kevin Chmielinski. 2020. \"The Dataset Nutrition Label: A Framework to Drive Higher Data Quality Standards.\" In Data Protection and Privacy: Data Protection and Democracy, edited by Dara Hallinan, Ronald Leenes, and Serge Gutwirth, 1-25. Hart Publishing.",
+            "DOI": "10.5040/9781509932771.ch-001"
+        },
+        {
+            "key": "p_66",
+            "first-page": "1314",
+            "author": "Sandler Mark",
+            "year": "2019",
+            "journal-title": "Proceedings of the IEEE/CVF International Conference on Computer Vision"
+        },
+        {
+            "key": "p_67",
+            "first-page": "448",
+            "author": "Szegedy Christian",
+            "year": "2015",
+            "journal-title": "Proceedings of the 32nd International Conference on Machine Learning"
+        },
+        {
+            "key": "p_68",
+            "unstructured": "Jocher, Glenn. 2020. YOLOv5 by Ultralytics. https://github.com/ultralytics/yolov5 (accessed July 2023)."
+        },
+        {
+            "key": "p_69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TBDATA.2019.2921572"
+        },
+        {
+            "key": "p_70",
+            "unstructured": "Karpathy, Andrej. 2022. \"The Spelled-Out Intro to Neural Networks and Backpropagation.\" YouTube, posted on August 16, 2022. https://www.youtube.com/watch?v=VMj-3S1tku0."
+        },
+        {
+            "key": "p_71",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Karpukhin, Vladimir, Barlas O\u011fuz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, and Wentau Yih. 2020. \"Dense Passage Retrieval for Open-Domain Question Answering.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.2004.04906.",
+            "DOI": "10.18653/v1/2020.emnlp-main.550"
+        },
+        {
+            "key": "p_72",
+            "first-page": "14024",
+            "volume": "2212",
+            "author": "Santhanam Keshav",
+            "year": "2022",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_73",
+            "unstructured": "Khosla, Prannay, Piotr Teterwak, Chen Wang, Aaron Sarna, Yonglong Tian, Phillip Isola, Aaron Maschinot, Ce Liu, and Dilip Krishnan. 2020. \"Supervised Contrastive Learning.\" In Advances in Neural Information Processing Systems, Vol. 33, edited by H. Larochelle, M. Ranzato, R. Hadsell, M. F. Balcan, and H. Lin, 18661-73. Curran Associates, Inc."
+        },
+        {
+            "key": "p_74",
+            "unstructured": "Kingma, Diederik P., and Jimmy Ba. 2014. \"Adam: A Method for Stochastic Optimization.\" Preprint, arXiv. https:// doi.org/10.48550/arXiv.1412.6980."
+        },
+        {
+            "key": "p_75",
+            "first-page": "6399",
+            "author": "Girshick Ross",
+            "year": "2019",
+            "journal-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+        },
+        {
+            "key": "p_76",
+            "first-page": "02643",
+            "volume": "2304",
+            "author": "Mintun Eric",
+            "year": "2023",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.20231736"
+        },
+        {
+            "key": "p_78",
+            "unstructured": "Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2012. \"ImageNet Classification with Deep Convolutional Neural Networks.\" In Advances in Neural Information Processing Systems, Vol. 25. Curran Associates, Inc."
+        },
+        {
+            "key": "p_79",
+            "unstructured": "Lan, Zhenzhong, Mingda Chen, Sebastian Goodman, Kevin Gimpel, Piyush Sharma, and Radu Soricut. 2019. \"ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.1909.11942."
+        },
+        {
+            "key": "p_80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature14539"
+        },
+        {
+            "key": "p_81",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/rssb.12445"
+        },
+        {
+            "issue": "8",
+            "key": "p_82",
+            "first-page": "707",
+            "volume": "10",
+            "author": "Vladimir",
+            "year": "1966",
+            "journal-title": "Soviet Physics-Doklady"
+        },
+        {
+            "key": "p_83",
+            "first-page": "6765",
+            "volume": "18",
+            "author": "Jamieson Kevin",
+            "year": "2017",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "p_84",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3567444"
+        },
+        {
+            "key": "p_85",
+            "first-page": "11692",
+            "volume": "1907",
+            "author": "Ott Myle",
+            "year": "2019",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_86",
+            "first-page": "10012",
+            "author": "Lin Yutong",
+            "year": "2021",
+            "journal-title": "Proceedings of the IEEE/CVF International Conference on Computer Vision"
+        },
+        {
+            "key": "p_87",
+            "first-page": "11976",
+            "author": "Mao Hanzi",
+            "year": "2022",
+            "journal-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition"
+        },
+        {
+            "key": "p_88",
+            "unstructured": "Lynn, Veronica, Jonathan K. Kummerfeld, and Rada Mihalcea. 2020. \"A Causal Framework for Uncovering the Effects of Descriptive Text on Decision Making.\" Unpublished."
+        },
+        {
+            "key": "p_89",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/tacl_a_00379"
+        },
+        {
+            "issue": "6",
+            "key": "p_90",
+            "first-page": "1",
+            "volume": "54",
+            "author": "Morstatter Fred",
+            "year": "2021",
+            "journal-title": "ACM Computing Surveys (CSUR)"
+        },
+        {
+            "key": "p_91",
+            "first-page": "02178",
+            "volume": "2110",
+            "author": "Rastegari Mohammad",
+            "year": "2021",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_92",
+            "first-page": "14448",
+            "volume": "2004",
+            "author": "Rahimtoroghi Elahe",
+            "year": "2020",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_93",
+            "unstructured": "Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. 2013. \"Distributed Representations of Words and Phrases and Their Compositionality.\" In Advances in Neural Information Processing Systems, Vol. 26, edited by C. J. Burges, L. Bottou, M. Welling, Z. Ghahramani, and K. Q. Weinberger, 3111-19. Curran Associates, Inc."
+        },
+        {
+            "key": "p_94",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mitchell, Margaret, Simone Wu, Andrew Zaldivar, Parker Barnes, Lucy Vasserman, Ben Hutchinson, Elena Spitzer, Inioluwa Deborah Raji, and Timnit Gebru. 2019. \"Model Cards for Model Reporting.\" In FAT* '19: Proceedings of the Conference on Fairness, Accountability, and Transparency, 220-229. Association for Computing Machinery.",
+            "DOI": "10.1145/3287560.3287596"
+        },
+        {
+            "key": "p_95",
+            "unstructured": "MLCommons. 2024. Croissant: A Metadata Framework for ML-Ready Datasets. https://github.com/mlcommons/ croissant (accessed July 9, 2024)."
+        },
+        {
+            "key": "p_96",
+            "unstructured": "National Archives and Records Administration. 2023. \"The Soundex Indexing System.\" https://www.archives.gov/ research/census/soundex (accessed November 10, 2023)."
+        },
+        {
+            "key": "p_97",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nguyen, Dat Quoc, Thanh Vu, Afshin Rahimi, Mai Hoang Dao, Linh The Nguyen, and Long Doan. 2020. \"WNUT2020 Task 2: Identification of Informative COVID-19 English Tweets.\" Preprint, arXiv. https://doi.org/10.48550/ arXiv.2010.08232.",
+            "DOI": "10.18653/v1/2020.wnut-1.41"
+        },
+        {
+            "issue": "6",
+            "key": "p_98",
+            "first-page": "1",
+            "volume": "54",
+            "author": "Hai Thi Tuyet",
+            "year": "2021",
+            "journal-title": "ACM Computing Surveys"
+        },
+        {
+            "key": "p_99",
+            "unstructured": "Nielsen, Michael. 2015. Neural Networks and Deep Learning. Determination Press."
+        },
+        {
+            "key": "p_100",
+            "unstructured": "Olah, Christopher. 2014. \"Deep Learning, NLP, and Representations.\" GitHub blog, July 7. https://colah.github.io/ posts/2014-07-NLP-RNNs-Representations/."
+        },
+        {
+            "key": "p_101",
+            "first-page": "03748",
+            "volume": "1807",
+            "author": "Aaron",
+            "year": "2018",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_102",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pennington, Jeffrey, Richard Socher, and Christopher D. Manning. 2014. \"Glove: Global Vectors for Word Representation.\" In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), 1532-1543. Association for Computational Linguistics.",
+            "DOI": "10.3115/v1/D14-1162"
+        },
+        {
+            "key": "p_103",
+            "first-page": "8748",
+            "author": "Kim Jong Wook",
+            "year": "2021",
+            "journal-title": "Proceedings of the 38th International Conference on Machine Learning"
+        },
+        {
+            "key": "p_104",
+            "unstructured": "Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. 2019. \"Language Models Are Unsupervised Multitask Learners.\" OpenAI blog. https://cdn.openai.com/better-language-models/language_ models_are_unsupervised_multitask_learners.pdf."
+        },
+        {
+            "key": "p_105",
+            "first-page": "5485",
+            "volume": "21",
+            "author": "Shazeer Noam",
+            "year": "2020",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "p_106",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. 2016. \"You Only Look Once: Unified, Real-Time Object Detection.\" In 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 779-788.",
+            "DOI": "10.1109/CVPR.2016.91"
+        },
+        {
+            "key": "p_107",
+            "first-page": "10084",
+            "volume": "1908",
+            "author": "Gurevych Iryna",
+            "year": "2019",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_108",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TPAMI.2016.2577031"
+        },
+        {
+            "key": "p_109",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.1994.10476818"
+        },
+        {
+            "key": "p_110",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rush, Alexander. 2018. \"The Annotated Transformer.\" In Proceedings of Workshop for NLP Open Source Software (NLP-OSS), edited by Eunjeong L. Park, Masato Hagiwara, Dmitrijs Milajevs, and Liling Tan, 52-60. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/W18-2509"
+        },
+        {
+            "key": "p_111",
+            "unstructured": "Russell, Robert C. 1918. US Patent US1261167A, filed October 25, 1917, and issued April 2, 1918. https://patents. google.com/patent/US1261167A/en."
+        },
+        {
+            "key": "p_112",
+            "unstructured": "Sanderson, Grant. 2020. \"Convolutions in Image Processing.\" Virtual lecture, streamed live on September 3, 2020, by The Julia Programming Language, YouTube. https://www.youtube.com/watch?v=8rrHTtUzyZA."
+        },
+        {
+            "key": "p_113",
+            "unstructured": "Sanderson, Grant. n.d. \"Neural Networks.\" https://www.3blue1brown.com/topics/neural-networks (accessed January 2025)."
+        },
+        {
+            "key": "p_114",
+            "unstructured": "Sang, Erik F, and Fien De Meulder. 2003. \"Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition.\" Preprint, arXiv. https://doi.org/10.48550/arXiv.cs/0306050."
+        },
+        {
+            "key": "p_115",
+            "first-page": "01108",
+            "volume": "1910",
+            "author": "Debut Lysandre",
+            "year": "2019",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_116",
+            "unstructured": "Sanh, Victor, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2019b. DistilRoBERTa: A Distilled Version of RoBERTa. https://github.com/huggingface/transformers (accessed July 9, 2024)."
+        },
+        {
+            "key": "p_117",
+            "unstructured": "Santurkar, Shibani, Dimitris Tsipras, Andrew Ilyas, and Aleksander Madry. 2018. \"How Does Batch Normalization Help Optimization?\" In Advances in Neural Information Processing Systems, Vol. 31, edited by S. Bengio, H. Wallach, H. Larochelle, K. Grauman, N. Cesa-Bianchi, and R. Garnett. Curran Associates, Inc."
+        },
+        {
+            "key": "p_118",
+            "first-page": "371",
+            "volume": "9",
+            "author": "Vovk Vladimir",
+            "year": "2008",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "p_119",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shen, Qinlan, and Carolyn Rose. 2021. \"What Sounds `Right' to Me? Experiential Factors in the Perception of Political Ideology.\" In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics, edited by Paola Merlo, Jorg Tiedemann, and Reut Tsarfaty, 1762-1771. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/2021.eacl-main.152"
+        },
+        {
+            "key": "p_121",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shen, Zejiang, Ruochen Zhang, Melissa Dell, Benjamin Charles Germain Lee, Jacob Carlson, and Weining Li. 2021. \"LayoutParser: A Unified Toolkit for Deep Learning Based Document Image Analysis.\" In Document Analysis and Recognition-ICDAR 2021, edited by Josep Llad\u00f3s, Daniel Lopresti, and Seiichi Uchida, 131-146. Springer.",
+            "DOI": "10.1007/978-3-030-86549-8_9"
+        },
+        {
+            "key": "p_122",
+            "first-page": "09490",
+            "volume": "2406",
+            "author": "Arora Abhishek",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_123",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Silcock, Emily, Luca D'Amico-Wong, Jinglin Yang, and Melissa Dell. 2022. \"Noise-Robust De-Duplication at Scale.\" NBER Working Paper 30726.",
+            "DOI": "10.3386/w30726"
+        },
+        {
+            "key": "p_124",
+            "first-page": "1556",
+            "volume": "1409",
+            "author": "Zisserman Andrew",
+            "year": "2014",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_125",
+            "unstructured": "Stevens, Eli, Luca Antiga, and Thomas Viehmann. 2020. Deep Learning with PyTorch. Manning Publications Company."
+        },
+        {
+            "key": "p_126",
+            "first-page": "1",
+            "author": "Liu Wei",
+            "year": "2015",
+            "journal-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+        },
+        {
+            "key": "p_127",
+            "first-page": "10347",
+            "author": "Cord Matthieu",
+            "year": "2021",
+            "journal-title": "Proceedings of the 38th International Conference on Machine Learning"
+        },
+        {
+            "key": "p_128",
+            "unstructured": "Touvron, Hugo, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timoth\u00e9e Lacroix, Baptiste Rozi\u00e8re, etal 2023. \"LLaMA: Open and Efficient Foundation Language Models.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.2302.13971."
+        },
+        {
+            "key": "p_129",
+            "unstructured": "Ultralytics. 2020. Ultralytics/yolov5. https://github.com/ultralytics/yolov5 (accessed January 2025)."
+        },
+        {
+            "key": "p_130",
+            "doi-asserted-by": "crossref",
+            "unstructured": "van Strien, Daniel, Kaspar Beelen, Mariona Coll Ardanuy, Kasra Hosseini, Barbara McGillivray, and Giovanni Colavizza. 2022. \"Assessing the Impact of OCR Quality on Downstream NLP Tasks.\" In Proceedings of the 12th International Conference on Agents and Artificial Intelligence (ICAART 2020), Vol. 1, 484-496. SCITEPRESS.",
+            "DOI": "10.5220/0009169004840496"
+        },
+        {
+            "key": "p_131",
+            "unstructured": "Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. \"Attention Is All You Need.\" In 31st Conference on Neural Information Processing Systems (NIPS 2017), Vol. 31. Curran Associates, Inc."
+        },
+        {
+            "key": "p_132",
+            "unstructured": "Vitercik, Ellen. 2023. Machine Learning for Algorithm Design. https://vitercik.github.io/ml4algs/calendar/ (accessed January 2025)."
+        },
+        {
+            "key": "p_133",
+            "first-page": "1",
+            "volume": "61",
+            "author": "Zhang Jing",
+            "year": "2022",
+            "journal-title": "IEEE Transactions on Geoscience and Remote Sensing"
+        },
+        {
+            "key": "p_134",
+            "first-page": "2495",
+            "author": "Liu Huaping",
+            "year": "2021",
+            "journal-title": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+        },
+        {
+            "key": "p_135",
+            "unstructured": "Wei, Jason, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed Chi, Quoc V. Le, and Denny Zhou. 2022. \"Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.\" Preprint, arXiv. https:// doi.org/10.48550/arXiv.2201.11903."
+        },
+        {
+            "key": "p_136",
+            "unstructured": "Wilkerson, John, E. Scott Adler, Bryan D. Jones, Frank R. Baumgartner, Guy Freedman, Sean M. Theriault, Alison Craig, Derek A. Epp, Cheyenne Lee, and Miranda E. Sullivan. 2023. Policy Agendas Project: Congressional Bills. https://comparativeagendas.net/datasets_codebooks (accessed March 2024)."
+        },
+        {
+            "key": "p_137",
+            "first-page": "03814",
+            "volume": "1911",
+            "author": "Petroni Fabio",
+            "year": "2019",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_138",
+            "first-page": "1492",
+            "author": "Girshick Ross",
+            "year": "2017",
+            "journal-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+        },
+        {
+            "key": "p_139",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yamada, Ikuya, Koki Washio, Hiroyuki Shindo, and Yuji Matsumoto. 2022. \"Global Entity Disambiguation with BERT.\" In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, edited by Marine Carpuat, Marie-Catherine de Marneffe, and Ivan Vladimir Meza Ruiz, 3264-3271. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/2022.naacl-main.238"
+        },
+        {
+            "key": "p_140",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Yang, Xinmei, Abhishek Arora, Shao-Yu Jheng, and Melissa Dell. 2023. \"Quantifying Character Similarity with Vision Transformers.\" In Proceedings of the 2023 Conference on Empirical Methods on Natural Language Processing, 13982-13996. Association for Computational Linguistics.",
+            "DOI": "10.18653/v1/2023.emnlp-main.863"
+        },
+        {
+            "key": "p_141",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.2322083121"
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20241733",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                4
+            ]
+        ],
+        "date-time": "2025-03-04T14:43:14Z",
+        "timestamp": 1741099394000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20241733"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    },
+    "references-count": 140,
+    "journal-issue": {
+        "issue": "1",
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20241733"
+    ],
+    "URL": "https://doi.org/10.1257/jel.20241733",
+    "relation": {},
+    "ISSN": [
+        "0022-0515",
+        "2328-8175"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        },
+        {
+            "value": "2328-8175",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    }
+}
