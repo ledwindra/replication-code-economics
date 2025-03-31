@@ -1,0 +1,343 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T13:10:03Z",
+        "timestamp": 1743081003540,
+        "version": "3.40.3"
+    },
+    "reference-count": 14,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100004836",
+            "name": "Danmarks Frie Forskningsfond",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100004836",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100004836",
+            "name": "Italian Ministry of University and Research",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100004836",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Based on the GARCH literature, Engle and Russell (1998) established consistency and asymptotic normality of the QMLE for the autoregressive conditional duration (ACD) model, assuming strict stationarity and ergodicity of the durations. Using novel arguments based on renewal process theory, we show that their results hold under the stronger requirement that durations have finite expectation. However, we demonstrate that this is not always the case under the assumption of stationary and ergodic durations. Specifically, we provide a counterexample where the MLE is asymptotically mixed normal and converges at a rate significantly slower than usual. The main difference between ACD and GARCH asymptotics is that the former must account for the number of durations in a given time span being random. As a by\u2010product, we present a new lemma which can be applied to analyze asymptotic properties of extremum estimators when the number of observations is random.</jats:p>",
+    "DOI": "10.3982/ecta21896",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:13:54Z",
+        "timestamp": 1743077634000
+    },
+    "page": "719-729",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "A Comment on: \n            <i>\u201cAutoregressive Conditional Duration: A New Model for Irregularly Spaced Transaction Data\u201d</i>"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Giuseppe",
+            "family": "Cavaliere",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Bologna"
+                },
+                {
+                    "name": "Department of Economics, University of Exeter"
+                }
+            ]
+        },
+        {
+            "given": "Thomas",
+            "family": "Mikosch",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Mathematical Sciences, University of Copenhagen"
+                }
+            ]
+        },
+        {
+            "given": "Anders",
+            "family": "Rahbek",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Copenhagen"
+                }
+            ]
+        },
+        {
+            "given": "Frederik",
+            "family": "Vilandt",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Copenhagen"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200749-bib-0001",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-319-29679-1",
+            "volume-title": "Stochastic Models With Power-Law Tails",
+            "author": "Buraczewski",
+            "year": "2016"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200749-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.2307/2999632",
+            "volume": "66",
+            "author": "Engle",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200749-bib-0003",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jeconom.2023.105613",
+            "volume": "238",
+            "author": "Cavaliere",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200749-bib-0004",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-0-387-87835-5",
+            "volume-title": "Stopped Random Walks: Limit Theorems and Applications",
+            "author": "Gut",
+            "year": "2009"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200749-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1203",
+            "DOI": "10.1017/S0266466604206065",
+            "volume": "20",
+            "author": "Jensen",
+            "year": "2004",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200749-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "761",
+            "DOI": "10.1017/S0266466607070326",
+            "volume": "23",
+            "author": "Jensen",
+            "year": "2007",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200749-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1016/j.jeconom.2010.03.010",
+            "volume": "158",
+            "author": "Kristensen",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200749-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1017/S0266466600008215",
+            "volume": "10",
+            "author": "Lee",
+            "year": "1994",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200749-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1291",
+            "DOI": "10.1017/S0266466608080511",
+            "volume": "24",
+            "author": "Meitz",
+            "year": "2008",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200749-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "131",
+            "DOI": "10.1016/j.spa.2005.08.003",
+            "volume": "116",
+            "author": "Mikosch",
+            "year": "2006",
+            "journal-title": "Stochastic Processes and Their Applications"
+        },
+        {
+            "key": "ecta200749-bib-0011",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-031-59156-3",
+            "volume-title": "Extreme Value Theory for Time Series. Models With Power-Law Tails",
+            "author": "Mikosch",
+            "year": "2024"
+        },
+        {
+            "key": "ecta200749-bib-0012",
+            "volume-title": "Stable Non-Gaussian Random Processes",
+            "author": "Samorodnitsky",
+            "year": "1994"
+        },
+        {
+            "key": "ecta200749-bib-0013",
+            "volume-title": "Estimation in Conditionally Heteroscedastic Time Series Models",
+            "author": "Straumann",
+            "year": "2005"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200749-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "580",
+            "DOI": "10.1214/aos/1176348542",
+            "volume": "20",
+            "author": "Sweeting",
+            "year": "1992",
+            "journal-title": "The Annals of Statistics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:42:51Z",
+        "timestamp": 1743079371000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21896"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 14,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21896"
+    ],
+    "URL": "https://doi.org/10.3982/ecta21896",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

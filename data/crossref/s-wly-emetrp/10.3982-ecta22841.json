@@ -1,0 +1,600 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T13:10:02Z",
+        "timestamp": 1743081002962,
+        "version": "3.40.3"
+    },
+    "reference-count": 40,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100004375",
+            "name": "Tel Aviv University",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100004375",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We develop a theory of monotone comparative statics for models with adjustment costs. We show that comparative\u2010statics conclusions may be drawn under the usual ordinal complementarity assumptions on the objective function, assuming very little about costs: only a mild monotonicity condition is required. We use this insight to prove a general Le Chatelier principle: under the ordinal complementarity assumptions, if short\u2010run adjustment is subject to a monotone cost, then the long\u2010run response to a shock is greater than the short\u2010run response. We extend these results to a fully dynamic model of adjustment over time: the Le Chatelier principle remains valid, and under slightly stronger assumptions, optimal adjustment follows a monotone path. We apply our results to models of saving, production, pricing, labor supply, and investment.</jats:p>",
+    "DOI": "10.3982/ecta22841",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:13:54Z",
+        "timestamp": 1743077634000
+    },
+    "page": "661-694",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Comparative Statics With Adjustment Costs and the Le Chatelier Principle"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Eddie",
+            "family": "Dekel",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Northwestern University"
+                },
+                {
+                    "name": "Department of Economics, Tel Aviv University"
+                }
+            ]
+        },
+        {
+            "given": "John K.-H.",
+            "family": "Quah",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, National University of Singapore"
+                }
+            ]
+        },
+        {
+            "given": "Ludvig",
+            "family": "Sinander",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics and Nuffield College, University of Oxford"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200747-bib-0001",
+            "unstructured": "Antic, Nemanja, and Yuval Salant (2020): \u201cMonopoly Theory With Price-Increase Aversion,\u201d Work in progress."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1162/003355302753399481",
+            "volume": "117",
+            "author": "Athey",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200747-bib-0003",
+            "first-page": "29",
+            "volume": "5",
+            "author": "Bachmann",
+            "year": "2013",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.1093/rfs/5.3.387",
+            "volume": "5",
+            "author": "Back",
+            "year": "1992",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "534",
+            "DOI": "10.1257/aer.20210169",
+            "volume": "114",
+            "author": "Bari",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200747-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.3917/redp.255.0665",
+            "volume": "125",
+            "author": "B\u00e9nabou",
+            "year": "2015",
+            "journal-title": "Revue d'\u00e9conomie politique"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1257/jep.30.3.141",
+            "volume": "30",
+            "author": "B\u00e9nabou",
+            "year": "2016",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.2307/2298020",
+            "volume": "57",
+            "author": "Bentolila",
+            "year": "1990",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.3982/ECTA11254",
+            "volume": "83",
+            "author": "Berger",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200747-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Caplin, Andrew, and John Leahy (2019): \u201cWishful Thinking,\u201d NBER working paper 25707.",
+            "DOI": "10.3386/w25707"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200747-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1884277",
+            "volume": "102",
+            "author": "Caplin",
+            "year": "1987",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "969",
+            "DOI": "10.3982/ECTA9043",
+            "volume": "80",
+            "author": "Chetty",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "855",
+            "DOI": "10.3982/ECTA9390",
+            "volume": "84",
+            "author": "Chetty",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "749",
+            "DOI": "10.1093/qje/qjr013",
+            "volume": "126",
+            "author": "Chetty",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "611",
+            "DOI": "10.1111/j.1467-937X.2006.00389.x",
+            "volume": "73",
+            "author": "Cooper",
+            "year": "2006",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.3982/ECTA19738",
+            "volume": "92",
+            "author": "Dziewulski",
+            "year": "2024",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200747-bib-0017",
+            "first-page": "2196",
+            "volume": "103",
+            "author": "Field",
+            "year": "2013",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200747-bib-0018",
+            "volume-title": "Monetary Policy, Inflation, and the Business Cycle: An Introduction to the New Keynesian Framework and Its Applications",
+            "author": "Gal\u00ed",
+            "year": "2015",
+            "edition": "Second"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1086/512625",
+            "volume": "115",
+            "author": "Golosov",
+            "year": "2007",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.2307/2938333",
+            "volume": "58",
+            "author": "Grossman",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200747-bib-0021",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hamermesh, Daniel S. (1988): \u201cLabor Demand and the Structure of Adjustment Costs,\u201d NBER working paper 2572.",
+            "DOI": "10.3386/w2572"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.2307/1912538",
+            "volume": "50",
+            "author": "Hayashi",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200747-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1387",
+            "DOI": "10.2307/2951526",
+            "volume": "60",
+            "author": "Hopenhayn",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0024",
+            "first-page": "247",
+            "volume": "53",
+            "author": "Jorgenson",
+            "year": "1963",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200747-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "1199",
+            "DOI": "10.3982/ECTA10528",
+            "volume": "82",
+            "author": "Kaplan",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "272",
+            "DOI": "10.1214/aoms/1177728259",
+            "volume": "27",
+            "author": "Karlin",
+            "year": "1956",
+            "journal-title": "Annals of Mathematical Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200747-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1315",
+            "DOI": "10.2307/1913210",
+            "volume": "53",
+            "author": "Kyle",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "791",
+            "DOI": "10.1162/003355397555352",
+            "volume": "112",
+            "author": "Levy",
+            "year": "1997",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200747-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "529",
+            "DOI": "10.2307/1885395",
+            "volume": "100",
+            "author": "Mankiw",
+            "year": "1985",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200747-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "1139",
+            "DOI": "10.3982/ECTA6735",
+            "volume": "79",
+            "author": "Midrigan",
+            "year": "2011",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200747-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1255",
+            "DOI": "10.2307/2938316",
+            "volume": "58",
+            "author": "Milgrom",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0032",
+            "first-page": "173",
+            "volume": "86",
+            "author": "Milgrom",
+            "year": "1996",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.2307/2951479",
+            "volume": "62",
+            "author": "Milgrom",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200747-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "2333",
+            "DOI": "10.3982/ECTA9869",
+            "volume": "80",
+            "author": "Quah",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200747-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "517",
+            "DOI": "10.2307/2297284",
+            "volume": "49",
+            "author": "Rotemberg",
+            "year": "1982",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200747-bib-0036",
+            "volume-title": "Foundations of Economic Analysis",
+            "author": "Samuelson",
+            "year": "1947"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200747-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "508",
+            "DOI": "10.1086/339746",
+            "volume": "110",
+            "author": "Thomas",
+            "year": "2002",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "DOI": "10.2307/1991374",
+            "volume": "1",
+            "author": "Tobin",
+            "year": "1969",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "ecta200747-bib-0039",
+            "volume-title": "Supermodularity and Complementarity",
+            "author": "Topkis",
+            "year": "1998"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200747-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "364",
+            "DOI": "10.1257/aer.20161723",
+            "volume": "111",
+            "author": "Winberry",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:39:50Z",
+        "timestamp": 1743079190000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22841"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22841"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22841",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

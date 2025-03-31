@@ -1,0 +1,674 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T13:10:03Z",
+        "timestamp": 1743081003302,
+        "version": "3.40.3"
+    },
+    "reference-count": 49,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001691",
+            "name": "Japan Society for the Promotion of Science",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100001691",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose a double robust Bayesian inference procedure on the average treatment effect (ATE) under unconfoundedness. For our new Bayesian approach, we first adjust the prior distributions of the conditional mean functions, and then correct the posterior distribution of the resulting ATE. Both adjustments make use of pilot estimators motivated by the semiparametric influence function for ATE estimation. We prove asymptotic equivalence of our Bayesian procedure and efficient frequentist ATE estimators by establishing a new semiparametric Bernstein\u2013von Mises theorem under double robustness; that is, the lack of smoothness of conditional mean functions can be compensated by high regularity of the propensity score and vice versa. Consequently, the resulting Bayesian credible sets form confidence intervals with asymptotically exact coverage probability. In simulations, our method provides precise point estimates of the ATE through the posterior mean and delivers credible intervals that closely align with the nominal coverage probability. Furthermore, our approach achieves a shorter interval length in comparison to existing methods. We illustrate our method in an application to the National Supported Work Demonstration following LaLonde (1986) and Dehejia and Wahba (1999).</jats:p>",
+    "DOI": "10.3982/ecta21442",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:13:54Z",
+        "timestamp": 1743077634000
+    },
+    "page": "539-568",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Double Robust Bayesian Inference on Average Treatment Effects"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Christoph",
+            "family": "Breunig",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Bonn"
+                }
+            ]
+        },
+        {
+            "given": "Ruixuan",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CUHK Business School, Chinese University of Hong Kong"
+                }
+            ]
+        },
+        {
+            "given": "Zhengfei",
+            "family": "Yu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Faculty of Humanities and Social Sciences, University of Tsukuba"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1198/jbes.2009.07333",
+            "volume": "29",
+            "author": "Abadie",
+            "year": "2011",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200750-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.3982/ECTA18678",
+            "volume": "90",
+            "author": "Andrews",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200750-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1141",
+            "DOI": "10.3982/ECTA16907",
+            "volume": "89",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200750-bib-0004",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jeconom.2020.09.013",
+            "volume": "240",
+            "author": "Athey",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "863",
+            "DOI": "10.1093/biomet/asx053",
+            "volume": "104",
+            "author": "Benkeser",
+            "year": "2017",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200750-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Breunig, Christoph, Ruixuan Liu, and Zhengfei Yu (2025): \u201cSupplement to \u2018Double Robust Bayesian Inference on Average Treatment Effects\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA21442.",
+            "DOI": "10.3982/ECTA21442"
+        },
+        {
+            "key": "ecta200750-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1007/s00440-010-0316-5",
+            "volume": "152",
+            "author": "Castillo",
+            "year": "2012",
+            "journal-title": "Probability Theory and Related Fields"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200750-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "2353",
+            "DOI": "10.1214/15-AOS1336",
+            "volume": "43",
+            "author": "Castillo",
+            "year": "2015",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "12",
+            "DOI": "10.1198/073500102288618711",
+            "volume": "21",
+            "author": "Chamberlain",
+            "year": "2003",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200750-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1965",
+            "DOI": "10.3982/ECTA14525",
+            "volume": "86",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200750-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "808",
+            "DOI": "10.1214/009053607000000947",
+            "volume": "36",
+            "author": "Chen",
+            "year": "2008",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200750-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1257/aer.p20171038",
+            "volume": "107",
+            "author": "Chernozhukov",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200750-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.3982/ECTA18515",
+            "volume": "90",
+            "author": "Chernozhukov",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200750-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "576",
+            "DOI": "10.1093/ectj/utac002",
+            "volume": "25",
+            "author": "Chernozhukov",
+            "year": "2022",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1093/biomet/asn055",
+            "volume": "96",
+            "author": "Crump",
+            "year": "2009",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "448",
+            "key": "ecta200750-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1080/01621459.1999.10473858",
+            "volume": "94",
+            "author": "Dehejia",
+            "year": "1999",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.06.017",
+            "volume": "189",
+            "author": "Farrell",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.3982/ECTA16901",
+            "volume": "89",
+            "author": "Farrell",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.18637/jss.v033.i01",
+            "volume": "33",
+            "author": "Friedman",
+            "year": "2010",
+            "journal-title": "Journal of Statistical Software"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200750-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "2413",
+            "DOI": "10.1214/009053606000000795",
+            "volume": "34",
+            "author": "Ghosal",
+            "year": "2006",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200750-bib-0022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781139029834",
+            "volume-title": "Fundamentals of Nonparametric Bayesian Inference",
+            "volume": "44",
+            "author": "Ghosal",
+            "year": "2017"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1519",
+            "DOI": "10.3982/ECTA16773",
+            "volume": "89",
+            "author": "Giacomini",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200750-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.2307/2998560",
+            "volume": "66",
+            "author": "Hahn",
+            "year": "1998",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200750-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "2642",
+            "DOI": "10.1214/21-AOS2049",
+            "volume": "49",
+            "author": "Han",
+            "year": "2021",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1161",
+            "DOI": "10.1111/1468-0262.00442",
+            "volume": "71",
+            "author": "Hirano",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1162/003465304323023651",
+            "volume": "86",
+            "author": "Imbens",
+            "year": "2004",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200750-bib-0028",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781139025751",
+            "volume-title": "Causal Inference in Statistics, Social, and Biomedical Sciences",
+            "author": "Imbens",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200750-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1016/j.jpubeco.2018.09.002",
+            "volume": "167",
+            "author": "Kasy",
+            "year": "2018",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0030",
+            "first-page": "604",
+            "volume": "76",
+            "author": "LaLonde",
+            "year": "1986",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200750-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1016/j.jspi.2022.12.005",
+            "volume": "225",
+            "author": "Luo",
+            "year": "2023",
+            "journal-title": "Journal of Statistical Planning and Inference"
+        },
+        {
+            "volume-title": "Probabilistic Machine Learning: Advanced Topics",
+            "year": "2023",
+            "author": "Murphy",
+            "key": "ecta200750-bib-0032"
+        },
+        {
+            "volume-title": "Gaussian Processes for Machine Learning",
+            "year": "2006",
+            "author": "Rassmusen",
+            "key": "ecta200750-bib-0033"
+        },
+        {
+            "key": "ecta200750-bib-0034",
+            "unstructured": "Ray, Kolyan, and Botond Szab\u00f3 (2019): \u201cDebiased Bayesian Inference for Average Treatment Effects,\u201d Advances in Neural Information Processing Systems, 32."
+        },
+        {
+            "issue": "5",
+            "key": "ecta200750-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "2999",
+            "DOI": "10.1214/19-AOS1919",
+            "volume": "48",
+            "author": "Ray",
+            "year": "2020",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1214/14-STS483",
+            "volume": "29",
+            "author": "Ritov",
+            "year": "2014",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200750-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1002/(SICI)1097-0258(19970215)16:3<285::AID-SIM535>3.0.CO;2-#",
+            "volume": "16",
+            "author": "Robins",
+            "year": "1997",
+            "journal-title": "Statistics in Medicine"
+        },
+        {
+            "issue": "429",
+            "key": "ecta200750-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1080/01621459.1995.10476494",
+            "volume": "90",
+            "author": "Robins",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "387",
+            "key": "ecta200750-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "516",
+            "DOI": "10.1080/01621459.1984.10478078",
+            "volume": "79",
+            "author": "Rosenbaum",
+            "year": "1984",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200750-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "130",
+            "DOI": "10.1214/aos/1176345338",
+            "volume": "9",
+            "author": "Rubin",
+            "year": "1981",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "1151",
+            "DOI": "10.1214/aos/1176346785",
+            "volume": "12",
+            "author": "Rubin",
+            "year": "1984",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200750-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "667",
+            "DOI": "10.1093/biomet/asw025",
+            "volume": "103",
+            "author": "Saarela",
+            "year": "2016",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200750-bib-0043",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4419-9782-1",
+            "volume-title": "Targeted Learning: Causal Inference for Observational and Experimental Data",
+            "author": "Laan",
+            "year": "2011"
+        },
+        {
+            "key": "ecta200750-bib-0044",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511802256",
+            "volume-title": "Asymptotic Statistics",
+            "author": "Vaart",
+            "year": "1998"
+        },
+        {
+            "key": "ecta200750-bib-0045",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4757-2545-2",
+            "volume-title": "Weak Convergence and Empirical Processes",
+            "author": "Vaart",
+            "year": "1996"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200750-bib-0046",
+            "first-page": "1435",
+            "volume": "36",
+            "author": "Vaart",
+            "year": "2008",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "5B",
+            "key": "ecta200750-bib-0047",
+            "first-page": "2655",
+            "volume": "37",
+            "author": "Vaart",
+            "year": "2009",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200750-bib-0048",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1137/1.9781611970128",
+            "volume-title": "Spline Models for Observational Data",
+            "author": "Wahba",
+            "year": "1990"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200750-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "857",
+            "DOI": "10.1093/biomet/asaa028",
+            "volume": "107",
+            "author": "Yiu",
+            "year": "2020",
+            "journal-title": "Biometrika"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:32:35Z",
+        "timestamp": 1743078755000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21442"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21442"
+    ],
+    "URL": "https://doi.org/10.3982/ecta21442",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0012-9682"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

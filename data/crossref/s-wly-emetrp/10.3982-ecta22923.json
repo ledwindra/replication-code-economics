@@ -1,0 +1,580 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:41:14Z",
+        "timestamp": 1743079274206,
+        "version": "3.40.3"
+    },
+    "reference-count": 42,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100006505",
+            "name": "Swiss Re",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100006505",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100001809",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose two general equilibrium models, quota equilibrium, and emission tax equilibrium. Government specifies quotas or taxes on emissions, and then refrains from further action. All results remain valid regardless of how government chooses its emissions target. Quota equilibrium exists; the allocation of emission property rights impacts the distribution of welfare. If the only externality arises from total net emissions, quota equilibrium is Pareto optimal among all feasible outcomes with the same total net emissions. For certain tax rates, emission tax equilibrium may not exist. Every quota equilibrium can be realized as an emission tax equilibrium and vice versa. However, different quota prices may arise in equilibrium from a single quota, and different emission levels may arise in equilibrium from a single tax rate. This leads to inequivalence between quota and emission tax equilibria.</jats:p>",
+    "DOI": "10.3982/ecta22923",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:13:54Z",
+        "timestamp": 1743077634000
+    },
+    "page": "357-393",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Cap\u2010and\u2010Trade and Carbon Tax Meet Arrow\u2013Debreu"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Robert M.",
+            "family": "Anderson",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Institute for Advanced Study in Mathematics, Harbin Institute of Technology"
+                },
+                {
+                    "name": "Department of Economics, University of California, Berkeley"
+                }
+            ]
+        },
+        {
+            "given": "Haosui",
+            "family": "Duanmu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Institute for Advanced Study in Mathematics, Harbin Institute of Technology"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200778-bib-0001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Anderson, Robert M., and Haosui Duanmu (2024): \u201cThe Second Welfare Theorem for Quota Equilibrium,\u201d Working Paper, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5075138.",
+            "DOI": "10.2139/ssrn.5075138"
+        },
+        {
+            "key": "ecta200778-bib-0002",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Anderson, Robert M., and Haosui Duanmu (2025): \u201cSupplement to \u2018Cap-and-Trade and Carbon Tax Meet Arrow\u2013Debreu\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA22923.",
+            "DOI": "10.3982/ECTA22923"
+        },
+        {
+            "key": "ecta200778-bib-0003",
+            "unstructured": "Anderson, Robert M., Haosui Duanmu, M. Ali Khan, and Metin Uyanik (2025): \u201cExistence of Equilibria in Large Competitive Markets With Bads, Production and Comprehensive Externalities,\u201d Working Paper, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5103253."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200778-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.2307/1907353",
+            "volume": "22",
+            "author": "Arrow",
+            "year": "1954",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200778-bib-0005",
+            "first-page": "1037",
+            "volume": "70",
+            "author": "Barnett",
+            "year": "1980",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "ecta200778-bib-0006",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jet.2023.105638",
+            "volume": "209",
+            "author": "Bonnisseau",
+            "year": "2023",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200778-bib-0007",
+            "first-page": "1085",
+            "volume": "84",
+            "author": "Bovenberg",
+            "year": "1994",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200778-bib-0008",
+            "first-page": "985",
+            "volume": "86",
+            "author": "Bovenberg",
+            "year": "1996",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200778-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1016/0047-2727(93)01398-T",
+            "volume": "55",
+            "author": "Bovenberg",
+            "year": "1994",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200778-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "799",
+            "DOI": "10.1111/j.1467-8276.2006.00899.x",
+            "volume": "88",
+            "author": "Ciaian",
+            "year": "2006",
+            "journal-title": "American Journal of Agricultural Economics"
+        },
+        {
+            "key": "ecta200778-bib-0011",
+            "series-title": "Cowles Foundation for Research in Economics at Yale University, Monograph",
+            "volume-title": "Theory of Value: An Axiomatic Analysis of Economic Equilibrium",
+            "volume": "17",
+            "author": "Debreu",
+            "year": "1959"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200778-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "387",
+            "DOI": "10.2307/1909545",
+            "volume": "38",
+            "author": "Debreu",
+            "year": "1970",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200778-bib-0013",
+            "volume": "209",
+            "author": "Mercato",
+            "year": "2023",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200778-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "287",
+            "DOI": "10.1007/s00199-016-1029-5",
+            "volume": "63",
+            "author": "Mercato",
+            "year": "2017",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200778-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.2307/2525813",
+            "volume": "16",
+            "author": "Dreze",
+            "year": "1975",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "ecta200778-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "S89",
+            "DOI": "10.1016/j.clipol.2003.09.015",
+            "volume": "3",
+            "author": "Fischer",
+            "year": "2003",
+            "journal-title": "Climate Policy"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200778-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "358",
+            "DOI": "10.3763/cpol.2009.0626",
+            "volume": "9",
+            "author": "Flachsland",
+            "year": "2009",
+            "journal-title": "Climate Policy"
+        },
+        {
+            "key": "ecta200778-bib-0018",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4757-5315-8",
+            "volume-title": "General Equilibrium Analysis: Existence and Optimality Properties of Equilibria",
+            "author": "Florenzano",
+            "year": "2003"
+        },
+        {
+            "key": "ecta200778-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.2307/1909241",
+            "volume": "38",
+            "author": "Foley",
+            "year": "1970",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200778-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/0304-4068(90)90039-C",
+            "volume": "19",
+            "author": "Geanakoplos",
+            "year": "1990",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200778-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "682",
+            "DOI": "10.1016/j.jmateco.2007.07.007",
+            "volume": "44",
+            "author": "Geanakoplos",
+            "year": "2008",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200778-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.3982/ECTA10217",
+            "volume": "82",
+            "author": "Golosov",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200778-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1142/S2010007813500103",
+            "volume": "4",
+            "author": "Goulder",
+            "year": "2013",
+            "journal-title": "Climate Change Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200778-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "898",
+            "DOI": "10.1086/375378",
+            "volume": "111",
+            "author": "Goulder",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200778-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1016/j.jpubeco.2019.04.002",
+            "volume": "175",
+            "author": "Goulder",
+            "year": "2019",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200778-bib-0026",
+            "first-page": "186",
+            "volume": "8",
+            "author": "Goulder",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200778-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "335",
+            "DOI": "10.1016/0304-4068(75)90001-4",
+            "volume": "2",
+            "author": "Hart",
+            "year": "1975",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "ecta200778-bib-0028",
+            "series-title": "Princeton Studies in Mathematical Economics",
+            "volume-title": "Core and Equilibria of a Large Economy",
+            "volume": "5",
+            "author": "Hildenbrand",
+            "year": "1974"
+        },
+        {
+            "journal-title": "Journal of the European Economic Association",
+            "year": "2024",
+            "author": "Karp",
+            "key": "ecta200778-bib-0029"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200778-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/iere.12483",
+            "volume": "62",
+            "author": "Kotlikoff",
+            "year": "2021",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "ecta200778-bib-0031",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kubler, Felix (2024): \u201cIncomplete Financial Markets, the Social Cost of Carbon and Constrained Efficient Carbon Pricing,\u201d Working paper, https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5070004.",
+            "DOI": "10.2139/ssrn.5070004"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200778-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.2307/1911439",
+            "volume": "46",
+            "author": "Laroque",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200778-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1016/0304-4068(81)90014-8",
+            "volume": "8",
+            "author": "Makarov",
+            "year": "1981",
+            "journal-title": "J. Math. Econom."
+        },
+        {
+            "volume-title": "Microeconomic Theory",
+            "year": "1995",
+            "author": "Mas-Colell",
+            "key": "ecta200778-bib-0034"
+        },
+        {
+            "key": "ecta200778-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "54",
+            "DOI": "10.2307/1907777",
+            "volume": "27",
+            "author": "McKenzie",
+            "year": "1959",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200778-bib-0036",
+            "series-title": "Cowles Foundation for Research in Economics at Yale University Monograph",
+            "volume-title": "The Efficient Use of Energy Resources",
+            "volume": "26",
+            "author": "Nordhaus",
+            "year": "1979"
+        },
+        {
+            "key": "ecta200778-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1518",
+            "DOI": "10.1073/pnas.1609244114",
+            "volume": "114",
+            "author": "Nordhaus",
+            "year": "2017",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200778-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "86",
+            "DOI": "10.2307/3439329",
+            "volume": "77",
+            "author": "Sandmo",
+            "year": "1975",
+            "journal-title": "The Swedish Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200778-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "601",
+            "DOI": "10.2307/2525791",
+            "volume": "17",
+            "author": "Shafer",
+            "year": "1976",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200778-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.1016/0022-0531(72)90148-2",
+            "volume": "4",
+            "author": "Starrett",
+            "year": "1972",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200778-bib-0041",
+            "unstructured": "Stavins, Robert N. (2019): \u201cCarbon Taxes vs Cap and Trade: Theory and Practice,\u201d Harvard Project on Climate Agreements Discussion Paper ES 2019-9."
+        },
+        {
+            "key": "ecta200778-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.2307/2296698",
+            "volume": "41",
+            "author": "Weitzman",
+            "year": "1974",
+            "journal-title": "The Review of Economic Studies"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2025-03-27T12:16:41Z",
+        "timestamp": 1743077801000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22923"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22923"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22923",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0012-9682"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}
