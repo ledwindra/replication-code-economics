@@ -1,0 +1,590 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                7
+            ]
+        ],
+        "date-time": "2025-03-07T05:23:53Z",
+        "timestamp": 1741325033199,
+        "version": "3.38.0"
+    },
+    "reference-count": 38,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        9
+                    ]
+                ],
+                "date-time": "2024-04-09T00:00:00Z",
+                "timestamp": 1712620800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We present a novel algorithm called Dynamic Perturbation for solving large-scale macroeconomic models. Our approach involves computing first-order Taylor expansions of the policy functions along the entire equilibrium path. This method applies to a wide range of models and offers significantly higher accuracy than traditional perturbation approaches. Remarkably, even when utilising first-order approximations, our method can effectively handle models with strong nonlinearities and occasionally binding constraints, such as the zero lower bound.</jats:p>",
+    "DOI": "10.1093/restud/rdae037",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                9
+            ]
+        ],
+        "date-time": "2024-04-09T20:18:50Z",
+        "timestamp": 1712693930000
+    },
+    "page": "1157-1192",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Dynamic Perturbation"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Alessandro",
+            "family": "Mennuni",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Southampton ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Juan F",
+            "family": "Rubio-Ram\u00edrez",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Emory University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Serhiy",
+            "family": "Stepanchuk",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Southampton ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "year": "2011",
+            "author": "Adjemian",
+            "key": "2025030619564802000_rdae037-B1"
+        },
+        {
+            "year": "2013",
+            "author": "Adjemian",
+            "key": "2025030619564802000_rdae037-B2"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "468",
+            "DOI": "10.1016/j.jedc.2011.11.007",
+            "article-title": "Small Noise Methods for Risk-Sensitive/robust Economies",
+            "volume": "36",
+            "author": "Anderson",
+            "year": "2012",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1093/restud/rdx027",
+            "article-title": "Macroeconomic Dynamics near the ZLB: A Tale of two Countries",
+            "volume": "85",
+            "author": "Aruoba",
+            "year": "2018",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jmoneco.2022.01.003",
+            "article-title": "The Unbearable Lightness of Equilibria in a Low Interest Rate Environment",
+            "volume": "127",
+            "author": "Ascari",
+            "year": "2022",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "2375",
+            "DOI": "10.3982/ECTA17434",
+            "article-title": "Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models",
+            "volume": "89",
+            "author": "Auclert",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "823",
+            "DOI": "10.1162/qjec.121.3.823",
+            "article-title": "Rare Disasters and Asset Markets in the Twentieth Century",
+            "volume": "121",
+            "author": "Barro",
+            "year": "2006",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "year": "2021",
+            "author": "Bertsekas",
+            "key": "2025030619564802000_rdae037-B8"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1305",
+            "DOI": "10.2307/1912186",
+            "article-title": "The Solution of Linear Difference Models Under Rational Expectations",
+            "volume": "48",
+            "author": "Blanchard",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "68",
+            "DOI": "10.1016/j.jedc.2018.01.002",
+            "article-title": "Exploiting mit Shocks in Heterogeneous-Agent Economies: The Impulse Response as a Numerical Derivative",
+            "volume": "89",
+            "author": "Boppart",
+            "year": "2018",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1575",
+            "DOI": "10.3982/ECTA12216",
+            "article-title": "Using Adaptive Sparse Grids to Solve High-Dimensional Dynamic Models",
+            "volume": "85",
+            "author": "Brumm",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1016/j.jedc.2010.09.010",
+            "article-title": "Computational Suite of Models with Heterogeneous Agents II: Multi-Country Real Business Cycle Models",
+            "volume": "35",
+            "author": "Den Haan",
+            "year": "2011",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "year": "2016",
+            "author": "Den Haan",
+            "key": "2025030619564802000_rdae037-B13"
+        },
+        {
+            "year": "2017",
+            "author": "Evans",
+            "key": "2025030619564802000_rdae037-B14"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1169",
+            "DOI": "10.2307/1912057",
+            "article-title": "Solution and Maximum Likelihood Estimation of Dynamic Nonlinear Rational Expectations Models",
+            "volume": "51",
+            "author": "Fair",
+            "year": "1983",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1016/j.jedc.2015.05.014",
+            "article-title": "Nonlinear Adventures at the Zero Lower Bound",
+            "volume": "57",
+            "author": "Fernandez-Villaverde",
+            "year": "2015",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "903",
+            "DOI": "10.3982/QE744",
+            "article-title": "Solution Methods for Models with Rare Disasters",
+            "volume": "9",
+            "author": "Fernandez-Villaverde",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "406",
+            "DOI": "10.1257/aer.101.3.406",
+            "article-title": "Disasterization: A Simple way to Fix the Asset Pricing Properties of Macroeconomic Models",
+            "volume": "101",
+            "author": "Gabaix",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "604",
+            "DOI": "10.1016/j.jedc.2010.10.006",
+            "article-title": "Second-order Approximation of Dynamic Models Without the Use of Tensors",
+            "volume": "35",
+            "author": "Gomme",
+            "year": "2011",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.1016/j.jedc.2015.08.010",
+            "article-title": "Using Nonlinear Model Predictive Control for Dynamic Decision Problems in Economics",
+            "volume": "60",
+            "author": "Gr\u00fcne",
+            "year": "2015",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "22",
+            "DOI": "10.1016/j.jmoneco.2014.08.005",
+            "article-title": "OccBin: A Toolkit for Solving Dynamic Models with Occasionally Binding Constraints Easily",
+            "volume": "70",
+            "author": "Guerrieri",
+            "year": "2015",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "2734",
+            "DOI": "10.1257/aer.102.6.2734",
+            "article-title": "Disaster Risk and Business Cycles",
+            "volume": "102",
+            "author": "Gurio",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "Dynamic General Equilibrium Modelling: Computational Methods and Applications",
+            "year": "2005",
+            "author": "Heer",
+            "key": "2025030619564802000_rdae037-B23"
+        },
+        {
+            "volume-title": "Numerical Methods in Economics, Vol. 1 of MIT Press Books",
+            "year": "1998",
+            "author": "Judd",
+            "key": "2025030619564802000_rdae037-B24"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "92",
+            "DOI": "10.1016/j.jedc.2014.03.003",
+            "article-title": "Smolyak Method for Solving Dynamic Economic Models: Lagrange Interpolation, Anisotropic Grid and Adaptive Domain",
+            "volume": "44",
+            "author": "Judd",
+            "year": "2014",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1405",
+            "DOI": "10.1016/S0165-1889(99)00045-7",
+            "article-title": "Using the Generalized Schur Form to Solve a Multivariate Linear Rational Expectations Model",
+            "volume": "24",
+            "author": "Klein",
+            "year": "2000",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "84519",
+            "DOI": "10.1109/ACCESS.2020.2991966",
+            "article-title": "Using Neural Networks for Fast Numerical Integration and Optimization",
+            "volume": "8",
+            "author": "Lloyd",
+            "year": "2020",
+            "journal-title": "IEEE Access"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE364",
+            "article-title": "Merging Simulation and Projection Approaches to Solve High-Dimensional Problems with an Application to a new Keynesian Model",
+            "volume": "6",
+            "author": "Maliar",
+            "year": "2015",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1289",
+            "DOI": "10.3982/QE1360",
+            "article-title": "A Tractable Framework for Analyzing a Class of Nonstationary Markov Models",
+            "volume": "11",
+            "author": "Maliar",
+            "year": "2020",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "year": "2011",
+            "author": "Mendes",
+            "key": "2025030619564802000_rdae037-B30"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/j.euroecorev.2019.03.007",
+            "article-title": "The Aggregate Implications of Changes in the Labour Force Composition",
+            "volume": "116",
+            "author": "Mennuni",
+            "year": "2019",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1287/moor.4.1.60",
+            "article-title": "On the Convergence of Policy Iteration in Stationary Dynamic Programming",
+            "volume": "1",
+            "author": "Puterman",
+            "year": "1979",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B33",
+            "volume-title": "Model Predictive Control: Theory, Computation, and Design",
+            "author": "Rawlings",
+            "year": "2019",
+            "edition": "2nd"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2094",
+            "DOI": "10.1137/S0363012902399824",
+            "article-title": "Convergence Properties of Policy Iteration",
+            "volume": "6",
+            "author": "Santos",
+            "year": "2004",
+            "journal-title": "SIAM Journal on Control and Optimization"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "755",
+            "DOI": "10.1016/S0165-1889(03)00043-5",
+            "article-title": "Solving Dynamic General Equilibrium Models Using a Second-Order Approximation to the Policy Function",
+            "volume": "28",
+            "author": "Schmitt-Grohe",
+            "year": "2004",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "volume-title": "A First Look at Perturbation Theory",
+            "year": "1998",
+            "author": "Simmonds",
+            "key": "2025030619564802000_rdae037-B36"
+        },
+        {
+            "key": "2025030619564802000_rdae037-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1023/A:1020517101123",
+            "article-title": "Solving Linear Rational Expectations Models",
+            "volume": "20",
+            "author": "Sims",
+            "year": "2002",
+            "journal-title": "Computational Economics"
+        },
+        {
+            "year": "2001",
+            "author": "Uhlig",
+            "key": "2025030619564802000_rdae037-B38"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae037/57334075/rdae037.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/2/1157/57334075/rdae037.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/2/1157/57334075/rdae037.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                6
+            ]
+        ],
+        "date-time": "2025-03-06T19:57:51Z",
+        "timestamp": 1741291071000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/2/1157/7642916"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                9
+            ]
+        ]
+    },
+    "references-count": 38,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae037",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                9
+            ]
+        ]
+    }
+}

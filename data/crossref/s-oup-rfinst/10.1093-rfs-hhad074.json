@@ -1,0 +1,553 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                17
+            ]
+        ],
+        "date-time": "2025-02-17T08:10:18Z",
+        "timestamp": 1739779818054,
+        "version": "3.37.1"
+    },
+    "reference-count": 37,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        19
+                    ]
+                ],
+                "date-time": "2023-09-19T00:00:00Z",
+                "timestamp": 1695081600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We show current market practices relating to odd-lot quotes create a large \u201cinside\u201d market where better prices routinely exist relative to the National Best Bid or Offer. We show that odd-lot quotes play a price discovery role, and these quotes provide valuable information to traders with access to proprietary data feeds. Using a XGBoost machine learning algorithm that uses odd-lot data to predict future prices, we demonstrate a simple and profitable trading strategy. We argue the SEC\u2019s proposed round-lot redefinition reduces\u2014but does not eliminate\u2014the high incidence of superior odd-lot quotes within the NBBO.</jats:p>",
+    "DOI": "10.1093/rfs/hhad074",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                15
+            ]
+        ],
+        "date-time": "2023-09-15T21:43:29Z",
+        "timestamp": 1694814209000
+    },
+    "page": "661-711",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "The Market Inside the Market: Odd-Lot Quotes"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Robert P",
+            "family": "Bartlett",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford Law School, Stanford University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Justin",
+            "family": "McCrary",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia University Law School and National Bureau of Economic Research (NBER) ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Maureen",
+            "family": "O\u2019Hara",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Johnson College of Business, Cornell University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                19
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "year": "2021",
+            "author": "Bartlett",
+            "key": "2025021707520277800_hhad074-B1"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1016/j.finmar.2019.06.003",
+            "article-title": "How rigged are stock markets? Evidence from microsecond timestamps",
+            "volume": "45",
+            "author": "Bartlett",
+            "year": "2019",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1111/jels.12252",
+            "article-title": "Subsidizing liquidity with wider ticks: Evidence from the Tick Size Pilot Study",
+            "volume": "17",
+            "author": "Bartlett",
+            "year": "2020",
+            "journal-title": "Journal of Empirical Legal Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "2193",
+            "DOI": "10.1111/jofi.12422",
+            "article-title": "Can brokers have it all? The relation between maker-taker and limit order execution quality",
+            "volume": "71",
+            "author": "Battalio",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B5",
+            "article-title": "Unrecognized odd lot liquidity supply: A hidden trading cost for high priced stocks",
+            "author": "Battalio",
+            "year": "2017",
+            "journal-title": "Journal of Trading Winter:35\u201341"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "3407",
+            "DOI": "10.1093/rfs/hhv045",
+            "article-title": "Trading fast and slow: Colocation and liquidity",
+            "volume": "28",
+            "author": "Brogaard",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B7",
+            "first-page": "3818",
+            "article-title": "Tick size, trading strategies and market quality",
+            "volume": "69",
+            "author": "Buti",
+            "year": "2022",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "148",
+            "DOI": "10.1287/mnsc.2013.1735",
+            "article-title": "Sale of price information in exchanges: Does it promote price discover?",
+            "volume": "60",
+            "author": "Cespa",
+            "year": "2014",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1018",
+            "DOI": "10.1093/rfs/hhy073",
+            "article-title": "Why discrete price fragments U.S. stock exchanges and disperses their fee structures",
+            "volume": "32",
+            "author": "Chao",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "785",
+            "DOI": "10.1145/2939672.2939785",
+            "volume-title": "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+            "author": "Chen",
+            "year": "2016"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1111/jofi.12733",
+            "article-title": "Sparse signals in the cross-section of returns",
+            "volume": "74",
+            "author": "Chinco",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "100902",
+            "DOI": "10.1016/j.finmar.2020.100602",
+            "article-title": "Broker routing decisions in limit order markets",
+            "volume": "54",
+            "author": "Cimon",
+            "year": "2021",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "year": "2020",
+            "author": "D\u2019Antona",
+            "key": "2025021707520277800_hhad074-B13"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "3316",
+            "DOI": "10.1093/rfs/hhaa078",
+            "article-title": "Microstructure in the machine age",
+            "volume": "34",
+            "author": "Easley",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1071",
+            "DOI": "10.1017/S0022109016000491",
+            "article-title": "Differential access to price information in financial markets",
+            "volume": "51",
+            "author": "Easley",
+            "year": "2016",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "3226",
+            "DOI": "10.1093/rfs/hhab050",
+            "article-title": "Selecting directors using machine learning",
+            "volume": "34",
+            "author": "Eril",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "3213",
+            "DOI": "10.1093/rfs/hhab038",
+            "article-title": "Big data in finance",
+            "volume": "34",
+            "author": "Goldstein",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "314",
+            "DOI": "10.1016/j.jfineco.2021.04.018",
+            "article-title": "Bias in the effective bid-ask spread",
+            "volume": "142",
+            "author": "Hagstromer",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2020",
+            "author": "Li",
+            "key": "2025021707520277800_hhad074-B20"
+        },
+        {
+            "year": "2023",
+            "author": "Li",
+            "key": "2025021707520277800_hhad074-B21"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1162/rest.88.3.549",
+            "article-title": "Interpretation of regressions with multiple proxies",
+            "volume": "88",
+            "author": "Lubotsky",
+            "year": "2006",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "year": "2017",
+            "author": "Lundberg",
+            "key": "2025021707520277800_hhad074-B23"
+        },
+        {
+            "year": "2019",
+            "author": "Mackintosh",
+            "key": "2025021707520277800_hhad074-B24"
+        },
+        {
+            "year": "2013",
+            "author": "Milstead",
+            "key": "2025021707520277800_hhad074-B25"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1257/jep.31.2.87",
+            "article-title": "Machine learning: An applied econometric approach",
+            "volume": "31",
+            "author": "Mullainathan",
+            "year": "2017",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "year": "2020",
+            "author": "Nasdaq",
+            "key": "2025021707520277800_hhad074-B27"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B28",
+            "first-page": "47",
+            "article-title": "Relative tick size and the trading environment",
+            "author": "O\u2019Hara",
+            "year": "2018",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "2199",
+            "DOI": "10.1111/jofi.12185",
+            "article-title": "What\u2019s not there: Odd lots and market data",
+            "volume": "69",
+            "author": "O\u2019Hara",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "414",
+            "DOI": "10.1016/j.jeconom.2019.10.002",
+            "article-title": "Estimating permanent price impact via machine learning",
+            "volume": "215",
+            "author": "Philip",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2020",
+            "author": "Rossi",
+            "key": "2025021707520277800_hhad074-B31"
+        },
+        {
+            "year": "2020",
+            "author": "SEC",
+            "key": "2025021707520277800_hhad074-B32"
+        },
+        {
+            "year": "2020",
+            "author": "SEC",
+            "key": "2025021707520277800_hhad074-B33"
+        },
+        {
+            "year": "2020",
+            "author": "SEC",
+            "key": "2025021707520277800_hhad074-B34"
+        },
+        {
+            "year": "2022",
+            "author": "SEC",
+            "key": "2025021707520277800_hhad074-B35"
+        },
+        {
+            "year": "2018",
+            "author": "SIFMA",
+            "key": "2025021707520277800_hhad074-B36"
+        },
+        {
+            "key": "2025021707520277800_hhad074-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1257/jep.23.2.121",
+            "article-title": "Nominal share price puzzle",
+            "volume": "23",
+            "author": "Weld",
+            "year": "2020",
+            "journal-title": "Journal of Economic Perspectives"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhad074/52609306/hhad074.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/3/661/52609306/hhad074.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/3/661/52609306/hhad074.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                17
+            ]
+        ],
+        "date-time": "2025-02-17T07:52:42Z",
+        "timestamp": 1739778762000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/3/661/7277209"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                19
+            ]
+        ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2023,
+                    9,
+                    19
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhad074",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2023,
+                9,
+                19
+            ]
+        ]
+    }
+}

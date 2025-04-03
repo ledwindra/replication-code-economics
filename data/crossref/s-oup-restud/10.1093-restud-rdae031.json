@@ -1,0 +1,799 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                7
+            ]
+        ],
+        "date-time": "2025-03-07T05:23:51Z",
+        "timestamp": 1741325031423,
+        "version": "3.38.0"
+    },
+    "reference-count": 66,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        29
+                    ]
+                ],
+                "date-time": "2024-03-29T00:00:00Z",
+                "timestamp": 1711670400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We study demand estimation in a large auction market. In our model, a dynamically evolving population of buyers with unit demand and heterogeneous and privately known preferences for a finite set of differentiated products compete in a sequence of auctions that occur in discrete time. We define an empirically tractable equilibrium concept in which bidders behave as though they are competing with the stationary distribution of opposing bids, characterize bidding strategies, and prove existence of equilibrium. Having developed this demand system, we prove that it is non-parametrically identified from panel data. We extend the model to consider a random coefficients demand system akin to workhorse demand models in industrial organization, and show that this too is non-parametrically identified. We apply the model to estimate demand and show how large sellers can exercise market power by using persistent reserve price policies, which induce higher bids and, therefore, revenues. Our analysis highlights the importance of both dynamic bidding strategies and panel data sample selection issues when analysing these markets.</jats:p>",
+    "DOI": "10.1093/restud/rdae031",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2024-03-27T18:41:15Z",
+        "timestamp": 1711564875000
+    },
+    "page": "837-872",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Dynamic Demand Estimation in Auction Markets"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Matthew",
+            "family": "Backus",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "UC Berkeley, CEPR, and NBER ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Greg",
+            "family": "Lewis",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "UC Berkeley, CEPR, and NBER ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025030619564489500_rdae031-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "343",
+            "DOI": "10.1007/s11129-009-9074-z",
+            "article-title": "A new use of Importance Sampling to Reduce Computational Burden in Simulation Estimation",
+            "volume": "7",
+            "author": "Ackerberg",
+            "year": "2009",
+            "journal-title": "Quantitative Marketing and Economics"
+        },
+        {
+            "year": "2012",
+            "author": "Adams",
+            "key": "2025030619564489500_rdae031-B2"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.1468-0262.2007.00731.x",
+            "article-title": "Sequential Estimation of Dynamic Discrete Games",
+            "volume": "75",
+            "author": "Aguirregabiria",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2007",
+            "author": "Athey",
+            "key": "2025030619564489500_rdae031-B4"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1319",
+            "DOI": "10.1093/qje/qjaa003",
+            "article-title": "Sequential Bargaining in the Field: Evidence from Millions of Online Bargaining Interactions",
+            "volume": "135",
+            "author": "Backus",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "year": "2015",
+            "author": "Backus",
+            "key": "2025030619564489500_rdae031-B6"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1599",
+            "DOI": "10.1086/701699",
+            "article-title": "On the Empirical Content of Cheap-Talk Signaling: An Application to Bargaining",
+            "volume": "127",
+            "author": "Backus",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "year": "2010",
+            "author": "Backus",
+            "key": "2025030619564489500_rdae031-B8"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1331",
+            "DOI": "10.1111/j.1468-0262.2007.00796.x",
+            "article-title": "Estimating Dynamic Models of Imperfect Competition",
+            "volume": "75",
+            "author": "Bajari",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "457",
+            "DOI": "10.1257/0022051041409075",
+            "article-title": "Economic Insights from Internet Auctions",
+            "volume": "42",
+            "author": "Bajari",
+            "year": "2004",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "242",
+            "DOI": "10.2307/2555829",
+            "article-title": "Estimating Discrete Choice Models of Product Differentiation",
+            "volume": "25",
+            "author": "Berry",
+            "year": "1994",
+            "journal-title": "Rand Journal of Economics"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "article-title": "Automobile Prices in Market Equilibrium",
+            "volume": "63",
+            "author": "Berry",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1193",
+            "DOI": "10.1111/j.1468-2354.2007.00459.x",
+            "article-title": "The Pure Characteristics Demand Model",
+            "volume": "48",
+            "author": "Berry",
+            "year": "2007",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "DOI": "10.1214/aoms/1177700285",
+            "article-title": "Discounted Dynamic Programming",
+            "volume": "36",
+            "author": "Blackwell",
+            "year": "1965",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "year": "2013",
+            "author": "Bodoh-Creed",
+            "key": "2025030619564489500_rdae031-B15"
+        },
+        {
+            "year": "2017",
+            "author": "Bodoh-Creed",
+            "key": "2025030619564489500_rdae031-B16"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "367",
+            "DOI": "10.1016/0191-2607(80)90055-2",
+            "article-title": "The Effect of Fuel Economy Standards on the U.S. Automotive Market: An Hedonic Demand Analysis",
+            "volume": "14",
+            "author": "Boyd",
+            "year": "1980",
+            "journal-title": "Tranportation Research Part A: General"
+        },
+        {
+            "year": "2008",
+            "author": "Budish",
+            "key": "2025030619564489500_rdae031-B18"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "423",
+            "DOI": "10.1016/0191-2607(80)90060-6",
+            "article-title": "Measuring the Societal Impacts of Automobile Downsizing",
+            "volume": "14",
+            "author": "Cardell",
+            "year": "1980",
+            "journal-title": "Transportation Research Part A: General"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1111/j.1467-9868.2004.00430.x",
+            "article-title": "Low Order Approximations in Deconvolution and Regression with Errors in Variables",
+            "volume": "66",
+            "author": "Carroll",
+            "year": "2004",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "3748",
+            "DOI": "10.1257/aer.20190460",
+            "article-title": "A Theory of Bidding Dynamics and Deadlines in Online Retail",
+            "volume": "110",
+            "author": "Coey",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "391",
+            "DOI": "10.1111/iere.12274",
+            "article-title": "Comparing Public Procurement Auctions",
+            "volume": "59",
+            "author": "Decarolis",
+            "year": "2018",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "year": "2016",
+            "author": "Einav",
+            "key": "2025030619564489500_rdae031-B23"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "925",
+            "DOI": "10.1017/S0266466611000831",
+            "article-title": "Some Extensions of a Lemma of Kotlarski",
+            "volume": "28",
+            "author": "Evdokimov",
+            "year": "2012",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1611",
+            "DOI": "10.1093/qje/qjs025",
+            "article-title": "Dynamic Games with Asymmetric Information: A Framework for Empirical Work",
+            "volume": "127",
+            "author": "Fershtman",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA10293",
+            "article-title": "Identification in Auctions with Selective Entry",
+            "volume": "82",
+            "author": "Gentry",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1141",
+            "DOI": "10.1086/664615",
+            "article-title": "Does AMD Spur Intel to Innovate More?",
+            "volume": "119",
+            "author": "Goettler",
+            "year": "2011",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1173",
+            "DOI": "10.1086/669540",
+            "article-title": "Dynamics of Consumer Demand for New Durable Goods",
+            "volume": "120",
+            "author": "Gowrisankaran",
+            "year": "2012",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1129",
+            "DOI": "10.1111/iere.12085",
+            "article-title": "A Study of Participation in Dynamic Auctions",
+            "volume": "55",
+            "author": "Groeger",
+            "year": "2014",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "525",
+            "DOI": "10.1111/1468-0262.00123",
+            "article-title": "Optimal Nonparametric Estimation of First-Price Auctions",
+            "volume": "68",
+            "author": "Guerre",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2003",
+            "author": "Haile",
+            "key": "2025030619564489500_rdae031-B31"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/344801",
+            "article-title": "Inference with an Incomplete Model of English Auctions",
+            "volume": "111",
+            "author": "Haile",
+            "year": "2003",
+            "journal-title": "The Journal of Political Economy"
+        },
+        {
+            "year": "2007",
+            "author": "Hendricks",
+            "key": "2025030619564489500_rdae031-B33"
+        },
+        {
+            "year": "2021",
+            "author": "Hendricks",
+            "key": "2025030619564489500_rdae031-B34"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.3982/QE233",
+            "article-title": "Identification and Estimation of a Bidding Model for Electronic Auctions",
+            "volume": "8",
+            "author": "Hickman",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "year": "2009",
+            "author": "Ingster",
+            "key": "2025030619564489500_rdae031-B36"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2949",
+            "DOI": "10.1287/mnsc.2014.2018",
+            "article-title": "Mean Field Equilibria of Dynamic Auctions with Learning",
+            "volume": "60",
+            "author": "Iyer",
+            "year": "2014",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1443",
+            "DOI": "10.1111/1468-0262.00455",
+            "article-title": "Estimation of a Dynamic Auction Game",
+            "volume": "71",
+            "author": "Jofre-Bonet",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1111/1368-423X.t01-1-00115",
+            "article-title": "Standard Error Correction in Two-Stage Estimation with Nested Samples",
+            "volume": "6",
+            "author": "Karaca-Mandic",
+            "year": "2003",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1913641",
+            "article-title": "Bayesian Estimates of Equation System Parameters: An Application of Integration by Monte Carlo",
+            "volume": "46",
+            "author": "Kloek",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.2140/pjm.1967.20.69",
+            "article-title": "On Characterizing the Gamma and the Normal Distribution",
+            "volume": "20",
+            "author": "Kotlarski",
+            "year": "1967",
+            "journal-title": "Pacific Journal of Mathematics"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "293",
+            "DOI": "10.1093/restud/rdq004",
+            "article-title": "Identification and Estimation in Highway Procurement Auctions under Unobserved Auction Heterogeneity",
+            "volume": "71",
+            "author": "Krasnokutskaya",
+            "year": "2011",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "year": "2014",
+            "author": "Krasnokutskaya",
+            "key": "2025030619564489500_rdae031-B43"
+        },
+        {
+            "year": "2016",
+            "author": "Krasnokutskaya",
+            "key": "2025030619564489500_rdae031-B44"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "867",
+            "DOI": "10.1086/250034",
+            "article-title": "Income and Wealth Heterogeneity in the Macroeconomy",
+            "volume": "106",
+            "author": "Krusell",
+            "year": "1998",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "year": "2007",
+            "author": "Lewis",
+            "key": "2025030619564489500_rdae031-B46"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1173",
+            "DOI": "10.1093/qje/qjr026",
+            "article-title": "Procurement Contracting with Time Incentives: Theory and Evidence",
+            "volume": "126",
+            "author": "Lewis",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "year": "2018",
+            "author": "Marra",
+            "key": "2025030619564489500_rdae031-B48"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1281",
+            "DOI": "10.2307/2951643",
+            "article-title": "Mechanism Design by Competing Sellers",
+            "volume": "61",
+            "author": "McAfee",
+            "year": "1993",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "88",
+            "DOI": "10.1198/073500102753410417",
+            "article-title": "Estimation and Inference in Two-Step Econometric Models",
+            "volume": "20",
+            "author": "Murphy",
+            "year": "2002",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1287/moor.6.1.58",
+            "article-title": "Optimal Auction Design",
+            "volume": "6",
+            "author": "Myerson",
+            "year": "1981",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "year": "2007",
+            "author": "Nekipelov",
+            "key": "2025030619564489500_rdae031-B52"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1111/j.1756-2171.2007.tb00073.x",
+            "article-title": "Simple Estimators for the Parameters of Discrete Dynamic Games, with Entry/Exit Examples",
+            "volume": "38",
+            "author": "Pakes",
+            "year": "2007",
+            "journal-title": "Rand Journal of Economics"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1006/jeth.1997.2278",
+            "article-title": "Competition Among Sellers Who Offer Auctions Instead of Prices",
+            "volume": "75",
+            "author": "Peters",
+            "year": "1997",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "year": "2003",
+            "author": "Petrin",
+            "key": "2025030619564489500_rdae031-B55"
+        },
+        {
+            "year": "2020",
+            "author": "Ridinger",
+            "key": "2025030619564489500_rdae031-B56"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "712",
+            "DOI": "10.1111/1756-2171.12038",
+            "article-title": "Unobserved Heterogeneity and Reserve Prices in Auctions",
+            "volume": "44",
+            "author": "Roberts",
+            "year": "2013",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.1257/00028280260344632",
+            "article-title": "Last-Minute Bidding and the Rules for Ending Second-Price Auctions: Evidence from eBay and Amazon Auctions on the Internet",
+            "volume": "92",
+            "author": "Roth",
+            "year": "2002",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2009",
+            "author": "Said",
+            "key": "2025030619564489500_rdae031-B59"
+        },
+        {
+            "year": "2006",
+            "author": "Sailer",
+            "key": "2025030619564489500_rdae031-B60"
+        },
+        {
+            "year": "2004",
+            "author": "Song",
+            "key": "2025030619564489500_rdae031-B61"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B62",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctvjnrt76",
+            "volume-title": "Recursive Methods in Economic Dynamics",
+            "author": "Stokey",
+            "year": "1989"
+        },
+        {
+            "year": "2009",
+            "author": "Terapeak",
+            "key": "2025030619564489500_rdae031-B63"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1375",
+            "DOI": "10.3982/ECTA6158",
+            "article-title": "Markov Perfect Industry Dynamics with Many Firms",
+            "volume": "76",
+            "author": "Weintraub",
+            "year": "2008",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564489500_rdae031-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "462",
+            "DOI": "10.1509/jmkr.43.3.462",
+            "article-title": "Forward-Looking Bidding in Online Auctions",
+            "volume": "43",
+            "author": "Zeithammer",
+            "year": "2006",
+            "journal-title": "Journal of Marketing Research"
+        },
+        {
+            "year": "2009",
+            "author": "Zeithammer",
+            "key": "2025030619564489500_rdae031-B66"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae031/57237485/rdae031.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/2/837/57237485/rdae031.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/2/837/57237485/rdae031.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                6
+            ]
+        ],
+        "date-time": "2025-03-06T19:57:35Z",
+        "timestamp": 1741291055000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/2/837/7637574"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ]
+    },
+    "references-count": 66,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    3,
+                    29
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae031",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                3,
+                29
+            ]
+        ]
+    }
+}

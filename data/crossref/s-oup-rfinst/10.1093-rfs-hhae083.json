@@ -1,0 +1,722 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                18
+            ]
+        ],
+        "date-time": "2025-02-18T05:03:55Z",
+        "timestamp": 1739855035308,
+        "version": "3.37.3"
+    },
+    "reference-count": 49,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        12,
+                        9
+                    ]
+                ],
+                "date-time": "2024-12-09T00:00:00Z",
+                "timestamp": 1733702400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "1838183"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "name": "Extreme Science and Engineering Discovery Environment"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>The second special issue on big data in finance showcases advancements in research related to data of large size, high dimension, and complex structure since the first NBER/RFS big data conference. The papers published in this next chapter address some questions that were proposed in the initial special issue in 2021. Other papers are more directly connected to recent developments in the markets. We discuss some new research directions, following on the papers published here. They include evaluating market microstructure reforms, understanding medium-frequency trading, improving missing data imputations, and deepening data valuation. We look forward to more developments to follow.</jats:p>",
+    "DOI": "10.1093/rfs/hhae083",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                10
+            ]
+        ],
+        "date-time": "2024-12-10T23:39:06Z",
+        "timestamp": 1733873946000
+    },
+    "page": "605-622",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Next Chapter of Big Data in Finance"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Chester S",
+            "family": "Spatt",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Carnegie Mellon University and NBER"
+                }
+            ]
+        },
+        {
+            "given": "Mao",
+            "family": "Ye",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Cornell University and NBER"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                9
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "2025021707515831600_hhae083-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "208",
+            "DOI": "10.1093/rfs/hhs100",
+            "article-title": "Out of the dark: Hedge fund reporting biases and commercial databases",
+            "volume": "26",
+            "author": "Aiken",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "3",
+            "key": "2025021707515831600_hhae083-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "700",
+            "DOI": "10.1016/j.jfineco.2020.07.002",
+            "article-title": "The price effects of liquidity shocks: A study of the SEC\u2019s tick size experiment",
+            "volume": "138",
+            "author": "Albuquerque",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Aleti",
+            "key": "2025021707515831600_hhae083-B3"
+        },
+        {
+            "issue": "3",
+            "key": "2025021707515831600_hhae083-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "259",
+            "DOI": "10.1257/jep.32.3.259",
+            "article-title": "Social connectedness: Measurement, determinants, and effects",
+            "volume": "32",
+            "author": "Bailey",
+            "year": "2018",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "issue": "4",
+            "key": "2025021707515831600_hhae083-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1269",
+            "DOI": "10.1111/j.1540-6261.2010.01570.x",
+            "article-title": "Disagreement and learning: Dynamic patterns of trade",
+            "volume": "65",
+            "author": "Banerjee",
+            "year": "2010",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "3",
+            "key": "2025021707515831600_hhae083-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "281",
+            "DOI": "10.1016/0304-405X(93)90029-B",
+            "article-title": "Stealth trading and volatility: Which trades move prices?",
+            "volume": "34",
+            "author": "Barclay",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "103836",
+            "DOI": "10.1016/j.jfineco.2024.103836",
+            "article-title": "Tiny trades, big questions: Fractional shares",
+            "volume": "157",
+            "author": "Bartlett",
+            "year": "2024",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Bartlett",
+            "key": "2025021707515831600_hhae083-B7"
+        },
+        {
+            "issue": "1",
+            "key": "2025021707515831600_hhae083-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1146/annurev-financial-110311-101826",
+            "article-title": "The real effects of financial markets",
+            "volume": "4",
+            "author": "Bond",
+            "year": "2012",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Bryzgalova",
+            "key": "2025021707515831600_hhae083-B10"
+        },
+        {
+            "issue": "3",
+            "key": "2025021707515831600_hhae083-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1068",
+            "DOI": "10.1093/rfs/hhy073",
+            "article-title": "Why discrete price fragments US stock exchanges and disperses their fee structures",
+            "volume": "32",
+            "author": "Chao",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "2",
+            "key": "2025021707515831600_hhae083-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1561/104.00000112",
+            "article-title": "Open source cross-sectional asset pricing",
+            "volume": "11",
+            "author": "Chen",
+            "year": "2022",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "issue": "2",
+            "key": "2025021707515831600_hhae083-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1287/mnsc.2023.4695",
+            "article-title": "Deep learning in asset pricing",
+            "volume": "70",
+            "author": "Chen",
+            "year": "2024",
+            "journal-title": "Management Science"
+        },
+        {
+            "issue": "1",
+            "key": "2025021707515831600_hhae083-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1111/jofi.12733",
+            "article-title": "Sparse signals in the cross-section of returns",
+            "volume": "74",
+            "author": "Chinco",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "11",
+            "key": "2025021707515831600_hhae083-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3389",
+            "DOI": "10.1093/rfs/hhs089",
+            "article-title": "Trading fees and efficiency in limit order markets",
+            "volume": "25",
+            "author": "Colliard",
+            "year": "2012",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B16",
+            "first-page": "4",
+            "article-title": "What moves stock prices?",
+            "volume": "15",
+            "author": "Cutler",
+            "year": "1989",
+            "journal-title": "Journal of Portfolio Management"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Da",
+            "key": "2025021707515831600_hhae083-B17"
+        },
+        {
+            "volume-title": "The book of alternative data: A guide for investors, traders and risk managers",
+            "year": "2020",
+            "author": "Denev",
+            "key": "2025021707515831600_hhae083-B18"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B19",
+            "article-title": "Would order-by-order auctions be competitive?",
+            "author": "Ernst",
+            "year": "",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "4",
+            "key": "2025021707515831600_hhae083-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.1086/341640",
+            "article-title": "Events that shook the market",
+            "volume": "75",
+            "author": "Fair",
+            "year": "2002",
+            "journal-title": "Journal of Business"
+        },
+        {
+            "issue": "2",
+            "key": "2025021707515831600_hhae083-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "234",
+            "DOI": "10.1016/j.jfineco.2018.02.012",
+            "article-title": "Choosing factors",
+            "volume": "128",
+            "author": "Fama",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Farboodi",
+            "key": "2025021707515831600_hhae083-B22"
+        },
+        {
+            "issue": "1",
+            "key": "2025021707515831600_hhae083-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1111/j.1540-6261.2012.01801.x",
+            "article-title": "Liquidity cycles and make/take fees in electronic markets",
+            "volume": "68",
+            "author": "Foucault",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Freyberger",
+            "key": "2025021707515831600_hhae083-B24"
+        },
+        {
+            "issue": "2",
+            "key": "2025021707515831600_hhae083-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "566",
+            "DOI": "10.1016/j.jfineco.2013.03.011",
+            "article-title": "Trading frenzies and their impact on real investment",
+            "volume": "109",
+            "author": "Goldstein",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "issue": "7",
+            "key": "2025021707515831600_hhae083-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3213",
+            "DOI": "10.1093/rfs/hhab038",
+            "article-title": "Big data in finance",
+            "volume": "34",
+            "author": "Goldstein",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "5",
+            "key": "2025021707515831600_hhae083-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "3",
+            "key": "2025021707515831600_hhae083-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1093/rfs/5.3.473",
+            "article-title": "Differences of opinion make a horse race",
+            "volume": "6",
+            "author": "Harris",
+            "year": "1993",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "volume-title": "Review of Financial Studies",
+            "year": "2025",
+            "author": "Hirshleifer",
+            "key": "2025021707515831600_hhae083-B29"
+        },
+        {
+            "issue": "4",
+            "key": "2025021707515831600_hhae083-B30",
+            "first-page": "561",
+            "article-title": "The private and social value of information and the reward to inventive activity",
+            "volume": "61",
+            "author": "Hirshleifer",
+            "year": "1971",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "2025021707515831600_hhae083-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "831",
+            "DOI": "10.1086/262005",
+            "article-title": "Differential interpretation of public signals and trade in speculative markets",
+            "volume": "103",
+            "author": "Kandel",
+            "year": "1995",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "5",
+            "key": "2025021707515831600_hhae083-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1069",
+            "DOI": "10.1111/j.1540-6261.1986.tb02531.x",
+            "article-title": "A theory of trading volume",
+            "volume": "41",
+            "author": "Karpoff",
+            "year": "1986",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "302",
+            "DOI": "10.2307/2491051",
+            "article-title": "Trading volume and price reactions to public announcements",
+            "volume": "29",
+            "author": "Kim",
+            "year": "1991",
+            "journal-title": "Journal of Accounting Research"
+        },
+        {
+            "issue": "1\u20132",
+            "key": "2025021707515831600_hhae083-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1016/0165-4101(94)90004-3",
+            "article-title": "Market liquidity and volume around earnings announcements",
+            "volume": "17",
+            "author": "Kim",
+            "year": "1994",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "issue": "3",
+            "key": "2025021707515831600_hhae083-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "815",
+            "DOI": "10.1111/0022-1082.00347",
+            "article-title": "Consumption, aggregate wealth, and expected stock returns",
+            "volume": "56",
+            "author": "Lettau",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2024",
+            "author": "Li",
+            "key": "2025021707515831600_hhae083-B36"
+        },
+        {
+            "issue": "2",
+            "key": "2025021707515831600_hhae083-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.1016/j.jfineco.2022.11.004",
+            "article-title": "Refusing the best price?",
+            "volume": "147",
+            "author": "Li",
+            "year": "2023",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "103818",
+            "DOI": "10.1016/j.jfineco.2024.103818",
+            "article-title": "Price ceilings, market structure, and payout policies",
+            "volume": "155",
+            "author": "Li",
+            "year": "2024",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B39",
+            "volume-title": "Statistical analysis with missing data",
+            "author": "Little",
+            "year": "2019",
+            "edition": "3rd ed"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B40",
+            "volume-title": "A random walk down Wall Street",
+            "author": "Malkiel",
+            "year": "1981",
+            "edition": "2nd"
+        },
+        {
+            "issue": "5",
+            "key": "2025021707515831600_hhae083-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "2199",
+            "DOI": "10.1111/jofi.12185",
+            "article-title": "What\u2019s not there: Odd lots and market data",
+            "volume": "69",
+            "author": "O\u2019Hara",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "6",
+            "key": "2025021707515831600_hhae083-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1086/378531",
+            "article-title": "Overconfidence and speculative bubbles",
+            "volume": "111",
+            "author": "Scheinkman",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025021707515831600_hhae083-B43",
+            "article-title": "SEC proposes to modernize key market infrastructure responsible for collecting, consolidating, and disseminating securities market data",
+            "volume": "14",
+            "author": "Securities and Exchange Commission (SEC)",
+            "year": "2020",
+            "journal-title": "Securities and Exchange Commission, February"
+        },
+        {
+            "year": "2021",
+            "author": "Securities and Exchange Commission (SEC)",
+            "key": "2025021707515831600_hhae083-B44"
+        },
+        {
+            "year": "2020",
+            "author": "Spatt",
+            "key": "2025021707515831600_hhae083-B45"
+        },
+        {
+            "year": "2024",
+            "author": "Topbas",
+            "key": "2025021707515831600_hhae083-B46"
+        },
+        {
+            "issue": "5",
+            "key": "2025021707515831600_hhae083-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1545",
+            "DOI": "10.1093/rof/rfac073",
+            "article-title": "Valuing data as an asset",
+            "volume": "27",
+            "author": "Veldkamp",
+            "year": "2023",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "year": "2022",
+            "author": "Wernerfelt",
+            "key": "2025021707515831600_hhae083-B48"
+        },
+        {
+            "issue": "5",
+            "key": "2025021707515831600_hhae083-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "2021",
+            "DOI": "10.1093/rfs/hhy081",
+            "article-title": "Big data as a governance mechanism",
+            "volume": "32",
+            "author": "Zhu",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae083/60999668/hhae083.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/3/605/60999668/hhae083.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/3/605/60999668/hhae083.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                17
+            ]
+        ],
+        "date-time": "2025-02-17T07:52:34Z",
+        "timestamp": 1739778754000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/3/605/7919291"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                9
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    12,
+                    9
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhae083",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                9
+            ]
+        ]
+    }
+}

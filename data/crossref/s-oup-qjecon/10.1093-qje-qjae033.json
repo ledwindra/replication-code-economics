@@ -1,0 +1,990 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                19
+            ]
+        ],
+        "date-time": "2025-03-19T14:02:29Z",
+        "timestamp": 1742392949912,
+        "version": "3.32.0"
+    },
+    "reference-count": 90,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        17
+                    ]
+                ],
+                "date-time": "2024-10-17T00:00:00Z",
+                "timestamp": 1729123200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 1,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                11
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Satoshi Nakamoto (2008) invented a new kind of economic system that does not need the support of government or rule of law. Trust and security instead arise from a combination of cryptography and economic incentives, all in a completely anonymous and decentralized system. This article shows that Nakamoto\u2019s novel form of trust, while undeniably ingenious, is deeply economically limited. The core argument is three equations. A zero-profit condition on the quantity of honest blockchain \u201ctrust support\u201d (work, stake, etc.) and an incentive-compatibility condition on the system\u2019s security against majority attack (the Achilles heel of all forms of permissionless consensus) together imply an equilibrium constraint, which says that the \u201cflow\u201d cost of blockchain trust has to be large at all times relative to the benefits of attacking the system. This is extremely expensive relative to traditional forms of trust and scales linearly with the value of attack. In scenarios that represent Nakamoto trust becoming a more significant part of the global financial system, the cost of trust would exceed global GDP. Nakamoto trust would become more attractive if an attacker lost the stock value of their capital in addition to paying the flow cost of attack, but this requires either collapse of the system (hardly reassuring) or external support from rule of law. The key difference between Nakamoto trust and traditional trust grounded in rule of law and complementary sources, such as reputations, relationships, and collateral, is economies of scale: society or a firm pays a fixed cost to enjoy trust over a large quantity of economic activity at low or zero marginal cost.</jats:p>",
+    "DOI": "10.1093/qje/qjae033",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                17
+            ]
+        ],
+        "date-time": "2024-10-17T05:09:10Z",
+        "timestamp": 1729141750000
+    },
+    "page": "1-62",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": [
+        "Trust at Scale: The Economic Limits of Cryptocurrencies and Blockchains"
+    ],
+    "prefix": "10.1093",
+    "volume": "140",
+    "author": [
+        {
+            "given": "Eric",
+            "family": "Budish",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Booth School of Business ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                16
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025011109205170600_bib1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.24149/gwp355",
+            "article-title": "Beyond the Doomsday Economics of \u2018Proof-of-Work\u2019 in Cryptocurrencies",
+            "author": "Auer",
+            "year": "2019"
+        },
+        {
+            "key": "2025011109205170600_bib2",
+            "first-page": "287",
+            "article-title": "Acceptable Points in General Cooperative n-Person Games",
+            "volume-title": "Contributions to the Theory of Games IV, Annals of Mathematics Study 40",
+            "author": "Aumann",
+            "year": "1959"
+        },
+        {
+            "key": "2025011109205170600_bib3",
+            "doi-asserted-by": "publisher",
+            "first-page": "39",
+            "DOI": "10.1162/003355302753399445",
+            "article-title": "Relational Contracts and the Theory of the Firm",
+            "volume": "117",
+            "author": "Baker",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "year": "2023",
+            "author": "Bakos",
+            "article-title": "Permissioned vs Permissionless Blockchain Platforms: Tradeoffs in Trust and Performance",
+            "key": "2025011109205170600_bib4"
+        },
+        {
+            "key": "2025011109205170600_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1007/978-1-4613-9323-8_24",
+            "article-title": "Improving the Efficiency and Reliability of Digital Time-Stamping",
+            "volume-title": "Sequences II: Methods in Communication, Security and Computer Science",
+            "author": "Bayer",
+            "year": "1993"
+        },
+        {
+            "key": "2025011109205170600_bib6",
+            "doi-asserted-by": "publisher",
+            "first-page": "169",
+            "DOI": "10.1086/259394",
+            "article-title": "Crime and Punishment: An Economic Approach",
+            "volume": "76",
+            "author": "Becker",
+            "year": "1968",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011109205170600_bib7",
+            "doi-asserted-by": "publisher",
+            "first-page": "1662",
+            "DOI": "10.1093/rfs/hhy095",
+            "article-title": "The Blockchain Folk Theorem",
+            "volume": "32",
+            "author": "Biais",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "7, 2022",
+            "author": "Bitcoin Magazine",
+            "article-title": "Peter Thiel\u2014Bitcoin Keynote\u2014Bitcoin 2022 Conference",
+            "key": "2025011109205170600_bib8"
+        },
+        {
+            "year": "2020",
+            "author": "Bitcoin Wiki",
+            "article-title": "Weaknesses \u2192 Probably Not a Problem \u2192 Attacker Has a Lot of Computing Power",
+            "key": "2025011109205170600_bib9"
+        },
+        {
+            "key": "2025011109205170600_bib10",
+            "doi-asserted-by": "publisher",
+            "first-page": "213",
+            "DOI": "10.1257/jep.29.2.213",
+            "article-title": "Bitcoin: Economics, Technology, and Governance",
+            "volume": "29",
+            "author": "B\u00f6hme",
+            "year": "2015",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025011109205170600_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1007/978-3-662-53357-4_2",
+            "article-title": "Why Buy When You Can Rent? Bribery Attacks on Bitcoin Consensus",
+            "volume-title": "Proceedings of the 20th International Conference on Financial Cryptography and Data Security (FC 2016)",
+            "author": "Bonneau",
+            "year": "2016"
+        },
+        {
+            "key": "2025011109205170600_bib12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w24717",
+            "article-title": "The Economic Limits of Bitcoin and the Blockchain",
+            "author": "Budish",
+            "year": "2018"
+        },
+        {
+            "key": "2025011109205170600_bib13",
+            "doi-asserted-by": "publisher",
+            "first-page": "1209",
+            "DOI": "10.1086/727284",
+            "article-title": "A Theory of Stock Exchange Competition and Innovation: Will the Market Fix the Market?",
+            "volume": "132",
+            "author": "Budish",
+            "year": "2024",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011109205170600_bib14",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1145/3670865.3673548",
+            "article-title": "The Economic Limits of Permissionless Consensus",
+            "volume-title": "Proceedings of the 25th ACM Conference on Economics and Computation (EC\u201924)",
+            "author": "Budish",
+            "year": "2024"
+        },
+        {
+            "key": "2025011109205170600_bib15",
+            "article-title": "Blockchain Technology and Stablecoins in Traditional Finance",
+            "volume-title": "Sveriges Riksbank 7th Annual Macroprudential Conference",
+            "author": "Budish",
+            "year": "2023"
+        },
+        {
+            "year": "2014",
+            "author": "Buterin",
+            "article-title": "Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform",
+            "key": "2025011109205170600_bib16"
+        },
+        {
+            "year": "2014",
+            "author": "Buterin",
+            "article-title": "Slasher: A Punitive Proof-of-Stake Algorithm",
+            "key": "2025011109205170600_bib17"
+        },
+        {
+            "key": "2025011109205170600_bib18",
+            "article-title": "A Proof of Stake Design Philosophy",
+            "volume-title": "Medium",
+            "author": "Buterin",
+            "year": "30, 2016"
+        },
+        {
+            "key": "2025011109205170600_bib19",
+            "article-title": "Minimal Slashing Conditions",
+            "volume-title": "Medium",
+            "author": "Buterin",
+            "year": "2, 2017"
+        },
+        {
+            "year": "5, 2022",
+            "author": "Buterin",
+            "article-title": "What in the Ethereum Application Ecosystem Excites Me",
+            "key": "2025011109205170600_bib20"
+        },
+        {
+            "key": "2025011109205170600_bib21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.1710.09437",
+            "article-title": "Casper the Friendly Finality Gadget",
+            "author": "Buterin",
+            "year": "2019"
+        },
+        {
+            "key": "2025011109205170600_bib22",
+            "doi-asserted-by": "publisher",
+            "first-page": "1553",
+            "DOI": "10.1111/j.1540-6261.2006.00883.x",
+            "article-title": "Household Finance",
+            "volume": "61",
+            "author": "Campbell",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025011109205170600_bib23",
+            "doi-asserted-by": "publisher",
+            "first-page": "154",
+            "DOI": "10.1145/2976749.2978408",
+            "article-title": "On the Instability of Bitcoin Without the Block Reward\u201d",
+            "volume-title": "Proceedings of the 2016 ACM SIGSAC Conference on Computer and Communications Security",
+            "author": "Carlsten",
+            "year": "2016"
+        },
+        {
+            "key": "2025011109205170600_bib24",
+            "doi-asserted-by": "publisher",
+            "first-page": "1762",
+            "DOI": "10.1111/caje.12625",
+            "article-title": "The Economics of Cryptocurrency: Bitcoin and Beyond",
+            "volume": "55",
+            "author": "Chiu",
+            "year": "2022",
+            "journal-title": "Canadian Journal of Economics"
+        },
+        {
+            "key": "2025011109205170600_bib25",
+            "doi-asserted-by": "publisher",
+            "first-page": "1191",
+            "DOI": "10.1093/rfs/hhaa040",
+            "article-title": "Decentralized Mining in Centralized Pools",
+            "volume": "34",
+            "author": "Cong",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025011109205170600_bib26",
+            "article-title": "Yellen Sounds Warning about \u2018Extremely Inefficient\u2019 Bitcoin",
+            "author": "Cox",
+            "year": "22, 2021",
+            "journal-title": "CNBC"
+        },
+        {
+            "key": "2025011109205170600_bib27",
+            "doi-asserted-by": "publisher",
+            "first-page": "801",
+            "DOI": "10.1016/j.joule.2018.04.016",
+            "article-title": "Bitcoin\u2019s Growing Energy Problem",
+            "volume": "2",
+            "author": "De\u00a0Vries",
+            "year": "2018",
+            "journal-title": "Joule"
+        },
+        {
+            "key": "2025011109205170600_bib28",
+            "article-title": "Bitcoin Energy Consumption Index",
+            "volume-title": "Digiconomist",
+            "author": "Digiconomist",
+            "year": "2022"
+        },
+        {
+            "volume-title": "Lawlessness and Economics: Alternative Modes of Governance",
+            "year": "2004",
+            "author": "Dixit",
+            "key": "2025011109205170600_bib29"
+        },
+        {
+            "key": "2025011109205170600_bib30",
+            "doi-asserted-by": "publisher",
+            "first-page": "656",
+            "DOI": "10.1137/0212045",
+            "article-title": "Authenticated Algorithms for Byzantine Agreement",
+            "volume": "12",
+            "author": "Dolev",
+            "year": "1983",
+            "journal-title": "SIAM Journal on Computing"
+        },
+        {
+            "key": "2025011109205170600_bib31",
+            "doi-asserted-by": "publisher",
+            "first-page": "288",
+            "DOI": "10.1145/42282.42283",
+            "article-title": "Consensus in the Presence of Partial Synchrony",
+            "volume": "35",
+            "author": "Dwork",
+            "year": "1988",
+            "journal-title": "Journal of the ACM"
+        },
+        {
+            "key": "2025011109205170600_bib32",
+            "doi-asserted-by": "publisher",
+            "first-page": "91",
+            "DOI": "10.1016/j.jfineco.2019.03.004",
+            "article-title": "From Mining to Markets: The Evolution of Bitcoin Transaction Fees",
+            "volume": "134",
+            "author": "Easley",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2023",
+            "author": "Edgington",
+            "article-title": "Inactivity Leak",
+            "key": "2025011109205170600_bib33"
+        },
+        {
+            "year": "15, 2023",
+            "author": "Ethereum.org",
+            "article-title": "Ethereum Proof-of-Stake Attack and Defense",
+            "key": "2025011109205170600_bib34"
+        },
+        {
+            "key": "2025011109205170600_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "436",
+            "DOI": "10.1007/978-3-662-45472-5_28",
+            "article-title": "Majority Is not Enough: Bitcoin Mining Is Vulnerable",
+            "volume-title": "Proceedings of the 18th International Conference on Financial Cryptography and Data Security (FC 2014)",
+            "author": "Eyal",
+            "year": "2014"
+        },
+        {
+            "key": "2025011109205170600_bib36",
+            "doi-asserted-by": "publisher",
+            "first-page": "374",
+            "DOI": "10.1145/3149.214121",
+            "article-title": "Impossibility of Distributed Consensus with One Faulty Process",
+            "volume": "32",
+            "author": "Fischer",
+            "year": "1985",
+            "journal-title": "Journal of the ACM"
+        },
+        {
+            "key": "2025011109205170600_bib37",
+            "doi-asserted-by": "publisher",
+            "first-page": "1798",
+            "DOI": "10.1093/rfs/hhz015",
+            "article-title": "Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?",
+            "volume": "32",
+            "author": "Foley",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "volume-title": "Capitalism and Freedom",
+            "year": "1962",
+            "author": "Friedman",
+            "key": "2025011109205170600_bib38"
+        },
+        {
+            "key": "2025011109205170600_bib39",
+            "doi-asserted-by": "publisher",
+            "first-page": "997",
+            "DOI": "10.2307/2951505",
+            "article-title": "The Folk Theorem with Imperfect Public Information",
+            "volume": "62",
+            "author": "Fudenberg",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025011109205170600_bib40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w31473",
+            "article-title": "\u2018Zero Cost\u2019 Majority Attacks on Permissionless Blockchains",
+            "author": "Gans",
+            "year": "2023"
+        },
+        {
+            "key": "2025011109205170600_bib41",
+            "doi-asserted-by": "publisher",
+            "first-page": "91",
+            "DOI": "10.1111/jofi.12188",
+            "article-title": "Money Doctors",
+            "volume": "70",
+            "author": "Gennaioli",
+            "year": "2015",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2021",
+            "author": "Gensler",
+            "article-title": "Remarks Before the Aspen Security Forum",
+            "key": "2025011109205170600_bib42"
+        },
+        {
+            "year": "2018",
+            "author": "Goldman Sachs",
+            "article-title": "Blockchain\u2014The New Technology of Trust",
+            "key": "2025011109205170600_bib43"
+        },
+        {
+            "key": "2025011109205170600_bib44",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1257/jep.27.2.3",
+            "article-title": "The Growth of Finance",
+            "volume": "27",
+            "author": "Greenwood",
+            "year": "2013",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025011109205170600_bib45",
+            "doi-asserted-by": "publisher",
+            "first-page": "1850053",
+            "DOI": "10.1142/S021902491850053X",
+            "article-title": "Double Spend Races",
+            "volume": "21",
+            "author": "Grunspan",
+            "year": "2018",
+            "journal-title": "International Journal of Theoretical and Applied Finance"
+        },
+        {
+            "key": "2025011109205170600_bib46",
+            "doi-asserted-by": "publisher",
+            "first-page": "732",
+            "DOI": "10.1017/S026996482100005X",
+            "article-title": "On Profitability of Nakamoto Double Spend",
+            "volume": "36",
+            "author": "Grunspan",
+            "year": "2022",
+            "journal-title": "Probability in the Engineering and Informational Sciences"
+        },
+        {
+            "key": "2025011109205170600_bib47",
+            "doi-asserted-by": "publisher",
+            "first-page": "23",
+            "DOI": "10.1257/jep.20.2.23",
+            "article-title": "Does Culture Affect Economic Outcomes?",
+            "volume": "20",
+            "author": "Guiso",
+            "year": "2006",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025011109205170600_bib48",
+            "doi-asserted-by": "publisher",
+            "first-page": "99",
+            "DOI": "10.1007/3-540-38424-3_32",
+            "article-title": "How to Time-Stamp a Digital Document",
+            "volume": "3",
+            "author": "Haber",
+            "year": "1991",
+            "journal-title": "Journal of Cryptography"
+        },
+        {
+            "key": "2025011109205170600_bib49",
+            "doi-asserted-by": "publisher",
+            "first-page": "971",
+            "DOI": "10.1257/jel.20201593",
+            "article-title": "The Microeconomics of Cryptocurrencies",
+            "volume": "60",
+            "author": "Halaburda",
+            "year": "2022",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2025011109205170600_bib50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/0198288816.001.0001",
+            "volume-title": "Firms, Contracts, and Financial Structure",
+            "author": "Hart",
+            "year": "1995"
+        },
+        {
+            "volume-title": "The Constitution of Liberty",
+            "year": "1960",
+            "author": "Hayek",
+            "key": "2025011109205170600_bib51"
+        },
+        {
+            "key": "2025011109205170600_bib52",
+            "first-page": "972",
+            "article-title": "The Firm as an Incentive System",
+            "volume": "84",
+            "author": "Holmstrom",
+            "year": "1994",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011109205170600_bib53",
+            "doi-asserted-by": "publisher",
+            "first-page": "337",
+            "DOI": "10.1017/S0022109019000863",
+            "article-title": "Tri-Party Repo Pricing",
+            "volume": "56",
+            "author": "Hu",
+            "year": "2021",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025011109205170600_bib54",
+            "doi-asserted-by": "publisher",
+            "first-page": "3011",
+            "DOI": "10.1093/restud/rdab014",
+            "article-title": "Monopoly without a Monopolist: An Economic Analysis of the Bitcoin Payment System",
+            "volume": "88",
+            "author": "Huberman",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025011109205170600_bib55",
+            "doi-asserted-by": "publisher",
+            "first-page": "63",
+            "DOI": "10.2307/2297925",
+            "article-title": "Social Norms and Community Enforcement",
+            "volume": "59",
+            "author": "Kandori",
+            "year": "1992",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "year": "2022",
+            "author": "Klein",
+            "article-title": "Ethereum\u2019s Founder on What Crypto Can\u2014and Can\u2019t\u2014Do",
+            "key": "2025011109205170600_bib56"
+        },
+        {
+            "key": "2025011109205170600_bib57",
+            "doi-asserted-by": "publisher",
+            "first-page": "245",
+            "DOI": "10.1016/0022-0531(82)90029-1",
+            "article-title": "Rational Cooperation in the Finitely Repeated Prisoners\u2019 Dilemma",
+            "volume": "27",
+            "author": "Kreps",
+            "year": "1982",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025011109205170600_bib58",
+            "article-title": "The Economics of Bitcoin Mining or, Bitcoin in the Presence of Adversaries",
+            "volume-title": "12th Workshop on the Economics of Information Security",
+            "author": "Kroll",
+            "year": "2013"
+        },
+        {
+            "key": "2025011109205170600_bib59",
+            "article-title": "Baby-Sitting the Economy",
+            "volume-title": "Slate",
+            "author": "Krugman",
+            "year": "14, 1998"
+        },
+        {
+            "key": "2025011109205170600_bib60",
+            "first-page": "333",
+            "article-title": "Trust in Large Organizations",
+            "volume": "87",
+            "author": "La\u00a0Porta",
+            "year": "1997",
+            "journal-title": "American Economic Review Papers and Proceedings"
+        },
+        {
+            "key": "2025011109205170600_bib61",
+            "doi-asserted-by": "publisher",
+            "first-page": "1113",
+            "DOI": "10.1086/250042",
+            "article-title": "Law and Finance",
+            "volume": "106",
+            "author": "La\u00a0Porta",
+            "year": "1998",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011109205170600_bib62",
+            "doi-asserted-by": "publisher",
+            "first-page": "382",
+            "DOI": "10.1145/357172.357176",
+            "article-title": "The Byzantine Generals Problem",
+            "volume": "4",
+            "author": "Lamport",
+            "year": "1982",
+            "journal-title": "ACM Transactions on Programming Languages and Systems"
+        },
+        {
+            "year": "2023",
+            "author": "Leshno",
+            "article-title": "On the Viability of Open-Source Financial Rails: Economic Security of Permissionless Consensus",
+            "key": "2025011109205170600_bib63"
+        },
+        {
+            "key": "2025011109205170600_bib64",
+            "doi-asserted-by": "publisher",
+            "first-page": "835",
+            "DOI": "10.1257/000282803322157115",
+            "article-title": "Relational Incentive Contracts",
+            "volume": "93",
+            "author": "Levin",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "10, 2017",
+            "author": "Levine",
+            "article-title": "Bank Blockchains and an Alibaba Box",
+            "key": "2025011109205170600_bib65"
+        },
+        {
+            "key": "2025011109205170600_bib66",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2304.14701",
+            "article-title": "Permissionless Consensus",
+            "author": "Lewis-Pye",
+            "year": "2024"
+        },
+        {
+            "key": "2025011109205170600_bib67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.3103104",
+            "article-title": "Market Structure in Bitcoin Mining",
+            "author": "Ma",
+            "year": "2019"
+        },
+        {
+            "key": "2025011109205170600_bib68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w29396",
+            "article-title": "Blockchain Analysis of the Bitcoin Market",
+            "author": "Makarov",
+            "year": "2021"
+        },
+        {
+            "key": "2025011109205170600_bib69",
+            "first-page": "261",
+            "article-title": "The Cost of Capital, Corporation Finance and the Theory of Investment",
+            "volume": "48",
+            "author": "Modigliani",
+            "year": "1958",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011109205170600_bib70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2002.10736",
+            "article-title": "Double-Spend Counterattacks: Threat of Retaliation in Proof-of-Work Systems",
+            "author": "Moroz",
+            "year": "2020"
+        },
+        {
+            "year": "2008",
+            "author": "Nakamoto",
+            "article-title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+            "key": "2025011109205170600_bib71"
+        },
+        {
+            "key": "2025011109205170600_bib72",
+            "doi-asserted-by": "publisher",
+            "first-page": "729",
+            "DOI": "10.1086/260231",
+            "article-title": "Advertising as Information",
+            "volume": "82",
+            "author": "Nelson",
+            "year": "1974",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025011109205170600_bib73",
+            "doi-asserted-by": "publisher",
+            "first-page": "228",
+            "DOI": "10.1145/322186.322188",
+            "article-title": "Reaching Agreement in the Presence of Faults",
+            "volume": "27",
+            "author": "Pease",
+            "year": "1980",
+            "journal-title": "Journal of the ACM"
+        },
+        {
+            "key": "2025011109205170600_bib74",
+            "doi-asserted-by": "publisher",
+            "first-page": "1408",
+            "DOI": "10.1257/aer.20120578",
+            "article-title": "Has the US Finance Industry Become Less Efficient? On the Theory and Measurement of Financial Intermediation",
+            "volume": "105",
+            "author": "Philippon",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
+            "year": "2015",
+            "author": "Popper",
+            "key": "2025011109205170600_bib75"
+        },
+        {
+            "key": "2025011109205170600_bib76",
+            "doi-asserted-by": "publisher",
+            "first-page": "2415",
+            "DOI": "10.1086/714445",
+            "article-title": "An Equilibrium Model of the Market for Bitcoin Mining",
+            "volume": "129",
+            "author": "Prat",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "volume-title": "The Curse of Cash",
+            "year": "2017",
+            "author": "Rogoff",
+            "key": "2025011109205170600_bib77"
+        },
+        {
+            "key": "2025011109205170600_bib78",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.1402.2009",
+            "article-title": "Analysis of Hashrate-Based Double-Spending",
+            "author": "Rosenfeld",
+            "year": "2014"
+        },
+        {
+            "year": "2023",
+            "author": "Roughgarden",
+            "article-title": "Online Course: Foundations of Blockchains",
+            "key": "2025011109205170600_bib79"
+        },
+        {
+            "key": "2025011109205170600_bib80",
+            "doi-asserted-by": "publisher",
+            "first-page": "1156",
+            "DOI": "10.1093/rfs/hhaa075",
+            "article-title": "Blockchain without Waste: Proof-of-Stake",
+            "volume": "34",
+            "author": "Saleh",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025011109205170600_bib81",
+            "first-page": "281",
+            "article-title": "An Essay on Bargaining",
+            "volume": "46",
+            "author": "Schelling",
+            "year": "1956",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "The Strategy of Conflict",
+            "year": "1960",
+            "author": "Schelling",
+            "key": "2025011109205170600_bib82"
+        },
+        {
+            "key": "2025011109205170600_bib83",
+            "doi-asserted-by": "publisher",
+            "first-page": "737",
+            "DOI": "10.1111/j.1540-6261.1997.tb04820.x",
+            "article-title": "A Survey of Corporate Governance",
+            "volume": "52",
+            "author": "Shleifer",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "The Wealth of Nations",
+            "year": "1982",
+            "author": "Smith",
+            "key": "2025011109205170600_bib84"
+        },
+        {
+            "year": "2019",
+            "author": "Tabarrok",
+            "article-title": "Bitcoin Is Less Secure than Most People Think",
+            "key": "2025011109205170600_bib85"
+        },
+        {
+            "key": "2025011109205170600_bib86",
+            "doi-asserted-by": "publisher",
+            "first-page": "548",
+            "DOI": "10.1257/aer.89.3.548",
+            "article-title": "What\u2019s in a Name? Reputation as a Tradeable Asset",
+            "volume": "89",
+            "author": "Tadelis",
+            "year": "1999",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025011109205170600_bib87",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2207.08392",
+            "article-title": "Bitcoin-Enhanced Proof-of-Stake Security: Possibilities and Impossibilities",
+            "author": "Tas",
+            "year": "2023"
+        },
+        {
+            "year": "2023",
+            "author": "Urban Institute",
+            "article-title": "Criminal Justice Expenditures: Police, Corrections, and Courts",
+            "key": "2025011109205170600_bib88"
+        },
+        {
+            "year": "2022",
+            "author": "Visa",
+            "article-title": "Visa Inc. Fiscal 2022 Annual Report",
+            "key": "2025011109205170600_bib89"
+        },
+        {
+            "key": "2025011109205170600_bib90",
+            "article-title": "Cooperation in Large Societies",
+            "volume-title": "Advances in Economics and Econometrics: Twelfth World Congress",
+            "author": "Wolitzky",
+            "year": ""
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjae033/59814311/qjae033.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/140/1/1/59814311/qjae033.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/140/1/1/59814311/qjae033.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                11
+            ]
+        ],
+        "date-time": "2025-01-11T09:21:12Z",
+        "timestamp": 1736587272000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/140/1/1/7824430"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                16
+            ]
+        ]
+    },
+    "references-count": 90,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    10,
+                    16
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    11
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/qje/qjae033",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0033-5533"
+        },
+        {
+            "type": "electronic",
+            "value": "1531-4650"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                16
+            ]
+        ]
+    }
+}

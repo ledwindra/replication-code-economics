@@ -1,0 +1,861 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                14
+            ]
+        ],
+        "date-time": "2025-02-14T16:40:23Z",
+        "timestamp": 1739551223060,
+        "version": "3.37.1"
+    },
+    "reference-count": 69,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                1,
+                11
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Tax authorities around the world rely on audits to detect underreported tax liabilities and to verify that taxpayers qualify for the benefits they claim. We study differences in Internal Revenue Service audit rates between Black and non-Black taxpayers. Because neither we nor the IRS observe taxpayer race, we propose and use a novel partial identification strategy to estimate these differences. Despite race-blind audit selection, we find that Black taxpayers are audited at 2.9 to 4.7\u00a0times the rate of non-Black taxpayers. An important driver of the disparity is differing audit rates by race among taxpayers claiming the Earned Income Tax Credit (EITC). Using counterfactual audit selection models to explore why the disparity arises, we find that maximizing the detection of underreported taxes would not lead to Black EITC claimants being audited at higher rates. Rather, the audit disparity among EITC claimants stems largely from a policy decision to prioritize detecting overclaims of refundable credits over other forms of noncompliance. Modifying the audit selection algorithm to target total underreported taxes while holding fixed the number of audited EITC claimants would reduce the share of audited taxpayers who are Black and would lead to more audits focused on accurate reporting of business income and deductions, fewer audits focused on the eligibility of claimed dependents, higher per audit costs, and more detected noncompliance.</jats:p>",
+    "DOI": "10.1093/qje/qjae027",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                26
+            ]
+        ],
+        "date-time": "2024-09-26T20:36:18Z",
+        "timestamp": 1727382978000
+    },
+    "page": "113-163",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": [
+        "Measuring and Mitigating Racial Disparities in Tax Audits"
+    ],
+    "prefix": "10.1093",
+    "volume": "140",
+    "author": [
+        {
+            "given": "Hadi",
+            "family": "Elzayn",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Evelyn",
+            "family": "Smith",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Michigan ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Thomas",
+            "family": "Hertz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Internal Revenue Service ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Cameron",
+            "family": "Guage",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Arun",
+            "family": "Ramesh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California , Los Angeles,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Robin",
+            "family": "Fisher",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "U.S. Treasury Department ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Daniel E",
+            "family": "Ho",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Jacob",
+            "family": "Goldin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago, National Bureau of Economic Research , American Bar Foundation,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                26
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025021416064588600_bib1",
+            "first-page": "1",
+            "article-title": "How Meta Is Working to Assess Fairness in Relation to Race in the U.S. across its Products and Systems",
+            "volume-title": "Meta Technical Report",
+            "author": "Alao",
+            "year": "2021"
+        },
+        {
+            "key": "2025021416064588600_bib2",
+            "doi-asserted-by": "publisher",
+            "first-page": "249",
+            "DOI": "10.1145/3442188.3445888",
+            "article-title": "What We Can\u2019t Measure, We Can\u2019t Understand: Challenges to Demographic Data Procurement in the Pursuit of Fairness",
+            "volume-title": "Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+            "author": "Andrus",
+            "year": "2021"
+        },
+        {
+            "key": "2025021416064588600_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "Ch. 6.1",
+            "DOI": "10.1201/9781003278290-37",
+            "article-title": "Machine Bias",
+            "volume-title": "Ethics of Data and Analytics",
+            "author": "Angwin",
+            "year": "2022"
+        },
+        {
+            "key": "2025021416064588600_bib4",
+            "first-page": "1",
+            "article-title": "Imputing Missing Race and Ethnicity Data in COVID-19 Cases",
+            "author": "Anson-Dwamena",
+            "year": "2020"
+        },
+        {
+            "key": "2025021416064588600_bib5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.21916/mlr.2013.32",
+            "article-title": "Marriage and Divorce: Patterns by Gender, Race, and Educational Attainment",
+            "volume": "136",
+            "author": "Aughinbaugh",
+            "year": "2013",
+            "journal-title": "Monthly Labor Review"
+        },
+        {
+            "key": "2025021416064588600_bib6",
+            "doi-asserted-by": "publisher",
+            "first-page": "671",
+            "DOI": "10.2139/ssrn.2477899",
+            "article-title": "Big Data\u2019s Disparate Impact",
+            "volume": "104",
+            "author": "Barocas",
+            "year": "2016",
+            "journal-title": "California Law Review"
+        },
+        {
+            "key": "2025021416064588600_bib7",
+            "first-page": "1",
+            "article-title": "Should the IRS Know Your Race? The Challenge of Colorblind Tax Data",
+            "volume": "73",
+            "author": "Bearer-Friend",
+            "year": "2019",
+            "journal-title": "Tax Law Review"
+        },
+        {
+            "key": "2025021416064588600_bib8",
+            "first-page": "1",
+            "article-title": "Colorblind Tax Enforcement",
+            "volume": "97",
+            "author": "Bearer-Friend",
+            "year": "2022",
+            "journal-title": "NYU Law Review"
+        },
+        {
+            "key": "2025021416064588600_bib9",
+            "doi-asserted-by": "publisher",
+            "first-page": "1479",
+            "DOI": "10.1145/3531146.3533204",
+            "article-title": "Algorithmic Fairness and Vertical Equity: Income Fairness with IRS Tax Audit Models",
+            "volume-title": "2022 ACM Conference on Fairness, Accountability, and Transparency",
+            "author": "Black",
+            "year": "2022"
+        },
+        {
+            "key": "2025021416064588600_bib10",
+            "article-title": "Regional Bias in IRS Audit Selection",
+            "author": "Bloomquist",
+            "year": "19, 2019",
+            "journal-title": "Tax Notes"
+        },
+        {
+            "key": "2025021416064588600_bib11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w31376",
+            "article-title": "A Welfare Analysis of Tax Audits across the Income Distribution",
+            "author": "Boning",
+            "year": "2023"
+        },
+        {
+            "key": "2025021416064588600_bib12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.3790092",
+            "article-title": "Tax Administration and Racial Justice: The Illegal Denial of Tax Based Pandemic Relief to the Nation\u2019s Incarcerated",
+            "volume": "72",
+            "author": "Book",
+            "year": "2021",
+            "journal-title": "South Carolina Law Review"
+        },
+        {
+            "key": "2025021416064588600_bib13",
+            "doi-asserted-by": "publisher",
+            "first-page": "755",
+            "DOI": "10.1017/cbo9780511609800.043",
+            "article-title": "The Tax Treatment of Children: Separate But Unequal",
+            "volume": "54",
+            "author": "Brown",
+            "year": "2005",
+            "journal-title": "Emory Law Journal"
+        },
+        {
+            "key": "2025021416064588600_bib14",
+            "first-page": "329",
+            "article-title": "Shades of the American Dream",
+            "volume": "87",
+            "author": "Brown",
+            "year": "2009",
+            "journal-title": "Washington University Law Review"
+        },
+        {
+            "key": "2025021416064588600_bib15",
+            "first-page": "205",
+            "article-title": "Homeownership in Black and White: The Role of Tax Policy in Increasing Housing Inequity",
+            "volume": "49",
+            "author": "Brown",
+            "year": "2018",
+            "journal-title": "University of Memphis Law Review"
+        },
+        {
+            "volume-title": "The Whiteness of Wealth: How the Tax System Impoverishes Black Americans\u2014And How We Can Fix It",
+            "year": "2021",
+            "author": "Brown",
+            "key": "2025021416064588600_bib16"
+        },
+        {
+            "key": "2025021416064588600_bib17",
+            "first-page": "77",
+            "article-title": "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification",
+            "volume": "81",
+            "author": "Buolamwini",
+            "year": "2018",
+            "journal-title": "Proceedings of Machine Learning Research"
+        },
+        {
+            "volume-title": "Using Publicly Available Information to Proxy for Unidentified Race and Ethnicity: A Methodology and Assessment",
+            "year": "2014",
+            "author": "CFPB (Consumer Financial Protection Bureau)",
+            "key": "2025021416064588600_bib18"
+        },
+        {
+            "key": "2025021416064588600_bib19",
+            "doi-asserted-by": "publisher",
+            "first-page": "339",
+            "DOI": "10.1145/3287560.3287594",
+            "article-title": "Fairness under Unawareness: Assessing Disparity When Protected Class Is Unobserved",
+            "volume-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency",
+            "author": "Chen",
+            "year": "2019"
+        },
+        {
+            "key": "2025021416064588600_bib20",
+            "doi-asserted-by": "publisher",
+            "first-page": "711",
+            "DOI": "10.1093/qje/qjz042",
+            "article-title": "Race and Economic Opportunity in the United States: An Intergenerational Perspective",
+            "volume": "135",
+            "author": "Chetty",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025021416064588600_bib21",
+            "first-page": "1",
+            "article-title": "Left Behind: The One-Third of Children in Families Who Earn Too Little to Get the Full Child Tax Credit",
+            "volume-title": "Center on Poverty and Social Policy",
+            "author": "Collyer",
+            "year": "2019"
+        },
+        {
+            "article-title": "Audits of EITC Returns: By the Numbers",
+            "year": "2022",
+            "author": "Congressional Research Service",
+            "key": "2025021416064588600_bib22"
+        },
+        {
+            "key": "2025021416064588600_bib23",
+            "doi-asserted-by": "publisher",
+            "first-page": "114",
+            "DOI": "10.1016/j.eeh.2015.10.001",
+            "article-title": "The Mortality Consequences of Distinctively Black Names",
+            "volume": "59",
+            "author": "Cook",
+            "year": "2016",
+            "journal-title": "Explorations in Economic History"
+        },
+        {
+            "volume-title": "Testimony to House Committee on Ways and Means",
+            "year": "10, 2021",
+            "author": "Dean",
+            "key": "2025021416064588600_bib24"
+        },
+        {
+            "key": "2025021416064588600_bib25",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2139/ssrn.4733299",
+            "article-title": "Statistical Bias in Racial and Ethnic Disparity Estimates Using BIFSG",
+            "author": "Derby",
+            "year": "2024"
+        },
+        {
+            "key": "2025021416064588600_bib26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Elzayn Hadi, Smith Evelyn, Hertz Thomas, Guage Cameron, Ramesh Arun, Fisher Robin, Ho Daniel E., and Goldin Jacob, \u201cReplication Data for: \u2018Measuring and Mitigating Racial Disparities in Tax Audits\u2019,\u201d 2024, Harvard Dataverse, 10.7910/DVN/OF8XAX",
+            "DOI": "10.1093/qje/qjae027"
+        },
+        {
+            "key": "2025021416064588600_bib27",
+            "doi-asserted-by": "publisher",
+            "first-page": "467",
+            "DOI": "10.1017/pan.2020.38",
+            "article-title": "Machine Learning Predictions as Regression Covariates",
+            "volume": "29",
+            "author": "Fong",
+            "year": "2021",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "key": "2025021416064588600_bib28",
+            "doi-asserted-by": "publisher",
+            "first-page": "767",
+            "DOI": "10.1162/0033553041502180",
+            "article-title": "The Causes and Consequences of Distinctively Black Names",
+            "volume": "119",
+            "author": "Fryer",
+            "year": "2004",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025021416064588600_bib29",
+            "first-page": "1719",
+            "article-title": "Whose Child Is This? Improving Child-Claiming Rules in Safety-Net Programs",
+            "volume": "131",
+            "author": "Goldin",
+            "year": "2021",
+            "journal-title": "Yale Law Journal"
+        },
+        {
+            "key": "2025021416064588600_bib30",
+            "doi-asserted-by": "publisher",
+            "first-page": "123",
+            "DOI": "10.1086/717919",
+            "article-title": "Who Benefits from the Child Tax Credit?",
+            "volume": "75",
+            "author": "Goldin",
+            "year": "2022",
+            "journal-title": "National Tax Journal"
+        },
+        {
+            "article-title": "IRS Return Selection: Wage and Investment Division Should Define Audit Objectives and Refine Other Internal Controls",
+            "year": "2015",
+            "author": "Government Accountability Office (GAO)",
+            "key": "2025021416064588600_bib31"
+        },
+        {
+            "article-title": "Refundable Tax Credits: Comprehensive Compliance Strategy and Expanded Use of Data Could Strengthen IRS\u2019s Efforts to Address Noncompliance",
+            "year": "2017",
+            "author": "Government Accountability Office (GAO)",
+            "key": "2025021416064588600_bib33"
+        },
+        {
+            "article-title": "Artificial Intelligence: An Accountability Framework for Federal Agencies and Other Entities",
+            "year": "2021",
+            "author": "Government Accountability Office (GAO)",
+            "key": "2025021416064588600_bib32"
+        },
+        {
+            "key": "2025021416064588600_bib34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2304.09126",
+            "article-title": "An Improved BISG for Inferring Race from Surname and Geolocation",
+            "volume-title": "arXiv preprint",
+            "author": "Greengard",
+            "year": "2023"
+        },
+        {
+            "key": "2025021416064588600_bib35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w28542",
+            "article-title": "Tax Evasion at the Top of the Income Distribution: Theory and Evidence",
+            "author": "Guyton",
+            "year": "2021"
+        },
+        {
+            "key": "2025021416064588600_bib36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w24465",
+            "article-title": "The Effects of EITC Correspondence Audits on Low-Income Earners",
+            "author": "Guyton",
+            "year": "2018"
+        },
+        {
+            "key": "2025021416064588600_bib37",
+            "doi-asserted-by": "publisher",
+            "first-page": "13",
+            "DOI": "10.1111/1475-6773.13099",
+            "article-title": "Imputation of Race/Ethnicity to Enable Measurement of HEDIS Performance by Race/Ethnicity",
+            "volume": "54",
+            "author": "Haas",
+            "year": "2019",
+            "journal-title": "Health Services Research"
+        },
+        {
+            "key": "2025021416064588600_bib38",
+            "doi-asserted-by": "publisher",
+            "first-page": "149",
+            "DOI": "10.1086/717959",
+            "article-title": "Income Inequality, Race, and the EITC",
+            "volume": "75",
+            "author": "Hardy",
+            "year": "2022",
+            "journal-title": "National Tax Journal"
+        },
+        {
+            "key": "2025021416064588600_bib39",
+            "first-page": "148",
+            "article-title": "Issues Affecting Low-Income Filers",
+            "volume-title": "The Crisis in Tax Administration",
+            "author": "Holtzblatt",
+            "year": "2004"
+        },
+        {
+            "key": "2025021416064588600_bib40",
+            "doi-asserted-by": "publisher",
+            "first-page": "263",
+            "DOI": "10.1093/pan/mpw001",
+            "article-title": "Improving Ecological Inference by Predicting Individual Ethnicity from Voter Registration Records",
+            "volume": "24",
+            "author": "Imai",
+            "year": "2016",
+            "journal-title": "Political Analysis"
+        },
+        {
+            "article-title": "Internal Revenue Manual 4.19.20",
+            "year": "2011",
+            "author": "Internal Revenue Service (IRS)",
+            "key": "2025021416064588600_bib41"
+        },
+        {
+            "article-title": "Internal Revenue Service Data Book, 2015",
+            "year": "2016",
+            "author": "Internal Revenue Service (IRS)",
+            "key": "2025021416064588600_bib42"
+        },
+        {
+            "article-title": "Commissioner Letter to Chairman Wyden",
+            "year": "2023",
+            "author": "Internal Revenue Service (IRS)",
+            "key": "2025021416064588600_bib43"
+        },
+        {
+            "article-title": "EITC Fast Facts",
+            "year": "2023",
+            "author": "Internal Revenue Service (IRS)",
+            "key": "2025021416064588600_bib44"
+        },
+        {
+            "key": "2025021416064588600_bib45",
+            "article-title": "I.R.S. More Likely to Audit the Poor and Not the Rich",
+            "author": "Johnston",
+            "year": "16, 2000",
+            "journal-title": "New York Times"
+        },
+        {
+            "key": "2025021416064588600_bib46",
+            "doi-asserted-by": "publisher",
+            "first-page": "1959",
+            "DOI": "10.1287/mnsc.2020.3850",
+            "article-title": "Assessing Algorithmic Fairness with Unobserved Protected Class Using Data Combination",
+            "volume": "68",
+            "author": "Kallus",
+            "year": "2022",
+            "journal-title": "Management Science"
+        },
+        {
+            "article-title": "Where in the U.S. Are You Most Likely to Be Audited by the IRS?",
+            "year": "2019",
+            "author": "Kiel",
+            "key": "2025021416064588600_bib47"
+        },
+        {
+            "key": "2025021416064588600_bib48",
+            "doi-asserted-by": "publisher",
+            "first-page": "237",
+            "DOI": "10.1093/qje/qjx032",
+            "article-title": "Human Decisions and Machine Predictions",
+            "volume": "133",
+            "author": "Kleinberg",
+            "year": "2018",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025021416064588600_bib49",
+            "doi-asserted-by": "publisher",
+            "first-page": "113",
+            "DOI": "10.1093/jla/laz001",
+            "article-title": "Discrimination in the Age of Algorithms",
+            "volume": "10",
+            "author": "Kleinberg",
+            "year": "2018",
+            "journal-title": "Journal of Legal Analysis"
+        },
+        {
+            "key": "2025021416064588600_bib50",
+            "doi-asserted-by": "publisher",
+            "first-page": "419",
+            "DOI": "10.1146/annurev-polisci-051120-111443",
+            "article-title": "Testing Causal Theories with Learned Proxies",
+            "volume": "25",
+            "author": "Knox",
+            "year": "2022",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "article-title": "Social Welfare Considerations of EITC Qualifying Child Noncompliance",
+            "year": "2020",
+            "author": "Leibel",
+            "key": "2025021416064588600_bib51"
+        },
+        {
+            "key": "2025021416064588600_bib52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.1812.08999",
+            "article-title": "Feature-Wise Bias Amplification",
+            "author": "Leino",
+            "year": "2018"
+        },
+        {
+            "key": "2025021416064588600_bib53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w32312",
+            "article-title": "Quantifying the Uncertainty of Imputed Demographic Disparity Estimates: The Dual-Bootstrap",
+            "author": "Lu",
+            "year": "2024"
+        },
+        {
+            "key": "2025021416064588600_bib54",
+            "article-title": "Increasing Family Complexity and Volatility: The Difficulty in Determining Child Tax Benefits",
+            "author": "Maag",
+            "year": "2016",
+            "journal-title": "Tax Policy Center report"
+        },
+        {
+            "key": "2025021416064588600_bib55",
+            "doi-asserted-by": "publisher",
+            "first-page": "143",
+            "DOI": "10.7758/RSF.2022.8.5.07",
+            "article-title": "The Earned Income Tax Credit, Family Complexity, and Children\u2019s Living Arrangements",
+            "volume": "8",
+            "author": "Michelmore",
+            "year": "2022",
+            "journal-title": "Russell Sage Foundation Journal of the Social Sciences"
+        },
+        {
+            "key": "2025021416064588600_bib56",
+            "first-page": "751",
+            "article-title": "A Black Critique of the Internal Revenue Code",
+            "author": "Moran",
+            "year": "1996",
+            "journal-title": "Wisconsin Law Review"
+        },
+        {
+            "article-title": "Annual Report to Congress 2019",
+            "year": "2019",
+            "author": "National Taxpayer Advocate",
+            "key": "2025021416064588600_bib57"
+        },
+        {
+            "article-title": "Report: Making the EITC Work for Taxpayers and the Government",
+            "year": "2019",
+            "author": "National Taxpayer Advocate",
+            "key": "2025021416064588600_bib58"
+        },
+        {
+            "article-title": "Annual Report to Congress 2021",
+            "year": "2021",
+            "author": "National Taxpayer Advocate",
+            "key": "2025021416064588600_bib59"
+        },
+        {
+            "volume-title": "Race, Ethnicity, and Language Data: Standardization for Health Care Quality Improvement",
+            "year": "2009",
+            "author": "Nerenz",
+            "key": "2025021416064588600_bib60"
+        },
+        {
+            "key": "2025021416064588600_bib61",
+            "doi-asserted-by": "publisher",
+            "first-page": "447",
+            "DOI": "10.1126/science.aax2342",
+            "article-title": "Dissecting Racial Bias in an Algorithm Used to Manage the Health of Populations",
+            "volume": "366",
+            "author": "Obermeyer",
+            "year": "2019",
+            "journal-title": "Science"
+        },
+        {
+            "article-title": "Circular A-123, Appendix C: Requirements for Payment Integrity Improvement",
+            "year": "2021",
+            "author": "Office of Management and Budget (OMB)",
+            "key": "2025021416064588600_bib62"
+        },
+        {
+            "key": "2025021416064588600_bib63",
+            "doi-asserted-by": "publisher",
+            "first-page": "39",
+            "DOI": "10.1145/3287560.3287567",
+            "article-title": "Problem Formulation and Fairness",
+            "volume-title": "Proceedings of the Conference on Fairness, Accountability, and Transparency",
+            "author": "Passi",
+            "year": "2019"
+        },
+        {
+            "key": "2025021416064588600_bib64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2102.10019",
+            "article-title": "The Disparate Impact of Uncertainty: Affirmative Action vs. Affirmative Information",
+            "author": "Reich",
+            "year": "2021"
+        },
+        {
+            "key": "2025021416064588600_bib65",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1038/sdata.2018.25",
+            "article-title": "Demographic Aspects of First Names",
+            "volume": "5",
+            "author": "Tzioumis",
+            "year": "2018",
+            "journal-title": "Scientific Data"
+        },
+        {
+            "article-title": "Decennial Census Surname Files (2010, 2000)",
+            "year": "2021",
+            "author": "U.S. Census Bureau",
+            "key": "2025021416064588600_bib66"
+        },
+        {
+            "key": "2025021416064588600_bib67",
+            "first-page": "7009",
+            "article-title": "Advancing Racial Equity and Support for Underserved Communities through the Federal Government",
+            "volume-title": "Federal Register",
+            "author": "U.S. Executive Order 13985",
+            "year": "2021"
+        },
+        {
+            "article-title": "Agency Financial Report: Fiscal Year 2021",
+            "year": "2022",
+            "author": "U.S. Treasury Department",
+            "key": "2025021416064588600_bib68"
+        },
+        {
+            "key": "2025021416064588600_bib69",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1080/2330443X.2018.1427012",
+            "article-title": "Using First Name Information to Improve Race and Ethnicity Classification",
+            "volume": "5",
+            "author": "Voicu",
+            "year": "2018",
+            "journal-title": "Statistics and Public Policy"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjae027/60122543/qjae027.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/140/1/113/60122543/qjae027.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/140/1/113/60122543/qjae027.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                14
+            ]
+        ],
+        "date-time": "2025-02-14T16:07:02Z",
+        "timestamp": 1739549222000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/140/1/113/7778259"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                26
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    26
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    1,
+                    11
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/qje/qjae027",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0033-5533"
+        },
+        {
+            "type": "electronic",
+            "value": "1531-4650"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                26
+            ]
+        ]
+    }
+}

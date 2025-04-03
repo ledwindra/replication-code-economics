@@ -1,0 +1,884 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                19
+            ]
+        ],
+        "date-time": "2025-03-19T15:20:28Z",
+        "timestamp": 1742397628342,
+        "version": "3.38.0"
+    },
+    "reference-count": 75,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        10
+                    ]
+                ],
+                "date-time": "2024-04-10T00:00:00Z",
+                "timestamp": 1712707200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                6
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This article studies the problem of optimally allocating treatments in the presence of spillover effects, using information from a (quasi-)experiment. I introduce a method that maximizes the sample analogue of average social welfare when spillovers occur. I construct semi-parametric welfare estimators with known and unknown propensity scores and cast the optimization problem into a mixed-integer linear program, which can be solved using off-the-shelf algorithms. I derive a strong set of guarantees on regret, i.e. the difference between the maximum attainable welfare and the welfare evaluated at the estimated policy. The proposed method presents attractive features for applications: (i) it does not require network information of the target population; (ii) it exploits heterogeneity in treatment effects for targeting individuals; (iii) it does not rely on the correct specification of a particular structural model; and (iv) it accommodates constraints on the policy function. An application for targeting information on social networks illustrates the advantages of the method.</jats:p>",
+    "DOI": "10.1093/restud/rdae041",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2024-04-08T14:45:09Z",
+        "timestamp": 1712587509000
+    },
+    "page": "1257-1292",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "Policy Targeting under Network Interference"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Davide",
+            "family": "Viviano",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Harvard University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                10
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025030619564716200_rdae041-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "article-title": "Sampling-Based Versus Design-Based Uncertainty in Regression Analysis",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2018",
+            "author": "Akbarpour",
+            "key": "2025030619564716200_rdae041-B2"
+        },
+        {
+            "year": "2020",
+            "author": "Alidaee",
+            "key": "2025030619564716200_rdae041-B3"
+        },
+        {
+            "year": "2021",
+            "author": "Ananth",
+            "key": "2025030619564716200_rdae041-B4"
+        },
+        {
+            "year": "2015",
+            "author": "Armstrong",
+            "key": "2025030619564716200_rdae041-B5"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1912",
+            "DOI": "10.1214/16-AOAS1005",
+            "article-title": "Estimating Average Causal Effects Under General Interference, with Application to a Social Network Experiment",
+            "volume": "11",
+            "author": "Aronow",
+            "year": "2017",
+            "journal-title": "The Annals of Applied Statistics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "230",
+            "DOI": "10.1080/01621459.2016.1241178",
+            "article-title": "Exact p-Values for Network Interference",
+            "volume": "113",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "year": "2018",
+            "author": "Athey",
+            "key": "2025030619564716200_rdae041-B8"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.3982/ECTA15732",
+            "article-title": "Policy Learning with Observational Data",
+            "volume": "89",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B10",
+            "doi-asserted-by": "publisher",
+            "first-page": "347",
+            "DOI": "10.3982/ECTA19794",
+            "article-title": "Identification and Estimation of a Partially Linear Regression Model Using Network Data",
+            "volume": "90",
+            "author": "Auerbach",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1236498",
+            "DOI": "10.1126/science.1236498",
+            "article-title": "The Diffusion of Microfinance",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "year": "2014",
+            "author": "Banerjee",
+            "key": "2025030619564716200_rdae041-B12"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "2453",
+            "DOI": "10.1093/restud/rdz008",
+            "article-title": "Using Gossips to Spread Information: Theory and Evidence from Two Randomized Controlled Trials",
+            "volume": "86",
+            "author": "Banerjee",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "486",
+            "DOI": "10.1198/jasa.2009.0015",
+            "article-title": "Inferring Optimal Peer Assignment from Experimental Data",
+            "volume": "104",
+            "author": "Bhattacharya",
+            "year": "2009",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "168",
+            "DOI": "10.1016/j.jeconom.2011.11.007",
+            "article-title": "Inferring Welfare Maximizing Treatment Assignment Under Budget Constraints",
+            "volume": "167",
+            "author": "Bhattacharya",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2019",
+            "author": "Bhattacharya",
+            "key": "2025030619564716200_rdae041-B16"
+        },
+        {
+            "year": "2017",
+            "author": "Bloch",
+            "key": "2025030619564716200_rdae041-B17"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1038/nature11421",
+            "article-title": "A 61-Million-Person Experiment in Social Influence and Political Mobilization",
+            "volume": "489",
+            "author": "Bond",
+            "year": "2012",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "323",
+            "DOI": "10.1051/ps:2005018",
+            "article-title": "Theory of Classification: A Survey of Some Recent Advances",
+            "volume": "9",
+            "author": "Boucheron",
+            "year": "2005",
+            "journal-title": "ESAIM: Probability and Statistics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2454",
+            "DOI": "10.1257/aer.20170861",
+            "article-title": "Using Aggregated Relational Data to Feasibly Identify Network Structure Without Network Data",
+            "volume": "110",
+            "author": "Breza",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "1941",
+            "author": "Brooks",
+            "key": "2025030619564716200_rdae041-B21"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B22",
+            "first-page": "81",
+            "article-title": "Social Networks and the Decision to Insure",
+            "volume": "7",
+            "author": "Cai",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "year": "2018",
+            "author": "Chernozhukov",
+            "key": "2025030619564716200_rdae041-B23"
+        },
+        {
+            "year": "2022",
+            "author": "Chiang",
+            "key": "2025030619564716200_rdae041-B24"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B25",
+            "first-page": "2991",
+            "article-title": "Tight Lower Bounds on the Vc-Dimension of Geometric Set Systems",
+            "volume": "20",
+            "author": "Csik\u00f3s",
+            "year": "2019",
+            "journal-title": "The Journal of Machine Learning Research"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA13564",
+            "article-title": "Identifying Preferences in Networks with Bounded Degree",
+            "volume": "86",
+            "author": "De Paula",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "volume-title": "A Probabilistic Theory of Pattern Recognition",
+            "year": "2013",
+            "author": "Devroye",
+            "key": "2025030619564716200_rdae041-B27"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1739",
+            "DOI": "10.1257/aer.101.5.1739",
+            "article-title": "Peer Effects, Teacher Incentives, and the Impact of Tracking: Evidence from a Randomized Evaluation in Kenya",
+            "volume": "101",
+            "author": "Duflo",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2019",
+            "author": "Eckles",
+            "key": "2025030619564716200_rdae041-B29"
+        },
+        {
+            "year": "2019",
+            "author": "Egger",
+            "key": "2025030619564716200_rdae041-B30"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "DOI": "10.1016/j.jeconom.2013.01.003",
+            "article-title": "Predicting Binary Outcomes",
+            "volume": "174",
+            "author": "Elliott",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2015.06.017",
+            "article-title": "Robust Inference on Average Treatment Effects with Possibly More Covariates Than Observations",
+            "volume": "189",
+            "author": "Farrell",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "86",
+            "DOI": "10.1016/j.jeconom.2008.05.018",
+            "article-title": "Exact Computation of Max Weighted Score Estimators",
+            "volume": "146",
+            "author": "Florios",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2445",
+            "DOI": "10.3982/ECTA16173",
+            "article-title": "Targeting Interventions in Networks",
+            "volume": "88",
+            "author": "Galeotti",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1080/07350015.2013.801251",
+            "article-title": "Social Networks and the Identification of Peer Effects",
+            "volume": "31",
+            "author": "Goldsmith-Pinkham",
+            "year": "2013",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "volume-title": "The Econometric Analysis of Network Data",
+            "year": "2020",
+            "author": "Graham",
+            "key": "2025030619564716200_rdae041-B36"
+        },
+        {
+            "year": "2010",
+            "author": "Graham",
+            "key": "2025030619564716200_rdae041-B37"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1683",
+            "DOI": "10.3982/ECTA6630",
+            "article-title": "Asymptotics for Statistical Treatment Rules",
+            "volume": "77",
+            "author": "Hirano",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "832",
+            "DOI": "10.1198/016214508000000292",
+            "article-title": "Toward Causal Inference with Interference",
+            "volume": "103",
+            "author": "Hudgens",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1857",
+            "DOI": "10.1257/aer.102.5.1857",
+            "article-title": "Social Capital and Social Quilts: Network Patterns of Favor Exchange",
+            "volume": "102",
+            "author": "Jackson",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2018",
+            "author": "Jackson",
+            "key": "2025030619564716200_rdae041-B41"
+        },
+        {
+            "year": "2003",
+            "author": "Kempe",
+            "key": "2025030619564716200_rdae041-B42"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.3982/ECTA13288",
+            "article-title": "Who Should be Treated? Empirical Welfare Maximization Methods for Treatment Choice",
+            "volume": "86",
+            "author": "Kitagawa",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "561",
+            "DOI": "10.1080/07350015.2019.1688664",
+            "article-title": "Equality-Minded Treatment Choice",
+            "volume": "39",
+            "author": "Kitagawa",
+            "year": "2021",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B45",
+            "doi-asserted-by": "publisher",
+            "first-page": "109",
+            "DOI": "10.1016/j.jeconom.2021.09.009",
+            "article-title": "Who Should Get Vaccinated? Individualized Allocation of Vaccines Over Sir Network",
+            "volume": "232",
+            "author": "Kitagawa",
+            "year": "2023",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2020",
+            "author": "Kline",
+            "key": "2025030619564716200_rdae041-B46"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B47",
+            "first-page": "743",
+            "article-title": "Optimal Treatment Allocations in Space and Time for On-Line Control of an Emerging Infectious Disease",
+            "volume": "67",
+            "author": "Laber",
+            "year": "2018",
+            "journal-title": "Journal of the Royal Statistical Society: Series C (Applied Statistics)"
+        },
+        {
+            "year": "2011",
+            "author": "Ledoux",
+            "key": "2025030619564716200_rdae041-B48"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "368",
+            "DOI": "10.1162/rest_a_00818",
+            "article-title": "Treatment and Spillover Effects Under Network Interference",
+            "volume": "102",
+            "author": "Leung",
+            "year": "2020",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.3982/ECTA17841",
+            "article-title": "Causal Inference Under Approximate Neighborhood Interference",
+            "volume": "90",
+            "author": "Leung",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B51",
+            "doi-asserted-by": "publisher",
+            "first-page": "641",
+            "DOI": "10.3982/ECTA19816",
+            "article-title": "Network Cluster-Robust Inference",
+            "volume": "91",
+            "author": "Leung",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1651",
+            "DOI": "10.1080/01621459.2018.1512863",
+            "article-title": "Randomization Inference for Peer Effects",
+            "volume": "114",
+            "author": "Li",
+            "year": "2019",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "e214",
+            "DOI": "10.1002/sta4.214",
+            "article-title": "Doubly Robust Estimation in Observational Studies with Partial Interference",
+            "volume": "8",
+            "author": "Liu",
+            "year": "2019",
+            "journal-title": "Stat"
+        },
+        {
+            "year": "2013",
+            "author": "Manresa",
+            "key": "2025030619564716200_rdae041-B54"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.2307/2298123",
+            "article-title": "Identification of Endogenous Social Effects: The Reflection Problem",
+            "volume": "60",
+            "author": "Manski",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.1111/j.1468-0262.2004.00530.x",
+            "article-title": "Statistical Treatment Rules for Heterogeneous Populations",
+            "volume": "72",
+            "author": "Manski",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "S1",
+            "DOI": "10.1111/j.1368-423X.2012.00368.x",
+            "article-title": "Identification of Treatment Response with Social Interactions",
+            "volume": "16",
+            "author": "Manski",
+            "year": "2013",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B58",
+            "doi-asserted-by": "publisher",
+            "first-page": "825",
+            "DOI": "10.3982/ECTA16437",
+            "article-title": "Model Selection for Treatment Choice: Penalized Welfare Maximization",
+            "volume": "89",
+            "author": "Mbakop",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2017",
+            "author": "Muralidharan",
+            "key": "2025030619564716200_rdae041-B59"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "1080",
+            "DOI": "10.1257/aer.20161226",
+            "article-title": "Does Helping John Help Sue? Evidence of Spillovers in Education",
+            "volume": "109",
+            "author": "Opper",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "846",
+            "DOI": "10.1080/01621459.1994.10476818",
+            "article-title": "Estimation of Regression Coefficients When Some Regressors are not Always Observed",
+            "volume": "89",
+            "author": "Robins",
+            "year": "1994",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/biomet/asad019",
+            "article-title": "Causal Inference with Misspecified Exposure Mappings: Separating Definitions and Assumptions",
+            "volume": "111",
+            "author": "S\u00e4vje",
+            "year": "2024",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "673",
+            "DOI": "10.1214/20-AOS1973",
+            "article-title": "Average Treatment Effects in the Presence of Unknown Interference",
+            "volume": "49",
+            "author": "S\u00e4vje",
+            "year": "2021",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1055",
+            "DOI": "10.1111/j.1540-5907.2012.00592.x",
+            "article-title": "Detecting Spillover Effects: Design and Analysis of Multilevel Experiments",
+            "volume": "56",
+            "author": "Sinclair",
+            "year": "2012",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "1398",
+            "DOI": "10.1198/016214506000000636",
+            "article-title": "What do Randomized Studies of Housing Mobility Demonstrate? Causal Inference in the Face of Interference",
+            "volume": "101",
+            "author": "Sobel",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1016/j.jeconom.2009.02.013",
+            "article-title": "Minimax Regret Treatment Choice with Finite Samples",
+            "volume": "151",
+            "author": "Stoye",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.1016/j.jeconom.2011.06.012",
+            "article-title": "Minimax Regret Treatment Choice with Covariates or With Limited Validity of Experiments",
+            "volume": "166",
+            "author": "Stoye",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "e219",
+            "DOI": "10.1002/sta4.219",
+            "article-title": "Modelling and Estimation for Optimal Treatment Decision with Interference",
+            "volume": "8",
+            "author": "Su",
+            "year": "2019",
+            "journal-title": "Stat"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1177/0962280210386779",
+            "article-title": "On Causal Inference in the Presence of Interference",
+            "volume": "21",
+            "author": "Tchetgen",
+            "year": "2012",
+            "journal-title": "Statistical Methods in Medical Research"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1016/j.jeconom.2011.06.013",
+            "article-title": "Statistical Treatment Choice Based on Asymmetric Minimax Regret Criteria",
+            "volume": "166",
+            "author": "Tetenov",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B71",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108231596",
+            "volume-title": "High-Dimensional Probability: An Introduction with Applications in Data Science",
+            "author": "Vershynin",
+            "year": "2018"
+        },
+        {
+            "year": "2020",
+            "author": "Viviano",
+            "key": "2025030619564716200_rdae041-B72"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "6694",
+            "DOI": "10.1287/mnsc.2020.3844",
+            "article-title": "Experimenting in Equilibrium",
+            "volume": "67",
+            "author": "Wager",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B74",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108627771",
+            "volume-title": "High-dimensional Statistics: A Non-Asymptotic Viewpoint",
+            "author": "Wainwright",
+            "year": "2019"
+        },
+        {
+            "key": "2025030619564716200_rdae041-B75",
+            "doi-asserted-by": "publisher",
+            "first-page": "148",
+            "DOI": "10.1287/opre.2022.2271",
+            "article-title": "Offline Multi-Action Policy Learning: Generalization and Optimization",
+            "volume": "71",
+            "author": "Zhou",
+            "year": "2023",
+            "journal-title": "Operations Research"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae041/57799234/rdae041.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/2/1257/57799234/rdae041.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/2/1257/57799234/rdae041.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                6
+            ]
+        ],
+        "date-time": "2025-03-06T19:57:56Z",
+        "timestamp": 1741291076000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/2/1257/7643762"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                10
+            ]
+        ]
+    },
+    "references-count": 75,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    4,
+                    10
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    6
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae041",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                3
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                4,
+                10
+            ]
+        ]
+    }
+}
