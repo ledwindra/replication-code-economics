@@ -1,0 +1,816 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                9
+            ]
+        ],
+        "date-time": "2025-04-09T04:24:49Z",
+        "timestamp": 1744172689073,
+        "version": "3.40.3"
+    },
+    "reference-count": 67,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        12,
+                        27
+                    ]
+                ],
+                "date-time": "2024-12-27T00:00:00Z",
+                "timestamp": 1735257600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 1,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                8
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Two in five Americans have medical debt, nearly half of whom owe at least $2,500. Concerned by this burden, governments and private donors have undertaken large, high-profile efforts to relieve medical debt. We partnered with RIP Medical Debt (now Undue Medical Debt) to conduct two randomized experiments that relieved medical debt with a face value of $169 million for 83,401 people between 2018 and 2020. Our experiments focused on downstream medical debt that had been sold to debt collectors, and one of our experiments straddled an industry-wide pullback in the reporting of medical debt to the credit bureaus, allowing us to estimate the effects of debt relief with and without counterfactual reporting. We track outcomes using credit reports, collections account data, and a multimodal survey. There are three sets of results. First, we find a modest improvement in credit access when there is counterfactual credit reporting, but no impact on credit report outcomes when there is not. Second, we estimate that debt relief causes a moderate but statistically significant reduction in payments of existing medical bills. Third, we find no effects on survey measures of mental and physical health, healthcare utilization, and financial wellness. Taken together, our results indicate that the strong correlations documented in prior research do not translate into causal effects for downstream medical debt relief.</jats:p>",
+    "DOI": "10.1093/qje/qjae045",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                27
+            ]
+        ],
+        "date-time": "2024-12-27T01:34:36Z",
+        "timestamp": 1735263276000
+    },
+    "page": "1187-1241",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "The Effects of Medical Debt Relief: Evidence from Two Randomized Experiments"
+    ],
+    "prefix": "10.1093",
+    "volume": "140",
+    "author": [
+        {
+            "given": "Raymond",
+            "family": "Kluender",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Harvard Business School ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Neale",
+            "family": "Mahoney",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University and National Bureau of Economic Research ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Francis",
+            "family": "Wong",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Ludwig Maximilian University of Munich ,",
+                    "place": [
+                        "Germany"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Wesley",
+            "family": "Yin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of California, Los Angeles, and National Bureau of Economic Research ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                26
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025040815564576500_bib1",
+            "doi-asserted-by": "publisher",
+            "first-page": "389",
+            "DOI": "10.1257/aeri.20210515",
+            "article-title": "The Impact of Financial Assistance Programs on Health Care Utilization: Evidence from Kaiser Permanente",
+            "volume": "4",
+            "author": "Adams",
+            "year": "2022",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2025040815564576500_bib2",
+            "doi-asserted-by": "publisher",
+            "first-page": "1481",
+            "DOI": "10.1198/016214508000000841",
+            "article-title": "Multiple Inference and Gender Differences in the Effects of Early Intervention: A Reevaluation of the Abecedarian, Perry Preschool, and Early Training Projects",
+            "volume": "103",
+            "author": "Anderson",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025040815564576500_bib3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w28901",
+            "article-title": "Personal Bankruptcy and the Accumulation of Shadow Debt",
+            "author": "Argyle",
+            "year": "2021"
+        },
+        {
+            "key": "2025040815564576500_bib4",
+            "doi-asserted-by": "publisher",
+            "first-page": "779",
+            "DOI": "10.1016/S1573-4420(87)80008-3",
+            "article-title": "Income Maintenance and Social Insurance",
+            "volume-title": "Handbook of Public Economics",
+            "author": "Atkinson",
+            "year": "1987"
+        },
+        {
+            "key": "2025040815564576500_bib5",
+            "doi-asserted-by": "publisher",
+            "first-page": "1713",
+            "DOI": "10.1056/NEJMsa1212321",
+            "article-title": "The Oregon Experiment\u2014Effects of Medicaid on Clinical Outcomes",
+            "volume": "368",
+            "author": "Baicker",
+            "year": "2013",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2025040815564576500_bib6",
+            "doi-asserted-by": "publisher",
+            "first-page": "406",
+            "DOI": "10.1007/s11764-019-00761-1",
+            "article-title": "The Social and Economic Toll of Cancer Survivorship: A Complex Web of Financial Sacrifice",
+            "volume": "13",
+            "author": "Banegas",
+            "year": "2019",
+            "journal-title": "Journal of Cancer Survivorship"
+        },
+        {
+            "article-title": "Medical Debt Was Erased from Credit Records for Most Consumers, Potentially Improving Many Americans\u2019 Lives",
+            "year": "2023",
+            "author": "Blavin",
+            "key": "2025040815564576500_bib7"
+        },
+        {
+            "article-title": "The Impact of Social Insurance on Household Debt",
+            "year": "2023",
+            "author": "Bornstein",
+            "key": "2025040815564576500_bib8"
+        },
+        {
+            "key": "2025040815564576500_bib9",
+            "doi-asserted-by": "publisher",
+            "first-page": "104203",
+            "DOI": "10.1016/j.jpubeco.2020.104203",
+            "article-title": "The Credit Consequences of Unpaid Medical Bills",
+            "volume": "187",
+            "author": "Brevoort",
+            "year": "2020",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "article-title": "What Happens When a Hospital Sells Its Debt",
+            "year": "2018",
+            "author": "Bryan",
+            "key": "2025040815564576500_bib10"
+        },
+        {
+            "article-title": "CFPB Survey Finds over One-in-Four Consumers Contacted by Debt Collectors Feel Threatened",
+            "year": "2017",
+            "author": "CFPB",
+            "key": "2025040815564576500_bib11"
+        },
+        {
+            "article-title": "Have Medical Debt? Anything Already Paid or Under $500 Should No Longer Be on Your Credit Report",
+            "year": "2023",
+            "author": "CFPB",
+            "key": "2025040815564576500_bib12"
+        },
+        {
+            "article-title": "Market Snapshot: An Update on Third-Party Debt Collections Tradelines Reporting",
+            "year": "2023",
+            "author": "CFPB",
+            "key": "2025040815564576500_bib13"
+        },
+        {
+            "key": "2025040815564576500_bib14",
+            "doi-asserted-by": "publisher",
+            "first-page": "1617",
+            "DOI": "10.1093/rfs/hhaa085",
+            "article-title": "How Do Consumers Fare When Dealing with Debt Collectors? Evidence from Out-of-Court Settlements",
+            "volume": "34",
+            "author": "Cheng",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025040815564576500_bib15",
+            "doi-asserted-by": "publisher",
+            "first-page": "829",
+            "DOI": "10.1093/qje/qjad048",
+            "article-title": "The Economic Impacts of COVID-19: Evidence from a New Public Database Built Using Private Sector Data",
+            "volume": "139",
+            "author": "Chetty",
+            "year": "2024",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "article-title": "City of New Orleans Partners with Nonprofit for Medical Debt Forgiveness for Eligible Residents",
+            "year": "2023",
+            "author": "City of New Orleans Office of the Mayor",
+            "key": "2025040815564576500_bib16"
+        },
+        {
+            "article-title": "Cook County Medical Debt Relief Initiative Abolishes Nearly $80 Million in Medical Debt for Cook County Residents",
+            "year": "2023",
+            "author": "Cook County Government",
+            "key": "2025040815564576500_bib17"
+        },
+        {
+            "key": "2025040815564576500_bib18",
+            "doi-asserted-by": "publisher",
+            "first-page": "1830",
+            "DOI": "10.1377/hlthaff.2021.01130",
+            "article-title": "Hospital Lawsuits over Unpaid Bills Increased by 37 Percent in Wisconsin from 2001 to 2018",
+            "volume": "40",
+            "author": "Cooper",
+            "year": "2021",
+            "journal-title": "Health Affairs"
+        },
+        {
+            "article-title": "Declining Response Rates in Federal Surveys: Trends and Implications",
+            "year": "2016",
+            "author": "Czajka",
+            "key": "2025040815564576500_bib19"
+        },
+        {
+            "key": "2025040815564576500_bib20",
+            "doi-asserted-by": "publisher",
+            "first-page": "3129",
+            "DOI": "10.1257/aer.20230010",
+            "article-title": "The (Lack of) Anticipatory Effects of the Social Safety Net on Human Capital Investment",
+            "volume": "113",
+            "author": "Deshpande",
+            "year": "2023",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "article-title": "Second Chance: Life with Less Student Debt",
+            "year": "2019",
+            "author": "Di\u00a0Maggio",
+            "key": "2025040815564576500_bib21"
+        },
+        {
+            "key": "2025040815564576500_bib22",
+            "doi-asserted-by": "publisher",
+            "first-page": "196",
+            "DOI": "10.1257/aeri.20230032",
+            "article-title": "Debt Moratoria: Evidence from Student Loan Forbearance",
+            "volume": "6",
+            "author": "Dinerstein",
+            "year": "2024",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2025040815564576500_bib24",
+            "doi-asserted-by": "publisher",
+            "first-page": "1272",
+            "DOI": "10.1257/aer.20130612",
+            "article-title": "Debt Relief and Debtor Outcomes: Measuring the Effects of Consumer Bankruptcy Protection",
+            "volume": "105",
+            "author": "Dobbie",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025040815564576500_bib25",
+            "doi-asserted-by": "publisher",
+            "first-page": "984",
+            "DOI": "10.1257/aer.20171541",
+            "article-title": "Targeted Debt Relief and the Origins of Financial Distress: Experimental Evidence from Distressed Credit Card Borrowers",
+            "volume": "110",
+            "author": "Dobbie",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025040815564576500_bib23",
+            "doi-asserted-by": "publisher",
+            "first-page": "853",
+            "DOI": "10.1162/REST_a_00669",
+            "article-title": "Consumer Bankruptcy and Financial Health",
+            "volume": "99",
+            "author": "Dobbie",
+            "year": "2017",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2025040815564576500_bib26",
+            "doi-asserted-by": "publisher",
+            "first-page": "308",
+            "DOI": "10.1257/aer.20161038",
+            "article-title": "The Economic Consequences of Hospital Admissions",
+            "volume": "108",
+            "author": "Dobkin",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025040815564576500_bib27",
+            "article-title": "New Standards for Credit Report Accuracy May Help Consumers",
+            "author": "FDIC",
+            "year": "2018",
+            "journal-title": "FDIC Consumer News"
+        },
+        {
+            "key": "2025040815564576500_bib28",
+            "doi-asserted-by": "publisher",
+            "first-page": "193",
+            "DOI": "10.1016/j.jfineco.2020.05.002",
+            "article-title": "Debt Collection Agencies and the Supply of Consumer Credit",
+            "volume": "138",
+            "author": "Fedaseyeu",
+            "year": "2020",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025040815564576500_bib29",
+            "doi-asserted-by": "publisher",
+            "first-page": "1057",
+            "DOI": "10.1093/qje/qjs020",
+            "article-title": "The Oregon Health Insurance Experiment: Evidence from the First Year",
+            "volume": "127",
+            "author": "Finkelstein",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025040815564576500_bib30",
+            "doi-asserted-by": "publisher",
+            "first-page": "63",
+            "DOI": "10.1111/jofi.13189",
+            "article-title": "Less Mainstream Credit, More Payday Borrowing? Evidence from Debt Collection Restrictions",
+            "volume": "78",
+            "author": "Fonseca",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025040815564576500_bib31",
+            "doi-asserted-by": "publisher",
+            "first-page": "3100",
+            "DOI": "10.1257/aer.20181243",
+            "article-title": "Liquidity versus Wealth in Household Debt Obligations: Evidence from Housing Policy in the Great Recession",
+            "volume": "110",
+            "author": "Ganong",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025040815564576500_bib32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3386/w31223",
+            "article-title": "The Great Equalizer: Medicare and the Geography of Consumer Financial Strain",
+            "author": "Goldsmith-Pinkham",
+            "year": "2023"
+        },
+        {
+            "key": "2025040815564576500_bib33",
+            "doi-asserted-by": "publisher",
+            "first-page": "767",
+            "DOI": "10.1016/j.jpubeco.2011.01.012",
+            "article-title": "Health Insurance and the Consumer Bankruptcy Decision: Evidence from Expansions of Medicaid",
+            "volume": "95",
+            "author": "Gross",
+            "year": "2011",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2025040815564576500_bib34",
+            "doi-asserted-by": "publisher",
+            "first-page": "e221031",
+            "DOI": "10.1001/jamahealthforum.2022.1031",
+            "article-title": "Trends in Medical Debt During the COVID-19 Pandemic",
+            "volume": "3",
+            "author": "Guttman-Kenney",
+            "year": "2022",
+            "journal-title": "JAMA Health Forum"
+        },
+        {
+            "key": "2025040815564576500_bib35",
+            "doi-asserted-by": "publisher",
+            "first-page": "e2354766",
+            "DOI": "10.1001/jamanetworkopen.2023.54766",
+            "article-title": "Associations of Medical Debt with Health Status, Premature Death, and Mortality in the US",
+            "volume": "7",
+            "author": "Han",
+            "year": "2024",
+            "journal-title": "JAMA Network Open"
+        },
+        {
+            "key": "2025040815564576500_bib36",
+            "doi-asserted-by": "publisher",
+            "first-page": "e2231898",
+            "DOI": "10.1001/jamanetworkopen.2022.31898",
+            "article-title": "Prevalence and Risk Factors for Medical Debt and Subsequent Changes in Social Determinants of Health in the US",
+            "volume": "5",
+            "author": "Himmelstein",
+            "year": "2022",
+            "journal-title": "JAMA Network Open"
+        },
+        {
+            "key": "2025040815564576500_bib37",
+            "doi-asserted-by": "publisher",
+            "first-page": "99",
+            "DOI": "10.1016/j.jpubeco.2018.04.009",
+            "article-title": "The Effect of the Affordable Care Act Medicaid Expansions on Financial Wellbeing",
+            "volume": "163",
+            "author": "Hu",
+            "year": "2018",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "article-title": "Billing and Collections - Section 501(r)(6)",
+            "year": "2024",
+            "author": "IRS",
+            "key": "2025040815564576500_bib38"
+        },
+        {
+            "article-title": "How Effective Is (More) Money? Randomizing Unconditional Cash Transfer Amounts in the US",
+            "year": "2023",
+            "author": "Jaroszewicz",
+            "key": "2025040815564576500_bib39"
+        },
+        {
+            "key": "2025040815564576500_bib40",
+            "doi-asserted-by": "publisher",
+            "first-page": "283",
+            "DOI": "10.1002/cncr.29808",
+            "article-title": "Self-Reported Financial Burden of Cancer Care and Its Effect on Physical and Mental Health-Related Quality of Life Among US Cancer Survivors",
+            "volume": "122",
+            "author": "Kale",
+            "year": "2016",
+            "journal-title": "Cancer"
+        },
+        {
+            "key": "2025040815564576500_bib41",
+            "doi-asserted-by": "publisher",
+            "first-page": "66",
+            "DOI": "10.1257/app.20130399",
+            "article-title": "What Does Debt Relief Do for Development? Evidence from India\u2019s Bailout for Rural Households",
+            "volume": "8",
+            "author": "Kanz",
+            "year": "2016",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2025040815564576500_bib42",
+            "doi-asserted-by": "publisher",
+            "first-page": "27",
+            "DOI": "10.1257/aeri.20180030",
+            "article-title": "Debt Traps? Market Vendors and Moneylender Debt in India and the Philippines",
+            "volume": "1",
+            "author": "Karlan",
+            "year": "2019",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "key": "2025040815564576500_bib43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.4344262",
+            "article-title": "Saving and Consumption Responses to Student Loan Forbearance",
+            "author": "Katz",
+            "year": "2023"
+        },
+        {
+            "article-title": "Response Rates in Telephone Surveys Have Resumed Their Decline",
+            "year": "2019",
+            "author": "Kennedy",
+            "key": "2025040815564576500_bib44"
+        },
+        {
+            "key": "2025040815564576500_bib46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kluender Raymond, Mahoney Neale, Wong Francis, and Yin Wesley, \u201cReplication Data for: \u2018The Effects of Medical Debt Relief: Evidence from Two Randomized Experiments\u2019,\u201d 2024, Harvard Dataverse. 10.7910/DVN/WY6QQO.",
+            "DOI": "10.3386/w32315"
+        },
+        {
+            "article-title": "State Protections Against Medical Debt: A Look at Policies Across the U.S",
+            "year": "2023",
+            "author": "Kona",
+            "key": "2025040815564576500_bib47"
+        },
+        {
+            "article-title": "Hundreds of Hospitals Sue Patients or Threaten Their Credit, a KHN Investigation Finds. Does Yours?",
+            "year": "2022",
+            "author": "Levey",
+            "key": "2025040815564576500_bib48"
+        },
+        {
+            "article-title": "Is There a Statute of Limitations on Medical Bills?",
+            "year": "2023",
+            "author": "Locklear",
+            "key": "2025040815564576500_bib49"
+        },
+        {
+            "article-title": "Health Care Debt in the US: The Broad Consequences of Medical and Dental Bills",
+            "year": "2022",
+            "author": "Lopes",
+            "key": "2025040815564576500_bib45"
+        },
+        {
+            "article-title": "Tax Administration: IRS Oversight of Hospitals\u2019 Tax-Exempt Status",
+            "year": "2023",
+            "author": "Lucas-Judy",
+            "key": "2025040815564576500_bib50"
+        },
+        {
+            "key": "2025040815564576500_bib51",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2139/ssrn.4955765",
+            "article-title": "Can Cash Transfers Improve Maternal Well-Being and Family Processes among Families with Young Children? An Experimental Analysis",
+            "author": "Magnuson",
+            "year": "2024"
+        },
+        {
+            "article-title": "Still Listening: The State of Telephone Surveys",
+            "year": "2018",
+            "author": "Marken",
+            "key": "2025040815564576500_bib52"
+        },
+        {
+            "key": "2025040815564576500_bib53",
+            "article-title": "Hospitals Often Don\u2019t Help Needy Patients, Even Those Who Qualify",
+            "volume-title": "Wall Street Journal",
+            "author": "Matthews",
+            "year": "2022"
+        },
+        {
+            "key": "2025040815564576500_bib54",
+            "doi-asserted-by": "publisher",
+            "first-page": "348",
+            "DOI": "10.1002/pam.22266",
+            "article-title": "The ACA Medicaid Expansion in Michigan and Financial Health",
+            "volume": "40",
+            "author": "Miller",
+            "year": "2021",
+            "journal-title": "Journal of Policy Analysis and Management"
+        },
+        {
+            "key": "2025040815564576500_bib55",
+            "first-page": "1023",
+            "article-title": "An Economic Model of Welfare Stigma",
+            "volume": "73",
+            "author": "Moffitt",
+            "year": "1983",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025040815564576500_bib56",
+            "doi-asserted-by": "publisher",
+            "first-page": "549",
+            "DOI": "10.1089/heq.2020.0090",
+            "article-title": "Disparities in Medical Debt among U.S. Adults with Serious Psychological Distress",
+            "volume": "4",
+            "author": "Novak",
+            "year": "2020",
+            "journal-title": "Health Equity"
+        },
+        {
+            "article-title": "WATCH: Federal Government to Act against \u2018Bad Actors\u2019 in Medical Debt Collection, Harris Says",
+            "year": "2022",
+            "author": "PBS News Desk",
+            "key": "2025040815564576500_bib57"
+        },
+        {
+            "article-title": "Impacts of Medical Debt: Findings from a National Survey",
+            "year": "2023",
+            "author": "Perry Undem",
+            "key": "2025040815564576500_bib58"
+        },
+        {
+            "article-title": "Peterson-KFF Health System Tracker",
+            "year": "2024",
+            "author": "Peterson Center on Healthcare and KFF",
+            "key": "2025040815564576500_bib59"
+        },
+        {
+            "article-title": "When Medical Debt Collectors Decide Who Gets Arrested",
+            "year": "2019",
+            "author": "Presser",
+            "key": "2025040815564576500_bib60"
+        },
+        {
+            "article-title": "Medical Debt, Money, and Mental Health",
+            "year": "2023",
+            "author": "RIP Medical Debt",
+            "key": "2025040815564576500_bib61"
+        },
+        {
+            "key": "2025040815564576500_bib62",
+            "article-title": "They Were Entitled to Free Care. Hospitals Hounded Them to Pay",
+            "author": "Silver-Greenberg",
+            "year": "24, 2022",
+            "journal-title": "New York Times"
+        },
+        {
+            "article-title": "Brown: We Must Address the Growing Crisis of Medical Debt Burdening American Families",
+            "year": "2022",
+            "author": "U.S. Senate Committee on Banking, Housing, and Urban Affairs",
+            "key": "2025040815564576500_bib63"
+        },
+        {
+            "volume-title": "Resampling-Based Multiple Testing: Examples and Methods for p-Value Adjustment",
+            "year": "1993",
+            "author": "Westfall",
+            "key": "2025040815564576500_bib64"
+        },
+        {
+            "key": "2025040815564576500_bib65",
+            "doi-asserted-by": "publisher",
+            "first-page": "186",
+            "DOI": "10.1093/jssam/smx019",
+            "article-title": "Trends in U.S. Face-To-Face Household Survey Nonresponse and Level of Effort",
+            "volume": "6",
+            "author": "Williams",
+            "year": "2018",
+            "journal-title": "Journal of Survey Statistics and Methodology"
+        },
+        {
+            "key": "2025040815564576500_bib66",
+            "doi-asserted-by": "publisher",
+            "first-page": "djv370",
+            "DOI": "10.1093/jnci/djv370",
+            "article-title": "Financial Toxicity of Cancer Care: It\u2019s Time to Intervene",
+            "volume": "108",
+            "author": "Zafar",
+            "year": "2016",
+            "journal-title": "Journal of the National Cancer Institute"
+        },
+        {
+            "article-title": "Bernie Sanders Calls for the Cancellation of All Medical Debt",
+            "year": "2022",
+            "author": "Zhang",
+            "key": "2025040815564576500_bib67"
+        }
+    ],
+    "container-title": [
+        "The Quarterly Journal of Economics"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/qje/advance-article-pdf/doi/10.1093/qje/qjae045/61281832/qjae045.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/140/2/1187/61281832/qjae045.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/qje/article-pdf/140/2/1187/61281832/qjae045.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2025-04-08T18:28:39Z",
+        "timestamp": 1744136919000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/qje/article/140/2/1187/7933321"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                26
+            ]
+        ]
+    },
+    "references-count": 67,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    12,
+                    26
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    4,
+                    8
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/qje/qjae045",
+    "relation": {},
+    "ISSN": [
+        "0033-5533",
+        "1531-4650"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0033-5533"
+        },
+        {
+            "type": "electronic",
+            "value": "1531-4650"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                26
+            ]
+        ]
+    }
+}
