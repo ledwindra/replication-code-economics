@@ -1,0 +1,936 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T10:34:29Z",
+        "timestamp": 1748860469868,
+        "version": "3.40.5"
+    },
+    "reference-count": 69,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        2,
+                        13
+                    ]
+                ],
+                "date-time": "2025-02-13T00:00:00Z",
+                "timestamp": 1739404800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 69,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>A number of delta-hedged equity option strategies exhibit very large average returns. We show that much of the profitability of these strategies can be explained by an IPCA factor model. The economic magnitude of the return-adjustment produced by IPCA is impressive: even before transaction costs, the average IPCA alpha of 46 long-short trading strategies constructed on previously discovered signals, is close to zero and contrasts with average realized returns of over 80 basis points per month. Our IPCA model can be used as a benchmark for assessing the performance of other option portfolios.</jats:p>",
+    "DOI": "10.1093/rfs/hhae087",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                13
+            ]
+        ],
+        "date-time": "2025-02-13T16:52:34Z",
+        "timestamp": 1739465554000
+    },
+    "page": "1783-1821",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Can Equity Option Returns Be Explained by a Factor Model? IPCA Says Yes"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Amit",
+            "family": "Goyal",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Swiss Finance Institute at the University of Lausanne ,",
+                    "place": [
+                        "Switzerland"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Alessio",
+            "family": "Saretto",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Federal Reserve Bank of Dallas ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                6
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025051603520252000_hhae087-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2279",
+            "DOI": "10.1111/jofi.12181",
+            "article-title": "The joint cross section of stocks and options",
+            "volume": "69",
+            "author": "An",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1093/rof/rfac003",
+            "article-title": "Moneyness, underlying asset volatility, and the cross-section of option returns",
+            "volume": "27",
+            "author": "Aretz",
+            "year": "2023",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "year": "2023",
+            "author": "Babiak",
+            "key": "2025051603520252000_hhae087-B3"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "637",
+            "DOI": "10.1093/rfs/16.1.0101",
+            "article-title": "Stock return characteristics, skew laws, and the differential pricing of individual equity options",
+            "volume": "16",
+            "author": "Bakshi",
+            "year": "2003",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "3548",
+            "DOI": "10.1093/rfs/hhad017",
+            "article-title": "Option return predictability with machine learning and big data",
+            "volume": "36",
+            "author": "Bali",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "427",
+            "DOI": "10.1016/j.jfineco.2010.08.014",
+            "article-title": "Maxing out: Stocks as lotteries and the cross-section of expected returns",
+            "volume": "99",
+            "author": "Bali",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1145",
+            "DOI": "10.1017/S0022109013000410",
+            "article-title": "Does risk-neutral skewness predict the cross section of equity option portfolio returns?",
+            "volume": "48",
+            "author": "Bali",
+            "year": "2013",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "377",
+            "DOI": "10.1016/j.jfineco.2021.04.029",
+            "article-title": "Hedging demand and market intraday momentum",
+            "volume": "142",
+            "author": "Baltussen",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2022",
+            "author": "Barbon",
+            "key": "2025051603520252000_hhae087-B9"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.2517-6161.1995.tb02031.x",
+            "article-title": "Controlling the false discovery rate: A practical and powerful approach to multiple testing",
+            "volume": "57",
+            "author": "Benjamini",
+            "year": "1995",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1111/j.1540-6261.1973.tb01772.x",
+            "article-title": "Price, beta, and exchange listing",
+            "volume": "28",
+            "author": "Blume",
+            "year": "1972",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.jeconom.2005.01.027",
+            "article-title": "Are more data always better for factor analysis?",
+            "volume": "132",
+            "author": "Boivin",
+            "year": "2006",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1485",
+            "DOI": "10.1111/jofi.12152",
+            "article-title": "Stock options as lotteries",
+            "volume": "69",
+            "author": "Boyer",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1016/j.jacceco.2006.03.004",
+            "article-title": "The relation between corporate financing activities, analysts\u2019 forecasts and stock returns",
+            "volume": "42",
+            "author": "Bradshaw",
+            "year": "2006",
+            "journal-title": "Journal of Accounting and Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "4493",
+            "DOI": "10.1093/rfs/hhp032",
+            "article-title": "Understanding index option returns",
+            "volume": "22",
+            "author": "Broadie",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1140",
+            "DOI": "10.1016/j.jfineco.2021.12.007",
+            "article-title": "A factor model for option returns",
+            "volume": "143",
+            "author": "B\u00fcchner",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1016/j.jfineco.2016.06.004",
+            "article-title": "Gambling preference and individual equity option returns",
+            "volume": "122",
+            "author": "Byun",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/j.jfineco.2012.11.010",
+            "article-title": "Cross-section of option returns and idisoyncratic stock volatility",
+            "volume": "108",
+            "author": "Cao",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1311",
+            "DOI": "10.1093/rfs/hhn038",
+            "article-title": "Variance risk premium",
+            "volume": "22",
+            "author": "Carr",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "811",
+            "DOI": "10.1093/rfs/hhx113",
+            "article-title": "Illiquidity premia in the equity options market",
+            "volume": "31",
+            "author": "Christoffersen",
+            "year": "2018",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "397",
+            "DOI": "10.1016/j.jfineco.2019.02.002",
+            "article-title": "Volatility and the cross-section of corporate bond returns",
+            "volume": "133",
+            "author": "Chung",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "983",
+            "DOI": "10.1111/0022-1082.00352",
+            "article-title": "Expected option returns",
+            "volume": "56",
+            "author": "Coval",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1605",
+            "DOI": "10.1111/j.1540-6261.2006.00884.x",
+            "article-title": "Market reactions to tangible and intangible information",
+            "volume": "61",
+            "author": "Daniel",
+            "year": "2006",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1131",
+            "DOI": "10.1111/0022-1082.00046",
+            "article-title": "Is the risk of bankruptcy a systematic risk?",
+            "volume": "53",
+            "author": "Dichev",
+            "year": "1998",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "2113",
+            "DOI": "10.1111/0022-1082.00490",
+            "article-title": "Differences of opinion and the cross section of stock returns",
+            "volume": "57",
+            "author": "Diether",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2023",
+            "author": "Duarte",
+            "key": "2025051603520252000_hhae087-B26"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B27",
+            "first-page": "427",
+            "article-title": "The cross-section of expected stock returns",
+            "volume": "47",
+            "author": "Fama",
+            "year": "1992",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "491",
+            "DOI": "10.1016/j.jfineco.2005.09.009",
+            "article-title": "Profitability, investment and average returns",
+            "volume": "82",
+            "author": "Fama",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1016/0304-405X(76)90020-9",
+            "article-title": "The option pricing model and the risk factor of stock",
+            "volume": "3",
+            "author": "Galai",
+            "year": "1976",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.2307/1913625",
+            "article-title": "A test of the efficiency of a given portfolio",
+            "volume": "57",
+            "author": "Gibbons",
+            "year": "1989",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "310",
+            "DOI": "10.1016/j.jfineco.2009.01.001",
+            "article-title": "Cross-section of option returns and volatility",
+            "volume": "94",
+            "author": "Goyal",
+            "year": "2009",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "year": "2022",
+            "author": "Goyenko",
+            "key": "2025051603520252000_hhae087-B35"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "2223",
+            "DOI": "10.1093/rfs/hhaa009",
+            "article-title": "Empirical asset pricing via machine learning",
+            "volume": "33",
+            "author": "Gu",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2010",
+            "author": "Hansis",
+            "key": "2025051603520252000_hhae087-B37"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1093/rapstu/raaa003",
+            "article-title": "An evaluation of alternative multiple testing methods for finance application",
+            "volume": "10",
+            "author": "Harvey",
+            "year": "2020",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1016/0304-405X(95)00868-F",
+            "article-title": "Commonality in the determinants of expected stock returns",
+            "volume": "41",
+            "author": "Haugen",
+            "year": "1996",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2017.08.002",
+            "article-title": "Intermediary asset pricing: New evidence from many asset classes",
+            "volume": "126",
+            "author": "He",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1016/j.jfineco.2015.09.010",
+            "article-title": "The common factor in idiosyncratic volatility: Quantitative asset pricing implications",
+            "volume": "119",
+            "author": "Herskovic",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "3141",
+            "DOI": "10.1111/jofi.13279",
+            "article-title": "Option momentum",
+            "volume": "78",
+            "author": "Heston",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2022",
+            "author": "Horenstein",
+            "key": "2025051603520252000_hhae087-B43"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rof/rfaa004",
+            "article-title": "An augmented $ q $-factor model with expected growth",
+            "volume": "25",
+            "author": "Hou",
+            "year": "2021",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1025",
+            "DOI": "10.1017/S0022109019000310",
+            "article-title": "Volatility and expected option returns",
+            "volume": "55",
+            "author": "Hu",
+            "year": "2020",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B46",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1287/mnsc.2023.03071",
+            "article-title": "Stock return autocorrelations and expected option returns",
+            "author": "Jeon",
+            "year": "2024",
+            "journal-title": "Management Science forthcoming"
+        },
+        {
+            "year": "2013",
+            "author": "Karakaya",
+            "key": "2025051603520252000_hhae087-B47"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "2841",
+            "DOI": "10.1093/rfs/hhu039",
+            "article-title": "Tail risk and asset prices",
+            "volume": "27",
+            "author": "Kelly",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1967",
+            "DOI": "10.1111/jofi.13233",
+            "article-title": "Modeling corporate bond returns",
+            "volume": "78",
+            "author": "Kelly",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "volume": "134",
+            "author": "Kelly",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1183",
+            "DOI": "10.1111/jofi.12612",
+            "article-title": "Interpreting factor models",
+            "volume": "73",
+            "author": "Kozak",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "2174",
+            "DOI": "10.1093/rfs/hht039",
+            "article-title": "Skew risk premia in the equity index market",
+            "volume": "26",
+            "author": "Kozhan",
+            "year": "2013",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "2274",
+            "DOI": "10.1093/rfs/hhaa020",
+            "article-title": "Factors that fit the time series and cross-section of stock returns",
+            "volume": "33",
+            "author": "Lettau",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "628",
+            "DOI": "10.1016/j.jfineco.2010.10.004",
+            "article-title": "Liquidity risk and expected corporate bond returns",
+            "volume": "99",
+            "author": "Lin",
+            "year": "2011",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1111/jofi.12365",
+            "article-title": "Does academic research destroy stock return predictability?",
+            "volume": "71",
+            "author": "McLean",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "673",
+            "DOI": "10.1111/jofi.12380",
+            "article-title": "Order flow and expected option returns",
+            "volume": "71",
+            "author": "Muravyev",
+            "year": "2016",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "4973",
+            "DOI": "10.1093/rfs/hhaa010",
+            "article-title": "Option trading costs are lower than you think",
+            "volume": "33",
+            "author": "Muravyev",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1787",
+            "DOI": "10.1111/jofi.13129",
+            "article-title": "Is there a risk premium in the stock lending market? evidence from equity options",
+            "volume": "77",
+            "author": "Muravyev",
+            "year": "2022",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2013.01.003",
+            "article-title": "The other side of value: The gross profitability premium",
+            "volume": "108",
+            "author": "Novy-Marx",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "162",
+            "DOI": "10.1016/j.jfineco.2011.12.009",
+            "article-title": "Cash holdings, risk, and expected returns",
+            "volume": "104",
+            "author": "Palazzo",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1111/j.1540-6261.2008.01335.x",
+            "article-title": "Share issuance and cross-sectional returns",
+            "volume": "63",
+            "author": "Pontiff",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "297",
+            "DOI": "10.1016/j.jfineco.2021.03.006",
+            "article-title": "Mispricing, short-sale constraints, and the cross-section of option returns",
+            "volume": "141",
+            "author": "Ramachandran",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.finmar.2019.03.002",
+            "article-title": "Volatility-of-volatility and the cross-section of option returns",
+            "volume": "48",
+            "author": "Ruan",
+            "year": "2020",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "volume-title": "Working Paper, Old Dominion University",
+            "year": "2021",
+            "author": "Shafaati",
+            "key": "2025051603520252000_hhae087-B64"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "823",
+            "DOI": "10.2308/accr.2008.83.3.823",
+            "article-title": "The use of dupont analysis by market participants",
+            "volume": "83",
+            "author": "Soliman",
+            "year": "2008",
+            "journal-title": "Accounting Review"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "1270",
+            "DOI": "10.1093/rfs/hhw107",
+            "article-title": "Mispricing factors",
+            "volume": "30",
+            "author": "Stambaugh",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "2727",
+            "DOI": "10.1017/S002210901700076X",
+            "article-title": "Equity volatility term structures and the cross section of option returns",
+            "volume": "52",
+            "author": "Vasquez",
+            "year": "2017",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "2023",
+            "DOI": "10.1287/mnsc.2023.4796",
+            "article-title": "Default risk and option returns",
+            "volume": "70",
+            "author": "Vasquez",
+            "year": "2024",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025051603520252000_hhae087-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "1394",
+            "DOI": "10.1093/rfs/hhab067",
+            "article-title": "Option return predictability",
+            "volume": "35",
+            "author": "Zhan",
+            "year": "2022",
+            "journal-title": "Review of Financial Studies"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhae087/61869827/hhae087.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/6/1783/61869827/hhae087.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/6/1783/61869827/hhae087.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                5,
+                16
+            ]
+        ],
+        "date-time": "2025-05-16T07:52:17Z",
+        "timestamp": 1747381937000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/6/1783/8010873"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                6
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    12,
+                    6
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    6,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhae087",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                6
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                12,
+                6
+            ]
+        ]
+    }
+}

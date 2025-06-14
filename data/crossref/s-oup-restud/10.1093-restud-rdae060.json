@@ -1,0 +1,627 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                5,
+                10
+            ]
+        ],
+        "date-time": "2025-05-10T04:09:14Z",
+        "timestamp": 1746850154348,
+        "version": "3.40.5"
+    },
+    "reference-count": 44,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        30
+                    ]
+                ],
+                "date-time": "2024-05-30T00:00:00Z",
+                "timestamp": 1717027200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                5,
+                9
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>After a drug obtains marketing authorisation, the usage depends on the regulation of off-label prescriptions for unapproved indications. We investigate the impact of off-label prescription regulation on physicians\u2019 behaviour, patients\u2019 health, treatment costs, and pharmaceutical firms\u2019 pricing with a structural demand and supply model. Exploiting rich panel data on physicians\u2019 activities and office visits in France over 9 years, we use a model of prescription choice and health outcomes with unobserved patient-level heterogeneity. We identify the demand for on-label and off-label drugs and the effect of prescription choice on health outcomes. On the supply side, we use a Nash-in-Nash bargaining model between the government and the pharmaceutical companies that allows the partial identification of the marginal costs of drugs. Counterfactual simulations show that when we remove off-label drugs from the choice set of physicians, substitution to on-label drugs at constant prices would lead to an increase of 15% in the expenditure on prescription drugs. If we allow bargaining adjustment on drug prices under a ban on off-label prescriptions, the ban would further increase the treatment cost, by 26%, without improving health outcomes.</jats:p>",
+    "DOI": "10.1093/restud/rdae060",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                30
+            ]
+        ],
+        "date-time": "2024-05-30T20:39:45Z",
+        "timestamp": 1717101585000
+    },
+    "page": "2027-2070",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Should We Prevent Off-Label Drug Prescriptions? Empirical Evidence from France"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "ORCID": "https://orcid.org/0000-0002-6803-3269",
+            "authenticated-orcid": false,
+            "given": "Tuba",
+            "family": "Tun\u00e7el",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Florida State University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "year": "2018",
+            "author": "AMELI",
+            "key": "2025050911163834000_rdae060-B1"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2805",
+            "DOI": "10.3982/ECTA8166",
+            "article-title": "Inference for Parameters Defined by Moment Inequalities: A Recommended Moment Selection Procedure",
+            "volume": "80",
+            "author": "Andrews",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2016",
+            "author": "ATC/DDD INDEX OF THE WORLD HEALTH ORGANIZATION",
+            "key": "2025050911163834000_rdae060-B3"
+        },
+        {
+            "year": "2021",
+            "author": "Berger",
+            "key": "2025050911163834000_rdae060-B4"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "866",
+            "DOI": "10.1111/joie.12189",
+            "article-title": "Off-Label Use Of Pharmaceuticals: A Detection Controlled Estimation Approach",
+            "volume": "66",
+            "author": "Bradford",
+            "year": "2018",
+            "journal-title": "The Journal of Industrial Economics"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1311",
+            "DOI": "10.1136/bmj.324.7349.1311",
+            "article-title": "Off-Label Prescribing to Children in Primary Care in Germany: Retrospective Cohort Study",
+            "volume": "324",
+            "author": "B\u00fccheler",
+            "year": "2002",
+            "journal-title": "British Medical Journal"
+        },
+        {
+            "year": "2008",
+            "author": "CEGEDIM HEALTH DATA",
+            "key": "2025050911163834000_rdae060-B7"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "502",
+            "DOI": "10.1136/adc.83.6.502",
+            "article-title": "Off-Label and Unlicensed Drug Use Among French Office-Based Pediatricians",
+            "volume": "83",
+            "author": "Chalumeau",
+            "year": "2000",
+            "journal-title": "Archives of Disease in Childhood"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1243",
+            "DOI": "10.1111/j.1468-0262.2007.00794.x",
+            "article-title": "Estimation and Confidence Regions for Parameter Sets in Econometric Models",
+            "volume": "75",
+            "author": "Chernozhukov",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "158",
+            "DOI": "10.1287/mksc.2015.0925",
+            "article-title": "The Effects of Publicity on Demand: The Case of Anti-Cholesterol Drugs",
+            "volume": "35",
+            "author": "Ching",
+            "year": "2016",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1007/s10198-006-0028-z",
+            "article-title": "Patient Access to Pharmaceuticals: An International Comparison",
+            "volume": "8",
+            "author": "Cohen",
+            "year": "2007",
+            "journal-title": "The European Journal of Health Economics"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1086/700729",
+            "article-title": "Nash-in-Nash Bargaining: A Microfoundation for Applied Work",
+            "volume": "127",
+            "author": "Collard-Wexler",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1137",
+            "DOI": "10.1111/j.1468-0262.2005.00612.x",
+            "article-title": "Uncertainty and Learning in Pharmaceutical Demand",
+            "volume": "73",
+            "author": "Crawford",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "643",
+            "DOI": "10.1257/aer.102.2.643",
+            "article-title": "The Welfare Effects of Bundling in Multichannel Television Markets",
+            "volume": "102",
+            "author": "Crawford",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2022",
+            "author": "Dafny",
+            "key": "2025050911163834000_rdae060-B15"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1111/j.1368-423X.2006.00187.x",
+            "article-title": "Specification and Simulated Likelihood Estimation of a Non-Normal Treatment-Outcome Model with Selection: Application to Health Care Utilization",
+            "volume": "9",
+            "author": "Deb",
+            "year": "2006",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "year": "2021",
+            "author": "Dickstein",
+            "key": "2025050911163834000_rdae060-B17"
+        },
+        {
+            "year": "2014",
+            "author": "DRUGDEX SYSTEM",
+            "key": "2025050911163834000_rdae060-B18"
+        },
+        {
+            "year": "2022",
+            "author": "Dubois",
+            "key": "2025050911163834000_rdae060-B19"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "3685",
+            "DOI": "10.1257/aer.20140202",
+            "article-title": "Identifying Industry Margins with Price Constraints: Structural Estimation on Pharmaceuticals",
+            "volume": "108",
+            "author": "Dubois",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2503",
+            "DOI": "10.3982/ECTA16039",
+            "article-title": "On the Effect of Parallel Trade on Manufacturers\u2019 and Retailers\u2019 Profits in the Pharmaceutical Sector",
+            "volume": "88",
+            "author": "Dubois",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "680",
+            "DOI": "10.1176/appi.ps.004662012",
+            "article-title": "Diffusion of Antipsychotics in the U.S. and French Markets, 1998\u20132008",
+            "volume": "64",
+            "author": "Gallini",
+            "year": "2013",
+            "journal-title": "Psychiatric Services"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "172",
+            "DOI": "10.1257/aer.20130223",
+            "article-title": "Mergers When Prices Are Negotiated: Evidence from the Hospital Industry",
+            "volume": "105",
+            "author": "Gowrisankaran",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1257/aer.103.1.145",
+            "article-title": "Price Discrimination and Bargaining: Empirical Evidence from Medical Devices",
+            "volume": "103",
+            "author": "Grennan",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2022",
+            "author": "Grennan",
+            "key": "2025050911163834000_rdae060-B25"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "120",
+            "DOI": "10.1257/aer.20180946",
+            "article-title": "Regulating Innovation with Uncertain Quality: Information, Risk, and Access in Medical Devices",
+            "volume": "110",
+            "author": "Grennan",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.3982/ECTA13570",
+            "article-title": "Insurer Competition in Health Care Markets",
+            "volume": "85",
+            "author": "Ho",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1257/aer.20171288",
+            "article-title": "Equilibrium Provider Networks: Bargaining and Exclusion in Health Care Markets",
+            "volume": "109",
+            "author": "Ho",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.2307/2555664",
+            "article-title": "Bilateral Monopolies and Incentives for Merger",
+            "volume": "19",
+            "author": "Horn",
+            "year": "1988",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "year": "2008",
+            "author": "IMS HEALTH",
+            "key": "2025050911163834000_rdae060-B30"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "30",
+            "DOI": "10.1002/wps.20482",
+            "article-title": "Measuring and Improving the Quality of Mental Health Care: A Global Perspective",
+            "volume": "17",
+            "author": "Kilbourne",
+            "year": "2018",
+            "journal-title": "World Psychiatry"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "a3079",
+            "DOI": "10.1136/bmj.a3079",
+            "article-title": "Outcome of Depression in Later Life in Primary Care: Longitudinal Cohort Study with Three Years\u2019 Follow-Up",
+            "volume": "338",
+            "author": "Licht-Strunk",
+            "year": "2009",
+            "journal-title": "BMJ"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "116",
+            "DOI": "10.1055/s-2007-977713",
+            "article-title": "A One-Day Survey of Characteristics of Off-Label Hospital Prescription of Psychotropic Drugs",
+            "volume": "40",
+            "author": "Martin-Latry",
+            "year": "2007",
+            "journal-title": "Pharmacopsychiatry"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "102779",
+            "DOI": "10.1016/j.jhealeco.2023.102779",
+            "article-title": "The Effect of RCTs on Drug Demand: Evidence from Off-Label Cancer Drugs",
+            "volume": "90",
+            "author": "McKibbin",
+            "year": "2023",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "year": "2017",
+            "author": "OECD",
+            "key": "2025050911163834000_rdae060-B35"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1373/clinchem.2013.204446",
+            "article-title": "Pharmacogenomic Testing and Personalized Treatment of Depression",
+            "volume": "60",
+            "author": "Perlis",
+            "year": "2014",
+            "journal-title": "Clinical Chemistry"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1021",
+            "DOI": "10.1001/archinte.166.9.1021",
+            "article-title": "Off-Label Prescribing Among Office-Based Physicians",
+            "volume": "166",
+            "author": "Radley",
+            "year": "2006",
+            "journal-title": "Archives of Internal Medicine"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.2105/AJPH.93.1.31",
+            "article-title": "The Health Care System Under French National Health Insurance: Lessons for Health Reform in the United States",
+            "volume": "93",
+            "author": "Rodwin",
+            "year": "2003",
+            "journal-title": "American Journal of Public Health"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "5925",
+            "DOI": "10.1287/mnsc.2017.2899",
+            "article-title": "Informational Shocks, Off-Label Prescribing and the Effects of Physician Detailing",
+            "volume": "64",
+            "author": "Shapiro",
+            "year": "2018",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1445",
+            "DOI": "10.1176/appi.ajp.2010.09111680",
+            "article-title": "Personalized Medicine for Depression: Can We Match Patients with Treatments?",
+            "volume": "167",
+            "author": "Simon",
+            "year": "2010",
+            "journal-title": "American Journal of Psychiatry"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.2307/1911129",
+            "article-title": "Applied Welfare Economics of Discrete Choice Models",
+            "volume": "49",
+            "author": "Small",
+            "year": "1981",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "1427",
+            "DOI": "10.1056/NEJMp0802107",
+            "article-title": "Regulating Off-Label Drug Use-Rethinking the Role of the FDA",
+            "volume": "358",
+            "author": "Stafford",
+            "year": "2008",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.2217/pgs.11.161",
+            "article-title": "Biomarkers Predicting Treatment Outcome in Depression: What Is Clinically Significant?",
+            "volume": "13",
+            "author": "Uher",
+            "year": "2012",
+            "journal-title": "Pharmacogenomics"
+        },
+        {
+            "key": "2025050911163834000_rdae060-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1016/0033-0620(87)90004-1",
+            "article-title": "Myocardial Infarct Expansion, Infarct Extension, and Reinfarction: Pathophysiologic Concepts",
+            "volume": "30",
+            "author": "Weisman",
+            "year": "1987",
+            "journal-title": "Progress in Cardiovascular Disease"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae060/58360343/rdae060.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/3/2027/58360343/rdae060.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/3/2027/58360343/rdae060.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                5,
+                9
+            ]
+        ],
+        "date-time": "2025-05-09T15:16:48Z",
+        "timestamp": 1746803808000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/3/2027/7685418"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                30
+            ]
+        ]
+    },
+    "references-count": 44,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    5,
+                    30
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    5,
+                    9
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae060",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                5
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                5,
+                30
+            ]
+        ]
+    }
+}
