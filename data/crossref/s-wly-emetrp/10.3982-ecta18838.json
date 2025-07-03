@@ -1,0 +1,628 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:40:09Z",
+        "timestamp": 1748842809149,
+        "version": "3.41.0"
+    },
+    "reference-count": 50,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100012296",
+            "name": "National Bureau of Economic Research",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100012296",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000140",
+            "name": "U.S. Department of Transportation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000140",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000140",
+            "name": "Neurosciences Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000140",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We recover valuations of time using detailed data from a large ride\u2010hail platform, where drivers bid on trips and consumers choose between a set of rides with different prices and wait times. Leveraging a consumer panel, we estimate demand as a function of both prices and wait times and use the resulting estimates to recover heterogeneity in the value of time across consumers. We study the welfare implications of personalized pricing and its effect on the platform, drivers, and consumers. Taking into account drivers' optimal reaction to the platform's pricing policy, personalized pricing lowers consumer surplus by 2.5% and increases overall surplus by 5.2%. Like the platform, drivers benefit from personalized pricing. By conditioning prices on drivers' wait times and not on consumers' data, the platform can capture a significant portion of the profits garnered from personalized pricing, and simultaneously benefit consumers.</jats:p>",
+    "DOI": "10.3982/ecta18838",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:09:42Z",
+        "timestamp": 1748840982000
+    },
+    "page": "929-958",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Personalized Pricing and the Value of Time: Evidence From Auctioned Cab Rides"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Nicholas",
+            "family": "Buchholz",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                }
+            ]
+        },
+        {
+            "given": "Laura",
+            "family": "Doval",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Economics Division, Graduate School of Business, Columbia University"
+                }
+            ]
+        },
+        {
+            "given": "Jakub",
+            "family": "Kastl",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                },
+                {
+                    "name": "NBER"
+                },
+                {
+                    "name": "CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Filip",
+            "family": "Matejka",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Charles University"
+                },
+                {
+                    "name": "The Economics Institute of the Academy of Sciences of the Czech Republic"
+                }
+            ]
+        },
+        {
+            "given": "Tobias",
+            "family": "Salz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200787-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1601",
+            "DOI": "10.1257/aer.100.4.1601",
+            "volume": "100",
+            "author": "Aguirre",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200787-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "538",
+            "DOI": "10.1093/restud/rdac033",
+            "volume": "90",
+            "author": "Ali",
+            "year": "2022",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200787-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "695",
+            "DOI": "10.1111/1756-2171.12455",
+            "volume": "54",
+            "author": "Aridor",
+            "year": "2023",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "ecta200787-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1016/j.ijindorg.2014.12.001",
+            "volume": "38",
+            "author": "Bauner",
+            "year": "2015",
+            "journal-title": "International Journal of Industrial Organization"
+        },
+        {
+            "key": "ecta200787-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "786",
+            "DOI": "10.1086/731832",
+            "volume": "2",
+            "author": "Bento",
+            "year": "2024",
+            "journal-title": "Journal of Political Economy Microeconomics"
+        },
+        {
+            "key": "ecta200787-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1257/aer.20130848",
+            "volume": "105",
+            "author": "Bergemann",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200787-bib-0007",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bourreau, Marc, and Alexandre De Streel (2018): \u201cThe Regulation of Personalised Pricing in the Digital Era\u201d. Available at SSRN 3312158.",
+            "DOI": "10.2139/ssrn.3312158"
+        },
+        {
+            "key": "ecta200787-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "657",
+            "DOI": "10.3982/ECTA15455",
+            "volume": "88",
+            "author": "Brancaccio",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200787-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "2451",
+            "DOI": "10.1093/qje/qjad023",
+            "volume": "138",
+            "author": "Brancaccio",
+            "year": "2023",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200787-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "556",
+            "DOI": "10.1093/restud/rdab050",
+            "volume": "89",
+            "author": "Buchholz",
+            "year": "2022",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200787-bib-0011",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Buchholz, Nicholas, Laura Doval, Jakub Kastl, Filip Matejka, and Tobias Salz (2025): \u201cSupplement to \u2018Personalized Pricing and the Value of Time: Evidence From Auctioned Cab Rides\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA18838.",
+            "DOI": "10.3982/ECTA18838"
+        },
+        {
+            "key": "ecta200787-bib-0012",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Castillo, Juan Camilo (2019): \u201cWho Benefits From Surge Pricing?\u201d Available at SSRN 3245533.",
+            "DOI": "10.2139/ssrn.3245533"
+        },
+        {
+            "key": "ecta200787-bib-0013",
+            "unstructured": "Domencich, Thomas A., and Daniel McFadden (1975): \u201cUrban Travel Demand-a Behavioral Analysis,\u201d Tech. rep."
+        },
+        {
+            "key": "ecta200787-bib-0014",
+            "unstructured": "Doval, Laura, and Vasiliki Skreta (forthcoming): \u201cPurchase History and Product Personalization,\u201d RAND Journal of Economics."
+        },
+        {
+            "key": "ecta200787-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "131",
+            "DOI": "10.1086/720793",
+            "volume": "131",
+            "author": "Dub\u00e9",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200787-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "2954",
+            "DOI": "10.1257/aer.20161720",
+            "volume": "109",
+            "author": "Frechette",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200787-bib-0017",
+            "unstructured": "Gaineddenova, Renata (2021): \u201cPricing and Efficiency in a Decentralized Ride-Hailing Platform,\u201d. Madison. Tech. rep, University of Wisconsin."
+        },
+        {
+            "key": "ecta200787-bib-0018",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Goldszmidt, Ariel, John A. List, Robert D. Metcalfe, Ian Muir, V. Kerry Smith, and Jenny Wang (2020): \u201cThe Value of Time in the United States: Estimates From Nationwide Natural Field Experiments,\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w28208"
+        },
+        {
+            "key": "ecta200787-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "525",
+            "DOI": "10.1111/1468-0262.00123",
+            "volume": "68",
+            "author": "Guerre",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200787-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/j.jpubeco.2018.01.003",
+            "volume": "158",
+            "author": "Hall",
+            "year": "2018",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta200787-bib-0021",
+            "unstructured": "Helling, Brett (2023): \u201cLyft Wait and Save: Cheaper Rides for Waiting Longer,\u201d, https://www.ridester.com/lyft-wait-and-save/."
+        },
+        {
+            "key": "ecta200787-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "2722",
+            "DOI": "10.1257/aer.103.7.2722",
+            "volume": "103",
+            "author": "Hendel",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200787-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "833",
+            "DOI": "10.1086/657948",
+            "volume": "118",
+            "author": "Horta\u00e7su",
+            "year": "2010",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200787-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jin, Yizhou, and Shoshana Vasserman (2021): \u201cBuying Data From Consumers: The Impact of Monitoring Programs in US Auto Insurance,\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w29096"
+        },
+        {
+            "key": "ecta200787-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "1443",
+            "DOI": "10.1111/1468-0262.00455",
+            "volume": "71",
+            "author": "Jofre-Bonet",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200787-bib-0026",
+            "unstructured": "Kehoe, Patrick J., Bradley J. Larsen, and Elena Pastorino (2020): \u201cDynamic Competition in the Era of Big Data,\u201d Tech. rep, Stanford University."
+        },
+        {
+            "key": "ecta200787-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kreindler, Gabriel (2023): \u201cPeak-Hour Road Congestion Pricing: Experimental Evidence and Equilibrium Implications,\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w30903"
+        },
+        {
+            "key": "ecta200787-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "851",
+            "DOI": "10.1086/317674",
+            "volume": "108",
+            "author": "Lagos",
+            "year": "2000",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200787-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "7323",
+            "DOI": "10.1073/pnas.1510501113",
+            "volume": "113",
+            "author": "Levitt",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "ecta200787-bib-0030",
+            "unstructured": "Liftago (2020): \u201cLiftago Ride-Hailing Platform Data,\u201d https://www.liftago.cz/en, confidential data available with Data Use Agreement from Liftago, Inc."
+        },
+        {
+            "key": "ecta200787-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1162/003355304772839524",
+            "volume": "119",
+            "author": "List",
+            "year": "2004",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200787-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "2523",
+            "DOI": "10.1086/699978",
+            "volume": "126",
+            "author": "Luo",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200787-bib-0033",
+            "unstructured": "Martin, Nicole (2019): \u201cUber Charges More if They Think You're Willing to Pay More,\u201d https://www.forbes.com/sites/nicolemartin1/2019/03/30/uber-charges-more-if-they-think-youre-willing-to-pay-more/?sh=3ae3409f7365."
+        },
+        {
+            "key": "ecta200787-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1016/0047-2727(74)90003-6",
+            "volume": "3",
+            "author": "McFadden",
+            "year": "1974",
+            "journal-title": "Journal of public economics"
+        },
+        {
+            "key": "ecta200787-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1007/BF00240366",
+            "volume": "9",
+            "author": "Miravete",
+            "year": "1996",
+            "journal-title": "Journal of Regulatory Economics"
+        },
+        {
+            "key": "ecta200787-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "411",
+            "DOI": "10.3982/ECTA11927",
+            "volume": "84",
+            "author": "Nevo",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200787-bib-0037",
+            "unstructured": "NOAA (2018): \u201cGlobal Historical Climatology Network Daily: Prague Station Data,\u201d NOAA National Centers for Environmental Information, daily precipitation measurements from September 2016 to July 2018."
+        },
+        {
+            "key": "ecta200787-bib-0038",
+            "unstructured": "OECD Directorate for financial and enterprise affairs, Competition Committee, Note by the United States (2016): \u201cRound Table on \u2018Price Discrimination,\u201d Tech. rep."
+        },
+        {
+            "key": "ecta200787-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1509/jmkr.47.1.3",
+            "volume": "47",
+            "author": "Petrin",
+            "year": "2010",
+            "journal-title": "Journal of marketing research"
+        },
+        {
+            "key": "ecta200787-bib-0040",
+            "volume-title": "The Economics of Welfare",
+            "author": "Pigou",
+            "year": "1920"
+        },
+        {
+            "key": "ecta200787-bib-0041",
+            "unstructured": "Rosaia, Nicola (2025): \u201cCompeting Platforms and Transport Equilibrium: Evidence From New York City,\u201d Tech. rep, Harvard University."
+        },
+        {
+            "key": "ecta200787-bib-0042",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/0470863692",
+            "volume-title": "Bayesian Statistics and Marketing",
+            "author": "Rossi",
+            "year": "2005"
+        },
+        {
+            "key": "ecta200787-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1287/mksc.15.4.321",
+            "volume": "15",
+            "author": "Rossi",
+            "year": "1996",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "ecta200787-bib-0044",
+            "unstructured": "Shiller, Benjamin Reed (2014): \u201cFirst Degree Price Discrimination Using Big Data,\u201d No. 58, Working Papers, Brandeis University, Department of Economics and International Business School, https://EconPapers.repec.org/RePEc:brd:wpaper:58."
+        },
+        {
+            "key": "ecta200787-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1016/j.ecotra.2012.09.002",
+            "volume": "1",
+            "author": "Small",
+            "year": "2012",
+            "journal-title": "Economics of Transportation"
+        },
+        {
+            "key": "ecta200787-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "528",
+            "DOI": "10.1080/01621459.1987.10478458",
+            "volume": "82",
+            "author": "Tanner",
+            "year": "1987",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200787-bib-0047",
+            "volume-title": "Discrete Choice Methods With Simulation",
+            "author": "Train",
+            "year": "2009"
+        },
+        {
+            "key": "ecta200787-bib-0048",
+            "unstructured": "Uber Blog (2023): \u201cUberX Priority FAQ,\u201d https://www.uber.com/en-CA/blog/uberx-priorirty-faq/."
+        },
+        {
+            "key": "ecta200787-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1086/261982",
+            "volume": "103",
+            "author": "Waldfogel",
+            "year": "1995",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200787-bib-0050",
+            "unstructured": "White House Council of Economic Advisors (2015): \u201cBig Data and Differential Pricing,\u201d Tech. rep, Executive Office of the President of the United States."
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:10:47Z",
+        "timestamp": 1748841047000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18838"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18838"
+    ],
+    "URL": "https://doi.org/10.3982/ecta18838",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

@@ -1,0 +1,634 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:40:09Z",
+        "timestamp": 1748842809477,
+        "version": "3.41.0"
+    },
+    "reference-count": 53,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We consider the problem of repeatedly choosing policies to maximize social welfare. Welfare is a weighted sum of private utility and public revenue. Earlier outcomes inform later policies. Utility is not observed, but indirectly inferred. Response functions are learned through experimentation.</jats:p>\n          <jats:p>We derive a lower bound on regret, and a matching adversarial upper bound for a variant of the Exp3 algorithm. Cumulative regret grows at a rate of \n            <jats:italic>T</jats:italic>\n            <jats:sup>2/3</jats:sup>. This implies that (i) welfare maximization is harder than the multiarmed bandit problem (with a rate of \n            <jats:italic>T</jats:italic>\n            <jats:sup>1/2</jats:sup> for finite policy sets), and (ii) our algorithm achieves the optimal rate. For the stochastic setting, if social welfare is concave, we can achieve a rate of \n            <jats:italic>T</jats:italic>\n            <jats:sup>1/2</jats:sup> (for continuous policy sets), using a dyadic search algorithm.\n          </jats:p>\n          <jats:p>We analyze an extension to nonlinear income taxation, and sketch an extension to commodity taxation. We compare our setting to monopoly pricing (which is easier), and price setting for bilateral trade (which is harder).</jats:p>",
+    "DOI": "10.3982/ecta22351",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:09:42Z",
+        "timestamp": 1748840982000
+    },
+    "page": "1073-1104",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Adaptive Maximization of Social Welfare"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Nicol\u00f2",
+            "family": "Cesa-Bianchi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Dept. of Computer Science, Universit\u00e0 degli Studi di Milano"
+                },
+                {
+                    "name": "Politecnico di Milano"
+                }
+            ]
+        },
+        {
+            "given": "Roberto",
+            "family": "Colomboni",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dept. of Computer Science, Universit\u00e0 degli Studi di Milano"
+                },
+                {
+                    "name": "Politecnico di Milano"
+                }
+            ]
+        },
+        {
+            "given": "Maximilian",
+            "family": "Kasy",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Oxford"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200797-bib-0001",
+            "series-title": "Asian Conference on Machine Learning",
+            "volume-title": "Fast Rate Learning in Stochastic First Price Bidding",
+            "author": "Achddou",
+            "year": "2021"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200797-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1054",
+            "DOI": "10.2307/1427934",
+            "volume": "27",
+            "author": "Agrawal",
+            "year": "1995",
+            "journal-title": "Advances in applied probability"
+        },
+        {
+            "key": "ecta200797-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1023/A:1013689704352",
+            "volume": "47",
+            "author": "Auer",
+            "year": "2002",
+            "journal-title": "Machine learning"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.1137/S0097539701398375",
+            "volume": "32",
+            "author": "Auer",
+            "year": "2002",
+            "journal-title": "SIAM journal on computing"
+        },
+        {
+            "key": "ecta200797-bib-0005",
+            "unstructured": "Bachoc, Fran\u00e7ois, Tommaso Cesari, Roberto Colomboni, and Andrea Paudice (2022a): \u201cA Near-Optimal Algorithm for Univariate Zeroth-Order Budget Convex Optimization.\u201d"
+        },
+        {
+            "key": "ecta200797-bib-0006",
+            "unstructured": "Bachoc, Fran\u00e7ois, Tommaso Cesari, Roberto Colomboni, and Andrea Paudice (2022b): \u201cRegret Analysis of Dyadic Search,\u201d arXiv preprint arXiv:2209.00885."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200797-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "379",
+            "DOI": "10.1016/0047-2727(78)90053-1",
+            "volume": "10",
+            "author": "Baily",
+            "year": "1978",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta200797-bib-0008",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511546921",
+            "volume-title": "Prediction, Learning, and Games",
+            "author": "Cesa-Bianchi",
+            "year": "2006"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1287/moor.2023.1351",
+            "volume": "49",
+            "author": "Cesa-Bianchi",
+            "year": "2024",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "issue": "234",
+            "key": "ecta200797-bib-0010",
+            "first-page": "1",
+            "volume": "25",
+            "author": "Cesa-Bianchi",
+            "year": "2024",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "ecta200797-bib-0011",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cesa-Bianchi, Nicol\u00f2, Roberto Colomboni, and Maximilian Kasy (2025): \u201cSupplement to \u2018Adaptive Maximization of Social Welfare\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA22351.",
+            "DOI": "10.31235/osf.io/bgcjk"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1146/annurev.economics.050708.142910",
+            "volume": "1",
+            "author": "Chetty",
+            "year": "2009",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1162/qjec.2010.125.1.1",
+            "volume": "125",
+            "author": "Cohen",
+            "year": "2010",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200797-bib-0014",
+            "first-page": "263",
+            "volume-title": "Proceedings of the 4th Prague Conference on Information Theory, Statistical Decision Functions, Random Processes",
+            "author": "Cover",
+            "year": "1965"
+        },
+        {
+            "key": "ecta200797-bib-0015",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Daskalakis, Constantinos, and Vasilis Syrgkanis (2022): \u201cLearning in Auctions: Regret Is Hard, Envy Is Easy,\u201d Games and Economic Behavior.",
+            "DOI": "10.1016/j.geb.2022.03.001"
+        },
+        {
+            "key": "ecta200797-bib-0016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "den Boer, Arnoud V. (2015): \u201cDynamic Pricing and Learning: Historical Origins, Current Research, and New Directions,\u201d Surveys in Operations Research and Management Science.",
+            "DOI": "10.1016/j.sorms.2015.03.001"
+        },
+        {
+            "key": "ecta200797-bib-0017",
+            "first-page": "227",
+            "volume-title": "Handbook of the Economics of Education",
+            "volume": "7",
+            "author": "Dynarski",
+            "year": "2023"
+        },
+        {
+            "key": "ecta200797-bib-0018",
+            "first-page": "5399",
+            "volume-title": "Proceedings of the AAAI Conference on Artificial Intelligence",
+            "author": "Feng",
+            "year": "2021"
+        },
+        {
+            "key": "ecta200797-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1145/3219166.3219208",
+            "volume-title": "Proceedings of the 2018 ACM Conference on Economics and Computation",
+            "author": "Feng",
+            "year": "2018"
+        },
+        {
+            "issue": "5\u20137",
+            "key": "ecta200797-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1065",
+            "DOI": "10.1016/0165-1889(94)00819-4",
+            "volume": "19",
+            "author": "Fudenberg",
+            "year": "1995",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "ecta200797-bib-0021",
+            "unstructured": "Han, Yanjun, Zhengyuan Zhou, Aaron Flores, Erik Ordentlich, and Tsachy Weissman (2020): \u201cLearning to Bid Optimally and Efficiently in Adversarial First-Price Auctions,\u201d arXiv preprint arXiv:2007.04568."
+        },
+        {
+            "key": "ecta200797-bib-0022",
+            "unstructured": "Han, Yanjun, Zhengyuan Zhou, and Tsachy Weissman (2020): \u201cOptimal No-Regret Learning in Repeated First-Price Auctions,\u201d arXiv preprint arXiv:2003.09795."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200797-bib-0023",
+            "first-page": "97",
+            "volume": "3",
+            "author": "Hannan",
+            "year": "1957",
+            "journal-title": "Contributions to the Theory of Games"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200797-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "1127",
+            "DOI": "10.1111/1468-0262.00153",
+            "volume": "68",
+            "author": "Hart",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "26",
+            "DOI": "10.1006/jeth.2000.2746",
+            "volume": "98",
+            "author": "Hart",
+            "year": "2001",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200797-bib-0026",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kasy, Maximilian (2018): \u201cOptimal Taxation and Insurance Using Machine Learning\u2014Sufficient Statistics and Beyond,\u201d Journal of Public Economics, 167.",
+            "DOI": "10.1016/j.jpubeco.2018.09.002"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.3982/ECTA17527",
+            "volume": "89",
+            "author": "Kasy",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200797-bib-0028",
+            "first-page": "594",
+            "volume-title": "IEEE Symposium on Foundations of Computer Science",
+            "author": "Kleinberg",
+            "year": "2003"
+        },
+        {
+            "key": "ecta200797-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "100",
+            "DOI": "10.1145/3485447.3512055",
+            "volume-title": "Proceedings of the ACM Web Conference 2022",
+            "author": "Kolumbus",
+            "year": "2022"
+        },
+        {
+            "key": "ecta200797-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lai, Tze Leung (1987): \u201cAdaptive Treatment Allocation and the Multi-Armed Bandit Problem,\u201d The Annals of Statistics, 1091\u20131114.",
+            "DOI": "10.1214/aos/1176350495"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1016/0196-8858(85)90002-8",
+            "volume": "6",
+            "author": "Lai",
+            "year": "1985",
+            "journal-title": "Advances in applied mathematics"
+        },
+        {
+            "key": "ecta200797-bib-0032",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108571401",
+            "volume-title": "Bandit Algorithms",
+            "author": "Lattimore",
+            "year": "2020"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200797-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1523",
+            "DOI": "10.1086/705417",
+            "volume": "128",
+            "author": "Lee",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200797-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "212",
+            "DOI": "10.1006/inco.1994.1009",
+            "volume": "108",
+            "author": "Littlestone",
+            "year": "1994",
+            "journal-title": "Information and computation"
+        },
+        {
+            "key": "ecta200797-bib-0035",
+            "first-page": "3642",
+            "volume-title": "The Thirty Seventh Annual Conference on Learning Theory, PMLR",
+            "author": "Lucier",
+            "year": "2024"
+        },
+        {
+            "key": "ecta200797-bib-0036",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lugosi, G\u00e1bor, Mihalis G. Markakis, and Gergely Neu (2023): \u201cOn the Hardness of Learning From Censored and Nonstationary Demand,\u201d INFORMS Journal on Optimization.",
+            "DOI": "10.1287/ijoo.2022.0017"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200797-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/1468-0262.00296",
+            "volume": "70",
+            "author": "Milgrom",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200797-bib-0038",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mirrlees, James A. (1971): \u201cAn Exploration in the Theory of Optimum Income Taxation,\u201d The Review of Economic Studies, 175\u2013208.",
+            "DOI": "10.2307/2296779"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200797-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "176",
+            "DOI": "10.1561/2200000077",
+            "volume": "15",
+            "author": "Nedelec",
+            "year": "2022",
+            "journal-title": "Foundations and Trends\u00ae in Machine Learning"
+        },
+        {
+            "issue": "145",
+            "key": "ecta200797-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.2307/2222721",
+            "volume": "37",
+            "author": "Ramsey",
+            "year": "1927",
+            "journal-title": "The economic journal"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200797-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "1625",
+            "DOI": "10.1287/opre.2019.1911",
+            "volume": "68",
+            "author": "Russo",
+            "year": "2020",
+            "journal-title": "Operations Research"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1561/2200000070",
+            "volume": "11",
+            "author": "Russo",
+            "year": "2018",
+            "journal-title": "Foundations and Trends\u00ae in Machine Learning"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1111/1467-937X.00166",
+            "volume": "68",
+            "author": "Saez",
+            "year": "2001",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200797-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "1039",
+            "DOI": "10.1162/003355302760193959",
+            "volume": "117",
+            "author": "Saez",
+            "year": "2002",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200797-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.1257/aer.20141362",
+            "volume": "106",
+            "author": "Saez",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200797-bib-0046",
+            "first-page": "1287",
+            "volume-title": "International Conference on Machine Learning, PMLR",
+            "author": "Seldin",
+            "year": "2014"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200797-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "2795",
+            "DOI": "10.3982/ECTA18119",
+            "volume": "90",
+            "author": "Sinander",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200797-bib-0048",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Slivkins, Aleksandrs (2019): \u201cIntroduction to Multi-Armed Bandits,\u201d arXiv preprint arXiv:1904.07272.",
+            "DOI": "10.1561/9781680836219"
+        },
+        {
+            "issue": "3/4",
+            "key": "ecta200797-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.2307/2332286",
+            "volume": "25",
+            "author": "Thompson",
+            "year": "1933",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200797-bib-0050",
+            "first-page": "371",
+            "volume-title": "Proceedings of the 3rd AnnualWworkshop on Computational Learning Theory",
+            "author": "Vovk",
+            "year": "1990"
+        },
+        {
+            "key": "ecta200797-bib-0051",
+            "first-page": "1562",
+            "volume-title": "Conference on Learning Theory, PMLR",
+            "author": "Weed",
+            "year": "2016"
+        },
+        {
+            "key": "ecta200797-bib-0052",
+            "volume-title": "Gaussian Processes for Machine Learning",
+            "author": "Williams",
+            "year": "2006"
+        },
+        {
+            "issue": "28",
+            "key": "ecta200797-bib-0053",
+            "first-page": "1",
+            "volume": "22",
+            "author": "Zimmert",
+            "year": "2021",
+            "journal-title": "Journal of Machine Learning Research"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:11:30Z",
+        "timestamp": 1748841090000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22351"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 53,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22351"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22351",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

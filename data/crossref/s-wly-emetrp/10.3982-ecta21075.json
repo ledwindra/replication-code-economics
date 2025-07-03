@@ -1,0 +1,415 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:40:09Z",
+        "timestamp": 1748842809033,
+        "version": "3.41.0"
+    },
+    "reference-count": 31,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We provide a decision\u2010theoretic analysis of bandit experiments under local asymptotics. Working within the framework of diffusion processes, we define suitable notions of asymptotic Bayes and minimax risk for these experiments. For normally distributed rewards, the minimal Bayes risk can be characterized as the solution to a second\u2010order partial differential equation (PDE). Using a limit of experiments approach, we show that this PDE characterization also holds asymptotically under both parametric and non\u2010parametric distributions of the rewards. The approach further describes the state variables it is asymptotically sufficient to restrict attention to, and thereby suggests a practical strategy for dimension reduction. The PDEs characterizing minimal Bayes risk can be solved efficiently using sparse matrix routines or Monte Carlo methods. We derive the optimal Bayes and minimax policies from their numerical solutions. These optimal policies substantially dominate existing methods such as Thompson sampling; the risk of the latter is often twice as high.</jats:p>",
+    "DOI": "10.3982/ecta21075",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:09:42Z",
+        "timestamp": 1748840982000
+    },
+    "page": "1003-1029",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Risk and Optimal Policies in Bandit Experiments"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Karun",
+            "family": "Adusumilli",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Pennsylvania"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200785-bib-0001",
+            "unstructured": "Adusumilli, Karun (2022a): \u201cHow to Sample and When to Stop Sampling: The Generalized Wald Problem and Minimax Policies,\u201d arXiv preprint arXiv:2210.15841."
+        },
+        {
+            "key": "ecta200785-bib-0002",
+            "unstructured": "Adusumilli, Karun (2022b): \u201cMinimax Policies for Best Arm Identification With Two Arms,\u201d. arXiv preprint arXiv:2204.05527."
+        },
+        {
+            "key": "ecta200785-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Adusumilli, Karun (2025): \u201cSupplement to \u2018Risk and Optimal Policies in Bandit Experiments\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA21075.",
+            "DOI": "10.3982/ECTA21075"
+        },
+        {
+            "key": "ecta200785-bib-0004",
+            "unstructured": "Athey, Susan, Katy Bergstrom, Vitor Hadad, Julian C. Jamison, Berk \u00d6zler, Luca Parisotto, and Julius D. Sama (2021): \u201cShared Decision-Making,\u201d Development Research."
+        },
+        {
+            "issue": "260",
+            "key": "ecta200785-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1861",
+            "DOI": "10.1090/S0025-5718-07-02000-5",
+            "volume": "76",
+            "author": "Barles",
+            "year": "2007",
+            "journal-title": "Mathematics of Computation"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200785-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "271",
+            "DOI": "10.3233/ASY-1991-4305",
+            "volume": "4",
+            "author": "Barles",
+            "year": "1991",
+            "journal-title": "Asymptotic Analysis"
+        },
+        {
+            "key": "ecta200785-bib-0007",
+            "volume-title": "Statistical Decision Theory and Bayesian Analysis",
+            "author": "Berger",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200785-bib-0008",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-94-015-3711-7",
+            "volume-title": "Bandit Problems: Sequential Allocation of Experiments (Monographs on Statistics and Applied Probability)",
+            "author": "Berry",
+            "year": "1985"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200785-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "781",
+            "DOI": "10.1093/jeea/jvad067",
+            "volume": "22",
+            "author": "Caria",
+            "year": "2024",
+            "journal-title": "Journal of the European Economic Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200785-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1090/S0273-0979-1992-00266-5",
+            "volume": "27",
+            "author": "Crandall",
+            "year": "1992",
+            "journal-title": "Bulletin of the American Mathematical Society"
+        },
+        {
+            "key": "ecta200785-bib-0011",
+            "unstructured": "Fan, Lin, and Peter W. Glynn (2021): \u201cDiffusion Approximations for Thompson Sampling,\u201d arXiv preprint arXiv:2105.09232."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200785-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "1586",
+            "DOI": "10.1287/opre.2018.1755",
+            "volume": "66",
+            "author": "Ferreira",
+            "year": "2018",
+            "journal-title": "Operations Research"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200785-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "148",
+            "DOI": "10.1111/j.2517-6161.1979.tb01068.x",
+            "volume": "41",
+            "author": "Gittins",
+            "year": "1979",
+            "journal-title": "Journal of the Royal Statistical Society: Series B"
+        },
+        {
+            "issue": "3\u20134",
+            "key": "ecta200785-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1561/2400000013",
+            "volume": "2",
+            "author": "Hazan",
+            "year": "2016",
+            "journal-title": "Foundations and Trends in Optimization"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200785-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1683",
+            "DOI": "10.3982/ECTA6630",
+            "volume": "77",
+            "author": "Hirano",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200785-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1214/19-ECP256",
+            "volume": "24",
+            "author": "Jakobsen",
+            "year": "2019",
+            "journal-title": "Electronic Communications in Probability"
+        },
+        {
+            "key": "ecta200785-bib-0017",
+            "first-page": "8807",
+            "volume": "34",
+            "author": "Kalvit",
+            "year": "2021",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200785-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.3982/ECTA17527",
+            "volume": "89",
+            "author": "Kasy",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "10",
+            "key": "ecta200785-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "7024",
+            "DOI": "10.1287/mnsc.2023.4964",
+            "volume": "70",
+            "author": "Kuang",
+            "year": "2024",
+            "journal-title": "Management Science"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200785-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1091",
+            "DOI": "10.1214/aos/1176350495",
+            "volume": "15",
+            "author": "Lai",
+            "year": "1987",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200785-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1016/0196-8858(85)90002-8",
+            "volume": "6",
+            "author": "Lai",
+            "year": "1985",
+            "journal-title": "Advances in Applied Mathematics"
+        },
+        {
+            "key": "ecta200785-bib-0022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108571401",
+            "volume-title": "Bandit Algorithms",
+            "author": "Lattimore",
+            "year": "2020"
+        },
+        {
+            "key": "ecta200785-bib-0023",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4612-1166-2",
+            "volume-title": "Asymptotics in Statistics: Some Basic Concepts",
+            "author": "Le Cam",
+            "year": "2000"
+        },
+        {
+            "key": "ecta200785-bib-0024",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4612-4946-7",
+            "volume-title": "Asymptotic Methods in Statistical Theory",
+            "author": "Le Cam",
+            "year": "1986"
+        },
+        {
+            "key": "ecta200785-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "849",
+            "DOI": "10.1016/S1573-4463(86)02005-9",
+            "volume": "2",
+            "author": "Mortensen",
+            "year": "1986",
+            "journal-title": "Handbook of Labor Economics"
+        },
+        {
+            "key": "ecta200785-bib-0026",
+            "unstructured": "Munos, R\u00e9mi, and Csaba Szepesv\u00e1ri (2008): \u201cFinite-Time Bounds for Fitted Value Iteration,\u201d Journal of Machine Learning Research, 9 (5)."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200785-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1016/0022-0531(74)90066-0",
+            "volume": "9",
+            "author": "Rothschild",
+            "year": "1974",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta200785-bib-0028",
+            "first-page": "1417",
+            "volume-title": "Conference on Learning Theory",
+            "author": "Russo",
+            "year": "2016"
+        },
+        {
+            "key": "ecta200785-bib-0029",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Russo, Daniel, Benjamin Van Roy, Abbas Kazerouni, Ian Osband, and Zheng Wen (2017): \u201cA Tutorial on Thompson Sampling,\u201d arXiv preprint arXiv:1707.02038.",
+            "DOI": "10.1561/9781680834710"
+        },
+        {
+            "key": "ecta200785-bib-0030",
+            "volume-title": "Asymptotic Statistics",
+            "author": "Van der Vaart",
+            "year": "2000"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200785-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.2307/1969022",
+            "volume": "46",
+            "author": "Wald",
+            "year": "1945",
+            "journal-title": "Annals of Mathematics"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2025-06-02T05:11:10Z",
+        "timestamp": 1748841070000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21075"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21075"
+    ],
+    "URL": "https://doi.org/10.3982/ecta21075",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}
