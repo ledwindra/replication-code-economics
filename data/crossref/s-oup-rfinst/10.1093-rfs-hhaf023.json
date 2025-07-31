@@ -1,0 +1,751 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                26
+            ]
+        ],
+        "date-time": "2025-06-26T12:10:05Z",
+        "timestamp": 1750939805970,
+        "version": "3.41.0"
+    },
+    "reference-count": 48,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "7",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        4,
+                        16
+                    ]
+                ],
+                "date-time": "2025-04-16T00:00:00Z",
+                "timestamp": 1744761600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100004733",
+            "name": "University of Macau",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SRG2018-00113-FBA",
+                "MYRG2018-00210-FBA",
+                "MYRG2022-00007-FBA",
+                "MYRG2022-00146-FBA"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100004733",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Financial transaction taxes, or generally transaction costs, are salient in derivatives markets and seldom studied in equilibrium models. We study a tractable model with proportional transaction costs where agents trade a derivative with nonlinear payoffs to hedge nontraded endowments. We show that trade is sustained in an equilibrium with transaction costs only if there is sufficient heterogeneity in risk aversion. When there is trade, the equilibrium return variance increases in transaction costs. These results are driven by how mean-variance demands, hedging demands, and asymmetry of no-transaction region widths determine the equilibrium Sharpe ratio and return volatility when transaction costs change.</jats:p>",
+    "DOI": "10.1093/rfs/hhaf023",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                16
+            ]
+        ],
+        "date-time": "2025-04-16T04:44:43Z",
+        "timestamp": 1744778683000
+    },
+    "page": "2088-2139",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "An Equilibrium Model of Imperfect Hedging: Transaction Costs, Heterogeneity in Risk Aversion, and Return Volatility"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Mark",
+            "family": "Loewenstein",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Robert H. Smith School of Business, University of Maryland ,",
+                    "place": [
+                        "US"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Zhenjiang",
+            "family": "Qin",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Faculty of Business Administration, University of Macau , Macau, CN"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                16
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1111/j.1540-6261.1988.tb02594.x",
+            "article-title": "On the optimal hedge of a nontraded cash position",
+            "volume": "43",
+            "author": "Adler",
+            "year": "1988",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "143",
+            "DOI": "10.1016/j.jfineco.2004.11.004",
+            "article-title": "On the role of arbitrageurs in rational markets",
+            "volume": "81",
+            "author": "Basak",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "issue": "6",
+            "key": "2025062607300276000_hhaf023-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2303",
+            "DOI": "10.1093/rfs/hhm076",
+            "article-title": "The effect of introducing a non-redundant derivative on the volatility of stock-market returns when agents differ in risk aversion",
+            "volume": "22",
+            "author": "Bhamra",
+            "year": "2009",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "569",
+            "DOI": "10.1007/s00780-018-0366-6",
+            "article-title": "Equilibrium returns with transaction costs",
+            "volume": "22",
+            "author": "Bouchard",
+            "year": "2018",
+            "journal-title": "Finance and Stochastics"
+        },
+        {
+            "volume-title": "Elementary differential equations and boundary value problems",
+            "year": "2012",
+            "author": "Boyce",
+            "key": "2025062607300276000_hhaf023-B5"
+        },
+        {
+            "issue": "6",
+            "key": "2025062607300276000_hhaf023-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "3465",
+            "DOI": "10.1111/jofi.13285",
+            "article-title": "Retail trading in options and the rise of the big three wholesalers",
+            "volume": "78",
+            "author": "Bryzgalova",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.17310/ntj.2016.1.06",
+            "article-title": "Financial transaction taxes in theory and practice",
+            "volume": "69",
+            "author": "Burman",
+            "year": "2016",
+            "journal-title": "National Tax Journal"
+        },
+        {
+            "issue": "2",
+            "key": "2025062607300276000_hhaf023-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "795",
+            "DOI": "10.1111/jofi.12744",
+            "article-title": "The dynamic properties of financial-market equilibrium with trading fees",
+            "volume": "74",
+            "author": "Buss",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1016/j.jmoneco.2016.03.008",
+            "article-title": "The intended and unintended consequences of financial-market regulations: A general-equilibrium analysis",
+            "volume": "81",
+            "author": "Buss",
+            "year": "2016",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "issue": "2",
+            "key": "2025062607300276000_hhaf023-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1086/250059",
+            "article-title": "By force of habit: A consumption-based explanation of aggregate stock market behavior",
+            "volume": "107",
+            "author": "Campbell",
+            "year": "1999",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "4",
+            "key": "2025062607300276000_hhaf023-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "842",
+            "DOI": "10.1086/261410",
+            "article-title": "Capital market equilibrium with transaction costs",
+            "volume": "94",
+            "author": "Constantinides",
+            "year": "1986",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "2",
+            "key": "2025062607300276000_hhaf023-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1093/rapstu/rat004",
+            "article-title": "The puzzle of index option returns",
+            "volume": "3",
+            "author": "Constantinides",
+            "year": "2013",
+            "journal-title": "Review of Asset Pricing Studies"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "983",
+            "DOI": "10.1111/0022-1082.00352",
+            "article-title": "Expected option returns",
+            "volume": "56",
+            "author": "Coval",
+            "year": "2001",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2019",
+            "author": "Danilova",
+            "key": "2025062607300276000_hhaf023-B14"
+        },
+        {
+            "issue": "4",
+            "key": "2025062607300276000_hhaf023-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "676",
+            "DOI": "10.1287/moor.15.4.676",
+            "article-title": "Portfolio selection with transaction costs",
+            "volume": "15",
+            "author": "Davis",
+            "year": "1990",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "issue": "2",
+            "key": "2025062607300276000_hhaf023-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "DOI": "10.1137/0311020",
+            "article-title": "Dynamic programming conditions for partially observable stochastic systems",
+            "volume": "11",
+            "author": "Davis",
+            "year": "1973",
+            "journal-title": "SIAM Journal on Control"
+        },
+        {
+            "issue": "6",
+            "key": "2025062607300276000_hhaf023-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1337",
+            "DOI": "10.2307/1913211",
+            "article-title": "Implementing Arrow-Debreu equilibria by continuous trading of few long-lived securities",
+            "volume": "53",
+            "author": "Duffie",
+            "year": "1985",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1093/rfs/2.3.275",
+            "article-title": "Optimal innovation of futures contracts",
+            "volume": "2",
+            "author": "Duffie",
+            "year": "1989",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1016/0165-1889(90)90003-Y",
+            "article-title": "Optimal hedging and equilibrium in a dynamic futures market",
+            "volume": "14",
+            "author": "Duffie",
+            "year": "1990",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "issue": "2",
+            "key": "2025062607300276000_hhaf023-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "577",
+            "DOI": "10.1111/j.1540-6261.1991.tb02675.x",
+            "article-title": "An exact solution to a dynamic portfolio choice problem under transactions costs",
+            "volume": "46",
+            "author": "Dumas",
+            "year": "1991",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "Hedging in isolation: Tricks and traps",
+            "year": "2024",
+            "author": "Dybvig",
+            "key": "2025062607300276000_hhaf023-B21"
+        },
+        {
+            "article-title": "Payment for order flow and option internalization",
+            "year": "2024",
+            "author": "Ernst",
+            "key": "2025062607300276000_hhaf023-B22"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B23",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4612-6380-7",
+            "volume-title": "Deterministic and Stochastic Optimal Control",
+            "author": "Fleming",
+            "year": "1975"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "487",
+            "DOI": "10.1016/j.jet.2016.06.001",
+            "article-title": "Dynamic portfolio choice with frictions",
+            "volume": "165",
+            "author": "G\u00e2rleanu",
+            "year": "2016",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1016/0304-405X(85)90044-3",
+            "article-title": "Bid, ask and transaction prices in a specialist market with heterogeneously informed traders",
+            "volume": "14",
+            "author": "Glosten",
+            "year": "1985",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "314",
+            "DOI": "10.1016/j.jfineco.2021.04.018",
+            "article-title": "Bias in the effective bid-ask spread",
+            "volume": "142",
+            "author": "Hagstr\u00f6mer",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "443",
+            "DOI": "10.1086/262030",
+            "article-title": "Evaluating the effects of incomplete markets on risk sharing and asset pricing",
+            "volume": "104",
+            "author": "Heaton",
+            "year": "1996",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "2",
+            "key": "2025062607300276000_hhaf023-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1007/s00780-021-00449-4",
+            "article-title": "Equilibrium asset pricing with transaction costs",
+            "volume": "25",
+            "author": "Herdegen",
+            "year": "2021",
+            "journal-title": "Finance and Stochastics"
+        },
+        {
+            "volume-title": "Foundations for financial economics",
+            "year": "1988",
+            "author": "Huang",
+            "key": "2025062607300276000_hhaf023-B29"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1016/j.jedc.2015.08.004",
+            "article-title": "Equilibrium theory of stock market crashes",
+            "volume": "60",
+            "author": "Isaenko",
+            "year": "2015",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B31",
+            "first-page": "100775",
+            "article-title": "Transaction costs, frequent trading, and stock prices",
+            "author": "Isaenko",
+            "year": "2022",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "issue": "5",
+            "key": "2025062607300276000_hhaf023-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2329",
+            "DOI": "10.1111/j.1540-6261.2007.01277.x",
+            "article-title": "Liquidity premia and transaction costs",
+            "volume": "62",
+            "author": "Jang",
+            "year": "2007",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "Brownian motion and stochastic calculus",
+            "year": "1991",
+            "author": "Karatzas",
+            "key": "2025062607300276000_hhaf023-B33"
+        },
+        {
+            "volume-title": "Methods of mathematical finance",
+            "year": "1998",
+            "author": "Karatzas",
+            "key": "2025062607300276000_hhaf023-B34"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1111/j.1540-6261.2004.00634.x",
+            "article-title": "Optimal consumption and investment with transaction costs and multiple risky assets",
+            "volume": "59",
+            "author": "Liu",
+            "year": "2004",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "805",
+            "DOI": "10.1093/rfs/15.3.805",
+            "article-title": "Optimal portfolio selection with transaction costs and finite horizons",
+            "volume": "15",
+            "author": "Liu",
+            "year": "2002",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "715",
+            "DOI": "10.1287/mnsc.1120.1561",
+            "article-title": "Market crashes, correlated illiquidity, and portfolio choice",
+            "volume": "59",
+            "author": "Liu",
+            "year": "2013",
+            "journal-title": "Management Science"
+        },
+        {
+            "issue": "5",
+            "key": "2025062607300276000_hhaf023-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1054",
+            "DOI": "10.1086/422565",
+            "article-title": "Asset prices and trading volume under fixed transactions costs",
+            "volume": "112",
+            "author": "Lo",
+            "year": "2004",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "4",
+            "key": "2025062607300276000_hhaf023-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1016/0022-0531(71)90038-X",
+            "article-title": "Optimum consumption and portfolio rules in a continuous-time model",
+            "volume": "3",
+            "author": "Merton",
+            "year": "1971",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.2307/1909407",
+            "article-title": "Existence of equilibrium of plans, prices, and price expectations in a sequence of markets",
+            "author": "Radner",
+            "year": "1972",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025062607300276000_hhaf023-B41",
+            "volume-title": "Continuous martingales and Brownian motion motion",
+            "author": "Revuz",
+            "year": "1994",
+            "edition": "2nd ed"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.2307/1886087",
+            "article-title": "Options and efficiency",
+            "volume": "90",
+            "author": "Ross",
+            "year": "1976",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1214/aoap/1177004966",
+            "article-title": "Optimal investment and consumption with transaction costs",
+            "volume": "4",
+            "author": "Shreve",
+            "year": "1994",
+            "journal-title": "Annals of Applied Probability"
+        },
+        {
+            "volume-title": "The new economics one decade older",
+            "year": "1972",
+            "author": "Tobin",
+            "key": "2025062607300276000_hhaf023-B44"
+        },
+        {
+            "issue": "3/4",
+            "key": "2025062607300276000_hhaf023-B45",
+            "first-page": "153",
+            "article-title": "A proposal for international monetary reform",
+            "volume": "4",
+            "author": "Tobin",
+            "journal-title": "Eastern Economic Journal"
+        },
+        {
+            "issue": "1",
+            "key": "2025062607300276000_hhaf023-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/11.1.1",
+            "article-title": "Transaction costs and asset prices: A dynamic equilibrium model",
+            "volume": "11",
+            "author": "Vayanos",
+            "year": "1998",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "issue": "3",
+            "key": "2025062607300276000_hhaf023-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1007/s001990050268",
+            "article-title": "Equilibrium interest rate and liquidity premium with transaction costs",
+            "volume": "13",
+            "author": "Vayanos",
+            "year": "1999",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "issue": "4",
+            "key": "2025062607300276000_hhaf023-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "517",
+            "DOI": "10.1007/s11579-018-0214-7",
+            "article-title": "Existence of a Radner equilibrium in a model with transaction costs",
+            "volume": "12",
+            "author": "Weston",
+            "year": "2018",
+            "journal-title": "Mathematics and Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf023/62934590/hhaf023.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/7/2088/62934590/hhaf023.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/7/2088/62934590/hhaf023.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                26
+            ]
+        ],
+        "date-time": "2025-06-26T11:30:15Z",
+        "timestamp": 1750937415000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/7/2088/8114021"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Ralph",
+            "family": "Koijen",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                16
+            ]
+        ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+        "issue": "7",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    4,
+                    16
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    7,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhaf023",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                16
+            ]
+        ]
+    }
+}

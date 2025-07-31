@@ -1,0 +1,497 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                24
+            ]
+        ],
+        "date-time": "2025-07-24T11:40:02Z",
+        "timestamp": 1753357202515,
+        "version": "3.41.0"
+    },
+    "reference-count": 30,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "7",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        3,
+                        1
+                    ]
+                ],
+                "date-time": "2025-03-01T00:00:00Z",
+                "timestamp": 1740787200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop an economic model to compare equilibrium security of Proof-of-Work (PoW) versus Proof-of-Stake (PoS) blockchains. We derive general conditions to determine when PoW blockchains are more secure than otherwise equivalent PoS blockchains and vice versa. Applying real-world parameter values to these conditions, we demonstrate that PoS blockchains are more secure than otherwise equivalent PoW blockchains. Furthermore, we demonstrate that PoS\u2019s security advantage over PoW is particularly salient for high-scale blockchains.</jats:p>",
+    "DOI": "10.1093/rfs/hhaf013",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                4
+            ]
+        ],
+        "date-time": "2025-03-04T22:58:52Z",
+        "timestamp": 1741129132000
+    },
+    "page": "1955-2004",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Proof-of-Work versus Proof-of-Stake: A Comparative Economic Analysis"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Kose",
+            "family": "John",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stern School of Business, New York University ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Thomas J",
+            "family": "Rivera",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Desautels Faculty of Management, McGill University ,",
+                    "place": [
+                        "Canada"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Fahad",
+            "family": "Saleh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Florida ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025062500090455100_hhaf013-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "6508",
+            "DOI": "10.1287/mnsc.2023.4735",
+            "article-title": "Stablefees: A predictable fee market for cryptocurrencies",
+            "volume": "69",
+            "author": "Basu",
+            "year": "2023",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1662",
+            "DOI": "10.1093/rfs/hhy095",
+            "article-title": "The blockchain folk theorem",
+            "volume": "32",
+            "author": "Biais",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2022",
+            "author": "Capponi",
+            "key": "2025062500090455100_hhaf013-B3"
+        },
+        {
+            "year": "2023",
+            "author": "Chaudhary",
+            "key": "2025062500090455100_hhaf013-B4"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1762",
+            "DOI": "10.1111/caje.12625",
+            "article-title": "The economics of cryptocurrency: Bitcoin and beyond",
+            "volume": "55",
+            "author": "Chiu",
+            "year": "2022",
+            "journal-title": "Canadian Journal of Economics/Revue canadienne d\u2019\u00e9conomique"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.1093/rfs/hhaa089",
+            "article-title": "Tokenomics: Dynamic adoption and valuation",
+            "volume": "34",
+            "author": "Cong",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "105901",
+            "DOI": "10.1016/j.resconrec.2021.105901",
+            "article-title": "Bitcoin\u2019s growing e-waste problem",
+            "volume": "175",
+            "author": "De Vries",
+            "year": "2021",
+            "journal-title": "Resources Conservation and Recycling"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1016/j.jfineco.2019.03.004",
+            "article-title": "From mining to markets: The evolution of bitcoin transaction fees",
+            "volume": "134",
+            "author": "Easley",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "914",
+            "DOI": "10.1287/mnsc.2020.3796",
+            "article-title": "Inventory, speculators, and initial coin offerings",
+            "volume": "67",
+            "author": "Gan",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2021",
+            "author": "Gan",
+            "key": "2025062500090455100_hhaf013-B10"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "6482",
+            "DOI": "10.1287/mnsc.2023.4901",
+            "article-title": "Why fixed costs matter for proof-of-work\u2013based cryptocurrencies",
+            "volume": "69",
+            "author": "Garratt",
+            "year": "2023",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B12",
+            "article-title": "Utility tokens as a commitment to competition",
+            "author": "Goldstein",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2021",
+            "author": "Halaburda",
+            "key": "2025062500090455100_hhaf013-B13"
+        },
+        {
+            "year": "2022",
+            "author": "Hasbrouck",
+            "key": "2025062500090455100_hhaf013-B14"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "347",
+            "DOI": "10.1016/j.jfineco.2022.01.003",
+            "article-title": "Bitcoin\u2019s limited adoption problem",
+            "volume": "14",
+            "author": "Hinzen",
+            "year": "2022",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "3011",
+            "DOI": "10.1093/restud/rdab014",
+            "article-title": "Monopoly without a monopolist: An economic analysis of the bitcoin payment system",
+            "volume": "88",
+            "author": "Huberman",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "523",
+            "DOI": "10.1146/annurev-financial-110921-022806",
+            "article-title": "Smart contracts and decentralized finance",
+            "volume": "15",
+            "author": "John",
+            "year": "2023",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "102718",
+            "DOI": "10.1016/j.jcorpfin.2024.102718",
+            "article-title": "Economics of ethereum",
+            "volume": "91",
+            "author": "John",
+            "year": "2025",
+            "journal-title": "Journal of Corporate Finance"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "DOI": "10.1146/annurev-financial-111620-011240",
+            "article-title": "Bitcoin and beyond",
+            "volume": "14",
+            "author": "John",
+            "year": "2022",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "volume-title": "Cryptoeconomics. In Oxford Research Encyclopedia of Economics and Finance",
+            "year": "2025",
+            "author": "John",
+            "key": "2025062500090455100_hhaf013-B20"
+        },
+        {
+            "volume-title": "A first course in stochastic processes",
+            "year": "1975",
+            "author": "Karlin",
+            "key": "2025062500090455100_hhaf013-B21"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1111/jofi.13405",
+            "article-title": "Decentralized exchange: The uniswap automated market maker",
+            "volume": "80",
+            "author": "Lehar",
+            "year": "2025",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "year": "2022",
+            "author": "Mayer",
+            "key": "2025062500090455100_hhaf013-B23"
+        },
+        {
+            "year": "2008",
+            "author": "Nakamoto",
+            "key": "2025062500090455100_hhaf013-B24"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "866",
+            "DOI": "10.1093/rfs/hhaa149",
+            "article-title": "Bitcoin as decentralized money: Prices, mining rewards, and network security",
+            "volume": "35",
+            "author": "Pagnotta",
+            "year": "2022",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2023",
+            "author": "Park",
+            "key": "2025062500090455100_hhaf013-B26"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "2415",
+            "DOI": "10.1086/714445",
+            "article-title": "An equilibrium model of the market for bitcoin mining",
+            "volume": "129",
+            "author": "Prat",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025062500090455100_hhaf013-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1156",
+            "DOI": "10.1093/rfs/hhaa075",
+            "article-title": "Blockchain without waste: Proof-of-stake",
+            "volume": "34",
+            "author": "Saleh",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "year": "2023",
+            "author": "Schwarz-Schilling",
+            "key": "2025062500090455100_hhaf013-B29"
+        },
+        {
+            "year": "2021",
+            "author": "Stinner",
+            "key": "2025062500090455100_hhaf013-B30"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf013/62210183/hhaf013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/7/1955/62210183/hhaf013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/7/1955/62210183/hhaf013.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                6,
+                25
+            ]
+        ],
+        "date-time": "2025-06-25T04:09:11Z",
+        "timestamp": 1750824551000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/7/1955/8046666"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+        "issue": "7",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    1
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    7,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhaf013",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                1
+            ]
+        ]
+    }
+}
