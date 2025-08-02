@@ -1,0 +1,970 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                25
+            ]
+        ],
+        "date-time": "2025-07-25T11:00:57Z",
+        "timestamp": 1753441257068,
+        "version": "3.41.2"
+    },
+    "reference-count": 92,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100011061",
+            "name": "Agence Fran\u00e7aise de D\u00e9veloppement",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100011061",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose strategies to estimate and make inference on key features of heterogeneous effects in randomized experiments. These key features include \n            <jats:italic>best linear predictors of the effects</jats:italic> using machine learning proxies, \n            <jats:italic>average effects sorted by impact groups</jats:italic>, and \n            <jats:italic>average characteristics of most and least impacted units</jats:italic>. The approach is valid in high\u2010dimensional settings, where the effects are proxied (but not necessarily consistently estimated) by predictive and causal machine learning methods. We post\u2010process these proxies into estimates of the key features. Our approach is generic; it can be used in conjunction with penalized methods, neural networks, random forests, boosted trees, and ensemble methods, both predictive and causal. Estimation and inference are based on repeated data splitting to avoid overfitting and achieve validity. We use quantile aggregation of the results across many potential splits, in particular taking medians of \n            <jats:italic>p</jats:italic>\u2010values and medians and other quantiles of confidence intervals. We show that quantile aggregation lowers estimation risks over a single split procedure, and establish its principal inferential properties. Finally, our analysis reveals ways to build provably better machine learning proxies through causal learning: we can use the objective functions that we develop to construct the best linear predictors of the effects, to obtain better machine learning proxies in the initial step. We illustrate the use of both inferential tools and causal learners with a randomized field experiment that evaluates a combination of nudges to stimulate demand for immunization in India.\n          </jats:p>",
+    "DOI": "10.3982/ecta19303",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                24
+            ]
+        ],
+        "date-time": "2025-07-24T05:45:07Z",
+        "timestamp": 1753335907000
+    },
+    "page": "1121-1164",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Fisher\u2013Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Victor",
+            "family": "Chernozhukov",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics and Center for Statistics and Data Sciences, MIT"
+                }
+            ]
+        },
+        {
+            "given": "Mert",
+            "family": "Demirer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Sloan School of Management, MIT"
+                }
+            ]
+        },
+        {
+            "given": "Esther",
+            "family": "Duflo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                }
+            ]
+        },
+        {
+            "given": "Iv\u00e1n",
+            "family": "Fern\u00e1ndez-Val",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Boston University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/0034-6527.00321",
+            "volume": "72",
+            "author": "Abadie",
+            "year": "2005",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200800-bib-0002",
+            "unstructured": "Abadie, Alberto, Matthew M. Chingos, and Martin R. West (2017): \u201cEndogenous Stratification in Randomized Experiments,\u201d Technical report, National Bureau of Economic Research."
+        },
+        {
+            "key": "ecta200800-bib-0003",
+            "volume-title": "Synthetic Interventions",
+            "author": "Agarwal",
+            "year": "2020"
+        },
+        {
+            "key": "ecta200800-bib-0004",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Alatas, Vivi, Arun G. Chandrasekhar, Markus Mobius, Benjamin A. Olken, and Cindy Paladines (2019): \u201cWhen Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in Indonesia,\u201d Technical report, National Bureau of Economic Research.",
+            "DOI": "10.3386/w25589"
+        },
+        {
+            "key": "ecta200800-bib-0005",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctvcm4j72",
+            "volume-title": "Mostly Harmless Econometrics: An Empiricist's Companion",
+            "author": "Angrist",
+            "year": "2008"
+        },
+        {
+            "issue": "27",
+            "key": "ecta200800-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "7353",
+            "DOI": "10.1073/pnas.1510489113",
+            "volume": "113",
+            "author": "Athey",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.3982/ECTA15732",
+            "volume": "89",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200800-bib-0008",
+            "unstructured": "Banerjee, Abhijit, Arun Chandrasekhar, Esther Duflo, Suresh Dalpath, John Floretta, Matthew Jackson, Loza Francine, Harini Kannan, and Anna Schrimpf (2021): \u201cInference on Winners,\u201d Technical Report 28726, NBER Working Paper."
+        },
+        {
+            "key": "ecta200800-bib-0009",
+            "unstructured": "Banerjee, Abhijit, Arun Chandrasekhar, Esther Duflo, Suresh Dalpath, John Floretta, Matthew Jackson, Harini Kannan, Anna Schrimpf, and Mahesh Shrestha (2019): \u201cLeveraging the Social Network Amplifies the Effectiveness of Interventions to Stimulate Take up of Immunization.\u201d"
+        },
+        {
+            "key": "ecta200800-bib-0010",
+            "author": "Banerjee",
+            "year": "2010",
+            "journal-title": "BMJ"
+        },
+        {
+            "key": "ecta200800-bib-0011",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Barber, Rina Foygel, Emmanuel J. Candes, Aaditya Ramdas, and Ryan J. Tibshirani (2022): \u201cConformal Prediction Beyond Exchangeability.\u201d",
+            "DOI": "10.1214/23-AOS2276"
+        },
+        {
+            "key": "ecta200800-bib-0012",
+            "first-page": "133",
+            "author": "Barnard",
+            "year": "1974",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "issue": "S3",
+            "key": "ecta200800-bib-0013",
+            "volume": "13",
+            "author": "Bassani",
+            "year": "2013",
+            "journal-title": "BMC Public Health"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.3982/ECTA12723",
+            "volume": "85",
+            "author": "Belloni",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200800-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1093/restud/rdt044",
+            "volume": "81",
+            "author": "Belloni",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200800-bib-0016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Belloni, Alexandre, Victor Chernozhukov, and Kengo Kato (2013): \u201cUniform Post Selection Inference for lad Regression Models,\u201d arXiv preprint. arXiv:1304.0282.",
+            "DOI": "10.1920/wp.cem.2013.2413"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200800-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1705",
+            "DOI": "10.1214/08-AOS620",
+            "volume": "37",
+            "author": "Bickel",
+            "year": "2009",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta200800-bib-0018",
+            "volume-title": "Pattern Recognition and Machine Learning",
+            "volume": "4",
+            "author": "Bishop",
+            "year": "2006"
+        },
+        {
+            "key": "ecta200800-bib-0019",
+            "unstructured": "Chen, Qizhao, Vasilis Syrgkanis, and Morgane Austern (2022): \u201cDebiased Machine Learning Without Sample-Splitting for Stable Estimators,\u201d arXiv preprint. arXiv:2206.01825."
+        },
+        {
+            "key": "ecta200800-bib-0020",
+            "author": "Chernozhukov",
+            "year": "2017",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "ecta200800-bib-0021",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Iv\u00e1n Fern\u00e1ndez-Val (2025): \u201cSupplement to \u2018Fisher\u2013Schultz Lecture: Generic Machine Learning Inference on Heterogeneous Treatment Effects in Randomized Experiments, With an Application to Immunization in India\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA19303.",
+            "DOI": "10.3982/ECTA19303"
+        },
+        {
+            "key": "ecta200800-bib-0022",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Iv\u00e1n Fernandez-Val, and Ye Luo (2015): \u201cThe Sorted Effects Method: Discovering Heterogeneous Effects Beyond Their Averages,\u201d ArXiv e-prints",
+            "DOI": "10.1920/wp.cem.2015.7415"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200800-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "486",
+            "DOI": "10.1257/aer.p20151022",
+            "volume": "105",
+            "author": "Chernozhukov",
+            "year": "2015",
+            "journal-title": "American Economic Review: Papers and Proceedings"
+        },
+        {
+            "key": "ecta200800-bib-0024",
+            "unstructured": "Chernozhukov, Victor, Whitney Newey, and Rahul Singh (2018): \u201cDebiased Machine Learning of Global and Local Parameters Using Regularized Riesz Representers,\u201d arXiv preprint. arXiv:1802.08667."
+        },
+        {
+            "key": "ecta200800-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Whitney K. Newey, and Rahul Singh (2021): \u201cA Simple and General Debiased Machine Learning Theorem With Finite Sample Guarantees,\u201d arXiv preprint. arXiv:2105.15197.",
+            "DOI": "10.1093/biomet/asac033"
+        },
+        {
+            "issue": "536",
+            "key": "ecta200800-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1849",
+            "DOI": "10.1080/01621459.2021.1920957",
+            "volume": "116",
+            "author": "Chernozhukov",
+            "year": "2021",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "441",
+            "DOI": "10.1093/biomet/62.2.441",
+            "volume": "62",
+            "author": "Cox",
+            "year": "1975",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200800-bib-0028",
+            "unstructured": "Crepon, Bruno, Esther Duflo, Huillery Elisa, William Pariente, Juliette Seban, and Paul-Armand Veillon (2021): \u201cCream Skimming and the Comparison Between Social Interventions Evidence From Entrepreneurship Programs for at-Risk Youth in France,\u201d Report."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200800-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1162/rest.90.3.389",
+            "volume": "90",
+            "author": "Crump",
+            "year": "2008",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200800-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "664",
+            "DOI": "10.1162/rest_a_00850",
+            "volume": "102",
+            "author": "Davis",
+            "year": "2020",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "12",
+            "key": "ecta200800-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "4178",
+            "DOI": "10.1257/aer.20180279",
+            "volume": "109",
+            "author": "Deryugina",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200800-bib-0032",
+            "unstructured": "Dezeure, Ruben, Peter B\u00fchlmann, and Cun-Hui Zhang (2016): \u201cHigh-Dimensional Simultaneous Inference With the Bootstrap,\u201d arXiv preprint. arXiv:1606.03940."
+        },
+        {
+            "key": "ecta200800-bib-0033",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.spl.2020.108865",
+            "volume": "166",
+            "author": "DiCiccio",
+            "year": "2020",
+            "journal-title": "Statistics & Probability Letters"
+        },
+        {
+            "issue": "21",
+            "key": "ecta200800-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "2437",
+            "DOI": "10.1016/j.vaccine.2016.03.065",
+            "volume": "34",
+            "author": "Domek",
+            "year": "2016",
+            "journal-title": "Vaccine"
+        },
+        {
+            "key": "ecta200800-bib-0035",
+            "series-title": "Cambridge Studies in Advanced Mathematics",
+            "volume-title": "Uniform Central Limit Theorems",
+            "author": "Dudley",
+            "year": "2000"
+        },
+        {
+            "key": "ecta200800-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "3895",
+            "DOI": "10.1016/S1573-4471(07)04061-2",
+            "volume": "4",
+            "author": "Duflo",
+            "year": "2007",
+            "journal-title": "Handbook of development economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1080/07350015.2020.1811102",
+            "volume": "40",
+            "author": "Fan",
+            "year": "2022",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200800-bib-0038",
+            "unstructured": "Fithian, William, Dennis Sun, and Jonathan Taylor (2014): \u201cOptimal Inference After Model Selection,\u201d arXiv preprint. arXiv:1410.2597."
+        },
+        {
+            "key": "ecta200800-bib-0039",
+            "unstructured": "Foster, Dylan J., and Vasilis Syrgkanis (2019): \u201cOrthogonal Statistical Learning,\u201d arXiv preprint. arXiv:1901.09036."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.1016/j.aam.2006.12.003",
+            "volume": "40",
+            "author": "Freedman",
+            "year": "2008",
+            "journal-title": "Advances in Applied Mathematics"
+        },
+        {
+            "key": "ecta200800-bib-0041",
+            "volume-title": "The Elements of Statistical Learning",
+            "volume": "1",
+            "author": "Friedman",
+            "year": "2001"
+        },
+        {
+            "key": "ecta200800-bib-0042",
+            "first-page": "875",
+            "author": "Genovese",
+            "year": "2008",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200800-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "e428",
+            "DOI": "10.1016/S2214-109X(17)30072-4",
+            "volume": "5",
+            "author": "Gibson",
+            "year": "2017",
+            "journal-title": "The Lancet Global Health"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "1122",
+            "DOI": "10.1214/09-AOS738",
+            "volume": "38",
+            "author": "Gin\u00e9",
+            "year": "2010",
+            "journal-title": "Ann. Statist."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/468061",
+            "volume": "29",
+            "author": "Gneezy",
+            "year": "2000",
+            "journal-title": "The Journal of Legal Studies"
+        },
+        {
+            "key": "ecta200800-bib-0046",
+            "volume-title": "Deep Learning",
+            "author": "Goodfellow",
+            "year": "2016"
+        },
+        {
+            "key": "ecta200800-bib-0047",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hansen, Christian, Damian Kozbur, and Sanjog Misra (2017): \u201cTargeted Undersmoothing,\u201d arXiv preprint. arXiv:1706.07328.",
+            "DOI": "10.2139/ssrn.3167373"
+        },
+        {
+            "issue": "328",
+            "key": "ecta200800-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.1080/01621459.1969.10501057",
+            "volume": "64",
+            "author": "Hartigan",
+            "year": "1969",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200800-bib-0049",
+            "series-title": "Monographs on Statistics and Applied Probability",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1201/b18401",
+            "volume-title": "Statistical Learning With Sparsity",
+            "volume": "143",
+            "author": "Hastie",
+            "year": "2015"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200800-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "1161",
+            "DOI": "10.1111/1468-0262.00442",
+            "volume": "71",
+            "author": "Hirano",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200800-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1214/aoms/1177729436",
+            "author": "Hoeffding",
+            "year": "1952",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200800-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "861",
+            "DOI": "10.1257/aer.20200751",
+            "volume": "112",
+            "author": "Hussam",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "443",
+            "DOI": "10.1214/12-AOAS593",
+            "volume": "7",
+            "author": "Imai",
+            "year": "2013",
+            "journal-title": "The Annals of Applied Statistics"
+        },
+        {
+            "key": "ecta200800-bib-0054",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781139025751",
+            "volume-title": "Causal Inference in Statistics, Social, and Biomedical Sciences",
+            "author": "Imbens",
+            "year": "2015"
+        },
+        {
+            "key": "ecta200800-bib-0055",
+            "series-title": "Springer Texts in Statistics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-0716-1418-1",
+            "volume-title": "An Introduction to Statistical Learning\u2014With Applications in r",
+            "author": "James",
+            "year": "2021",
+            "edition": "Second"
+        },
+        {
+            "key": "ecta200800-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.2471/BLT.14.146951",
+            "volume": "93",
+            "author": "Johri",
+            "year": "2015",
+            "journal-title": "Bulletin of the World Health Organization"
+        },
+        {
+            "key": "ecta200800-bib-0057",
+            "unstructured": "Karing, Anne (2018): \u201cSocial Signaling and Childhood Immunization: A Field Experiment in Sierra Leone,\u201d University of California, Berkeley Working Paper."
+        },
+        {
+            "key": "ecta200800-bib-0058",
+            "unstructured": "Kennedy, Edward H. (2020): \u201cOptimal Doubly Robust Estimation of Heterogeneous Causal Effects,\u201d arXiv preprint. arXiv:2004.14497."
+        },
+        {
+            "key": "ecta200800-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1111/j.2517-6161.1974.tb00981.x",
+            "author": "Kish",
+            "year": "1974",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.3982/ECTA13288",
+            "volume": "86",
+            "author": "Kitagawa",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200800-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.18637/jss.v028.i05",
+            "volume": "28",
+            "author": "Kuhn",
+            "year": "2008",
+            "journal-title": "Journal of Statistical Software"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200800-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.1214/15-AOS1371",
+            "volume": "44",
+            "author": "Lee",
+            "year": "2016",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200800-bib-0063",
+            "first-page": "1260",
+            "volume-title": "Conference on Learning Theory",
+            "author": "Liang",
+            "year": "2015"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200800-bib-0064",
+            "doi-asserted-by": "crossref",
+            "first-page": "2547",
+            "DOI": "10.1214/aos/1030741084",
+            "volume": "25",
+            "author": "Low",
+            "year": "1997",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "488",
+            "key": "ecta200800-bib-0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "1671",
+            "DOI": "10.1198/jasa.2009.tm08647",
+            "volume": "104",
+            "author": "Meinshausen",
+            "year": "2009",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200800-bib-0066",
+            "series-title": "Addison\u2013Wesley Series in Behavioral Science: Quantitative Methods",
+            "volume-title": "Data Analysis and Regression: A Second Course in Statistics",
+            "author": "Mosteller",
+            "year": "1977"
+        },
+        {
+            "key": "ecta200800-bib-0067",
+            "volume-title": "Machine Learning: A Probabilistic Perspective",
+            "author": "Murphy",
+            "year": "2012"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.1093/ectj/utab022",
+            "volume": "25",
+            "author": "Nekipelov",
+            "year": "2022",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "ecta200800-bib-0069",
+            "first-page": "463",
+            "volume": "5",
+            "author": "Neyman",
+            "year": "1923",
+            "journal-title": "Stat Sci"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0070",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1093/biomet/asaa076",
+            "volume": "108",
+            "author": "Nie",
+            "year": "2020",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200800-bib-0071",
+            "volume": "7",
+            "author": "Oyo-Ita",
+            "year": "2016",
+            "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+            "key": "ecta200800-bib-0072",
+            "unstructured": "R Core Team (2022): \u201cR: A Language and Environment for Statistical Computing,\u201d Vienna, Austria: R Foundation for Statistical Computing, https://www.R-project.org/."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200800-bib-0073",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1370/afm.2120",
+            "volume": "15",
+            "author": "Regan",
+            "year": "2017",
+            "journal-title": "The Annals of Family Medicine"
+        },
+        {
+            "key": "ecta200800-bib-0074",
+            "unstructured": "Rinaldo, Alessandro, Larry Wasserman, Max G'Sell, Jing Lei, and Ryan Tibshirani (2016): \u201cBootstrapping and Sample Splitting for High-Dimensional, Assumption-Free Inference,\u201d arXiv preprint. arXiv:1611.05401."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200800-bib-0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "931",
+            "DOI": "10.2307/1912705",
+            "volume": "56",
+            "author": "Robinson",
+            "year": "1988",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0076",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200800-bib-0077",
+            "doi-asserted-by": "crossref",
+            "first-page": "688",
+            "DOI": "10.1037/h0037350",
+            "volume": "66",
+            "author": "Rubin",
+            "year": "1974",
+            "journal-title": "Journal of educational Psychology"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0078",
+            "doi-asserted-by": "crossref",
+            "first-page": "264",
+            "DOI": "10.1093/ectj/utaa027",
+            "volume": "24",
+            "author": "Semenova",
+            "year": "2021",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "ecta200800-bib-0079",
+            "unstructured": "Semenova, Vira, Matt Goldman, Victor Chernozhukov, and Matt Taddy (2017): \u201cEstimation and Inference on Heterogeneous Treatment Effects in High-Dimensional Dynamic Panels,\u201d arXiv preprint. arXiv:1712.09988."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200800-bib-0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "1040",
+            "DOI": "10.1214/aos/1176345969",
+            "volume": "10",
+            "author": "Stone",
+            "year": "1982",
+            "journal-title": "Ann. Statist."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200800-bib-0081",
+            "doi-asserted-by": "crossref",
+            "first-page": "276",
+            "DOI": "10.1016/j.vaccine.2015.11.024",
+            "volume": "34",
+            "author": "Uddin",
+            "year": "2016",
+            "journal-title": "Vaccine"
+        },
+        {
+            "key": "ecta200800-bib-0082",
+            "unstructured": "Unicef (2019): \u201c20 Million Children Miss out on Lifesaving Measles, Diphtheria and Tetanus Vaccines in 2018,\u201d https://www.unicef.org/eca/press-releases/20-million-children-miss-out-lifesaving-measles-diphtheria-and-tetanus-vaccines-2018."
+        },
+        {
+            "key": "ecta200800-bib-0083",
+            "volume-title": "Algorithmic Learning in a Random World",
+            "author": "Vovk",
+            "year": "2005"
+        },
+        {
+            "issue": "523",
+            "key": "ecta200800-bib-0084",
+            "doi-asserted-by": "crossref",
+            "first-page": "1228",
+            "DOI": "10.1080/01621459.2017.1319839",
+            "volume": "113",
+            "author": "Wager",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "45",
+            "key": "ecta200800-bib-0085",
+            "doi-asserted-by": "crossref",
+            "first-page": "12673",
+            "DOI": "10.1073/pnas.1614732113",
+            "volume": "113",
+            "author": "Wager",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "ecta200800-bib-0086",
+            "volume-title": "High-Dimensional Statistics: A Non-Asymptotic Viewpoint",
+            "volume": "48",
+            "author": "Wainwright",
+            "year": "2019"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200800-bib-0087",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1016/j.vaccine.2012.11.093",
+            "volume": "31",
+            "author": "Wakadha",
+            "year": "2013",
+            "journal-title": "Vaccine"
+        },
+        {
+            "key": "ecta200800-bib-0088",
+            "volume-title": "Becker-Friedman Institute, Conference on ML in Economics",
+            "author": "Wasserman",
+            "year": "2016"
+        },
+        {
+            "issue": "5A",
+            "key": "ecta200800-bib-0089",
+            "doi-asserted-by": "crossref",
+            "first-page": "2178",
+            "DOI": "10.1214/08-AOS646",
+            "volume": "37",
+            "author": "Wasserman",
+            "year": "2009",
+            "journal-title": "Annals of statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200800-bib-0090",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.18637/jss.v077.i01",
+            "volume": "77",
+            "author": "Wright",
+            "year": "2017",
+            "journal-title": "Journal of Statistical Software"
+        },
+        {
+            "key": "ecta200800-bib-0091",
+            "unstructured": "Zhao, Qingyuan, Dylan S. Small, and Ashkan Ertefaie (2017): \u201cSelective Inference for Effect Modification via the Lasso,\u201d arXiv preprint. arXiv:1705.08020."
+        },
+        {
+            "key": "ecta200800-bib-0092",
+            "unstructured": "Zimmert, Michael, and Michael Lechner (2019): \u201cNonparametric Estimation of Causal Heterogeneity Under High-Dimensional Confounding,\u201d arXiv preprint. arXiv:1908.08779."
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                24
+            ]
+        ],
+        "date-time": "2025-07-24T05:45:24Z",
+        "timestamp": 1753335924000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19303"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 92,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19303"
+    ],
+    "URL": "https://doi.org/10.3982/ecta19303",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

@@ -1,0 +1,806 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                25
+            ]
+        ],
+        "date-time": "2025-07-25T00:04:28Z",
+        "timestamp": 1753401868025,
+        "version": "3.41.2"
+    },
+    "reference-count": 64,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100022114",
+            "name": "Abdul Latif Jameel Poverty Action Lab",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100022114",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000879",
+            "name": "Alfred P. Sloan Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000879",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Policymakers often choose a policy bundle that is a combination of different interventions in different dosages. We develop a new technique\u2014\n            <jats:italic>treatment variant aggregation</jats:italic> (TVA)\u2014to select a policy from a large factorial design. TVA pools together policy variants that are not meaningfully different and prunes those deemed ineffective. This allows us to restrict attention to aggregated policy variants, consistently estimate their effects on the outcome, and estimate the best policy effect adjusting for the winner's curse. We apply TVA to a large randomized controlled trial that tests interventions to stimulate demand for immunization in Haryana, India. The policies under consideration include reminders, incentives, and local ambassadors for community mobilization. Cross\u2010randomizing these interventions, with different dosages or types of each intervention, yields 75 combinations. The policy with the largest impact (which combines incentives, ambassadors who are information hubs, and reminders) increases the number of immunizations by 44% relative to the status quo. The most cost\u2010effective policy (information hubs, ambassadors, and SMS reminders, but no incentives) increases the number of immunizations per dollar by 9.1% relative to the status quo.\n          </jats:p>",
+    "DOI": "10.3982/ecta19739",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                24
+            ]
+        ],
+        "date-time": "2025-07-24T05:45:07Z",
+        "timestamp": 1753335907000
+    },
+    "page": "1183-1223",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Selecting the Most Effective Nudge: Evidence From a Large\u2010Scale Experiment on Immunization"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Abhijit",
+            "family": "Banerjee",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Dept. of Economics, MIT"
+                },
+                {
+                    "name": "JPAL"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Arun G.",
+            "family": "Chandrasekhar",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dept. of Economics, Stanford"
+                },
+                {
+                    "name": "JPAL"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Suresh",
+            "family": "Dalpath",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Public Health Planning, Policy, and M&E, Health Department, Govt. of Haryana"
+                }
+            ]
+        },
+        {
+            "given": "Esther",
+            "family": "Duflo",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dept. of Economics, MIT"
+                },
+                {
+                    "name": "JPAL"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "John",
+            "family": "Floretta",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "JPAL"
+                }
+            ]
+        },
+        {
+            "given": "Matthew O.",
+            "family": "Jackson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dept. of Economics, Stanford"
+                },
+                {
+                    "name": "Santa Fe Institute"
+                }
+            ]
+        },
+        {
+            "given": "Harini",
+            "family": "Kannan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "JPAL"
+                }
+            ]
+        },
+        {
+            "given": "Francine",
+            "family": "Loza",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "JPAL"
+                }
+            ]
+        },
+        {
+            "given": "Anirudh",
+            "family": "Sankar",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dept. of Economics, Stanford"
+                }
+            ]
+        },
+        {
+            "given": "Anna",
+            "family": "Schrimpf",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "JPAL"
+                }
+            ]
+        },
+        {
+            "given": "Maheshwor",
+            "family": "Shrestha",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "The World Bank"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200717-bib-0001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Akbarpour, Mohammad, Suraj Malladi, and Amin Saberi (2017): \u201cDiffusion, Seeding, and the Value of Network Information,\u201d Available at SSRN. https://ssrn.com/abstract=3062830.",
+            "DOI": "10.2139/ssrn.3062830"
+        },
+        {
+            "key": "ecta200717-bib-0002",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Alatas, Vivi, Arun G. Chandrasekhar, Markus Mobius, Benjamin A. Olken, and Cindy Paladines (2019): \u201cWhen Celebrities Speak: A Nationwide Twitter Experiment Promoting Vaccination in Indonesia,\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w25589"
+        },
+        {
+            "key": "ecta200717-bib-0003",
+            "unstructured": "Andrews, Isaiah, Toru Kitagawa, and Adam McCloskey (2021): \u201cInference on Winners,\u201d Tech. rep."
+        },
+        {
+            "key": "ecta200717-bib-0004",
+            "author": "Aral",
+            "year": "2012",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "ecta200717-bib-0005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Banerjee, Abhijit, Emily Breza, Arun G. Chandrasekhar, and Benjamin Golub (2018): \u201cWhen Less Is More: Experimental Evidence on Information Delivery During India's Demonetization,\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w24679"
+        },
+        {
+            "key": "ecta200717-bib-0006",
+            "unstructured": "Banerjee, Abhijit, Arun Chandrasekhar, Esther Duflo, Suresh Dalpath, John Floretta, Mathew Jackson, Harini Kannan, Anna Schrimpf, and Maheshwor Shrestha (2021a): \u201cEvaluating the Impact of Interventions to Improve Full Immunisation Rates in Haryana, India.\u201d"
+        },
+        {
+            "issue": "6144",
+            "key": "ecta200717-bib-0007",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1126/science.1236498",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "ecta200717-bib-0008",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Banerjee, Abhijit, Arun G. Chandrasekhar, Suresh Dalpath, Esther Duflo, John Floretta, Matthew O. Jackson, Harini Kannan, Francine N. Loza, Anirudh Sankar, Anna Schrimpf, and Maheshwor Shrestha (2021b): \u201cSelecting the Most Effective Nudge: Evidence From a Large-Scale Experiment on Immunization,\u201d Working Paper 28726, National Bureau of Economic Research.",
+            "DOI": "10.3386/w28726"
+        },
+        {
+            "key": "ecta200717-bib-0009",
+            "author": "Banerjee",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200717-bib-0010",
+            "volume": "340",
+            "author": "Banerjee",
+            "year": "2010",
+            "journal-title": "Bmj"
+        },
+        {
+            "issue": "S3",
+            "key": "ecta200717-bib-0011",
+            "volume": "13",
+            "author": "Bassani",
+            "year": "2013",
+            "journal-title": "BMC Public Health"
+        },
+        {
+            "key": "ecta200717-bib-0012",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Beaman, Lori, Ariel BenYishay, Jeremy Magruder, and Ahmed Mushfiq Mobarak (2018): \u201cCan Network Theory-Based Targeting Increase Technology Adoption?\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w24912"
+        },
+        {
+            "key": "ecta200717-bib-0013",
+            "first-page": "802",
+            "author": "Berk",
+            "year": "2013",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200717-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1705",
+            "DOI": "10.1214/08-AOS620",
+            "volume": "37",
+            "author": "Bickel",
+            "year": "2009",
+            "journal-title": "The Annals of statistics"
+        },
+        {
+            "key": "ecta200717-bib-0015",
+            "volume-title": "COVID-19: A Global Perspective: 2020 Goalkeepers Report",
+            "year": "2020"
+        },
+        {
+            "key": "ecta200717-bib-0016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bloch, Francis, Matthew O. Jackson, and Pietro Tebaldi (2016): \u201cCentrality Measures in Networks,\u201d, http://ssrn.com/abstract=2749124.",
+            "DOI": "10.2139/ssrn.2749124"
+        },
+        {
+            "key": "ecta200717-bib-0017",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.eclinm.2022.101500",
+            "volume": "50",
+            "author": "Chandir",
+            "year": "2022",
+            "journal-title": "EClinicalMedicine"
+        },
+        {
+            "key": "ecta200717-bib-0018",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chernozhukov, Victor, Mert Demirer, Esther Duflo, and Ivan Fernandez-Val (2018): \u201cGeneric Machine Learning Inference on Heterogenous Treatment Effects in Randomized Experiments,\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w24678"
+        },
+        {
+            "key": "ecta200717-bib-0019",
+            "unstructured": "DLHS (2013): \u201cDistrict Level Household and Facility Survey-4.\u201d"
+        },
+        {
+            "issue": "21",
+            "key": "ecta200717-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "2437",
+            "DOI": "10.1016/j.vaccine.2016.03.065",
+            "volume": "34",
+            "author": "Domek",
+            "year": "2016",
+            "journal-title": "Vaccine"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200717-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "e428",
+            "DOI": "10.1016/S2214-109X(17)30072-4",
+            "volume": "5",
+            "author": "Gibson",
+            "year": "2017",
+            "journal-title": "The Lancet Global Health"
+        },
+        {
+            "issue": "15",
+            "key": "ecta200717-bib-0022",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1073/pnas.2014602118",
+            "volume": "118",
+            "author": "Hadad",
+            "year": "2021",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "issue": "11",
+            "key": "ecta200717-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "725",
+            "DOI": "10.1056/NEJM199709113371101",
+            "volume": "337",
+            "author": "Hammer",
+            "year": "1997",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "120",
+            "DOI": "10.1006/jmva.1999.1873",
+            "volume": "73",
+            "author": "He",
+            "year": "2000",
+            "journal-title": "Journal of multivariate analysis"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200717-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1509/jm.10.0088",
+            "volume": "75",
+            "author": "Hinz",
+            "year": "2011",
+            "journal-title": "Journal of Marketing"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200717-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1287/mksc.1100.0566",
+            "volume": "30",
+            "author": "Iyengar",
+            "year": "2010",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "ecta200717-bib-0027",
+            "series-title": "Lecture Notes in Computer Science",
+            "volume-title": "Proceedings of the Workshop in Internet and Network Economics (WINE 2008)",
+            "author": "Jackson",
+            "year": "2008"
+        },
+        {
+            "key": "ecta200717-bib-0028",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jackson, Matthew O. (2017): \u201cA Typology of Social Capital and Associated Network Measures,\u201d, http://ssrn.com/abstract=3073496.",
+            "DOI": "10.2139/ssrn.3073496"
+        },
+        {
+            "key": "ecta200717-bib-0029",
+            "series-title": "Handbook of Social Economics",
+            "volume-title": "Diffusion, Strategic Interaction, and Social Structure",
+            "author": "Jackson",
+            "year": "2011"
+        },
+        {
+            "key": "ecta200717-bib-0030",
+            "first-page": "3012",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "author": "Javanmard",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200717-bib-0031",
+            "first-page": "2869",
+            "volume": "15",
+            "author": "Javanmard",
+            "year": "2014",
+            "journal-title": "The Journal of Machine Learning Research"
+        },
+        {
+            "key": "ecta200717-bib-0032",
+            "first-page": "2593",
+            "volume": "46",
+            "author": "Javanmard",
+            "year": "2018",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1150",
+            "DOI": "10.1214/15-EJS1029",
+            "volume": "9",
+            "author": "Jia",
+            "year": "2015",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "ecta200717-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.2471/BLT.14.146951",
+            "volume": "93",
+            "author": "Johri",
+            "year": "2015",
+            "journal-title": "Bulletin of the World Health Organization"
+        },
+        {
+            "key": "ecta200717-bib-0035",
+            "volume-title": "Social Signaling and Childhood Immunization: A Field Experiment in Sierra Leone",
+            "author": "Karing",
+            "year": "2018"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.3982/ECTA17527",
+            "volume": "89",
+            "author": "Kasy",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200717-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "425",
+            "DOI": "10.1509/jmkr.48.3.425",
+            "volume": "48",
+            "author": "Katona",
+            "year": "2011",
+            "journal-title": "Journal of Marketing Research"
+        },
+        {
+            "key": "ecta200717-bib-0038",
+            "volume-title": "Personal Influence: The Part Played by People in the Flow of Mass Communication",
+            "author": "Katz",
+            "year": "1955"
+        },
+        {
+            "key": "ecta200717-bib-0039",
+            "first-page": "137",
+            "volume-title": "Proc. 9th Intl. Conf. on Knowledge Discovery and Data Mining",
+            "author": "Kempe",
+            "year": "2003"
+        },
+        {
+            "key": "ecta200717-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.4135/9781483327723.n5",
+            "volume-title": "Networks in Marketing",
+            "author": "Krackhardt",
+            "year": "1996"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200717-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.1214/15-AOS1371",
+            "volume": "44",
+            "author": "Lee",
+            "year": "2016",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1017/S0266466605050036",
+            "volume": "21",
+            "author": "Leeb",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200717-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "201",
+            "DOI": "10.1016/j.jeconom.2007.05.017",
+            "volume": "142",
+            "author": "Leeb",
+            "year": "2008",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200717-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "810",
+            "DOI": "10.1080/07350015.2019.1592754",
+            "volume": "38",
+            "author": "McCloskey",
+            "year": "2020",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "ecta200717-bib-0045",
+            "unstructured": "McKenzie, David (2019): \u201cBe Careful With Inference From 2-by-2 Experiments and Ther Cross-Cutting Designs,\u201d online, accessed October, 19, 2019."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/s13643-019-1054-0",
+            "volume": "8",
+            "author": "Mekonnen",
+            "year": "2019",
+            "journal-title": "Systematic reviews"
+        },
+        {
+            "key": "ecta200717-bib-0047",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Muralidharan, Karthik, Mauricio Romero, and Kaspar Wuthrich (2019): \u201cFactorial Designs, Model Selection, and (Incorrect) Inference in Randomized Experiments.\u201d",
+            "DOI": "10.3386/w26562"
+        },
+        {
+            "key": "ecta200717-bib-0048",
+            "unstructured": "NFHS (2016): \u201cNational Family Health Survey-4 State Fact Sheet for Haryana.\u201d"
+        },
+        {
+            "key": "ecta200717-bib-0049",
+            "first-page": "1",
+            "author": "Nie",
+            "year": "2022",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200717-bib-0050",
+            "volume": "7",
+            "author": "Oyo-Ita",
+            "year": "2016",
+            "journal-title": "Cochrane Database of Systematic Reviews"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "96",
+            "DOI": "10.1016/j.vaccine.2012.10.103",
+            "volume": "31",
+            "author": "Ozawa",
+            "year": "2012",
+            "journal-title": "Vaccine"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200717-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.1370/afm.2120",
+            "volume": "15",
+            "author": "Regan",
+            "year": "2017",
+            "journal-title": "The Annals of Family Medicine"
+        },
+        {
+            "key": "ecta200717-bib-0053",
+            "volume-title": "Diffusion of Innovations",
+            "author": "Rogers",
+            "year": "1995"
+        },
+        {
+            "key": "ecta200717-bib-0054",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rohe, Karl (2014): \u201cA Note Relating Ridge Regression and ols p-Values to Preconditioned Sparse Penalized Regression,\u201d arXiv preprint. arXiv:1411.7405.",
+            "DOI": "10.1002/sta4.86"
+        },
+        {
+            "issue": "514",
+            "key": "ecta200717-bib-0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "600",
+            "DOI": "10.1080/01621459.2015.1108848",
+            "volume": "111",
+            "author": "Tibshirani",
+            "year": "2016",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200717-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "276",
+            "DOI": "10.1016/j.vaccine.2015.11.024",
+            "volume": "34",
+            "author": "Uddin",
+            "year": "2016",
+            "journal-title": "Vaccine"
+        },
+        {
+            "key": "ecta200717-bib-0057",
+            "unstructured": "UNICEF and WHO (2019): \u201cProgress and Challenges With Achieving Universal Immunization Coverage: 2018 Estimates of Immunization Coverage WHO.\u201d"
+        },
+        {
+            "key": "ecta200717-bib-0058",
+            "unstructured": "user1551 (2017): \u201cFind the Uniform Lower Bound of the Smallest Eigenvalue of a Certain Matrix,\u201d Mathematics Stack Exchange, https://math.stackexchange.com/q/2438656 (version: 2017-09-21). https://math.stackexchange.com/users/1551/user1551."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200717-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "2970",
+            "DOI": "10.1214/19-EJS1599",
+            "volume": "13",
+            "author": "Van De Geer",
+            "year": "2019",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200717-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1016/j.vaccine.2012.11.093",
+            "volume": "31",
+            "author": "Wakadha",
+            "year": "2013",
+            "journal-title": "Vaccine"
+        },
+        {
+            "key": "ecta200717-bib-0061",
+            "volume-title": "Situation Analysis of Immunization Expenditure",
+            "year": "2019"
+        },
+        {
+            "key": "ecta200717-bib-0062",
+            "unstructured": "Zhan, Ruohan, Zhimei Ren, Susan Athey, and Zhengyuan Zhou (2021): \u201cPolicy Learning With Adaptively Collected Data,\u201d arXiv preprint. arXiv:2105.02344."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200717-bib-0063",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.1111/rssb.12026",
+            "volume": "76",
+            "author": "Zhang",
+            "year": "2014",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "ecta200717-bib-0064",
+            "first-page": "2541",
+            "volume": "7",
+            "author": "Zhao",
+            "year": "2006",
+            "journal-title": "Journal of Machine learning research"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                24
+            ]
+        ],
+        "date-time": "2025-07-24T05:45:49Z",
+        "timestamp": 1753335949000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19739"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19739"
+    ],
+    "URL": "https://doi.org/10.3982/ecta19739",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}
