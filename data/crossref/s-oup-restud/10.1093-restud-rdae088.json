@@ -1,0 +1,1023 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                30
+            ]
+        ],
+        "date-time": "2025-07-30T12:17:37Z",
+        "timestamp": 1753877857251,
+        "version": "3.41.2"
+    },
+    "reference-count": 83,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        11,
+                        1
+                    ]
+                ],
+                "date-time": "2024-11-01T00:00:00Z",
+                "timestamp": 1730419200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 59,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000269",
+            "name": "ESRC",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000269",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "name": "Centre for the Microeconomic Analysis of Public Policy",
+            "award": [
+                "ES/T014334/1"
+            ]
+        },
+        {
+            "name": "Centre for Microdata Methods and Practice",
+            "award": [
+                "RES-589-28-0001"
+            ]
+        },
+        {
+            "name": "Large Research",
+            "award": [
+                "ES/P008909/1"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "ERC",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SG338187"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100000781",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                7
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Social interactions determine many economic behaviours, but information on social ties does not exist in most publicly available and widely used datasets. We present results on the identification of social networks from observational panel data that contains no information on social ties between agents. In the context of a canonical social interactions model, we provide sufficient conditions under which the social interactions matrix, endogenous and exogenous social effect parameters are globally identified if networks are constant over time. We also provide an extension of the method for time-varying networks. We then describe how high-dimensional estimation techniques can be used to estimate the interactions model based on the adaptive elastic net Generalized Method of Moments. We employ the method to study tax competition across U.S. states. The identified social interactions matrix implies that tax competition differs markedly from the common assumption of competition between geographically neighbouring states, providing further insights into the long-standing debate on the relative roles of factor mobility and yardstick competition in driving tax setting behaviour across states. Most broadly, our identification and application show that the analysis of social interactions can be extended to economic realms where no network data exist.</jats:p>",
+    "DOI": "10.1093/restud/rdae088",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                3
+            ]
+        ],
+        "date-time": "2024-09-03T14:11:50Z",
+        "timestamp": 1725372710000
+    },
+    "page": "2691-2729",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Identifying Network Ties from Panel Data: Theory and an Application to Tax Competition"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "\u00c1ureo",
+            "family": "de Paula",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London, CeMMAP and IFS ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Imran",
+            "family": "Rasul",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London and IFS ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Pedro C L",
+            "family": "Souza",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Economics and Finance, Queen Mary University ,",
+                    "place": [
+                        "UK"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                3
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025070716565670300_rdae088-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1977",
+            "DOI": "10.3982/ECTA9623",
+            "article-title": "The Network Origins of Aggregate Fluctuations",
+            "volume": "80",
+            "author": "Acemoglu",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/j.1435-5957.2010.00279.x",
+            "article-title": "Thirty Years of Spatial Econometrics",
+            "volume": "89",
+            "author": "Anselin",
+            "year": "2010",
+            "journal-title": "Papers in Regional Science"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B3",
+            "first-page": "5199",
+            "article-title": "Network Structure of Production",
+            "volume": "108",
+            "author": "Atalay",
+            "year": "2011",
+            "journal-title": "Proceedings of the American Mathematical Society"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.1111/j.1468-0262.2006.00709.x",
+            "article-title": "Who\u2019s Who in Networks. Wanted: The Key Player",
+            "volume": "74",
+            "author": "Ballester",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1236498",
+            "DOI": "10.1126/science.1236498",
+            "article-title": "The Diffusion of Microfinance",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1694",
+            "DOI": "10.1093/restud/rdab058",
+            "article-title": "Endogenous Social Interactions with Unobserved Networks",
+            "volume": "89",
+            "author": "Battaglini",
+            "year": "2022",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "year": "2011",
+            "author": "Belloni",
+            "key": "2025070716565670300_rdae088-B7"
+        },
+        {
+            "year": "1994",
+            "author": "Besley",
+            "key": "2025070716565670300_rdae088-B8"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B9",
+            "first-page": "25",
+            "article-title": "Incumbent Behavior: Vote-Seeking, Tax-Setting, and Yardstick Competition",
+            "volume": "85",
+            "author": "Besley",
+            "year": "1995",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "1995",
+            "author": "Besley",
+            "key": "2025070716565670300_rdae088-B10"
+        },
+        {
+            "year": "2011",
+            "author": "Blume",
+            "key": "2025070716565670300_rdae088-B11"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "444",
+            "DOI": "10.1086/679496",
+            "article-title": "Linear Social Interactions Models",
+            "volume": "123",
+            "author": "Blume",
+            "year": "2015",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "year": "2015",
+            "author": "Bonaldi",
+            "key": "2025070716565670300_rdae088-B13"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1016/j.jeconom.2008.12.021",
+            "article-title": "Identification of Peer Effects Through Social Networks",
+            "volume": "150",
+            "author": "Bramoull\u00e9",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "volume-title": "The Power to Tax: Analytical Foundations of a Fiscal Constitution",
+            "year": "1980",
+            "author": "Brennan",
+            "key": "2025070716565670300_rdae088-B15"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "2454",
+            "DOI": "10.1257/aer.20170861",
+            "article-title": "Using Aggregated Relational Data to Feasibly Identify Network Structure Without Network Data",
+            "volume": "110",
+            "author": "Breza",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1273",
+            "DOI": "10.3982/ECTA11991",
+            "article-title": "Understanding Mechanisms Underlying Peer Effects: Evidence From a Field Experiment on Financial Decisions",
+            "volume": "82",
+            "author": "Bursztyn",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "30",
+            "DOI": "10.1080/07350015.2013.836104",
+            "article-title": "Adaptive Elastic Net for Generalized Method of Moments",
+            "volume": "32",
+            "author": "Caner",
+            "year": "2014",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "year": "1989",
+            "author": "Case",
+            "key": "2025070716565670300_rdae088-B19"
+        },
+        {
+            "year": "2016",
+            "author": "Chandrasekhar",
+            "key": "2025070716565670300_rdae088-B20"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "3600",
+            "DOI": "10.1257/aer.104.11.3600",
+            "article-title": "The Network Structure of International Trade",
+            "volume": "104",
+            "author": "Chaney",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "volume-title": "Introduction to Mathematical Sociology",
+            "year": "1964",
+            "author": "Coleman",
+            "key": "2025070716565670300_rdae088-B22"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1257/aer.100.1.35",
+            "article-title": "Learning About a New Technology: Pineapple in Ghana",
+            "volume": "100",
+            "author": "Conley",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2012",
+            "author": "Dahlhaus",
+            "key": "2025070716565670300_rdae088-B24"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B25",
+            "first-page": "241",
+            "article-title": "Identification of Social Interactions Through Partially Overlapping Peer Groups",
+            "volume": "2",
+            "author": "De Giorgi",
+            "year": "2010",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "year": "2017",
+            "author": "de Paula",
+            "key": "2025070716565670300_rdae088-B27"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA13564",
+            "article-title": "Identifying Preferences in Networks with Bounded Degree",
+            "volume": "86",
+            "author": "de Paula",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2022",
+            "author": "DellaVigna",
+            "key": "2025070716565670300_rdae088-B26"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1232",
+            "DOI": "10.1257/jel.20161153",
+            "article-title": "Executive Compensation: A Modern Primer",
+            "volume": "54",
+            "author": "Edmans",
+            "year": "2016",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "407",
+            "DOI": "10.1214/009053604000000067",
+            "article-title": "Least Angle Regression",
+            "volume": "32",
+            "author": "Efron",
+            "year": "2004",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1146/annurev-economics-051520-021647",
+            "article-title": "Networks and Economic Fragility",
+            "volume": "14",
+            "author": "Elliott",
+            "year": "2022",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2275",
+            "DOI": "10.1257/aer.20200412",
+            "article-title": "Security Transitions",
+            "volume": "111",
+            "author": "Fetzer",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2012",
+            "author": "Findley",
+            "key": "2025070716565670300_rdae088-B33"
+        },
+        {
+            "year": "2016",
+            "author": "Gautier",
+            "key": "2025070716565670300_rdae088-B34"
+        },
+        {
+            "year": "2014",
+            "author": "Gautier",
+            "key": "2025070716565670300_rdae088-B35"
+        },
+        {
+            "year": "2023",
+            "author": "Gefang",
+            "key": "2025070716565670300_rdae088-B36"
+        },
+        {
+            "year": "2022",
+            "author": "Goldstein",
+            "key": "2025070716565670300_rdae088-B37"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1360",
+            "DOI": "10.1086/225469",
+            "article-title": "The Strength of Weak Ties",
+            "volume": "78",
+            "author": "Granovetter",
+            "year": "1973",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "1029",
+            "DOI": "10.2307/1912775",
+            "article-title": "Large Sample Properties of Generalized Method of Moments Estimators",
+            "volume": "50",
+            "author": "Hansen",
+            "year": "1982",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "757",
+            "DOI": "10.1111/j.2517-6161.1993.tb01939.x",
+            "article-title": "Varying-Coefficient Models",
+            "volume": "55",
+            "author": "Hastie",
+            "year": "1993",
+            "journal-title": "Journal of the Royal Statistical Society. Series B (Methodological)"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1090",
+            "DOI": "10.1198/016214502388618906",
+            "article-title": "Latent Space Approaches to Social Network Analysis",
+            "volume": "97",
+            "author": "Hoff",
+            "year": "2002",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1080/01621459.1981.10477598",
+            "article-title": "An Exponential Family of Probability Distributions for Directed Graphs",
+            "volume": "76",
+            "author": "Holland",
+            "year": "1981",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "volume-title": "Matrix Analysis",
+            "year": "2013",
+            "author": "Horn",
+            "key": "2025070716565670300_rdae088-B42"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1257/jel.20150694",
+            "article-title": "The Economic Consequences of Social Network Structure",
+            "volume": "55",
+            "author": "Jackson",
+            "year": "2017",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1006/jeth.1996.0108",
+            "article-title": "A Strategic Model of Social and Economic Networks",
+            "volume": "71",
+            "author": "Jackson",
+            "year": "1996",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1016/j.jpubeco.2013.07.004",
+            "article-title": "Tax and the City \u2013 A Theory of Local Tax Competition",
+            "volume": "106",
+            "author": "Janeba",
+            "year": "2013",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "103705",
+            "DOI": "10.1016/j.jedc.2019.05.012",
+            "article-title": "A Time-Varying Parameter Structural Model of the UK Economy",
+            "volume": "106",
+            "author": "Kapetanios",
+            "year": "2019",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.3982/QE399",
+            "article-title": "Bayesian Inference in a Class of Partially Identified Models",
+            "volume": "7",
+            "author": "Kline",
+            "year": "2016",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B48",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4614-5981-1",
+            "volume-title": "The Implicit Function Theorem",
+            "author": "Krantz",
+            "year": "2013"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1092",
+            "DOI": "10.1093/restud/rdw009",
+            "article-title": "Should Unemployment Insurance Vary with the Unemployment Rate? Theory and Evidence",
+            "volume": "83",
+            "author": "Kroft",
+            "year": "2016",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1347",
+            "DOI": "10.1080/07474938.2015.1085775",
+            "article-title": "Detection and Estimation of Block Structure in Spatial Weight Matrix",
+            "volume": "35",
+            "author": "Lam",
+            "year": "2016",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "693",
+            "DOI": "10.1080/07350015.2019.1569526",
+            "article-title": "Estimation and Selection of Spatial Weight Matrix in a Spatial lag Model",
+            "volume": "38",
+            "author": "Lam",
+            "year": "2020",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B52",
+            "first-page": "531",
+            "article-title": "Identification and Estimation of Econometric Models with Group Interactions, Contextual Factors and Fixed Effects",
+            "volume": "60",
+            "author": "Lee",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "898",
+            "DOI": "10.1086/722090",
+            "article-title": "Social Networks with Unobserved Links",
+            "volume": "131",
+            "author": "Lewbel",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "year": "2016",
+            "author": "Manresa",
+            "key": "2025070716565670300_rdae088-B54"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "531",
+            "DOI": "10.2307/2298123",
+            "article-title": "Identification of Endogenous Social Effects: The Reflection Problem",
+            "volume": "60",
+            "author": "Manski",
+            "year": "1993",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "1436",
+            "DOI": "10.1214/009053606000000281",
+            "article-title": "High-Dimensional Graphs and Variable Selection with the Lasso",
+            "volume": "34",
+            "author": "Meinshausen",
+            "year": "2006",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "290",
+            "DOI": "10.1016/j.socnet.2010.04.003",
+            "article-title": "Structure and Bias in the Network Autocorrelation Model",
+            "volume": "32",
+            "author": "Neuman",
+            "year": "2010",
+            "journal-title": "Social Networks"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "2111",
+            "DOI": "10.1016/S1573-4412(05)80005-4",
+            "article-title": "Large Sample Estimation and Hypothesis Testing",
+            "volume": "4",
+            "author": "Newey",
+            "year": "1994",
+            "journal-title": "Handbook of Econometrics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.1016/0047-2727(88)90036-9",
+            "article-title": "Economic Competition Among Jurisdictions: Efficiency-Enhancing or Distortion-Inducing?",
+            "volume": "35",
+            "author": "Oates",
+            "year": "1988",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "year": "2015",
+            "author": "Rose",
+            "key": "2025070716565670300_rdae088-B59"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "343",
+            "DOI": "10.1093/restud/rdz021",
+            "article-title": "External Validity in a Stochastic World: Evidence from Low-Income Countries",
+            "volume": "87",
+            "author": "Rosenzweig",
+            "year": "2020",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "577",
+            "DOI": "10.2307/1913267",
+            "article-title": "Identification in Parametric Models",
+            "volume": "39",
+            "author": "Rothenberg",
+            "year": "1971",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2015",
+            "author": "Rothenh\u00e4usler",
+            "key": "2025070716565670300_rdae088-B62"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "681",
+            "DOI": "10.1162/00335530151144131",
+            "article-title": "Peer Effects with Random Assignment: Results for Dartmouth Roommates",
+            "volume": "116",
+            "author": "Sacerdote",
+            "year": "2001",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.2307/2555560",
+            "article-title": "A Theory of Yardstick Competition",
+            "volume": "16",
+            "author": "Shleifer",
+            "year": "1985",
+            "journal-title": "The RAND Journal of Economics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1111/j.1538-4632.2009.00758.x",
+            "article-title": "Estimation Bias in Spatial Models with Strongly Connected Weight Matrices",
+            "volume": "41",
+            "author": "Smith",
+            "year": "2009",
+            "journal-title": "Geographical Analysis"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "1198",
+            "DOI": "10.1214/12-AOS1003",
+            "article-title": "Degrees of Freedom in Lasso Problems",
+            "volume": "40",
+            "author": "Tibshirani",
+            "year": "2012",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "416",
+            "DOI": "10.1086/257839",
+            "article-title": "A Pure Theory of Local Expenditures",
+            "volume": "64",
+            "author": "Tiebout",
+            "year": "1956",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "year": "2017",
+            "author": "U.S. Bureau of Economic Analysis",
+            "key": "2025070716565670300_rdae088-B68"
+        },
+        {
+            "year": "2017",
+            "author": "U.S. Bureau of Labor Statistics",
+            "key": "2025070716565670300_rdae088-B69"
+        },
+        {
+            "year": "2016",
+            "author": "U.S. Census Bureau",
+            "key": "2025070716565670300_rdae088-B70"
+        },
+        {
+            "year": "2016",
+            "author": "U.S. Census Bureau",
+            "key": "2025070716565670300_rdae088-B71"
+        },
+        {
+            "year": "2018",
+            "author": "van Vliet",
+            "key": "2025070716565670300_rdae088-B72"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "88",
+            "DOI": "10.1016/j.socnet.2014.03.004",
+            "article-title": "Statistical Power of the Social Network Autocorrelation Model",
+            "volume": "38",
+            "author": "Wang",
+            "year": "2014",
+            "journal-title": "Social Networks"
+        },
+        {
+            "year": "2017",
+            "author": "Wikipedia",
+            "key": "2025070716565670300_rdae088-B74"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "296",
+            "DOI": "10.1016/0094-1190(86)90045-8",
+            "article-title": "A Theory of Interregional Tax Competition",
+            "volume": "19",
+            "author": "Wilson",
+            "year": "1986",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1086/NTJ41789394",
+            "article-title": "Theories of Tax Competition",
+            "volume": "52",
+            "author": "Wilson",
+            "year": "1999",
+            "journal-title": "National Tax Journal"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1016/j.econlet.2019.04.007",
+            "article-title": "A Network Social Interaction Model with Heterogeneous Links",
+            "volume": "180",
+            "author": "Zhou",
+            "year": "2019",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "1418",
+            "DOI": "10.1198/016214506000000735",
+            "article-title": "The Adaptive Lasso and Its Oracle Properties",
+            "volume": "101",
+            "author": "Zou",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1111/j.1467-9868.2005.00503.x",
+            "article-title": "Regularization and Variable Selection via the Elastic Net",
+            "volume": "67",
+            "author": "Zou",
+            "year": "2005",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Statistical Methodology)"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "2173",
+            "DOI": "10.1214/009053607000000127",
+            "article-title": "On the \u201cDegrees of Freedom\u201d of the LASSO",
+            "volume": "35",
+            "author": "Zou",
+            "year": "2007",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "2025070716565670300_rdae088-B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "1733",
+            "DOI": "10.1214/08-AOS625",
+            "article-title": "On the Adaptive Elastic-Net with a Diverging Number of Parameters",
+            "volume": "37",
+            "author": "Zou",
+            "year": "2009",
+            "journal-title": "The Annals of Statistics"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae088/60289913/rdae088.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/4/2691/60289913/rdae088.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/4/2691/60289913/rdae088.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                7
+            ]
+        ],
+        "date-time": "2025-07-07T20:57:15Z",
+        "timestamp": 1751921835000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/4/2691/7748054"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                3
+            ]
+        ]
+    },
+    "references-count": 83,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    3
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    7,
+                    7
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae088",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                3
+            ]
+        ]
+    }
+}

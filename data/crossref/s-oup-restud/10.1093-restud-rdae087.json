@@ -1,0 +1,682 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                30
+            ]
+        ],
+        "date-time": "2025-07-30T12:18:19Z",
+        "timestamp": 1753877899253,
+        "version": "3.41.2"
+    },
+    "reference-count": 50,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        8,
+                        20
+                    ]
+                ],
+                "date-time": "2024-08-20T00:00:00Z",
+                "timestamp": 1724112000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/nsf",
+            "name": "G",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SES-1948692"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/nsf",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                7
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We present a model of digital advertising with three key features: (1) advertisers can reach consumers on and off a platform, (2) additional data enhances the value of advertiser\u2013consumer matches, and (3) the allocation of advertisements follows an auction-like mechanism. We contrast data-augmented auctions, which leverage the platform\u2019s data advantage to improve match quality, with managed-campaign mechanisms that automate match formation and price-setting. The platform-optimal mechanism is a managed campaign that conditions the on-platform prices for sponsored products on the off-platform prices set by all advertisers. This mechanism yields the efficient on-platform allocation but inefficiently high off-platform product prices. It attains the vertical integration profit for the platform and the advertisers, and it increases off-platform product prices while decreasing consumer surplus, relative to data-augmented auctions.</jats:p>",
+    "DOI": "10.1093/restud/rdae087",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                20
+            ]
+        ],
+        "date-time": "2024-08-20T19:50:26Z",
+        "timestamp": 1724183426000
+    },
+    "page": "2330-2358",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "How Do Digital Advertising Auctions Impact Product Prices?"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Dirk",
+            "family": "Bergemann",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Alessandro",
+            "family": "Bonatti",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Sloan School of Management, MIT ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Nicholas",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025070716565090400_rdae087-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "901",
+            "DOI": "10.2307/2938355",
+            "article-title": "Direct and Indirect Sale of Information",
+            "volume": "58",
+            "author": "Admati",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1007/978-3-030-35389-6_2",
+            "volume-title": "Web and Internet Economics: 15th International Conference, WINE 2019",
+            "author": "Aggarwal",
+            "year": "2019"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1145/3359301",
+            "article-title": "Discrimination Through Optimization: How Facebook\u2019s Ad Delivery Can Lead to Biased Outcomes",
+            "volume": "3",
+            "author": "Ali",
+            "year": "2019",
+            "journal-title": "Proceedings of the ACM on Human-Computer Interaction"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "538",
+            "DOI": "10.1093/restud/rdac033",
+            "article-title": "Voluntary Disclosure and Personalized Pricing",
+            "volume": "90",
+            "author": "Ali",
+            "year": "2023",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "132",
+            "DOI": "10.1145/3465456.3467607",
+            "volume-title": "Proceedings of the 22nd ACM Conference on Economics and Computation",
+            "author": "Balseiro",
+            "year": "2021"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "3952",
+            "DOI": "10.1287/mnsc.2018.3174",
+            "article-title": "Learning in Repeated Auctions with Budgets: Regret Minimization and Equilibrium",
+            "volume": "65",
+            "author": "Balseiro",
+            "year": "2019",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2020",
+            "author": "Bar-Isaac",
+            "key": "2025070716565090400_rdae087-B7"
+        },
+        {
+            "year": "2022",
+            "author": "",
+            "key": "2025070716565090400_rdae087-B8"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1146/annurev-economics-080315-015439",
+            "article-title": "Markets for Information: An Introduction",
+            "volume": "11",
+            "author": "Bergemann",
+            "year": "2019",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2553",
+            "DOI": "10.1257/aer.20230478",
+            "article-title": "Data, Competition, and Digital Platforms",
+            "volume": "114",
+            "author": "",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.1111/1756-2171.12407",
+            "article-title": "The Economics of Social Data",
+            "volume": "53",
+            "author": "Bergemann",
+            "year": "2022",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1257/aer.20130848",
+            "article-title": "The Limits of Price Discrimination",
+            "volume": "105",
+            "author": "Bergemann",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "3321",
+            "DOI": "10.1257/aer.20131664",
+            "article-title": "Exclusive Contracts and Market Dominance",
+            "volume": "105",
+            "author": "Calzolari",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B14",
+            "first-page": "4456",
+            "volume-title": "Proceedings of the 36th International Conference on Machine Learning",
+            "author": "Celis",
+            "year": "2019"
+        },
+        {
+            "year": "2020",
+            "author": "Competition & Markets Authority",
+            "key": "2025070716565090400_rdae087-B15"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "4433",
+            "DOI": "10.1287/mnsc.2019.3457",
+            "article-title": "Marketing Agencies and Collusive Bidding in Online ad Auctions",
+            "volume": "66",
+            "author": "Decarolis",
+            "year": "2020",
+            "journal-title": "Management Science"
+        },
+        {
+            "year": "2022",
+            "author": "Decarolis",
+            "key": "2025070716565090400_rdae087-B17"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.1111/1756-2171.12118",
+            "article-title": "Online Advertising and Privacy",
+            "volume": "47",
+            "author": "de Corni\u00e8re",
+            "year": "2016",
+            "journal-title": "Rand Journal of Economics"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1145/3589334.3645660",
+            "volume-title": "Proceedings of the ACM Web Conference 2024",
+            "author": "Deng",
+            "year": "2024"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "3965",
+            "DOI": "10.1145/3442381.3450052",
+            "volume-title": "Proceedings of the Web Conference 2021",
+            "author": "Deng",
+            "year": "2021"
+        },
+        {
+            "year": "2022",
+            "author": "",
+            "key": "2025070716565090400_rdae087-B21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2208.10650"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "242",
+            "DOI": "10.1257/aer.97.1.242",
+            "article-title": "Internet Advertising and the Generalized Second Price Auction: Selling Billions of Dollars Worth of Keywords",
+            "volume": "97",
+            "author": "Edelman",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "year": "2024",
+            "author": "Elliott",
+            "key": "2025070716565090400_rdae087-B23"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1016/j.jet.2015.04.009",
+            "article-title": "Government Interventions in a Dynamic Market with Adverse Selection",
+            "volume": "158",
+            "author": "Fuchs",
+            "year": "2015",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B25",
+            "first-page": "117",
+            "volume-title": "Economic Analysis of the Digital Revolution",
+            "author": "Ganuza",
+            "year": "2018"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1145/3490486.3538249",
+            "volume-title": "Proceedings of the 23rd ACM Conference on Economics and Computation",
+            "author": "Goke",
+            "year": "2022"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "3941",
+            "DOI": "10.1145/3442381.3449841",
+            "volume-title": "Proceedings of the Web Conference 2021",
+            "author": "Golrezaei",
+            "year": "2021"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B28",
+            "first-page": "443",
+            "article-title": "The Limits of Multi-Product Discrimination",
+            "volume": "4",
+            "author": "Haghpanah",
+            "year": "2022",
+            "journal-title": "American Economic Review: Insights"
+        },
+        {
+            "year": "2020",
+            "author": "Kanoria",
+            "key": "2025070716565090400_rdae087-B29"
+        },
+        {
+            "year": "2021",
+            "author": "Kirpalani",
+            "key": "2025070716565090400_rdae087-B30"
+        },
+        {
+            "year": "2023",
+            "author": "Konstantinovic",
+            "key": "2025070716565090400_rdae087-B31"
+        },
+        {
+            "year": "2023",
+            "author": "Lebow",
+            "key": "2025070716565090400_rdae087-B32"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B33",
+            "first-page": "1373",
+            "volume-title": "ECAI 2023",
+            "author": "Li",
+            "year": "2023"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "3561",
+            "DOI": "10.1145/3543507.3583492",
+            "volume-title": "Proceedings of the ACM Web Conference 2023",
+            "author": "Liaw",
+            "year": "2023"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.1145/3485447.3512062",
+            "volume-title": "Proceedings of the ACM Web Conference 2022",
+            "author": "Mehta",
+            "year": "2022"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "727",
+            "DOI": "10.1111/1756-2171.12389",
+            "article-title": "Input Price Discrimination by Resale Market",
+            "volume": "52",
+            "author": "Mikl\u00f3s-Thal",
+            "year": "2021",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "year": "2022",
+            "author": "Motta",
+            "key": "2025070716565090400_rdae087-B37"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "337",
+            "DOI": "10.1145/3351095.3375783",
+            "volume-title": "Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency",
+            "author": "Nasr",
+            "year": "2020"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "176",
+            "DOI": "10.1561/2200000077",
+            "article-title": "Learning in Repeated Auctions",
+            "volume": "15",
+            "author": "Nedelec",
+            "year": "2022",
+            "journal-title": "Foundations and Trends\u00ae in Machine Learning"
+        },
+        {
+            "year": "2022",
+            "author": "Ostrovsky",
+            "key": "2025070716565090400_rdae087-B40"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1257/aer.102.1.1",
+            "article-title": "Optimal Interventions in Markets with Adverse Selection",
+            "volume": "102",
+            "author": "Philippon",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/S0022-0531(03)00114-5",
+            "article-title": "Coordination and Discrimination in Contracting with Externalities: Divide and Conquer?",
+            "volume": "113",
+            "author": "Segal",
+            "year": "2003",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "year": "2021",
+            "author": "Stapleton",
+            "key": "2025070716565090400_rdae087-B43"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B44",
+            "first-page": "281",
+            "article-title": "Intermediation and Steering: Competition in Prices and Commissions",
+            "volume": "14",
+            "author": "Teh",
+            "year": "2022",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1257/aer.102.1.29",
+            "article-title": "Overcoming Adverse Selection: How Public Intervention Can Restore Market Functioning",
+            "volume": "102",
+            "author": "Tirole",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1287/opre.26.2.305",
+            "article-title": "Minimizing a Submodular Function on a Lattice",
+            "volume": "27",
+            "author": "Topkis",
+            "year": "1978",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B47",
+            "first-page": "651",
+            "article-title": "A Model of Sales",
+            "volume": "70",
+            "author": "Varian",
+            "year": "1980",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "S419",
+            "DOI": "10.1086/721269",
+            "article-title": "Advertising Costs and Product Prices",
+            "volume": "65",
+            "author": "",
+            "year": "2022",
+            "journal-title": "The Journal of Law and Economics"
+        },
+        {
+            "key": "2025070716565090400_rdae087-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1111/1756-2171.12305",
+            "article-title": "Search Platforms: Showrooming and Price Parity Clauses",
+            "volume": "51",
+            "author": "Wang",
+            "year": "2020",
+            "journal-title": "RAND Journal of Economics"
+        },
+        {
+            "year": "2024",
+            "author": "Yu",
+            "key": "2025070716565090400_rdae087-B50"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae087/59116015/rdae087.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/4/2330/59116015/rdae087.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/4/2330/59116015/rdae087.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                7
+            ]
+        ],
+        "date-time": "2025-07-07T20:57:08Z",
+        "timestamp": 1751921828000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/4/2330/7736835"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                20
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    8,
+                    20
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    7,
+                    7
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae087",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                8,
+                20
+            ]
+        ]
+    }
+}

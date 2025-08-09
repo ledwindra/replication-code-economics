@@ -1,0 +1,740 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                30
+            ]
+        ],
+        "date-time": "2025-07-30T12:15:09Z",
+        "timestamp": 1753877709303,
+        "version": "3.41.2"
+    },
+    "reference-count": 45,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        9,
+                        20
+                    ]
+                ],
+                "date-time": "2024-09-20T00:00:00Z",
+                "timestamp": 1726790400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 1,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100010663",
+            "name": "ERC",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "682417"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100010663",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100020806",
+            "name": "ANR",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "ANR-17-CE36-0004-01",
+                "ANR11-LBX-0023-01",
+                "ANR-17-EURE-0001"
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100020806",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                7
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>For an incompatible patient\u2013donor pair, kidney exchanges often forbid receipt-before-donation (the patient receives a kidney before the donor donates) and donation-before-receipt, causing a double-coincidence-of-wants problem. We study an algorithm, the Unpaired kidney exchange algorithm, which eliminates this problem. In a dynamic matching model, we show that the waiting time of patients under Unpaired is close to optimal and substantially shorter than under widely used algorithms. Using a rich administrative dataset from France, we show that Unpaired achieves a match rate of 63% and an average waiting time of 176\u2009days for transplanted patients. The (infeasible) optimal algorithm is only slightly better (64% and 144\u2009days); widely used algorithms deliver less than 40% match rate and at least 232\u2009days waiting times. We discuss a range of solutions that can address the potential practical incentive challenges of Unpaired. In particular, we extend our analysis to an environment where a deceased donor waitlist can be integrated to improve the performance of algorithms. We show that our theoretical and empirical comparisons continue to hold. Finally, based on these analyses, we propose a practical version of the Unpaired algorithm.</jats:p>",
+    "DOI": "10.1093/restud/rdae081",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                20
+            ]
+        ],
+        "date-time": "2024-09-20T02:32:59Z",
+        "timestamp": 1726799579000
+    },
+    "page": "2108-2164",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Unpaired Kidney Exchange: Overcoming Double Coincidence of Wants without Money"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Mohammad",
+            "family": "Akbarpour",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Stanford University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Julien",
+            "family": "Combe",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CREST, Ecole Polytechnique, France"
+                }
+            ]
+        },
+        {
+            "given": "YingHua",
+            "family": "He",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Rice University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Victor",
+            "family": "Hiller",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Universit\u00e9 Paris-Panth\u00e9on-Assas, LEMMA, France"
+                }
+            ]
+        },
+        {
+            "given": "Robert",
+            "family": "Shimer",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kenneth C. Griffin Department of Economics, University of Chicago, USA"
+                }
+            ]
+        },
+        {
+            "given": "Olivier",
+            "family": "Tercieux",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CNRS and Paris School of Economics ,",
+                    "place": [
+                        "France"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                19
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025070716564471400_rdae081-B1",
+            "first-page": "334",
+            "article-title": "What Matters for the Productivity of Kidney Exchange?",
+            "volume-title": "AEA Papers and Proceedings",
+            "author": "Agarwal",
+            "year": "2018"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.3982/ECTA17017",
+            "article-title": "Equilibrium Allocations Under Alternative Waitlist Designs: Evidence from Deceased Donor Kidneys",
+            "volume": "89",
+            "author": "Agarwal",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "year": "2019",
+            "author": "Akbarpour",
+            "key": "2025070716564471400_rdae081-B3"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "783",
+            "DOI": "10.1086/704761",
+            "article-title": "Thickness and Information in Dynamic Matching Markets",
+            "volume": "128",
+            "author": "Akbarpour",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1446",
+            "DOI": "10.1287/opre.2017.1644",
+            "article-title": "Efficient Dynamic Barter Exchange",
+            "volume": "65",
+            "author": "Anderson",
+            "year": "2017",
+            "journal-title": "Operations Research"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1091",
+            "DOI": "10.1093/restud/rdz018",
+            "article-title": "Pairwise Kidney Exchange Over The Blood Group Barrier",
+            "volume": "87",
+            "author": "Andersson",
+            "year": "2020",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B7",
+            "first-page": "927",
+            "article-title": "On Matching and Thickness in Heterogeneous Dynamic Markets",
+            "volume": "67",
+            "author": "Ashlagi",
+            "year": "2019",
+            "journal-title": "Operations Research"
+        },
+        {
+            "year": "2012",
+            "author": "Ashlagi",
+            "key": "2025070716564471400_rdae081-B8"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "5455",
+            "DOI": "10.1287/mnsc.2020.3954",
+            "article-title": "Kidney Exchange: An Operations Perspective",
+            "volume": "67",
+            "author": "Ashlagi",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B10",
+            "first-page": "265",
+            "article-title": "Sequential Kidney Exchange",
+            "volume": "6",
+            "author": "Ausubel",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1168",
+            "DOI": "10.1111/ajt.14702",
+            "article-title": "An Economic Assessment of Contemporary Kidney Transplant Practice",
+            "volume": "18",
+            "author": "Axelrod",
+            "year": "2018",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.3982/TE3740",
+            "article-title": "Optimal Dynamic Matching",
+            "volume": "15",
+            "author": "Baccara",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1257/jep.21.3.3",
+            "article-title": "Introducing Incentives in The Market for Live and Cadaveric Organ Donations",
+            "volume": "21",
+            "author": "Becker",
+            "year": "2007",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "year": "2020",
+            "author": "Che",
+            "key": "2025070716564471400_rdae081-B14"
+        },
+        {
+            "year": "2019",
+            "author": "Combe",
+            "key": "2025070716564471400_rdae081-B15"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "270",
+            "DOI": "10.1016/j.nephro.2022.02.001",
+            "article-title": "Perspectives pour une \u00c9volution du Programme de Don Crois\u00e9 de Reins en France",
+            "volume": "18",
+            "author": "Combe",
+            "year": "2022",
+            "journal-title": "N\u00e9phrologie & Th\u00e9rapeutique"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "2451",
+            "DOI": "10.1111/ajt.14343",
+            "article-title": "Broken Chains and Reneging: A Review of 1748 Kidney Paired Donation Transplants",
+            "volume": "17",
+            "author": "Cowan",
+            "year": "2017",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1628",
+            "DOI": "10.1111/j.1600-6143.2004.00572.x",
+            "article-title": "Donor Kidney Exchanges",
+            "volume": "4",
+            "author": "Delmonico",
+            "year": "2004",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B19",
+            "first-page": "17",
+            "article-title": "On The Evolution of Random Graphs",
+            "volume": "5",
+            "author": "Erds",
+            "year": "1960",
+            "journal-title": "Publications of the Mathematical Institute of the Hungarian Academy of Sciences"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2712",
+            "DOI": "10.1111/ajt.13339",
+            "article-title": "The Incorporation of an Advanced Donation Program into Kidney Paired Exchange: Initial Experience of the National Kidney Registry",
+            "volume": "15",
+            "author": "Flechner",
+            "year": "2015",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2196",
+            "DOI": "10.1097/TP.0000000000002645",
+            "article-title": "Deceased Donor\u2013Initiated Chains: First Report of a Successful Deliberate Case and Its Ethical Implications",
+            "volume": "103",
+            "author": "Furian",
+            "year": "2019",
+            "journal-title": "Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1330",
+            "DOI": "10.1111/j.1600-6143.2009.02622.x",
+            "article-title": "The Roles of Dominos and Nonsimultaneous Chains in Kidney Paired Donation",
+            "volume": "9",
+            "author": "Gentry",
+            "year": "2009",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1998",
+            "DOI": "10.1093/ndt/gfp779",
+            "article-title": "The \u2018Blood Group O Problem\u2019 in Kidney Transplantation-Time to Change?",
+            "volume": "25",
+            "author": "Glander",
+            "year": "2010",
+            "journal-title": "Nephrology Dialysis Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1214/aos/1176346577",
+            "article-title": "The Dip Test of Unimodality",
+            "volume": "13",
+            "author": "Hartigan",
+            "year": "1985",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "volume-title": "Rational Queueing",
+            "year": "2016",
+            "author": "Hassin",
+            "key": "2025070716564471400_rdae081-B25"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1007/s00199-020-01276-y",
+            "article-title": "Kidney Exchange with Immunosuppressants",
+            "volume": "72",
+            "author": "Heo",
+            "year": "2018",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "volume-title": "Money and the Mechanism of Exchange",
+            "year": "1885",
+            "author": "Jevons",
+            "key": "2025070716564471400_rdae081-B27"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "922",
+            "DOI": "10.2215/CJN.08140910",
+            "article-title": "Desensitization Protocols and Their Outcome",
+            "volume": "6",
+            "author": "Marfo",
+            "year": "2011",
+            "journal-title": "Clinical Journal of the American Society of Nephrology"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "2077",
+            "DOI": "10.1111/ajt.13709",
+            "article-title": "A Risk Index for Living Donor Kidney Transplantation",
+            "volume": "16",
+            "author": "Massie",
+            "year": "2016",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "518",
+            "DOI": "10.2307/1427522",
+            "article-title": "Stability of Markovian Processes III: Foster\u2013Lyapunov Criteria for Continuous-Time Processes",
+            "volume": "25",
+            "author": "Meyn",
+            "year": "1993",
+            "journal-title": "Advances in Applied Probability"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1514",
+            "DOI": "10.1097/TP.0000000000002432",
+            "article-title": "Building Kidney Exchange Programmes in Europe\u2014An Overview of Exchange Practice and Activities",
+            "volume": "103",
+            "author": "P\u00e9ter",
+            "year": "2019",
+            "journal-title": "Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1539",
+            "DOI": "10.1097/00007890-200004270-00001",
+            "article-title": "Ethical Issues in Increasing Living Kidney Donations by Expanding Kidney Paired Exchange Programs",
+            "volume": "69",
+            "author": "Ross",
+            "year": "2000",
+            "journal-title": "Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1257/jep.21.3.37",
+            "article-title": "Repugnance as a Constraint on Markets",
+            "volume": "21",
+            "author": "Roth",
+            "year": "2007",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "457",
+            "DOI": "10.1162/0033553041382157",
+            "article-title": "Kidney Exchange",
+            "volume": "119",
+            "author": "Roth",
+            "year": "2004",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "2694",
+            "DOI": "10.1111/j.1600-6143.2006.01515.x",
+            "article-title": "Utilizing List Exchange and Nondirected Donation Through \u2018Chain\u2019 Paired Kidney Donations",
+            "volume": "6",
+            "author": "Roth",
+            "year": "2006",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "828",
+            "DOI": "10.1257/aer.97.3.828",
+            "article-title": "Efficient Kidney Exchange: Coincidence of Wants in Markets with Compatibility-Based Preferences",
+            "volume": "97",
+            "author": "Roth",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "2059",
+            "DOI": "10.1016/S0140-6736(18)32091-9",
+            "article-title": "Clinical Outcomes after ABO-Incompatible Renal Transplantation: A Systematic Review and Meta-Analysis",
+            "volume": "393",
+            "author": "Scurt",
+            "year": "2019",
+            "journal-title": "The Lancet"
+        },
+        {
+            "year": "2018",
+            "author": "S\u00f6nmez",
+            "key": "2025070716564471400_rdae081-B38"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "2198",
+            "DOI": "10.1257/aer.20170950",
+            "article-title": "Incentivized Kidney Exchange",
+            "volume": "110",
+            "author": "S\u00f6nmez",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1177/0098858818763812",
+            "article-title": "Swaps and Chains and Vouchers, Oh My!: Evaluating How Saving More Lives Impacts the Equitable Allocation of Live Donor Kidneys",
+            "volume": "44",
+            "author": "Tenenbaum",
+            "year": "2018",
+            "journal-title": "American Journal of Law & Medicine"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "372",
+            "DOI": "10.1111/j.1467-937X.2009.00575.x",
+            "article-title": "Dynamic Kidney Exchange",
+            "volume": "77",
+            "author": "\u00dcnver",
+            "year": "2010",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "2115",
+            "DOI": "10.1097/TP.0000000000001744",
+            "article-title": "Vouchers for Future Kidney Transplants to Overcome Chronological Incompatibility Between Living Donors and Recipients",
+            "volume": "101",
+            "author": "Veale",
+            "year": "2017",
+            "journal-title": "Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1111/ajt.16268",
+            "article-title": "Deceased Donors as Nondirected Donors in Kidney Paired Donation",
+            "volume": "21",
+            "author": "Wang",
+            "year": "2021",
+            "journal-title": "American Journal of Transplantation"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B44",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511813658",
+            "volume-title": "Probability with Martingales",
+            "author": "Williams",
+            "year": "1991"
+        },
+        {
+            "key": "2025070716564471400_rdae081-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "648",
+            "DOI": "10.1097/00007890-200108270-00015",
+            "article-title": "Primum Non Nocere: Avoiding Increased Waiting Times for Individual Racial and Blood-Type Subsets of Kidney Wait List Candidates in a Living Donor/Cadaveric Donor Exchange Program",
+            "volume": "72",
+            "author": "Zenios",
+            "year": "2001",
+            "journal-title": "Transplantation"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae081/59216166/rdae081.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/4/2108/59216166/rdae081.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/4/2108/59216166/rdae081.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                7
+            ]
+        ],
+        "date-time": "2025-07-07T20:56:56Z",
+        "timestamp": 1751921816000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/4/2108/7762213"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                19
+            ]
+        ]
+    },
+    "references-count": 45,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    9,
+                    19
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    7,
+                    7
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae081",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                7
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                9,
+                19
+            ]
+        ]
+    }
+}
