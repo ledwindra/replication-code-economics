@@ -1,0 +1,395 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2025-09-16T17:29:37Z",
+        "timestamp": 1758043777445,
+        "version": "3.44.0"
+    },
+    "reference-count": 31,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Econometric analysis typically focuses on the statistical properties of fixed estimators and ignores researcher choices. In this article, I instead approach the analysis of experimental data as a mechanism\u2010design problem that acknowledges that researchers choose between estimators, sometimes based on the data and often according to their own preferences. Specifically, I focus on covariate adjustments, which can increase the precision of a treatment\u2010effect estimate, but open the door to bias when researchers engage in specification searches. First, I establish that unbiasedness as a requirement on the estimation of the average treatment effect can align researchers' preferences with the minimization of the mean\u2010squared error relative to the truth, and that fixing the bias can yield an optimal restriction in a minimax sense. Second, I provide a constructive characterization of treatment\u2010effect estimators with fixed bias as sample\u2010splitting procedures. Third, I discuss the implementation of second\u2010best estimators that leave room for beneficial specification searches.</jats:p>",
+    "DOI": "10.3982/ecta18640",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                12
+            ]
+        ],
+        "date-time": "2025-09-12T08:58:58Z",
+        "timestamp": 1757667538000
+    },
+    "page": "1779-1810",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Optimal Estimation When Researcher and Social Preferences Are Misaligned"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Jann",
+            "family": "Spiess",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Business, Stanford University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200814-bib-0001",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Anderson, Michael L., and Jeremy Magruder (2017): \u201cSplit-Sample Strategies for Avoiding False Discoveries,\u201d NBER working paper.",
+            "DOI": "10.3386/w23544"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200814-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "2117",
+            "DOI": "10.3982/ECTA18155",
+            "volume": "89",
+            "author": "Andrews",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200814-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Aronow, Peter M., and Joel A. Middleton (2013): \u201cA Class of Unbiased Estimators of the Average Treatment Effect in Randomized Experiments,\u201d Journal of Causal Inference, 1 (1).",
+            "DOI": "10.1515/jci-2012-0009"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200814-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1206",
+            "DOI": "10.1257/aer.20171634",
+            "volume": "110",
+            "author": "Banerjee",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200814-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1016/bs.hefe.2016.08.005",
+            "volume-title": "Handbook of Economic Field Experiments",
+            "volume": "1",
+            "author": "Banerjee",
+            "year": "2017"
+        },
+        {
+            "key": "ecta200814-bib-0006",
+            "unstructured": "Bates, Stephen, Michael I. Jordan, Michael Sklar, and Jake A. Soloff (2022): \u201cPrincipal-Agent Hypothesis Testing,\u201d preprint, arXiv:2205.06812."
+        },
+        {
+            "key": "ecta200814-bib-0007",
+            "unstructured": "Bates, Stephen, Michael I. Jordan, Michael Sklar, and Jake A. Soloff (2023): \u201cIncentive-Theoretic Bayesian Inference for Collaborative Science,\u201d preprint, arXiv:2307.03748."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200814-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "536",
+            "DOI": "10.1257/aer.20131159",
+            "volume": "105",
+            "author": "Carroll",
+            "year": "2015",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "605",
+            "key": "ecta200814-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "F266",
+            "DOI": "10.1111/ecoj.12515",
+            "volume": "127",
+            "author": "Di Tillio",
+            "year": "2017",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200814-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1257/aer.104.1.66",
+            "volume": "104",
+            "author": "Frankel",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200814-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "180",
+            "DOI": "10.1016/j.aam.2006.12.003",
+            "volume": "40",
+            "author": "Freedman",
+            "year": "2008",
+            "journal-title": "Advances in Applied Mathematics"
+        },
+        {
+            "key": "ecta200814-bib-0012",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Glaeser, Edward L. (2006): \u201cResearcher Incentives and Empirical Methods,\u201d NBER working paper.",
+            "DOI": "10.3386/t0329"
+        },
+        {
+            "issue": "396",
+            "key": "ecta200814-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "945",
+            "DOI": "10.1080/01621459.1986.10478354",
+            "volume": "81",
+            "author": "Holland",
+            "year": "1986",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200814-bib-0014",
+            "unstructured": "Holmstr\u00f6m, Bengt Robert (1984): \u201cOn the Theory of Delegation,\u201d Bayesian models in economic theory."
+        },
+        {
+            "issue": "260",
+            "key": "ecta200814-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "663",
+            "DOI": "10.1080/01621459.1952.10483446",
+            "volume": "47",
+            "author": "Horvitz",
+            "year": "1952",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200814-bib-0016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hurwicz, Leonid, and Leonard Shapiro (1978): \u201cIncentive Structures Maximizing Residual Gain Under Incomplete Information,\u201d The Bell Journal of Economics, 180\u2013191.",
+            "DOI": "10.2307/3003619"
+        },
+        {
+            "issue": "345",
+            "key": "ecta200814-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1080/01621459.1974.10480138",
+            "volume": "69",
+            "author": "Leamer",
+            "year": "1974",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "volume-title": "Specification Searches: ad hoc Inference With Nonexperimental Data",
+            "year": "1978",
+            "author": "Leamer",
+            "key": "ecta200814-bib-0018"
+        },
+        {
+            "volume-title": "Testing Statistical Hypotheses",
+            "year": "2006",
+            "author": "Lehmann",
+            "key": "ecta200814-bib-0019"
+        },
+        {
+            "key": "ecta200814-bib-0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lenz, Gabriel, and Alexander Sahn (2017): \u201cAchieving Statistical Significance With Covariates.\u201d",
+            "DOI": "10.31222/osf.io/s42ba"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200814-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1214/12-AOAS583",
+            "volume": "7",
+            "author": "Lin",
+            "year": "2013",
+            "journal-title": "The Annals of Applied Statistics"
+        },
+        {
+            "key": "ecta200814-bib-0022",
+            "unstructured": "Neyman, Jerzy (1923): \u201cOn the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9,\u201d Statistical Science, 1990."
+        },
+        {
+            "issue": "5",
+            "key": "ecta200814-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "688",
+            "DOI": "10.1037/h0037350",
+            "volume": "66",
+            "author": "Rubin",
+            "year": "1974",
+            "journal-title": "Journal of Educational Psychology"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200814-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1214/aos/1176344064",
+            "volume": "6",
+            "author": "Rubin",
+            "year": "1978",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200814-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.1257/aer.102.3.477",
+            "volume": "102",
+            "author": "Schorfheide",
+            "year": "2012",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200814-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "332",
+            "DOI": "10.1016/j.rie.2016.02.001",
+            "volume": "70",
+            "author": "Schorfheide",
+            "year": "2016",
+            "journal-title": "Research in Economics"
+        },
+        {
+            "key": "ecta200814-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Spiess, Jann (2025): \u201cSupplement to \u2018Optimal Estimation When Researcher and Social Preferences Are Misaligned\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA18640.",
+            "DOI": "10.3982/ECTA18640"
+        },
+        {
+            "issue": "285",
+            "key": "ecta200814-bib-0028",
+            "first-page": "30",
+            "volume": "54",
+            "author": "Sterling",
+            "year": "1959",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "287",
+            "key": "ecta200814-bib-0029",
+            "first-page": "593",
+            "volume": "54",
+            "author": "Tullock",
+            "year": "1959",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "volume-title": "Statistical Decision Functions",
+            "year": "1950",
+            "author": "Wald",
+            "key": "ecta200814-bib-0030"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200814-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "458",
+            "DOI": "10.1177/0193841X18808003",
+            "volume": "42",
+            "author": "Wu",
+            "year": "2018",
+            "journal-title": "Evaluation Review"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                12
+            ]
+        ],
+        "date-time": "2025-09-12T09:00:11Z",
+        "timestamp": 1757667611000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA18640"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 31,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA18640"
+    ],
+    "URL": "https://doi.org/10.3982/ecta18640",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0012-9682"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}

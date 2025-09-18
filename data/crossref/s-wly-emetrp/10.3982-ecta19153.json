@@ -1,0 +1,730 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2025-09-16T17:31:13Z",
+        "timestamp": 1758043873694,
+        "version": "3.44.0"
+    },
+    "reference-count": 62,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000269",
+            "name": "Economic and Social Research Council",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000269",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100014013",
+            "name": "UK Research and Innovation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100014013",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose flexible Gaussian representations for conditional cumulative distribution functions and give a concave likelihood criterion for their estimation. Optimal representations satisfy the monotonicity property of conditional cumulative distribution functions, including in finite samples and under general misspecification. We use these representations to provide a unified framework for the flexible maximum likelihood estimation of conditional density, cumulative distribution, and quantile functions at parametric rate. Our formulation yields substantial simplifications and finite sample improvements over related methods. An empirical application to the gender wage gap in the United States illustrates our framework.</jats:p>",
+    "DOI": "10.3982/ecta19153",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                12
+            ]
+        ],
+        "date-time": "2025-09-12T08:58:58Z",
+        "timestamp": 1757667538000
+    },
+    "page": "1885-1913",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Gaussian Transforms Modeling and the Estimation of Distributional Regression Functions"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Richard H.",
+            "family": "Spady",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Johns Hopkins University"
+                },
+                {
+                    "name": "Nuffield College, University of Oxford"
+                }
+            ]
+        },
+        {
+            "given": "Sami",
+            "family": "Stouli",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Economics, University of Bristol"
+                },
+                {
+                    "name": "Department of Economics, University of Melbourne"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200809-bib-0001",
+            "first-page": "267",
+            "volume-title": "Proc. 2nd Int. Symp. Information Theory",
+            "author": "Akaike",
+            "year": "1973"
+        },
+        {
+            "key": "ecta200809-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1080/07362999208809268",
+            "volume": "10",
+            "author": "Anastassiou",
+            "year": "1992",
+            "journal-title": "Stochastic Analysis and Applications"
+        },
+        {
+            "unstructured": "Arjovsky, Martin, and Leon Bottou (2017): \u201cTowards Principled Methods for Training Generative Adversarial Networks,\u201d arXiv:1701.04862.",
+            "key": "ecta200809-bib-0003"
+        },
+        {
+            "key": "ecta200809-bib-0004",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jeconom.2020.09.013",
+            "volume": "240",
+            "author": "Athey",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200809-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1093/jrsssa/qnad091",
+            "volume": "185",
+            "author": "Bach",
+            "year": "2024",
+            "journal-title": "Journal of the Royal Statistical Society Series A: Statistics in Society"
+        },
+        {
+            "key": "ecta200809-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.1016/j.jeconom.2014.01.005",
+            "volume": "179",
+            "author": "Blundell",
+            "year": "2014",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200809-bib-0007",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511804441",
+            "volume-title": "Convex Optimization",
+            "author": "Boyd",
+            "year": "2004"
+        },
+        {
+            "key": "ecta200809-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1360",
+            "DOI": "10.1080/01621459.2023.2191820",
+            "volume": "119",
+            "author": "Carlan",
+            "year": "2024",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "volume-title": "Normal Approximation by Stein's Method",
+            "year": "2010",
+            "author": "Chen",
+            "key": "ecta200809-bib-0009"
+        },
+        {
+            "key": "ecta200809-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.3982/ECTA7880",
+            "volume": "78",
+            "author": "Chernozhukov",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "2205",
+            "DOI": "10.3982/ECTA10582",
+            "volume": "81",
+            "author": "Chernozhukov",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.3982/QE1239",
+            "volume": "11",
+            "author": "Chernozhukov",
+            "year": "2020",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta200809-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1405",
+            "DOI": "10.1111/1468-0262.00454",
+            "volume": "71",
+            "author": "Chesher",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "unstructured": "Chetverikov, Dennis, and Jesper R. V. S\u00f8rensen (2021): \u201cAnalytic and Bootstrap-After-Cross-Validation Methods for Selecting Penalty Parameters of High-Dimensional M-Estimators,\u201d arXiv:2104.04716.",
+            "key": "ecta200809-bib-0014"
+        },
+        {
+            "key": "ecta200809-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1303",
+            "DOI": "10.3982/ECTA13639",
+            "volume": "85",
+            "author": "Chetverikov",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "71",
+            "DOI": "10.1007/BF02788653",
+            "volume": "17",
+            "author": "Curry",
+            "year": "1966",
+            "journal-title": "Journal d'Analyse Math\u00e9matique"
+        },
+        {
+            "key": "ecta200809-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "891",
+            "DOI": "10.1137/0508068",
+            "volume": "8",
+            "author": "De Vore",
+            "year": "1977",
+            "journal-title": "SIAM Journal on Mathematical Analysis"
+        },
+        {
+            "key": "ecta200809-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1111/j.1467-9868.2008.00651.x",
+            "volume": "70",
+            "author": "Dette",
+            "year": "2008",
+            "journal-title": "Journal of the Royal Statistical Society: Series B"
+        },
+        {
+            "key": "ecta200809-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1001",
+            "DOI": "10.2307/2171954",
+            "volume": "64",
+            "author": "DiNardo",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0020",
+            "first-page": "3071",
+            "volume-title": "Proceedings of the European Control Conference",
+            "author": "Domahidi",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200809-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1080/01621459.1995.10476537",
+            "volume": "90",
+            "author": "Foresi",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fu, Anqi, Balasubramanian Narasimhan, and Stephen Boyd (2017): \u201cCVXR: An R Package for Disciplined Convex Optimization,\u201d arXiv:1711.07582.",
+            "key": "ecta200809-bib-0022",
+            "DOI": "10.32614/CRAN.package.CVXR"
+        },
+        {
+            "key": "ecta200809-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1111/1467-9469.00339",
+            "volume": "30",
+            "author": "Glad",
+            "year": "2003",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "key": "ecta200809-bib-0024",
+            "first-page": "2672",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "author": "Goodfellow",
+            "year": "2014"
+        },
+        {
+            "key": "ecta200809-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "598",
+            "DOI": "10.1198/016214503000000512",
+            "volume": "98",
+            "author": "Hall",
+            "year": "2003",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200809-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "186",
+            "DOI": "10.1080/00031305.1997.10473959",
+            "volume": "51",
+            "author": "He",
+            "year": "1997",
+            "journal-title": "The American Statistician"
+        },
+        {
+            "key": "ecta200809-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1016/j.jeconom.2019.11.008",
+            "volume": "222",
+            "author": "Horowitz",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200809-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/rssb.12017",
+            "volume": "76",
+            "author": "Hothorn",
+            "year": "2014",
+            "journal-title": "Journal of the Royal Statistical Society: Series B"
+        },
+        {
+            "key": "ecta200809-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1111/sjos.12291",
+            "volume": "45",
+            "author": "Hothorn",
+            "year": "2018",
+            "journal-title": "Scandinavian Journal of Statistics"
+        },
+        {
+            "key": "ecta200809-bib-0030",
+            "first-page": "1",
+            "volume": "41",
+            "author": "Hsu",
+            "year": "2020",
+            "journal-title": "Econometric Reviews"
+        },
+        {
+            "key": "ecta200809-bib-0031",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/0471725250",
+            "volume-title": "Robust Statistics",
+            "author": "Huber",
+            "year": "1981"
+        },
+        {
+            "key": "ecta200809-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "706",
+            "DOI": "10.1093/biomet/87.3.706",
+            "volume": "87",
+            "author": "Imbens",
+            "year": "2000",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200809-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.3982/ECTA7108",
+            "volume": "77",
+            "author": "Imbens",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0034",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511754098",
+            "volume-title": "Quantile Regression",
+            "author": "Koenker",
+            "year": "2005"
+        },
+        {
+            "key": "ecta200809-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2307/1913643",
+            "volume": "46",
+            "author": "Koenker",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.1016/0167-9473(91)90115-I",
+            "volume": "12",
+            "author": "Kooperberg",
+            "year": "1991",
+            "journal-title": "Computational Statistics & Data Analysis"
+        },
+        {
+            "volume-title": "Nonparametric Econometrics: Theory and Practice",
+            "year": "2007",
+            "author": "Li",
+            "key": "ecta200809-bib-0037"
+        },
+        {
+            "key": "ecta200809-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "717",
+            "DOI": "10.1093/biomet/ass027",
+            "volume": "99",
+            "author": "Lu",
+            "year": "2012",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta200809-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1016/j.jeconom.2019.04.009",
+            "volume": "213",
+            "author": "Machado",
+            "year": "2019",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200809-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "1339",
+            "DOI": "10.1111/1468-0262.00452",
+            "volume": "71",
+            "author": "Matzkin",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0041",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4614-5022-1",
+            "volume-title": "Mathematical Statistics for Economics and Business",
+            "author": "Mittelhammer",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200809-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "2111",
+            "DOI": "10.1016/S1573-4412(05)80005-4",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "4",
+            "author": "Newey",
+            "year": "1994"
+        },
+        {
+            "unstructured": "Newey, Whitney K., and Sami Stouli (2025): \u201cIdentification of Treatment Effects Under Limited Exogenous Variation,\u201d arXiv:1811.09837v2.",
+            "key": "ecta200809-bib-0043"
+        },
+        {
+            "key": "ecta200809-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "1042",
+            "DOI": "10.1007/s10957-016-0892-3",
+            "volume": "169",
+            "author": "O'Donoghue",
+            "year": "2016",
+            "journal-title": "Journal of Optimization Theory and Applications"
+        },
+        {
+            "key": "ecta200809-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "1211",
+            "DOI": "10.2307/1911445",
+            "volume": "46",
+            "author": "Olsen",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1090/conm/443/08555",
+            "volume": "443",
+            "author": "Owen",
+            "year": "2007",
+            "journal-title": "Contemporary Mathematics"
+        },
+        {
+            "volume-title": "R: A Language and Environment for Statistical Computing",
+            "year": "2024",
+            "key": "ecta200809-bib-0047"
+        },
+        {
+            "key": "ecta200809-bib-0048",
+            "first-page": "425",
+            "volume": "3",
+            "author": "Ramsay",
+            "year": "1988",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta200809-bib-0049",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1090/gsm/045",
+            "volume-title": "An Introduction to Measure and Integration",
+            "author": "Rana",
+            "year": "2002"
+        },
+        {
+            "key": "ecta200809-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "470",
+            "DOI": "10.1214/aoms/1177729394",
+            "volume": "23",
+            "author": "Rosenblatt",
+            "year": "1952",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200809-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jeconom.2019.11.004",
+            "volume": "217",
+            "author": "Rothe",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "unstructured": "Ruggles, Steven, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C. W. Williams (2025): \u201cIPUMS USA: Version 16.0 [Dataset],\u201d IPUMS, Minneapolis, MN.",
+            "key": "ecta200809-bib-0052"
+        },
+        {
+            "key": "ecta200809-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/biomet/asx074",
+            "volume": "105",
+            "author": "Spady",
+            "year": "2018",
+            "journal-title": "Biometrika"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Spady, Richard H., and Sami Stouli (2018b): \u201cSimultaneous Mean-Variance Regression,\u201d arXiv:1804.01631.",
+            "key": "ecta200809-bib-0054",
+            "DOI": "10.1920/wp.cem.2018.2518"
+        },
+        {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Spady, Richard H., and Sami Stouli (2025): \u201cSupplement to \u2018Gaussian Transforms Modeling and the Estimation of Distributional Regression Functions\u2019,\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA19153.",
+            "key": "ecta200809-bib-0055",
+            "DOI": "10.3982/ECTA19153"
+        },
+        {
+            "key": "ecta200809-bib-0056",
+            "first-page": "118",
+            "volume": "22",
+            "author": "Stone",
+            "year": "1994",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta200809-bib-0057",
+            "doi-asserted-by": "crossref",
+            "first-page": "24",
+            "DOI": "10.2307/1907382",
+            "volume": "26",
+            "author": "Tobin",
+            "year": "1958",
+            "journal-title": "Econometrica"
+        },
+        {
+            "volume-title": "The Nature of Statistical Learning Theory",
+            "year": "1999",
+            "author": "Vapnik",
+            "key": "ecta200809-bib-0058"
+        },
+        {
+            "key": "ecta200809-bib-0059",
+            "first-page": "293",
+            "volume-title": "Advances in Kernel Methods\u2014Support Vector Learning",
+            "author": "Weston",
+            "year": "1999"
+        },
+        {
+            "key": "ecta200809-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1912526",
+            "volume": "50",
+            "author": "White",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200809-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "1107",
+            "DOI": "10.1080/01621459.2016.1192545",
+            "volume": "112",
+            "author": "Yang",
+            "year": "2017",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200809-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "1418",
+            "DOI": "10.1198/016214506000000735",
+            "volume": "101",
+            "author": "Zou",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                12
+            ]
+        ],
+        "date-time": "2025-09-12T09:00:33Z",
+        "timestamp": 1757667633000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA19153"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA19153"
+    ],
+    "URL": "https://doi.org/10.3982/ecta19153",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0012-9682"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}
