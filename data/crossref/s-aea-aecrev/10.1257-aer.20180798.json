@@ -1,0 +1,417 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                10,
+                30
+            ]
+        ],
+        "date-time": "2025-10-30T13:14:14Z",
+        "timestamp": 1761830054028,
+        "version": "build-2065373602"
+    },
+    "reference-count": 43,
+    "publisher": "American Economic Association",
+    "issue": "11",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p>Identifying the optimal set of individuals to first receive information (\u201cseeds\u201d) in a social network to maximize expected diffusion is a widely studied question in many settings. Several studies propose network-centrality-based heuristics to select seeds likely to increase diffusion. Here, we show that, for the classic independent cascade model of diffusion, either seeding a few more individuals at random can prompt a larger diffusion than optimal seeding or optimal seeding itself results in limited spread. These findings hold across a broad range of random networks and are supported by simulations on real-world networks. (JEL D83, D85, O12, O18, P25, P32, Z13)</jats:p>",
+    "DOI": "10.1257/aer.20180798",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                10,
+                30
+            ]
+        ],
+        "date-time": "2025-10-30T13:08:31Z",
+        "timestamp": 1761829711000
+    },
+    "page": "3713-3748",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Just a Few Seeds More: The Value of Network Data for Diffusion"
+    ],
+    "prefix": "10.1257",
+    "volume": "115",
+    "author": [
+        {
+            "given": "Mohammad",
+            "family": "Akbarpour",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Stanford Graduate School of Business (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Suraj",
+            "family": "Malladi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kellogg Business School (email: )"
+                }
+            ]
+        },
+        {
+            "given": "Amin",
+            "family": "Saberi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University (email: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "unstructured": "Akbarpour, Mohammad, Suraj Malladi, and Amin Saberi. 2025. Data and Code for: \"Just a Few Seeds More: The Value of Network Data for Diffusion.\" Nashville, TN: American Economic Association; distributed by Inter-university Consortium for Political and Social Research, Ann Arbor, MI. https://doi.org/10.3886/E228382V1."
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Alimohammadi, Yeganeh, Christian Borgs, and Amin Saberi. 2022. \"Algorithms Using Local Graph Features to Predict Epidemics.\" In Proceedings of the 2022 Annual ACM-SIAM Symposium on Discrete Algorithms, edited by Joseph Naor and Niv Buchbinder, 3430-3451. SIAM.",
+            "DOI": "10.1137/1.9781611977073.136"
+        },
+        {
+            "issue": "4",
+            "key": "p_3",
+            "first-page": "1249",
+            "volume": "51",
+            "author": "Borgs Christian",
+            "year": "2023",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2006.00709.x"
+        },
+        {
+            "issue": "4",
+            "key": "p_5",
+            "first-page": "1884",
+            "volume": "91",
+            "author": "Breza Emily",
+            "year": "2023",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "6144",
+            "key": "p_6",
+            "first-page": "636",
+            "volume": "341",
+            "author": "Chandrasekhar Arun G.",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Banerjee, Abhijit, Arun G. Chandrasekhar, Esther Duflo, and Matthew O. Jackson. 2013. Data for: \"The Diffusion of Microfinance.\" Harvard Dataverse. https://doi.org/doi:10.7910/DVN/U3BIHX.",
+            "DOI": "10.3386/w17743"
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdz008"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.286.5439.509"
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20200295"
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bloch, Francis. 2016. \"Targeting and Pricing in Social Networks.\" In The Oxford Handbook of the Economics of Networks, edited by Yann Bramoull\u00e9, Andrea Galeotti, and Brian W. Rogers, 776-791. Oxford University Press.",
+            "DOI": "10.1093/oxfordhb/9780199948277.013.34"
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/iere.12275"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/rsa.20911"
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/15427951.2004.10129080"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20170861"
+        },
+        {
+            "issue": "1",
+            "key": "p_16",
+            "first-page": "180",
+            "volume": "86",
+            "author": "Klemperer Paul",
+            "year": "1996",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/app.20130442"
+        },
+        {
+            "key": "p_18",
+            "unstructured": "Cai, Jing, De Janvry, Alain, and Sadoulet, Elisabeth. 2015. Replication data for: \"Social Networks and the Decision to Insure.\" Nashville, TN: American Economic Association [publisher], Ann Arbor, MI: Inter-university Consortium for Political and Social Research [distributor], 2019-10-12. https:// doi.org/10.3886/E113593V1."
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.103.6.2466"
+        },
+        {
+            "issue": "1",
+            "key": "p_20",
+            "first-page": "1",
+            "volume": "42",
+            "author": "Ozdaglar Asuman",
+            "year": "2016",
+            "journal-title": "Mathematics of Operations Research"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA16173"
+        },
+        {
+            "key": "p_22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA16173"
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1756-2171.2009.00075.x"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjs021"
+        },
+        {
+            "key": "p_25",
+            "first-page": "58",
+            "volume": "113",
+            "author": "Heidari Hoda",
+            "year": "2014",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hofstad, Remco van der. 2016. Random Graphs and Complex Networks, Volume 43. Cambridge University Press.",
+            "DOI": "10.1017/9781316779422"
+        },
+        {
+            "key": "p_27",
+            "unstructured": "Hofstad, Remco van der. 2024. Random Graphs and Complex Networks, Volume 2. Cambridge University Press."
+        },
+        {
+            "key": "p_28",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jackson, Matthew O. 2010. Social and Economic Networks. Princeton University Press.",
+            "DOI": "10.2307/j.ctvcm4gh1"
+        },
+        {
+            "key": "p_29",
+            "unstructured": "Jackson, Matthew O., and Evan Storms. 2023. \"Behavioral Communities and the Atomic Structure of Networks.\" Unpublished."
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/rsa.3240010106"
+        },
+        {
+            "key": "p_31",
+            "first-page": "137",
+            "author": "Kleinberg Jon",
+            "year": "2003",
+            "journal-title": "Proceedings of the Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(15)60095-2"
+        },
+        {
+            "key": "p_33",
+            "unstructured": "Leskovec, Jure, and Julian J. Mcauley. 2012. \"Learning to Discover Social Circles in Ego Networks.\" In Advances in Neural Information Processing Systems 25, edited by F. Pereira, C.J. Burges, L. Bottou, and K.Q. Weinberger. Neural Information Pocessing Systems Foundation, Inc."
+        },
+        {
+            "key": "p_34",
+            "unstructured": "Leskovec, Jure, and Julian McAuley. 2012. Facebook Ego Networks. SNAP. https://snap.stanford.edu/ data/ego-Facebook.html."
+        },
+        {
+            "key": "p_35",
+            "unstructured": "Lim, Yongwhan, Asuman Ozdaglar, and Alexander Teytelboym. 2015. \"A Simple Model of Cascades in Networks.\" Unpublished."
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mobius, Markus, Tuan Phan, and Adam Szeidl. 2015. \"Treasure Hunt: Social Learning in the Field.\" NBER Working Paper 21014.",
+            "DOI": "10.3386/w21014"
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/003335491012500414"
+        },
+        {
+            "key": "p_38",
+            "first-page": "61",
+            "author": "Domingos Pedro",
+            "year": "2002",
+            "journal-title": "Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20180601"
+        },
+        {
+            "key": "p_40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/30918"
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/518527"
+        },
+        {
+            "key": "p_42",
+            "first-page": "740",
+            "volume": "2016",
+            "author": "Chan Hau",
+            "year": "2016",
+            "journal-title": "Proceedings of AAMAS"
+        },
+        {
+            "key": "p_43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.99.5.1899"
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20180798",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                10,
+                30
+            ]
+        ],
+        "date-time": "2025-10-30T13:10:33Z",
+        "timestamp": 1761829833000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.20180798"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                1
+            ]
+        ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+        "issue": "11",
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    11,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.20180798"
+    ],
+    "URL": "https://doi.org/10.1257/aer.20180798",
+    "relation": {},
+    "ISSN": [
+        "0002-8282",
+        "1944-7981"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        },
+        {
+            "value": "1944-7981",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                1
+            ]
+        ]
+    }
+}
