@@ -1,0 +1,506 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                6
+            ]
+        ],
+        "date-time": "2025-11-06T15:25:24Z",
+        "timestamp": 1762442724183,
+        "version": "build-2065373602"
+    },
+    "reference-count": 75,
+    "publisher": "American Economic Association",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Perspectives"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p>In 1986, Robert LaLonde published an article comparing nonexperimental estimates to experimental benchmarks (LaLonde 1986). He concluded that the nonexperimental methods at the time could not systematically replicate experimental benchmarks, casting doubt on their credibility. Following LaLonde's critical assessment, there have been significant methodological advances and practical changes, including (1) an emphasis on the unconfoundedness assumption separated from functional form considerations, (2) a focus on the importance of overlap in covariate distributions, (3) the introduction of propensity score-based methods leading to doubly robust estimators, (4) methods for estimating and exploiting treatment effect heterogeneity, and (5) a greater emphasis on validation exercises to bolster research credibility. To demonstrate the practical lessons from these advances, we reexamine the LaLonde data. We show that modern methods, when applied in contexts with sufficient covariate overlap, yield robust estimates for the adjusted differences between the treatment and control groups. However, this does not imply that these estimates are causally interpretable. To assess their credibility, validation exercises (such as placebo tests) are essential, whereas goodness-of-fit tests alone are inadequate. Our findings highlight the importance of closely examining the assignment process, carefully inspecting overlap, and conducting validation exercises when analyzing causal effects with nonexperimental data.</jats:p>",
+    "DOI": "10.1257/jep.20251440",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                6
+            ]
+        ],
+        "date-time": "2025-11-06T15:22:41Z",
+        "timestamp": 1762442561000
+    },
+    "page": "173-201",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Comparing Experimental and Nonexperimental Methods: What Lessons Have We Learned Four Decades after LaLonde (1986)?"
+    ],
+    "prefix": "10.1257",
+    "volume": "39",
+    "author": [
+        {
+            "given": "Guido W.",
+            "family": "Imbens",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Guido W. Imbens is an Applied Econometrics Professor and a Professor of Economics at the Graduate School of Business and the Department of Economics, Stanford University, Stanford, California. He is also a Research Associate, National Bureau of Economic Research, Cambridge, Massachusetts."
+                }
+            ]
+        },
+        {
+            "given": "Yiqing",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Yiqing Xu is an Assistant Professor in Political Science at the Department of Political Science and a W. Glenn Campbell and Rita Ricardo-Campbell National Fellow at the Hoover Institution at Stanford University, Stanford, California. ."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Abadie, Alberto, and Matias D. Cattaneo. 2018. \"Econometric Methods for Program Evaluation.\" Annual",
+            "DOI": "10.1146/annurev-economics-080217-053402"
+        },
+        {
+            "key": "p_2",
+            "unstructured": "Review of Economics 10: 465-503. Abadie, Alberto, and Guido W. Imbens. 2006. \"Large Sample Properties of Matching Estimators for"
+        },
+        {
+            "key": "p_3",
+            "unstructured": "Average Treatment Effects.\" Econometrica 74 (1): 235-67. Abadie, Alberto, and Guido W. Imbens. 2008. \"On the Failure of the Bootstrap for Matching Estimators.\""
+        },
+        {
+            "key": "p_4",
+            "unstructured": "Econometrica 76 (6): 1537-57. Abadie, Alberto, and Guido W. Imbens. 2011. \"Bias-Corrected Matching Estimators for Average Treat"
+        },
+        {
+            "key": "p_5",
+            "unstructured": "ment Effects.\" Journal of Business and Economic Statistics 29 (1): 1-11. Abadie, Alberto, and Guido W. Imbens. 2016. \"Matching on the Estimated Propensity Score.\" Economet"
+        },
+        {
+            "key": "p_6",
+            "unstructured": "rica 84 (2): 781-807. Angrist, Joshua D., and J\u00f6rn-Steffen Pischke. 2008. Mostly Harmless Econometrics: An Empiricist's"
+        },
+        {
+            "key": "p_7",
+            "unstructured": "Companion. Princeton University Press. Angrist, Joshua D., and J\u00f6rn-Steffen Pischke. 2010. \"The Credibility Revolution in Empirical Economics:"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "tives 24 (2): 3-30. Arkhangelsky, Dmitry, and Guido Imbens. 2024. \"Causal Models for Longitudinal and Panel Data: A",
+            "DOI": "10.1093/ectj/utae014"
+        },
+        {
+            "key": "p_10",
+            "author": "Survey",
+            "journal-title": "Review of Economics"
+        },
+        {
+            "key": "p_11",
+            "unstructured": "and Statistics 60 (1): 47-57. Ashenfelter, Orley, and David Card. 1985. \"Using the Longitudinal Structure of Earnings to Estimate the"
+        },
+        {
+            "key": "p_12",
+            "unstructured": "Effect of Training Programs.\" Review of Economics and Statistics 67 (4): 648-60. Athey, Susan, and Guido Imbens. 2016. \"Recursive Partitioning for Heterogeneous Causal Effects.\""
+        },
+        {
+            "key": "p_13",
+            "unstructured": "Proceedings of the National Academy of Sciences 113 (27): 7353-60. Athey, Susan, and Guido W. Imbens. 2017. \"The State of Applied Econometrics: Causality and Policy"
+        },
+        {
+            "key": "p_14",
+            "unstructured": "Evaluation.\" Journal of Economic Perspectives 31 (2): 3-32. Athey, Susan, and Guido W. Imbens. 2019. \"Machine Learning Methods That Economists Should Know"
+        },
+        {
+            "key": "p_15",
+            "unstructured": "About.\" Annual Review of Economics 11: 685-725. Athey, Susan, Guido W. Imbens, Jonas Metzger, and Evan Munro. 2024. \"Using Wasserstein Generative"
+        },
+        {
+            "key": "p_17",
+            "unstructured": "105076. Athey, Susan, Guido W. Imbens, and Stefan Wager. 2018. \"Approximate Residual Balancing: Debiased"
+        },
+        {
+            "issue": "4",
+            "key": "p_19",
+            "first-page": "597",
+            "volume": "80",
+            "author": "Series B",
+            "journal-title": "Statistical Methodology"
+        },
+        {
+            "key": "p_20",
+            "unstructured": "(2):1148-78. Bang, Heejung, and James M. Robins. 2005. \"Doubly Robust Estimation in Missing Data and Causal"
+        },
+        {
+            "key": "p_21",
+            "unstructured": "Inference Models.\" Biometrics 61 (4): 962-73. Barnow, Burt S., Glen G. Cain, and Arthur S. Goldberger. 1980. \"Issues in the Analysis of Selectivity Bias.\""
+        },
+        {
+            "key": "p_22",
+            "unstructured": "University of Wisconsin-Madison Institute for Research on Poverty Discussion Paper 600-80. Cal\u00f3nico, Sebastian, and Jeffrey Smith. 2017. \"The Women of the National Supported Work Demonstra"
+        },
+        {
+            "key": "p_23",
+            "unstructured": "tion.\" Journal of Labor Economics 35 (S1): S65-97. Chernozhukov, Victor, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, and Whitney"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Newey. 2017. \"Double/Debiased/Neyman Machine Learning of Treatment Effects.\" American",
+            "DOI": "10.1920/wp.cem.2017.2817"
+        },
+        {
+            "key": "p_25",
+            "unstructured": "Economic Review 107 (5): 261-65. Chernozhukov, Victor, Denis Chetverikov, Mert Demirer, Esther Duflo, Christian Hansen, Whitney"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Newey, and James Robins. 2018. \"Double/Debiased Machine Learning for Treatment and Struc",
+            "DOI": "10.1920/wp.cem.2017.2817"
+        },
+        {
+            "key": "p_27",
+            "unstructured": "tural Parameters.\" Econometrics Journal 21 (1): C1-68. Chernozhukov, Victor, Christian Hansen, Nathan Kallus, Martin Spindler, and Vasilis Syrgkanis. 2024."
+        },
+        {
+            "key": "p_29",
+            "unstructured": "arXiv.2403.02467. Cinelli, Carlos, Andrew Forney, and Judea Pearl. 2022. \"A Crash Course in Good and Bad Controls.\""
+        },
+        {
+            "key": "p_30",
+            "unstructured": "Sociological Methods and Research 53 (3): 1071-1104. Crump, Richard K., V. Joseph Hotz, Guido W. Imbens, and Oscar A. Mitnik. 2006. \"Moving the Goal"
+        },
+        {
+            "key": "p_32",
+            "unstructured": "Estimand.\" NBER Working Paper 0330. Crump, Richard K., V. Joseph Hotz, Guido W. Imbens, and Oscar A. Mitnik. 2009. \"Dealing with Limited"
+        },
+        {
+            "key": "p_33",
+            "unstructured": "Overlap in Estimation of Average Treatment Effects.\" Biometrika 96 (1): 187-99. Cunningham, Scott. 2021. Causal Inference: The Mixtape. Yale University Press. Currie, Janet, Henrik Kleven, and Esm\u00e9e Zwiers. 2020. \"Technology and Big Data Are Changing"
+        },
+        {
+            "key": "p_34",
+            "unstructured": "Economics: Mining Text to Track Methods.\" AEA Papers and Proceedings 110: 42-48. Dehejia, Rajeev H., and Sadek Wahba. 1999a. \"Causal Effects in Nonexperimental Studies: Reevaluating"
+        },
+        {
+            "key": "p_36",
+            "unstructured": "1053-62. Dehejia, Rajeev H., and Sadek Wahba. 1999b. Reconstructed National Supported Work Demonstration Data."
+        },
+        {
+            "key": "p_37",
+            "unstructured": "https://users.nber.org/~rdehejia/data/.nswdata2.html. Dehejia, Rajeev H., and Sadek Wahba. 2002. \"Propensity Score-Matching Methods for Nonexperimental"
+        },
+        {
+            "key": "p_38",
+            "unstructured": "Causal Studies.\" Review of Economics and Statistics 84 (1): 151-61. Diamond, Alexis, and Jasjeet S. Sekhon. 2013. \"Genetic Matching for Estimating Causal Effects: A"
+        },
+        {
+            "key": "p_40",
+            "unstructured": "Economics and Statistics 95 (3): 932-45. Ding, Peng. 2024. A First Course in Causal Inference. CRC Press. Firpo, Sergio. 2007. \"Efficient Semiparametric Estimation of Quantile Treatment Effects.\" Econometrica"
+        },
+        {
+            "key": "p_41",
+            "unstructured": "(1): 259-76. Fraker, Thomas, and Rebecca Maynard. 1987. \"The Adequacy of Comparison Group Designs for Evalua"
+        },
+        {
+            "key": "p_42",
+            "unstructured": "tions of Employment-Related Programs.\" Journal of Human Resources 22 (2): 194-227. Hainmueller, Jens. 2012. \"Entropy Balancing for Causal Effects: A Multivariate Reweighting Method to"
+        },
+        {
+            "key": "p_43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Produce Balanced Samples in Observational Studies.\" Political Analysis 20 (1): 25-46. Heckman, James J. 1978. \"Dummy Endogenous Variables in a Simultaneous Equation System.\" Econo",
+            "DOI": "10.2307/1909757"
+        },
+        {
+            "key": "p_44",
+            "unstructured": "metrica 46 (4): 931-59. Heckman, James J., and V. Joseph Hotz. 1989. \"Choosing among Alternative Nonexperimental Methods"
+        },
+        {
+            "key": "p_46",
+            "unstructured": "American Statistical Association 84 (408): 862-74. Heckman, James J., V. Joseph Hotz, and Marcelo Dabos. 1987. \"Do We Need Experimental Data to"
+        },
+        {
+            "key": "p_47",
+            "unstructured": "Evaluate the Impact of Manpower Training on Earnings?\" Evaluation Review 11 (4): 395-427. Heckman, James J., Hidehiko Ichimura, and Petra E Todd. 1997. \"Matching as an Econometric Evalua"
+        },
+        {
+            "key": "p_49",
+            "unstructured": "(4): 605-54. Hirano, Keisuke, Guido W. Imbens, and Geert Ridder. 2003. \"Efficient Estimation of Average Treatment"
+        },
+        {
+            "key": "p_50",
+            "author": "Effects Using",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "p_51",
+            "unstructured": "(396): 945-60. Huber, Martin. 2023. Causal Analysis: Impact Evaluation and Causal Machine Learning with Applications in"
+        },
+        {
+            "key": "p_52",
+            "unstructured": "R. MIT Press. Huntington-Klein, Nick. 2021. The Effect: An Introduction to Research Design and Causality. CRC Press. Imai, Kosuke, and Marc Ratkovic. 2014. \"Covariate Balancing Propensity Score.\" Journal of the Royal"
+        },
+        {
+            "issue": "1",
+            "key": "p_53",
+            "first-page": "243",
+            "volume": "76",
+            "author": "Statistical Society Series B",
+            "year": "2004",
+            "journal-title": "Statistical Methodology"
+        },
+        {
+            "key": "p_54",
+            "author": "Review",
+            "journal-title": "Journal of Human Resources"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "crossref",
+            "unstructured": "(2): 373-419. Imbens, Guido W., and Donald B. Rubin. 2015. Causal Inference for Statistics, Social, and Biomedical Sciences.",
+            "DOI": "10.1017/CBO9781139025751"
+        },
+        {
+            "key": "p_56",
+            "unstructured": "Cambridge University Press. Imbens, Guido W., Donald B. Rubin, and Bruce I. Sacerdote. 2001. \"Estimating the Effect of Unearned"
+        },
+        {
+            "key": "p_58",
+            "unstructured": "American Economic Review 91 (4): 778-94. Imbens, Guido W., and Jeffrey M. Wooldridge. 2009. \"Recent Developments in the Econometrics of"
+        },
+        {
+            "key": "p_59",
+            "unstructured": "Program Evaluation.\" Journal of Economic Literature 47 (1): 5-86. Imbens, Guido W., and Yiqing Xu. 2025. Data and Code for: \"Comparing Experimental and Nonexperimental"
+        },
+        {
+            "key": "#cr-split#-p_60.1",
+            "unstructured": "Methods: What Lessons Have We Learned Four Decades after LaLonde (1986)?\" Nashville, TN: American Economic Association"
+        },
+        {
+            "key": "#cr-split#-p_60.2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "distributed by Inter-university Consortium for Political and Social Research, Ann Arbor, MI. https://doi.org/10.3886/E232201V1. Kline, Patrick. 2011. \"Oaxaca-Blinder as a Reweighting Estimator.\" American Economic Review 101 (3):",
+            "DOI": "10.1257/aer.101.3.532"
+        },
+        {
+            "key": "p_61",
+            "author": "LaLonde",
+            "year": "1986",
+            "journal-title": "Robert J."
+        },
+        {
+            "key": "p_62",
+            "unstructured": "mental Data.\" American Economic Review 76 (4): 604-20. Lechner, Michael. 1999. \"Earnings and Employment Effects of Continuous Gff-the-Job Training in East"
+        },
+        {
+            "key": "p_63",
+            "unstructured": "Germany after Unification.\" Journal of Business and Economic Statistics 17 (1): 74-90. Lechner, Michael. 2002. \"Program Heterogeneity and Propensity Score Matching: An Application to"
+        },
+        {
+            "key": "p_64",
+            "unstructured": "the Evaluation of Active Labor Market Policies.\" Review of Economics and Statistics 84 (2): 205-20. Li, Fan, Kari Lock Morgan, and Alan M. Zaslavsky. 2018. \"Balancing Covariates via Propensity Score"
+        },
+        {
+            "key": "p_65",
+            "unstructured": "Weighting.\" Journal of the American Statistical Association 113 (521): 390-400. MDRC (Manpower Development Research Corporation). 1980. Summary and Findings of the National"
+        },
+        {
+            "key": "p_66",
+            "unstructured": "Subsidized Work Demonstration. Ballinger Publishing Company. Robins, James M., and Andrea Rotnitzky. 1995. \"Semiparametric Efficiency in Multivariate Regression"
+        },
+        {
+            "key": "p_67",
+            "unstructured": "Models with Missing Data.\" Journal of the American Statistical Association 90 (429): 122-29. Robins, James M., and Andrea Rotnitzky. 2001. Comments on \"Inference for Semiparametric Models:"
+        },
+        {
+            "key": "p_68",
+            "unstructured": "Some Questions and an Answer.\" Statistica Sinica 11 (4): 920-36. Robins, James M., Andrea Rotnitzky, and Lue Ping Zhao. 1994. \"Estimation of Regression Coefficients"
+        },
+        {
+            "key": "p_70",
+            "unstructured": "(427): 846-66. Rosenbaum, Paul R. 1984. \"The Consequences of Adjustment for a Concomitant Variable That Has Been"
+        },
+        {
+            "key": "p_72",
+            "doi-asserted-by": "crossref",
+            "unstructured": "656-66. Rosenbaum, Paul R. 1987. \"The Role of a Second Control Group in an Observational Study.\" Statistical",
+            "DOI": "10.1214/ss/1177013232"
+        },
+        {
+            "key": "p_73",
+            "unstructured": "Science 2 (3): 292-306. Rosenbaum, Paul R., and Donald B. Rubin. 1983a. \"The Central Role of the Propensity Score in Obser"
+        },
+        {
+            "key": "p_74",
+            "doi-asserted-by": "crossref",
+            "unstructured": "vational Studies for Causal Effects.\" Biometrika 70 (1): 41-55. Rosenbaum, Paul R., and Donald B. Rubin. 1983b. \"Assessing Sensitivity to an Unobserved Binary",
+            "DOI": "10.1093/biomet/70.1.41"
+        },
+        {
+            "issue": "2",
+            "key": "p_76",
+            "first-page": "212",
+            "volume": "45",
+            "author": "Series B",
+            "year": "1973",
+            "journal-title": "Methodological"
+        },
+        {
+            "key": "p_77",
+            "unstructured": "Observational Studies.\" Biometrics 29 (1): 185-203. Rubin, Donald B. 1974. \"Estimating Causal Effects of Treatments in Randomized and Nonrandomized"
+        },
+        {
+            "key": "p_78",
+            "author": "Studies",
+            "journal-title": "Annals of"
+        },
+        {
+            "key": "p_79",
+            "unstructured": "Statistics 6 (1): 34-58. Rubin, Donald B. 2006. Matched Sampling for Causal Effects. Cambridge University Press. Smith, Jeffrey A., and Petra E. Todd. 2001. \"Reconciling Conflicting Evidence on the Performance of"
+        },
+        {
+            "key": "p_80",
+            "unstructured": "Propensity-Score Matching Methods.\" American Economic Review 91 (2): 112-18. Smith, Jeffrey A., and Petra E. Todd. 2005. \"Does Matching Overcome LaLonde's Critique of Nonexperi"
+        },
+        {
+            "key": "p_81",
+            "unstructured": "mental Estimators?\" Journal of Econometrics 125 (1-2): 305-53. Splawa-Neyman, Jerzy. 1990. \"On the Application of Probability Theory to Agricultural Experiments."
+        },
+        {
+            "issue": "4",
+            "key": "p_82",
+            "first-page": "465",
+            "volume": "5",
+            "author": "Essay On Principles",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "p_83",
+            "unstructured": "Experimental Data. Springer. Wager, Stefan. 2024. \"Causal Inference: A Statistical Learning Approach.\" Unpublished. Wager, Stefan, and Susan Athey. 2018. \"Estimation and Inference of Heterogeneous Treatment Effects"
+        },
+        {
+            "key": "p_84",
+            "unstructured": "Using Random Forests.\" Journal of the American Statistical Association 113 (523): 1228-42. Xu, Yiqing. 2023. \"Causal Inference with Time-Series Cross-Sectional Data: A Reflection.\" In Oxford"
+        },
+        {
+            "key": "p_86",
+            "author": "Valeria Sinclair-Chapman",
+            "journal-title": "Journal of Causal"
+        },
+        {
+            "key": "p_87",
+            "unstructured": "Inference 5 (1): 20160010. Zubizarreta, Jos\u00e9 R. 2015. \"Stable Weights That Balance Covariates for Estimation with Incomplete"
+        },
+        {
+            "key": "p_88",
+            "unstructured": "Outcome Data.\" Journal of the American Statistical Association 110 (511): 910-22. Zubizarreta, Jos\u00e9 R., Elizabeth A. Stuart, Dylan S. Small, and Paul R. Rosenbaum. 2023. Handbook of"
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Perspectives"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jep.20251440",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                6
+            ]
+        ],
+        "date-time": "2025-11-06T15:22:57Z",
+        "timestamp": 1762442577000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jep.20251440"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                1
+            ]
+        ]
+    },
+    "references-count": 75,
+    "journal-issue": {
+        "issue": "4",
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    11,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jep.20251440"
+    ],
+    "URL": "https://doi.org/10.1257/jep.20251440",
+    "relation": {},
+    "ISSN": [
+        "0895-3309",
+        "1944-7965"
+    ],
+    "issn-type": [
+        {
+            "value": "0895-3309",
+            "type": "print"
+        },
+        {
+            "value": "1944-7965",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                1
+            ]
+        ]
+    }
+}
