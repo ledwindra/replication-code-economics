@@ -1,0 +1,172 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                10,
+                20
+            ]
+        ],
+        "date-time": "2025-10-20T18:31:50Z",
+        "timestamp": 1760985110714
+    },
+    "reference-count": 1,
+    "publisher": "American Economic Association",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2014,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> Our recent research (Budish, Cramton, and Shim 2013) proposes frequent batch auctions - uniform-price sealed-bid double auctions conducted at frequent but discrete time intervals - as a market design alternative to continuous-time trading in financial markets. This short paper discusses the implementation details of frequent batch auctions. We outline the process flow for frequent batch auctions, discuss a modification to the market design that accommodates market fragmentation and Reg NMS, and discuss the engineering and economic considerations relevant for determining the batch interval. Open questions are discussed throughout. </jats:p>",
+    "DOI": "10.1257/aer.104.5.418",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2014,
+                5,
+                16
+            ]
+        ],
+        "date-time": "2014-05-16T11:39:42Z",
+        "timestamp": 1400240382000
+    },
+    "page": "418-424",
+    "source": "Crossref",
+    "is-referenced-by-count": 41,
+    "title": [
+        "Implementation Details for Frequent Batch Auctions: Slowing Down Markets to the Blink of an Eye"
+    ],
+    "prefix": "10.1257",
+    "volume": "104",
+    "author": [
+        {
+            "given": "Eric",
+            "family": "Budish",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Booth School of Business, 5807 S. Woodlawn Ave., Chicago, IL 60637 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Peter",
+            "family": "Cramton",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Economics Department, 3114 Tydings Hall, University of Maryland, College Park, MD 20742 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "John",
+            "family": "Shim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago Booth School of Business, 5807 S. Woodlawn Ave., Chicago, IL 60637 (e-mail: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00335"
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.104.5.418",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2020-06-02T20:50:58Z",
+        "timestamp": 1591131058000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.104.5.418"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2014,
+                5,
+                1
+            ]
+        ]
+    },
+    "references-count": 1,
+    "journal-issue": {
+        "issue": "5",
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    5,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.104.5.418"
+    ],
+    "URL": "https://doi.org/10.1257/aer.104.5.418",
+    "relation": {},
+    "ISSN": [
+        "0002-8282"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2014,
+                5,
+                1
+            ]
+        ]
+    }
+}

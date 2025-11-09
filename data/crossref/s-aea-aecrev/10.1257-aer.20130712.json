@@ -1,0 +1,266 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                10,
+                16
+            ]
+        ],
+        "date-time": "2025-10-16T10:01:35Z",
+        "timestamp": 1760608895017
+    },
+    "reference-count": 20,
+    "publisher": "American Economic Association",
+    "issue": "10",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2015,
+                10,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p>The optimal allocation of resources in complex environments\u2014like allocation of dynamic wireless spectrum, cloud computing services, and Internet advertising\u2014is computationally challenging even given the true preferences of the participants. In the theory and practice of optimization in complex environments, a wide variety of special and general purpose algorithms have been developed; these algorithms produce outcomes that are satisfactory but not generally optimal or incentive compatible. This paper develops a very simple approach for converting any, potentially non-optimal, algorithm for optimization given the true participant preferences, into a Bayesian incentive compatible mechanism that weakly improves social welfare and revenue. (JEL D82, H82, L82)</jats:p>",
+    "DOI": "10.1257/aer.20130712",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2015,
+                10,
+                2
+            ]
+        ],
+        "date-time": "2015-10-02T12:34:03Z",
+        "timestamp": 1443789243000
+    },
+    "page": "3102-3124",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": [
+        "Non-Optimal Mechanism Design"
+    ],
+    "prefix": "10.1257",
+    "volume": "105",
+    "author": [
+        {
+            "given": "Jason D.",
+            "family": "Hartline",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Electrical Engineering and Computer Science Department, Northwestern University, 2133 Sheridan Road, Evanston, IL 60208 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Brendan",
+            "family": "Lucier",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Microsoft Research, One Memorial Drive, Cambridge, MA 02139 (e-mail: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/1462153.1462157"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/2600057.2602850"
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1137/1.9781611973082.57"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "crossref",
+            "first-page": "435",
+            "DOI": "10.1145/2213977.2214019",
+            "author": "Chawla Shuchi",
+            "year": "2012",
+            "journal-title": "Proceedings of the Forty-Fourth Annual ACM Symposium on Theory of Computing"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF01726210"
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1137/110843654"
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.97.1.242"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1914085"
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.geb.2015.02.002"
+        },
+        {
+            "key": "p_18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-642-22935-0_22"
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/1530748.1530751"
+        },
+        {
+            "key": "p_20",
+            "author": "Lavi Ron",
+            "year": "2011",
+            "journal-title": "Journal of the ACM 58 (6): Article 25."
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/585265.585266"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/2600057.2602834"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1287/moor.6.1.58"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/2488608.2488635"
+        },
+        {
+            "key": "p_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijindorg.2006.10.002"
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1540-6261.1961.tb02789.x"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4419-7997-1_48"
+        },
+        {
+            "key": "p_32",
+            "doi-asserted-by": "crossref",
+            "first-page": "2",
+            "DOI": "10.1145/1409944.1409947",
+            "author": "Zhou Xia",
+            "year": "2008",
+            "journal-title": "Proceedings of the 14th ACM International Conference on Mobile Computing and Networking"
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.20130712",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                5,
+                22
+            ]
+        ],
+        "date-time": "2022-05-22T15:51:04Z",
+        "timestamp": 1653234664000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.20130712"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2015,
+                10,
+                1
+            ]
+        ]
+    },
+    "references-count": 20,
+    "journal-issue": {
+        "issue": "10",
+        "published-print": {
+            "date-parts": [
+                [
+                    2015,
+                    10,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.20130712"
+    ],
+    "URL": "https://doi.org/10.1257/aer.20130712",
+    "relation": {},
+    "ISSN": [
+        "0002-8282"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2015,
+                10,
+                1
+            ]
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                8
+            ]
+        ],
+        "date-time": "2025-11-08T12:56:31Z",
+        "timestamp": 1762606591779
+    },
+    "reference-count": 7,
+    "publisher": "American Economic Association",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "American Economic Review"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2015,
+                5,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p> We survey and apply several techniques from the statistical and computer science literature to the problem of demand estimation. To improve out-of-sample prediction accuracy, we propose a method of combining the underlying models via linear regression. Our method is robust to a large number of regressors; scales easily to very large data sets; combines model selection and estimation; and can flexibly approximate arbitrary non-linear functions. We illustrate our method using a standard scanner panel data set and find that our estimates are considerably more accurate in out-of-sample predictions of demand than some commonly used alternatives. </jats:p>",
+    "DOI": "10.1257/aer.p20151021",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2015,
+                5,
+                9
+            ]
+        ],
+        "date-time": "2015-05-09T02:49:48Z",
+        "timestamp": 1431139788000
+    },
+    "page": "481-485",
+    "source": "Crossref",
+    "is-referenced-by-count": 154,
+    "title": [
+        "Machine Learning Methods for Demand Estimation"
+    ],
+    "prefix": "10.1257",
+    "volume": "105",
+    "author": [
+        {
+            "given": "Patrick",
+            "family": "Bajari",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Washington, 331 Savery Hall, Seattle, WA 98195, and NBER (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Denis",
+            "family": "Nekipelov",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Virginia, 254 Monroe Hall, Charlottesville, VA 22904 (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Stephen P.",
+            "family": "Ryan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Texas at Austin, 2225 Speedway Stop C3100, BRB 3.134D, Austin, TX 78712, and NBER (e-mail: )"
+                }
+            ]
+        },
+        {
+            "given": "Miaoyu",
+            "family": "Yang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Washington, 331 Savery Hall, Seattle, WA 98195 (e-mail: )"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1057/jors.1969.103"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jep.28.2.29"
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2171802"
+        },
+        {
+            "key": "p_5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF00058655"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1010933404324"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1287/mksc.1080.0450"
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jep.28.2.3"
+        }
+    ],
+    "container-title": [
+        "American Economic Review"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/aer.p20151021",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2020-06-02T21:10:26Z",
+        "timestamp": 1591132226000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/aer.p20151021"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2015,
+                5,
+                1
+            ]
+        ]
+    },
+    "references-count": 7,
+    "journal-issue": {
+        "issue": "5",
+        "published-print": {
+            "date-parts": [
+                [
+                    2015,
+                    5,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/aer.p20151021"
+    ],
+    "URL": "https://doi.org/10.1257/aer.p20151021",
+    "relation": {},
+    "ISSN": [
+        "0002-8282"
+    ],
+    "issn-type": [
+        {
+            "value": "0002-8282",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2015,
+                5,
+                1
+            ]
+        ]
+    }
+}
