@@ -1,0 +1,450 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2025-11-17T14:03:48Z",
+        "timestamp": 1763388228252,
+        "version": "3.45.0"
+    },
+    "reference-count": 24,
+    "publisher": "The Econometric Society",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2025-01-01T00:00:00Z",
+                "timestamp": 1735689600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100007346",
+            "name": "Armstrong Flight Research Center",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100007346",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100005246",
+            "name": "Institute of Education Sciences",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100005246",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000269",
+            "name": "Economic and Social Research Council",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000269",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Empirical research typically involves a robustness\u2010efficiency tradeoff. A researcher seeking to estimate a scalar parameter can invoke strong assumptions to motivate a restricted estimator that is precise but may be heavily biased, or they can relax some of these assumptions to motivate a more robust, but variable, unrestricted estimator. When a bound on the bias of the restricted estimator is available, it is optimal to shrink the unrestricted estimator towards the restricted estimator. For settings where a bound on the bias of the restricted estimator is unknown, we propose adaptive estimators that minimize the percentage increase in worst\u2010case risk relative to an oracle that knows the bound. We show that adaptive estimators solve a weighted convex minimax problem and provide lookup tables facilitating their rapid computation. Revisiting some well\u2010known empirical studies where questions of model specification arise, we examine the advantages of adapting to\u2014rather than testing for\u2014misspecification.</jats:p>",
+    "DOI": "10.3982/ecta21991",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2025-11-17T14:00:52Z",
+        "timestamp": 1763388052000
+    },
+    "page": "1981-2005",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Adapting to Misspecification"
+    ],
+    "prefix": "10.3982",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Timothy B.",
+            "family": "Armstrong",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Southern California"
+                }
+            ]
+        },
+        {
+            "given": "Patrick",
+            "family": "Kline",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of California, Berkeley"
+                },
+                {
+                    "name": "NBER"
+                }
+            ]
+        },
+        {
+            "given": "Liyang",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University College London"
+                },
+                {
+                    "name": "CEMFI"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "4",
+            "key": "ecta200835-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "979",
+            "DOI": "10.2307/2937954",
+            "volume": "106",
+            "author": "Angrist",
+            "year": "1991",
+            "journal-title": "Q. J. Econ."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200835-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/QE1609",
+            "volume": "12",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Quant. Econ."
+        },
+        {
+            "key": "ecta200835-bib-0003",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Armstrong, Timothy B., Patrick Kline, and Liyang Sun (2023), \u201cAdapting to Misspecification.\u201d arXiv preprint arXiv:2305.14265v3.",
+            "DOI": "10.3386/w32906"
+        },
+        {
+            "key": "ecta200835-bib-0004",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Armstrong, Timothy B., Patrick Kline, and Liyang Sun (2025), \u201cSupplement to \u2018Adapting to Misspecification\u2019.\u201d Econometrica Supplemental Material, 93, https://doi.org/10.3982/ECTA21991.",
+            "DOI": "10.3386/w32906"
+        },
+        {
+            "key": "ecta200835-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.1016/B978-0-12-589320-6.50027-7",
+            "volume-title": "Recent Advances in Statistics",
+            "author": "Bickel",
+            "year": "1983"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200835-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "864",
+            "DOI": "10.1214/aos/1176346707",
+            "volume": "12",
+            "author": "Bickel",
+            "year": "1984",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200835-bib-0007",
+            "first-page": "341",
+            "volume": "11",
+            "author": "Cai",
+            "year": "2005",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "key": "ecta200835-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1801",
+            "DOI": "10.1016/S1573-4463(99)03011-4",
+            "volume": "3",
+            "author": "Card",
+            "year": "1999",
+            "journal-title": "Handb. Labor Econ."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200835-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "870",
+            "DOI": "10.1214/aos/1176345527",
+            "volume": "9",
+            "author": "Casella",
+            "year": "1981",
+            "journal-title": "Ann. Statist."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200835-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "625",
+            "DOI": "10.1002/jae.583",
+            "volume": "15",
+            "author": "Chamberlain",
+            "year": "2000",
+            "journal-title": "J. Appl. Econometrics"
+        },
+        {
+            "key": "ecta200835-bib-0011",
+            "unstructured": "de Chaisemartin, Cl\u00e9ment and Xavier D'Haultf\u0153uille (2020a), \u201cEmpirical MSE Minimization to Estimate a Scalar Parameter.\u201d arXiv preprint arXiv:2006.14667v1."
+        },
+        {
+            "issue": "9",
+            "key": "ecta200835-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "2964",
+            "DOI": "10.1257/aer.20181169",
+            "volume": "110",
+            "author": "Chaisemartin",
+            "year": "2020",
+            "journal-title": "Amer. Econ. Rev."
+        },
+        {
+            "issue": "7",
+            "key": "ecta200835-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "2980",
+            "DOI": "10.1257/aer.101.7.2980",
+            "volume": "101",
+            "author": "Gentzkow",
+            "year": "2011",
+            "journal-title": "Amer. Econ. Rev."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200835-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.2307/1913827",
+            "volume": "46",
+            "author": "Hausman",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200835-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "396",
+            "DOI": "10.1214/aoms/1177729384",
+            "volume": "23",
+            "author": "Hodges",
+            "year": "1952",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "ecta200835-bib-0016",
+            "unstructured": "Johnstone, Iain M. (2019), \u201cGaussian Estimation: Sequence and Wavelet Models.\u201d Online manuscript available at https://imjohnstone.su.domains/."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200835-bib-0017",
+            "first-page": "604",
+            "volume": "76",
+            "author": "LaLonde",
+            "year": "1986",
+            "journal-title": "Amer. Econ. Rev."
+        },
+        {
+            "issue": "01",
+            "key": "ecta200835-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1017/S0266466605050036",
+            "volume": "21",
+            "author": "Leeb",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "ecta200835-bib-0019",
+            "volume-title": "Theory of Point Estimation",
+            "author": "Lehmann",
+            "year": "1998",
+            "edition": "second edition"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200835-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1111/1368-423X.t01-1-00082",
+            "volume": "5",
+            "author": "Magnus",
+            "year": "2002",
+            "journal-title": "Econom. J."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200835-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1111/1468-0262.00040",
+            "volume": "67",
+            "author": "Magnus",
+            "year": "1999",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200835-bib-0022",
+            "volume-title": "The Foundations of Statistics",
+            "author": "Savage",
+            "year": "1954"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200835-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "267",
+            "DOI": "10.1111/j.2517-6161.1996.tb02080.x",
+            "volume": "58",
+            "author": "Tibshirani",
+            "year": "1996",
+            "journal-title": "J. R. Stat. Soc. Ser. B. Stat. Methodol."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200835-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "2420",
+            "DOI": "10.1214/aos/1024691478",
+            "volume": "26",
+            "author": "Tsybakov",
+            "year": "1998",
+            "journal-title": "Ann. Statist."
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                17
+            ]
+        ],
+        "date-time": "2025-11-17T14:01:09Z",
+        "timestamp": 1763388069000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21991"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    },
+    "references-count": 24,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21991"
+    ],
+    "URL": "https://doi.org/10.3982/ecta21991",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2025
+            ]
+        ]
+    }
+}
