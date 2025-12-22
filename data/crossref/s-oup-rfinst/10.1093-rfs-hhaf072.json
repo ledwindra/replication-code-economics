@@ -1,0 +1,749 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2025-11-20T20:54:18Z",
+        "timestamp": 1763672058814,
+        "version": "3.45.0"
+    },
+    "reference-count": 48,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "12",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        9,
+                        14
+                    ]
+                ],
+                "date-time": "2025-09-14T00:00:00Z",
+                "timestamp": 1757808000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                12,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop an asymptotic framework for conducting inference on continuous-time asset pricing models using high-frequency returns over an increasing time horizon. Our study focuses on the identification and estimation of risk premiums associated with the continuous component and jumps of various size brackets. We extend the classical Fama-MacBeth regression from the discrete-time setting to a continuous-time factor model, incorporating general dynamics for factors, idiosyncratic components, and factor loadings. Our empirical analysis of U.S. equities, foreign exchange, and commodities underscores the distinct significance of continuous and jump risk premiums for the specific factors constructed within each asset class in determining expected returns.</jats:p>",
+    "DOI": "10.1093/rfs/hhaf072",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                11
+            ]
+        ],
+        "date-time": "2025-09-11T11:59:02Z",
+        "timestamp": 1757591942000
+    },
+    "page": "3542-3579",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Continuous-Time Fama-MacBeth Regressions"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Yacine",
+            "family": "A\u00eft-Sahalia",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Princeton University and NBER ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Jean",
+            "family": "Jacod",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Sorbonne Universit\u00e9 ,",
+                    "place": [
+                        "France"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Dacheng",
+            "family": "Xiu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Chicago and NBER ,",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                14
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "volume-title": "High frequency financial econometrics",
+            "year": "2014",
+            "author": "A\u00eft-Sahalia",
+            "key": "2025112015323372500_hhaf072-B1"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "86",
+            "DOI": "10.1016/j.jeconom.2020.01.007",
+            "article-title": "High frequency factor models and regressions",
+            "volume": "216",
+            "author": "A\u00eft-Sahalia",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "398",
+            "DOI": "10.1257/000282805774669574",
+            "article-title": "A framework for exploring the macroeconomic determinants of systematic risk",
+            "volume": "95",
+            "author": "Andersen",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.1093/rfs/hhj035",
+            "article-title": "Downside risk",
+            "volume": "19",
+            "author": "Ang",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "929",
+            "DOI": "10.1111/jofi.12021",
+            "article-title": "Value and momentum everywhere",
+            "volume": "68",
+            "author": "Asness",
+            "year": "2013",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.24033/asens.476",
+            "article-title": "Th\u00e9orie de la sp\u00e9culation",
+            "volume": "3",
+            "author": "Bachelier",
+            "year": "1900",
+            "journal-title": "Annales Scientifiques de l\u2019Ecole Normale Sup\u00e9rieure"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1287/mnsc.2017.2840",
+            "article-title": "Understanding the sources of risk underlying the cross section of commodity returns",
+            "volume": "65",
+            "author": "Bakshi",
+            "year": "2019",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "214",
+            "DOI": "10.1016/j.jfineco.2021.04.024",
+            "article-title": "Spectral factor models",
+            "volume": "142",
+            "author": "Bandi",
+            "year": "2021",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "241",
+            "DOI": "10.1111/1468-0262.00395",
+            "article-title": "Fully nonparametric estimation of scalar diffusion models",
+            "volume": "71",
+            "author": "Bandi",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "134",
+            "DOI": "10.1016/j.jeconom.2020.06.006",
+            "article-title": "$ \\beta $ in the tails",
+            "volume": "227",
+            "author": "Bandi",
+            "year": "2022",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "885",
+            "DOI": "10.1111/j.1468-0262.2004.00515.x",
+            "article-title": "Econometric analysis of realized covariation: High frequency based covariance, regression, and correlation in financial economics",
+            "volume": "72",
+            "author": "Barndorff-Nielsen",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1016/S0304-4076(99)00021-4",
+            "article-title": "Post-\u201987 crash fears in the S&P 500 futures option market",
+            "volume": "94",
+            "author": "Bates",
+            "year": "2000",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1016/j.jeconom.2012.08.014",
+            "article-title": "Jump tails, extreme dependencies, and the distribution of stock returns",
+            "volume": "172",
+            "author": "Bollerslev",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "464",
+            "DOI": "10.1016/j.jfineco.2016.02.001",
+            "article-title": "Roughing up beta: Continuous versus discontinuous betas and the cross section of expected stock returns",
+            "volume": "120",
+            "author": "Bollerslev",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.1086/593088",
+            "article-title": "Carry trades and currency crashes",
+            "volume": "23",
+            "author": "Brunnermeier",
+            "year": "2008",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "853",
+            "DOI": "10.1093/rfs/hhq138",
+            "article-title": "Do peso problems explain the returns to the carry trade?",
+            "volume": "24",
+            "author": "Burnside",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B17",
+            "article-title": "Semiparametric conditional factor models: Estimation and inference",
+            "author": "Chen",
+            "year": "2022",
+            "journal-title": "Working Paper, The Chinese University of Hong Kong and University of Pennsylvania"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "693",
+            "DOI": "10.1111/jofi.13190",
+            "article-title": "Pricing currency risks",
+            "volume": "78",
+            "author": "Chernov",
+            "year": "2023",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "volume-title": "Asset pricing",
+            "year": "2009",
+            "author": "Cochrane",
+            "key": "2025112015323372500_hhaf072-B19"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.3982/ECTA7432",
+            "article-title": "Efficient semiparametric estimation of the Fama\u2013French model and extensions",
+            "volume": "80",
+            "author": "Connor",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/j.jfineco.2015.12.002",
+            "article-title": "Momentum crashes",
+            "volume": "122",
+            "author": "Daniel",
+            "year": "2016",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1086/260061",
+            "article-title": "Risk, return, and equilibrium: Empirical tests",
+            "volume": "81",
+            "author": "Fama",
+            "year": "1973",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "985",
+            "DOI": "10.3982/ECTA11069",
+            "article-title": "Time-varying risk premium in large cross-sectional equity datasets",
+            "volume": "84",
+            "author": "Gagliardini",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B25",
+            "first-page": "219",
+            "volume-title": "Handbook of Econometrics, vol. 7A",
+            "author": "Gagliardini",
+            "year": "2020"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1093/rof/rfs019",
+            "article-title": "The fundamentals of commodity futures returns",
+            "volume": "17",
+            "author": "Gorton",
+            "year": "2012",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1263",
+            "DOI": "10.1111/0022-1082.00247",
+            "article-title": "Conditional skewness in asset pricing tests",
+            "volume": "55",
+            "author": "Harvey",
+            "year": "2000",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1016/j.jfineco.2014.05.004",
+            "article-title": "Crash-neutral currency carry trades",
+            "volume": "113",
+            "author": "Jurek",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.1016/j.jfineco.2019.05.001",
+            "article-title": "Characteristics are covariances: A unified model of risk and return",
+            "volume": "134",
+            "author": "Kelly",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1016/j.jfineco.2017.11.002",
+            "article-title": "Carry",
+            "volume": "127",
+            "author": "Koijen",
+            "year": "2018",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1016/j.jfineco.2014.07.001",
+            "article-title": "Conditional risk premia in currency markets and other asset classes",
+            "volume": "114",
+            "author": "Lettau",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1016/j.jfineco.2005.05.012",
+            "article-title": "The conditional CAPM does not explain asset-pricing anomalies",
+            "volume": "82",
+            "author": "Lewellen",
+            "year": "2006",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1016/j.jeconom.2016.01.004",
+            "article-title": "Inference theory on volatility functional dependencies",
+            "volume": "193",
+            "author": "Li",
+            "year": "2016",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "173",
+            "DOI": "10.3982/ECTA12962",
+            "article-title": "Jump regressions",
+            "volume": "85",
+            "author": "Li",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "3731",
+            "DOI": "10.1093/rfs/hhr068",
+            "article-title": "Common risk factors in currency markets",
+            "volume": "24",
+            "author": "Lustig",
+            "year": "2011",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "527",
+            "DOI": "10.1016/j.jfineco.2013.12.005",
+            "article-title": "Countercyclical currency risk premia",
+            "volume": "111",
+            "author": "Lustig",
+            "year": "2014",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B37",
+            "first-page": "141",
+            "article-title": "The theory of rational option pricing",
+            "volume": "4",
+            "author": "Merton",
+            "year": "1973",
+            "journal-title": "Bell Journal of Economics and Management Science"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1016/0304-405X(76)90022-2",
+            "article-title": "Option pricing when underlying stock returns are discontinuous",
+            "volume": "3",
+            "author": "Merton",
+            "year": "1976",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "228",
+            "DOI": "10.1016/j.jfineco.2011.11.003",
+            "article-title": "Time series momentum",
+            "volume": "104",
+            "author": "Moskowitz",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "1931",
+            "DOI": "10.1214/009053606000000452",
+            "article-title": "ANOVA for diffusions and It\u00f4 processes",
+            "volume": "34",
+            "author": "Mykland",
+            "year": "2006",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/S0304-405X(01)00088-5",
+            "article-title": "The jump-risk premia implicit in options: Evidence from an integrated time-series study",
+            "volume": "63",
+            "author": "Pan",
+            "year": "2002",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.2307/2330104",
+            "article-title": "Extra-market components of covariance in security returns",
+            "volume": "9",
+            "author": "Rosenberg",
+            "year": "1974",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1016/0022-0531(76)90046-6",
+            "article-title": "The arbitrage theory of capital asset pricing",
+            "volume": "13",
+            "author": "Ross",
+            "year": "1976",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rfs/5.1.1",
+            "article-title": "On the estimation of beta pricing models",
+            "volume": "5",
+            "author": "Shanken",
+            "year": "1992",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.1111/jofi.12096",
+            "article-title": "An anatomy of commodity futures risk premia",
+            "volume": "69",
+            "author": "Szymanowska",
+            "year": "2014",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "220",
+            "DOI": "10.1016/j.jeconom.2009.11.010",
+            "article-title": "Jumps and betas: A new framework for disentangling and estimating systematic risks",
+            "volume": "157",
+            "author": "Todorov",
+            "year": "2010",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1111/jofi.12587",
+            "article-title": "The share of systematic variation in bilateral exchange rates",
+            "volume": "73",
+            "author": "Verdelhan",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015323372500_hhaf072-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "164",
+            "DOI": "10.1016/j.jfineco.2013.04.012",
+            "article-title": "Investment shocks and the commodity basis spread",
+            "volume": "110",
+            "author": "Yang",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf072/64263968/hhaf072.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/12/3542/64263968/hhaf072.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/12/3542/64263968/hhaf072.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2025-11-20T20:32:46Z",
+        "timestamp": 1763670766000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/12/3542/8253807"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Tarun",
+            "family": "Ramadorai",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                14
+            ]
+        ]
+    },
+    "references-count": 48,
+    "journal-issue": {
+        "issue": "12",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    9,
+                    14
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    12,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhaf072",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                12
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                14
+            ]
+        ]
+    }
+}

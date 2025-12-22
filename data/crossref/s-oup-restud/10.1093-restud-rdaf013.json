@@ -1,0 +1,1119 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                12,
+                3
+            ]
+        ],
+        "date-time": "2025-12-03T18:13:06Z",
+        "timestamp": 1764785586647,
+        "version": "build-2065373602"
+    },
+    "reference-count": 93,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        2,
+                        28
+                    ]
+                ],
+                "date-time": "2025-02-28T00:00:00Z",
+                "timestamp": 1740700800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                10
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We develop a new class of random graph models for the statistical estimation of network formation\u2014subgraph generated models (SUGMs). Various subgraphs\u2014e.g. links, triangles, cliques, stars\u2014are generated and their union results in a network. We show that SUGMs are identified and establish the consistency and asymptotic distribution of parameter estimators in empirically relevant cases. We show that a simple four-parameter SUGM matches basic patterns in empirical networks more closely than four standard models (with many more dimensions): (1) stochastic block models; (2) models with node-level unobserved heterogeneity; (3) latent space models; and (4) exponential random graphs. We illustrate the framework\u2019s value via several applications using networks from rural India. We study whether network structure helps enforce risk-sharing and whether cross-caste interactions are more likely to be private. We also develop a new central limit theorem for correlated random variables, which is required to prove our results and is of independent interest.</jats:p>",
+    "DOI": "10.1093/restud/rdaf013",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                25
+            ]
+        ],
+        "date-time": "2025-02-25T08:45:21Z",
+        "timestamp": 1740473121000
+    },
+    "page": "3741-3787",
+    "source": "Crossref",
+    "is-referenced-by-count": 2,
+    "title": [
+        "A Network Formation Model Based on Subgraphs"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Arun G",
+            "family": "Chandrasekhar",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Stanford University, NBER, and JPAL ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Matthew O",
+            "family": "Jackson",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Stanford University, and Santa Fe Institute ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                28
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025111022015198300_rdaf013-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "564",
+            "DOI": "10.1257/aer.20130456",
+            "article-title": "Systemic Risk and Stability in Financial Networks",
+            "volume": "105",
+            "author": "Acemoglu",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1912",
+            "DOI": "10.1214/16-AOAS1005",
+            "article-title": "Estimating Average Causal Effects Under General Interference, with Application to a Social Network Experiment",
+            "volume": "11",
+            "author": "Aronow",
+            "year": "2017",
+            "journal-title": "Annals of Applied Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1179",
+            "DOI": "10.3982/ECTA12576",
+            "article-title": "Nash Equilibria on (Un)Stable Networks",
+            "volume": "89",
+            "author": "Badev",
+            "year": "2021",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "2224",
+            "DOI": "10.1086/700073",
+            "article-title": "The Economic Effects of Social Networks: Evidence from the Housing Market",
+            "volume": "126",
+            "author": "Bailey",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1646",
+            "DOI": "10.1214/aop/1176991178",
+            "article-title": "On Normal Approximations of Distributions in Terms of Dependency Graphs",
+            "volume": "17",
+            "author": "Baldi",
+            "year": "1989",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1236498",
+            "DOI": "10.1126/science.1236498",
+            "article-title": "Diffusion of Microfinance",
+            "volume": "341",
+            "author": "Banerjee",
+            "year": "2013",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "2453",
+            "DOI": "10.1093/restud/rdz008",
+            "article-title": "Using Gossips to Spread Information: Theory and Evidence from Two Randomized Controlled Trials",
+            "volume": "86",
+            "author": "Banerjee",
+            "year": "2019",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1126/science.286.5439.509",
+            "article-title": "Emergence of Scaling in Random Networks",
+            "volume": "286",
+            "author": "Barabasi",
+            "year": "1999",
+            "journal-title": "Science"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "137",
+            "DOI": "10.1016/j.jeconom.2011.01.007",
+            "article-title": "Inference with Dependent Data Using Cluster Covariance Estimators",
+            "volume": "165",
+            "author": "Bester",
+            "year": "2011",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "year": "2008",
+            "author": "Bhamidi",
+            "key": "2025111022015198300_rdaf013-B10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.0812.2265"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "2384",
+            "DOI": "10.1214/15-AOS1338",
+            "article-title": "Subsampling Bootstrap of Count Features of Networks",
+            "volume": "43",
+            "author": "Bhattacharyya",
+            "year": "2015",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2280",
+            "DOI": "10.1214/11-AOS904",
+            "article-title": "The Method of Moments and Degree Distributions for Network Models",
+            "volume": "39",
+            "author": "Bickel",
+            "year": "2011",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1080/15427951.2010.557277",
+            "article-title": "A Sequential Importance Sampling Algorithm for Generating Random Graphs with Prescribed Degrees",
+            "volume": "6",
+            "author": "Blitzstein",
+            "year": "2011",
+            "journal-title": "Internet Mathematics"
+        },
+        {
+            "year": "2011",
+            "author": "Blumenstock",
+            "key": "2025111022015198300_rdaf013-B14"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B15",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511814068",
+            "volume-title": "Random Graphs",
+            "author": "Bollobas",
+            "year": "2001"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "150",
+            "DOI": "10.1214/09-AOP478",
+            "article-title": "Percolation on Dense Graph Sequences",
+            "volume": "38",
+            "author": "Bollob\u00e1s",
+            "year": "2010",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1002/rsa.20322",
+            "article-title": "Sparse Random Graphs with Clustering",
+            "volume": "38",
+            "author": "Bollob\u00e1s",
+            "year": "2011",
+            "journal-title": "Random Structures & Algorithms"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1047",
+            "DOI": "10.1214/aop/1176993726",
+            "article-title": "On the Central Limit Theorem for Stationary Mixing Random Fields",
+            "volume": "10",
+            "author": "Bolthausen",
+            "year": "1982",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "S14",
+            "DOI": "10.1111/ectj.12096",
+            "article-title": "My Friend Far, Far Away: A Random Field Approach to Exponential Random Graph Models",
+            "volume": "20",
+            "author": "Boucher",
+            "year": "2017",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1754",
+            "DOI": "10.1016/j.jet.2012.05.007",
+            "article-title": "Homophily and Long-Run Integration in Social Networks",
+            "volume": "147",
+            "author": "Bramoull\u00e9",
+            "year": "2012",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "year": "2020",
+            "author": "Breza",
+            "key": "2025111022015198300_rdaf013-B21"
+        },
+        {
+            "year": "2009",
+            "author": "Butts",
+            "key": "2025111022015198300_rdaf013-B22"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B23",
+            "first-page": "81",
+            "article-title": "Social Networks and the Decision to Insure",
+            "volume": "7",
+            "author": "Cai",
+            "year": "2015",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1016/j.jet.2005.07.007",
+            "article-title": "Networks in Labor Markets: Wage and Employment Dynamics and Inequality",
+            "volume": "132",
+            "author": "Calvo-Armengol",
+            "year": "2007",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1239",
+            "DOI": "10.1111/j.1467-937X.2009.00550.x",
+            "article-title": "Peer Effects and Social Networks in Education",
+            "volume": "76",
+            "author": "Calvo-Armengol",
+            "year": "2009",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "855",
+            "DOI": "10.3982/ECTA10168",
+            "article-title": "From Natural Variation to Optimal Policy? The Importance of Endogenous Peer Group Formation",
+            "volume": "81",
+            "author": "Carrell",
+            "year": "2013",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "year": "2012",
+            "author": "Chandrasekhar",
+            "key": "2025111022015198300_rdaf013-B27"
+        },
+        {
+            "year": "2016",
+            "author": "Chandrasekhar",
+            "key": "2025111022015198300_rdaf013-B28"
+        },
+        {
+            "year": "2023",
+            "author": "Chandrasekhar",
+            "key": "2025111022015198300_rdaf013-B29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.2308.12506"
+        },
+        {
+            "year": "2016",
+            "author": "Chaney",
+            "key": "2025111022015198300_rdaf013-B30"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "S1",
+            "DOI": "10.1111/ectj.12093",
+            "article-title": "Multiple Fixed Effects in Binary Response Panel Data Models",
+            "volume": "20",
+            "author": "Charbonneau",
+            "year": "2017",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1400",
+            "DOI": "10.1214/10-AAP728",
+            "article-title": "Random Graphs with a Given Degree Sequance",
+            "volume": "21",
+            "author": "Chatterjee",
+            "year": "2011",
+            "journal-title": "The Annals of Applied Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1985",
+            "DOI": "10.1214/009117904000000450",
+            "article-title": "Normal Approximation Under Local Dependence",
+            "volume": "32",
+            "author": "Chen",
+            "year": "2004",
+            "journal-title": "Annals of Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "108",
+            "DOI": "10.1038/s41586-022-04996-4",
+            "article-title": "Social Capital in the United States I: Measurement and Associations with Economic Mobility",
+            "volume": "608",
+            "author": "Chetty",
+            "year": "2022",
+            "journal-title": "Nature"
+        },
+        {
+            "year": "2020",
+            "author": "Christakis",
+            "key": "2025111022015198300_rdaf013-B35"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "S95",
+            "DOI": "10.1086/228943",
+            "article-title": "Social Capital in the Creation of Human Capital",
+            "volume": "94",
+            "author": "Coleman",
+            "year": "1988",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0304-4076(98)00084-0",
+            "article-title": "GMM Estimation with Cross Sectional Dependence",
+            "volume": "92",
+            "author": "Conley",
+            "year": "1999",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1003",
+            "DOI": "10.3982/ECTA7528",
+            "article-title": "An Economic Model of Friendship: Homophily, Minorities, and Segregation",
+            "volume": "77",
+            "author": "Currarini",
+            "year": "2009",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "4857",
+            "DOI": "10.1073/pnas.0911793107",
+            "article-title": "Identifying the Roles of Race-Based Choice and Chance in High School Friendship Network Formation",
+            "volume": "107",
+            "author": "Currarini",
+            "year": "2010",
+            "journal-title": "Proceedings of the National Academy of Sciences USA"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "909",
+            "DOI": "10.1162/00335530360698469",
+            "article-title": "Persuasion Bias, Social Influence, and Unidimensional Opinions*",
+            "volume": "118",
+            "author": "DeMarzo",
+            "year": "2003",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "year": "2017",
+            "author": "De Paula",
+            "key": "2025111022015198300_rdaf013-B41"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA13564",
+            "article-title": "Identifying Preferences in Networks with Bounded Degree",
+            "volume": "86",
+            "author": "De Paula",
+            "year": "2018",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1162/003465398557825",
+            "article-title": "Consistent Covariance Matrix Estimation with Spatially Dependent Panel Data",
+            "volume": "80",
+            "author": "Driscoll",
+            "year": "1998",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "3115",
+            "DOI": "10.1257/aer.104.10.3115",
+            "article-title": "Financial Networks and Contagion",
+            "volume": "104",
+            "author": "Elliott",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "832",
+            "DOI": "10.1080/01621459.1986.10478342",
+            "article-title": "Markov Graphs",
+            "volume": "81",
+            "author": "Frank",
+            "year": "1986",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "333",
+            "DOI": "10.2307/2330815",
+            "article-title": "Consistent Covariance Matrix Estimation with Cross-Sectional Dependence and Heteroskedasticity in Financial Data",
+            "volume": "24",
+            "author": "Froot",
+            "year": "1989",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "2401",
+            "DOI": "10.1098/rspa.2009.0410",
+            "article-title": "Contagion in Financial Networks",
+            "volume": "466",
+            "author": "Gai",
+            "year": "2010",
+            "journal-title": "Proceedings of the Royal Society A"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "507",
+            "DOI": "10.2307/2946686",
+            "article-title": "Crime and Social Interactions",
+            "volume": "111",
+            "author": "Glaeser",
+            "year": "1996",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/3215259",
+            "article-title": "Multivariate Normal Approximations by Stein\u2019s Method and Size Bias Couplings",
+            "volume": "33",
+            "author": "Goldstein",
+            "year": "1996",
+            "journal-title": "Journal of Applied Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1287",
+            "DOI": "10.1093/qje/qjs021",
+            "article-title": "How Homophily Affects the Speed of Learning and Best-Response Dynamics",
+            "volume": "127",
+            "author": "Golub",
+            "year": "2012",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1033",
+            "DOI": "10.3982/ECTA12679",
+            "article-title": "An Econometric Model of Network Formation with Degree Heterogeneity",
+            "volume": "85",
+            "author": "Graham",
+            "year": "2017",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "volume-title": "International Edition",
+            "year": "2000",
+            "author": "Greene",
+            "key": "2025111022015198300_rdaf013-B52"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1090",
+            "DOI": "10.1198/016214502388618906",
+            "article-title": "Latent Space Approaches to Social Network Analysis",
+            "volume": "97",
+            "author": "Hoff",
+            "year": "2002",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B54",
+            "first-page": "62",
+            "article-title": "An Exponential Family of Probability Distributions for Directed Graphs: Rejoinder",
+            "volume": "76",
+            "author": "Holland",
+            "year": "1981",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B55",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/9781400833993",
+            "volume-title": "Social and Economic Networks",
+            "author": "Jackson",
+            "year": "2008"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "890",
+            "DOI": "10.1257/aer.97.3.890",
+            "article-title": "Meeting Strangers and Friends of Friends: How Random Are Social Networks?",
+            "volume": "97",
+            "author": "Jackson",
+            "year": "2007",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B57",
+            "first-page": "299",
+            "article-title": "The Existence of Pairwise Stable Networks",
+            "volume": "14",
+            "author": "Jackson",
+            "year": "2001",
+            "journal-title": "Seoul Journal of Economics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "44",
+            "DOI": "10.1006/jeth.1996.0108",
+            "article-title": "A Strategic Model of Social and Economic Networks",
+            "volume": "71",
+            "author": "Jackson",
+            "year": "1996",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "year": "2005",
+            "author": "Jackson",
+            "key": "2025111022015198300_rdaf013-B59"
+        },
+        {
+            "volume-title": "The Human Network: How Your Social Position Determines Your Power, Beliefs, and Behaviors",
+            "year": "2019",
+            "author": "Jackson",
+            "key": "2025111022015198300_rdaf013-B60"
+        },
+        {
+            "year": "2025",
+            "author": "Jackson",
+            "key": "2025111022015198300_rdaf013-B61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.3795626"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B62",
+            "doi-asserted-by": "crossref",
+            "first-page": "15277",
+            "DOI": "10.1073/pnas.1520970112",
+            "article-title": "Networks of Military Alliances, Wars, and International Trade",
+            "volume": "112",
+            "author": "Jackson",
+            "year": "2015",
+            "journal-title": "Proceedings of the National Academy of Sciences USA"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "1857",
+            "DOI": "10.1257/aer.102.5.1857",
+            "article-title": "Social Capital and Social Quilts: Network Patterns of Favor Exchange",
+            "volume": "102",
+            "author": "Jackson",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "49",
+            "DOI": "10.1257/jel.20150694",
+            "article-title": "The Economic Consequences of Social Network Structure",
+            "volume": "55",
+            "author": "Jackson",
+            "year": "2017",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.1710.04656",
+            "article-title": "Behavioral Communities and the Atomic Structure of Networks",
+            "author": "Jackson",
+            "year": "2025",
+            "journal-title": "American Economic Journal: Microeconomics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "86",
+            "DOI": "10.1016/j.jeconom.2009.02.009",
+            "article-title": "Central Limit Theorems and Uniform Laws of Large Numbers for Arrays of Random Fields",
+            "volume": "150",
+            "author": "Jenish",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "1307",
+            "DOI": "10.1162/qjec.2009.124.3.1307",
+            "article-title": "Trust and Social Collateral",
+            "volume": "124",
+            "author": "Karlan",
+            "year": "2009",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "1093",
+            "DOI": "10.3982/ECTA13117",
+            "article-title": "Networks in Conflict: Theory and Evidence from the Great War of Africa",
+            "volume": "85",
+            "author": "K\u00f6nig",
+            "year": "2017",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.1016/0378-8733(88)90004-4",
+            "article-title": "Predicting with Networks: Nonparameteric Multiple Regression Analysis of Dyadic Data",
+            "volume": "10",
+            "author": "Krackhardt",
+            "year": "1988",
+            "journal-title": "Social Networks"
+        },
+        {
+            "year": "2019",
+            "author": "Kuersteiner",
+            "key": "2025111022015198300_rdaf013-B70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.48550/arXiv.1908.02375"
+        },
+        {
+            "year": "2022",
+            "author": "Leung",
+            "key": "2025111022015198300_rdaf013-B71"
+        },
+        {
+            "year": "2014",
+            "author": "Leung",
+            "key": "2025111022015198300_rdaf013-B72"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "240",
+            "DOI": "10.1093/jrsssb/qkad002",
+            "article-title": "Identifying the Latent Space Geometry of Network Models Through Analysis of Curvature",
+            "volume": "85",
+            "author": "Lubold",
+            "year": "2023",
+            "journal-title": "Journal of the Royal Statistical Society: Series B, Statistical Methodology"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "1684",
+            "DOI": "10.1080/01621459.2014.991395",
+            "article-title": "Latent Surface Models for Networks Using Aggregated Relational Data",
+            "volume": "110",
+            "author": "McCormick",
+            "year": "2015",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "year": "1973",
+            "author": "McFadden",
+            "key": "2025111022015198300_rdaf013-B75"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B76",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1146/annurev.soc.27.1.415",
+            "article-title": "Birds of a Feather: Homophily in Social Networks",
+            "volume": "27",
+            "author": "McPherson",
+            "year": "2001",
+            "journal-title": "Annual Review of Sociology"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "825",
+            "DOI": "10.3982/ECTA10400",
+            "article-title": "A Structural Model of Dense Network Formation",
+            "volume": "85",
+            "author": "Mele",
+            "year": "2017",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "1377",
+            "DOI": "10.1080/07350015.2021.1930013",
+            "article-title": "A Structural Model of Homophily and Clustering in Social Networks",
+            "volume": "40",
+            "author": "Mele",
+            "year": "2022",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1162/rest_a_01023",
+            "article-title": "Approximate Variational Estimation for a Model of Network Formation",
+            "volume": "105",
+            "author": "Mele",
+            "year": "2023",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.1257/aer.96.4.1225",
+            "article-title": "Traditional Institutions Meet the Modern World: Caste, Gender, and Schooling Choice in a Globalizing Economy",
+            "volume": "96",
+            "author": "Munshi",
+            "year": "2006",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "2111",
+            "DOI": "10.1016/S1573-4412(05)80005-4",
+            "article-title": "Large Sample Estimation and Hypothesis Testing",
+            "volume": "4",
+            "author": "Newey",
+            "year": "1994",
+            "journal-title": "Handbook of Econometrics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B82",
+            "first-page": "26118",
+            "article-title": "Random Graphs with Arbitrary Degree Distributions and Their Applications",
+            "volume": "64",
+            "author": "Newman",
+            "year": "2001",
+            "journal-title": "Physical Review: E"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B83",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1137/S003614450342480",
+            "article-title": "The Structure and Function of Complex Networks",
+            "volume": "45",
+            "author": "Newman",
+            "year": "2003",
+            "journal-title": "SIAM Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B84",
+            "first-page": "066117",
+            "article-title": "Statistical Mechanics of Networks",
+            "volume": "70",
+            "author": "Park",
+            "year": "2004",
+            "journal-title": "Physical Review: E"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1016/j.euroecorev.2007.09.002",
+            "article-title": "The Strength of Weak Ties in Crime",
+            "volume": "52",
+            "author": "Patacchini",
+            "year": "2008",
+            "journal-title": "European Economic Review"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B86",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/acprof:oso/9780198506263.001.0001",
+            "volume-title": "Random Geometric Graphs",
+            "author": "Penrose",
+            "year": "2003"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B87",
+            "doi-asserted-by": "crossref",
+            "first-page": "210",
+            "DOI": "10.1214/11-PS182",
+            "article-title": "Fundamentals of Stein\u2019s Method",
+            "volume": "8",
+            "author": "Ross",
+            "year": "2011",
+            "journal-title": "Probability Surveys"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B88",
+            "doi-asserted-by": "crossref",
+            "first-page": "508",
+            "DOI": "10.1214/12-AOS1044",
+            "article-title": "Consistency Under Sampling of Exponential Random Graph Models",
+            "volume": "41",
+            "author": "Shalizi",
+            "year": "2013",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B89",
+            "doi-asserted-by": "crossref",
+            "first-page": "1829",
+            "DOI": "10.3982/ECTA12558",
+            "article-title": "A Structural Econometric Analysis of Network Formation Games Through Subnetworks",
+            "volume": "88",
+            "author": "Sheng",
+            "year": "2020",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B90",
+            "first-page": "583",
+            "article-title": "A Bound for the Error in the Normal Approximation of a sum of Dependent Random Variables",
+            "volume": "2",
+            "author": "Stein",
+            "year": "1972",
+            "journal-title": "Proceedings of the Sixth Berkeley Symposium on Mathematical Statistics and Probability"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B91",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1214/lnms/1215466568",
+            "volume-title": "Approximate Computation of Expectations",
+            "author": "Stein",
+            "year": "1986"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B92",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1007/BF02294547",
+            "article-title": "Logit Models and Logistic Regressions for Social Networks: I. An Introduction to Markov Graphs and p*",
+            "volume": "61",
+            "author": "Wasserman",
+            "year": "1996",
+            "journal-title": "Psychometrika"
+        },
+        {
+            "key": "2025111022015198300_rdaf013-B93",
+            "doi-asserted-by": "crossref",
+            "first-page": "440",
+            "DOI": "10.1038/30918",
+            "article-title": "Collective Dynamics of Small-World Networks",
+            "volume": "393",
+            "author": "Watts",
+            "year": "1998",
+            "journal-title": "Nature"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdaf013/62202970/rdaf013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/6/3741/62202970/rdaf013.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/6/3741/62202970/rdaf013.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                11
+            ]
+        ],
+        "date-time": "2025-11-11T03:02:34Z",
+        "timestamp": 1762830154000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/6/3741/8045881"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                28
+            ]
+        ]
+    },
+    "references-count": 93,
+    "journal-issue": {
+        "issue": "6",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    2,
+                    28
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    11,
+                    10
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdaf013",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                11
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                2,
+                28
+            ]
+        ]
+    }
+}

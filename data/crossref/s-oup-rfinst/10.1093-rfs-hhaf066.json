@@ -1,0 +1,555 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2025-11-20T20:52:32Z",
+        "timestamp": 1763671952039,
+        "version": "3.45.0"
+    },
+    "reference-count": 30,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "12",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        9,
+                        2
+                    ]
+                ],
+                "date-time": "2025-09-02T00:00:00Z",
+                "timestamp": 1756771200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                12,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Binsbergen, Han, and Lopez-Lira (2023) predict analysts\u2019 forecast errors using a random forest model. A strategy that trades against this model\u2019s predictions earns a monthly alpha of 1.54% ($ t $-value = 5.84). This estimate represents a large improvement over studies using classical statistical methods. We attribute the difference to a look-ahead bias. Removing the bias erases the alpha. Linear models yield as accurate forecasts and superior trading profits. Neither alternative machine learning models nor combinations thereof resurrect the predictability. We discuss the state of research into the term structure of analysts\u2019 forecasts and its causal relationship with returns.</jats:p>",
+    "DOI": "10.1093/rfs/hhaf066",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                8,
+                29
+            ]
+        ],
+        "date-time": "2025-08-29T11:39:39Z",
+        "timestamp": 1756467579000
+    },
+    "page": "3768-3790",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Man versus Machine Learning Revisited"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Yingguang",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Guanghua School of Management, Peking University ,",
+                    "place": [
+                        "China"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Yandi",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "School of Finance, Central University of Finance and Economics ,",
+                    "place": [
+                        "China"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Juhani T",
+            "family": "Linnainmaa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Dartmouth College, NBER, and Kepos Capital ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                2
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025112015313566500_hhaf066-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "2361",
+            "DOI": "10.1093/rfs/hhac085",
+            "article-title": "Man versus machine learning: The term structure of earnings expectations and conditional biases",
+            "volume": "36",
+            "author": "Binsbergen",
+            "year": "2023",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1111/jofi.12734",
+            "article-title": "Sticky expectations and the profitability anomaly",
+            "volume": "74",
+            "author": "Bouchaud",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "944",
+            "DOI": "10.1007/s11142-012-9185-8",
+            "article-title": "A re-examination of analysts\u2019 superiority over time-series forecasts of annual earnings",
+            "volume": "17",
+            "author": "Bradshaw",
+            "year": "2012",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "year": "2024",
+            "author": "Campbell",
+            "key": "2025112015313566500_hhaf066-B4"
+        },
+        {
+            "year": "2024",
+            "author": "Cao",
+            "key": "2025112015313566500_hhaf066-B5"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "103910",
+            "DOI": "10.1016/j.jfineco.2024.103910",
+            "article-title": "From man vs. machine to man + machine: The art and AI of stock analyses",
+            "volume": "160",
+            "author": "Cao",
+            "year": "2024",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.1111/j.1540-6261.1997.tb03808.x",
+            "article-title": "On persistence in mutual fund performance",
+            "volume": "52",
+            "author": "Carhart",
+            "year": "1997",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1253",
+            "DOI": "10.1093/rfs/hhac032",
+            "article-title": "Horizon bias and the term structure of equity returns",
+            "volume": "36",
+            "author": "Cassella",
+            "year": "2022",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1561/104.00000112",
+            "article-title": "Open source cross-sectional asset pricing",
+            "volume": "11",
+            "author": "Chen",
+            "year": "2022",
+            "journal-title": "Critical Finance Review"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1609",
+            "DOI": "10.1111/j.1540-6261.2008.01370.x",
+            "article-title": "Asset growth and the cross-section of stock returns",
+            "volume": "63",
+            "author": "Cooper",
+            "year": "2008",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1673",
+            "DOI": "10.1093/rfs/hhz069",
+            "article-title": "Short- and long-horizon behavioral factors",
+            "volume": "33",
+            "author": "Daniel",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "2237",
+            "DOI": "10.1111/jofi.13323",
+            "article-title": "Does alternative data improve financial forecasting? The horizon effect",
+            "volume": "79",
+            "author": "Dessaint",
+            "year": "2024",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1016/0304-405X(93)90023-5",
+            "article-title": "Common risk factors in the returns on stocks and bonds",
+            "volume": "33",
+            "author": "Fama",
+            "year": "1993",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.10.010",
+            "article-title": "A five-factor asset pricing model",
+            "volume": "116",
+            "author": "Fama",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "4389",
+            "DOI": "10.1093/rfs/hhx019",
+            "article-title": "The characteristics that provide independent information about average us monthly stock returns",
+            "volume": "30",
+            "author": "Green",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/rfs/hhv059",
+            "article-title": "\u2026 and the cross-section of expected returns",
+            "volume": "29",
+            "author": "Harvey",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B17",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-0-387-84858-7",
+            "volume-title": "The elements of statistical learning: Data mining, inference, and prediction",
+            "author": "Hastie",
+            "year": "2009",
+            "edition": "2nd ed"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "3401",
+            "DOI": "10.1093/rfs/hhq063",
+            "article-title": "A financing-based misvaluation factor and the cross-section of expected returns",
+            "volume": "23",
+            "author": "Hirshleifer",
+            "year": "2010",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/rof/rfaa004",
+            "article-title": "An augmented q-factor model with expected growth",
+            "volume": "25",
+            "author": "Hou",
+            "year": "2021",
+            "journal-title": "Review of Finance"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "650",
+            "DOI": "10.1093/rfs/hhu068",
+            "article-title": "Digesting anomalies: An investment approach",
+            "volume": "28",
+            "author": "Hou",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2019",
+            "DOI": "10.1093/rfs/hhy131",
+            "article-title": "Replicating anomalies",
+            "volume": "33",
+            "author": "Hou",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "266",
+            "DOI": "10.1007/s11142-007-9065-9",
+            "article-title": "On the relation between predictable market returns and predictable analyst forecast errors",
+            "volume": "13",
+            "author": "Hughes",
+            "year": "2008",
+            "journal-title": "Review of Accounting Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1146/annurev-financial-121415-032930",
+            "article-title": "Analysts\u2019 forecasts and asset pricing: A survey",
+            "volume": "8",
+            "author": "Kothari",
+            "year": "2016",
+            "journal-title": "Annual Review of Financial Economics"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B24",
+            "first-page": "1715",
+            "article-title": "Expectations and the cross-section of stock returns",
+            "volume": "51",
+            "author": "La Porta",
+            "year": "1996",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.2307/1913610",
+            "article-title": "A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix",
+            "volume": "55",
+            "author": "Newey",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1494",
+            "DOI": "10.1093/rfs/hhad091",
+            "article-title": "Noise in expectations: Evidence from analyst forecasts",
+            "volume": "37",
+            "author": "Silva",
+            "year": "2024",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "615",
+            "DOI": "10.1016/j.jfineco.2013.02.002",
+            "article-title": "A new approach to predicting analyst forecast errors: Do investors overweight analyst forecasts?",
+            "volume": "108",
+            "author": "So",
+            "year": "2013",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.1016/j.jfineco.2011.12.001",
+            "article-title": "The short of it: Investor sentiment and anomalies",
+            "volume": "104",
+            "author": "Stambaugh",
+            "year": "2012",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1270",
+            "DOI": "10.1093/rfs/hhw107",
+            "article-title": "Mispricing factors",
+            "volume": "30",
+            "author": "Stambaugh",
+            "year": "2016",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025112015313566500_hhaf066-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "817",
+            "DOI": "10.2307/1912934",
+            "article-title": "A heteroskedasticity-consistent covariance matrix estimator and a direct test for heteroskedasticity",
+            "volume": "48",
+            "author": "White",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf066/64192454/hhaf066.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/12/3768/64192454/hhaf066.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/12/3768/64192454/hhaf066.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                11,
+                20
+            ]
+        ],
+        "date-time": "2025-11-20T20:31:49Z",
+        "timestamp": 1763670709000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/12/3768/8246070"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Tarun",
+            "family": "Ramadorai",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                2
+            ]
+        ]
+    },
+    "references-count": 30,
+    "journal-issue": {
+        "issue": "12",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    9,
+                    2
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    12,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhaf066",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0893-9454"
+        },
+        {
+            "type": "electronic",
+            "value": "1465-7368"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                12
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                2
+            ]
+        ]
+    }
+}
