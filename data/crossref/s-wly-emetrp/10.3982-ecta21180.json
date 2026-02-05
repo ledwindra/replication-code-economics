@@ -1,0 +1,641 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                3
+            ]
+        ],
+        "date-time": "2026-02-03T00:13:30Z",
+        "timestamp": 1770077610432,
+        "version": "3.49.0"
+    },
+    "reference-count": 46,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "funder": [
+        {
+            "DOI": "10.13039/501100000269",
+            "name": "Economic and Social Research Council",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000269",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>\n                    We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics\u2014targeting by\n                    <jats:italic>observables</jats:italic>\n                    and targeting through\n                    <jats:italic>self\u2010selection</jats:italic>\n                    . Our method can be used with experimental or quasi\u2010experimental data to identify who should be treated, be untreated, and self\u2010select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self\u2010selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self\u2010selection would be valuable and harmful to social welfare.\n                  </jats:p>",
+    "DOI": "10.3982/ecta21180",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                2
+            ]
+        ],
+        "date-time": "2026-02-02T11:57:08Z",
+        "timestamp": 1770033428000
+    },
+    "page": "225-247",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Choosing Who Chooses: Selection\u2010Driven Targeting in Energy Rebate Programs"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Takanori",
+            "family": "Ida",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Graduate School of Economics, Kyoto University"
+                }
+            ]
+        },
+        {
+            "given": "Takunori",
+            "family": "Ishihara",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Faculty of Economics and Business Administration, Kyoto University of Advanced Science"
+                }
+            ]
+        },
+        {
+            "given": "Koichiro",
+            "family": "Ito",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harris School of Public Policy, University of Chicago"
+                }
+            ]
+        },
+        {
+            "given": "Daido",
+            "family": "Kido",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Otaru University of Commerce"
+                }
+            ]
+        },
+        {
+            "given": "Toru",
+            "family": "Kitagawa",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Brown University"
+                }
+            ]
+        },
+        {
+            "given": "Shosei",
+            "family": "Sakaguchi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Faculty of Economics, University of Tokyo"
+                }
+            ]
+        },
+        {
+            "given": "Shusaku",
+            "family": "Sasaki",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Center for Infectious Disease Education and Research, University of Osaka"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200842-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "371",
+            "DOI": "10.1086/685299",
+            "volume": "124",
+            "author": "Alatas",
+            "year": "2016",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200842-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1093/qje/qjad043",
+            "volume": "139",
+            "author": "Andrews",
+            "year": "2024",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200842-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.3982/ECTA15732",
+            "volume": "89",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0004",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jeconom.2020.09.013",
+            "volume": "240",
+            "author": "Athey",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200842-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1171",
+            "DOI": "10.1080/01621459.1997.10474074",
+            "volume": "92",
+            "author": "Balke",
+            "year": "1997",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200842-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "160",
+            "DOI": "10.1016/j.jeconom.2012.11.003",
+            "volume": "173",
+            "author": "Bhattacharya",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200842-bib-0007",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1201/9781315139470",
+            "volume-title": "Classification and Regression Trees",
+            "author": "Breiman",
+            "year": "2017"
+        },
+        {
+            "key": "ecta200842-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1181",
+            "DOI": "10.1086/710606",
+            "volume": "7",
+            "author": "Burlig",
+            "year": "2020",
+            "journal-title": "Journal of the Association of Environmental and Resource Economists"
+        },
+        {
+            "key": "ecta200842-bib-0009",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cagala, Tobias, Ulrich Glogowsky, Johannes Rincke, and Anthony Strittmatter (2021), \u201cOptimal Targeting in Fundraising: A Causal Machine-Learning Approach.\u201d arXiv:2103.10251. arXiv preprint.",
+            "DOI": "10.2139/ssrn.3836338"
+        },
+        {
+            "key": "ecta200842-bib-0010",
+            "first-page": "11",
+            "volume-title": "The Oxford Handbook of Bayesian Econometrics",
+            "author": "Chamberlain",
+            "year": "2011"
+        },
+        {
+            "key": "ecta200842-bib-0011",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jpubeco.2024.105098",
+            "volume": "234",
+            "author": "Christensen",
+            "year": "2024",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta200842-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "141",
+            "DOI": "10.1016/j.jeconom.2004.04.006",
+            "volume": "125",
+            "author": "Dehejia",
+            "year": "2005",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200842-bib-0013",
+            "first-page": "213",
+            "volume": "11",
+            "author": "Deshpande",
+            "year": "2019",
+            "journal-title": "American Economic Journal: Economic Policy"
+        },
+        {
+            "key": "ecta200842-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1721",
+            "DOI": "10.1257/aer.20200451",
+            "volume": "111",
+            "author": "Dynarski",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200842-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1505",
+            "DOI": "10.1093/qje/qjz013",
+            "volume": "134",
+            "author": "Finkelstein",
+            "year": "2019",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200842-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "2886",
+            "DOI": "10.1093/restud/rdab018",
+            "volume": "88",
+            "author": "Fowlie",
+            "year": "2021",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200842-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "503",
+            "DOI": "10.1080/10618600.2020.1831930",
+            "volume": "30",
+            "author": "Friedberg",
+            "year": "2021",
+            "journal-title": "Journal of Computational and Graphical Statistics"
+        },
+        {
+            "key": "ecta200842-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "687",
+            "DOI": "10.1086/722833",
+            "volume": "10",
+            "author": "Gerarden",
+            "year": "2023",
+            "journal-title": "Journal of the Association of Environmental and Resource Economists"
+        },
+        {
+            "key": "ecta200842-bib-0019",
+            "series-title": "Springer Series in Statistics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-0-387-84858-7",
+            "volume-title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction",
+            "author": "Hastie",
+            "year": "2009",
+            "edition": "2 edition"
+        },
+        {
+            "key": "ecta200842-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "356",
+            "DOI": "10.1257/jel.48.2.356",
+            "volume": "48",
+            "author": "Heckman",
+            "year": "2010",
+            "journal-title": "Journal of Economic Literature"
+        },
+        {
+            "key": "ecta200842-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1111/j.1468-0262.2005.00594.x",
+            "volume": "73",
+            "author": "Heckman",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "1683",
+            "DOI": "10.3982/ECTA6630",
+            "volume": "77",
+            "author": "Hirano",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0023",
+            "first-page": "304",
+            "volume": "60",
+            "author": "Ida",
+            "year": "2017",
+            "journal-title": "Proceedings of the Japan Joint Automatic Control Conference"
+        },
+        {
+            "key": "ecta200842-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.2307/2971731",
+            "volume": "64",
+            "author": "Imbens",
+            "year": "1997",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200842-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "2937",
+            "DOI": "10.1257/aer.20210150",
+            "volume": "113",
+            "author": "Ito",
+            "year": "2023",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200842-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1581",
+            "DOI": "10.1016/S0277-9536(02)00158-2",
+            "volume": "56",
+            "author": "Janevic",
+            "year": "2003",
+            "journal-title": "Social Science and Medicine"
+        },
+        {
+            "key": "ecta200842-bib-0028",
+            "first-page": "30",
+            "volume": "15",
+            "author": "Johnson",
+            "year": "2023",
+            "journal-title": "American Economic Journal: Applied Economics"
+        },
+        {
+            "key": "ecta200842-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "2043",
+            "DOI": "10.3982/ECTA11974",
+            "volume": "83",
+            "author": "Kitagawa",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.3982/ECTA13288",
+            "volume": "86",
+            "author": "Kitagawa",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "440",
+            "DOI": "10.1257/pandp.20211090",
+            "volume": "111",
+            "author": "Knittel",
+            "year": "2021",
+            "journal-title": "AEA Papers and Proceedings"
+        },
+        {
+            "key": "ecta200842-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1532",
+            "DOI": "10.1080/01621459.2019.1585248",
+            "volume": "114",
+            "author": "Knox",
+            "year": "2019",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200842-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1461",
+            "DOI": "10.1257/aer.20180325",
+            "volume": "109",
+            "author": "Lieber",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200842-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "474",
+            "DOI": "10.1198/016214507000000662",
+            "volume": "103",
+            "author": "Long",
+            "year": "2008",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200842-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.1111/j.1468-0262.2004.00530.x",
+            "volume": "72",
+            "author": "Manski",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200842-bib-0036",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.4159/harvard.9780674067547",
+            "volume-title": "Public Policy in an Uncertain World",
+            "author": "Manski",
+            "year": "2013"
+        },
+        {
+            "key": "ecta200842-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1779",
+            "DOI": "10.1111/iere.12589",
+            "volume": "63",
+            "author": "Murakami",
+            "year": "2022",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "ecta200842-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.1002/sim.4780080411",
+            "volume": "8",
+            "author": "R\u00fccker",
+            "year": "1989",
+            "journal-title": "Statistics in Medicine"
+        },
+        {
+            "key": "ecta200842-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1016/j.jeconom.2009.02.013",
+            "volume": "151",
+            "author": "Stoye",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200842-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "138",
+            "DOI": "10.1016/j.jeconom.2011.06.012",
+            "volume": "166",
+            "author": "Stoye",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200842-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1016/j.jeconom.2011.06.013",
+            "volume": "166",
+            "author": "Tetenov",
+            "year": "2012",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200842-bib-0042",
+            "unstructured": "Unrath, Matthew (2021), \u201cTargeting, Screening, and Retention: Evidence From California's Food Stamps Program.\u201d California Policy Labo Working paper, No2021-1. https://capolicylab.org/wp-content/uploads/2021/02/CalFresh-Working-Paper.pdf."
+        },
+        {
+            "key": "ecta200842-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1228",
+            "DOI": "10.1080/01621459.2017.1319839",
+            "volume": "113",
+            "author": "Wager",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta200842-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "2660",
+            "DOI": "10.1257/aer.20190516",
+            "volume": "111",
+            "author": "Waldinger",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200842-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1257/aer.101.3.83",
+            "volume": "101",
+            "author": "Wolak",
+            "year": "2011",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "ecta200842-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "148",
+            "DOI": "10.1287/opre.2022.2271",
+            "volume": "71",
+            "author": "Zhou",
+            "year": "2023",
+            "journal-title": "Operations Research"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                2
+            ]
+        ],
+        "date-time": "2026-02-02T11:58:23Z",
+        "timestamp": 1770033503000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21180"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21180"
+    ],
+    "URL": "https://doi.org/10.3982/ecta21180",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}

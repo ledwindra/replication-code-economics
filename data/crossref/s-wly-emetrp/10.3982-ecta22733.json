@@ -1,0 +1,776 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                3
+            ]
+        ],
+        "date-time": "2026-02-03T18:59:06Z",
+        "timestamp": 1770145146716,
+        "version": "3.49.0"
+    },
+    "reference-count": 68,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2026,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2026-01-01T00:00:00Z",
+                "timestamp": 1767225600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm\u2010level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm\u2010level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well\u2010measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm\u2010level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.</jats:p>",
+    "DOI": "10.3982/ecta22733",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                2
+            ]
+        ],
+        "date-time": "2026-02-02T11:57:08Z",
+        "timestamp": 1770033428000
+    },
+    "page": "137-168",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Maarten",
+            "family": "De Ridder",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, London School of Economics"
+                },
+                {
+                    "name": "CFM"
+                },
+                {
+                    "name": "POID"
+                },
+                {
+                    "name": "CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Basile",
+            "family": "Grassi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Bocconi University"
+                },
+                {
+                    "name": "IGIER"
+                },
+                {
+                    "name": "OFCE"
+                },
+                {
+                    "name": "CEPR"
+                }
+            ]
+        },
+        {
+            "given": "Giovanni",
+            "family": "Morzenti",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Analysis Group"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200840-bib-0001",
+            "volume": "105463",
+            "author": "Ackerberg",
+            "year": "2023",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta200840-bib-0002",
+            "unstructured": "Ackerberg, Daniel A. and Jan De Loecker (2024), \u201cProduction Function Identification Under Imperfect Competition.\u201d CEPR Discussion Paper No. 19640."
+        },
+        {
+            "issue": "6",
+            "key": "ecta200840-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "2411",
+            "DOI": "10.3982/ECTA13408",
+            "volume": "83",
+            "author": "Ackerberg",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200840-bib-0004",
+            "unstructured": "Aghion, Philippe, Antonin Bergeaud, Timo Boppart, Peter Klenow, and Huiyu Li (2022), \u201cGood Rents versus Bad Rents: r&d Misallocation and Growth.\u201d NBER Working Paper 34190."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "277",
+            "DOI": "10.2307/2297968",
+            "volume": "58",
+            "author": "Arellano",
+            "year": "1991",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "ecta200840-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Atalay, Enghin, Erika Frost, Alan T. Sorensen, Christopher J. Sullivan, and Wanjia Zhu (2023), \u201cScalable Demand and Markups.\u201d NBER Working Paper 31230.",
+            "DOI": "10.21799/frbp.wp.2023.15"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200840-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1998",
+            "DOI": "10.1257/aer.98.5.1998",
+            "volume": "98",
+            "author": "Atkeson",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200840-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1065",
+            "DOI": "10.1086/727287",
+            "volume": "132",
+            "author": "Baqaee",
+            "year": "2024",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200840-bib-0009",
+            "author": "Baqaee",
+            "year": "2019",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200840-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1257/jep.33.3.3",
+            "volume": "33",
+            "author": "Basu",
+            "year": "2019",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200840-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.2307/2171802",
+            "volume": "63",
+            "author": "Berry",
+            "year": "1995",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200840-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1016/S0304-4076(98)00009-8",
+            "volume": "87",
+            "author": "Blundell",
+            "year": "1998",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200840-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1080/07474930008800475",
+            "volume": "19",
+            "author": "Blundell",
+            "year": "2000",
+            "journal-title": "Econometric reviews"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200840-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "2828",
+            "DOI": "10.1093/restud/rdae103",
+            "volume": "92",
+            "author": "Boar",
+            "year": "2025",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200840-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jmoneco.2021.05.004",
+            "volume": "121",
+            "author": "Bond",
+            "year": "2021",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200840-bib-0016",
+            "unstructured": "Brand, James (2019), \u201cEstimating Productivity and Markups Under Imperfect Competition.\u201d"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200840-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "2619",
+            "DOI": "10.1093/qje/qjaf029",
+            "volume": "140",
+            "author": "Burstein",
+            "year": "2025",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200840-bib-0018",
+            "unstructured": "Calligaris, Sara, Chiara Criscuolo, and Luca Marcolin (2018), \u201cMark-ups in the Digital Era.\u201d OECD."
+        },
+        {
+            "key": "ecta200840-bib-0019",
+            "unstructured": "Chiavari, Andrea, Marta Morazzoni, and Danila Smirnov (2021), \u201cHeterogeneous Markups Cyclicality and Monetary Policy.\u201d Tech. rep., Pompeu Fabra University."
+        },
+        {
+            "issue": "3",
+            "key": "ecta200840-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "350",
+            "DOI": "10.1016/j.ijindorg.2011.02.002",
+            "volume": "29",
+            "author": "De Loecker",
+            "year": "2011",
+            "journal-title": "International Journal of Industrial Organization"
+        },
+        {
+            "key": "ecta200840-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "DOI": "10.1016/j.jmoneco.2021.04.009",
+            "volume": "121",
+            "author": "De Loecker",
+            "year": "2021",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "ecta200840-bib-0022",
+            "first-page": "141",
+            "volume-title": "Handbook of Industrial Organization",
+            "volume": "4",
+            "author": "De Loecker",
+            "year": "2022"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200840-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "2437",
+            "DOI": "10.1257/aer.102.6.2437",
+            "volume": "102",
+            "author": "De Loecker",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "561",
+            "DOI": "10.1093/qje/qjz041",
+            "volume": "135",
+            "author": "De Loecker",
+            "year": "2020",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.3982/ECTA11042",
+            "volume": "84",
+            "author": "De Loecker",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200840-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1257/aer.20201079",
+            "volume": "114",
+            "author": "De Ridder",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200840-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "De Ridder, Maarten, Basile Grassi, and Giovanni Morzenti (2026), \u201cSupplement to \u2018The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA22733.",
+            "DOI": "10.3982/ECTA22733"
+        },
+        {
+            "key": "ecta200840-bib-0028",
+            "doi-asserted-by": "crossref",
+            "unstructured": "De Roux, Nicolas, Marcela Eslava, Santiago Franco, and Eric Verhoogen (2021), \u201cEstimating Production Functions in Differentiated-Product Industries With Quantity Information and External Instruments.\u201d NBER Working Paper 28323.",
+            "DOI": "10.3386/w28323"
+        },
+        {
+            "key": "ecta200840-bib-0029",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jinteco.2021.103492",
+            "volume": "132",
+            "author": "D\u00edez",
+            "year": "2021",
+            "journal-title": "Journal of International Economics"
+        },
+        {
+            "key": "ecta200840-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "D\u00f6pper, Hendrik, Alexander MacKay, Nathan Miller, and Joel Stiebale (2022), \u201cRising Markups and the Role of Consumer Preferences.\u201d NBER Working Paper 32739.",
+            "DOI": "10.2139/ssrn.3939126"
+        },
+        {
+            "key": "ecta200840-bib-0031",
+            "unstructured": "Doraszelski, Ulrich and Jordi Jaumandreu (2019), \u201cUsing Cost Minimization to Estimate Markups.\u201d CEPR Discussion Papers 14114."
+        },
+        {
+            "key": "ecta200840-bib-0032",
+            "unstructured": "Doraszelski, Ulrich and Jordi Jaumandreu (2021), \u201cReexamining the De Loecker & Warzynski (2012) Method for Estimating Markups.\u201d CEPR Discussion Papers 16027, CEPR."
+        },
+        {
+            "issue": "10",
+            "key": "ecta200840-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "3183",
+            "DOI": "10.1257/aer.20120549",
+            "volume": "105",
+            "author": "Edmond",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200840-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "1619",
+            "DOI": "10.1086/722986",
+            "volume": "131",
+            "author": "Edmond",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200840-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "394",
+            "DOI": "10.1257/aer.98.1.394",
+            "volume": "98",
+            "author": "Foster",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200840-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "2973",
+            "DOI": "10.1086/707736",
+            "volume": "128",
+            "author": "Gandhi",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200840-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1086/712444",
+            "volume": "129",
+            "author": "Gaubert",
+            "year": "2021",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200840-bib-0038",
+            "unstructured": "Grassi, Basile (2017), \u201cIO in I\u2013O: Size, Industrial Organization and the Input\u2013Output Network Make a Firm Structurally Important.\u201d Working Paper."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1201",
+            "DOI": "10.1093/qje/qjad047",
+            "volume": "139",
+            "author": "Grieco",
+            "year": "2024",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "2\u20133",
+            "key": "ecta200840-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "517",
+            "DOI": "10.1016/0014-2921(91)90153-A",
+            "volume": "35",
+            "author": "Grossman",
+            "year": "1991",
+            "journal-title": "European economic review"
+        },
+        {
+            "key": "ecta200840-bib-0041",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hahn, Nadine (2024), \u201cProduct Differentiation and Quality in Production Function Estimation.\u201d",
+            "DOI": "10.2139/ssrn.4901407"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.2307/2534476",
+            "author": "Hall",
+            "year": "1986",
+            "journal-title": "Brookings papers on economic activity"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200840-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "921",
+            "DOI": "10.1086/261570",
+            "volume": "96",
+            "author": "Hall",
+            "year": "1988",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200840-bib-0044",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.econlet.2022.110673",
+            "volume": "217",
+            "author": "Hashemi",
+            "year": "2022",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "ecta200840-bib-0045",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hong, Sungki (2017), \u201cCustomer Capital, Markup Cyclicality, and Amplification.\u201d",
+            "DOI": "10.20955/wp.2017.033"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200840-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "1403",
+            "DOI": "10.1162/qjec.2009.124.4.1403",
+            "volume": "124",
+            "author": "Hsieh",
+            "year": "2009",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200840-bib-0047",
+            "unstructured": "Insee. (2009\u20132019a), \u201cEnquete Annuelle de Production.\u201d Accessed through CASD project DETVOLT, August 2020 to July 2025."
+        },
+        {
+            "key": "ecta200840-bib-0048",
+            "unstructured": "Insee. (2009\u20132019b), \u201cStatistique Structurelle Annuelle D'entreprises Issue du Dispositif ESANE.\u201d Accessed through CASD project DETVOLT, August 2020 to July 2025."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200840-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "1241",
+            "DOI": "10.2307/2078048",
+            "volume": "27",
+            "author": "Kimball",
+            "year": "1995",
+            "journal-title": "Journal of Money, Credit and Banking"
+        },
+        {
+            "key": "ecta200840-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "343",
+            "DOI": "10.1002/(SICI)1099-1255(199607)11:4<343::AID-JAE404>3.0.CO;2-4",
+            "volume": "11",
+            "author": "Klette",
+            "year": "1996",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "ecta200840-bib-0051",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kouvavas, Omiros, Chiara Osbat, Timo Reinelt, and Isabel Vansteenkiste (2021), \u201cMarkups and Inflation Cyclicality in the Euro Area.\u201d Working Paper Series 2617, European Central Bank.",
+            "DOI": "10.2139/ssrn.3972485"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200840-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1093/restud/rdr021",
+            "volume": "79",
+            "author": "Kugler",
+            "year": "2012",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0053",
+            "doi-asserted-by": "crossref",
+            "first-page": "317",
+            "DOI": "10.1111/1467-937X.00246",
+            "volume": "70",
+            "author": "Levinsohn",
+            "year": "2003",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta200840-bib-0054",
+            "first-page": "1",
+            "author": "Meier",
+            "year": "2022",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200840-bib-0055",
+            "unstructured": "Miller, Nathan, Matthew Osborne, Gloria Sheu, and Gretchen Sileo (2023), \u201cTechnology and Market Power: The United States Cement Industry, 1974\u20132019.\u201d Georgetown McDonough School of Business Research Paper, (4041168)."
+        },
+        {
+            "key": "ecta200840-bib-0056",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mongey, Simon (2017), \u201cMarket Structure and Monetary Non-Neutrality.\u201d Working paper.",
+            "DOI": "10.21034/sr.558"
+        },
+        {
+            "key": "ecta200840-bib-0057",
+            "unstructured": "Morlacco, Monica (2019), \u201cMarket Power in Input Markets: Theory and Evidence From French Manufacturing.\u201d Working Paper."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0058",
+            "doi-asserted-by": "crossref",
+            "first-page": "307",
+            "DOI": "10.1111/1468-0262.00194",
+            "volume": "69",
+            "author": "Nevo",
+            "year": "2001",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200840-bib-0059",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nord, Lukas (2023), \u201cShopping, Demand Composition, and Equilibrium Prices.\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.4178271"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.3982/ECTA12807",
+            "volume": "89",
+            "author": "Oberfield",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta200840-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "1263",
+            "DOI": "10.2307/2171831",
+            "volume": "64",
+            "author": "Olley",
+            "year": "1996",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200840-bib-0062",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.econlet.2023.111262",
+            "volume": "230",
+            "author": "Raval",
+            "year": "2023",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200840-bib-0063",
+            "doi-asserted-by": "crossref",
+            "first-page": "2592",
+            "DOI": "10.1093/restud/rdad002",
+            "volume": "90",
+            "author": "Raval",
+            "year": "2023",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200840-bib-0064",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1257/jep.33.3.23",
+            "volume": "33",
+            "author": "Syverson",
+            "year": "2019",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "ecta200840-bib-0065",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Traina, James (2018), \u201cIs Aggregate Market Power Increasing? Production Trends Using Financial Statements.\u201d Working Paper 17, Stigler Cente.",
+            "DOI": "10.2139/ssrn.3120849"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200840-bib-0066",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1162/qjec.2008.123.2.489",
+            "volume": "123",
+            "author": "Verhoogen",
+            "year": "2008",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200840-bib-0067",
+            "doi-asserted-by": "crossref",
+            "first-page": "2815",
+            "DOI": "10.1257/aer.20201739",
+            "volume": "112",
+            "author": "Wang",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "7",
+            "key": "ecta200840-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "2099",
+            "DOI": "10.1257/aer.20200025",
+            "volume": "112",
+            "author": "Yeh",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                2
+            ]
+        ],
+        "date-time": "2026-02-02T11:58:06Z",
+        "timestamp": 1770033486000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22733"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 68,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22733"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22733",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}

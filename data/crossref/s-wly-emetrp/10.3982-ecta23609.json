@@ -1,0 +1,776 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                3
+            ]
+        ],
+        "date-time": "2026-02-03T18:12:57Z",
+        "timestamp": 1770142377631,
+        "version": "3.49.0"
+    },
+    "reference-count": 69,
+    "publisher": "The Econometric Society",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2026,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2026-01-01T00:00:00Z",
+                "timestamp": 1767225600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000879",
+            "name": "Alfred P. Sloan Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000879",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>\n                    We study the problem of a partisan gerrymanderer who assigns voters to equipopulous districts to maximize his party's expected seat share. The designer faces both aggregate, district\u2010level uncertainty (how many votes his party will receive) and idiosyncratic, voter\u2010level uncertainty (which voters will vote for his party).\n                    <jats:italic>Segregate\u2010pair districting</jats:italic>\n                    , where weaker districts contain one type of voter, while stronger districts contain two, is optimal for the gerrymanderer. The optimal form of segregate\u2010pair districting depends on the designer's popularity and the relative amounts of aggregate and idiosyncratic uncertainty. When idiosyncratic uncertainty dominates, a designer with majority support pairs all voters, while a designer with minority support segregates opposing voters and pairs more favorable voters; these plans resemble uniform districting and \u201cpacking\u2010and\u2010cracking,\u201d respectively. When aggregate uncertainty dominates, the designer segregates moderate voters and pairs extreme voters; this \u201cmatching slices\u201d plan has received some attention in the literature. Estimating the model using precinct\u2010level returns from recent U.S. House elections shows that, in practice, idiosyncratic uncertainty dominates. We discuss implications for redistricting reform, political polarization, and detecting gerrymandering. Methodologically, we exploit a formal connection between gerrymandering\u2014partitioning voters into districts\u2014and information design\u2014partitioning states of the world into signals.\n                  </jats:p>",
+    "DOI": "10.3982/ecta23609",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                2
+            ]
+        ],
+        "date-time": "2026-02-02T11:57:08Z",
+        "timestamp": 1770033428000
+    },
+    "page": "71-103",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "The Economics of Partisan Gerrymandering"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Anton",
+            "family": "Kolotilin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "School of Economics, UNSW Business School"
+                }
+            ]
+        },
+        {
+            "given": "Alexander",
+            "family": "Wolitzky",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta200841-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.1111/j.1468-2508.2006.00371.x",
+            "volume": "68",
+            "author": "Abramowitz",
+            "year": "2006",
+            "journal-title": "Journal of Politics"
+        },
+        {
+            "key": "ecta200841-bib-0002",
+            "unstructured": "Ansolabehere, Stephen, Maxwell Palmer, and Amanda Lee (2014), \u201cPrecinct-Level Election Data.\u201d Harvard Dataverse."
+        },
+        {
+            "issue": "2",
+            "key": "ecta200841-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1007/s00199-004-0514-4",
+            "volume": "26",
+            "author": "Bagnoli",
+            "year": "2005",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta200841-bib-0004",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Baltz, Samuel et al. (2022), \u201cAmerican Election Results at the Precinct Level.\u201d Scientific Data, 9 (651).",
+            "DOI": "10.1038/s41597-022-01745-0"
+        },
+        {
+            "key": "ecta200841-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1473",
+            "DOI": "10.1162/qjec.2007.122.4.1473",
+            "volume": "122",
+            "author": "Besley",
+            "year": "2007",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200841-bib-0006",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-030-30837-7",
+            "volume-title": "Election Systems and Gerrymandering Worldwide",
+            "author": "Bickerstaff",
+            "year": "2020"
+        },
+        {
+            "key": "ecta200841-bib-0007",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bouton, Laurent, Garance Genicot, Miguel Castanheira, and Allison Stashko (2024), \u201cPack-Crack-Pack: Gerrymandering With Differential Turnout.\u201d Working Paper.",
+            "DOI": "10.3386/w31442"
+        },
+        {
+            "key": "ecta200841-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jpubeco.2013.04.008",
+            "volume": "104",
+            "author": "Bracco",
+            "year": "2013",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta200841-bib-0009",
+            "unstructured": "Brunell, Thomas (2008), \u201cRedistricting and Representation: Why Competitive Elections Are Bad for America.\u201d Routledge."
+        },
+        {
+            "key": "ecta200841-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1177/0951629805056896",
+            "volume": "17",
+            "author": "Buchler",
+            "year": "2005",
+            "journal-title": "Journal of Theoretical Politics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200841-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.2307/2111212",
+            "volume": "29",
+            "author": "Calvert",
+            "year": "1985",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "ecta200841-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "509",
+            "DOI": "10.1146/annurev-polisci-041719-102107",
+            "volume": "25",
+            "author": "Canon",
+            "year": "2022",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "ecta200841-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1561/100.00009022",
+            "volume": "5",
+            "author": "Chambers",
+            "year": "2010",
+            "journal-title": "Quarterly Journal of Political Science"
+        },
+        {
+            "key": "ecta200841-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1409",
+            "DOI": "10.1162/qjec.2007.122.4.1409",
+            "volume": "122",
+            "author": "Coate",
+            "year": "2007",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta200841-bib-0015",
+            "first-page": "553",
+            "volume": "78",
+            "author": "Cox",
+            "year": "2011",
+            "journal-title": "University of Chicago Law Review"
+        },
+        {
+            "key": "ecta200841-bib-0016",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Deford, Daryl, Moon Duchin, and Justin Solomon (2021), \u201cRecombination: A Family of Markov Chains for Redistricting.\u201d Harvard Data Science Review, 3.",
+            "DOI": "10.1162/99608f92.eb30390f"
+        },
+        {
+            "issue": "5",
+            "key": "ecta200841-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1993",
+            "DOI": "10.1086/701813",
+            "volume": "127",
+            "author": "Dworczak",
+            "year": "2019",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200841-bib-0018",
+            "unstructured": "Ely, Jeffrey (2022), \u201cA Cake-Cutting Solution to Gerrymandering.\u201d Working Paper."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200841-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1257/aer.98.1.113",
+            "volume": "98",
+            "author": "Friedman",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200841-bib-0020",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Friedman, John N. and Richard Holden (2009), \u201cThe Rising Incumbent Reelection Rate: What's Gerrymandering Got to Do With It?\u201d Journal of Politics, 593\u2013611.",
+            "DOI": "10.1017/S0022381609090483"
+        },
+        {
+            "key": "ecta200841-bib-0021",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Friedman, John N. and Richard Holden (2020), \u201cOptimal Gerrymandering in a Competitive Environment.\u201d Economic Theory Bulletin, 1\u201321.",
+            "DOI": "10.1007/s40505-020-00188-3"
+        },
+        {
+            "key": "ecta200841-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1086/661511",
+            "volume": "54",
+            "author": "Fryer",
+            "year": "2011",
+            "journal-title": "Journal of Law and Economics"
+        },
+        {
+            "key": "ecta200841-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "541",
+            "DOI": "10.2307/2944794",
+            "volume": "88",
+            "author": "Gelman",
+            "year": "1994",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "key": "ecta200841-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "514",
+            "DOI": "10.2307/2111417",
+            "volume": "38",
+            "author": "Gelman",
+            "year": "1994",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "ecta200841-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1257/aer.p20161049",
+            "volume": "106",
+            "author": "Gentzkow",
+            "year": "2016",
+            "journal-title": "American Economic Review, Papers & Proceedings"
+        },
+        {
+            "key": "ecta200841-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "381",
+            "DOI": "10.1007/s11127-006-9062-8",
+            "volume": "129",
+            "author": "Gilligan",
+            "year": "2006",
+            "journal-title": "Public Choice"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200841-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1223",
+            "DOI": "10.1111/iere.12652",
+            "volume": "64",
+            "author": "Gomberg",
+            "year": "2023",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200841-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "401",
+            "DOI": "10.1007/s00355-024-01536-z",
+            "volume": "63",
+            "author": "Gomberg",
+            "year": "2024",
+            "journal-title": "Social Choice and Welfare"
+        },
+        {
+            "key": "ecta200841-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.2307/439970",
+            "volume": "16",
+            "author": "Grofman",
+            "year": "1991",
+            "journal-title": "Legislative Studies Quarterly"
+        },
+        {
+            "key": "ecta200841-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Groll, Thomas and Sharyn O'Halloran (2024), \u201cRedistricting and Representation: The Paradox of Minority Power.\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.4687832"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200841-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1616",
+            "DOI": "10.1257/aer.100.4.1616",
+            "volume": "100",
+            "author": "Gul",
+            "year": "2010",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta200841-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1006",
+            "DOI": "10.1111/j.1540-5907.2009.00413.x",
+            "volume": "53",
+            "author": "Hayes",
+            "year": "2009",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200841-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "208",
+            "DOI": "10.1016/0022-0531(77)90005-9",
+            "volume": "16",
+            "author": "Hinich",
+            "year": "1977",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "3",
+            "key": "ecta200841-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "814",
+            "DOI": "10.1162/rest_a_01204",
+            "volume": "106",
+            "author": "Jeong",
+            "year": "2024",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta200841-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "2590",
+            "DOI": "10.1257/aer.101.6.2590",
+            "volume": "101",
+            "author": "Kamenica",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200841-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.2307/1962588",
+            "volume": "81",
+            "author": "King",
+            "year": "1987",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200841-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.3982/ECTA18312",
+            "volume": "89",
+            "author": "Kleiner",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta200841-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.3982/TE1805",
+            "volume": "13",
+            "author": "Kolotilin",
+            "year": "2018",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200841-bib-0039",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kolotilin, Anton and Alexander Wolitzky (2020), \u201cThe Economics of Partisan Gerrymandering.\u201d Working Paper.",
+            "DOI": "10.2139/ssrn.3698690"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200841-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "1399",
+            "DOI": "10.3982/TE6057",
+            "volume": "19",
+            "author": "Kolotilin",
+            "year": "2024",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "ecta200841-bib-0041",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kolotilin, Anton and Alexander Wolitzky (2026), \u201cSupplement to \u2018The Economics of Partisan Gerrymandering\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA23609.",
+            "DOI": "10.3982/ECTA23609"
+        },
+        {
+            "issue": "4",
+            "key": "ecta200841-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "1334",
+            "DOI": "10.1086/734095",
+            "volume": "133",
+            "author": "Kolotilin",
+            "year": "2025",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta200841-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1949",
+            "DOI": "10.3982/ECTA13251",
+            "volume": "85",
+            "author": "Kolotilin",
+            "year": "2017",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta200841-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "561",
+            "DOI": "10.3982/TE4071",
+            "volume": "17",
+            "author": "Kolotilin",
+            "year": "2022",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200841-bib-0045",
+            "first-page": "9",
+            "volume": "203",
+            "author": "Lagarde",
+            "year": "2021",
+            "journal-title": "Mathematical Programming"
+        },
+        {
+            "key": "ecta200841-bib-0046",
+            "unstructured": "Li, Michael and Chris Leaverton (2022), \u201cGerrymandering Competitive Districts to Near Extinction.\u201d Brennan Center for Justice."
+        },
+        {
+            "key": "ecta200841-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "195",
+            "DOI": "10.1016/0047-2727(93)90084-7",
+            "volume": "51",
+            "author": "Lindbeck",
+            "year": "1993",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta200841-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1017/rep.2019.24",
+            "volume": "5",
+            "author": "Lublin",
+            "year": "2020",
+            "journal-title": "Journal of Race, Ethnicity, and Politics"
+        },
+        {
+            "key": "ecta200841-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "666",
+            "DOI": "10.1111/j.1540-5907.2009.00393.x",
+            "volume": "53",
+            "author": "McCarty",
+            "year": "2009",
+            "journal-title": "American Journal of Political Science"
+        },
+        {
+            "key": "ecta200841-bib-0050",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781316534342",
+            "volume-title": "Gerrymandering in America: The House of Representatives, the Supreme Court, and the Future of Popular Sovereignty",
+            "author": "McGann",
+            "year": "2016"
+        },
+        {
+            "issue": "1",
+            "key": "ecta200841-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "55",
+            "DOI": "10.1111/lsq.12033",
+            "volume": "39",
+            "author": "McGhee",
+            "year": "2014",
+            "journal-title": "Legislative Studies Quarterly"
+        },
+        {
+            "key": "ecta200841-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1146/annurev-polisci-060118-045351",
+            "volume": "23",
+            "author": "McGhee",
+            "year": "2020",
+            "journal-title": "Annual Review of Political Science"
+        },
+        {
+            "key": "ecta200841-bib-0053",
+            "unstructured": "Moscariello, Paola (2025), \u201cGerrymandering With Endogenous Candidates.\u201d Working Paper."
+        },
+        {
+            "key": "ecta200841-bib-0054",
+            "unstructured": "Newkirk, Vann R. (2017), \u201cHow Redistricting Became a Technological Arms Race.\u201d The Atlantic, 28 October."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200841-bib-0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1016/0260-9827(88)90032-8",
+            "volume": "7",
+            "author": "Owen",
+            "year": "1988",
+            "journal-title": "Political Geography Quarterly"
+        },
+        {
+            "key": "ecta200841-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "93",
+            "DOI": "10.1016/j.econlet.2009.06.008",
+            "volume": "105",
+            "author": "Puppe",
+            "year": "2009",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "ecta200841-bib-0057",
+            "unstructured": "Rakich, Nathaniel and Elena Mejia (2022), \u201cDid Redistricting Cost Democrats the House?\u201d https://fivethirtyeight.com/features/redistricting-house-2022/."
+        },
+        {
+            "key": "ecta200841-bib-0058",
+            "unstructured": "Rakich, Nathaniel and Nate Silver (2018), \u201cElection Update: The Most (and Least) Elastic States and Districts.\u201d https://fivethirtyeight.com/features/election-update-the-house-districts-that-swing-the-most-and-least-with-the-national-mood/."
+        },
+        {
+            "issue": "4",
+            "key": "ecta200841-bib-0059",
+            "first-page": "649",
+            "volume": "3",
+            "author": "Sabet",
+            "year": "2025",
+            "journal-title": "Journal of Political Economy: Microeconomics"
+        },
+        {
+            "key": "ecta200841-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "27",
+            "DOI": "10.1023/A:1004986314885",
+            "volume": "95",
+            "author": "Sherstyuk",
+            "year": "1998",
+            "journal-title": "Public Choice"
+        },
+        {
+            "key": "ecta200841-bib-0061",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shotts, Kenneth W. (2001), \u201cThe Effect of Majority-Minority Mandates on Partisan Gerrymandering.\u201d American Journal of Political Science, 120\u2013135.",
+            "DOI": "10.2307/2669363"
+        },
+        {
+            "key": "ecta200841-bib-0062",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shotts, Kenneth W. (2002), \u201cGerrymandering, Legislative Composition, and National Policy Outcomes.\u201d American Journal of Political Science, 398\u2013414.",
+            "DOI": "10.2307/3088384"
+        },
+        {
+            "key": "ecta200841-bib-0063",
+            "first-page": "831",
+            "volume": "82",
+            "author": "Stephanopoulos",
+            "year": "2015",
+            "journal-title": "University of Chicago Law Review"
+        },
+        {
+            "key": "ecta200841-bib-0064",
+            "first-page": "1263",
+            "volume": "69",
+            "author": "Wang",
+            "year": "2016",
+            "journal-title": "Stanford Law Review"
+        },
+        {
+            "key": "ecta200841-bib-0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1089/elj.2017.0447",
+            "volume": "17",
+            "author": "Warrington",
+            "year": "2018",
+            "journal-title": "Election Law Journal"
+        },
+        {
+            "key": "ecta200841-bib-0066",
+            "doi-asserted-by": "crossref",
+            "first-page": "251",
+            "DOI": "10.1086/661991",
+            "volume": "55",
+            "author": "Washington",
+            "year": "2012",
+            "journal-title": "Journal of Law and Economics"
+        },
+        {
+            "key": "ecta200841-bib-0067",
+            "unstructured": "Wasserman, David (2023), \u201cRealignment, More Than Redistricting, Has Decimated Swing House Seats.\u201d Cook Political Report."
+        },
+        {
+            "issue": "1",
+            "key": "ecta200841-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "142",
+            "DOI": "10.2307/1956016",
+            "volume": "77",
+            "author": "Wittman",
+            "year": "1983",
+            "journal-title": "American Political Science Review"
+        },
+        {
+            "issue": "8",
+            "key": "ecta200841-bib-0069",
+            "doi-asserted-by": "crossref",
+            "first-page": "2239",
+            "DOI": "10.1257/aer.20230330",
+            "volume": "114",
+            "author": "Yang",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                2
+            ]
+        ],
+        "date-time": "2026-02-02T11:57:40Z",
+        "timestamp": 1770033460000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA23609"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA23609"
+    ],
+    "URL": "https://doi.org/10.3982/ecta23609",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
