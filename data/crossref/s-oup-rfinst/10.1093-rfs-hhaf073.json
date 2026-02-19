@@ -1,0 +1,1091 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                21
+            ]
+        ],
+        "date-time": "2026-01-21T22:31:23Z",
+        "timestamp": 1769034683161,
+        "version": "3.49.0"
+    },
+    "reference-count": 86,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "2",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        9,
+                        18
+                    ]
+                ],
+                "date-time": "2025-09-18T00:00:00Z",
+                "timestamp": 1758153600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Professional house price forecast data are consistent with a rational model where agents must learn about the parameters of the house price growth process and the underlying state of the housing market. Slow learning about the long-run mean generates overreaction to forecast revisions and a modest response of forecasts to lagged realizations. Heterogeneity in signals and priors about the long-run mean helps the model account for cross-sectional dispersion in forecasts. Introducing behavioral frictions helps improve the model\u2019s predictions for short-horizon overreaction and dispersion. Using a cross-section of forecasters and a term structure of forecasts are crucial for inference.</jats:p>",
+    "DOI": "10.1093/rfs/hhaf073",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                16
+            ]
+        ],
+        "date-time": "2025-09-16T11:41:08Z",
+        "timestamp": 1758022868000
+    },
+    "page": "297-342",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Understanding Rationality and Disagreement in House Price Expectations"
+    ],
+    "prefix": "10.1093",
+    "volume": "39",
+    "author": [
+        {
+            "given": "Zigang",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Rotman School of Management, University of Toronto ,",
+                    "place": [
+                        "Canada"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Stijn",
+            "family": "Van Nieuwerburgh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Columbia Business School and NBER , , and",
+                    "place": [
+                        "United States"
+                    ]
+                },
+                {
+                    "name": "CEPR , , and",
+                    "place": [
+                        "United States"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Wang",
+            "family": "Renxuan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "China Europe International Business School (CEIBS) ,",
+                    "place": [
+                        "China"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                18
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2026012102520181700_hhaf073-B1",
+            "author": "Adam",
+            "year": "2024"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1713",
+            "DOI": "10.1093/qje/qjad009",
+            "article-title": "Overreaction in expectations: evidence and theory",
+            "volume": "138",
+            "author": "Afrouzi",
+            "year": "2023",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "3415",
+            "DOI": "10.1257/aer.20150491",
+            "article-title": "Housing wealth and consumption: Evidence from geographically-linked microdata",
+            "volume": "107",
+            "author": "Aladangady",
+            "year": "2017",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "3398",
+            "DOI": "10.1257/aer.20191766",
+            "article-title": "Reference dependence in the housing market",
+            "volume": "112",
+            "author": "Andersen",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "106",
+            "DOI": "10.1016/j.jmoneco.2016.08.007",
+            "article-title": "Fundamental disagreement",
+            "volume": "83",
+            "author": "Andrade",
+            "year": "2016",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qjx023",
+            "article-title": "Measuring the sensitivity of parameter estimates to estimation moments",
+            "volume": "132",
+            "author": "Andrews",
+            "year": "2017",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/712313",
+            "article-title": "Imperfect macroeconomic expectations: Evidence and theory",
+            "volume": "35",
+            "author": "Angeletos",
+            "year": "2021",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "1371",
+            "DOI": "10.1093/restud/rdy038",
+            "article-title": "Home price expectations and behaviour: Evidence from a randomized information experiment",
+            "volume": "86",
+            "author": "Armona",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "2224",
+            "DOI": "10.1086/700073",
+            "article-title": "The economic effects of social networks: Evidence from the housing market",
+            "volume": "126",
+            "author": "Bailey",
+            "year": "2018",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2403",
+            "DOI": "10.1093/restud/rdy068",
+            "article-title": "House price beliefs and mortgage leverage choice",
+            "volume": "86",
+            "author": "Bailey",
+            "year": "2019",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.jfineco.2014.08.007",
+            "article-title": "X-capm: An extrapolative capital asset pricing model",
+            "volume": "115",
+            "author": "Barberis",
+            "year": "2015",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B12",
+            "author": "Barberis",
+            "year": "2023"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "2269",
+            "DOI": "10.1257/aer.20201713",
+            "article-title": "Belief distortions and macroeconomic fluctuations",
+            "volume": "112",
+            "author": "Bianchi",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "2748",
+            "DOI": "10.1257/aer.20181219",
+            "article-title": "Overreaction in macroeconomic expectations",
+            "volume": "110",
+            "author": "Bordalo",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "2839",
+            "DOI": "10.1111/jofi.12833",
+            "article-title": "Diagnostic expectations and stock returns",
+            "volume": "74",
+            "author": "Bordalo",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "199",
+            "DOI": "10.1111/jofi.12586",
+            "article-title": "Diagnostic expectations and credit cycles",
+            "volume": "73",
+            "author": "Bordalo",
+            "year": "2018",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1334",
+            "DOI": "10.1162/rest_a_01210",
+            "article-title": "Forecaster (mis-)behavior",
+            "volume": "106",
+            "author": "Broer",
+            "year": "2022",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B18",
+            "author": "Case",
+            "year": "1988"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1353/eca.2012.0014",
+            "article-title": "What have they been thinking?: Homebuyer behavior in hot and cold markets",
+            "volume": "2012",
+            "author": "Case",
+            "year": "2012",
+            "journal-title": "Brookings Papers on Economic Activity"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "2267",
+            "DOI": "10.1257/aer.20240022",
+            "article-title": "Home price expectations and spending: Evidence from a field experiment",
+            "volume": "115",
+            "author": "Chopra",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "185",
+            "DOI": "10.1111/j.1468-2354.2008.00477.x",
+            "article-title": "Anticipated utility and rational expectations as approximations of bayesian decision making",
+            "volume": "49",
+            "author": "Cogley",
+            "year": "2008",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "645",
+            "DOI": "10.1257/aer.20221167",
+            "article-title": "The effect of macroeconomic uncertainty on household spending",
+            "volume": "114",
+            "author": "Coibion",
+            "year": "2024",
+            "journal-title": "American economic review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "116",
+            "DOI": "10.1086/665662",
+            "article-title": "What can survey forecasts tell us about information rigidities?",
+            "volume": "120",
+            "author": "Coibion",
+            "year": "2012",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "2644",
+            "DOI": "10.1257/aer.20110306",
+            "article-title": "Information rigidity and the expectations formation process: A simple framework and new facts",
+            "volume": "105",
+            "author": "Coibion",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "664",
+            "DOI": "10.1257/aer.20130392",
+            "article-title": "Parameter learning in general equilibrium: The asset pricing implications",
+            "volume": "106",
+            "author": "Collin-Dufresne",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "706",
+            "DOI": "10.1093/rfs/hhu084",
+            "article-title": "Investor information, long-run risk, and the term structure of equity",
+            "volume": "28",
+            "author": "Croce",
+            "year": "2015",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B27",
+            "volume-title": "Handbook of eonomic expectations",
+            "author": "Crump",
+            "year": "2023"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.1146/annurev-economics-091523-043659",
+            "article-title": "Why survey-based subjective expectations are meaningful and important",
+            "volume": "16",
+            "author": "D\u2019Acunto",
+            "year": "2024",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1257/jep.29.4.61",
+            "article-title": "Overconfident investors, predictable returns, and excessive trading",
+            "volume": "29",
+            "author": "Daniel",
+            "year": "2015",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B30",
+            "author": "d\u2019Arienzo",
+            "year": "2020"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "1238",
+            "DOI": "10.1111/1540-6229.12328",
+            "article-title": "House price history, biased expectations, and credit cycles: The role of housing investors",
+            "volume": "49",
+            "author": "De Stefani",
+            "year": "2021",
+            "journal-title": "Real Estate Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "776",
+            "DOI": "10.1017/S0266466602183101",
+            "article-title": "Two-step gmm estimation of the errors-in-variables model using high-order moments",
+            "volume": "18",
+            "author": "Erickson",
+            "year": "2002",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "3334",
+            "DOI": "10.1086/730207",
+            "article-title": "Learning about the long run",
+            "volume": "132",
+            "author": "Farmer",
+            "year": "2023",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "140",
+            "DOI": "10.1086/689606",
+            "article-title": "The macroeconomic effects of housing wealth, housing finance, and limited risk sharing in general equilibrium",
+            "volume": "125",
+            "author": "Favilukis",
+            "year": "2017",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B35",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1016/0304-3932(79)90022-9",
+            "article-title": "Optimal expectations and the extreme information assumptions of \u2018rational expectations\u2019 macromodels",
+            "volume": "5",
+            "author": "Friedman",
+            "year": "1979",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1257/jep.24.4.67",
+            "article-title": "Natural expectations and macroeconomic fluctuations",
+            "volume": "24",
+            "author": "Fuster",
+            "year": "2010",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1059",
+            "DOI": "10.1162/rest_a_00994",
+            "article-title": "Expectations with endogenous information acquisition: An experimental investigation",
+            "volume": "104",
+            "author": "Fuster",
+            "year": "2022",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1016/bs.hesbe.2018.11.001",
+            "volume-title": "Handbook of Behavioral Economics: Applications and Foundations 1",
+            "author": "Gabaix",
+            "year": "2019"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B39",
+            "author": "Gandhi",
+            "year": "2023"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "395",
+            "DOI": "10.1111/jofi.12971",
+            "article-title": "Learning from disagreement in the us treasury bond market",
+            "volume": "76",
+            "author": "Giacoletti",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "1481",
+            "DOI": "10.1257/aer.20200243",
+            "article-title": "Five facts about beliefs and portfolios",
+            "volume": "111",
+            "author": "Giglio",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "e2010316118",
+            "DOI": "10.1073/pnas.2010316118",
+            "article-title": "The joint dynamics of investor beliefs and trading during the covid-19 crash",
+            "volume": "118",
+            "author": "Giglio",
+            "year": "2021",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1016/j.jfineco.2017.06.012",
+            "article-title": "An extrapolative model of house price dynamics",
+            "volume": "126",
+            "author": "Glaeser",
+            "year": "2017",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B44",
+            "article-title": "Expectations formation and forward information",
+            "author": "Goldstein",
+            "year": "2023",
+            "journal-title": "Working Paper, Bar Ilan Universitys"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B45",
+            "author": "Greenwald",
+            "year": "2021"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1093/rfs/hht082",
+            "article-title": "Expectations of returns and expected returns",
+            "volume": "27",
+            "author": "Greenwood",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1093/restud/rdaa018",
+            "article-title": "Housing wealth effects: The long view",
+            "volume": "88",
+            "author": "Guren",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B48",
+            "author": "Jacobson",
+            "year": "2022"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.1093/qje/qjz012",
+            "article-title": "The rate of return on everything, 1870-2015",
+            "volume": "134",
+            "author": "Jord\u00e0",
+            "year": "2019",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "571",
+            "DOI": "10.3982/ECTA11412",
+            "article-title": "A rational theory of mutual funds\u2019 attention allocation",
+            "volume": "84",
+            "author": "Kacperczyk",
+            "year": "2016",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "3285",
+            "DOI": "10.1086/708816",
+            "article-title": "The housing boom and bust: Model meets evidence",
+            "volume": "128",
+            "author": "Kaplan",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B52",
+            "author": "Kim",
+            "year": "2023"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B53",
+            "author": "Kindermann",
+            "year": "2021"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B54",
+            "doi-asserted-by": "crossref",
+            "first-page": "2879",
+            "DOI": "10.1257/aer.20191432",
+            "article-title": "Asymmetric attention",
+            "volume": "111",
+            "author": "Kohlhas",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B55",
+            "doi-asserted-by": "crossref",
+            "first-page": "2839",
+            "DOI": "10.1086/707735",
+            "article-title": "The tail that wags the economy: Beliefs and persistent stagnation",
+            "volume": "128",
+            "author": "Kozlowski",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "2839",
+            "DOI": "10.1086/707735",
+            "article-title": "The tail that wags the economy: Beliefs and persistent stagnation",
+            "volume": "128",
+            "author": "Kozlowski",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "163",
+            "DOI": "10.1016/B978-0-12-822927-9.00013-6",
+            "volume-title": "Handbook of economic expectations",
+            "author": "Kuchler",
+            "year": "2023"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "2491",
+            "DOI": "10.1111/jofi.12819",
+            "article-title": "Personal experiences and expectations about aggregate outcomes",
+            "volume": "74",
+            "author": "Kuchler",
+            "year": "2019",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "1297",
+            "DOI": "10.3982/ECTA21004",
+            "article-title": "The effect of macroeconomic uncertainty on firm decisions",
+            "volume": "91",
+            "author": "Kumar",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B60",
+            "doi-asserted-by": "crossref",
+            "first-page": "1865",
+            "DOI": "10.1093/rfs/hhx026",
+            "article-title": "Housing demand during the boom: The role of expectations and credit constraints",
+            "volume": "30",
+            "author": "Landvoigt",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "1113",
+            "DOI": "10.1111/1540-6261.00456",
+            "article-title": "Learning, asset-pricing tests, and market efficiency",
+            "volume": "57",
+            "author": "Lewellen",
+            "year": "2002",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B62",
+            "author": "Liu",
+            "year": "2021"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B63",
+            "doi-asserted-by": "crossref",
+            "first-page": "2050",
+            "DOI": "10.1257/aer.99.5.2050",
+            "article-title": "A theory of demand shocks",
+            "volume": "99",
+            "author": "Lorenzoni",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B64",
+            "author": "Lyons",
+            "year": "2024"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B65",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.1257/aer.99.3.769",
+            "article-title": "Optimal sticky prices under rational inattention",
+            "volume": "99",
+            "author": "Mackowiak",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B66",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.1093/qje/qjq004",
+            "article-title": "Depression babies: Do macroeconomic experiences afect risk taking?",
+            "volume": "126",
+            "author": "Malmendier",
+            "year": "2011",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1093/qje/qjv037",
+            "article-title": "Learning from inflation experiences",
+            "volume": "131",
+            "author": "Malmendier",
+            "year": "2016",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B68",
+            "author": "Malmendier",
+            "year": "2022"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "1295",
+            "DOI": "10.1162/003355302320935034",
+            "article-title": "Sticky information versus sticky prices: a proposal to replace the new keynesian phillips curve",
+            "volume": "117",
+            "author": "Mankiw",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1086/ma.18.3585256",
+            "article-title": "Disagreement about inflation expectations",
+            "volume": "18",
+            "author": "Mankiw",
+            "year": "2003",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B71",
+            "doi-asserted-by": "crossref",
+            "first-page": "1687",
+            "DOI": "10.1093/qje/qjt020",
+            "article-title": "Household balance sheets, consumption, and the economic slump",
+            "volume": "128",
+            "author": "Mian",
+            "year": "2013",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B72",
+            "first-page": "3",
+            "volume-title": "Economic forecasts and expectations: Analysis of forecasting behavior and performance",
+            "author": "Mincer",
+            "year": "1969"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B73",
+            "doi-asserted-by": "crossref",
+            "first-page": "2190",
+            "DOI": "10.1093/rfs/hhab086",
+            "article-title": "Asset pricing with fading memory",
+            "volume": "35",
+            "author": "Nagel",
+            "year": "2022",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B74",
+            "doi-asserted-by": "crossref",
+            "first-page": "105905",
+            "DOI": "10.1016/j.jet.2024.105905",
+            "article-title": "Understanding uncertainty shocks and the role of black swans",
+            "volume": "222",
+            "author": "Orlik",
+            "year": "2024",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B75",
+            "doi-asserted-by": "crossref",
+            "first-page": "803",
+            "DOI": "10.1016/j.jmoneco.2010.07.001",
+            "article-title": "Why do forecasters disagree? lessons from the term structure of cross-sectional dispersion",
+            "volume": "57",
+            "author": "Patton",
+            "year": "2010",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B76",
+            "author": "Renxuan",
+            "year": "2021"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B77",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1016/S0304-3932(03)00029-1",
+            "article-title": "Implications of rational inattention",
+            "author": "Sims",
+            "year": "2003",
+            "journal-title": "Journal of Monetary Economics 50"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B78",
+            "doi-asserted-by": "crossref",
+            "first-page": "1611",
+            "DOI": "10.1111/jofi.13062",
+            "article-title": "Presidential address: How much \u201crationality\u201d is there in bond market risk premiums?",
+            "volume": "76",
+            "author": "Singleton",
+            "year": "2021",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B79",
+            "doi-asserted-by": "crossref",
+            "first-page": "3173",
+            "DOI": "10.1257/aer.20171449",
+            "article-title": "Identifying the benefits from homeownership: A swedish experiment",
+            "volume": "113",
+            "author": "Sodini",
+            "year": "2023",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B80",
+            "doi-asserted-by": "crossref",
+            "first-page": "1135",
+            "DOI": "10.2307/2118462",
+            "article-title": "How learning in financial markets generates excess volatility and predictability in stock prices",
+            "volume": "108",
+            "author": "Timmermann",
+            "year": "1993",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B81",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1111/j.1540-6261.2009.01462.x",
+            "article-title": "Information immobility and the home bias puzzle",
+            "volume": "64",
+            "author": "Van Nieuwerburgh",
+            "year": "2009",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B82",
+            "doi-asserted-by": "crossref",
+            "first-page": "779",
+            "DOI": "10.1111/j.1467-937X.2009.00583.x",
+            "article-title": "Information acquisition and under-diversification",
+            "volume": "77",
+            "author": "Van Nieuwerburgh",
+            "year": "2010",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B83",
+            "author": "Vestman",
+            "year": "2023"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B84",
+            "doi-asserted-by": "crossref",
+            "first-page": "157",
+            "DOI": "10.1257/jep.36.3.157",
+            "article-title": "The subjective inflation expectations of households and firms: Measurement, determinants, and implications",
+            "volume": "36",
+            "author": "Weber",
+            "year": "2022",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B85",
+            "doi-asserted-by": "crossref",
+            "first-page": "861",
+            "DOI": "10.1111/1467-937X.00270",
+            "article-title": "Optimal interest-rate smoothing",
+            "volume": "70",
+            "author": "Woodford",
+            "year": "2003",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026012102520181700_hhaf073-B86",
+            "doi-asserted-by": "crossref",
+            "first-page": "S100",
+            "DOI": "10.1016/j.jmoneco.2009.06.014",
+            "article-title": "Information-constrained state-dependent pricing",
+            "volume": "56",
+            "author": "Woodford",
+            "year": "2009",
+            "journal-title": "Journal of Monetary Economics"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf073/64314098/hhaf073.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf073/64314098/hhaf073.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf073/64314098/hhaf073.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                21
+            ]
+        ],
+        "date-time": "2026-01-21T07:52:17Z",
+        "timestamp": 1768981937000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/39/2/297/8257601"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Tarun",
+            "family": "Ramadorai",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                18
+            ]
+        ]
+    },
+    "references-count": 86,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    9,
+                    18
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2026,
+                    2,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhaf073",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2026,
+                2
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                18
+            ]
+        ]
+    }
+}

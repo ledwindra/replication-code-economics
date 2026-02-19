@@ -1,0 +1,680 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                22
+            ]
+        ],
+        "date-time": "2026-01-22T16:57:48Z",
+        "timestamp": 1769101068696,
+        "version": "3.49.0"
+    },
+    "reference-count": 42,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        3,
+                        21
+                    ]
+                ],
+                "date-time": "2025-03-21T00:00:00Z",
+                "timestamp": 1742515200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study identification and inference in first-price auctions with risk-averse bidders and selective entry, building on a flexible framework we call the Affiliated Signal with Risk Aversion (AS-RA) model. Assuming exogenous variation in either the number of potential bidders (N) or a continuous instrument (z) shifting opportunity costs of entry, we provide a sharp characterization of the nonparametric restrictions implied by equilibrium bidding. This characterization implies that risk neutrality is nonparametrically testable. In addition, with sufficient variation in both N and z, the AS-RA model primitives are nonparametrically identified (up to a bounded constant) on their equilibrium domains. Finally, we explore new methods for inference in set-identified auction models based on Chen et al. (2018, Econometrica, vol. 86, 1965\u20132018), as well as novel and fast computational strategies using Mathematical Programming with Equilibrium Constraints. Simulation studies reveal the good finite-sample performance of our inference methods, which can readily be adapted to other set-identified flexible equilibrium models with parameter-dependent support.</jats:p>",
+    "DOI": "10.1093/restud/rdaf016",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                11
+            ]
+        ],
+        "date-time": "2025-03-11T08:28:31Z",
+        "timestamp": 1741681711000
+    },
+    "page": "366-403",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Identification and Inference in First-Price Auctions with Risk-Averse Bidders and Selective Entry"
+    ],
+    "prefix": "10.1093",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Xiaohong",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Matthew",
+            "family": "Gentry",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Florida State University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Tong",
+            "family": "Li",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Vanderbilt University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        },
+        {
+            "given": "Jingfeng",
+            "family": "Lu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, National University of Singapore ,",
+                    "place": [
+                        "Singapore"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                21
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2026011312491878300_rdaf016-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "809",
+            "DOI": "10.3982/QE469",
+            "article-title": "Identification of Time and Risk Preferences in Buy-Price Auctions",
+            "volume": "8",
+            "author": "Ackerberg",
+            "year": "2017",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/ECTA14030",
+            "article-title": "Quantile Selection Models with an Application to Understanding Changes in Wage Inequality",
+            "volume": "85",
+            "author": "Arellano",
+            "year": "2017",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "375",
+            "DOI": "10.1086/319558",
+            "article-title": "Information and Competition in U.S. Forest Service Timber Auctions",
+            "volume": "109",
+            "author": "Athey",
+            "year": "2001",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.1093/qje/qjq001",
+            "article-title": "Comparing Open and Sealed bid Auctions: Evidence from Timber Auctions",
+            "volume": "126",
+            "author": "Athey",
+            "year": "2011",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "329",
+            "DOI": "10.2307/1593721",
+            "article-title": "The Winner\u2019s Curse, Reserve Prices, and Endogenous Entry: Empirical Insights from EBay Auctions",
+            "volume": "34",
+            "author": "Bajari",
+            "year": "2003",
+            "journal-title": "The Rand Journal of Economics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "703",
+            "DOI": "10.1086/432138",
+            "article-title": "Are Structural Estimates of Auction Models Reasonable? Evidence from Experimental Data",
+            "volume": "113",
+            "author": "Bajari",
+            "year": "2005",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.1093/restud/rdq001",
+            "article-title": "Semiparametric Estimation of First-Price Auctions with Risk-Averse Bidders",
+            "volume": "78",
+            "author": "Campo",
+            "year": "2011",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "5549",
+            "DOI": "10.1016/S1573-4412(07)06076-X",
+            "volume-title": "Handbook of Econometrics",
+            "author": "Chen",
+            "year": "2007"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1965",
+            "DOI": "10.3982/ECTA14525",
+            "article-title": "Monte Carlo Confidence Sets for Identified Sets",
+            "volume": "86",
+            "author": "Chen",
+            "year": "2018",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1445",
+            "DOI": "10.1111/j.1468-0262.2004.00540.x",
+            "article-title": "Likelihood Estimation and Inference in a Class of Nonregular Econometric Models",
+            "volume": "72",
+            "author": "Chernozhukov",
+            "year": "2004",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.2307/2526953",
+            "article-title": "Piecewise Pseudo-Maximum Likelihood Estimation in Empirical Models of Auctions",
+            "volume": "34",
+            "author": "Donald",
+            "year": "1993",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "836",
+            "DOI": "10.1080/01621459.2000.10474275",
+            "article-title": "Geometric Understanding of Likelihood Ratio Statistics",
+            "volume": "95",
+            "author": "Fan",
+            "year": "2000",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "315",
+            "DOI": "10.3982/ECTA10293",
+            "article-title": "Identification in Auctions with Selective Entry",
+            "volume": "82",
+            "author": "Gentry",
+            "year": "2014",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "298",
+            "DOI": "10.1016/j.jfineco.2018.10.007",
+            "article-title": "Entry and Competition in Takeover Auctions",
+            "volume": "132",
+            "author": "Gentry",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B15",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781139029834",
+            "volume-title": "Fundamentals of Nonparametric Bayesian Inference",
+            "author": "Ghosal",
+            "year": "2017"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B42",
+            "doi-asserted-by": "crossref",
+            "first-page": "525",
+            "DOI": "10.1111/1468-0262.00123",
+            "article-title": "Optimal Nonparametric Estimation of First-Price Auctions",
+            "volume": "68",
+            "author": "Guerre",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1193",
+            "DOI": "10.3982/ECTA7028",
+            "article-title": "Nonparametric Identification of Risk Aversion in First-Price Auctions under Exclusion Restrictions",
+            "volume": "77",
+            "author": "Guerre",
+            "year": "2009",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B17",
+            "author": "Haile",
+            "year": "2003"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/344801",
+            "article-title": "Inference with an Incomplete Model of English Auctions",
+            "volume": "111",
+            "author": "Haile",
+            "year": "2003",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "115",
+            "DOI": "10.1111/1467-937X.00239",
+            "article-title": "Empirical Implications of Equilibrium Bidding in First Price, Symmetric, Common Value Auctions",
+            "volume": "70",
+            "author": "Hendricks",
+            "year": "2003",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1307",
+            "DOI": "10.1111/1468-0262.00451",
+            "article-title": "Asymptotic Efficiency in Parametric Structural Models with Parameter-Dependent Support",
+            "volume": "71",
+            "author": "Hirano",
+            "year": "2003",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B21",
+            "author": "Kong",
+            "year": "2017"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "840",
+            "DOI": "10.1111/1756-2171.12342",
+            "article-title": "Not Knowing the Competition: Evidence and Implications for Auction Design",
+            "volume": "51",
+            "author": "Kong",
+            "year": "2020",
+            "journal-title": "The Rand Journal of Economics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2653",
+            "DOI": "10.1257/aer.101.6.2653",
+            "article-title": "Bid Preference Programs and Participation in Highway Procurement Auctions",
+            "volume": "101",
+            "author": "Krasnokutskaya",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B24",
+            "first-page": "585",
+            "article-title": "Equilibrium in Auctions with Entry",
+            "volume": "84",
+            "author": "Levin",
+            "year": "1994",
+            "journal-title": "The American Economic Review"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B25",
+            "first-page": "341",
+            "article-title": "Hidden Reserve Prices with Risk Averse Bidders",
+            "volume": "12",
+            "author": "Li",
+            "year": "2017",
+            "journal-title": "Frontiers of Economics in China"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "524",
+            "DOI": "10.1111/1756-2171.12096",
+            "article-title": "Auctions with Selective Entry and Risk Averse Bidders: Theory and Evidence",
+            "volume": "46",
+            "author": "Li",
+            "year": "2015",
+            "journal-title": "The Rand Journal of Economics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "837",
+            "DOI": "10.1111/j.1468-2354.2010.00603.x",
+            "article-title": "Testing for Affiliation in First-Price Auctions Using Entry Behavior",
+            "volume": "51",
+            "author": "Li",
+            "year": "2010",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1397",
+            "DOI": "10.1111/j.1467-937X.2009.00558.x",
+            "article-title": "Entry and Competition Effects in First-Price Auctions: Theory and Evidence from Procurement Auctions",
+            "volume": "76",
+            "author": "Li",
+            "year": "2009",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1007/s00199-008-0331-2",
+            "article-title": "Auction Design with Opportunity Cost",
+            "volume": "38",
+            "author": "Lu",
+            "year": "2009",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1002/jae.1032",
+            "article-title": "Estimating Risk Aversion from Ascending and Sealed-Bid Auctions: The Case of Timber Auction Data",
+            "volume": "23",
+            "author": "Lu",
+            "year": "2008",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "519",
+            "DOI": "10.1111/1468-0262.00294",
+            "article-title": "Inference on Regressions with Interval Data on a Regressor or Outcome",
+            "volume": "70",
+            "author": "Manski",
+            "year": "2002",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1016/j.jeconom.2013.04.005",
+            "article-title": "What Model for Entry in First-Price Auctions? A Nonparametric Approach",
+            "volume": "176",
+            "author": "Marmer",
+            "year": "2013",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1473",
+            "DOI": "10.2307/1913516",
+            "article-title": "Optimal Auctions with Risk-Averse Bidders",
+            "volume": "52",
+            "author": "Maskin",
+            "year": "1984",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "633",
+            "DOI": "10.2307/1913603",
+            "article-title": "Comparing Auctions for Risk Averse Buyers: A Buyer\u2019s Point of View",
+            "volume": "55",
+            "author": "Matthews",
+            "year": "1987",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B35",
+            "first-page": "355",
+            "volume-title": "Handbook of Econometrics",
+            "author": "Molinari",
+            "year": "2020"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B36",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4757-3076-0",
+            "volume-title": "An Introduction to Copulas",
+            "author": "Nelsen",
+            "year": "1999"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1830",
+            "DOI": "10.1257/aer.103.5.1830",
+            "article-title": "When Should Sellers use Auctions?",
+            "volume": "103",
+            "author": "Roberts",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B38",
+            "doi-asserted-by": "crossref",
+            "first-page": "53",
+            "DOI": "10.1016/0165-1765(85)90126-0",
+            "article-title": "Competitive Bidding with Entry Costs",
+            "volume": "17",
+            "author": "Samuelson",
+            "year": "1985",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1006/jeth.1996.0031",
+            "article-title": "Ranking Auctions with Risk Averse Bidders",
+            "volume": "68",
+            "author": "Smith",
+            "year": "1996",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "2213",
+            "DOI": "10.3982/ECTA7925",
+            "article-title": "Constrained Optimization Approaches to Estimation of Structural Models",
+            "volume": "80",
+            "author": "Su",
+            "year": "2012",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312491878300_rdaf016-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1016/j.geb.2005.12.004",
+            "article-title": "Indicative Bidding and a Theory of Two-Stage Auctions",
+            "volume": "58",
+            "author": "Ye",
+            "year": "2007",
+            "journal-title": "Games and Economic Behavior"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdaf016/62518984/rdaf016.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/93/1/366/62518984/rdaf016.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/93/1/366/62518984/rdaf016.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2026-01-13T17:49:28Z",
+        "timestamp": 1768326568000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/93/1/366/8089903"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                21
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    3,
+                    21
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2026,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdaf016",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2026,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                3,
+                21
+            ]
+        ]
+    }
+}

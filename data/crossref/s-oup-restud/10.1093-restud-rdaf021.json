@@ -1,0 +1,555 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                14
+            ]
+        ],
+        "date-time": "2026-01-14T01:51:11Z",
+        "timestamp": 1768355471506,
+        "version": "3.49.0"
+    },
+    "reference-count": 40,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        4,
+                        4
+                    ]
+                ],
+                "date-time": "2025-04-04T00:00:00Z",
+                "timestamp": 1743724800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                13
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>We study sequential experiments where sampling is costly and a decision-maker aims to determine the best treatment for full-scale implementation by (1) adaptively allocating units between two possible treatments, and (2) stopping the experiment when the expected welfare (inclusive of sampling costs) from implementing the chosen treatment is maximised. Working under a continuous time limit, we characterise the optimal policies under the minimax regret criterion. We show that the same policies also remain optimal under both parametric and non-parametric outcome distributions in an asymptotic regime where sampling costs approach zero. The minimax optimal sampling rule is just the Neyman allocation: it is independent of sampling costs and does not adapt to observed outcomes. The decision-maker halts sampling when the product of the average treatment difference and the number of observations surpasses a specific threshold. The results derived also apply to the so-called best-arm identification problem, where the number of observations is exogenously specified.</jats:p>",
+    "DOI": "10.1093/restud/rdaf021",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2025-04-02T10:52:47Z",
+        "timestamp": 1743591167000
+    },
+    "page": "1-34",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "How to Sample and When to Stop Sampling: The Generalised Wald Problem and Minimax Policies"
+    ],
+    "prefix": "10.1093",
+    "volume": "93",
+    "author": [
+        {
+            "given": "Karun",
+            "family": "Adusumilli",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Pennsylvania ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                4
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2026011312473834700_rdaf021-B1",
+            "author": "Adusumilli",
+            "year": "2021"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B2",
+            "author": "Armstrong",
+            "year": "2022"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.2307/1905525",
+            "article-title": "Bayes and Minimax Solutions of Sequential Decision Problems",
+            "volume": "17",
+            "author": "Arrow",
+            "year": "1949",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "403",
+            "DOI": "10.1056/NEJMoa2035389",
+            "article-title": "Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine",
+            "volume": "384",
+            "author": "Baden",
+            "year": "2021",
+            "journal-title": "New England Journal of Medicine"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B5",
+            "volume-title": "Statistical Decision Theory and Bayesian Analysis",
+            "author": "Berger",
+            "year": "2013"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "755",
+            "DOI": "10.1214/aoms/1177706205",
+            "article-title": "Sequential Design of Experiments",
+            "volume": "30",
+            "author": "Chernoff",
+            "year": "1959",
+            "journal-title": "The Annals of Mathematical Statistics"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "119",
+            "DOI": "10.1093/biomet/68.1.119",
+            "article-title": "Sequential Medical Trials Involving Paired Data",
+            "volume": "68",
+            "author": "Chernoff",
+            "year": "1981",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "388",
+            "DOI": "10.1080/01621459.1963.10500853",
+            "article-title": "A Model for Selecting One of Two Medical Treatments",
+            "volume": "58",
+            "author": "Colton",
+            "year": "1963",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1145/2433396.2433413",
+            "article-title": "Improving the Sensitivity of Online Controlled Experiments by Utilizing Pre-Experiment Data",
+            "author": "Deng",
+            "year": "2013",
+            "journal-title": "Proceedings of the sixth ACM international conference on Web search and data mining"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0022-0531(03)00097-8",
+            "article-title": "Recursive Multiple-Priors",
+            "volume": "113",
+            "author": "Epstein",
+            "year": "2003",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B11",
+            "author": "Fan",
+            "year": "2021"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1257/jep.25.4.3",
+            "article-title": "Neuroeconomic Foundations of Economic Choice\u2013Recent Advances",
+            "volume": "25",
+            "author": "Fehr",
+            "year": "2011",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "3651",
+            "DOI": "10.1257/aer.20150742",
+            "article-title": "Speed, Accuracy, and the Optimal Timing of Choices",
+            "volume": "108",
+            "author": "Fudenberg",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B14",
+            "first-page": "1",
+            "article-title": "Optimal Best Arm Identification With Fixed Confidence",
+            "volume": "49",
+            "author": "Garivier",
+            "year": "2016",
+            "journal-title": "Conference on Learning Theory (PMLR)"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B15",
+            "author": "H\u00e9bert",
+            "year": "2017"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1683",
+            "DOI": "10.3982/ECTA6630",
+            "article-title": "Asymptotics for Statistical Treatment Rules",
+            "volume": "77",
+            "author": "Hirano",
+            "year": "2009",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B17",
+            "volume-title": "Brownian Motion and Stochastic Calculus",
+            "author": "Karatzas",
+            "year": "2012"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "7024",
+            "DOI": "10.1287/mnsc.2023.4964",
+            "article-title": "Weak Signal Asymptotics for Sequentially Randomised Experiments",
+            "volume": "70",
+            "author": "Kuang",
+            "year": "2024",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "3135",
+            "DOI": "10.1073/pnas.77.6.3135",
+            "article-title": "Sequential Medical Trials",
+            "volume": "77",
+            "author": "Lai",
+            "year": "1980",
+            "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B20",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108571401",
+            "volume-title": "Bandit Algorithms",
+            "author": "Lattimore",
+            "year": "2020"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.3982/ECTA18324",
+            "article-title": "Dynamically Aggregating Diverse Information",
+            "volume": "90",
+            "author": "Liang",
+            "year": "2022",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B22",
+            "volume-title": "Response Times: Their Role in Inferring Elementary Mental Organisation",
+            "author": "Luce",
+            "year": "1986"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "2827",
+            "DOI": "10.3982/ECTA17985",
+            "article-title": "Econometrics for Decision Making: Building Foundations Sketched by Haavelmo and Wald",
+            "volume": "89",
+            "author": "Manski",
+            "year": "2021",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "10518",
+            "DOI": "10.1073/pnas.1612174113",
+            "article-title": "Sufficient Trial Size to Inform Clinical Practice",
+            "volume": "113",
+            "author": "Manski",
+            "year": "2016",
+            "journal-title": "Proceedings of the National Academy of Sciences of the United States of America"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B25",
+            "doi-asserted-by": "crossref",
+            "first-page": "1451",
+            "DOI": "10.1001/jamainternmed.2018.3931",
+            "article-title": "Estimated Costs of Pivotal Trials for Novel Therapeutic Agents Approved by the US Food and Drug Administration, 2015\u20132016",
+            "volume": "178",
+            "author": "Moore",
+            "year": "2018",
+            "journal-title": "JAMA Internal Medicine"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B26",
+            "author": "Morris",
+            "year": "2019"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B27",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-642-14394-6",
+            "volume-title": "Stochastic Differential Equations",
+            "author": "\u00d8ksendal",
+            "year": "2003"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B28",
+            "first-page": "5387",
+            "article-title": "Improving the Expected Improvement Algorithm",
+            "volume": "30",
+            "author": "Qin",
+            "year": "2017",
+            "journal-title": "Advances in Neural Information Processing Systems"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B29",
+            "author": "Qin",
+            "year": "2022"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "873",
+            "DOI": "10.1162/neco.2008.12-06-420",
+            "article-title": "The Diffusion Decision Model: Theory and Data for Two-Choice Decision Tasks",
+            "volume": "20",
+            "author": "Ratcliff",
+            "year": "2008",
+            "journal-title": "Neural Computation"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B31",
+            "doi-asserted-by": "crossref",
+            "first-page": "285",
+            "DOI": "10.1080/17442509808834137",
+            "article-title": "Viscosity Solutions of Optimal Stopping Problems",
+            "volume": "62",
+            "author": "Reikvam",
+            "year": "1998",
+            "journal-title": "Stochastics and Stochastic Reports"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B32",
+            "volume-title": "Optimal Stopping Rules",
+            "author": "Shiryaev",
+            "year": "2007"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "665",
+            "DOI": "10.1016/S0304-3932(03)00029-1",
+            "article-title": "Implications of Rational Inattention",
+            "volume": "50",
+            "author": "Sims",
+            "year": "2003",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.2140/pjm.1958.8.171",
+            "article-title": "On General Minimax Theorems",
+            "volume": "8",
+            "author": "Sion",
+            "year": "1958",
+            "journal-title": "Pacific Journal of Mathematics"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B35",
+            "author": "US Food and Drug Admin",
+            "year": "2018"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B36",
+            "author": "US Food and Drug Admin",
+            "year": "2019"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B37",
+            "volume-title": "Asymptotic Statistics",
+            "author": "van der Vaart",
+            "year": "2000"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B38",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4757-2545-2",
+            "volume-title": "Weak Convergence and Empirical Processes: With Applications to Statistics",
+            "author": "van der Vaart",
+            "year": "1996"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.2307/1969022",
+            "article-title": "Statistical Decision Functions Which Minimize the Maximum Risk",
+            "volume": "46",
+            "author": "Wald",
+            "year": "1945",
+            "journal-title": "Annals of Mathematics"
+        },
+        {
+            "key": "2026011312473834700_rdaf021-B40",
+            "volume-title": "Sequential Analysis",
+            "author": "Wald",
+            "year": "1947"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdaf021/62858558/rdaf021.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/93/1/1/62858558/rdaf021.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/93/1/1/62858558/rdaf021.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                1,
+                13
+            ]
+        ],
+        "date-time": "2026-01-13T17:47:50Z",
+        "timestamp": 1768326470000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/93/1/1/8105820"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                4
+            ]
+        ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+        "issue": "1",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    4,
+                    4
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2026,
+                    1,
+                    13
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdaf021",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2026,
+                1
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                4,
+                4
+            ]
+        ]
+    }
+}
