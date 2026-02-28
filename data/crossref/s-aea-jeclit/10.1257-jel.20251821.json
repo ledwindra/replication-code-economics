@@ -1,0 +1,302 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                26
+            ]
+        ],
+        "date-time": "2026-02-26T15:16:54Z",
+        "timestamp": 1772119014770,
+        "version": "3.50.1"
+    },
+    "reference-count": 25,
+    "publisher": "American Economic Association",
+    "issue": "1",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p>This paper describes a process for generating academic papers using large language models (LLMs) and demonstrates this process\u2019s efficacy by producing hundreds of complete papers on stock return predictability, a topic well-suited for our illustration. After mining over 30,000 potential return predictors from accounting data, we generate template reports for 95 signals passing rigorous criteria from the Novy-Marx and Velikov (2024) Assaying Anomalies protocol. These templates detail signal performance predicting returns using a wide array of tests and benchmark performance against more than 200 documented anomalies. Finally, for each template we use state-of-the-art LLMs to generate multiple complete versions of academic papers with distinct theoretical justifications for the observed return predictability, incorporating citations to literature supporting their respective claims. This experiment illustrates the potential of artificial intelligence (AI) for enhancing financial research efficiency, but also serves as a cautionary tale, illustrating how it can be abused to industrialize hypothesizing after results are known (HARKing). ( JEL C12, C45, G12, G17)</jats:p>",
+    "DOI": "10.1257/jel.20251821",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                26
+            ]
+        ],
+        "date-time": "2026-02-26T14:09:45Z",
+        "timestamp": 1772114985000
+    },
+    "page": "5-37",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Artificial Intelligence\u2013Powered (Finance) Scholarship"
+    ],
+    "prefix": "10.1257",
+    "volume": "64",
+    "author": [
+        {
+            "given": "Robert",
+            "family": "Novy-Marx",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Simon Business School, University of Rochester, and NBER."
+                }
+            ]
+        },
+        {
+            "given": "Mihail",
+            "family": "Velikov",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Smeal College of Business, Pennsylvania State University."
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.2314021121"
+        },
+        {
+            "key": "p_4",
+            "first-page": "2025",
+            "volume": "22",
+            "author": "Cai Kenrick",
+            "year": "2025",
+            "journal-title": "Reuters"
+        },
+        {
+            "key": "p_5",
+            "unstructured": "Chen, Andrew Y., and Chukwuma Dim. 2025. \"High-Throughput Asset Pricing.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.2311.10685."
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1561/104.00000112"
+        },
+        {
+            "key": "p_7",
+            "first-page": "10317",
+            "volume": "2212",
+            "author": "Chen Andrew Y",
+            "year": "2025",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhaa018"
+        },
+        {
+            "key": "p_9",
+            "unstructured": "CRSP. 1926-2024. CRSP US Stock Database. CRSP, distributed by University of Chicago Booth School of Business. https://www.crsp.org/research/crsp-us-stock-databases/ (accessed October 23, 2025)."
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2018.02.012"
+        },
+        {
+            "key": "p_11",
+            "unstructured": "Google DeepMind. 2025. \"Accelerating Discovery with the AI for Math Initiative .\" https://blog.google/technology/ google-deepmind/ai-for-math/ (accessed November 3, 2025)."
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Horton, John J. 2023. \"Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?\" NBER Working Paper 31122.",
+            "DOI": "10.3386/w31122"
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhy131"
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1207/s15327957pspr0203_4"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Korinek, Anton. 2023. \"Language Models and Cognitive Automation for Economic Research.\" NBER Working Paper 30957.",
+            "DOI": "10.3386/w30957"
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Korinek, Anton. 2025. \"AI Agents for Economic Research: August 2025 Update to `Generative AI for Economic Research: Use Cases and Implications for Economists,' published in the Journal of Economic Literature 61 (4).\"",
+            "DOI": "10.1257/jel.20231736"
+        },
+        {
+            "key": "p_17",
+            "unstructured": "Liang, Weixin, Yaohui Zhang, Zhengxuan Wu, Haley Lepp, Wenlong Ji, Xuandong Zhao, Hancheng Cao, et al. 2024. \"Mapping the Increasing Use of LLMs in Scientific Papers.\" Preprint, arXiv. https://doi.org/10.48550/ arXiv.2404.01268."
+        },
+        {
+            "key": "p_18",
+            "first-page": "06292",
+            "volume": "2408",
+            "author": "Lu Chris",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Manning, Benjamin S., Kehang Zhu, and John J. Horton. 2024. \"Automated Social Science: Language Models as Scientist and Subjects.\" NBER Working Paper 32381.",
+            "DOI": "10.3386/w32381"
+        },
+        {
+            "key": "p_20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Novy-Marx, Robert, and Mihail Velikov. 2024. \"Assaying Anomalies.\" Preprint, SSRN. http://dx.doi.org/10.2139/ ssrn.4338007.",
+            "DOI": "10.2139/ssrn.4338007"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Novy-Marx, Robert, and Mihail Velikov. 2026. Code for: \"Artificial Intelligence-Powered (Finance) Scholarship.\" American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E240109V1.",
+            "DOI": "10.3386/w33363"
+        },
+        {
+            "key": "p_22",
+            "first-page": "04109",
+            "volume": "2409",
+            "author": "Si Chenglei",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/466856"
+        },
+        {
+            "key": "p_24",
+            "unstructured": "Standard & Poor's. 1950-2024. Compustat North America Fundamentals Annual. S&P Global Market Intelligence, Wharton Research Data Services. https://wrds-www.wharton.upenn.edu/demo/compustat/form/ (accessed October 23, 2025)."
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Walther, Thomas, and Marie Dutordoir. 2025. \"Certainly! Generative AI and Its Impact on Academic Writing (in Finance).\" Preprint, SSRN. http://dx.doi.org/10.2139/ssrn.5317993.",
+            "DOI": "10.2139/ssrn.5317993"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1287/mnsc.2024.04528"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhx001"
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20251821",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                2,
+                26
+            ]
+        ],
+        "date-time": "2026-02-26T14:10:34Z",
+        "timestamp": 1772115034000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20251821"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                1
+            ]
+        ]
+    },
+    "references-count": 25,
+    "journal-issue": {
+        "issue": "1",
+        "published-print": {
+            "date-parts": [
+                [
+                    2026,
+                    3,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20251821"
+    ],
+    "URL": "https://doi.org/10.1257/jel.20251821",
+    "relation": {},
+    "ISSN": [
+        "0022-0515",
+        "2328-8175"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        },
+        {
+            "value": "2328-8175",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                1
+            ]
+        ]
+    }
+}
