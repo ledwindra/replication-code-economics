@@ -1,0 +1,524 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2026-03-27T17:21:13Z",
+        "timestamp": 1774632073196,
+        "version": "3.50.1"
+    },
+    "reference-count": 37,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000781",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000781",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We propose a novel optimal transport\u2010based version of the Generalized Method of Moment (GMM). Instead of handling overidentification by reweighting the data to satisfy the moment conditions (as in Generalized Empirical Likelihood methods), this method proceeds by allowing for errors in the variables of the least mean\u2010square magnitude necessary to simultaneously satisfy all moment conditions. This approach, based on the notions of optimal transport and Wasserstein metric, aims to address the problem of assigning a logical interpretation to GMM results even when overidentification tests reject the null, a situation that cannot always be avoided in applications. We illustrate the method by revisiting Duranton, Morrow and Turner's (2014) study of the relationship between a city's exports and the extent of its transportation infrastructure. Our results corroborate theirs under weaker assumptions and provide insight into the error structure of the variables.</jats:p>",
+    "DOI": "10.3982/ecta22486",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2026-03-27T06:11:56Z",
+        "timestamp": 1774591916000
+    },
+    "page": "619-640",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Optimally\u2010Transported Generalized Method of Moments"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Susanne",
+            "family": "Schennach",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Economics Department, Brown University"
+                }
+            ]
+        },
+        {
+            "given": "Vincent",
+            "family": "Starck",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Statistics, LMU Munich"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta70034-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "2042",
+            "DOI": "10.1093/restud/rdaa067",
+            "volume": "88",
+            "author": "Aguiar",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta70034-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1093/restud/rdad033",
+            "volume": "91",
+            "author": "Andrews",
+            "year": "2024",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta70034-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "1553",
+            "DOI": "10.1093/qje/qjx023",
+            "volume": "132",
+            "author": "Andrews",
+            "year": "2017",
+            "journal-title": "Quarterly journal of economics"
+        },
+        {
+            "key": "ecta70034-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "295",
+            "DOI": "10.1093/biomet/asab026",
+            "volume": "109",
+            "author": "Blanchet",
+            "year": "2022",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta70034-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "907",
+            "DOI": "10.3982/QE1930",
+            "volume": "13",
+            "author": "Bonhomme",
+            "year": "2022",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta70034-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "453",
+            "DOI": "10.2307/2118564",
+            "volume": "144",
+            "author": "Caffarelli",
+            "year": "1996",
+            "journal-title": "Annals of Mathematics, Second Series"
+        },
+        {
+            "key": "ecta70034-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "1165",
+            "DOI": "10.1214/15-AOS1401",
+            "volume": "44",
+            "author": "Carlier",
+            "year": "2016",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta70034-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1016/0304-4076(87)90015-7",
+            "volume": "34",
+            "author": "Chamberlain",
+            "year": "1987",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70034-bib-0009",
+            "first-page": "223",
+            "volume": "45",
+            "author": "Chernozhukov",
+            "year": "2017",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70034-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "451",
+            "DOI": "10.1093/biomet/78.3.451",
+            "volume": "78",
+            "author": "Chesher",
+            "year": "1991",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta70034-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.3982/ECTA17232",
+            "volume": "91",
+            "author": "Christensen",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "260",
+            "DOI": "10.1162/REST_a_00139",
+            "volume": "94",
+            "author": "Conley",
+            "year": "2012",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta70034-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "1338",
+            "DOI": "10.1093/restud/rdt011",
+            "volume": "80",
+            "author": "Doraszelski",
+            "year": "2013",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70034-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "681",
+            "DOI": "10.1093/restud/rdt039",
+            "volume": "81",
+            "author": "Duranton",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta70034-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1111/j.1467-9965.2010.00453.x",
+            "volume": "22",
+            "author": "Ekeland",
+            "year": "2011",
+            "journal-title": "Mathematical Finance"
+        },
+        {
+            "key": "ecta70034-bib-0016",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.23943/princeton/9780691172767.001.0001",
+            "volume-title": "Optimal Transport Methods in Economics",
+            "author": "Galichon",
+            "year": "2016"
+        },
+        {
+            "key": "ecta70034-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1305",
+            "DOI": "10.1080/01621459.2021.1990768",
+            "volume": "118",
+            "author": "Gunsilius",
+            "year": "2023",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70034-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "361",
+            "DOI": "10.1016/S0304-4076(03)00089-7",
+            "volume": "114",
+            "author": "Hall",
+            "year": "2003",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70034-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1029",
+            "DOI": "10.2307/1912775",
+            "volume": "50",
+            "author": "Hansen",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "519",
+            "DOI": "10.1006/redy.2001.0132",
+            "volume": "4",
+            "author": "Hansen",
+            "year": "2001",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "ecta70034-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.2307/2971718",
+            "volume": "64",
+            "author": "Imbens",
+            "year": "1997",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "ecta70034-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "861",
+            "DOI": "10.2307/2171942",
+            "volume": "65",
+            "author": "Kitamura",
+            "year": "1997",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70034-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1449",
+            "DOI": "10.3982/ECTA17969",
+            "volume": "89",
+            "author": "Masten",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0024",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "IV",
+            "author": "Newey",
+            "year": "1994"
+        },
+        {
+            "key": "ecta70034-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "219",
+            "DOI": "10.1111/j.1468-0262.2004.00482.x",
+            "volume": "72",
+            "author": "Newey",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "237",
+            "DOI": "10.1093/biomet/75.2.237",
+            "volume": "75",
+            "author": "Owen",
+            "year": "1988",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta70034-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "DOI": "10.1214/aos/1176325370",
+            "volume": "22",
+            "author": "Qin",
+            "year": "1994",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70034-bib-0028",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-319-20828-2",
+            "volume-title": "Optimal Transport for Applied Mathematicians",
+            "author": "Santambrogio",
+            "year": "2015"
+        },
+        {
+            "key": "ecta70034-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1273",
+            "DOI": "10.2307/1913828",
+            "volume": "46",
+            "author": "Sawa",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Schennach, Susanne and Vincent Starck (2026), \u201cSupplement to \u2018Optimally-Transported Generalized Method of Moments\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA22486.",
+            "DOI": "10.3982/ECTA22486"
+        },
+        {
+            "key": "ecta70034-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1111/j.1468-0262.2004.00477.x",
+            "volume": "72",
+            "author": "Schennach",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "634",
+            "DOI": "10.1214/009053606000001208",
+            "volume": "35",
+            "author": "Schennach",
+            "year": "2007",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70034-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.3982/ECTA9748",
+            "volume": "82",
+            "author": "Schennach",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70034-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.1146/annurev-economics-080315-015058",
+            "volume": "8",
+            "author": "Schennach",
+            "year": "2016",
+            "journal-title": "Annual Reviews of Economics"
+        },
+        {
+            "key": "ecta70034-bib-0035",
+            "first-page": "487",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "7A",
+            "author": "Schennach",
+            "year": "2020"
+        },
+        {
+            "key": "ecta70034-bib-0036",
+            "series-title": "Grundlehren der mathematischen Wissenschaften",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-540-71050-9",
+            "volume-title": "Optimal Transport: Old and New",
+            "author": "Villani",
+            "year": "2009"
+        },
+        {
+            "key": "ecta70034-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1912526",
+            "volume": "50",
+            "author": "White",
+            "year": "1982",
+            "journal-title": "Econometrica"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2026-03-27T06:13:39Z",
+        "timestamp": 1774592019000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22486"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 37,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22486"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22486",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}

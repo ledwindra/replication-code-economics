@@ -1,0 +1,884 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2026-03-27T17:20:38Z",
+        "timestamp": 1774632038976,
+        "version": "3.50.1"
+    },
+    "reference-count": 88,
+    "publisher": "The Econometric Society",
+    "issue": "2",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>\n                    Gaussian empirical Bayes methods usually maintain a\n                    <jats:italic>precision independence</jats:italic>\n                    assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location\u2010scale family of distributions, leading to a family of methods that we call\n                    <jats:sc>close</jats:sc>\n                    . The\n                    <jats:sc>close</jats:sc>\n                    framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the\n                    <jats:sc>close</jats:sc>\n                    family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using\n                    <jats:sc>close</jats:sc>\n                    leads to sizable gains for selecting high\u2010mobility Census tracts.\n                  </jats:p>",
+    "DOI": "10.3982/ecta22935",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2026-03-27T06:11:56Z",
+        "timestamp": 1774591916000
+    },
+    "page": "305-340",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Empirical Bayes When Estimation Precision Predicts Parameters"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Jiafeng",
+            "family": "Chen",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Stanford University"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta70008-bib-0001",
+            "unstructured": "Abadie, Alberto, Anish Agarwal, Guido Imbens, Siwei Jia, James McQueen, and Serguei Stepaniants (2023), \u201cEstimating the Value of Evidence-Based Decision Making.\u201d arXiv:2306.13681. arXiv preprint."
+        },
+        {
+            "key": "ecta70008-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1557",
+            "DOI": "10.1093/qje/qjab017",
+            "volume": "136",
+            "author": "Abaluck",
+            "year": "2021",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70008-bib-0003",
+            "unstructured": "Aloni, Tslil and Hadar Avivi (2023), \u201cOne Land, Many Promises: the Unequal Consequences of Childhood Location for Natives and Immigrants in Israel.\u201d"
+        },
+        {
+            "key": "ecta70008-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "2766",
+            "DOI": "10.1257/aer.20180310",
+            "volume": "109",
+            "author": "Andrews",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1093/qje/qjad043",
+            "volume": "139",
+            "author": "Andrews",
+            "year": "2024",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70008-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "871",
+            "DOI": "10.1093/qje/qjx001",
+            "volume": "132",
+            "author": "Angrist",
+            "year": "2017",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70008-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.3982/ECTA6895",
+            "volume": "77",
+            "author": "Arellano",
+            "year": "2009",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.3982/ECTA14434",
+            "volume": "86",
+            "author": "Armstrong",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "2567",
+            "DOI": "10.3982/ECTA18597",
+            "volume": "90",
+            "author": "Armstrong",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "2992",
+            "DOI": "10.1257/aer.20201653",
+            "volume": "112",
+            "author": "Arnold",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.3982/ECTA15732",
+            "volume": "89",
+            "author": "Athey",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0012",
+            "first-page": "608",
+            "volume": "35(2)",
+            "author": "Audibert",
+            "year": "2007",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "4614",
+            "DOI": "10.1086/710607",
+            "volume": "128",
+            "author": "Azevedo",
+            "year": "2020",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta70008-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1897",
+            "DOI": "10.1086/728110",
+            "volume": "132",
+            "author": "Baum-Snow",
+            "year": "2024",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta70008-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1281",
+            "DOI": "10.1257/aer.20200407",
+            "volume": "114",
+            "author": "Bergman",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0016",
+            "first-page": "209",
+            "volume": "3(1)",
+            "author": "Bock",
+            "year": "1975",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0017",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bonhomme, St\u00e9phane and Angela Denis (2024), \u201cFixed Effects and Beyond: Bias Reduction, Groups, Shrinkage, and Factors in Panel Data.\u201d Tech. rep.",
+            "DOI": "10.53479/40051"
+        },
+        {
+            "key": "ecta70008-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1147",
+            "DOI": "10.3982/ECTA11319",
+            "volume": "83",
+            "author": "Bonhomme",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0019",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bonhomme, St\u00e9phane, Kerstin Holzheu, Thibaut Lamadon, Elena Manresa, Magne Mogstad, and Bradley Setzler (2020), \u201cHow Much Should We Trust Estimates of Firm Effects and Worker Sorting?\u201d",
+            "DOI": "10.3386/w27368"
+        },
+        {
+            "key": "ecta70008-bib-0020",
+            "unstructured": "Bonvini, Matteo, Edward H. Kennedy, and Luke J. Keele (2023), \u201cMinimax Optimal Subgroup Identification.\u201d arXiv:2306.17464. arXiv preprint."
+        },
+        {
+            "key": "ecta70008-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1214/07-AOAS138",
+            "volume": "2",
+            "author": "Brown",
+            "year": "2008",
+            "journal-title": "The Annals of Applied Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0022",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Calonico, Sebastian, Matias D. Cattaneo, and Max H. Farrell (2019), \u201cNprobust: Nonparametric Kernel-Based Estimation and Robust Bias-Corrected Inference.\u201d arXiv:1906.00198. arXiv preprint.",
+            "DOI": "10.18637/jss.v091.i08"
+        },
+        {
+            "key": "ecta70008-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1247",
+            "DOI": "10.1016/S1573-4412(84)02014-6",
+            "volume": "2",
+            "author": "Chamberlain",
+            "year": "1984",
+            "journal-title": "Handbook of Econometrics"
+        },
+        {
+            "key": "ecta70008-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "2110",
+            "DOI": "10.1257/aer.20151080",
+            "volume": "106",
+            "author": "Chandra",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0025",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chen, Jiafeng (2026), \u201cSupplement to \u2018Empirical Bayes When Estimation Precision Predicts Parameters\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA22935.",
+            "DOI": "10.3982/ECTA22935"
+        },
+        {
+            "key": "ecta70008-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1107",
+            "DOI": "10.1093/qje/qjy007",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70008-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1257/aer.20200108",
+            "volume": "116",
+            "author": "Chetty",
+            "year": "2026",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "2593",
+            "DOI": "10.1257/aer.104.9.2593",
+            "volume": "104",
+            "author": "Chetty",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1257/jep.35.4.197",
+            "volume": "35",
+            "author": "Chyn",
+            "year": "2021",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "ecta70008-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Coey, Dominic and Kenneth Hung (2025), \u201cEmpirical Bayes Selection for Value Maximization.\u201d Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '25). https://doi.org/10.1145/3711896.3736928.",
+            "DOI": "10.1145/3711896.3736928"
+        },
+        {
+            "key": "ecta70008-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "81",
+            "DOI": "10.3982/ECTA18709",
+            "volume": "90",
+            "author": "DellaVigna",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0032",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Diamond, Rebecca and Enrico Moretti (2021), \u201cWhere Is Standard of Living the Highest? Local Prices and the Geography of Consumption.\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w29533"
+        },
+        {
+            "key": "ecta70008-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.1162/rest_a_00804",
+            "volume": "101",
+            "author": "Doyle",
+            "year": "2019",
+            "journal-title": "The Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "1602",
+            "DOI": "10.1198/jasa.2011.tm11181",
+            "volume": "106",
+            "author": "Efron",
+            "year": "2011",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/biomet/asv068",
+            "volume": "103",
+            "author": "Efron",
+            "year": "2016",
+            "journal-title": "Biometrika"
+        },
+        {
+            "key": "ecta70008-bib-0036",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108773157",
+            "volume-title": "Exponential Families in Theory and Practice",
+            "author": "Efron",
+            "year": "2022"
+        },
+        {
+            "key": "ecta70008-bib-0037",
+            "first-page": "117",
+            "volume": "68",
+            "author": "Efron",
+            "year": "1973",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1080/01621459.1975.10479864",
+            "volume": "70",
+            "author": "Efron",
+            "year": "1975",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1184",
+            "DOI": "10.1086/718964",
+            "volume": "130",
+            "author": "Egan",
+            "year": "2022",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "ecta70008-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "1225",
+            "DOI": "10.3982/ECTA21016",
+            "volume": "93",
+            "author": "Einav",
+            "year": "2025",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "887",
+            "DOI": "10.3982/ECTA18583",
+            "volume": "90",
+            "author": "Elliott",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1080/01621459.1979.10482505",
+            "volume": "74",
+            "author": "Fay",
+            "year": "1979",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "2697",
+            "DOI": "10.1257/aer.20190825",
+            "volume": "111",
+            "author": "Finkelstein",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "933",
+            "DOI": "10.1080/01621459.2016.1276021",
+            "volume": "112",
+            "author": "George",
+            "year": "2017",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0045",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Giacomini, Raffaella, Sokbae Lee, and Silvia Sarpietro (2023), \u201cA Robust Method for Microforecasting and Estimation of Random Effects.\u201d",
+            "DOI": "10.21033/wp-2023-26"
+        },
+        {
+            "key": "ecta70008-bib-0046",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gilraine, Michael, Jiaying Gu, and Robert McMillan (2020), \u201cA New Method for Estimating Teacher Value-Added.\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w27094"
+        },
+        {
+            "key": "ecta70008-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/ECTA19304",
+            "volume": "91",
+            "author": "Gu",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0048",
+            "volume-title": "SI 2022 Methods Lectures\u2014Empirical Bayes Methods, Theory and Application",
+            "author": "Gu",
+            "year": "2022"
+        },
+        {
+            "key": "ecta70008-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "466",
+            "DOI": "10.1016/j.econedurev.2010.12.006",
+            "volume": "30",
+            "author": "Hanushek",
+            "year": "2011",
+            "journal-title": "Economics of Education Review"
+        },
+        {
+            "key": "ecta70008-bib-0050",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hull, Peter (2018), \u201cEstimating Hospital Quality with Quasi-Experimental Data.\u201d Available at SSRN 3118358.",
+            "DOI": "10.2139/ssrn.3118358"
+        },
+        {
+            "key": "ecta70008-bib-0051",
+            "unstructured": "Ignatiadis, Nikolaos and Stefan Wager (2019), \u201cCovariate-Powered Empirical Bayes Estimation.\u201d Advances in Neural Information Processing Systems, 32."
+        },
+        {
+            "key": "ecta70008-bib-0052",
+            "doi-asserted-by": "crossref",
+            "unstructured": "James, William and Charles Stein (1961), \u201cEstimation with Quadratic Loss.\u201d Breakthroughs in statistics: Foundations and basic theory, 443\u2013460.",
+            "DOI": "10.1007/978-1-4612-0919-5_30"
+        },
+        {
+            "key": "ecta70008-bib-0053",
+            "first-page": "2272",
+            "volume": "14",
+            "author": "Jiang",
+            "year": "2020",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "1647",
+            "DOI": "10.1214/08-AOS638",
+            "volume": "37",
+            "author": "Jiang",
+            "year": "2009",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0055",
+            "series-title": "Institute of Mathematical Statistics",
+            "doi-asserted-by": "crossref",
+            "first-page": "263",
+            "DOI": "10.1214/10-IMSCOLL618",
+            "volume-title": "Borrowing Strength: Theory Powering Applications\u2013a Festschrift for Lawrence D. Brown",
+            "volume": "6",
+            "author": "Jiang",
+            "year": "2010"
+        },
+        {
+            "key": "ecta70008-bib-0056",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kane, Thomas J. and Douglas O. Staiger (2008), \u201cEstimating Teacher Impacts on Student Achievement: an Experimental Evaluation.\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w14607"
+        },
+        {
+            "key": "ecta70008-bib-0057",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kiefer, Jack and Jacob Wolfowitz (1956), \u201cConsistency of the Maximum Likelihood Estimator in the Presence of Infinitely Many Incidental Parameters.\u201d The Annals of Mathematical Statistics, 887\u2013906.",
+            "DOI": "10.1214/aoms/1177728066"
+        },
+        {
+            "key": "ecta70008-bib-0058",
+            "doi-asserted-by": "crossref",
+            "first-page": "591",
+            "DOI": "10.3982/ECTA13288",
+            "volume": "86",
+            "author": "Kitagawa",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "2472",
+            "DOI": "10.1257/aer.20230700",
+            "volume": "114",
+            "author": "Kline",
+            "year": "2024",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "1963",
+            "DOI": "10.1093/qje/qjac024",
+            "volume": "137",
+            "author": "Kline",
+            "year": "2022",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70008-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.18637/jss.v082.i08",
+            "volume": "82",
+            "author": "Koenker",
+            "year": "2017",
+            "journal-title": "Journal of Statistical Software"
+        },
+        {
+            "key": "ecta70008-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1214/19-STS706",
+            "volume": "34",
+            "author": "Koenker",
+            "year": "2019",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "key": "ecta70008-bib-0063",
+            "doi-asserted-by": "crossref",
+            "first-page": "674",
+            "DOI": "10.1080/01621459.2013.869224",
+            "volume": "109",
+            "author": "Koenker",
+            "year": "2014",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0064",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.2307/3315657",
+            "volume": "21",
+            "author": "Kubokawa",
+            "year": "1993",
+            "journal-title": "Canadian Journal of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0065",
+            "unstructured": "Kwon, Soonwoo (forthcoming), \u201cOptimal Shrinkage Estimation of Fixed Effects in Linear Panel Data Models.\u201d Econometrica. https://www.econometricsociety.org/publications/econometrica/forthcoming-papers/0000/00/00/Optimal-Shrinkage-Estimation-of-Fixed-Effects-in-Linear-Panel-Data-Models/file/22386-4.pdf."
+        },
+        {
+            "key": "ecta70008-bib-0066",
+            "first-page": "648",
+            "volume": "28(2)",
+            "author": "Liang",
+            "year": "2000",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0067",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.3982/ECTA14952",
+            "volume": "88",
+            "author": "Liu",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "1221",
+            "DOI": "10.1111/j.1468-0262.2004.00530.x",
+            "volume": "72",
+            "author": "Manski",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70008-bib-0069",
+            "doi-asserted-by": "crossref",
+            "first-page": "1818",
+            "DOI": "10.1257/aer.20181811",
+            "volume": "112",
+            "author": "Meager",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70008-bib-0070",
+            "doi-asserted-by": "crossref",
+            "first-page": "1537",
+            "DOI": "10.3982/QE950",
+            "volume": "10",
+            "author": "Mehta",
+            "year": "2019",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "ecta70008-bib-0071",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.1080/01621459.1983.10477920",
+            "volume": "78",
+            "author": "Morris",
+            "year": "1983",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0072",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mountjoy, Jack and Brent R. Hickman (2021), \u201cThe Returns to College(s): Relative Value-Added and Match Effects in Higher Education.\u201d Tech. rep, National Bureau of Economic Research.",
+            "DOI": "10.3386/w29276"
+        },
+        {
+            "key": "ecta70008-bib-0073",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Montiel Olea, Jos\u00e9 Luis, Brendan O'Flaherty, and Rajiv Sethi (2021), \u201cEmpirical Bayes Counterfactuals in Poisson Regression with an Application to Police Use of Deadly Force.\u201d Available at SSRN 3857213.",
+            "DOI": "10.2139/ssrn.3857213"
+        },
+        {
+            "key": "ecta70008-bib-0074",
+            "doi-asserted-by": "crossref",
+            "first-page": "5405",
+            "DOI": "10.1214/24-EJS2322",
+            "volume": "18",
+            "author": "Oliveira",
+            "year": "2024",
+            "journal-title": "Electronic Journal of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "1665",
+            "DOI": "10.1093/qje/qjae013",
+            "volume": "139",
+            "author": "Rambachan",
+            "year": "2024",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70008-bib-0076",
+            "first-page": "157",
+            "volume-title": "Proceedings of the Third Berkeley Symposium on Mathematical Statistics and Probability, Volume I: Contributions to the Theory of Statistics",
+            "author": "Robbins",
+            "year": "1956"
+        },
+        {
+            "key": "ecta70008-bib-0077",
+            "doi-asserted-by": "crossref",
+            "first-page": "738",
+            "DOI": "10.1214/19-AOS1817",
+            "volume": "48",
+            "author": "Saha",
+            "year": "2020",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta70008-bib-0078",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Soloff, Jake A., Adityanand Guntuboyina, and Bodhisattva Sen (2024), \u201cMultivariate, Heteroscedastic Empirical Bayes via Nonparametric Maximum Likelihood.\u201d Journal of the Royal Statistical Society Series B: Statistical Methodology, qkae040.",
+            "DOI": "10.1093/jrsssb/qkae040"
+        },
+        {
+            "key": "ecta70008-bib-0079",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stone, Charles J. (1980), \u201cOptimal Rates of Convergence for Nonparametric Estimators.\u201d The Annals of Statistics, 1348\u20131360.",
+            "DOI": "10.1214/aos/1176345206"
+        },
+        {
+            "key": "ecta70008-bib-0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1016/j.jeconom.2009.02.013",
+            "volume": "151",
+            "author": "Stoye",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70008-bib-0081",
+            "series-title": "Springer Series in Statistics",
+            "volume-title": "Introduction to Nonparametric Estimation",
+            "author": "Tsybakov",
+            "year": "2008"
+        },
+        {
+            "key": "ecta70008-bib-0082",
+            "volume-title": "Weak Convergence",
+            "author": "Vaart",
+            "year": "1996"
+        },
+        {
+            "key": "ecta70008-bib-0083",
+            "volume-title": "High-Dimensional Probability: an Introduction with Applications in Data Science",
+            "volume": "47",
+            "author": "Vershynin",
+            "year": "2018"
+        },
+        {
+            "key": "ecta70008-bib-0084",
+            "volume-title": "Unbiased Estimators and Their Applications.",
+            "author": "Voinov",
+            "year": "2012"
+        },
+        {
+            "key": "ecta70008-bib-0085",
+            "first-page": "183",
+            "volume-title": "Handbook of Labor Economics",
+            "volume": "5",
+            "author": "Walters",
+            "year": "2024"
+        },
+        {
+            "key": "ecta70008-bib-0086",
+            "doi-asserted-by": "crossref",
+            "first-page": "698",
+            "DOI": "10.1080/01621459.2017.1280406",
+            "volume": "113",
+            "author": "Weinstein",
+            "year": "2018",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70008-bib-0087",
+            "doi-asserted-by": "crossref",
+            "first-page": "268",
+            "DOI": "10.1287/mksc.2023.0274",
+            "volume": "44",
+            "author": "Wernerfelt",
+            "year": "2025",
+            "journal-title": "Marketing Science"
+        },
+        {
+            "key": "ecta70008-bib-0088",
+            "doi-asserted-by": "crossref",
+            "first-page": "1465",
+            "DOI": "10.1080/01621459.2012.728154",
+            "volume": "107",
+            "author": "Xie",
+            "year": "2012",
+            "journal-title": "Journal of the American Statistical Association"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                3,
+                27
+            ]
+        ],
+        "date-time": "2026-03-27T06:12:12Z",
+        "timestamp": 1774591932000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22935"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 88,
+    "journal-issue": {
+        "issue": "2",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22935"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22935",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
