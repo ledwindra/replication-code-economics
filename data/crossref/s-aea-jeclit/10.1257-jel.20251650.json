@@ -1,0 +1,811 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                5,
+                29
+            ]
+        ],
+        "date-time": "2026-05-29T12:08:29Z",
+        "timestamp": 1780056509625,
+        "version": "3.54.0"
+    },
+    "reference-count": 109,
+    "publisher": "American Economic Association",
+    "issue": "2",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "Journal of Economic Literature"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p>Difference-in-differences (DiD) is arguably the most popular quasi-experimental research design. Its canonical form, with two groups and two periods, is well understood. However, empirical practices can be ad hoc when researchers go beyond that simple case. This article provides an organizing framework for discussing different types of DiD designs and their associated DiD estimators. It discusses covariates, weights, handling multiple periods, and staggered treatments. The organizational framework, however, applies to other extensions of DiD methods as well. (JEL C23, H75, I12, I38)</jats:p>",
+    "DOI": "10.1257/jel.20251650",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                5,
+                29
+            ]
+        ],
+        "date-time": "2026-05-29T11:31:17Z",
+        "timestamp": 1780054277000
+    },
+    "page": "498-557",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Difference-in-Differences Designs: A Practitioner\u2019s Guide"
+    ],
+    "prefix": "10.1257",
+    "volume": "64",
+    "author": [
+        {
+            "given": "Andrew",
+            "family": "Baker",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of California, Berkeley."
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Brantly",
+            "family": "Callaway",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Georgia."
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Scott",
+            "family": "Cunningham",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Baylor University."
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Andrew",
+            "family": "Goodman-Bacon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Opportunity and Inclusive Growth Institute, Federal Reserve Bank of Minneapolis."
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Pedro H. C.",
+            "family": "Sant\u2019Anna",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Emory University."
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/0034-6527.00321"
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA12675"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjac038"
+        },
+        {
+            "key": "p_4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/1468-0262.00456"
+        },
+        {
+            "key": "p_5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2998558"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20190159"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE1962"
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ajps.12185"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/1924810"
+        },
+        {
+            "key": "p_10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1468-0262.2006.00668.x"
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.10.012"
+        },
+        {
+            "key": "p_12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/sim.3697"
+        },
+        {
+            "key": "p_13",
+            "unstructured": "Baker, Andrew, Brantly Callaway, Scott Cunningham, Andrew Goodman-Bacon, and Pedro H. C. Sant'Anna. 2026. Data and Code for \"Difference-in-Differences Designs: A Practitioner's Guide.\" American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi.org/10.3886/E239028V1."
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfineco.2022.01.004"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/003355304772839588"
+        },
+        {
+            "key": "p_16",
+            "first-page": "03273",
+            "volume": "1805",
+            "author": "Bilinski Alyssa",
+            "year": "2026",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jpubeco.2022.104713"
+        },
+        {
+            "key": "p_18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhealeco.2020.102333"
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdae007"
+        },
+        {
+            "key": "p_20",
+            "unstructured": "Bureau of Labor Statistics. 2009-2019. Local Area Unemployment Statistics. United States Department of Labor. https://www.bls.gov/lau/tables.htm. (accessed December 5, 2025)."
+        },
+        {
+            "key": "p_21",
+            "first-page": "15288",
+            "volume": "2406",
+            "author": "Caetano Carolina",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_22",
+            "first-page": "02903",
+            "volume": "2202",
+            "author": "Caetano Carolina",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Callaway, Brantly. 2023. \"Difference-in-Differences for Policy Evaluation.\" In Handbook of Labor, Human Resources and Population Economics, edited by Klaus F. Zimmermann. Springer.",
+            "DOI": "10.1007/978-3-319-57365-6_352-1"
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2022.02.001"
+        },
+        {
+            "key": "p_25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE935"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.12.001"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/rest.90.3.414"
+        },
+        {
+            "key": "p_28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjz014"
+        },
+        {
+            "key": "p_29",
+            "unstructured": "Centers for Disease Control and Prevention. 2009-2019. National Vital Statistics System-Mortality Data: Underlying Cause of Death Database. Department of Health and Human Services. https://wonder.cdc.gov/ucd-icd10.html (accessed December 5, 2025)."
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2014.09.013"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/ectj/utaa001"
+        },
+        {
+            "key": "p_32",
+            "first-page": "17729",
+            "volume": "2506",
+            "author": "Chen Xiaohong",
+            "year": "2025",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_33",
+            "first-page": "04802",
+            "volume": "1712",
+            "author": "Chernozhukov Victor",
+            "year": "2023",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA14415"
+        },
+        {
+            "key": "p_35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/REST_a_00049"
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/biomet/asn055"
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/pandp.20201058"
+        },
+        {
+            "key": "p_38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jep.30.2.29"
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdx049"
+        },
+        {
+            "key": "p_40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20181169"
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/ectj/utac017"
+        },
+        {
+            "key": "p_42",
+            "author": "de Chaisemartin Cl\u00e9ment",
+            "year": "2024",
+            "journal-title": "Review of Economics and Statistics. https://doi.org/10.1162/rest_a_01414."
+        },
+        {
+            "key": "p_43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/pol.20180076"
+        },
+        {
+            "key": "p_44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07350015.2024.2308121"
+        },
+        {
+            "key": "p_45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "DiNardo, John, and David S. Lee. 2011. \"Program Evaluation and Research Designs.\" In Handbook of Labor Economics, Vol. 4A, edited by Orley Ashenfelter and David Card, 463-536. North-Holland.",
+            "DOI": "10.1016/S0169-7218(11)00411-4"
+        },
+        {
+            "key": "p_46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/rest.89.2.221"
+        },
+        {
+            "key": "p_47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jae.70000"
+        },
+        {
+            "key": "p_48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/app.20170604"
+        },
+        {
+            "key": "p_49",
+            "first-page": "02311",
+            "volume": "2409",
+            "author": "Fern\u00e1ndez-Val Iv\u00e1n",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20180609"
+        },
+        {
+            "key": "p_51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Freyaldenhoven, Simon, Christian Hansen, Jorge P\u00e9rez P\u00e9rez, and Jesse M. Shapiro. 2024. \"Visualization, Identification, and Estimation in the Linear Panel Event-Study Design.\" In Advances in Economics and Econometrics: Twelfth World Congress, edited by Victor Chernozhukov, Johannes H\u00f6rner, Eliana La Ferrara, and Iv\u00e1n Werning, 225-268. Cambridge University Press.",
+            "DOI": "10.1017/9781009589727.011"
+        },
+        {
+            "key": "p_52",
+            "unstructured": "Gardner, John. 2022. \"Two-Stage Differences in Differences.\" Preprint, arXiv. https://doi.org/10.48550/ arXiv.2207.05943."
+        },
+        {
+            "key": "p_53",
+            "first-page": "09001",
+            "volume": "2203",
+            "author": "Ghanem Dalia",
+            "year": "2026",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aer.20221116"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2021.03.014"
+        },
+        {
+            "key": "p_56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdr047"
+        },
+        {
+            "key": "p_57",
+            "unstructured": "Harmon, Nikolaj A. 2024. \"Difference-in-Differences and Efficient Estimation of Treatment Effects.\" Unpublished."
+        },
+        {
+            "key": "p_58",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/003355300554674"
+        },
+        {
+            "key": "p_59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2971733"
+        },
+        {
+            "key": "p_60",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Heckman, James J., and Richard Robb Jr. 1985. \"Alternative Methods for Evaluating the Impact of Interventions: An Overview.\" In Longitudinal Analysis of Labor Market Data, Vol. 30, edited by James J. Heckman and Burton Singer, 156-246. Cambridge University Press.",
+            "DOI": "10.1017/CCOL0521304539.004"
+        },
+        {
+            "key": "p_61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/pan/mpl013"
+        },
+        {
+            "key": "p_62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/pan.2020.33"
+        },
+        {
+            "key": "p_63",
+            "unstructured": "Imbens, Guido, Nathan Kallus, and Xiaojie Mao. 2021. \"Controlling for Unmeasured Confounding in Panel Data Using Minimal Bridge Functions: From Two-Way Fixed Effects to Factor Models.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.2108.03849."
+        },
+        {
+            "key": "p_64",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Imbens, Guido W., and Donald B. Rubin. 2015. Causal Inference in Statistics, Social, and Biomedical Sciences. Cambridge University Press.",
+            "DOI": "10.1017/CBO9781139025751"
+        },
+        {
+            "key": "p_65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07350015.2018.1546591"
+        },
+        {
+            "key": "p_66",
+            "unstructured": "Kaiser Family Foundation. 2026. \"Status of State Medicaid Expansion Decisions.\" https://www.kff.org/status-ofstate-medicaid-expansion-decisions. (accessed March 11, 2025)."
+        },
+        {
+            "key": "p_67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/rssb.12212"
+        },
+        {
+            "key": "p_68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA7372"
+        },
+        {
+            "key": "p_69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1561/0800000014"
+        },
+        {
+            "key": "p_70",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lee, Soo Jeong, and Jeffrey M. Wooldridge. 2023. \"A Simple Transformation Approach to Difference-in-Differences Estimation for Panel Data.\" Preprint, SSRN. http://dx.doi.org/10.2139/ssrn.4516518.",
+            "DOI": "10.2139/ssrn.4516518"
+        },
+        {
+            "key": "p_71",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/ajps.12723"
+        },
+        {
+            "key": "p_72",
+            "first-page": "08974",
+            "volume": "2304",
+            "author": "Ma Yukun",
+            "year": "2023",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_73",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jpubeco.2015.01.001"
+        },
+        {
+            "key": "p_74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/REST_a_00689"
+        },
+        {
+            "key": "p_75",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/711509"
+        },
+        {
+            "key": "p_76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/727363"
+        },
+        {
+            "key": "p_77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/qje/qjab004"
+        },
+        {
+            "key": "p_78",
+            "first-page": "12083",
+            "volume": "2405",
+            "author": "Miyaji Sho",
+            "year": "2025",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_79",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mogstad, Magne, and Alexander Torgovitsky. 2024. \"Instrumental Variables with Unobserved Heterogeneity in Treatment Effects.\" In Handbook of Labor Economics, Vol. 5, edited by Christian Dustmann and Thomas Lemieux, 1-114. Elsevier.",
+            "DOI": "10.3386/w32927"
+        },
+        {
+            "key": "p_80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jae.2656"
+        },
+        {
+            "key": "p_81",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07474938.2017.1348683"
+        },
+        {
+            "key": "p_82",
+            "first-page": "14603",
+            "volume": "2404",
+            "author": "Poirier Alexandre",
+            "year": "2025",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_83",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdad018"
+        },
+        {
+            "key": "p_84",
+            "first-page": "2025",
+            "volume": "1080",
+            "author": "Rambachan Ashesh",
+            "year": "2025",
+            "journal-title": "Journal of the American Statistical Association. https://doi.org/10."
+        },
+        {
+            "key": "p_85",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0270-0255(86)90088-6"
+        },
+        {
+            "key": "p_86",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/biomet/70.1.41"
+        },
+        {
+            "key": "p_87",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/aeri.20210236"
+        },
+        {
+            "key": "p_88",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/726581"
+        },
+        {
+            "key": "p_89",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA19402"
+        },
+        {
+            "key": "p_90",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2023.03.008"
+        },
+        {
+            "key": "p_91",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/h0037350"
+        },
+        {
+            "key": "p_92",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.06.003"
+        },
+        {
+            "key": "p_93",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0266466621000025"
+        },
+        {
+            "key": "p_94",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/18-STS647"
+        },
+        {
+            "key": "p_95",
+            "unstructured": "Semmelweis, Ignaz. 1983. The Etiology, Concept and Prophylaxis of Childbed Fever. Translated by K. Codell Carter. University of Wisconsin Press."
+        },
+        {
+            "key": "p_96",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/rest_a_00953"
+        },
+        {
+            "key": "p_97",
+            "first-page": "03737",
+            "volume": "1904",
+            "author": "Smucler Ezequiel",
+            "year": "2019",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_98",
+            "unstructured": "Snow, John. 1855. On the Mode of Communication of Cholera. John Churchill."
+        },
+        {
+            "key": "p_99",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3368/jhr.50.2.301"
+        },
+        {
+            "key": "p_100",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1056/NEJMp1215785"
+        },
+        {
+            "key": "p_101",
+            "unstructured": "Strezhnev, Anton. 2018. \"Semiparametric Weighting Estimators for Multi-period Difference-in-Differences Designs.\" Unpublished."
+        },
+        {
+            "key": "p_102",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jeconom.2020.09.006"
+        },
+        {
+            "key": "p_103",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/EDE.0000000000001676"
+        },
+        {
+            "key": "p_104",
+            "unstructured": "US Census Bureau. 2009-2019. Small Area Income and Poverty Estimates (SAIPE) Program. US Department of Commerce. https://www.census.gov/programs-surveys/saipe.html (accessed December 5, 2025)."
+        },
+        {
+            "key": "p_105",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/000282803321946930"
+        },
+        {
+            "key": "p_106",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/ectj/utad016"
+        },
+        {
+            "issue": "5",
+            "key": "p_107",
+            "doi-asserted-by": "crossref",
+            "first-page": "2545",
+            "DOI": "10.1007/s00181-025-02807-z",
+            "volume": "69",
+            "author": "Woolridge M.",
+            "year": "2025",
+            "journal-title": "Empirical Economics"
+        },
+        {
+            "key": "p_108",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wyse, Angela, and Bruce D. Meyer. 2025. \"Saved by Medicaid: New Evidence on Health Insurance and Mortality from the Universe of Low-Income Adults.\" NBER Working Paper 33719.",
+            "DOI": "10.3386/w33719"
+        },
+        {
+            "key": "p_109",
+            "first-page": "13226",
+            "volume": "2212",
+            "author": "Yanagi Takahide",
+            "year": "2023",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20251650",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                5,
+                29
+            ]
+        ],
+        "date-time": "2026-05-29T11:31:51Z",
+        "timestamp": 1780054311000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20251650"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                1
+            ]
+        ]
+    },
+    "references-count": 109,
+    "journal-issue": {
+        "issue": "2",
+        "published-print": {
+            "date-parts": [
+                [
+                    2026,
+                    6,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20251650"
+    ],
+    "URL": "https://doi.org/10.1257/jel.20251650",
+    "relation": {},
+    "ISSN": [
+        "0022-0515",
+        "2328-8175"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        },
+        {
+            "value": "2328-8175",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                1
+            ]
+        ]
+    }
+}
