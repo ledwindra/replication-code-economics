@@ -1,0 +1,561 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2026-06-02T20:03:50Z",
+        "timestamp": 1780430630461,
+        "version": "3.54.1"
+    },
+    "reference-count": 35,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2026,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2026-01-01T00:00:00Z",
+                "timestamp": 1767225600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000155",
+            "name": "Social Sciences and Humanities Research Council of Canada",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000155",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100020951",
+            "name": "Fonds de recherche du Qu\u00e9bec",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100020951",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100031590",
+            "name": "Ville de Qu\u00e9bec",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100031590",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>\n                    In the context of one\u2010to\u2010one matching markets, we study\n                    <jats:italic>myopic\u2010farsighted stable sets</jats:italic>\n                    , which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter\u2010deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic\u2010farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding\n                    <jats:italic>coalitional myopic\u2010farsighted stable sets</jats:italic>\n                    , and to settings where not all members of an enforcing coalition must strictly gain, yielding\n                    <jats:italic>myopic\u2010farsighted weakly stable sets</jats:italic>\n                    . When all farsighted agents have unit demand, our results also extend to many\u2010to\u2010one matching markets. As a key corollary, we provide a foundation for the efficiency\u2010adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic\u2010farsighted stable set when one side is farsighted and the other is myopic.\n                  </jats:p>",
+    "DOI": "10.3982/ecta24060",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2026-06-02T09:09:52Z",
+        "timestamp": 1780391392000
+    },
+    "page": "811-841",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Existence of Myopic\u2010Farsighted Stable Sets in Matching Markets"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Battal",
+            "family": "Dogan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "School of Economics, University of Bristol"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Lars",
+            "family": "Ehlers",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "D\u00e9partement de sciences \u00e9conomiques and CIREQ, Universit\u00e9 de Montr\u00e9al"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta70043-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "148",
+            "DOI": "10.1016/j.geb.2024.11.010",
+            "volume": "149",
+            "author": "Atay",
+            "year": "2025",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70043-bib-0002",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1111/jpet.70044",
+            "volume": "27",
+            "author": "Atay",
+            "year": "2025",
+            "journal-title": "Journal of Public Economic Theory"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1007/s003550000067",
+            "volume": "18",
+            "author": "Banerjee",
+            "year": "2001",
+            "journal-title": "Social Choice and Welfare"
+        },
+        {
+            "key": "ecta70043-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1760",
+            "DOI": "10.1093/ej/uead120",
+            "volume": "134",
+            "author": "Cerrone",
+            "year": "2024",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1007/s00355-003-0200-7",
+            "volume": "21",
+            "author": "Diamantoudi",
+            "year": "2003",
+            "journal-title": "Social Choice and Welfare"
+        },
+        {
+            "key": "ecta70043-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dogan, Battal and Lars Ehlers (2026), \u201cSupplement to \u2018Existence of Myopic-Farsighted Stable Sets in Matching Markets\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA24060.",
+            "DOI": "10.3982/ECTA24060"
+        },
+        {
+            "key": "ecta70043-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "125",
+            "DOI": "10.1007/s40505-019-00172-6",
+            "volume": "8",
+            "author": "Dogan",
+            "year": "2020",
+            "journal-title": "Economic Theory Bulletin"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.3982/TE2947",
+            "volume": "15",
+            "author": "Dutta",
+            "year": "2020",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70043-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1191",
+            "DOI": "10.3982/TE2454",
+            "volume": "12",
+            "author": "Dutta",
+            "year": "2017",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "537",
+            "DOI": "10.1016/j.jet.2006.03.006",
+            "volume": "134",
+            "author": "Ehlers",
+            "year": "2007",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70043-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1837",
+            "DOI": "10.1093/restud/rdz041",
+            "volume": "87",
+            "author": "Ehlers",
+            "year": "2020",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1080/00029890.1962.11989827",
+            "volume": "69",
+            "author": "Gale",
+            "year": "1962",
+            "journal-title": "The American Mathematical Monthly"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70043-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1080/00029890.1985.11971592",
+            "volume": "92",
+            "author": "Gale",
+            "year": "1985",
+            "journal-title": "The American Mathematical Monthly"
+        },
+        {
+            "issue": "11",
+            "key": "ecta70043-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "1472",
+            "DOI": "10.1287/mnsc.20.11.1472",
+            "volume": "20",
+            "author": "Harsanyi",
+            "year": "1974",
+            "journal-title": "Management Science"
+        },
+        {
+            "issue": "C",
+            "key": "ecta70043-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.1016/j.jmateco.2017.03.003",
+            "volume": "71",
+            "author": "Herings",
+            "year": "2017",
+            "journal-title": "Journal of Mathematical Economics"
+        },
+        {
+            "key": "ecta70043-bib-0016",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jet.2020.105125",
+            "volume": "190",
+            "author": "Herings",
+            "year": "2020",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta70043-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "713",
+            "DOI": "10.1016/j.ejor.2024.12.043",
+            "volume": "322",
+            "author": "Herings",
+            "year": "2025",
+            "journal-title": "European Journal of Operations Research"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "26",
+            "DOI": "10.1016/j.jet.2005.05.008",
+            "volume": "131",
+            "author": "Jordan",
+            "year": "2006",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta70043-bib-0019",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Karmokar, Madhuparna and Souvik Roy (2025), \u201cMyopic-Farsighted Stability in Many-to-One Matching.\u201d Working Paper, Available at SSRN, https://ssrn.com/abstract=5186380.",
+            "DOI": "10.2139/ssrn.5186380"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70043-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1297",
+            "DOI": "10.1162/qjec.2010.125.3.1297",
+            "volume": "125",
+            "author": "Kesten",
+            "year": "2010",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70043-bib-0021",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jet.2022.105499",
+            "volume": "204",
+            "author": "Kimya",
+            "year": "2022",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta70043-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1016/j.jebo.2016.05.016",
+            "volume": "128",
+            "author": "Kirchsteiger",
+            "year": "2016",
+            "journal-title": "Journal of Economic Behavior & Organization"
+        },
+        {
+            "key": "ecta70043-bib-0023",
+            "volume-title": "Mariages Stables.",
+            "author": "Knuth",
+            "year": "1976"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70043-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "499",
+            "DOI": "10.3982/TE527",
+            "volume": "6",
+            "author": "Mauleon",
+            "year": "2011",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70043-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "977",
+            "DOI": "10.3982/ECTA12022",
+            "volume": "83",
+            "author": "Ray",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70043-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1763",
+            "DOI": "10.3982/ECTA16047",
+            "volume": "87",
+            "author": "Ray",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70043-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "2025",
+            "DOI": "10.1257/aer.20210240",
+            "volume": "112",
+            "author": "Reny",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70043-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "47",
+            "DOI": "10.2307/1911460",
+            "volume": "52",
+            "author": "Roth",
+            "year": "1984",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70043-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1475",
+            "DOI": "10.2307/2938326",
+            "volume": "58",
+            "author": "Roth",
+            "year": "1990",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70043-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1006/jeth.1994.1044",
+            "volume": "63",
+            "author": "Suk-Young Michael",
+            "year": "1994",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta70043-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "543",
+            "DOI": "10.1016/j.jet.2014.10.002",
+            "volume": "154",
+            "author": "Tang",
+            "year": "2014",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "ecta70043-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "987",
+            "DOI": "10.1007/s00199-019-01200-z",
+            "volume": "69",
+            "author": "Teteryatnikova",
+            "year": "2020",
+            "journal-title": "Economic Theory"
+        },
+        {
+            "key": "ecta70043-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "370",
+            "DOI": "10.1016/j.geb.2020.01.009",
+            "volume": "120",
+            "author": "Troyan",
+            "year": "2020",
+            "journal-title": "Games and Economic Behavior"
+        },
+        {
+            "key": "ecta70043-bib-0034",
+            "volume-title": "Theory of Games and Economic Behavior",
+            "author": "Neumann",
+            "year": "1944"
+        },
+        {
+            "key": "ecta70043-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "188",
+            "DOI": "10.1007/s00453-010-9388-y",
+            "volume": "58",
+            "author": "Wako",
+            "year": "2010",
+            "journal-title": "Algorithmica"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2026-06-02T09:11:39Z",
+        "timestamp": 1780391499000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA24060"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA24060"
+    ],
+    "URL": "https://doi.org/10.3982/ecta24060",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}

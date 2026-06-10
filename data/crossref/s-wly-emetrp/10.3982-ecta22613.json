@@ -1,0 +1,571 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2026-06-02T20:05:29Z",
+        "timestamp": 1780430729782,
+        "version": "3.54.1"
+    },
+    "reference-count": 34,
+    "publisher": "The Econometric Society",
+    "issue": "3",
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100007229",
+            "name": "Harvard University",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100007229",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100007229",
+            "name": "Harvard University",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100007229",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100006919",
+            "name": "Massachusetts Institute of Technology",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100006919",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100004721",
+            "name": "University of Tokyo",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100004721",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100005595",
+            "name": "University of California",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100005595",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100013729",
+            "name": "International Association for Applied Econometrics",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100013729",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100005326",
+            "name": "Yale University",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100005326",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>\n                    We cast the problem of communicating scientific uncertainty as one of reporting a posterior distribution on an unknown parameter to an audience of Bayesian decision\u2010makers. We establish novel bounds on the audience's regret when the analyst reports an approximation to a posterior that the audience treats as exact. Under a palatable restriction on the audience's decision problems, the bounds take an especially convenient form. Under a further restriction on the audience's priors, a bootstrap distribution can be used as a stand\u2010in posterior. We propose a practical recipe for checking whether a conventional statistical report (say, a normal parameterized by a point estimate and standard error) is a good approximation, and for improving the report if it is not. We illustrate our proposals using the articles in the 2021\n                    <jats:italic>American Economic Review</jats:italic>\n                    that use a bootstrap for inference.\n                  </jats:p>",
+    "DOI": "10.3982/ecta22613",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2026-06-02T09:09:52Z",
+        "timestamp": 1780391392000
+    },
+    "page": "843-875",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Communicating Scientific Uncertainty via Approximate Posteriors"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Isaiah",
+            "family": "Andrews",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Jesse M.",
+            "family": "Shapiro",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Harvard University"
+                },
+                {
+                    "name": "NBER"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta70042-bib-0001",
+            "unstructured": "Andrews, Isaiah and Jesse Shapiro (2025), \u201cBootstrap Census.\u201d Zenodo. https://doi.org/10.5281/zenodo.17085552."
+        },
+        {
+            "key": "ecta70042-bib-0002",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Andrews, Isaiah and Jesse M. Shapiro (2026), \u201cSupplement to \u2018Communicating Scientific Uncertaintyvia Approximate Posteriors\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA22613.",
+            "DOI": "10.3982/ECTA22613"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70042-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "2117",
+            "DOI": "10.3982/ECTA18155",
+            "volume": "89",
+            "author": "Andrews",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "3",
+            "DOI": "10.1002/jae.2843",
+            "volume": "37",
+            "author": "Angelini",
+            "year": "2022",
+            "journal-title": "Journal of Applied Econometrics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70042-bib-0005",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jeconom.2023.105604",
+            "volume": "238",
+            "author": "Angelini",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70042-bib-0006",
+            "unstructured": "Athey, Susan and Guido W. Imbens (2023), \u201cIn Search of the Third Number: What to Report Beyond Point Estimates and Standard Errors.\u201d https://youtu.be/i-K9a6UhtsE?si=-rBsjVgY2p3c_DLc, Berkeley Initiative for Transparency in the Social Sciences Keynote Lecture; video accessed in December 2023."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1038/s41562-017-0189-z",
+            "volume": "2",
+            "author": "Benjamin",
+            "year": "2018",
+            "journal-title": "Nature Human Behaviour"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1023/A:1003114420352",
+            "volume": "49",
+            "author": "Beran",
+            "year": "1997",
+            "journal-title": "Annals of the Institute of Statistical Mathematics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70042-bib-0009",
+            "first-page": "1941",
+            "volume": "42",
+            "author": "Castillo",
+            "year": "2014",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70042-bib-0010",
+            "unstructured": "Cavaliere, Giuseppe, Luca Fanelli, and Iliyan Georgiev (2025), \u201cBootstrap Diagnostic Tests.\u201d arXiv econ.EM. arXiv:2509.01351. Accessed on 03 September 2025."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "12",
+            "DOI": "10.1198/073500102288618711",
+            "volume": "21",
+            "author": "Chamberlain",
+            "year": "2003",
+            "journal-title": "Journal of Business and Economic Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70042-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "745",
+            "DOI": "10.1257/aer.97.3.745",
+            "volume": "97",
+            "author": "Cohen",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70042-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1007/978-3-642-12598-0_3",
+            "volume-title": "Recent Advances in Optimization and Its Applications in Engineering: The 14th Belgian-French-German Conference on Optimization",
+            "author": "Devolder",
+            "year": "2010"
+        },
+        {
+            "key": "ecta70042-bib-0014",
+            "series-title": "CBMS-NSF Regional Conference Series in Applied Mathematics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1137/1.9781611970319",
+            "volume-title": "The Jackknife, the Bootstrap and Other Resampling Plans",
+            "author": "Efron",
+            "year": "1982"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1186/s13742-015-0048-7",
+            "volume": "4",
+            "author": "Filion",
+            "year": "2015",
+            "journal-title": "GigaScience"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70042-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "762",
+            "DOI": "10.1214/aos/1176324620",
+            "volume": "23",
+            "author": "Gasparini",
+            "year": "1995",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70042-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "128",
+            "DOI": "10.1017/CBO9781139051996.005",
+            "volume-title": "Advances in Economics and Econometrics: Theory and Applications, Seventh World Congress",
+            "volume": "3",
+            "author": "Geweke",
+            "year": "1997"
+        },
+        {
+            "key": "ecta70042-bib-0018",
+            "series-title": "Institute of Mathematical Statistics",
+            "first-page": "1",
+            "volume-title": "Advances in Modern Statistical Theory and Applications: A Festschrift in Honor of Morris L. Eaton",
+            "volume": "10",
+            "author": "Geyer",
+            "year": "2013"
+        },
+        {
+            "key": "ecta70042-bib-0019",
+            "series-title": "Cambridge Series in Statistical and Probabilistic Mathematics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781139029834",
+            "volume-title": "Fundamentals of Nonparametric Bayesian Inference",
+            "author": "Ghosal",
+            "year": "2017"
+        },
+        {
+            "key": "ecta70042-bib-0020",
+            "series-title": "Leibniz International Proceedings in Informatics (LIPIcs)",
+            "first-page": "79:1",
+            "volume-title": "13th Innovations in Theoretical Computer Science Conference (ITCS 2022)",
+            "volume": "215",
+            "author": "Gopalan",
+            "year": "2022"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70042-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1963",
+            "DOI": "10.3982/ECTA17912",
+            "volume": "89",
+            "author": "Hahn",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70042-bib-0022",
+            "series-title": "Springer Series in Statistics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4612-4384-7",
+            "volume-title": "The Bootstrap and Edgeworth Expansion",
+            "author": "Hall",
+            "year": "1992"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70042-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "422",
+            "DOI": "10.2307/1909982",
+            "volume": "31",
+            "author": "Hildreth",
+            "year": "1963",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70042-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.2307/1428011",
+            "volume": "29",
+            "author": "M\u00fcller",
+            "year": "1997",
+            "journal-title": "Advances in Applied Probability"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "85",
+            "DOI": "10.1177/106591290605900108",
+            "volume": "59",
+            "author": "Nickerson",
+            "year": "2006",
+            "journal-title": "Political Research Quarterly"
+        },
+        {
+            "key": "ecta70042-bib-0026",
+            "volume-title": "Proceedings of the 42nd International Conference on Machine Learning",
+            "author": "Noarov",
+            "year": "2025"
+        },
+        {
+            "key": "ecta70042-bib-0027",
+            "volume-title": "Applied Statistical Decision Theory",
+            "author": "Raiffa",
+            "year": "1961"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70042-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "130",
+            "DOI": "10.1214/aos/1176345338",
+            "volume": "9",
+            "author": "Rubin",
+            "year": "1981",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70042-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1187",
+            "DOI": "10.1214/aos/1176345636",
+            "volume": "9",
+            "author": "Singh",
+            "year": "1981",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70042-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "586",
+            "DOI": "10.1257/aer.97.3.586",
+            "volume": "97",
+            "author": "Smets",
+            "year": "2007",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70042-bib-0031",
+            "series-title": "Cambridge Series in Statistical and Probabilistic Mathematics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9780511802256",
+            "volume-title": "Asymptotic Statistics",
+            "author": "Vaart",
+            "year": "1998"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70042-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1093/ectj/utaf005",
+            "volume": "28",
+            "author": "Wang",
+            "year": "2025",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70042-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "705",
+            "DOI": "10.1214/aos/1176347136",
+            "volume": "17",
+            "author": "Weng",
+            "year": "1989",
+            "journal-title": "Annals of Statistics"
+        },
+        {
+            "key": "ecta70042-bib-0034",
+            "unstructured": "Zhan, Zhaoguo (2018), \u201cDetecting Weak Identification by Bootstrap.\u201d https://web.archive.org/web/20230806184309/https://sites.google.com/site/zhaoguozhan/. Accessed on 07 August 2023."
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                2
+            ]
+        ],
+        "date-time": "2026-06-02T09:11:55Z",
+        "timestamp": 1780391515000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA22613"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+        "issue": "3",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA22613"
+    ],
+    "URL": "https://doi.org/10.3982/ecta22613",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
