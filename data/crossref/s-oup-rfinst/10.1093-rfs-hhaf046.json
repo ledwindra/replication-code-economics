@@ -1,0 +1,572 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                22
+            ]
+        ],
+        "date-time": "2026-07-22T14:04:32Z",
+        "timestamp": 1784729072732,
+        "version": "3.55.0"
+    },
+    "reference-count": 40,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "10",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2025,
+                        7,
+                        14
+                    ]
+                ],
+                "date-time": "2025-07-14T00:00:00Z",
+                "timestamp": 1752451200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                10,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We show that the infrastructure of decentralized exchanges subjects liquidity providers (LPs) to a \u201ctragedy of the commons.\u201d Liquidity providers lack incentives to exit liquidity pools to prevent arbitrage losses, as these are collectively shared, while withdrawal costs are borne individually. Arbitrage rents primarily flow to validators as infrastructure fees, with the median arbitrageur transferring 96% of profits. Proposed solutions\u2014speed technology, alternative sequencing rules, and flexible pricing curves\u2014fail to reduce these rents. Leveraging the Silicon Valley Bank crisis as a natural experiment, we show that LPs defensively adopt more convex pricing curves to mitigate adverse selection risks.</jats:p>",
+    "DOI": "10.1093/rfs/hhaf046",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                14
+            ]
+        ],
+        "date-time": "2025-07-14T14:04:12Z",
+        "timestamp": 1752501852000
+    },
+    "page": "3040-3085",
+    "source": "Crossref",
+    "is-referenced-by-count": 28,
+    "title": [
+        "Liquidity Provision on Blockchain-Based Decentralized Exchanges"
+    ],
+    "prefix": "10.1093",
+    "volume": "38",
+    "author": [
+        {
+            "given": "Agostino",
+            "family": "Capponi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Columbia University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Ruizhe",
+            "family": "Jia",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Stanford University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                14
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025092213422152500_hhaf046-B1",
+            "author": "Aoyagi",
+            "year": "2021"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B2",
+            "author": "Athey",
+            "year": "2016"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B3",
+            "author": "Barbon",
+            "year": "2021"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "100785",
+            "DOI": "10.1016/j.finmar.2022.100785",
+            "article-title": "Liquid speed: A micro-burst fee for low-latency exchanges",
+            "volume": "64",
+            "author": "Brolley",
+            "year": "2023",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "103350",
+            "DOI": "10.1016/j.frl.2022.103350",
+            "article-title": "On-demand fast trading on decentralized exchanges",
+            "volume": "51",
+            "author": "Brolley",
+            "year": "2023",
+            "journal-title": "Finance Research Letters"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1547",
+            "DOI": "10.1093/qje/qjv027",
+            "article-title": "The high-frequency trading arms race: Frequent batch auctions as a market design response",
+            "volume": "130",
+            "author": "Budish",
+            "year": "2015",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B7",
+            "author": "Budish",
+            "year": "2019"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B8",
+            "author": "Campbell",
+            "year": "2016"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B9",
+            "author": "Caparros",
+            "year": "2023"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B10",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jfineco.2025.104132",
+            "article-title": "Maximal extractable value and allocative inefficiencies in public blockchains",
+            "author": "Capponi",
+            "year": "2025",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B11",
+            "author": "Capponi",
+            "year": "2022"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1716",
+            "DOI": "10.1093/rfs/hhy122",
+            "article-title": "Blockchain-based settlement for asset trading",
+            "volume": "32",
+            "author": "Chiu",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B13",
+            "author": "CoinGecko",
+            "year": "2024"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "6417",
+            "DOI": "10.1287/mnsc.2021.02709",
+            "article-title": "Crypto wash trading",
+            "volume": "69",
+            "author": "Cong",
+            "year": "2023",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1754",
+            "DOI": "10.1093/rfs/hhz007",
+            "article-title": "Blockchain disruption and smart contracts",
+            "volume": "32",
+            "author": "Cong",
+            "year": "2019",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.1093/rfs/hhaa089",
+            "article-title": "Tokenomics: Dynamic adoption and valuation",
+            "volume": "34",
+            "author": "Cong",
+            "year": "2020",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "91",
+            "DOI": "10.1016/j.jfineco.2019.03.004",
+            "article-title": "From mining to markets: The evolution of bitcoin transaction fees",
+            "volume": "134",
+            "author": "Easley",
+            "year": "2019",
+            "journal-title": "Journal of Financial Economics"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B18",
+            "author": "Flashbots",
+            "year": "2021"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B19",
+            "author": "Foley",
+            "year": "2024"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/S1386-4181(98)00012-3",
+            "article-title": "Order flow composition and trading costs in a dynamic limit order market",
+            "volume": "2",
+            "author": "Foucault",
+            "year": "1999",
+            "journal-title": "Journal of Financial Markets"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1093/rfs/hhw103",
+            "article-title": "Toxic arbitrage",
+            "volume": "30",
+            "author": "Foucault",
+            "year": "2017",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "914",
+            "DOI": "10.1287/mnsc.2020.3796",
+            "article-title": "Initial coin offerings, speculation, and asset tokenization",
+            "volume": "67",
+            "author": "Gan",
+            "year": "2021",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1913",
+            "DOI": "10.1111/jofi.12903",
+            "article-title": "Is Bitcoin really untethered?",
+            "volume": "75",
+            "author": "Griffins",
+            "year": "2020",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B24",
+            "volume-title": "Working Paper",
+            "author": "Harvey",
+            "year": "2021"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B25",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1287/mnsc.2024.04510",
+            "article-title": "An economic model of a decentralized exchange with concentrated liquidity",
+            "author": "Hasbrouck",
+            "year": "2025",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3011",
+            "DOI": "10.1093/restud/rdab014",
+            "article-title": "Monopoly without a monopolist: An economic Analysis of the Bitcoin payment system",
+            "volume": "88",
+            "author": "Huberman",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B27",
+            "article-title": "The public blockchain ecosystem: An empirical analysis",
+            "author": "Irresberger",
+            "year": "2020",
+            "journal-title": "Working Paper, NYU Stern School of Business"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "321",
+            "DOI": "10.1111/jofi.13405",
+            "article-title": "Decentralized exchanges: The Uniswap automated market maker",
+            "volume": "80",
+            "author": "Lehar",
+            "year": "2025",
+            "journal-title": "Journal of Finance"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B29",
+            "author": "Lehar",
+            "year": "2023"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B30",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/S0022109025000201",
+            "article-title": "Cryptocurrency pump-and-dump schemes",
+            "author": "Li",
+            "year": "2025",
+            "journal-title": "Journal of Financial and Quantitative Analysis"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B31",
+            "author": "Malinova",
+            "year": "2023"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B32",
+            "author": "Milionis",
+            "year": "2024"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B33",
+            "first-page": "1",
+            "article-title": "Decentralizing money: Bitcoin prices and blockchain security",
+            "volume": "34",
+            "author": "Pagnotta",
+            "year": "2021",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B34",
+            "doi-asserted-by": "crossref",
+            "first-page": "6731",
+            "DOI": "10.1287/mnsc.2021.02802",
+            "article-title": "The conceptual flaws of decentralized automated market making",
+            "volume": "69",
+            "author": "Park",
+            "year": "2023",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B35",
+            "first-page": "849",
+            "author": "Ramseyer",
+            "year": "2023"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1016/j.jmoneco.2019.07.002",
+            "article-title": "Some simple bitcoin economics",
+            "volume": "106",
+            "author": "Schilling",
+            "year": "2019",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B37",
+            "doi-asserted-by": "crossref",
+            "first-page": "6684",
+            "DOI": "10.1287/mnsc.2023.4756",
+            "article-title": "A model of cryptocurrencies",
+            "volume": "69",
+            "author": "Sockin",
+            "year": "2023",
+            "journal-title": "Management Science"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B38",
+            "author": "The Block",
+            "year": "2024"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B39",
+            "author": "Thiery",
+            "year": "2023"
+        },
+        {
+            "key": "2025092213422152500_hhaf046-B40",
+            "first-page": "7",
+            "article-title": "Corporate governance and blockchains",
+            "volume": "21",
+            "author": "Yermack",
+            "year": "2017",
+            "journal-title": "Review of Finance"
+        }
+    ],
+    "container-title": [
+        "The Review of Financial Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/rfs/advance-article-pdf/doi/10.1093/rfs/hhaf046/63752939/hhaf046.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/10/3040/63752939/hhaf046.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/rfs/article-pdf/38/10/3040/63752939/hhaf046.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                22
+            ]
+        ],
+        "date-time": "2025-09-22T17:42:32Z",
+        "timestamp": 1758562952000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/rfs/article/38/10/3040/8200845"
+        }
+    },
+    "subtitle": [],
+    "editor": [
+        {
+            "given": "Itay",
+            "family": "Goldstein",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "editor"
+                }
+            ]
+        }
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                14
+            ]
+        ]
+    },
+    "references-count": 40,
+    "journal-issue": {
+        "issue": "10",
+        "published-online": {
+            "date-parts": [
+                [
+                    2025,
+                    7,
+                    14
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    10,
+                    1
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/rfs/hhaf046",
+    "relation": {},
+    "ISSN": [
+        "0893-9454",
+        "1465-7368"
+    ],
+    "issn-type": [
+        {
+            "value": "0893-9454",
+            "type": "print"
+        },
+        {
+            "value": "1465-7368",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2025,
+                7,
+                14
+            ]
+        ]
+    }
+}

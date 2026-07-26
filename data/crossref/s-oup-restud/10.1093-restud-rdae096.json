@@ -1,0 +1,919 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                4,
+                22
+            ]
+        ],
+        "date-time": "2026-04-22T08:26:03Z",
+        "timestamp": 1776846363202,
+        "version": "3.51.2"
+    },
+    "reference-count": 74,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        8
+                    ]
+                ],
+                "date-time": "2024-10-08T00:00:00Z",
+                "timestamp": 1728345600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://academic.oup.com/pages/standard-publication-reuse-rights"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>We develop a method of solving rational expectations models with dispersed information and dynamic strategic complementarities. In these types of models, the equilibrium outcome hinges on an infinite number of higher-order expectations which require an increasing number of state variables to keep track of. Despite this complication, we prove that the equilibrium outcome always admits a finite-state representation when the signals follow finite ARMA processes. We also show that such a finite-state result may not hold with endogenous information aggregation. We further illustrate how to use the method to derive comparative statics, characterize equilibrium outcomes in HANK-type network games, reconcile with empirical evidence on expectations, and integrate incomplete information with bounded rationality in general equilibrium.</jats:p>",
+    "DOI": "10.1093/restud/rdae096",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                5
+            ]
+        ],
+        "date-time": "2024-10-05T07:15:40Z",
+        "timestamp": 1728112540000
+    },
+    "page": "3138-3173",
+    "source": "Crossref",
+    "is-referenced-by-count": 6,
+    "title": [
+        "Rational Expectations Models with Higher-Order Beliefs"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Zhen",
+            "family": "Huo",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Yale University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                }
+            ]
+        },
+        {
+            "given": "Naoki",
+            "family": "Takayama",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Hitotsubashi University ,",
+                    "place": [
+                        "Japan"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                8
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025090512565707600_rdae096-B1",
+            "author": "Acharya",
+            "year": "2013"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "105280",
+            "DOI": "10.1016/j.jet.2021.105280",
+            "article-title": "The Anatomy of Sentiment-Driven Fluctuations",
+            "volume": "195",
+            "author": "Acharya",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "719",
+            "DOI": "10.1093/rfs/hhj036",
+            "article-title": "Beauty Contests and Iterated Expectations in Asset Markets",
+            "volume": "19",
+            "author": "Allen",
+            "year": "2006",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1689",
+            "DOI": "10.3982/ECTA13079",
+            "article-title": "Quantifying Confidence",
+            "volume": "86",
+            "author": "Angeletos",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "1166",
+            "DOI": "10.1257/aer.20191436",
+            "article-title": "Myopia and Anchoring",
+            "volume": "111",
+            "author": "Angeletos",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1086/712313",
+            "article-title": "Imperfect Macroeconomic Expectations: Evidence and Theory",
+            "volume": "35",
+            "author": "Angeletos",
+            "year": "2021",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1086/648301",
+            "article-title": "Noisy Business Cycles",
+            "volume": "24",
+            "author": "Angeletos",
+            "year": "2010",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "739",
+            "DOI": "10.3982/ECTA10008",
+            "article-title": "Sentiments",
+            "volume": "81",
+            "author": "Angeletos",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1065",
+            "DOI": "10.1016/bs.hesmac.2016.04.011",
+            "article-title": "Incomplete Information in Macroeconomics",
+            "volume": "2",
+            "author": "Angeletos",
+            "year": "2016",
+            "journal-title": "Handbook of Macroeconomics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "2477",
+            "DOI": "10.1257/aer.20161996",
+            "article-title": "Forward Guidance Without Common Knowledge",
+            "volume": "108",
+            "author": "Angeletos",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1103",
+            "DOI": "10.1111/j.1468-0262.2007.00783.x",
+            "article-title": "Efficient use of Information and Social Value of Information",
+            "volume": "75",
+            "author": "Angeletos",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B12",
+            "author": "Auclert",
+            "year": "2020"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1257/aer.96.3.552",
+            "article-title": "Can Information Heterogeneity Explain the Exchange Rate Determination Puzzle?",
+            "volume": "96",
+            "author": "Bacchetta",
+            "year": "2006",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1343",
+            "DOI": "10.1257/aer.102.4.1343",
+            "article-title": "Information, Animal Spirits, and the Meaning of Innovations in Consumer Confidence",
+            "volume": "102",
+            "author": "Barsky",
+            "year": "2012",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.3982/ECTA11085",
+            "article-title": "Sentiments and Aggregate Demand Fluctuations",
+            "volume": "83",
+            "author": "Benhabib",
+            "year": "2015",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B16",
+            "author": "Bergemann",
+            "year": "2017"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.3982/ECTA11105",
+            "article-title": "Robust Predictions in Games with Incomplete Information",
+            "volume": "81",
+            "author": "Bergemann",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1093/restud/rdad024",
+            "article-title": "Diagnostic Business Cycles",
+            "volume": "91",
+            "author": "Bianchi",
+            "year": "2024",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "2748",
+            "DOI": "10.1257/aer.20181219",
+            "article-title": "Overreaction in Macroeconomic Expectations",
+            "volume": "110",
+            "author": "Bordalo",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B20",
+            "author": "Bordalo",
+            "year": "2021"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B21",
+            "author": "Broer",
+            "year": "2022"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1334",
+            "DOI": "10.1162/rest_a_01210",
+            "article-title": "Forecaster (Mis-)behavior",
+            "volume": "106",
+            "author": "Broer",
+            "year": "2024",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1720",
+            "DOI": "10.1093/restud/rdaa079",
+            "article-title": "Learning from House Prices: Amplification and Business Fluctuations",
+            "volume": "88",
+            "author": "Chahrour",
+            "year": "2021",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "1702",
+            "DOI": "10.1257/aer.20170792",
+            "article-title": "News or Noise? the Missing Link",
+            "volume": "108",
+            "author": "Chahrour",
+            "year": "2018",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B25",
+            "author": "Chahrour",
+            "year": "2023"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "3872",
+            "DOI": "10.1257/aer.20191895",
+            "article-title": "Sectoral Media Focus and Aggregate Fluctuations",
+            "volume": "111",
+            "author": "Chahrour",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B27",
+            "author": "Chiang",
+            "year": "2022"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "2644",
+            "DOI": "10.1257/aer.20110306",
+            "article-title": "Information Rigidity and the Expectations Formation Process: A Simple Framework and new Facts",
+            "volume": "105",
+            "author": "Coibion",
+            "year": "2015",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B29",
+            "author": "Fuhrer",
+            "year": "2018"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B30",
+            "author": "Gallegos",
+            "year": "2023"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B31",
+            "author": "Golub",
+            "year": "2020"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "164",
+            "DOI": "10.1016/j.jmoneco.2009.12.005",
+            "article-title": "Information, Heterogeneity and Market Incompleteness",
+            "volume": "57",
+            "author": "Graham",
+            "year": "2010",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B33",
+            "doi-asserted-by": "crossref",
+            "first-page": "714",
+            "DOI": "10.1093/rfs/hht082",
+            "article-title": "Expectations of Returns and Expected Returns",
+            "volume": "27",
+            "author": "Greenwood",
+            "year": "2014",
+            "journal-title": "Review of Financial Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B34",
+            "author": "Guerreiro",
+            "year": "2023"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B35",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1515/9780691218632",
+            "volume-title": "Time Series Analysis",
+            "author": "Hamilton",
+            "year": "1994"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B36",
+            "doi-asserted-by": "crossref",
+            "first-page": "105395",
+            "DOI": "10.1016/j.jet.2021.105395",
+            "article-title": "Analytic Policy Function Iteration",
+            "volume": "200",
+            "author": "Han",
+            "year": "2022",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B37",
+            "first-page": "127",
+            "article-title": "Linear Rational Expectations Models of Dynamically Interrelated Variables",
+            "volume": "1",
+            "author": "Hansen",
+            "year": "1981",
+            "journal-title": "Rational Expectations and Econometric Practice"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B38",
+            "author": "Hellwig",
+            "year": "2002"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B39",
+            "doi-asserted-by": "crossref",
+            "first-page": "S57",
+            "DOI": "10.1016/j.jmoneco.2009.06.013",
+            "article-title": "Setting the Right Prices for the Wrong Reasons",
+            "volume": "56",
+            "author": "Hellwig",
+            "year": "2009",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B40",
+            "doi-asserted-by": "crossref",
+            "first-page": "526",
+            "DOI": "10.1257/aer.20170519",
+            "article-title": "A Single-Judge Solution to Beauty Contests",
+            "volume": "110",
+            "author": "Huo",
+            "year": "2020",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B41",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.jmoneco.2023.02.003",
+            "article-title": "Dynamic Information Aggregation: Learning from the Past",
+            "volume": "136",
+            "author": "Huo",
+            "year": "2023",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B42",
+            "author": "Huo",
+            "year": "2022"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B43",
+            "doi-asserted-by": "crossref",
+            "first-page": "726",
+            "DOI": "10.1006/redy.1999.0085",
+            "article-title": "Forecasting the Forecasts of Others in the Frequency Domain",
+            "volume": "3",
+            "author": "Kasa",
+            "year": "2000",
+            "journal-title": "Review of Economic Dynamics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1137",
+            "DOI": "10.1093/restud/rdt051",
+            "article-title": "Heterogeneous Beliefs and Tests of Present Value Models",
+            "volume": "81",
+            "author": "Kasa",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B45",
+            "doi-asserted-by": "crossref",
+            "first-page": "2879",
+            "DOI": "10.1257/aer.20191432",
+            "article-title": "Asymmetric Attention",
+            "volume": "111",
+            "author": "Kohlhas",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B46",
+            "doi-asserted-by": "crossref",
+            "first-page": "1295",
+            "DOI": "10.3982/ECTA18627",
+            "article-title": "Optimal Monetary Policy in Production Networks",
+            "volume": "90",
+            "author": "La\u2019O",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B47",
+            "doi-asserted-by": "crossref",
+            "first-page": "3013",
+            "DOI": "10.1093/restud/rdad101",
+            "article-title": "Incorporating Diagnostic Expectations Into the New Keynesian Framework",
+            "volume": "91",
+            "author": "L\u2019Huillier",
+            "year": "2024",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B48",
+            "doi-asserted-by": "crossref",
+            "first-page": "2050",
+            "DOI": "10.1257/aer.99.5.2050",
+            "article-title": "A Theory of Demand Shocks",
+            "volume": "99",
+            "author": "Lorenzoni",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B49",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1016/0022-0531(72)90142-1",
+            "article-title": "Expectations and the Neutrality of Money",
+            "volume": "4",
+            "author": "Lucas",
+            "year": "1972",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B50",
+            "doi-asserted-by": "crossref",
+            "first-page": "769",
+            "DOI": "10.1257/aer.99.3.769",
+            "article-title": "Optimal Sticky Prices under Rational Inattention",
+            "volume": "99",
+            "author": "Ma\u0107kowiak",
+            "year": "2009",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1502",
+            "DOI": "10.1093/restud/rdv027",
+            "article-title": "Business Cycle Dynamics under Rational Inattention",
+            "volume": "82",
+            "author": "Ma\u0107kowiak",
+            "year": "2015",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B52",
+            "doi-asserted-by": "crossref",
+            "first-page": "941",
+            "DOI": "10.1016/j.jet.2012.01.020",
+            "article-title": "Forecasting the Forecasts of Others: Implications for Asset Pricing",
+            "volume": "147",
+            "author": "Makarov",
+            "year": "2012",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B53",
+            "doi-asserted-by": "crossref",
+            "first-page": "1295",
+            "DOI": "10.1162/003355302320935034",
+            "article-title": "Sticky Information versus Sticky Prices: A Proposal to Replace the new Keynesian Phillips Curve",
+            "volume": "117",
+            "author": "Mankiw",
+            "year": "2002",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B54",
+            "first-page": "1",
+            "article-title": "Estimating Models with Dispersed Information",
+            "volume": "6",
+            "author": "Melosi",
+            "year": "2014",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B55",
+            "first-page": "853",
+            "article-title": "Signalling Effects of Monetary Policy",
+            "volume": "84",
+            "author": "Melosi",
+            "year": "2016",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B56",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.3982/TE3872",
+            "article-title": "Macro-financial Volatility under Dispersed Information",
+            "volume": "16",
+            "author": "Miao",
+            "year": "2021",
+            "journal-title": "Theoretical Economics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1521",
+            "DOI": "10.1257/000282802762024610",
+            "article-title": "Social Value of Public Information",
+            "volume": "92",
+            "author": "Morris",
+            "year": "2002",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1389",
+            "DOI": "10.1016/j.jmoneco.2008.09.004",
+            "article-title": "Monetary Policy with Signal Extraction from the Bond Market",
+            "volume": "55",
+            "author": "Nimark",
+            "year": "2008",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B59",
+            "doi-asserted-by": "crossref",
+            "first-page": "2320",
+            "DOI": "10.1257/aer.104.8.2320",
+            "article-title": "Man-bites-dog Business Cycles",
+            "volume": "104",
+            "author": "Nimark",
+            "year": "2014",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B60",
+            "author": "Nimark",
+            "year": "2017"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B61",
+            "doi-asserted-by": "crossref",
+            "first-page": "982",
+            "DOI": "10.1257/aer.20210254",
+            "article-title": "The Matching Multiplier and the Amplification of Recessions",
+            "volume": "113",
+            "author": "Patterson",
+            "year": "2023",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B62",
+            "author": "Pf\u00e4uti",
+            "year": "2023"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B63",
+            "author": "Rondina",
+            "year": "2008"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B64",
+            "doi-asserted-by": "crossref",
+            "first-page": "105251",
+            "DOI": "10.1016/j.jet.2021.105251",
+            "article-title": "Confounding Dynamics",
+            "volume": "196",
+            "author": "Rondina",
+            "year": "2021",
+            "journal-title": "Journal of Economic Theory"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B65",
+            "volume-title": "Stationary Random Processes",
+            "author": "Rozanov",
+            "year": "1967"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B66",
+            "first-page": "331",
+            "article-title": "Overpersistence Bias in Individual Income Expectations and its Aggregate Implications",
+            "volume": "15",
+            "author": "Rozsypal",
+            "year": "2023",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B67",
+            "doi-asserted-by": "crossref",
+            "first-page": "245",
+            "DOI": "10.1016/0165-1889(91)90012-P",
+            "article-title": "Equilibrium with Signal Extraction from Endogenous Variables",
+            "volume": "15",
+            "author": "Sargent",
+            "year": "1991",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B68",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "DOI": "10.1016/j.jedc.2015.07.007",
+            "article-title": "Solving Generalized Multivariate Linear Rational Expectations Models",
+            "volume": "60",
+            "author": "Tan",
+            "year": "2015",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B69",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/0165-1889(89)90014-6",
+            "article-title": "Aggregate Fluctuations as an Information Transmission Mechanism",
+            "volume": "13",
+            "author": "Taub",
+            "year": "1989",
+            "journal-title": "Journal of Economic Dynamics and Control"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B70",
+            "doi-asserted-by": "crossref",
+            "first-page": "546",
+            "DOI": "10.1086/261166",
+            "article-title": "Forecasting the Forecasts of Others",
+            "volume": "91",
+            "author": "Townsend",
+            "year": "1983",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B71",
+            "author": "Venkateswaran",
+            "year": "2014"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B72",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1111/j.1468-0262.2006.00751.x",
+            "article-title": "A Structure Theorem for Rationalizability with Application to Robust Predictions of Refinements",
+            "volume": "75",
+            "author": "Weinstein",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B73",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.5749/j.ctttsf26",
+            "volume-title": "Linear Rational Expectations Models: A User\u2019s Guide",
+            "author": "Whiteman",
+            "year": "1983"
+        },
+        {
+            "key": "2025090512565707600_rdae096-B74",
+            "author": "Woodford",
+            "year": "2003"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae096/60010914/rdae096.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/5/3138/60010929/rdae096.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/5/3138/60010929/rdae096.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2025-09-05T16:57:49Z",
+        "timestamp": 1757091469000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/5/3138/7815750"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                8
+            ]
+        ]
+    },
+    "references-count": 74,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    10,
+                    8
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae096",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                8
+            ]
+        ]
+    }
+}
