@@ -1,0 +1,531 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2025,
+                12,
+                4
+            ]
+        ],
+        "date-time": "2025-12-04T10:08:49Z",
+        "timestamp": 1764842929926,
+        "version": "3.44.0"
+    },
+    "reference-count": 27,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        15
+                    ]
+                ],
+                "date-time": "2024-10-15T00:00:00Z",
+                "timestamp": 1728950400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100020414",
+            "name": "NSF",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "#1851665"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "#1851665"
+                    ]
+                }
+            ],
+            "id": [
+                {
+                    "id": "10.13039/501100020414",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>Calibration, the practice of choosing the parameters of a structural model to match certain empirical moments, can be viewed as minimum distance estimation. Existing standard error formulas for such estimators require a consistent estimate of the correlation structure of the empirical moments, which is often unavailable in practice. Instead, the variances of the individual empirical moments are usually readily estimable. Using only these variances, we derive conservative standard errors and confidence intervals for the structural parameters that are valid even under the worst-case correlation structure. In the over-identified case, we show that the moment weighting scheme that minimizes the worst-case estimator variance amounts to a moment selection problem with a simple solution. Finally, we develop tests of over-identifying or parameter restrictions. We apply our methods empirically to a model of menu cost pricing for multi-product firms and to a heterogeneous agent New Keynesian model.</jats:p>",
+    "DOI": "10.1093/restud/rdae099",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                10
+            ]
+        ],
+        "date-time": "2024-10-10T15:39:13Z",
+        "timestamp": 1728574753000
+    },
+    "page": "2952-2978",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Standard Errors for Calibrated Parameters"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Matthew D",
+            "family": "Cocci",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Amazon Web Services ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                }
+            ]
+        },
+        {
+            "given": "Mikkel",
+            "family": "Plagborg-M\u00f8ller",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "role": "author",
+                    "vocabulary": "crossref"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                15
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025090512565298900_rdae099-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "353",
+            "DOI": "10.1080/07350015.1996.10524661",
+            "article-title": "Small-Sample Bias in GMM Estimation of Covariance Structures",
+            "volume": "14",
+            "author": "Altonji",
+            "year": "1996",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "2817",
+            "DOI": "10.1257/aer.20140500",
+            "article-title": "The Real Effects of Monetary Shocks in Sticky Price Models: A Sufficient Statistic Approach",
+            "volume": "106",
+            "author": "Alvarez",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B3",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.3982/ECTA10662",
+            "article-title": "Price Setting With Menu Cost for Multiproduct Firms",
+            "volume": "82",
+            "author": "Alvarez",
+            "year": "2014",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "2375",
+            "DOI": "10.3982/ECTA17434",
+            "article-title": "Using the Sequence-Space Jacobian to Solve and Estimate Heterogeneous-Agent Models",
+            "volume": "89",
+            "author": "Auclert",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B5",
+            "doi-asserted-by": "crossref",
+            "first-page": "4021",
+            "DOI": "10.1086/731411",
+            "article-title": "Heterogeneity and Aggregate Fluctuations",
+            "volume": "132",
+            "author": "Chang",
+            "year": "2024",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B6",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2307/j.ctt7srm7",
+            "volume-title": "Structural Macroeconometrics",
+            "author": "DeJong",
+            "year": "2011",
+            "edition": "2nd edn"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "549",
+            "DOI": "10.1162/003465398557825",
+            "article-title": "Consistent Covariance Matrix Estimation with Spatially Dependent Panel Data",
+            "volume": "80",
+            "author": "Driscoll",
+            "year": "1998",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "561",
+            "DOI": "10.1017/S1365100505050042",
+            "article-title": "An Interview with Thomas J. Sargent",
+            "volume": "9",
+            "author": "Evans",
+            "year": "2005",
+            "journal-title": "Macroeconomic Dynamics"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1098/rsos.172348",
+            "article-title": "Explicit Solutions to Correlation Matrix Completion Problems, with an Application to Risk Management and Insurance",
+            "volume": "5",
+            "author": "Georgescu",
+            "year": "2018",
+            "journal-title": "Royal Society Open Science"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1365",
+            "DOI": "10.1093/restud/rdz016",
+            "article-title": "Estimation with Aggregate Shocks",
+            "volume": "87",
+            "author": "Hahn",
+            "year": "2020",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B11",
+            "doi-asserted-by": "crossref",
+            "first-page": "942",
+            "DOI": "10.1017/S0266466620000316",
+            "article-title": "Joint Time Series and Cross-Section Limit Theory under Mixingale Assumptions",
+            "volume": "38",
+            "author": "Hahn",
+            "year": "2022",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "162",
+            "DOI": "10.1017/S0266466622000391",
+            "article-title": "Central Limit Theory for Combined Cross Section and Time Series With an Application to Aggregate Productivity Shocks",
+            "volume": "40",
+            "author": "Hahn",
+            "year": "2024",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "87",
+            "DOI": "10.1257/jep.10.1.87",
+            "article-title": "The Empirical Foundations of Calibration",
+            "volume": "10",
+            "author": "Hansen",
+            "year": "1996",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B14",
+            "doi-asserted-by": "crossref",
+            "first-page": "250",
+            "DOI": "10.1016/j.jeconom.2014.05.019",
+            "article-title": "Extremum Estimation and Numerical Derivatives",
+            "volume": "188",
+            "author": "Hong",
+            "year": "2015",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1198/073500102288618630",
+            "article-title": "Generalized Method of Moments and Empirical Likelihood",
+            "volume": "20",
+            "author": "Imbens",
+            "year": "2002",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "655",
+            "DOI": "10.2307/2297913",
+            "article-title": "Combining Micro and Macro Data in Microeconometric Models",
+            "volume": "61",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "year": "2018",
+            "author": "Kilts Center for Marketing",
+            "key": "2025090512565298900_rdae099-B17"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.2307/1913643",
+            "article-title": "Regression Quantiles",
+            "volume": "46",
+            "author": "Koenker",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B19",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1257/jep.10.1.69",
+            "article-title": "The Computational Experiment: An Econometric Tool",
+            "volume": "10",
+            "author": "Kydland",
+            "year": "1996",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/QE1810",
+            "article-title": "Full-information Estimation of Heterogeneous Agent Models Using Macro and Micro Data",
+            "volume": "14",
+            "author": "Liu",
+            "year": "2023",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "3133",
+            "DOI": "10.1257/aer.20150063",
+            "article-title": "The Power of Forward Guidance Revisited",
+            "volume": "106",
+            "author": "McKay",
+            "year": "2016",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B22",
+            "first-page": "74",
+            "article-title": "The Transmission of Monetary Policy Shocks",
+            "volume": "13",
+            "author": "Miranda-Agrippino",
+            "year": "2021",
+            "journal-title": "American Economic Journal: Macroeconomics"
+        },
+        {
+            "year": "2017",
+            "author": "Mongey",
+            "key": "2025090512565298900_rdae099-B23"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B24",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1257/jep.32.3.59",
+            "article-title": "Identification in Macroeconomics",
+            "volume": "32",
+            "author": "Nakamura",
+            "year": "2018",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "year": "1994",
+            "author": "Newey",
+            "key": "2025090512565298900_rdae099-B25"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "184",
+            "DOI": "10.1007/s00440-003-0262-6",
+            "article-title": "Extremal Probabilities for Gaussian Quadratic Forms",
+            "volume": "126",
+            "author": "Sz\u00e9kely",
+            "year": "2003",
+            "journal-title": "Probability Theory and Related Fields"
+        },
+        {
+            "key": "2025090512565298900_rdae099-B27",
+            "doi-asserted-by": "crossref",
+            "first-page": "1123",
+            "DOI": "10.3982/QE740",
+            "article-title": "A Method for Solving and Estimating Heterogeneous Agent Macro Models",
+            "volume": "9",
+            "author": "Winberry",
+            "year": "2018",
+            "journal-title": "Quantitative Economics"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae099/60094047/rdae099.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/5/2952/60094047/rdae099.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/5/2952/60094047/rdae099.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2025-09-05T16:57:14Z",
+        "timestamp": 1757091434000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/5/2952/7822151"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                15
+            ]
+        ]
+    },
+    "references-count": 27,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    10,
+                    15
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae099",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "type": "print",
+            "value": "0034-6527"
+        },
+        {
+            "type": "electronic",
+            "value": "1467-937X"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                15
+            ]
+        ]
+    }
+}
