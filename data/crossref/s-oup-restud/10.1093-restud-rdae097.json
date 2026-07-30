@@ -1,0 +1,678 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                6,
+                29
+            ]
+        ],
+        "date-time": "2026-06-29T05:05:20Z",
+        "timestamp": 1782709520915,
+        "version": "3.54.5"
+    },
+    "reference-count": 35,
+    "publisher": "Oxford University Press (OUP)",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2024,
+                        10,
+                        16
+                    ]
+                ],
+                "date-time": "2024-10-16T00:00:00Z",
+                "timestamp": 1729036800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "name": "Gregory C. Chow Econometric Research Program at Princeton University"
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "1824131"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "1824131"
+                    ]
+                }
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "2116630"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "2116630"
+                    ]
+                }
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000269",
+            "name": "Economic and Social Research Council",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100000269",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "name": "Microdata Methods and Practice",
+            "award": [
+                "RES-589-28-0001"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "RES-589-28-0001"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Microdata Methods and Practice",
+            "award": [
+                "RES-589-28-0002"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "RES-589-28-0002"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Microdata Methods and Practice",
+            "award": [
+                "ES/P008909/1"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "ES/P008909/1"
+                    ]
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100010663",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "ERC-2014-CoG-646917-ROMIA"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "ERC-2014-CoG-646917-ROMIA"
+                    ]
+                }
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100010663",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100010663",
+            "name": "European Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "ERC-2018-CoG-819086-PANEDA"
+            ],
+            "award-info": [
+                {
+                    "award-number": [
+                        "ERC-2018-CoG-819086-PANEDA"
+                    ]
+                }
+            ],
+            "id": [
+                {
+                    "id": "10.13039/100010663",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [],
+    "published-print": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                5
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This paper investigates the construction of moment conditions in discrete choice panel data with individual-specific fixed effects. We describe how to systematically explore the existence of moment conditions that do not depend on the fixed effects, and we demonstrate how to construct them when they exist. Our approach is closely related to the numerical \u201cfunctional differencing\u201d construction introduced in a seminal paper by Bonhomme, but our emphasis is to find explicit analytic expressions for the moment functions. We first explain the construction and give examples of such moment conditions in various models. Then, we focus on the dynamic binary choice logit model and explore the implications of the moment conditions for the identification and estimation of the model parameters that are common to all individuals.</jats:p>",
+    "DOI": "10.1093/restud/rdae097",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                10
+            ]
+        ],
+        "date-time": "2024-10-10T15:39:08Z",
+        "timestamp": 1728574748000
+    },
+    "page": "3112-3137",
+    "source": "Crossref",
+    "is-referenced-by-count": 7,
+    "title": [
+        "Moment Conditions for Dynamic Panel Logit Models with Fixed Effects"
+    ],
+    "prefix": "10.1093",
+    "volume": "92",
+    "author": [
+        {
+            "given": "Bo E",
+            "family": "Honor\u00e9",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Princeton University ,",
+                    "place": [
+                        "USA"
+                    ]
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Martin",
+            "family": "Weidner",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "University of Oxford and Nuffield College , UK"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "286",
+    "published-online": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                16
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "2025090512565422200_rdae097-B1",
+            "doi-asserted-by": "crossref",
+            "first-page": "353",
+            "DOI": "10.1080/07350015.1996.10524661",
+            "article-title": "Small-Sample Bias in GMM Estimation of Covariance Structures",
+            "volume": "14",
+            "author": "Altonji",
+            "year": "1996",
+            "journal-title": "Journal of Business & Economic Statistics"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B2",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1111/j.2517-6161.1970.tb00842.x",
+            "article-title": "Asymptotic Properties of Conditional Maximum-Likelihood Estimators",
+            "volume": "32",
+            "author": "Andersen",
+            "year": "1970",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B3",
+            "author": "Aristodemou",
+            "year": "2018"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B4",
+            "doi-asserted-by": "crossref",
+            "first-page": "1337",
+            "DOI": "10.3982/ECTA9311",
+            "article-title": "Functional Differencing",
+            "volume": "80",
+            "author": "Bonhomme",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B5",
+            "author": "Chamberlain",
+            "year": "1985"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B6",
+            "doi-asserted-by": "crossref",
+            "first-page": "159",
+            "DOI": "10.3982/ECTA8419",
+            "article-title": "Binary Response Models for Panel Data: Identification and Information",
+            "volume": "78",
+            "author": "Chamberlain",
+            "year": "2010",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B7",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1007/s13209-023-00276-0",
+            "article-title": "Identification in Dynamic Binary Choice Models",
+            "volume": "14",
+            "author": "Chamberlain",
+            "year": "2023",
+            "journal-title": "SERIEs: Journal of the Spanish Economic Association"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B8",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1111/j.2517-6161.1958.tb00292.x",
+            "article-title": "The Regression Analysis of Binary Sequences",
+            "volume": "20",
+            "author": "Cox",
+            "year": "1958",
+            "journal-title": "Journal of the Royal Statistical Society: Series B (Methodological)"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B9",
+            "doi-asserted-by": "publisher",
+            "author": "Dano",
+            "year": "2023",
+            "DOI": "10.48550/arXiv.2303.00083"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B10",
+            "doi-asserted-by": "crossref",
+            "first-page": "1105",
+            "DOI": "10.3982/QE1991",
+            "article-title": "Fixed Effects Binary Choice Models with Three or More Periods",
+            "volume": "14",
+            "author": "Davezies",
+            "year": "2023",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B11",
+            "doi-asserted-by": "publisher",
+            "author": "Dobronyi",
+            "year": "2021",
+            "DOI": "10.48550/arXiv.2104.04590"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B12",
+            "doi-asserted-by": "crossref",
+            "first-page": "291",
+            "DOI": "10.3982/ECTA14528",
+            "article-title": "Optimal Taxation, Marriage, Home Production, and Family Labor Supply",
+            "volume": "87",
+            "author": "Gayle",
+            "year": "2019",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B13",
+            "doi-asserted-by": "crossref",
+            "first-page": "913",
+            "DOI": "10.1017/S0266466601175031",
+            "article-title": "The Information Bound of a Dynamic Panel Logit Model With Fixed Effects",
+            "volume": "17",
+            "author": "Hahn",
+            "year": "2001",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B14",
+            "first-page": "227",
+            "article-title": "Simple Statistical Models for Discrete Panel Data Developed and Applied to Tests of the Hypothesis of True State Dependence Against the Hypothesis of Spurious State Dependence",
+            "volume": "30/31",
+            "author": "Heckman",
+            "year": "1978",
+            "journal-title": "Annales de l\u2019INSEE"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B15",
+            "doi-asserted-by": "crossref",
+            "first-page": "533",
+            "DOI": "10.2307/2951583",
+            "article-title": "Trimmed LAD and Least Squares Estimation of Truncated and Censored Regression Models with Fixed Effects",
+            "volume": "60",
+            "author": "Honor\u00e9",
+            "year": "1992",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B16",
+            "doi-asserted-by": "crossref",
+            "first-page": "35",
+            "DOI": "10.1016/0304-4076(93)90038-7",
+            "article-title": "Orthogonality Conditions for Tobit Models with Fixed Effects and Lagged Dependent Variables",
+            "volume": "59",
+            "author": "Honor\u00e9",
+            "year": "1993",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B17",
+            "doi-asserted-by": "crossref",
+            "first-page": "839",
+            "DOI": "10.1111/1468-0262.00139",
+            "article-title": "Panel Data Discrete Choice Models with Lagged Dependent Variables",
+            "volume": "68",
+            "author": "Honor\u00e9",
+            "year": "2000",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B18",
+            "doi-asserted-by": "crossref",
+            "first-page": "207",
+            "DOI": "10.15609/annaeconstat2009.134.0207",
+            "article-title": "Identification in Binary Response Panel Data Models: Is Point-Identification More Common Than We Thought?",
+            "volume": "137",
+            "author": "Honor\u00e9",
+            "year": "2019",
+            "journal-title": "Annals of Economics and Statistics"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B19",
+            "doi-asserted-by": "publisher",
+            "author": "Honor\u00e9",
+            "year": "2021",
+            "DOI": "10.48550/arXiv.2107.03253"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B20",
+            "doi-asserted-by": "publisher",
+            "author": "Honor\u00e9",
+            "year": "2022",
+            "DOI": "10.48550/arXiv.2005.05942"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B21",
+            "doi-asserted-by": "crossref",
+            "first-page": "2499",
+            "DOI": "10.1111/1468-0262.00384",
+            "article-title": "Estimation of a Censored Dynamic Panel Data Model",
+            "volume": "70",
+            "author": "Hu",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B22",
+            "author": "Johnson",
+            "year": "2004"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B23",
+            "author": "Khan",
+            "year": "2019"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B24",
+            "author": "Kitazawa",
+            "year": "2013"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B25",
+            "author": "Kitazawa",
+            "year": "2016"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B26",
+            "doi-asserted-by": "crossref",
+            "first-page": "350",
+            "DOI": "10.1016/j.jeconom.2021.01.007",
+            "article-title": "Transformations and Moment Conditions for Dynamic Fixed Effects Logit Models",
+            "volume": "229",
+            "author": "Kitazawa",
+            "year": "2022",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B27",
+            "doi-asserted-by": "publisher",
+            "author": "Kruiniger",
+            "year": "2020",
+            "DOI": "10.48550/arXiv.2010.03382"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B28",
+            "doi-asserted-by": "crossref",
+            "first-page": "805",
+            "DOI": "10.1111/1468-0297.00566",
+            "article-title": "Subsidised Training and Youth Employment: Distinguishing Unobserved Heterogeneity from State Dependence in Labour Market Histories",
+            "volume": "110",
+            "author": "Magnac",
+            "year": "2000",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B29",
+            "doi-asserted-by": "crossref",
+            "first-page": "1859",
+            "DOI": "10.1111/j.1468-0262.2004.00556.x",
+            "article-title": "Panel Binary Variables and Sufficiency: Generalizing Conditional Logit",
+            "volume": "72",
+            "author": "Magnac",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B30",
+            "doi-asserted-by": "crossref",
+            "first-page": "357",
+            "DOI": "10.2307/1913240",
+            "article-title": "Semiparametric Analysis of Random Effects Linear Models from Binary Panel Data",
+            "volume": "55",
+            "author": "Manski",
+            "year": "1987",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B31",
+            "author": "Newey",
+            "year": "1994"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1914288",
+            "article-title": "Consistent Estimates Based on Partially Consistent Observations",
+            "volume": "16",
+            "author": "Neyman",
+            "year": "1948",
+            "journal-title": "Econometrica: Journal of the Econometric Society"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B33",
+            "author": "Pakes",
+            "year": "2022"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B34",
+            "volume-title": "Probabilistic Models for Some Intelligence and Attainment Tests",
+            "author": "Rasch",
+            "year": "1960"
+        },
+        {
+            "key": "2025090512565422200_rdae097-B35",
+            "volume-title": "Studies in Mathematical Psychology: I. Probabilistic Models for Some Intelligence and Attainment Tests",
+            "author": "Rasch",
+            "year": "1960"
+        }
+    ],
+    "container-title": [
+        "Review of Economic Studies"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://academic.oup.com/restud/advance-article-pdf/doi/10.1093/restud/rdae097/60427527/rdae097.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/5/3112/60427527/rdae097.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://academic.oup.com/restud/article-pdf/92/5/3112/60427527/rdae097.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2025,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2025-09-05T16:57:33Z",
+        "timestamp": 1757091453000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://academic.oup.com/restud/article/92/5/3112/7823637"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                16
+            ]
+        ]
+    },
+    "references-count": 35,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2024,
+                    10,
+                    16
+                ]
+            ]
+        },
+        "published-print": {
+            "date-parts": [
+                [
+                    2025,
+                    9,
+                    5
+                ]
+            ]
+        }
+    },
+    "URL": "https://doi.org/10.1093/restud/rdae097",
+    "relation": {},
+    "ISSN": [
+        "0034-6527",
+        "1467-937X"
+    ],
+    "issn-type": [
+        {
+            "value": "0034-6527",
+            "type": "print"
+        },
+        {
+            "value": "1467-937X",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published-other": {
+        "date-parts": [
+            [
+                2025,
+                10
+            ]
+        ]
+    },
+    "published": {
+        "date-parts": [
+            [
+                2024,
+                10,
+                16
+            ]
+        ]
+    }
+}
