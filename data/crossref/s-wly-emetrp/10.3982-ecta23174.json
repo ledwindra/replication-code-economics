@@ -1,0 +1,630 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2026-07-16T14:03:42Z",
+        "timestamp": 1784210622190,
+        "version": "3.55.0"
+    },
+    "reference-count": 49,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2026,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2026-01-01T00:00:00Z",
+                "timestamp": 1767225600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by-nc/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We study instrumental variables models characterized by: (i) Unobserved heterogeneity consisting of potential outcomes and response types that describe how the instrument determines treatment choice; (ii) Conditional independence of the instrument and the unobserved heterogeneity; and (iii) Convex restrictions on the distribution of unobserved heterogeneity. We show certain causal parameters are identified in these models if and only if a version of the kappa of Abadie (2003) exists. Our identification results are constructive in yielding estimating moment conditions. Focusing on a leading special case, we develop asymptotically normal estimators based on a doubly robust version of these moment conditions.</jats:p>",
+    "DOI": "10.3982/ecta23174",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2026-07-16T13:05:52Z",
+        "timestamp": 1784207152000
+    },
+    "page": "1095-1133",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Manu",
+            "family": "Navjeevan",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, TAMU"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Rodrigo",
+            "family": "Pinto",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, USF"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Andres",
+            "family": "Santos",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, UCLA"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "2",
+            "key": "ecta70060-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/S0304-4076(02)00201-4",
+            "volume": "113",
+            "author": "Abadie",
+            "year": "2003",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70060-bib-0002",
+            "volume-title": "Infinite Dimensional Analysis\u2014a Hitchhiker's Guide",
+            "author": "Aliprantis",
+            "year": "2006"
+        },
+        {
+            "issue": "430",
+            "key": "ecta70060-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "431",
+            "DOI": "10.1080/01621459.1995.10476535",
+            "volume": "90",
+            "author": "Angrist",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70060-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "1039",
+            "DOI": "10.1093/qje/qjab050",
+            "volume": "137",
+            "author": "Angrist",
+            "year": "2022",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70060-bib-0005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Angrist, Joshua, Andres Santos, and Ot\u00e1vio Tecchio (2026), \u201cOne Instrument, Many Treatments: Instrumental Variables Identification of Multiple Causal Effects.\u201d NBER Working Paper.",
+            "DOI": "10.2139/ssrn.6019601"
+        },
+        {
+            "issue": "439",
+            "key": "ecta70060-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "1171",
+            "DOI": "10.1080/01621459.1997.10474074",
+            "volume": "92",
+            "author": "Balke",
+            "year": "1997",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70060-bib-0007",
+            "volume-title": "Efficient and Adaptive Estimation for Semiparametric Models",
+            "author": "Bickel",
+            "year": "1993"
+        },
+        {
+            "key": "ecta70060-bib-0008",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-540-34514-5",
+            "volume-title": "Measure Theory: Volume II",
+            "author": "Bogachev",
+            "year": "2007"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70060-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "2754",
+            "DOI": "10.1257/aer.101.6.2754",
+            "volume": "101",
+            "author": "Carneiro",
+            "year": "2011",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70060-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1501",
+            "DOI": "10.3982/ECTA16294",
+            "volume": "90",
+            "author": "Chernozhukov",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70060-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.3982/ECTA18515",
+            "volume": "90",
+            "author": "Chernozhukov",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "10",
+            "key": "ecta70060-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "3208",
+            "DOI": "10.1086/736770",
+            "volume": "133",
+            "author": "Chetverikov",
+            "year": "2025",
+            "journal-title": "Journal of Political Economy"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70060-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "757",
+            "DOI": "10.1111/rssb.12191",
+            "volume": "79",
+            "author": "Ding",
+            "year": "2017",
+            "journal-title": "Journal of the Royal Statistical Society, Series B (Statistical Methodology)"
+        },
+        {
+            "key": "ecta70060-bib-0015",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dutz, Deniz, Ingrid Huitfeldt, Santiago Lacouture, Magne Mogstad, Alexander Torgovitsky, and Winnie van Dijk (2021), \u201cSelection in Surveys: Using Randomized Incentives to Detect and Account for Nonresponse Bias.\u201d NBER Working Paper.",
+            "DOI": "10.3386/w29549"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0016",
+            "first-page": "377",
+            "volume": "86",
+            "author": "Fang",
+            "year": "2018",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1111/j.0006-341X.2002.00021.x",
+            "volume": "58",
+            "author": "Frangakis",
+            "year": "2002",
+            "journal-title": "Biometrics"
+        },
+        {
+            "key": "ecta70060-bib-0018",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fr\u00f6lich, Markus and Martin Huber (2017), \u201cDirect and Indirect Treatment Effects\u2013Causal Chains and Mediation Analysis With Instrumental Variables.\u201d Journal of the Royal Statistical Society. Series B (Statistical Methodology), 79 (5), 1645\u20131666.",
+            "DOI": "10.1111/rssb.12232"
+        },
+        {
+            "key": "ecta70060-bib-0019",
+            "unstructured": "Goff, Leonard (2025), \u201cWhen Does IV Identification not Restrict Outcomes?\u201d arXiv:2406.02835. arXiv preprint."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3982/ECTA13777",
+            "volume": "86",
+            "author": "Heckman",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70060-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "669",
+            "DOI": "10.1111/j.1468-0262.2005.00594.x",
+            "volume": "73",
+            "author": "Heckman",
+            "year": "2005",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70060-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1214/10-STS321",
+            "volume": "25",
+            "author": "Imai",
+            "year": "2010",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70060-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "467",
+            "DOI": "10.2307/2951620",
+            "volume": "62",
+            "author": "Imbens",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70060-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "555",
+            "DOI": "10.2307/2971731",
+            "volume": "64",
+            "author": "Imbens",
+            "year": "1997",
+            "journal-title": "The Review of Economic Studies"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70060-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1162/00335530151144113",
+            "volume": "116",
+            "author": "Katz",
+            "year": "2001",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70060-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "1795",
+            "DOI": "10.1093/qje/qjw027",
+            "volume": "131",
+            "author": "Kline",
+            "year": "2016",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70060-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kling, Jeffrey R., Jeffrey B. Liebman, Lawrence F. Katz, and Lisa Sanbonmatsu (2004), \u201cMoving to Opportunity and Tranquility: Neighborhood Effects on Adult Economic Self-Sufficiency and Health From a Randomized Housing Voucher Experiment.\u201d Working Paper 481, Princeton University.",
+            "DOI": "10.2139/ssrn.588942"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1111/j.1468-0262.2007.00733.x",
+            "volume": "75",
+            "author": "Kling",
+            "year": "2007",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70060-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1939",
+            "DOI": "10.3982/ECTA14269",
+            "volume": "86",
+            "author": "Lee",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "144",
+            "DOI": "10.1086/588741",
+            "volume": "114",
+            "author": "Ludwig",
+            "year": "2008",
+            "journal-title": "American Journal of Sociology"
+        },
+        {
+            "issue": "6101",
+            "key": "ecta70060-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1505",
+            "DOI": "10.1126/science.1224648",
+            "volume": "337",
+            "author": "Ludwig",
+            "year": "2012",
+            "journal-title": "Science"
+        },
+        {
+            "key": "ecta70060-bib-0032",
+            "first-page": "319",
+            "volume": "80",
+            "author": "Manski",
+            "year": "1990",
+            "journal-title": "American Economic Review Papers and Proceedings"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70060-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "1589",
+            "DOI": "10.3982/ECTA15463",
+            "volume": "86",
+            "author": "Mogstad",
+            "year": "2018",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "11",
+            "key": "ecta70060-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "3663",
+            "DOI": "10.1257/aer.20190221",
+            "volume": "111",
+            "author": "Mogstad",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "8",
+            "key": "ecta70060-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "2580",
+            "DOI": "10.1257/aer.20181756",
+            "volume": "112",
+            "author": "Mountjoy",
+            "year": "2022",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70060-bib-0036",
+            "unstructured": "Neyman, Jerzy (1990), \u201cOn the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9.\u201d Statistical Science, 465\u2013472. Orig. published in 1923."
+        },
+        {
+            "key": "ecta70060-bib-0037",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Orr, Larry (2011), \u201cMoving to Opportunity (MTO) for Fair Housing Demonstration: Interim Impacts Evaluation, Tier 1 Restricted Access Data, 1994\u20132001.\u201d",
+            "DOI": "10.3886/ICPSR31661.v1"
+        },
+        {
+            "key": "ecta70060-bib-0038",
+            "volume-title": "Moving to Opportunity Interim Impacts Evaluation",
+            "author": "Orr",
+            "year": "2003"
+        },
+        {
+            "key": "ecta70060-bib-0039",
+            "unstructured": "Pinto, Rodrigo (2021), \u201cBeyond Intention to Treat: Using the Incentives in Moving to Opportunity to Identify Neighborhood Effects.\u201d NBER Working Paper."
+        },
+        {
+            "key": "ecta70060-bib-0040",
+            "volume-title": "A User's Guide to Measure Theoretic Probability",
+            "volume": "8",
+            "author": "Pollard",
+            "year": "2002"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70060-bib-0042",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1037/h0037350",
+            "volume": "66",
+            "author": "Rubin",
+            "year": "1974",
+            "journal-title": "Journal of Educational Psychology"
+        },
+        {
+            "key": "ecta70060-bib-0043",
+            "unstructured": "Rudin, Walter (1991), Functional Analysis, McGraw-Hill, Inc, New York, 45, 46."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0044",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1093/biomtc/ujad037",
+            "volume": "80",
+            "author": "Rudolph",
+            "year": "2024",
+            "journal-title": "Biometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70060-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/ectj/utad019",
+            "volume": "27",
+            "author": "Singh",
+            "year": "2022",
+            "journal-title": "Econometrics Journal"
+        },
+        {
+            "key": "ecta70060-bib-0046",
+            "unstructured": "Smucler, Ezequiel, Andrea Rotnitzky, and James M. Robins (2019), \u201cA Unifying Approach for Doubly-Robust l_1 Regularized Estimation of Causal Contrasts.\u201d arXiv:1904.03737. arXiv preprint."
+        },
+        {
+            "issue": "476",
+            "key": "ecta70060-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "1607",
+            "DOI": "10.1198/016214505000001366",
+            "volume": "101",
+            "author": "Tan",
+            "year": "2006",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70060-bib-0048",
+            "unstructured": "Yamamoto, Teppei (2013), \u201cIdentification and Estimation of Causal Mediation Effects With Treatment Noncompliance.\u201d Unpublished Manuscript, MIT Department of Political Science."
+        },
+        {
+            "issue": "3\u20134",
+            "key": "ecta70060-bib-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "821",
+            "DOI": "10.1007/s00440-017-0771-3",
+            "volume": "170",
+            "author": "Zhai",
+            "year": "2018",
+            "journal-title": "Probability Theory and Related Fields"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2026-07-16T13:06:14Z",
+        "timestamp": 1784207174000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA23174"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 49,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA23174"
+    ],
+    "URL": "https://doi.org/10.3982/ecta23174",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
