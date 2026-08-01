@@ -1,0 +1,689 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                17
+            ]
+        ],
+        "date-time": "2026-07-17T01:32:31Z",
+        "timestamp": 1784251951197,
+        "version": "3.55.0"
+    },
+    "reference-count": 46,
+    "publisher": "The Econometric Society",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2026,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2026-01-01T00:00:00Z",
+                "timestamp": 1767225600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000879",
+            "name": "Alfred P. Sloan Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000879",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a \u201cdouble robustness\u201d property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short\u2010to\u2010moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.</jats:p>",
+    "DOI": "10.3982/ecta23345",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2026-07-16T13:05:52Z",
+        "timestamp": 1784207152000
+    },
+    "page": "1313-1343",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Double Robustness of Local Projections and Some Unpleasant VARithmetic"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Jos\u00e9 Luis",
+            "family": "Montiel Olea",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Cornell University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Mikkel",
+            "family": "Plagborg-M\u00f8ller",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, University of Chicago"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Eric",
+            "family": "Qian",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Princeton University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Christian K.",
+            "family": "Wolf",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, MIT"
+                },
+                {
+                    "name": "NBER"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1016/j.jeconom.2007.01.013",
+            "volume": "141",
+            "author": "Ai",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1111/j.1751-5823.2011.00131.x",
+            "volume": "79",
+            "author": "Alessi",
+            "year": "2011",
+            "journal-title": "International Statistical Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "77",
+            "DOI": "10.3982/QE1609",
+            "volume": "12",
+            "author": "Armstrong",
+            "year": "2021",
+            "journal-title": "Quantitative Economics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70056-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "2567",
+            "DOI": "10.3982/ECTA18597",
+            "volume": "90",
+            "author": "Armstrong",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "962",
+            "DOI": "10.1111/j.1541-0420.2005.00377.x",
+            "volume": "61",
+            "author": "Bang",
+            "year": "2005",
+            "journal-title": "Biometrics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "521",
+            "DOI": "10.3150/11-BEJ410",
+            "volume": "19",
+            "author": "Belloni",
+            "year": "2013",
+            "journal-title": "Bernoulli"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70056-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1016/0304-4076(93)90029-5",
+            "volume": "59",
+            "author": "Braun",
+            "year": "1993",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70056-bib-0008",
+            "series-title": "Springer Series in Statistics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-1-4419-0320-4",
+            "volume-title": "Time Series: Theory and Methods",
+            "author": "Brockwell",
+            "year": "1991",
+            "edition": "second edition"
+        },
+        {
+            "issue": "8",
+            "key": "ecta70056-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1337",
+            "DOI": "10.1016/j.jmoneco.2008.09.010",
+            "volume": "55",
+            "author": "Chari",
+            "year": "2008",
+            "journal-title": "Journal of Monetary Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "1501",
+            "DOI": "10.3982/ECTA16294",
+            "volume": "90",
+            "author": "Chernozhukov",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "875",
+            "DOI": "10.1214/07-AOS500",
+            "volume": "36",
+            "author": "Genovese",
+            "year": "2008",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta70056-bib-0013",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gonz\u00e1lez-Casas\u00fas, Oriol and Frank Schorfheide (2025), \u201cMisspecification-Robust Shrinkage and Selection for VAR Forecasts and IRFs.\u201d Technical Report 33474, National Bureau of Economic Research.",
+            "DOI": "10.3386/w33474"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "246",
+            "DOI": "10.2307/2345178",
+            "volume": "139",
+            "author": "Granger",
+            "year": "1976",
+            "journal-title": "Journal of the Royal Statistical Society. Series A (General)"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70056-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1251",
+            "DOI": "10.2307/1913827",
+            "volume": "46",
+            "author": "Hausman",
+            "year": "1978",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "105655",
+            "DOI": "10.1016/j.jeconom.2024.105655",
+            "volume": "240",
+            "author": "Herbst",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1111/1468-2354.t01-1-00016",
+            "volume": "43",
+            "author": "Inoue",
+            "year": "2002",
+            "journal-title": "International Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "450",
+            "DOI": "10.1016/j.jeconom.2019.10.001",
+            "volume": "215",
+            "author": "Inoue",
+            "year": "2020",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "161",
+            "DOI": "10.1257/0002828053828518",
+            "volume": "95",
+            "author": "Jord\u00e0",
+            "year": "2005",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "607",
+            "DOI": "10.1146/annurev-economics-082222-065846",
+            "volume": "15",
+            "author": "Jord\u00e0",
+            "year": "2023",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1092",
+            "DOI": "10.1257/aer.20190964",
+            "volume": "111",
+            "author": "K\u00e4nzig",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "218",
+            "DOI": "10.1162/003465398557465",
+            "volume": "80",
+            "author": "Kilian",
+            "year": "1998",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "1460",
+            "DOI": "10.1162/REST_a_00143",
+            "volume": "93",
+            "author": "Kilian",
+            "year": "2011",
+            "journal-title": "Review of Economics and Statistics"
+        },
+        {
+            "key": "ecta70056-bib-0024",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108164818",
+            "volume-title": "Structural Vector Autoregressive Analysis",
+            "author": "Kilian",
+            "year": "2017"
+        },
+        {
+            "issue": "01",
+            "key": "ecta70056-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1017/S0266466605050036",
+            "volume": "21",
+            "author": "Leeb",
+            "year": "2005",
+            "journal-title": "Econometric Theory"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0026",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jeconom.2024.105722",
+            "volume": "244",
+            "author": "Li",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0027",
+            "doi-asserted-by": "crossref",
+            "first-page": "345",
+            "DOI": "10.1016/0165-1765(84)90009-0",
+            "volume": "14",
+            "author": "L\u00fctkepohl",
+            "year": "1984",
+            "journal-title": "Economics Letters"
+        },
+        {
+            "key": "ecta70056-bib-0028",
+            "series-title": "Wiley Series in Probability and Statistics",
+            "volume-title": "Matrix Differential Calculus With Applications in Statistics and Econometrics",
+            "author": "Magnus",
+            "year": "2007",
+            "edition": "third edition"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1789",
+            "DOI": "10.3982/ECTA18756",
+            "volume": "89",
+            "author": "Montiel Olea",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70056-bib-0030",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Montiel Olea, Jos\u00e9 Luis, Mikkel Plagborg-M\u00f8ller, Eric Qian, and Christian K. Wolf (2026a), \u201cSupplement to \u2018Double Robustness of Local Projections and Some Unpleasant VARithmetic\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA23345.",
+            "DOI": "10.3982/ECTA23345"
+        },
+        {
+            "key": "ecta70056-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "111",
+            "DOI": "10.1086/738945",
+            "volume": "40",
+            "author": "Montiel Olea",
+            "year": "2026",
+            "journal-title": "NBER Macroeconomics Annual"
+        },
+        {
+            "key": "ecta70056-bib-0032",
+            "doi-asserted-by": "crossref",
+            "unstructured": "M\u00fcller, Ulrich K. and James H. Stock (2011), \u201cForecasts in a Slightly Misspecified Finite Order VAR.\u201d Manuscript, Princeton University.",
+            "DOI": "10.3386/w16714"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70056-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1257/jep.32.3.59",
+            "volume": "32",
+            "author": "Nakamura",
+            "year": "2018",
+            "journal-title": "Journal of Economic Perspectives"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "955",
+            "DOI": "10.3982/ECTA17813",
+            "volume": "89",
+            "author": "Plagborg-M\u00f8ller",
+            "year": "2021",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70056-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1111/j.1467-9892.1990.tb00056.x",
+            "volume": "11",
+            "author": "Pope",
+            "year": "1990",
+            "journal-title": "Journal of Time Series Analysis"
+        },
+        {
+            "key": "ecta70056-bib-0036",
+            "first-page": "71",
+            "volume-title": "Handbook of Macroeconomics",
+            "volume": "2",
+            "author": "Ramey",
+            "year": "2016"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70056-bib-0037",
+            "first-page": "920",
+            "volume": "11",
+            "author": "Robins",
+            "year": "2001",
+            "journal-title": "Statistica Sinica"
+        },
+        {
+            "issue": "429",
+            "key": "ecta70056-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1080/01621459.1995.10476494",
+            "volume": "90",
+            "author": "Robins",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70056-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.2307/2532304",
+            "volume": "48",
+            "author": "Robins",
+            "year": "1992",
+            "journal-title": "Biometrics"
+        },
+        {
+            "issue": "450",
+            "key": "ecta70056-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "477",
+            "DOI": "10.1080/01621459.2000.10474224",
+            "volume": "95",
+            "author": "Robins",
+            "year": "2000",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70056-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "881",
+            "DOI": "10.1016/S1573-4412(84)02007-9",
+            "volume-title": "Handbook of Econometrics",
+            "volume": "2",
+            "author": "Rothenberg",
+            "year": "1984"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/j.jeconom.2004.08.009",
+            "volume": "128",
+            "author": "Schorfheide",
+            "year": "2005",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70056-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2307/1912017",
+            "volume": "48",
+            "author": "Sims",
+            "year": "1980",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70056-bib-0044",
+            "first-page": "415",
+            "volume-title": "Handbook of Macroeconomics",
+            "volume": "2",
+            "author": "Stock",
+            "year": "2016"
+        },
+        {
+            "issue": "610",
+            "key": "ecta70056-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "917",
+            "DOI": "10.1111/ecoj.12593",
+            "volume": "128",
+            "author": "Stock",
+            "year": "2018",
+            "journal-title": "Economic Journal"
+        },
+        {
+            "key": "ecta70056-bib-0046",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Xu, Ke-Li (2023), \u201cLocal Projection Based Inference Under General Conditions.\u201d Manuscript, Indiana University Bloomington.",
+            "DOI": "10.2139/ssrn.4318024"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                7,
+                16
+            ]
+        ],
+        "date-time": "2026-07-16T13:07:17Z",
+        "timestamp": 1784207237000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA23345"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 46,
+    "journal-issue": {
+        "issue": "4",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA23345"
+    ],
+    "URL": "https://doi.org/10.3982/ecta23345",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
