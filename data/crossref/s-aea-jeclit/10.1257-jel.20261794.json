@@ -1,0 +1,600 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                8,
+                31
+            ]
+        ],
+        "date-time": "2026-08-31T12:16:30Z",
+        "timestamp": 1788178590233,
+        "version": "build-2803163510"
+    },
+    "reference-count": 82,
+    "publisher": "American Economic Association",
+    "issue": "3",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "JEL"
+    ],
+    "published-print": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                1
+            ]
+        ]
+    },
+    "abstract": "<jats:p>The ongoing revolution in deep learning is reshaping research across many fields, including economics. Its effects are especially clear in solving dynamic economic models. These models often lack closed-form solutions, so economists have long relied on numerical methods such as value function iteration, perturbation, and projection techniques. Unfortunately, these approaches suffer from the curse of dimensionality, which makes global solutions computationally infeasible as the number of state variables increases. Deep learning offers a different approach: flexible tools that solve dynamic economic models by minimizing residuals in equilibrium conditions and that can handle high-dimensional problems. This development promises to broaden the scope of quantitative economics. I illustrate the approach using the neoclassical growth model. (JEL C45, C61, D83, O41)</jats:p>",
+    "DOI": "10.1257/jel.20261794",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                8,
+                31
+            ]
+        ],
+        "date-time": "2026-08-31T11:35:31Z",
+        "timestamp": 1788176131000
+    },
+    "page": "829-875",
+    "source": "Crossref",
+    "is-referenced-by-count": 0,
+    "title": [
+        "Deep Learning for Solving Economic Models"
+    ],
+    "prefix": "10.1257",
+    "volume": "64",
+    "author": [
+        {
+            "given": "Jes\u00fas",
+            "family": "Fern\u00e1ndez-Villaverde",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "University of Pennsylvania, NBER, and CEPR."
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "11",
+    "reference": [
+        {
+            "key": "p_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/2938299"
+        },
+        {
+            "key": "p_2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Aggarwal, Charu C. 2020. Linear Algebra and Optimization for Machine Learning: A Textbook. 1st ed. Springer.",
+            "DOI": "10.1007/978-3-030-40344-7_1"
+        },
+        {
+            "key": "p_3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Aggarwal, Charu C. 2023. Neural Networks and Deep Learning: A Textbook. 2nd ed. Springer.",
+            "DOI": "10.1007/978-3-031-29642-0"
+        },
+        {
+            "key": "p_4",
+            "unstructured": "Araujo, Douglas, Sebastian Doerr, Leonardo Gambacorta, and Bruno Tissot. 2024. \"Artificial Intelligence in Central Banking.\" Bank for International Settlements Bulletin 84."
+        },
+        {
+            "key": "p_5",
+            "first-page": "40",
+            "volume": "4",
+            "author": "Celisse Alain",
+            "year": "2010",
+            "journal-title": "Statistics Surveys"
+        },
+        {
+            "key": "p_6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Atashbar, Tohid, and Rui (Aruhan) Shi. 2022. \"Deep Reinforcement Learning: Emerging Trends in Macroeconomics and Future Prospects.\" IMF Working Paper 22/259.",
+            "DOI": "10.5089/9798400224713.001"
+        },
+        {
+            "key": "p_7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-economics-080217-053433"
+        },
+        {
+            "key": "p_8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA17434"
+        },
+        {
+            "key": "p_9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/iere.12575"
+        },
+        {
+            "key": "p_10",
+            "unstructured": "Azinovic, Marlon, and Jan Zemlicka. 2024. \"Intergenerational Consequences of Rare Disasters.\" Unpublished."
+        },
+        {
+            "key": "p_11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/18.256500"
+        },
+        {
+            "key": "p_12",
+            "unstructured": "Bellman, Richard. 1957. Dynamic Programming. Princeton University Press."
+        },
+        {
+            "key": "p_13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s42256-021-00365-4"
+        },
+        {
+            "key": "p_14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA12216"
+        },
+        {
+            "key": "p_15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Candler, Graham V. 2001. \"Finite-Difference Methods for Continuous-Time Dynamic Programming.\" In Computational Methods for the Study of Dynamic Economies, edited by by Ramond Marimon and Andrew Scott, 172-194. Oxford University Press.",
+            "DOI": "10.1093/0199248273.003.0008"
+        },
+        {
+            "key": "p_16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Chakraborty, Chiranjit, and Andreas Joseph. 2017. \"Machine Learning at Central Banks.\" Bank of England Working Paper 674.",
+            "DOI": "10.2139/ssrn.3031796"
+        },
+        {
+            "key": "p_17",
+            "first-page": "09368",
+            "volume": "2104",
+            "author": "Joseph Andreas",
+            "year": "2023",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_18",
+            "unstructured": "Covarrubias, Matias. 2023. \"Dynamic Oligopoly and Monetary Policy: A Deep Reinforcement Learning Approach.\" Unpublished."
+        },
+        {
+            "key": "p_19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF02551274"
+        },
+        {
+            "issue": "2",
+            "key": "p_20",
+            "first-page": "332",
+            "volume": "75",
+            "author": "Paul",
+            "year": "1985",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "p_21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1257/jel.20241733"
+        },
+        {
+            "key": "p_22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/07350015.1990.10509770"
+        },
+        {
+            "key": "p_23",
+            "unstructured": "Du, Simon, Jason Lee, Haochuan Li, Liwei Wang, and Xiyu Zhai. 2019. \"Gradient Descent Finds Global Minima of Deep Neural Networks.\" In Proceedings of the 36th International Conference on Machine Learning, Vol. 97, edited by Kamalika Chaudhuri and Ruslan Salakhutdinov, 1675-85. International Conference on Machine Learning."
+        },
+        {
+            "key": "p_24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/rfs/hhae043"
+        },
+        {
+            "issue": "1",
+            "key": "p_25",
+            "first-page": "1",
+            "volume": "71",
+            "author": "Feng Zhe",
+            "year": "2024",
+            "journal-title": "Journal of the ACM"
+        },
+        {
+            "key": "p_26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fern\u00e1ndez-Villaverde, Jes\u00fas. 2026. Data and Code for: \"Deep Learning for Solving Economic Models.\" American Economic Association; distributed by Inter-university Consortium for Political and Social Research. https://doi. org/10.3886/E246993V1.",
+            "DOI": "10.3386/w34250"
+        },
+        {
+            "key": "p_27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/ECTA18180"
+        },
+        {
+            "key": "p_28",
+            "author": "Marbet Jo\u00ebl",
+            "year": "2024",
+            "journal-title": "Journal of Econometrics 249 (C): 105819."
+        },
+        {
+            "key": "p_29",
+            "unstructured": "Fern\u00e1ndez-Villaverde, Jes\u00fas, Galo Nu\u00f1o, George Sorg-Langhans, and Maximilian Vogler. 2020. \"Solving High-Dimensional Dynamic Programming Problems Using Deep Learning.\" Unpublished."
+        },
+        {
+            "key": "p_30",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fern\u00e1ndez-Villaverde, Jes\u00fas, Juan Francisco Rubio-Ram\u00edrez, and Frank Schorfheide. 2016. \"Solution and Estimation Methods for DSGE Models.\" In Handbook of Macroeconomics, Vol. 2, edited by John B. Taylor and Harald Uhlig, 527-724. North-Holland.",
+            "DOI": "10.3386/w21862"
+        },
+        {
+            "key": "p_31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/restud/rdae011"
+        },
+        {
+            "key": "p_32",
+            "unstructured": "Fujimoto, Scott, David Meger, Doina Precup, Ofir Nachum, and Shixiang Shane Gu. 2022. \"Why Should I Trust You, Bellman? The Bellman Error Is a Poor Replacement for Value Error.\" In Proceedings of the 39th International Conference on Machine Learning, Vol. 162, edited by Kamalika Chaudhuri, Stefanie Jegelka, Le Song, Csaba Szepesvari, Gang Niu, and Sivan Sabato, 6918-43. International Conference on Machine Learning."
+        },
+        {
+            "key": "p_33",
+            "first-page": "21",
+            "year": "2021",
+            "journal-title": "Swiss Finance Institute Research Paper"
+        },
+        {
+            "key": "p_34",
+            "unstructured": "Gopalakrishna, Goutham, Zhouzhou Gu, and Jonathan Payne. 2024. \"Institutional Asset Pricing, Segmentation, and Inequality.\" Unpublished."
+        },
+        {
+            "key": "p_35",
+            "unstructured": "Gorodnichenko, Yuriy, Serguei Maliar, Christopher Naubert, and Lilia Maliar. 2020. \"Household Savings and Monetary Policy under Individual and Aggregate Stochastic Volatility.\" CEPR Discussion Paper 15614."
+        },
+        {
+            "key": "p_36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cam.2023.115667"
+        },
+        {
+            "key": "p_37",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gu, Zhouzhou, Mathieu Lauriere, Sebstian Merkel, and Jonathan Payne. 2024. \"Global Solutions to Master Equations for Continuous Time Heterogeneous Agent Macroeconomic Models.\" Preprint, SSRN. http://dx.doi. org/10.2139/ssrn.4871228.",
+            "DOI": "10.2139/ssrn.4871228"
+        },
+        {
+            "key": "p_38",
+            "first-page": "14377",
+            "volume": "2112",
+            "author": "Yang Yucheng",
+            "year": "2022",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_39",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. 2009. The Elements of Statistical Learning: Data Mining, Inference, and Prediction. Springer.",
+            "DOI": "10.1007/978-0-387-84858-7"
+        },
+        {
+            "key": "p_40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hinterlang, Natascha, and Alina T\u00e4nzer. 2021. \"Optimal Monetary Policy Using Reinforcement Learning.\" Deutsche Bundesbank Discussion Paper 51/2021.",
+            "DOI": "10.2139/ssrn.4025682"
+        },
+        {
+            "key": "p_41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0893-6080(89)90020-8"
+        },
+        {
+            "key": "p_42",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Huang, Ji. 2023. \"Breaking the Curse of Dimensionality in Heterogeneous-Agent Models: A Deep Learning-Based Probabilistic Approach.\" Preprint, SSRN. http://dx.doi.org/10.2139/ssrn.4649043.",
+            "DOI": "10.2139/ssrn.4649043"
+        },
+        {
+            "key": "p_43",
+            "first-page": "05664",
+            "volume": "2407",
+            "author": "Choi Seok Hoan",
+            "year": "2024",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_44",
+            "unstructured": "Judd, Kenneth L. 1998. Numerical Methods in Economics. MIT Press."
+        },
+        {
+            "key": "p_45",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kahou, Mahdi E., Jes\u00fas Fern\u00e1ndez-Villaverde, Sebastian Gomez-Cardona, Jesse Perla, and Jan Rosa. 2024. \"Spooky Boundaries at a Distance: Inductive Bias, Dynamic Models, and Behavioral Macro.\" NBER Working Paper 32850.",
+            "DOI": "10.3386/w32850"
+        },
+        {
+            "key": "p_46",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kahou, Mahdi Ebrahimi, Jes\u00fas Fern\u00e1ndez-Villaverde, Jesse Perla, and Arnav Sood. 2021. \"Exploiting Symmetry in High-Dimensional Dynamic Programming.\" NBER Working Paper 28981.",
+            "DOI": "10.3386/w28981"
+        },
+        {
+            "key": "p_47",
+            "unstructured": "Kase, Hanno, Leonardo Melosi, and Matthias Rottner. 2024. \"Estimating Nonlinear Heterogeneous Agent Models with Neural Networks.\" Warwick Economics Research Paper 1499."
+        },
+        {
+            "key": "p_48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kelly, Bryan T., and Dacheng Xiu. 2023. \"Financial Machine Learning.\" NBER Working Paper 31502.",
+            "DOI": "10.3386/w31502"
+        },
+        {
+            "key": "p_49",
+            "first-page": "7482",
+            "author": "Gal Yarin",
+            "year": "2018",
+            "journal-title": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition"
+        },
+        {
+            "key": "p_50",
+            "first-page": "08539",
+            "volume": "1905",
+            "author": "Lyons Terry",
+            "year": "2020",
+            "journal-title": "Preprint, arXiv. https://doi.org/10.48550/arXiv."
+        },
+        {
+            "key": "p_51",
+            "unstructured": "Kingma, Diederik P., and Jimmy Ba. 2017. \"Adam: A Method for Stochastic Optimization.\" Preprint, arXiv. https:// doi.org/10.48550/arXiv.1412.6980."
+        },
+        {
+            "key": "p_52",
+            "unstructured": "Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. 2012. \"ImageNet Classification with Deep Convolutional Neural Networks.\" In Advances in Neural Information Processing Systems, Vol. 25, edited by Peter Bartlett, Fernando Pereira, Christopher Burges, Leon Bottou, and Kilian Weinberger, 1097-105. Morgan Kaufmann Publishers, Inc."
+        },
+        {
+            "key": "p_53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jmoneco.2021.07.004"
+        },
+        {
+            "key": "p_54",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Marris, Luke, Ian Gemp, Thomas Anthony, Andrea Tacchetti, Siqi Liu, and Karl Tuyls. 2022. \"Turbocharging Solution Concepts: Solving NEs, CEs and CCEs with Neural Equilibrium Solvers.\" In Advances in Neural Information Processing Systems, Vol. 35, edited by S. Koyejo, S. Mohamed, A. Agarwal, D. Belgrave, K. Cho, and A. Oh, 5586-600. Curran Associates, Inc.",
+            "DOI": "10.52202/068431-0404"
+        },
+        {
+            "key": "p_55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF02478259"
+        },
+        {
+            "issue": "33",
+            "key": "p_56",
+            "first-page": "E7665",
+            "volume": "115",
+            "author": "Montanari Andrea",
+            "year": "2018",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "p_57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature14236"
+        },
+        {
+            "key": "p_58",
+            "unstructured": "Murphy, Kevin P. 2022. Probabilistic Machine Learning: An Introduction. MIT Press."
+        },
+        {
+            "key": "p_59",
+            "unstructured": "Murphy, Kevin P. 2023. Probabilistic Machine Learning: Advanced Topics. MIT Press."
+        },
+        {
+            "key": "p_60",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nagel, Stefan. 2021. Machine Learning in Asset Pricing. Princeton University Press.",
+            "DOI": "10.23943/princeton/9780691218700.001.0001"
+        },
+        {
+            "key": "p_61",
+            "unstructured": "Newell, Allen, Herbert A. Simon, and Cliff Shaw. 1956. Logic Theorist. Computer program. https://github.com/ theoremprover-museum/logic-theorist"
+        },
+        {
+            "key": "p_62",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Nu\u00f1o, Galo, Philipp Renner, and Simon Scheidegger. 2024. \"Monetary Policy with Persistent Supply Shocks.\" Preprint, SSRN. http://dx.doi.org/10.2139/ssrn.5005047.",
+            "DOI": "10.2139/ssrn.5005047"
+        },
+        {
+            "key": "p_63",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Payne, Jonathan, Adam Rebei, and Yucheng Yang. 2024. \"Deep Learning for Search and Matching Models.\" Unpublished.",
+            "DOI": "10.2139/ssrn.4768566"
+        },
+        {
+            "key": "p_64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11633-017-1054-2"
+        },
+        {
+            "key": "p_65",
+            "unstructured": "Prince, Simon J. D. 2023. Understanding Deep Learning. MIT Press."
+        },
+        {
+            "key": "p_66",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Redding, Stephen J. 2024. \"Spatial Economics.\" NBER Working Paper 33125.",
+            "DOI": "10.3386/w33125"
+        },
+        {
+            "key": "p_67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aoms/1177729586"
+        },
+        {
+            "key": "p_68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1037/h0042519"
+        },
+        {
+            "key": "p_69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/323533a0"
+        },
+        {
+            "key": "p_70",
+            "unstructured": "Russell, Stuart, and Peter Norvig. 2020. Artificial Intelligence: A Modern Approach. 4th ed. Pearson."
+        },
+        {
+            "key": "p_71",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sauzet, Maxime. 2021. \"Projection Methods via Neural Networks for Continuous-Time Models.\" Preprint, SSRN. http://dx.doi.org/10.2139/ssrn.3981838.",
+            "DOI": "10.2139/ssrn.3981838"
+        },
+        {
+            "key": "p_72",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jocs.2019.03.004"
+        },
+        {
+            "key": "p_73",
+            "first-page": "1",
+            "volume": "19",
+            "author": "Hoffer Elad",
+            "year": "2018",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "key": "p_74",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stokey, Nancy L., Robert E. Lucas Jr., and Edward C. Prescott. 1989. Recursive Methods in Economic Dynamics. Harvard University Press.",
+            "DOI": "10.2307/j.ctvjnrt76"
+        },
+        {
+            "key": "p_75",
+            "unstructured": "Sutton, Richard S., and Andrew G. Barto. 2018. Reinforcement Learning: An Introduction. 2nd ed. MIT Press."
+        },
+        {
+            "key": "p_76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/261166"
+        },
+        {
+            "key": "p_77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3982/QE1403"
+        },
+        {
+            "key": "p_78",
+            "unstructured": "Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. \"Attention Is All You Need.\" In Advances in Neural Information Processing Systems, Vol. 30, edited by I. Guyon, U. Von Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, and R. Garnett, 5998-6008. Neural Information Processing Systems Foundation, Inc."
+        },
+        {
+            "key": "p_79",
+            "unstructured": "Wilson, Andrew Gordon. 2025. \"Deep Learning Is Not So Mysterious or Different.\" Preprint, arXiv. https://doi. org/10.48550/arXiv.2503.02113."
+        },
+        {
+            "key": "p_80",
+            "unstructured": "Wooldridge, Michael. 2021. A Brief History of Artificial Intelligence: What It Is, Where We Are, and Where We Are Going. Flatiron Books."
+        },
+        {
+            "key": "p_81",
+            "unstructured": "Zhang, Aston, Zachary C. Lipton, Mu Li, and Alexander J. Smola. 2023. Dive into Deep Learning. Cambridge University Press."
+        },
+        {
+            "key": "p_82",
+            "unstructured": "Zheng, Alice, and Amanda Casari. 2018. Feature Engineering for Machine Learning: Principles and Techniques for Data Scientists. O'Reilly Media."
+        }
+    ],
+    "container-title": [
+        "Journal of Economic Literature"
+    ],
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.aeaweb.org/doi/pdf/10.1257/jel.20261794",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                8,
+                31
+            ]
+        ],
+        "date-time": "2026-08-31T11:35:41Z",
+        "timestamp": 1788176141000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.aeaweb.org/doi/10.1257/jel.20261794"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                1
+            ]
+        ]
+    },
+    "references-count": 82,
+    "journal-issue": {
+        "issue": "3",
+        "published-print": {
+            "date-parts": [
+                [
+                    2026,
+                    9,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1257/jel.20261794"
+    ],
+    "URL": "https://doi.org/10.1257/jel.20261794",
+    "relation": {},
+    "ISSN": [
+        "0022-0515",
+        "2328-8175"
+    ],
+    "issn-type": [
+        {
+            "value": "0022-0515",
+            "type": "print"
+        },
+        {
+            "value": "2328-8175",
+            "type": "electronic"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                1
+            ]
+        ]
+    }
+}
