@@ -1,0 +1,450 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2026-09-18T17:33:58Z",
+        "timestamp": 1789752838166,
+        "version": "4.0.1"
+    },
+    "reference-count": 34,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "funder": [
+        {
+            "DOI": "10.13039/100015607",
+            "name": "Stanford Institute for Economic Policy Research",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100015607",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>\n                    Many events and policies (treatments) occur at specific spatial locations, with researchers interested in their effects on nearby units. I approach the\n                    <jats:italic>spatial treatment</jats:italic>\n                    setting from an experimental perspective: What ideal experiment would we design to estimate the causal effects of spatial treatments? This perspective motivates a comparison between units near realized treatment locations and units near counterfactual (unrealized) candidate locations, which differs from current empirical practice. I derive design\u2010based standard errors that are straightforward to compute. For observational data, I propose machine learning methods to find counterfactual candidate locations when observable characteristics, rather than potential outcomes, determine treatment probabilities. To accommodate methods for high\u2010dimensional data in the theory, I extend a double machine learning result to the design\u2010based framework with spatial correlations. I apply the proposed methods to study the causal effects of grocery stores on foot traffic to nearby businesses during COVID\u201019 shelter\u2010in\u2010place policies, finding a large positive effect at very short distances, with no effect at larger distances.\n                  </jats:p>",
+    "DOI": "10.3982/ecta21571",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                14
+            ]
+        ],
+        "date-time": "2026-09-14T11:53:17Z",
+        "timestamp": 1789386797000
+    },
+    "page": "1529-1561",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Causal Inference for Spatial Treatments"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Michael",
+            "family": "Pollmann",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Duke University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.3982/ECTA12675",
+            "volume": "88",
+            "author": "Abadie",
+            "year": "2020",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1093/qje/qjac038",
+            "volume": "138",
+            "author": "Abadie",
+            "year": "2023",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1111/obes.12325",
+            "volume": "82",
+            "author": "Bellemare",
+            "year": "2020",
+            "journal-title": "Oxford Bulletin of Economics and Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70062-bib-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "2369",
+            "DOI": "10.3982/ECTA9626",
+            "volume": "80",
+            "author": "Belloni",
+            "year": "2012",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70062-bib-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "2155",
+            "DOI": "10.3982/ECTA19367",
+            "volume": "91",
+            "author": "Borusyak",
+            "year": "2023",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70062-bib-0006",
+            "unstructured": "Chen, August, Franklin Qian, Qianyang Zhang, and Xiang Zhang (2023), \u201cIdentifying Agglomeration Spillovers: Evidence From Grocery Store Openings.\u201d https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6609758."
+        },
+        {
+            "issue": "2",
+            "key": "ecta70062-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "891",
+            "DOI": "10.1093/qje/qjad054",
+            "volume": "139",
+            "author": "Chen",
+            "year": "2024",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/S0304-4076(98)00084-0",
+            "volume": "92",
+            "author": "Conley",
+            "year": "1999",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70062-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "795",
+            "DOI": "10.1257/aer.91.4.795",
+            "volume": "91",
+            "author": "Duflo",
+            "year": "2001",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70062-bib-0011",
+            "unstructured": "Goodfellow, Ian (2016), \u201cNIPS 2016 Tutorial: Generative Adversarial Networks.\u201d arXiv preprint arXiv:1701.00160."
+        },
+        {
+            "key": "ecta70062-bib-0012",
+            "first-page": "2672",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "volume": "27",
+            "author": "Goodfellow",
+            "year": "2014"
+        },
+        {
+            "key": "ecta70062-bib-0013",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jue.2021.103422",
+            "volume": "129",
+            "author": "Gupta",
+            "year": "2022",
+            "journal-title": "Journal of Urban Economics"
+        },
+        {
+            "key": "ecta70062-bib-0014",
+            "first-page": "361",
+            "volume": "5",
+            "author": "H\u00e1jek",
+            "year": "1960",
+            "journal-title": "Publications of the Mathematical Institute of the Hungarian Academy of Sciences"
+        },
+        {
+            "key": "ecta70062-bib-0015",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/CBO9781139025751",
+            "volume-title": "Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction",
+            "author": "Imbens",
+            "year": "2015"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "86",
+            "DOI": "10.1016/j.jeconom.2009.02.009",
+            "volume": "150",
+            "author": "Jenish",
+            "year": "2009",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70062-bib-0017",
+            "first-page": "1097",
+            "volume": "25",
+            "author": "Krizhevsky",
+            "year": "2012",
+            "journal-title": "in Advances in Neural Information Processing Systems"
+        },
+        {
+            "issue": "520",
+            "key": "ecta70062-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1759",
+            "DOI": "10.1080/01621459.2017.1295865",
+            "volume": "112",
+            "author": "Li",
+            "year": "2017",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70062-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "1103",
+            "DOI": "10.1257/aer.98.3.1103",
+            "volume": "98",
+            "author": "Linden",
+            "year": "2008",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70062-bib-0020",
+            "unstructured": "Lotter, William, Gabriel Kreiman, and David Cox (2016), \u201cUnsupervised Learning of Visual Structure Using Predictive Generative Networks.\u201d arXiv preprint arXiv:1511.06380."
+        },
+        {
+            "key": "ecta70062-bib-0021",
+            "unstructured": "Mullahy, John and Edward C. Norton (2023), \u201cWhy Transform Y? The Pitfalls of Transformed Regressions With a Mass at Zero.\u201d Oxford Bulletin of Economics and Statistics."
+        },
+        {
+            "key": "ecta70062-bib-0022",
+            "unstructured": "Neyman, Jerzey (1923), \u201cOn the Application of Probability Theory to Agricultural Experiments. Essay on Principles. Section 9.\u201d Roczniki Nauk Rolniczych Tom X, 1\u201351. [In Polish]."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "215",
+            "DOI": "10.1016/j.jeconom.2006.09.008",
+            "volume": "140",
+            "author": "Pinkse",
+            "year": "2007",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "key": "ecta70062-bib-0024",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pollmann, Michael (2026), \u201cSupplement to \u2018Causal Inference for Spatial Treatments\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA21571SUPP.",
+            "DOI": "10.3982/ECTA21571"
+        },
+        {
+            "issue": "387",
+            "key": "ecta70062-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "565",
+            "DOI": "10.1080/01621459.1984.10478082",
+            "volume": "79",
+            "author": "Rosenbaum",
+            "year": "1984",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70062-bib-0026",
+            "unstructured": "SafeGraph (2021), \u201cWeekly Patterns and POI, July 2021 Release.\u201d Accessed 2021-07-22."
+        },
+        {
+            "key": "ecta70062-bib-0027",
+            "doi-asserted-by": "crossref",
+            "unstructured": "S\u00e4vje, Fredrik (2023), \u201cCausal Inference With Misspecified Exposure Mappings: Separating Definitions and Assumptions.\u201d Biometrika. asad019.",
+            "DOI": "10.1093/biomet/asad019"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70062-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "673",
+            "DOI": "10.1214/20-AOS1973",
+            "volume": "49",
+            "author": "S\u00e4vje",
+            "year": "2021",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "key": "ecta70062-bib-0029",
+            "first-page": "958",
+            "volume-title": "Seventh International Conference on Document Analysis and Recognition",
+            "volume": "3",
+            "author": "Simard",
+            "year": "2003"
+        },
+        {
+            "key": "ecta70062-bib-0030",
+            "series-title": "Cambridge Series in Statistical and Probabilistic Mathematics",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1017/9781108231596",
+            "volume-title": "High-Dimensional Probability: An Introduction With Applications in Data Science",
+            "volume": "47",
+            "author": "Vershynin",
+            "year": "2018"
+        },
+        {
+            "key": "ecta70062-bib-0031",
+            "volume-title": "High-Dimensional Statistics: A Non-Asymptotic Viewpoint",
+            "volume": "48",
+            "author": "Wainwright",
+            "year": "2019"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0032",
+            "first-page": "744",
+            "volume": "19",
+            "author": "Wang",
+            "year": "2025",
+            "journal-title": "The Annals of Applied Statistics"
+        },
+        {
+            "issue": "12",
+            "key": "ecta70062-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "3809",
+            "DOI": "10.1108/IJCHM-06-2020-0504",
+            "volume": "32",
+            "author": "Yang",
+            "year": "2020",
+            "journal-title": "International Journal of Contemporary Hospitality Management"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70062-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "109",
+            "DOI": "10.1214/19-STS749",
+            "volume": "36",
+            "author": "Zigler",
+            "year": "2021",
+            "journal-title": "Statistical Science"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2026-09-18T05:29:37Z",
+        "timestamp": 1789709377000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA21571"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 34,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA21571"
+    ],
+    "URL": "https://doi.org/10.3982/ecta21571",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
