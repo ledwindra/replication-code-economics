@@ -1,0 +1,570 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2026-09-18T17:37:15Z",
+        "timestamp": 1789753035328,
+        "version": "4.0.1"
+    },
+    "reference-count": 42,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>We study causal inference with high\u2010dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error\u2010in\u2010variable balancing weight for estimation and inference on cross\u2010sectional causal parameters with heterogeneous effects.</jats:p>",
+    "DOI": "10.3982/ecta23897",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                14
+            ]
+        ],
+        "date-time": "2026-09-14T11:53:17Z",
+        "timestamp": 1789386797000
+    },
+    "page": "1887-1906",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Anish",
+            "family": "Agarwal",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Industrial Engineering and Operations Research, Columbia University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Rahul",
+            "family": "Singh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Society of Fellows and Department of Economics, Harvard University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1257/000282803321455188",
+            "volume": "93",
+            "author": "Abadie",
+            "year": "2003",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "490",
+            "key": "ecta70074-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "493",
+            "DOI": "10.1198/jasa.2009.ap08746",
+            "volume": "105",
+            "author": "Abadie",
+            "year": "2010",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "171",
+            "DOI": "10.1257/aer.20170627",
+            "volume": "109",
+            "author": "Abowd",
+            "year": "2019",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "key": "ecta70074-bib-0004",
+            "unstructured": "Agarwal, Anish and Rahul Singh (2021), \u201cCausal Inference With Corrupted Data: Measurement Error, Missing Values, Discretization, and Differential Privacy.\u201d arXiv:2107.02780."
+        },
+        {
+            "key": "ecta70074-bib-0005",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Agarwal, Anish and Rahul Singh (2026), \u201cSupplement to \u2018Causal Inference With Noisy Covariates: Heteroscedastic Measurement Error and Differential Privacy\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA23897SUPP.",
+            "DOI": "10.3982/ECTA23897"
+        },
+        {
+            "issue": "117",
+            "key": "ecta70074-bib-0006",
+            "first-page": "1",
+            "volume": "26",
+            "author": "Agarwal",
+            "year": "2025",
+            "journal-title": "Journal of Machine Learning Research"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70074-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1093/ectj/utae014",
+            "volume": "27",
+            "author": "Arkhangelsky",
+            "year": "2024",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70074-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "597",
+            "DOI": "10.1111/rssb.12268",
+            "volume": "80",
+            "author": "Athey",
+            "year": "2018",
+            "journal-title": "Journal of the Royal Statistical Society Series B: Statistical Methodology"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70074-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "2121",
+            "DOI": "10.1257/aer.103.6.2121",
+            "volume": "103",
+            "author": "Autor",
+            "year": "2013",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "135",
+            "DOI": "10.1111/1468-0262.00392",
+            "volume": "71",
+            "author": "Bai",
+            "year": "2003",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "191",
+            "DOI": "10.1111/1468-0262.00273",
+            "volume": "70",
+            "author": "Bai",
+            "year": "2002",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70074-bib-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "1133",
+            "DOI": "10.1111/j.1468-0262.2006.00696.x",
+            "volume": "74",
+            "author": "Bai",
+            "year": "2006",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70074-bib-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "707",
+            "DOI": "10.1016/j.jeconom.2013.10.010",
+            "volume": "178",
+            "author": "Battistin",
+            "year": "2014",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70074-bib-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.1093/restud/rdt044",
+            "volume": "81",
+            "author": "Belloni",
+            "year": "2014",
+            "journal-title": "Review of Economic Studies"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70074-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "717",
+            "DOI": "10.1007/s10208-009-9045-5",
+            "volume": "9",
+            "author": "Cand\u00e8s",
+            "year": "2009",
+            "journal-title": "Foundations of Computational Mathematics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "177",
+            "DOI": "10.1214/14-AOS1272",
+            "volume": "43",
+            "author": "Chatterjee",
+            "year": "2015",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "C1",
+            "DOI": "10.1111/ectj.12097",
+            "volume": "21",
+            "author": "Chernozhukov",
+            "year": "2018",
+            "journal-title": "The Econometrics Journal"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70074-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "967",
+            "DOI": "10.3982/ECTA18515",
+            "volume": "90",
+            "author": "Chernozhukov",
+            "year": "2022",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70074-bib-0019",
+            "first-page": "414",
+            "volume-title": "AEA Papers and Proceedings",
+            "volume": "109",
+            "author": "Chetty",
+            "year": "2019"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70074-bib-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "1107",
+            "DOI": "10.1093/qje/qjy007",
+            "volume": "133",
+            "author": "Chetty",
+            "year": "2018",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0021",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1137/0707001",
+            "volume": "7",
+            "author": "Davis",
+            "year": "1970",
+            "journal-title": "SIAM Journal on Numerical Analysis"
+        },
+        {
+            "key": "ecta70074-bib-0022",
+            "first-page": "371",
+            "volume-title": "Symposium on Theory of Computing",
+            "author": "Dwork",
+            "year": "2009"
+        },
+        {
+            "key": "ecta70074-bib-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "265",
+            "DOI": "10.1007/11681878_14",
+            "volume-title": "Theory of Cryptography",
+            "author": "Dwork",
+            "year": "2006"
+        },
+        {
+            "key": "ecta70074-bib-0024",
+            "unstructured": "Feng, Yingjie (2020), \u201cCausal Inference in Possibly Nonlinear Factor Models.\u201d arXiv:2008.13651."
+        },
+        {
+            "issue": "3",
+            "key": "ecta70074-bib-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1016/0304-4076(91)90022-6",
+            "volume": "50",
+            "author": "Hausman",
+            "year": "1991",
+            "journal-title": "Journal of Econometrics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70074-bib-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "3206",
+            "DOI": "10.1214/21-AOS2080",
+            "volume": "49",
+            "author": "Hirshberg",
+            "year": "2021",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "31",
+            "key": "ecta70074-bib-0027",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1073/pnas.2104906119",
+            "volume": "119",
+            "author": "Hotz",
+            "year": "2022",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        },
+        {
+            "key": "ecta70074-bib-0028",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "volume": "31",
+            "author": "Kallus",
+            "year": "2018"
+        },
+        {
+            "key": "ecta70074-bib-0029",
+            "volume-title": "Advances in Neural Information Processing Systems",
+            "volume": "22",
+            "author": "Keshavan",
+            "year": "2009"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70074-bib-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "1548",
+            "DOI": "10.1214/aos/1176350609",
+            "volume": "15",
+            "author": "Klaassen",
+            "year": "1987",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70074-bib-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "1637",
+            "DOI": "10.1214/12-AOS1018",
+            "volume": "40",
+            "author": "Loh",
+            "year": "2012",
+            "journal-title": "The Annals of Statistics"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70074-bib-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1349",
+            "DOI": "10.2307/2951752",
+            "volume": "62",
+            "author": "Newey",
+            "year": "1994",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70074-bib-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "544",
+            "DOI": "10.1214/07-STS227D",
+            "volume": "22",
+            "author": "Robins",
+            "year": "2007",
+            "journal-title": "Statistical Science"
+        },
+        {
+            "issue": "429",
+            "key": "ecta70074-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "122",
+            "DOI": "10.1080/01621459.1995.10476494",
+            "volume": "90",
+            "author": "Robins",
+            "year": "1995",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70074-bib-0035",
+            "series-title": "Institute of Mathematical Statistics Collections",
+            "doi-asserted-by": "crossref",
+            "first-page": "276",
+            "DOI": "10.1214/12-IMSCOLL920",
+            "volume-title": "From Probability to Statistics and Back: High-Dimensional Models and Processes\u2014A Festschrift in Honor of Jon A. Wellner",
+            "volume": "9",
+            "author": "Rosenbaum",
+            "year": "2013"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "41",
+            "DOI": "10.1093/biomet/70.1.41",
+            "volume": "70",
+            "author": "Rosenbaum",
+            "year": "1983",
+            "journal-title": "Biometrika"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1111/j.1468-0262.2004.00477.x",
+            "volume": "72",
+            "author": "Schennach",
+            "year": "2004",
+            "journal-title": "Econometrica"
+        },
+        {
+            "key": "ecta70074-bib-0038",
+            "first-page": "813",
+            "volume-title": "Symposium on Theory of Computing",
+            "author": "Smith",
+            "year": "2011"
+        },
+        {
+            "issue": "460",
+            "key": "ecta70074-bib-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1167",
+            "DOI": "10.1198/016214502388618960",
+            "volume": "97",
+            "author": "Stock",
+            "year": "2002",
+            "journal-title": "Journal of the American Statistical Association"
+        },
+        {
+            "key": "ecta70074-bib-0040",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/978-3-319-65304-4",
+            "volume-title": "Targeted Learning in Data Science",
+            "author": "Van der Laan",
+            "year": "2018"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70074-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1007/BF01932678",
+            "volume": "12",
+            "author": "Wedin",
+            "year": "1972",
+            "journal-title": "BIT Numerical Mathematics"
+        },
+        {
+            "issue": "7",
+            "key": "ecta70074-bib-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "408",
+            "DOI": "10.1073/pnas.35.7.408",
+            "volume": "35",
+            "author": "Weyl",
+            "year": "1949",
+            "journal-title": "Proceedings of the National Academy of Sciences"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2026-09-18T05:31:46Z",
+        "timestamp": 1789709506000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA23897"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 42,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA23897"
+    ],
+    "URL": "https://doi.org/10.3982/ecta23897",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
