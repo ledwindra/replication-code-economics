@@ -1,0 +1,952 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2026-09-18T17:37:05Z",
+        "timestamp": 1789753025821,
+        "version": "4.0.1"
+    },
+    "reference-count": 84,
+    "publisher": "The Econometric Society",
+    "issue": "5",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2026,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2026-01-01T00:00:00Z",
+                "timestamp": 1767225600000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100003246",
+            "name": "Nederlandse Organisatie voor Wetenschappelijk Onderzoek",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/501100003246",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100006369",
+            "name": "George Mason University",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100006369",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        },
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "id": [
+                {
+                    "id": "10.13039/100000001",
+                    "id-type": "DOI",
+                    "asserted-by": "publisher"
+                }
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "short-container-title": [
+        "ECTA"
+    ],
+    "abstract": "<jats:p>Recent advances have substantially improved our ability to predict disease risk with genetic data. In response, many countries have banned insurers from using genetic data, despite concerns about adverse selection. This paper measures adverse selection in a market where insurers can underwrite only on nongenetic information while consumers also have access to genetic information. We do so by combining methods from quantitative genetics, selection measures from economic theory, and genetic and electronic health record data on nearly 500,000 individuals in the UK Biobank. We focus on the critical illness insurance market and consider scenarios in which consumers have access to current or expected future genetic prediction technology. We find noticeable levels of selection with current prediction technology, and potentially crippling selection with expected future technology.</jats:p>",
+    "DOI": "10.3982/ecta24284",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                14
+            ]
+        ],
+        "date-time": "2026-09-14T11:53:17Z",
+        "timestamp": 1789386797000
+    },
+    "page": "1817-1848",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": [
+        "Genetic Prediction and Adverse Selection"
+    ],
+    "prefix": "10.3982",
+    "volume": "94",
+    "author": [
+        {
+            "given": "Eduardo",
+            "family": "Azevedo",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "The Wharton School, University of Pennsylvania"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Jonathan P.",
+            "family": "Beauchamp",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Interdisciplinary Center for Economic Science and Department of Economics, George Mason University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        },
+        {
+            "given": "Richard",
+            "family": "Karlsson Linn\u00e9r",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Economics, Leiden University"
+                }
+            ],
+            "role": [
+                {
+                    "vocabulary": "crossref",
+                    "role": "author"
+                }
+            ]
+        }
+    ],
+    "member": "2359",
+    "published-online": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ecta70075-bib-0001",
+            "unstructured": "23andMe (2023), \u201cInformation About Genetic Health Risk Reports\u201423andMe.\u201d URL: https://www.23andme.org/shop/test-info/genetic-health/."
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0002",
+            "doi-asserted-by": "crossref",
+            "first-page": "179",
+            "DOI": "10.1016/j.ajhg.2022.12.011",
+            "volume": "110",
+            "author": "Abdellaoui",
+            "year": "2023",
+            "journal-title": "The American Journal of Human Genetics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "488",
+            "DOI": "10.2307/1879431",
+            "volume": "84",
+            "author": "Akerlof",
+            "year": "1970",
+            "journal-title": "Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70075-bib-0004",
+            "unstructured": "Allied Market Research (2022), \u201cCritical Illness Insurance Market.\u201d URL: https://www.alliedmarketresearch.com/critical-illness-insurance-market-A19460."
+        },
+        {
+            "key": "ecta70075-bib-0005",
+            "unstructured": "Association of British Insurers (2022), \u201cABI Guide to Minimum Standards for Critical Illness Cover.\u201d Technical report."
+        },
+        {
+            "key": "ecta70075-bib-0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Azevedo, Eduardo, Jonathan P. Beauchamp, and Richard Karlsson Linn\u00e9r (2026), \u201cSupplement to \u2018Genetic Prediction and Adverse Selection\u2019.\u201d Econometrica Supplemental Material, 94, https://doi.org/10.3982/ECTA24284SUPP.",
+            "DOI": "10.3982/ECTA24284"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70075-bib-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "768",
+            "DOI": "10.1016/j.jhealeco.2013.04.008",
+            "volume": "32",
+            "author": "Bardey",
+            "year": "2013",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1111/j.1467-9779.2009.01491.x",
+            "volume": "13",
+            "author": "Barigozzi",
+            "year": "2011",
+            "journal-title": "Journal of Public Economic Theory"
+        },
+        {
+            "issue": "12",
+            "key": "ecta70075-bib-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1744",
+            "DOI": "10.1038/s41562-021-01119-3",
+            "volume": "5",
+            "author": "Becker",
+            "year": "2021",
+            "journal-title": "Nature Human Behaviour"
+        },
+        {
+            "key": "ecta70075-bib-0010",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Benjamin, Daniel J., David Cesarini, Patrick Turley, and Alexander Strudwick Young (2024), \u201cSocial-Science Genomics: Progress, Challenges, and Future Directions.\u201d NBER Working Paper No. 32404.",
+            "DOI": "10.3386/w32404"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "133",
+            "DOI": "10.1057/s10713-020-00058-9",
+            "volume": "46",
+            "author": "Boyer",
+            "year": "2021",
+            "journal-title": "The Geneva Risk and Insurance Review"
+        },
+        {
+            "key": "ecta70075-bib-0012",
+            "volume-title": "Medical Selection of Life Risks",
+            "author": "Brackenridge",
+            "year": "2006",
+            "edition": "fifth edition"
+        },
+        {
+            "key": "ecta70075-bib-0013",
+            "unstructured": "Canadian Institute of Actuaries (2014), \u201cCanadian Individual Critical Illness Insurance Morbidity Experience Study.\u201d Report."
+        },
+        {
+            "key": "ecta70075-bib-0014",
+            "unstructured": "Cancer Research UK (2020), \u201cCancer types compared statistics.\u201d URL: https://www.cancerresearchuk.org/health-professional/cancer-statistics/statistics-by-cancer-type/cancer-types-compared."
+        },
+        {
+            "issue": "6",
+            "key": "ecta70075-bib-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "436",
+            "DOI": "10.1038/nrg1871",
+            "volume": "7",
+            "author": "Christensen",
+            "year": "2006",
+            "journal-title": "Nature Reviews Genetics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1017/thg.2021.18",
+            "volume": "24",
+            "author": "Zeeuw",
+            "year": "2021",
+            "journal-title": "Twin Research and Human Genetics"
+        },
+        {
+            "issue": "12",
+            "key": "ecta70075-bib-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "1102",
+            "DOI": "10.1038/nbt.2749",
+            "volume": "31",
+            "author": "Denny",
+            "year": "2013",
+            "journal-title": "Nature Biotechnology"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70075-bib-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1017/S1744133124000070",
+            "volume": "19",
+            "author": "Dixon",
+            "year": "2024",
+            "journal-title": "Health Economics, Policy and Law"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "83",
+            "DOI": "10.1016/0047-2727(95)01568-X",
+            "volume": "63",
+            "author": "Doherty",
+            "year": "1996",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta70075-bib-0020",
+            "unstructured": "Dorse, Kevin (2024), \u201cGot Questions About Critical Illness Insurance? CLHIA's Latest Consumer Guide Has Answers to Help You.\u201d Canadian Life & Health Insurance Association."
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0021",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pgen.1003348",
+            "volume": "9",
+            "author": "Dudbridge",
+            "year": "2013",
+            "journal-title": "PLoS Genetics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1162/qjec.2010.125.3.877",
+            "volume": "125",
+            "author": "Einav",
+            "year": "2010",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "key": "ecta70075-bib-0023",
+            "volume-title": "Risky Business: Why Insurance Markets Fail and What to Do About It",
+            "author": "Einav",
+            "year": "2023"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.1146/annurev.economics.050708.143254",
+            "volume": "2",
+            "author": "Einav",
+            "year": "2010",
+            "journal-title": "Annual Review of Economics"
+        },
+        {
+            "key": "ecta70075-bib-0025",
+            "volume-title": "Introduction to Quantitative Genetics",
+            "author": "Falconer",
+            "year": "1996",
+            "edition": "fourth edition"
+        },
+        {
+            "key": "ecta70075-bib-0026",
+            "unstructured": "Financial Services Council (2020), \u201cDetailed Data Reveals Top Causes of Claim for the Industry.\u201d Technical report, Financial Services Council."
+        },
+        {
+            "key": "ecta70075-bib-0027",
+            "unstructured": "Gallagher Re (2025), \u201cDemographics and Long-Term Care: How Insurers Can Turn a Coming Social Crisis Into an Opportunity to Help.\u201d Technical report, Gallagher Re, London."
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "255",
+            "DOI": "10.1111/rmir.12033",
+            "volume": "18",
+            "author": "Gatzert",
+            "year": "2015",
+            "journal-title": "Risk Management and Insurance Review"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0029",
+            "doi-asserted-by": "crossref",
+            "first-page": "1776",
+            "DOI": "10.1038/s41467-019-09718-5",
+            "volume": "10",
+            "author": "Ge",
+            "year": "2019",
+            "journal-title": "Nature Communications"
+        },
+        {
+            "key": "ecta70075-bib-0030",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1201/b16018",
+            "volume-title": "Bayesian Data Analysis",
+            "author": "Gelman",
+            "year": "2013",
+            "edition": "third edition"
+        },
+        {
+            "key": "ecta70075-bib-0031",
+            "unstructured": "Gen Re (2023a), \u201cInsights From Gen Re's Dread Disease Survey for the Hong Kong, Malaysia, and Singapore Markets.\u201d Technical report."
+        },
+        {
+            "key": "ecta70075-bib-0032",
+            "unstructured": "Gen Re (2023b), \u201cU.S. Critical Illness and Accident Insurance Market Survey: Highlights of 2022/2023 Results.\u201d Technical report, Gen Re, South Portland, URL: https://www.genre.com/content/dam/generalreinsuranceprogram/documents/surveylhci23-en.pdf."
+        },
+        {
+            "key": "ecta70075-bib-0033",
+            "unstructured": "Gen Re (2024), \u201cThe Key Elements of Critical Illness Definitions for Mental Health Disorders.\u201d URL: https://www.genre.com/us/knowledge/publications/2024/october/the-key-elements-of-critical-illness-definitions-for-mental-health-disorders-en."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "139",
+            "DOI": "10.1017/jme.2022.18",
+            "volume": "50",
+            "author": "Golinghorst",
+            "year": "2022",
+            "journal-title": "Journal of Law, Medicine & Ethics"
+        },
+        {
+            "issue": "8",
+            "key": "ecta70075-bib-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "2377",
+            "DOI": "10.1257/aer.20160868",
+            "volume": "111",
+            "author": "Gottlieb",
+            "year": "2021",
+            "journal-title": "American Economic Review"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70075-bib-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "1713",
+            "DOI": "10.3982/ECTA10931",
+            "volume": "81",
+            "author": "Hendren",
+            "year": "2013",
+            "journal-title": "Econometrica"
+        },
+        {
+            "issue": "12",
+            "key": "ecta70075-bib-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "2639",
+            "DOI": "10.1016/S0047-2727(02)00078-6",
+            "volume": "87",
+            "author": "Hindriks",
+            "year": "2003",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "253",
+            "DOI": "10.1016/S0167-6296(01)00112-6",
+            "volume": "21",
+            "author": "Hoel",
+            "year": "2002",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "key": "ecta70075-bib-0039",
+            "unstructured": "Howard, Robert C. W. (2016), \u201cGenetic Testing Model for CI: If Underwriters of Individual Critical Illness Insurance Had No Access to Known Results of Genetic Tests.\u201d Canadian Institute of Actuaries Report to CIA Research Committee."
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.1016/S0047-2727(99)00118-8",
+            "volume": "78",
+            "author": "Hoy",
+            "year": "2000",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70075-bib-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "575",
+            "DOI": "10.1038/ejhg.2013.228",
+            "volume": "22",
+            "author": "Joly",
+            "year": "2014",
+            "journal-title": "European Journal of Human Genetics"
+        },
+        {
+            "key": "ecta70075-bib-0042",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jhealeco.2021.102556",
+            "volume": "81",
+            "author": "Karlsson Linn\u00e9r",
+            "year": "2022",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "483",
+            "key": "ecta70075-bib-0043",
+            "doi-asserted-by": "crossref",
+            "first-page": "1028",
+            "DOI": "10.1198/016214508000000139",
+            "volume": "103",
+            "author": "Kimball",
+            "year": "2008",
+            "journal-title": "Journal of the American statistical Association"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "246",
+            "DOI": "10.1038/s41576-025-00900-8",
+            "volume": "27",
+            "author": "Kullo",
+            "year": "2026",
+            "journal-title": "Nature Reviews Genetics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.1038/s41588-018-0313-7",
+            "volume": "51",
+            "author": "Lakhani",
+            "year": "2019",
+            "journal-title": "Nature Genetics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "5672",
+            "DOI": "10.1038/s41467-023-41394-4",
+            "volume": "14",
+            "author": "Lee",
+            "year": "2023",
+            "journal-title": "Nature Communications"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "214",
+            "DOI": "10.1002/gepi.21614",
+            "volume": "36",
+            "author": "Lee",
+            "year": "2012",
+            "journal-title": "Genetic Epidemiology"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70075-bib-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "848",
+            "DOI": "10.1093/annonc/mdu525",
+            "volume": "26",
+            "author": "Louie",
+            "year": "2015",
+            "journal-title": "Annals of Oncology"
+        },
+        {
+            "key": "ecta70075-bib-0049",
+            "volume-title": "Genetics and Analysis of Quantitative Traits",
+            "author": "Lynch",
+            "year": "1998"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1111/j.1539-6975.2009.01342.x",
+            "volume": "77",
+            "author": "Macdonald",
+            "year": "2010",
+            "journal-title": "Journal of Risk and Insurance"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.2143/AST.36.2.2017924",
+            "volume": "36",
+            "author": "Macdonald",
+            "year": "2006",
+            "journal-title": "ASTIN Bulletin"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "373",
+            "DOI": "10.2143/AST.39.2.2044640",
+            "volume": "39",
+            "author": "Macdonald",
+            "year": "2009",
+            "journal-title": "ASTIN Bulletin"
+        },
+        {
+            "key": "ecta70075-bib-0053",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Markel, Gareth, Jonathan Beauchamp, Rafael Ahlskog, Joakim Coleman Ebeltoft, Ren\u00e9 M\u00f5ttus, Sven Oskarsson, Uku Vainik, and Eivind Ystrom (2025), \u201cNature, Nurture, and Socioeconomic Outcomes: New Evidence From sib Pairs and Molecular Genetic Data.\u201d Available at SSRN.",
+            "DOI": "10.2139/ssrn.5225447"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0054",
+            "doi-asserted-by": "crossref",
+            "first-page": "488",
+            "DOI": "10.1017/S1748499520000226",
+            "volume": "15",
+            "author": "Maxwell",
+            "year": "2021",
+            "journal-title": "Annals of Actuarial Science"
+        },
+        {
+            "key": "ecta70075-bib-0055",
+            "doi-asserted-by": "crossref",
+            "unstructured": "May-Wilson, Sebastian, Jiwoo Lee, Tomoko Nakanishi, Camiel van der Laan, Ioannis Louloudis, Kuang Lin, Stavroula Kanoni, Patrick Fahr, Anne Richmond, Chadi Saad et al. (2026), \u201cQuantifying the Contribution of Genetic Variation to Healthcare Expenditure Across Diverse Healthcare Systems.\u201d Available at medRxiv.",
+            "DOI": "10.64898/2026.07.14.26358031"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0056",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1080/0022250X.1975.9989847",
+            "volume": "4",
+            "author": "McKelvey",
+            "year": "1975",
+            "journal-title": "Journal of Mathematical Sociology"
+        },
+        {
+            "issue": "5",
+            "key": "ecta70075-bib-0057",
+            "doi-asserted-by": "crossref",
+            "first-page": "833",
+            "DOI": "10.1016/j.ajhg.2024.03.010",
+            "volume": "111",
+            "author": "Meyer",
+            "year": "2024",
+            "journal-title": "The American Journal of Human Genetics"
+        },
+        {
+            "key": "ecta70075-bib-0058",
+            "unstructured": "MyHeritage (2021), \u201cUnderstanding Your Polygenic Risk Reports.\u201d URL: https://education.myheritage.com/article/understanding-your-polygenic-risk-reports/."
+        },
+        {
+            "issue": "11\u201312",
+            "key": "ecta70075-bib-0059",
+            "doi-asserted-by": "crossref",
+            "first-page": "1041",
+            "DOI": "10.1016/j.jpubeco.2010.06.009",
+            "volume": "94",
+            "author": "Oster",
+            "year": "2010",
+            "journal-title": "Journal of Public Economics"
+        },
+        {
+            "key": "ecta70075-bib-0060",
+            "unstructured": "PartnerRe (2015), \u201cGrowth Potential of Critical Illness Insurance in Asia.\u201d Technical report, PartnerRe."
+        },
+        {
+            "key": "ecta70075-bib-0061",
+            "doi-asserted-by": "crossref",
+            "first-page": "95",
+            "DOI": "10.1016/j.jhealeco.2017.06.010",
+            "volume": "55",
+            "author": "Peter",
+            "year": "2017",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "508",
+            "key": "ecta70075-bib-0062",
+            "doi-asserted-by": "crossref",
+            "first-page": "327",
+            "DOI": "10.1111/j.1468-0297.2006.01059.x",
+            "volume": "116",
+            "author": "Polborn",
+            "year": "2006",
+            "journal-title": "The Economic Journal"
+        },
+        {
+            "key": "ecta70075-bib-0063",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1016/j.jhealeco.2021.102441",
+            "volume": "77",
+            "author": "Posey",
+            "year": "2021",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "8",
+            "key": "ecta70075-bib-0064",
+            "doi-asserted-by": "crossref",
+            "first-page": "904",
+            "DOI": "10.1038/ng1847",
+            "volume": "38",
+            "author": "Price",
+            "year": "2006",
+            "journal-title": "Nature Genetics"
+        },
+        {
+            "key": "ecta70075-bib-0065",
+            "unstructured": "Regalado, Antonio (2019), \u201cMore Than 26 Million People Have Taken an at-Home Ancestry Test.\u201d URL: https://www.technologyreview.com/2019/02/11/103446/more-than-26-million-people-have-taken-an-at-home-ancestry-test/."
+        },
+        {
+            "key": "ecta70075-bib-0066",
+            "unstructured": "RGA (2016), \u201cCritical Illness Insurance a Medical Perspective.\u201d Technical report, RGA: Reinsurance Group of America, URL: https://www.rgare.com/knowledge-center/article/reflections-critical-illness-insurance-a-medical-perspective."
+        },
+        {
+            "issue": "4",
+            "key": "ecta70075-bib-0067",
+            "doi-asserted-by": "crossref",
+            "first-page": "629",
+            "DOI": "10.2307/1885326",
+            "volume": "90",
+            "author": "Rothschild",
+            "year": "1976",
+            "journal-title": "The Quarterly Journal of Economics"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0068",
+            "doi-asserted-by": "crossref",
+            "first-page": "197",
+            "DOI": "10.1016/S0167-6296(99)00021-1",
+            "volume": "19",
+            "author": "Strohmenger",
+            "year": "2000",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "3",
+            "key": "ecta70075-bib-0069",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pmed.1001779",
+            "volume": "12",
+            "author": "Sudlow",
+            "year": "2015",
+            "journal-title": "PLoS Medicine"
+        },
+        {
+            "key": "ecta70075-bib-0070",
+            "unstructured": "Swiss Re Institute (2016), \u201cExpert Forum on Cancer Diagnostics Conference Report.\u201d, Technical report, Swiss Re Institute."
+        },
+        {
+            "key": "ecta70075-bib-0071",
+            "unstructured": "Swiss Re Institute (2017), \u201cSeeing the Future? How Genetic Testing Will Impact Life Insurance.\u201d Technical report, Swiss Re Institute."
+        },
+        {
+            "key": "ecta70075-bib-0072",
+            "unstructured": "Swiss Re Institute (2022), \u201cCritical Illness Insurance in China.\u201d Technical report, Swiss Re Institute, URL: https://www.swissre.com/institute/research/topics-and-risk-dialogues/china/critical-illness-insurance-in-china.html."
+        },
+        {
+            "key": "ecta70075-bib-0073",
+            "unstructured": "Swiss Re Institute (2024a), \u201cGenetic Testing in the Life & Health Insurance Industry.\u201d Technical report, Swiss Re Institute."
+        },
+        {
+            "key": "ecta70075-bib-0074",
+            "unstructured": "Swiss Re Institute (2024b), \u201cProtection for China's Ageing Society.\u201d Technical report, Swiss Re Institute, URL: https://www.swissre.com/institute/research/topics-and-risk-dialogues/china/protection-china-ageing-society.html."
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.1016/0167-6296(94)90005-1",
+            "volume": "13",
+            "author": "Tabarrok",
+            "year": "1994",
+            "journal-title": "Journal of Health Economics"
+        },
+        {
+            "issue": "1",
+            "key": "ecta70075-bib-0076",
+            "doi-asserted-by": "crossref",
+            "first-page": "102",
+            "DOI": "10.1377/hlthaff.2009.0525",
+            "volume": "29",
+            "author": "Taylor",
+            "year": "2010",
+            "journal-title": "Health Affairs"
+        },
+        {
+            "key": "ecta70075-bib-0077",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.7554/eLife.39856",
+            "volume": "8",
+            "author": "Timmers",
+            "year": "2019",
+            "journal-title": "eLife"
+        },
+        {
+            "issue": "6562",
+            "key": "ecta70075-bib-0078",
+            "doi-asserted-by": "crossref",
+            "first-page": "1468",
+            "DOI": "10.1126/science.abi8206",
+            "volume": "373",
+            "author": "Visscher",
+            "year": "2021",
+            "journal-title": "Science"
+        },
+        {
+            "issue": "7",
+            "key": "ecta70075-bib-0079",
+            "doi-asserted-by": "crossref",
+            "first-page": "565",
+            "DOI": "10.1038/ng.608",
+            "volume": "42",
+            "author": "Yang",
+            "year": "2010",
+            "journal-title": "Nature Genetics"
+        },
+        {
+            "issue": "7933",
+            "key": "ecta70075-bib-0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "704",
+            "DOI": "10.1038/s41586-022-05275-y",
+            "volume": "610",
+            "author": "Yengo",
+            "year": "2022",
+            "journal-title": "Nature"
+        },
+        {
+            "issue": "6",
+            "key": "ecta70075-bib-0081",
+            "doi-asserted-by": "crossref",
+            "first-page": "369",
+            "DOI": "10.1038/s41576-022-00465-w",
+            "volume": "23",
+            "author": "Yousefi",
+            "year": "2022",
+            "journal-title": "Nature Reviews Genetics"
+        },
+        {
+            "key": "ecta70075-bib-0082",
+            "doi-asserted-by": "crossref",
+            "first-page": "775",
+            "DOI": "10.1007/s13385-023-00345-5",
+            "volume": "13",
+            "author": "Zhao",
+            "year": "2023",
+            "journal-title": "European Actuarial Journal"
+        },
+        {
+            "issue": "4",
+            "key": "ecta70075-bib-0083",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1161/JAHA.124.039454",
+            "volume": "14",
+            "author": "Zhou",
+            "year": "2025",
+            "journal-title": "Journal of the American Heart Association"
+        },
+        {
+            "issue": "2",
+            "key": "ecta70075-bib-0084",
+            "doi-asserted-by": "crossref",
+            "first-page": "483",
+            "DOI": "10.1377/hlthaff.24.2.483",
+            "volume": "24",
+            "author": "Zick",
+            "year": "2005",
+            "journal-title": "Health Affairs"
+        }
+    ],
+    "container-title": [
+        "Econometrica"
+    ],
+    "original-title": [],
+    "language": "en",
+    "deposited": {
+        "date-parts": [
+            [
+                2026,
+                9,
+                18
+            ]
+        ],
+        "date-time": "2026-09-18T05:31:19Z",
+        "timestamp": 1789709479000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.econometricsociety.org/doi/10.3982/ECTA24284"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    },
+    "references-count": 84,
+    "journal-issue": {
+        "issue": "5",
+        "published-online": {
+            "date-parts": [
+                [
+                    2026
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.3982/ECTA24284"
+    ],
+    "URL": "https://doi.org/10.3982/ecta24284",
+    "relation": {},
+    "ISSN": [
+        "0012-9682"
+    ],
+    "issn-type": [
+        {
+            "value": "0012-9682",
+            "type": "print"
+        }
+    ],
+    "subject": [],
+    "published": {
+        "date-parts": [
+            [
+                2026
+            ]
+        ]
+    }
+}
